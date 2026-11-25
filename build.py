@@ -8,7 +8,7 @@ import html
 import json
 import re
 import shutil
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -138,6 +138,8 @@ table.list .prog{color:var(--muted);font-size:.92rem}
 .faq summary{font-weight:800;cursor:pointer}
 .faq p{margin:8px 0 0}
 .citylinks a{display:inline-block;margin:0 10px 8px 0;font-weight:700}
+.evlist{padding-left:18px}
+.evlist li{margin:6px 0}
 .b-none{color:#4a4e69;background:#ebe9f5}
 .noprog{margin-top:34px}
 .noprog ul{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
@@ -259,7 +261,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 </div></main>
 <footer class="site"><div class="wrap">
 <div class="logo">{LOGO}<span>Shelter<b>DayOut</b></span></div>
-<p><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/cities/">Browse by city</a></p>
+<p><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/cities/">Browse by city</a><a href="/events/">Adoption events</a></p>
 <p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License.</p>
@@ -527,6 +529,7 @@ def build_listings(rows):
 {contact_html(r)}<dt>Last checked</dt><dd>{esc(r['checked'])}</dd>
 </dl>
 {note}
+{f'<h2>Upcoming events</h2><ul class="evlist">{events_html(r, upcoming(r))}</ul>' if upcoming(r) else ""}
 <p>{req}{go}</p>
 {f'<p class="animal">Source: <a href="{esc(r["source"])}" rel="noopener nofollow" target="_blank">news coverage of this program</a></p>' if r.get("source") else ""}
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
@@ -537,7 +540,7 @@ def build_listings(rows):
             (f"{name} in {r['city']}, {r['state_name']} doesn't list a dog day out program yet. Ask them for one: we pass requests to the shelter every month."
              if r["status"] == NOPROG else
              f"Take a shelter dog out with {name} in {r['city']}, {r['state_name']}: {r['offers']}. Free. Rules, hours and how to sign up."),
-            body, f"/listings/{r['slug']}/", f'<script type="application/ld+json">{ld}</script>' + crumbs_ld([("Home", "/"), (r["state_name"], f"/states/{r['state_slug']}/"), (name, f"/listings/{r['slug']}/")])))
+            body, f"/listings/{r['slug']}/", f'<script type="application/ld+json">{ld}</script>' + "".join(f'<script type="application/ld+json">{json.dumps(event_ld(r, e))}</script>' for e in upcoming(r)) + crumbs_ld([("Home", "/"), (r["state_name"], f"/states/{r['state_slug']}/"), (name, f"/listings/{r['slug']}/")])))
 
 
 def build_cats(rows):
@@ -707,6 +710,58 @@ def build_static_pages(rows):
 
     write("/404.html", page(f"Page not found | {BRAND}", "Page not found.",
         f"""<h1>Page not found</h1><p class="lede">That page doesn't exist or has moved.</p><p><a class="btn" href="/">Find a shelter outing</a></p>""", "/404.html", canonical=False))
+
+
+def upcoming(r):
+    today = date.today().isoformat()
+    return sorted([e for e in r.get("events", []) if (e.get("end") or e.get("date", "")) >= today], key=lambda e: e["date"])
+
+
+def fmt_date(d):
+    try:
+        return datetime.strptime(d, "%Y-%m-%d").strftime("%a, %b %-d, %Y")
+    except Exception:
+        return d
+
+
+def event_ld(r, e):
+    return {"@context": "https://schema.org", "@type": "Event", "name": e["title"], "startDate": e["date"],
+            "endDate": e.get("end") or e["date"], "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {"@type": "Place", "name": e.get("place") or r["org"], "address": {"@type": "PostalAddress", "addressLocality": r["city"], "addressRegion": r["state"], "addressCountry": "US"}},
+            "organizer": {"@type": "Organization", "name": r["org"], "url": r.get("url") or SITE},
+            "url": e.get("url") or r.get("url") or SITE, "isAccessibleForFree": True}
+
+
+def events_html(r, evs):
+    return "".join(f'<li><b>{fmt_date(e["date"])}{(" – " + fmt_date(e["end"])) if e.get("end") and e["end"] != e["date"] else ""}</b> '
+                   f'{f"<a href=\"{esc(e["url"])}\" rel=\"noopener nofollow\" target=\"_blank\">{esc(e["title"])}</a>" if e.get("url") else esc(e["title"])}'
+                   f'{(" · " + esc(e["place"])) if e.get("place") else ""}</li>' for e in evs)
+
+
+def build_events(rows):
+    allev = []
+    for r in rows:
+        for e in upcoming(r):
+            allev.append((e["date"], r, e))
+    allev.sort(key=lambda x: x[0])
+    groups, cur = "", None
+    for d, r, e in allev:
+        m = d[:7]
+        if m != cur:
+            groups += ("</ul>" if cur else "") + f'<h2>{datetime.strptime(m, "%Y-%m").strftime("%B %Y")}</h2><ul class="evlist">'
+            cur = m
+        groups += f'<li><b>{fmt_date(e["date"])}</b> · <a href="/listings/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>'
+    if cur:
+        groups += "</ul>"
+    ld = "".join(f'<script type="application/ld+json">{json.dumps(event_ld(r, e))}</script>' for _, r, e in allev[:200])
+    body = f"""<h1>Upcoming shelter adoption events</h1>
+<p class="lede">{len(allev)} upcoming adoption events, open houses and fee-waived days at shelters nationwide. Dates come from each shelter's own website; confirm with the shelter before you go.</p>
+{groups or '<p>No upcoming events listed right now. Check back soon.</p>'}"""
+    write("/events/", page(f"Shelter Adoption Events Near You: {len(allev)} Upcoming Dates | {BRAND}",
+        f"Upcoming pet adoption events, open houses and fee-waived adoption days at {len({id(r) for _, r, _ in allev})} shelters nationwide. Updated monthly.",
+        body, "/events/", ld))
+    return allev
 
 
 def build_cities(progs):
@@ -916,6 +971,7 @@ def main():
     build_cats(progs)
     build_forms(rows)
     build_static_pages(rows)
+    build_events(rows)
     build_cities(progs)
     build_guides(progs)
     build_vets()

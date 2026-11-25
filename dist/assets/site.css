@@ -55,6 +55,8 @@ table.list .prog{color:var(--muted);font-size:.92rem}
 .faq summary{font-weight:800;cursor:pointer}
 .faq p{margin:8px 0 0}
 .citylinks a{display:inline-block;margin:0 10px 8px 0;font-weight:700}
+.evlist{padding-left:18px}
+.evlist li{margin:6px 0}
 .b-none{color:#4a4e69;background:#ebe9f5}
 .noprog{margin-top:34px}
 .noprog ul{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
