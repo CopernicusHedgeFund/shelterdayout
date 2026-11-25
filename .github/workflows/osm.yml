@@ -1,0 +1,23 @@
+name: Refresh OpenStreetMap shelters
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 1 * *"
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python tools/fetch_osm_shelters.py
+      - run: |
+          git config user.name "shelterdayout-bot"
+          git config user.email "hello@shelterdayout.com"
+          git add data/osm_shelters.json
+          git diff --cached --quiet || git commit -m "Refresh OpenStreetMap shelter data"
+          git push
