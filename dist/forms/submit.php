@@ -6,7 +6,9 @@ declare(strict_types=1);
 const SITE_EMAIL = 'hello@shelterdayout.com';
 const BRAND = 'ShelterDayOut';
 // Private log folder outside the web root (created if missing).
-$PRIVATE = dirname(__DIR__, 2) . '/sdo_private';
+// Keep logs outside every web root: prefer the account home (two levels above public_html/<domain>).
+$PRIVATE = dirname(__DIR__, 3) . '/sdo_private';
+if (!is_dir($PRIVATE) && !@mkdir($PRIVATE, 0700, true)) { $PRIVATE = dirname(__DIR__, 2) . '/sdo_private'; }
 
 function back(string $where): void { header('Location: /' . $where . '/', true, 303); exit; }
 function clean(string $k, int $max = 500): string {
