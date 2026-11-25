@@ -667,7 +667,7 @@ def build_assets(rows, optins):
     lookup = {}
     for r in rows:
         em = r.get("email_main") or (optins.get(r["slug"], {}) or {}).get("email", "")
-        lookup[r["slug"]] = {"org": r["org"], "city": r["city"], "state": r["state"], "email_main": em, "email_program": r.get("email_program", ""), "noprog": r["status"] == NOPROG}
+        lookup[r["slug"]] = {"org": r["org"], "city": r["city"], "state": r["state"], "email_main": em, "email_program": r.get("email_program", ""), "noprog": r["status"] == NOPROG, "url": r.get("url", ""), "source": r.get("source", "")}
     (DIST / "forms" / "listings.json").write_text(json.dumps(lookup))
     (DIST / "forms" / "optins.json").write_text(json.dumps(optins))
     (DIST / ".htaccess").write_text(
