@@ -4,14 +4,15 @@
   "city": "Albuquerque",
   "org": "City of Albuquerque Animal Welfare Department",
   "program": "Doggy Day Out",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.cabq.gov/pets/news/doggy-day-out-walk-a-shelter-dog-get-your-steps-in",
-  "notes": "Take an adoptable dog from a city shelter for a few hours or the whole day.",
+  "notes": "Take an adoptable AWD shelter dog out for a few hours or a full day; larger dogs especially encouraged. Must be 18+, complete a short application and dog-handling training. Start by emailing AWDVolunteer@cabq.gov. Kit and guide to dog-friendly spots provided.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": ""
+  "email_program": "AWDVolunteer@cabq.gov",
+  "email_main": "",
+  "source_list": ""
  },
  {
   "state": "NM",
@@ -101,12 +102,12 @@
  {
   "state": "NM",
   "city": "Albuquerque",
-  "org": "Lucky Paws",
+  "org": "Lucky Paws Adoption Center (City of Albuquerque Animal Welfare)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.cabq.gov/pets/shelters-rescue-groups/lucky-paws",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -356,13 +357,13 @@
  {
   "state": "NM",
   "city": "Albuquerque",
-  "org": "City of Albuquerque Animal Wellfare Department Westside Animal Service Center",
+  "org": "City of Albuquerque Animal Welfare Department - Westside Animal Shelter",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://www.cabq.gov/pets/animal-welfare-locations/westside-animal-shelter",
+  "notes": "AWD runs Doggy Day Out department-wide (see City of Albuquerque Animal Welfare Department row).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -403,5 +404,55 @@
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1340316276"
+ },
+ {
+  "state": "NM",
+  "city": "Albuquerque",
+  "org": "Animal Humane New Mexico",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://animalhumanenm.org/adopt",
+  "notes": "Main Campus, 615 Virginia St SE. No day-out program described on its site.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "Info@AnimalHumaneNM.org",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Fuzzy Friends Pet Supply and Pet Sitting Adoption Event",
+    "url": "https://animalhumanenm.org/event/fuzzy-friends-pet-supply-and-pet-sitting-adoption-event/",
+    "place": "Fuzzy Friends Pet Supply, 6521 Paradise Blvd NW D, Albuquerque"
+   },
+   {
+    "date": "2026-12-14",
+    "title": "Paws for a Claus with USBG Adoption and Pet Food Drive",
+    "url": "https://animalhumanenm.org/event/paws-for-a-claus-with-usbg-united-states-bartenders-guild-adoption-and-pet-food-drive/",
+    "place": "Dorothea Fine Greek, 5900 Eubank Blvd NE, Albuquerque"
+   },
+   {
+    "date": "2026-12-18",
+    "title": "AHNM Thrift Store Adoption Event",
+    "url": "https://animalhumanenm.org/event/ahnm-thrift-store-pop-up-adoption-event/",
+    "place": "Animal Humane Thrift Shop, 5341 Menaul Blvd NE, Albuquerque"
+   }
+  ]
+ },
+ {
+  "state": "NM",
+  "city": "Grants",
+  "org": "City of Grants Animal Care Center",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://grantsnm.gov/Departments/Animal-Care-Center",
+  "notes": "722 Sakelares Blvd. Mon-Fri 10am-4pm; adoption appointments available.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "animalcare@grantsnm.gov",
+  "source_list": "shelter website"
  }
 ]
