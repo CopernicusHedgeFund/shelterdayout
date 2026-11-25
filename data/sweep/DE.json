@@ -1,0 +1,47 @@
+[
+ {
+  "state": "DE",
+  "city": "New Castle",
+  "org": "Brandywine Valley SPCA",
+  "program": "Shelter Skip Day",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip (1 hour to all day)",
+  "url": "https://bvspca.org/shelter-skip-day",
+  "notes": "Open to the public at New Castle, Dover and Georgetown, DE. Stop by a campus to choose a dog.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": ""
+ },
+ {
+  "state": "DE",
+  "city": "Wilmington",
+  "org": "Humane Animal Partners",
+  "program": "Doggy Day Out",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip, hike",
+  "url": "https://www.humaneanimalpartners.org/volunteer/doggy-day-out/",
+  "notes": "Community members take adoptable dogs on hikes, walks and outings. Kids may join with prior notice.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": ""
+ },
+ {
+  "state": "DE",
+  "city": "Georgetown",
+  "org": "SPCA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "",
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "osm": "way/506266214"
+ }
+]

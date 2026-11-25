@@ -1,0 +1,16 @@
+[
+ {
+  "state": "DC",
+  "city": "Washington",
+  "org": "Humane Rescue Alliance",
+  "program": "Dog Field Trip Program",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://www.humanerescuealliance.org/field-trip-program",
+  "notes": "Fridays, for volunteers and the public. Pickup 9:30am-noon, drop-off ideally by 4pm.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": ""
+ }
+]

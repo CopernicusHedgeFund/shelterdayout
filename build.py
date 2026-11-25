@@ -63,6 +63,18 @@ def tag_types(offers):
 
 def load():
     rows = json.loads((ROOT / "data" / "listings.json").read_text())
+    # Per-state sweep files (data/sweep/XX.json) hold the full, revised list for that state and replace it.
+    sweep_dir = ROOT / "data" / "sweep"
+    if sweep_dir.exists():
+        for f in sorted(sweep_dir.glob("*.json")):
+            st = f.stem.upper()
+            try:
+                state_rows = json.loads(f.read_text())
+            except Exception as e:
+                print("WARNING: skipping bad sweep file", f, e)
+                continue
+            if isinstance(state_rows, list) and state_rows and all(r.get("state") == st for r in state_rows):
+                rows = [r for r in rows if r["state"] != st] + state_rows
     optins_path = ROOT / "data" / "optins.json"
     optins = json.loads(optins_path.read_text()) if optins_path.exists() else {}
     seen = set()
