@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shelteradoption.com/sitemap.xml

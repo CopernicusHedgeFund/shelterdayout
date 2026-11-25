@@ -3,3 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/pwycuxm0hcts/public_html/shelterdayout.com/
     - /bin/cp -R dist/. $DEPLOYPATH
+    - export ADOPTPATH=/home/pwycuxm0hcts/public_html/shelteradoption.com/
+    - /bin/mkdir -p $ADOPTPATH
+    - /bin/cp -R dist_adopt/. $ADOPTPATH

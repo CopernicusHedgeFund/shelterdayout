@@ -990,6 +990,8 @@ def main():
     build_sitemap()
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"Built {len(progs)} programs + {len(rows)-len(progs)} other shelters, {n} pages into {DIST}")
+    import build_adopt  # sister site shelteradoption.com, same data
+    build_adopt.main(rows)
 
 
 if __name__ == "__main__":
