@@ -441,6 +441,17 @@ def build_states(rows):
             body, f"/states/{slugify(name)}/"))
 
 
+def contact_html(r):
+    """Public shelter email, assembled in the browser so bots scraping the HTML don't harvest it."""
+    em = r.get("email_program") or r.get("email_main")
+    if not em or "@" not in em:
+        return ""
+    user, dom = em.split("@", 1)
+    return (f'<dt>Email</dt><dd><span class="em" data-u="{esc(user[::-1])}" data-d="{esc(dom[::-1])}">(enable JavaScript to see)</span>'
+            "<script>(function(){var e=document.currentScript.previousElementSibling;var a=e.dataset.u.split('').reverse().join('')+'@'+e.dataset.d.split('').reverse().join('');"
+            "e.innerHTML='<a href=\\'mailto:'+a+'\\'>'+a+'</a>';})();</script></dd>")
+
+
 def build_listings(rows):
     for r in rows:
         name = r["org"]
@@ -467,10 +478,11 @@ def build_listings(rows):
 {f"<dt>What you can do</dt><dd>{offers}</dd>" if offers else ""}
 <dt>Animals</dt><dd>{esc(r['animals'])}</dd>
 <dt>Location</dt><dd>{esc(r['city'])}, {r['state_name']}</dd>
-<dt>Last checked</dt><dd>{esc(r['checked'])}</dd>
+{contact_html(r)}<dt>Last checked</dt><dd>{esc(r['checked'])}</dd>
 </dl>
 {note}
 <p>{req}{go}</p>
+{f'<p class="animal">Source: <a href="{esc(r["source"])}" rel="noopener nofollow" target="_blank">news coverage of this program</a></p>' if r.get("source") else ""}
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
 <p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests.</p>"""
         write(f"/listings/{r['slug']}/", page(
