@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" role="img" aria-labelledby="t">
+<title id="t">Two shelter cats relaxing: one in a cardboard box, one playing with a ball of yarn</title>
+<rect x="0" y="200" width="420" height="60" rx="0" fill="#f3e2c4"/>
+<!-- window -->
+<rect x="250" y="20" width="140" height="110" rx="10" fill="#cfeee6" stroke="#fff" stroke-width="8"/>
+<line x1="320" y1="20" x2="320" y2="130" stroke="#fff" stroke-width="6"/><line x1="250" y1="75" x2="390" y2="75" stroke="#fff" stroke-width="6"/>
+<circle cx="360" cy="48" r="14" fill="#ffd166"/>
+<!-- box -->
+<path d="M40 130 L190 130 L180 220 L50 220Z" fill="#d9a066"/>
+<path d="M40 130 L10 105 L120 105 L150 130Z" fill="#e8b97f"/>
+<path d="M190 130 L215 104 L150 104 L120 130Z" fill="#c98d52"/>
+<text x="78" y="185" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="bold" fill="#8a5a2b">ADOPT ME</text>
+<!-- orange cat in box -->
+<g transform="translate(115 100)">
+ <path d="M-30 -28 L-22 -58 L-6 -36Z M30 -28 L22 -58 L6 -36Z" fill="#f4a259"/>
+ <circle cx="0" cy="-10" r="36" fill="#f4a259"/>
+ <path d="M-14 -16 q6 -6 12 0 M4 -16 q6 -6 12 0" stroke="#3b2a20" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <path d="M-4 -2 l4 4 l4 -4Z" fill="#ff8fa3"/>
+ <path d="M0 2 q-6 8 -12 4 M0 2 q6 8 12 4" stroke="#3b2a20" stroke-width="2" fill="none"/>
+ <g stroke="#3b2a20" stroke-width="1.5"><line x1="-18" y1="0" x2="-40" y2="-4"/><line x1="-18" y1="4" x2="-40" y2="8"/><line x1="18" y1="0" x2="40" y2="-4"/><line x1="18" y1="4" x2="40" y2="8"/></g>
+ <path d="M-20 -36 q4 8 0 14 M0 -42 q4 8 0 14 M20 -36 q4 8 0 14" stroke="#e08a3c" stroke-width="3" fill="none"/>
+</g>
+<!-- grey cat playing -->
+<g transform="translate(300 175)">
+ <path d="M50 10 q40 -10 30 -50" stroke="#6b7280" stroke-width="10" fill="none" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-6 50 10;8 50 10;-6 50 10" dur="1.4s" repeatCount="indefinite"/></path>
+ <ellipse cx="20" cy="12" rx="44" ry="26" fill="#6b7280"/>
+ <circle cx="-22" cy="-6" r="24" fill="#6b7280"/>
+ <path d="M-40 -18 L-38 -42 L-26 -26Z M-18 -28 L-6 -44 L-4 -20Z" fill="#6b7280"/>
+ <circle cx="-30" cy="-8" r="4" fill="#fff"/><circle cx="-14" cy="-8" r="4" fill="#fff"/><circle cx="-30" cy="-8" r="2" fill="#222"/><circle cx="-14" cy="-8" r="2" fill="#222"/>
+ <path d="M-25 2 l3 3 l3 -3" stroke="#ffb199" stroke-width="2" fill="none"/>
+ <rect x="-34" y="30" width="12" height="8" rx="4" fill="#555b6e"/><rect x="40" y="30" width="12" height="8" rx="4" fill="#555b6e"/>
+</g>
+<!-- yarn -->
+<g transform="translate(220 205)"><circle r="18" fill="#ff7a59"/><path d="M-14 -8 q14 10 28 0 M-16 4 q16 8 32 -2 M-8 -16 q6 14 4 32" stroke="#d65a3b" stroke-width="2" fill="none"/><path d="M18 4 q30 10 50 -6" stroke="#ff7a59" stroke-width="2" fill="none"/></g>
+</svg>

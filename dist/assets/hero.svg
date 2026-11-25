@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 380" role="img" aria-labelledby="t">
+<title id="t">A happy shelter dog in an Adopt Me bandana and a cat, out on an adventure under the sun</title>
+<!-- sky + sun -->
+<circle cx="455" cy="85" r="48" fill="#ffd166"/>
+<g stroke="#ffd166" stroke-width="6" stroke-linecap="round">
+<line x1="455" y1="18" x2="455" y2="4"/><line x1="522" y1="85" x2="538" y2="85"/><line x1="502" y1="38" x2="513" y2="27"/><line x1="502" y1="132" x2="513" y2="143"/><line x1="388" y1="85" x2="374" y2="85"/><line x1="408" y1="38" x2="397" y2="27"/>
+</g>
+<!-- clouds -->
+<g fill="#fff"><ellipse cx="120" cy="70" rx="44" ry="18"/><ellipse cx="150" cy="58" rx="30" ry="20"/><ellipse cx="300" cy="40" rx="34" ry="13"/><ellipse cx="322" cy="32" rx="20" ry="13"/></g>
+<!-- mountains -->
+<path d="M0 260 L110 140 L190 220 L290 110 L400 230 L470 170 L560 250 L560 380 L0 380Z" fill="#9fd3c7"/>
+<path d="M290 110 L320 144 L305 140 L290 152 L276 140 L262 144Z" fill="#fff"/>
+<path d="M110 140 L132 164 L118 160 L106 168 L96 158Z" fill="#fff"/>
+<!-- hills -->
+<path d="M0 300 Q140 240 280 290 T560 280 L560 380 L0 380Z" fill="#6cc3a0"/>
+<path d="M0 340 Q160 300 320 335 T560 330 L560 380 L0 380Z" fill="#4fae86"/>
+<!-- trail -->
+<path d="M250 380 Q300 330 380 320 Q440 312 470 292" stroke="#f3e2c4" stroke-width="22" fill="none" stroke-linecap="round"/>
+<!-- pine trees -->
+<g fill="#2f7d5b"><path d="M60 300 l18 -48 l18 48z"/><path d="M64 282 l14 -36 l14 36z"/><rect x="74" y="300" width="8" height="12" fill="#7a4b2a"/>
+<path d="M500 292 l16 -42 l16 42z"/><path d="M504 276 l12 -30 l12 30z"/><rect x="512" y="292" width="8" height="10" fill="#7a4b2a"/></g>
+<!-- DOG -->
+<g transform="translate(170 205)">
+ <!-- tail (wagging) -->
+ <path d="M150 40 q34 -30 30 -60" stroke="#c9844a" stroke-width="14" fill="none" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-8 150 40;10 150 40;-8 150 40" dur="0.6s" repeatCount="indefinite"/></path>
+ <!-- body -->
+ <ellipse cx="95" cy="60" rx="70" ry="42" fill="#e3a465"/>
+ <ellipse cx="95" cy="72" rx="46" ry="24" fill="#f6d7b0"/>
+ <!-- backpack -->
+ <rect x="70" y="16" width="56" height="40" rx="10" fill="#ff7a59"/><rect x="80" y="26" width="36" height="16" rx="5" fill="#ffb199"/>
+ <path d="M70 34 h-10 M126 34 h10" stroke="#d65a3b" stroke-width="6" stroke-linecap="round"/>
+ <!-- legs -->
+ <g fill="#c9844a"><rect x="42" y="88" width="18" height="36" rx="9"/><rect x="72" y="92" width="18" height="34" rx="9"/><rect x="112" y="92" width="18" height="34" rx="9"/><rect x="138" y="86" width="18" height="36" rx="9"/></g>
+ <!-- head -->
+ <g transform="translate(66 -6) scale(-1 1)">
+  <ellipse cx="22" cy="40" rx="20" ry="34" fill="#a8693a" transform="rotate(18 22 40)"/>
+  <circle cx="40" cy="36" r="40" fill="#e3a465"/>
+  <ellipse cx="74" cy="60" rx="26" ry="20" fill="#f6d7b0"/>
+  <ellipse cx="94" cy="54" rx="9" ry="7" fill="#3b2a20"/>
+  <circle cx="50" cy="26" r="6" fill="#3b2a20"/><circle cx="52" cy="24" r="2" fill="#fff"/>
+  <path d="M70 72 q10 8 20 0" stroke="#3b2a20" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M80 76 q4 14 10 2" fill="#ff8fa3"/>
+  <ellipse cx="8" cy="10" rx="16" ry="26" fill="#a8693a" transform="rotate(-30 8 10)"/>
+ </g>
+ <!-- bandana -->
+ <path d="M18 74 L72 70 L48 104Z" fill="#2a9d8f"/>
+ <text x="26" y="84" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="bold" fill="#fff" transform="rotate(-4 26 84)">ADOPT ME</text>
+</g>
+<!-- leash to person-less hand: a little heart instead -->
+<path d="M400 238 c-8 -14 -28 -6 -18 8 l18 16 l18 -16 c10 -14 -10 -22 -18 -8z" fill="#ff7a59"><animate attributeName="opacity" values="1;.4;1" dur="1.6s" repeatCount="indefinite"/></path>
+<!-- CAT on a rock -->
+<g transform="translate(430 262)">
+ <ellipse cx="40" cy="50" rx="52" ry="16" fill="#8aa39b"/>
+ <path d="M74 26 q30 -6 24 -34" stroke="#555b6e" stroke-width="9" fill="none" stroke-linecap="round"/>
+ <ellipse cx="44" cy="28" rx="34" ry="22" fill="#6b7280"/>
+ <circle cx="16" cy="6" r="20" fill="#6b7280"/>
+ <path d="M0 -6 L4 -26 L14 -12Z M22 -12 L30 -26 L34 -4Z" fill="#6b7280"/>
+ <path d="M6 4 q4 -3 8 0 M20 4 q4 -3 8 0" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+ <path d="M14 12 l3 3 l3 -3" stroke="#ffb199" stroke-width="2" fill="none"/>
+</g>
+<!-- paw prints on trail -->
+<g fill="#e6cfa6">
+ <g transform="translate(300 352) rotate(-30)"><ellipse cx="0" cy="0" rx="6" ry="5"/><circle cx="-6" cy="-7" r="2.4"/><circle cx="0" cy="-9" r="2.4"/><circle cx="6" cy="-7" r="2.4"/></g>
+ <g transform="translate(330 338) rotate(-20)"><ellipse cx="0" cy="0" rx="6" ry="5"/><circle cx="-6" cy="-7" r="2.4"/><circle cx="0" cy="-9" r="2.4"/><circle cx="6" cy="-7" r="2.4"/></g>
+</g>
+</svg>

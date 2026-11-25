@@ -78,85 +78,123 @@ def load():
 
 
 CSS = """
-:root{--ink:#1f2421;--muted:#5b625e;--line:#d9dcd6;--bg:#fbfaf7;--accent:#2f5d3a;--accent2:#9a5b1e;--soft:#eef2ec}
+:root{--ink:#2b2d42;--muted:#5c6178;--line:#eadfce;--bg:#fffaf2;--accent:#ff7a59;--accent-d:#e55d3c;--teal:#2a9d8f;--sun:#ffd166;--mint:#e6f6f0;--card:#fff}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-a{color:var(--accent)}
-a:hover{color:#1d3d25}
-h1,h2,h3{font-family:Georgia,"Times New Roman",serif;font-weight:normal;line-height:1.2;margin:0 0 .5em}
-h1{font-size:2.1rem}h2{font-size:1.5rem;margin-top:1.6em}h3{font-size:1.15rem}
-.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
-header.site{border-bottom:1px solid var(--line);background:#fff}
-header.site .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:60px;flex-wrap:wrap}
-.logo{font-family:Georgia,serif;font-size:1.35rem;color:var(--ink);text-decoration:none;letter-spacing:.2px}
-.logo b{color:var(--accent);font-weight:normal}
-nav.main a{color:var(--ink);text-decoration:none;margin-left:18px;font-size:.95rem}
-nav.main a:hover{color:var(--accent);text-decoration:underline}
-main{padding:28px 0 48px}
-.lede{font-size:1.1rem;color:var(--muted);max-width:720px}
-.hero{padding:18px 0 8px}
-.search{background:#fff;border:1px solid var(--line);padding:16px;margin:18px 0 8px}
-.search .row{display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end}
-.search label{font-size:.82rem;color:var(--muted);display:block;margin-bottom:4px}
-.search input[type=text],.search select{font:inherit;padding:9px 10px;border:1px solid #b9beb6;background:#fff;min-width:150px}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 "Nunito",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+a{color:var(--teal);font-weight:700}
+a:hover{color:#1f7a6f}
+h1,h2,h3{font-family:"Fredoka","Nunito",sans-serif;font-weight:600;line-height:1.15;margin:0 0 .45em;color:var(--ink)}
+h1{font-size:2.5rem}h2{font-size:1.65rem;margin-top:1.6em}h3{font-size:1.2rem}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+header.site{background:#fff;border-bottom:3px solid var(--sun)}
+header.site .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:66px;flex-wrap:wrap}
+.logo{display:flex;align-items:center;gap:8px;font-family:"Fredoka",sans-serif;font-weight:600;font-size:1.5rem;color:var(--ink);text-decoration:none}
+.logo b{color:var(--accent);font-weight:600}
+.logo svg{width:34px;height:34px}
+nav.main a{color:var(--ink);text-decoration:none;margin-left:6px;font-weight:700;font-size:.97rem;padding:7px 12px;border-radius:999px}
+nav.main a:hover{background:var(--mint);color:var(--teal)}
+main{padding:24px 0 56px}
+.lede{font-size:1.15rem;color:var(--muted);max-width:640px}
+.hero{display:grid;grid-template-columns:1.05fr 1fr;gap:28px;align-items:center;padding:14px 0 6px}
+.hero img{width:100%;height:auto;display:block}
+.hero h1 .hl{color:var(--accent)}
+.pills{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 0}
+.pills span{background:#fff;border:2px solid var(--line);border-radius:999px;padding:4px 12px;font-size:.88rem;font-weight:700;color:var(--muted)}
+.search{background:#fff;border:2px solid var(--line);border-radius:20px;padding:18px;margin:22px 0 8px;box-shadow:0 6px 0 #f3e6d2}
+.search .row{display:flex;gap:12px;flex-wrap:wrap;align-items:flex-end}
+.search label{font-size:.82rem;color:var(--muted);display:block;margin-bottom:4px;font-weight:700}
+.search input[type=text],.search select{font:inherit;font-size:.98rem;padding:10px 12px;border:2px solid #e2d6c3;border-radius:12px;background:#fff;min-width:150px}
+.search input[type=text]:focus,.search select:focus{outline:none;border-color:var(--teal)}
 .search input[type=text]{width:100%;min-width:220px}
 .search .row>div:first-child{flex:1 1 260px}
-.search .chk{font-size:.92rem;color:var(--ink);display:flex;align-items:center;gap:6px;margin:10px 0 0}
-.count{color:var(--muted);font-size:.92rem;margin:14px 0 6px}
-table.list{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line)}
-table.list th{text-align:left;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600;padding:10px 12px;border-bottom:1px solid var(--line);background:#f4f5f1}
-table.list td{padding:12px;border-bottom:1px solid var(--line);vertical-align:top}
-table.list tr:last-child td{border-bottom:0}
-table.list .org a{font-weight:600;text-decoration:none}
-table.list .org a:hover{text-decoration:underline}
+.search .chk{font-size:.95rem;color:var(--ink);display:flex;align-items:center;gap:8px;margin:12px 0 0;font-weight:700}
+.count{color:var(--muted);font-size:.95rem;margin:14px 4px 8px;font-weight:700}
+table.list{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:2px solid var(--line);border-radius:18px;overflow:hidden}
+table.list th{text-align:left;font-size:.76rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:800;padding:12px 14px;background:#fff3e2}
+table.list td{padding:14px;border-top:2px solid #f6eee1;vertical-align:top}
+table.list tbody tr:hover{background:#fffbf4}
+table.list .org a{font-size:1.04rem;text-decoration:none;color:var(--ink)}
+table.list .org a:hover{color:var(--accent)}
 table.list .prog{color:var(--muted);font-size:.92rem}
-.badge{display:inline-block;font-size:.76rem;padding:2px 7px;border:1px solid;white-space:nowrap}
-.b-open{color:#245c31;border-color:#9cc3a4;background:#eef6ef}
-.b-vol{color:#8a4b12;border-color:#e0bb92;background:#fbf2e8}
-.b-check{color:#6b5d10;border-color:#d9cd8a;background:#fbf8e6}
-.b-paused{color:#555;border-color:#bbb;background:#f1f1f1}
-.animal{font-size:.85rem;color:var(--muted)}
-.states{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:0;border-top:1px solid var(--line);border-left:1px solid var(--line);background:#fff;margin-top:10px}
-.states a{display:block;padding:14px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);text-decoration:none;color:var(--ink)}
-.states a:hover{background:var(--soft)}
-.states span{display:block;color:var(--muted);font-size:.88rem}
-.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:24px;margin-top:8px}
-.steps div{border-top:3px solid var(--accent);padding-top:10px}
-.steps b{font-family:Georgia,serif;font-weight:normal;font-size:1.1rem;display:block;margin-bottom:4px}
-.band{background:var(--soft);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:26px 0;margin:36px 0 0}
-.btn{display:inline-block;background:var(--accent);color:#fff!important;text-decoration:none;padding:10px 16px;border:0;font:inherit;cursor:pointer}
-.btn:hover{background:#244a2e}
-.btn.alt{background:#fff;color:var(--accent)!important;border:1px solid var(--accent)}
-dl.facts{display:grid;grid-template-columns:150px 1fr;gap:8px 16px;margin:18px 0;background:#fff;border:1px solid var(--line);padding:16px}
-dl.facts dt{color:var(--muted);font-size:.9rem}
+.badge{display:inline-block;font-size:.78rem;font-weight:800;padding:3px 10px;border-radius:999px;white-space:nowrap}
+.b-open{color:#1d6b4f;background:#d8f3e6}
+.b-vol{color:#9a4f12;background:#ffe7cf}
+.b-check{color:#7a6410;background:#fff2bf}
+.b-paused{color:#555;background:#eee}
+.animal{font-size:.88rem;color:var(--muted)}
+.ico{display:inline-block;vertical-align:-4px;width:20px;height:20px;margin-right:4px}
+.states{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.states a{display:flex;align-items:center;gap:10px;padding:12px 14px;border-radius:14px;background:#fff;border:2px solid var(--line);text-decoration:none;color:var(--ink)}
+.states a:hover{border-color:var(--accent);transform:translateY(-2px)}
+.states a.none{opacity:.55}
+.states svg{flex:0 0 22px;width:22px;height:22px}
+.states span{display:block;color:var(--muted);font-size:.82rem;font-weight:700}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin-top:10px}
+.steps div{background:#fff;border:2px solid var(--line);border-radius:20px;padding:20px}
+.steps .num{display:flex;width:52px;height:52px;border-radius:50%;align-items:center;justify-content:center;margin-bottom:10px}
+.steps .num svg{width:30px;height:30px}
+.steps b{font-family:"Fredoka",sans-serif;font-weight:600;font-size:1.2rem;display:block;margin-bottom:4px}
+.band{background:var(--teal);color:#fff;border-radius:24px;padding:28px;margin:40px 0 0;display:flex;gap:24px;align-items:center;flex-wrap:wrap;position:relative;overflow:hidden}
+.band h2{color:#fff;margin:0 0 6px}
+.band p{margin:0}
+.band .paws{position:absolute;right:-10px;bottom:-10px;opacity:.18;width:180px}
+.btn{display:inline-block;background:var(--accent);color:#fff!important;text-decoration:none;padding:12px 20px;border:0;border-radius:999px;font:inherit;font-weight:800;cursor:pointer;box-shadow:0 4px 0 var(--accent-d);transition:transform .1s}
+.btn:hover{transform:translateY(-2px)}
+.btn:active{transform:translateY(2px);box-shadow:0 2px 0 var(--accent-d)}
+.btn.alt{background:#fff;color:var(--teal)!important;box-shadow:0 4px 0 #cfe9e4;border:2px solid var(--teal)}
+.band .btn{background:var(--sun);color:var(--ink)!important;box-shadow:0 4px 0 #e0b23f}
+dl.facts{display:grid;grid-template-columns:160px 1fr;gap:10px 16px;margin:18px 0;background:#fff;border:2px solid var(--line);border-radius:18px;padding:18px}
+dl.facts dt{color:var(--muted);font-size:.9rem;font-weight:700}
 dl.facts dd{margin:0}
-.note{background:#fff;border-left:3px solid var(--accent2);padding:10px 14px;margin:16px 0}
-.crumbs{font-size:.88rem;color:var(--muted);margin-bottom:10px}
-.crumbs a{color:var(--muted)}
-form.std{background:#fff;border:1px solid var(--line);padding:18px;max-width:640px}
-form.std label{display:block;font-size:.9rem;margin:12px 0 4px}
-form.std input,form.std select,form.std textarea{width:100%;font:inherit;padding:9px 10px;border:1px solid #b9beb6;background:#fff}
+.note{background:#fff8e1;border-radius:14px;padding:12px 16px;margin:18px 0;border:2px dashed #f0d58a}
+.crumbs{font-size:.9rem;color:var(--muted);margin-bottom:10px}
+.crumbs a{color:var(--muted);font-weight:600}
+form.std{background:#fff;border:2px solid var(--line);border-radius:20px;padding:22px;max-width:660px}
+form.std label{display:block;font-size:.92rem;margin:12px 0 4px;font-weight:700}
+form.std input,form.std select,form.std textarea{width:100%;font:inherit;padding:10px 12px;border:2px solid #e2d6c3;border-radius:12px;background:#fff}
+form.std input:focus,form.std select:focus,form.std textarea:focus{outline:none;border-color:var(--teal)}
 form.std textarea{min-height:110px}
 form.std .hp{position:absolute;left:-5000px}
-form.std .fine{font-size:.82rem;color:var(--muted);margin-top:12px}
+form.std .fine{font-size:.84rem;color:var(--muted);margin-top:12px}
 .prose{max-width:740px}
-footer.site{border-top:1px solid var(--line);background:#fff;padding:24px 0;font-size:.9rem;color:var(--muted)}
-footer.site a{color:var(--muted);margin-right:16px}
+.art{max-width:420px;width:100%;height:auto;display:block;margin:6px 0 10px}
+.paw-divider{display:flex;gap:14px;justify-content:center;margin:34px 0 4px;opacity:.5}
+.paw-divider svg{width:20px;height:20px}
+footer.site{background:var(--ink);color:#cfd2e0;padding:30px 0;font-size:.92rem}
+footer.site a{color:#fff;margin-right:16px;font-weight:700}
+footer.site .logo{color:#fff;margin-bottom:10px}
 .hide{display:none}
+@media (max-width:820px){
+ .hero{grid-template-columns:1fr}
+ .hero img{max-width:460px;margin:0 auto}
+}
 @media (max-width:700px){
- h1{font-size:1.65rem}
- nav.main a{margin:0 14px 0 0}
+ h1{font-size:1.9rem}
+ nav.main{display:flex;flex-wrap:wrap;gap:2px}
+ nav.main a{margin:0;padding:6px 10px}
  table.list thead{display:none}
  table.list,table.list tbody,table.list tr,table.list td{display:block;width:100%}
- table.list tr{border-bottom:1px solid var(--line)}
- table.list td{border:0;padding:4px 12px}
- table.list td:first-child{padding-top:12px}
- table.list td:last-child{padding-bottom:12px}
+ table.list tr{border-top:2px solid #f6eee1}
+ table.list tr:first-child{border-top:0}
+ table.list td{border:0;padding:4px 14px}
+ table.list td:first-child{padding-top:14px}
+ table.list td:last-child{padding-bottom:14px}
  dl.facts{grid-template-columns:1fr}
  dl.facts dt{margin-top:6px}
 }
 """
+
+
+PAW = '<svg viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><ellipse cx="12" cy="16" rx="5.5" ry="4.5"/><circle cx="5.5" cy="10" r="2.4"/><circle cx="9.5" cy="6" r="2.4"/><circle cx="14.5" cy="6" r="2.4"/><circle cx="18.5" cy="10" r="2.4"/></g></svg>'
+ICONS = {
+ "day": '<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5" fill="#ffd166"/><g stroke="#f4a259" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2" x2="12" y2="4"/><line x1="12" y1="20" x2="12" y2="22"/><line x1="2" y1="12" x2="4" y2="12"/><line x1="20" y1="12" x2="22" y2="12"/><line x1="5" y1="5" x2="6.4" y2="6.4"/><line x1="17.6" y1="17.6" x2="19" y2="19"/><line x1="5" y1="19" x2="6.4" y2="17.6"/><line x1="17.6" y1="6.4" x2="19" y2="5"/></g></svg>',
+ "sleep": '<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 15A8 8 0 0 1 9 5a8 8 0 1 0 10 10z" fill="#7b8cde"/><circle cx="17" cy="5" r="1.2" fill="#ffd166"/><circle cx="21" cy="9" r="1" fill="#ffd166"/></svg>',
+ "hike": '<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 20 L9 8 L13 14 L16 10 L22 20Z" fill="#4fae86"/><path d="M9 8 L10.6 10.7 L7.4 10.7Z" fill="#fff"/></svg>',
+ "visit": '<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h12v6a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5z" fill="#ff7a59"/><path d="M16 11h2a2 2 0 0 1 0 4h-2" stroke="#ff7a59" stroke-width="2" fill="none"/><path d="M8 3c0 2 2 2 2 4M12 3c0 2 2 2 2 4" stroke="#c9a27e" stroke-width="1.5" fill="none" stroke-linecap="round"/></svg>',
+}
+LOGO = '<svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="20" fill="#ff7a59"/><g fill="#fff"><ellipse cx="20" cy="25" rx="7" ry="6"/><circle cx="11.5" cy="17" r="3"/><circle cx="16.5" cy="11.5" r="3"/><circle cx="23.5" cy="11.5" r="3"/><circle cx="28.5" cy="17" r="3"/></g></svg>'
+PAWROW = '<div class="paw-divider" style="color:#e2c9a4">' + PAW*5 + '</div>'
 
 
 def badge(status):
@@ -181,18 +219,21 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{BRAND}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700;800&display=swap">
 <link rel="stylesheet" href="/assets/site.css">
 {extra_head}
 </head>
 <body>
 <header class="site"><div class="wrap">
-<a class="logo" href="/">Shelter<b>DayOut</b></a>
+<a class="logo" href="/">{LOGO}<span>Shelter<b>DayOut</b></span></a>
 <nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/how-it-works/">How it works</a><a href="/for-shelters/">For shelters</a></nav>
 </div></header>
 <main><div class="wrap">
 {body}
+{PAWROW}
 </div></main>
 <footer class="site"><div class="wrap">
+<div class="logo">{LOGO}<span>Shelter<b>DayOut</b></span></div>
 <p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
@@ -216,7 +257,7 @@ def row_html(r, show_state=True):
     return f"""<tr data-state="{r['state']}" data-animals="{esc(r['animals'])}" data-types="{types}" data-status="{esc(r['status'])}" data-q="{esc((r['org']+' '+r['city']+' '+r['state_name']+' '+r['program']).lower())}">
 <td class="org"><a href="/listings/{r['slug']}/">{esc(r['org'])}</a><div class="prog">{esc(r['program'])}</div></td>
 <td>{loc}</td>
-<td>{esc(r['offers'])}<div class="animal">{esc(r['animals'])}</div></td>
+<td>{''.join(ICONS[t] for t in r['types'])}{esc(r['offers'])}<div class="animal">{esc(r['animals'])}</div></td>
 <td>{badge(r['status'])}</td>
 </tr>"""
 
@@ -281,17 +322,22 @@ def build_home(rows):
         by_state.setdefault(r["state"], []).append(r)
     open_n = sum(1 for r in rows if r["status"] == "Open to public")
     state_links = "".join(
-        f'<a href="/states/{slugify(STATES[s])}/">{STATES[s]}<span>{len(by_state.get(s, []))} program{"" if len(by_state.get(s, [])) == 1 else "s"}</span></a>'
+        f'<a class="{"" if by_state.get(s) else "none"}" href="/states/{slugify(STATES[s])}/" style="color:#ff7a59">{PAW}<div style="color:#2b2d42">{STATES[s]}<span>{len(by_state.get(s, []))} program{"" if len(by_state.get(s, [])) == 1 else "s"}</span></a>'
         for s in sorted(STATES, key=lambda k: STATES[k])
-    )
+    ).replace("</span></a>", "</span></div></a>")
     n_states = len([k for k in by_state if k != "DC"])
     ld = json.dumps({
         "@context": "https://schema.org", "@type": "WebSite", "name": BRAND, "url": SITE + "/",
         "potentialAction": {"@type": "SearchAction", "target": SITE + "/?q={search_term_string}", "query-input": "required name=search_term_string"},
     })
     body = f"""<section class="hero">
-<h1>Take a shelter dog out for the day.</h1>
-<p class="lede">Find animal shelters where you can take an adoptable dog on a day trip, a hike or a sleepover, or spend time with shelter cats. It's free, it helps animals get adopted, and every listing is checked monthly.</p>
+<div>
+<h1>Take a shelter dog out <span class="hl">for the day.</span></h1>
+<p class="lede">Hike, grab a pup cup, or host a sleepover with an adoptable dog, or spend time with shelter cats. It's free, it helps animals get adopted, and every listing is checked monthly.</p>
+<div class="pills"><span>{ICONS['day']}Day trips</span><span>{ICONS['sleep']}Sleepovers</span><span>{ICONS['hike']}Hikes</span><span>{ICONS['visit']}Cat lounges</span></div>
+<p style="margin-top:18px"><a class="btn" href="#find">Find an outing near you</a></p>
+</div>
+<img src="/assets/hero.svg" alt="A happy shelter dog in an Adopt Me bandana and a cat on an outdoor adventure" width="560" height="380">
 </section>
 <section id="find">
 {filters(True, by_state.keys())}
@@ -302,14 +348,11 @@ def build_home(rows):
 <p class="animal" style="margin-top:8px">{len(rows)} programs in {n_states} states and Washington, DC so far. We search every state each month and add new programs as shelters launch them. <a href="/suggest/">Know a shelter we're missing?</a></p>
 <h2>How it works</h2>
 <div class="steps">
-<div><b>1. Find a program</b>Search by city or state. {open_n} programs listed here are open to the public.</div>
-<div><b>2. Sign up with the shelter</b>Each listing links to the shelter's own sign-up page, rules and hours. Shelters make the match.</div>
-<div><b>3. Enjoy the day</b>Take the dog for a hike, a coffee or a nap on your couch. The photos you share help them get adopted.</div>
+<div><span class="num" style="background:#ffe7cf">{ICONS['hike'].replace('class="ico"','')}</span><b>1. Find a program</b>Search by city or state. {open_n} programs listed here are open to the public.</div>
+<div><span class="num" style="background:#d8f3e6">{PAW.replace('currentColor','#2a9d8f')}</span><b>2. Sign up with the shelter</b>Each listing links to the shelter's own sign-up page, rules and hours. Shelters make the match.</div>
+<div><span class="num" style="background:#fff2bf">{ICONS['day'].replace('class="ico"','')}</span><b>3. Enjoy the day</b>Take the dog for a hike, a coffee or a nap on your couch. The photos you share help them get adopted.</div>
 </div>
-<div class="band"><div class="wrap" style="padding:0">
-<h2 style="margin-top:0">Run a shelter?</h2>
-<p>Get listed for free, update your details, or start receiving outing requests from people near you. <a class="btn" href="/for-shelters/">For shelters</a></p>
-</div></div>
+<div class="band"><div style="flex:1 1 360px"><h2>Run a shelter?</h2><p>Get listed for free, update your details, or choose where outing requests go.</p></div><a class="btn" href="/for-shelters/">For shelters</a></div>
 {FILTER_JS}"""
     write("/", page(
         f"{BRAND}: Take a shelter dog out for the day",
@@ -389,6 +432,7 @@ def build_listings(rows):
 def build_cats(rows):
     cats = [r for r in rows if "Cats" in r["animals"]]
     body = f"""<h1>Spend time with shelter cats</h1>
+<img class="art" src="/assets/cats.svg" alt="Two shelter cats, one in a cardboard box and one playing with yarn" width="420" height="260">
 <div class="prose">
 <p class="lede">Cats don't usually go on outings. New places stress them out. But there are still great ways to give a shelter cat a break and help them get adopted.</p>
 <h2>Ways to help shelter cats</h2>
@@ -557,10 +601,10 @@ def build_static_pages(rows):
 def build_assets(rows, optins):
     (DIST / "assets").mkdir(parents=True, exist_ok=True)
     (DIST / "assets" / "site.css").write_text(CSS.strip() + "\n")
+    for f in (ROOT / "src" / "art").glob("*.svg"):
+        shutil.copy(f, DIST / "assets" / f.name)
     (DIST / "favicon.svg").write_text(
-        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#2f5d3a"/>'
-        '<circle cx="10" cy="11" r="3" fill="#fff"/><circle cx="16" cy="8.5" r="3" fill="#fff"/><circle cx="22" cy="11" r="3" fill="#fff"/>'
-        '<ellipse cx="16" cy="20" rx="7" ry="6" fill="#fff"/></svg>')
+        LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /forms/\nSitemap: {SITE}/sitemap.xml\n")
     today = date.today().isoformat()
     urls = ["/", "/cats/", "/how-it-works/", "/for-shelters/", "/suggest/", "/about/", "/terms/", "/privacy/"]
