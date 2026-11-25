@@ -167,7 +167,7 @@ form.std .fine{font-size:.84rem;color:var(--muted);margin-top:12px}
 footer.site{background:var(--ink);color:#cfd2e0;padding:30px 0;font-size:.92rem}
 footer.site a{color:#fff;margin-right:16px;font-weight:700}
 footer.site .logo{color:#fff;margin-bottom:10px}
-.hide{display:none}
+.hide,table.list tr.hide{display:none!important}
 @media (max-width:820px){
  .hero{grid-template-columns:1fr}
  .hero img{max-width:460px;margin:0 auto}
