@@ -4,7 +4,10 @@ import json, re
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 osm = json.loads((ROOT / "data" / "osm_shelters.json").read_text())["places"]
-L = json.loads((ROOT / "data" / "listings.json").read_text())
+SWEEP = ROOT / "data" / "sweep"
+L = []
+for f in sorted(SWEEP.glob("*.json")):
+    L += json.loads(f.read_text())
 SKIP = re.compile(r"wildlife|raptor|equine|horse|donkey|burro|bird|avian|parrot|reptile|turtle|tortoise|rabbit|bunny|guinea pig|ferret|farm animal|goat|pig sanctuary|livestock|bat |bats$|aquarium|marine|seal|zoo|veterinar|animal hospital|clinic|grooming|boarding|kennel club|daycare|day care|pet store|petsmart|petco|thrift|resale|store|office|admin", re.I)
 STOP = r"\b(the|inc|of|and|a|city|county|animal|animals|services|service|shelter|center|centre|society|humane|spca|care|control|adoption|pet|pets|rescue|league|department|dept|regional|friends|for|facility)\b"
 def norm(s):
@@ -43,5 +46,9 @@ for s in osm:
            "email_program": "", "email_main": tidy_email(s.get("email")), "phone": s.get("phone", ""),
            "source_list": "OpenStreetMap contributors (ODbL)", "osm": s.get("osm", "")}
     L.append(row); existing.setdefault(st, []).append((n, city.lower(), row)); added += 1
-(ROOT / "data" / "listings.json").write_text(json.dumps(L, indent=1))
+by = {}
+for r in L:
+    by.setdefault(r["state"], []).append(r)
+for st, rows in by.items():
+    (SWEEP / f"{st}.json").write_text(json.dumps(rows, indent=1))
 print(f"added {added}, already listed {skipped}, filtered {filtered}, total {len(L)}")
