@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>For shelters | ShelterDayOut</title>
+<meta name="description" content="List your shelter&#x27;s day-out, sleepover or cat program on ShelterDayOut for free, update your listing, or receive outing requests.">
+<link rel="canonical" href="https://shelterdayout.com/for-shelters/">
+<meta property="og:title" content="For shelters | ShelterDayOut">
+<meta property="og:description" content="List your shelter&#x27;s day-out, sleepover or cat program on ShelterDayOut for free, update your listing, or receive outing requests.">
+<meta property="og:url" content="https://shelterdayout.com/for-shelters/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ShelterDayOut">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css">
+
+</head>
+<body>
+<header class="site"><div class="wrap">
+<a class="logo" href="/">Shelter<b>DayOut</b></a>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/how-it-works/">How it works</a><a href="/for-shelters/">For shelters</a></nav>
+</div></header>
+<main><div class="wrap">
+<h1>For shelters</h1>
+<div class="prose"><p class="lede">ShelterDayOut is a free national directory that sends people to your day-out, field trip, sleepover and cat programs. Listing is free and always will be.</p>
+<h2>What you can do</h2>
+<p><b>Claim or update your listing.</b> Correct your hours, rules, fees or sign-up link, or ask us to remove it.</p>
+<p><b>Choose where outing requests go.</b> People can send outing requests from your listing. They go to your public email (and your program email, if you have one) with the person's contact details. Tell us a better address, or ask us to turn requests off. You approve, match and hand off the animal as you do today, under your own agreements and waivers. We never take bookings or payments.</p>
+<p><b>Add a program.</b> Starting a day-out program? Tell us and we'll list it.</p>
+<h2>Tell us about your shelter</h2></div>
+<form class="std" method="post" action="/forms/submit.php">
+<input type="hidden" name="form" value="shelter">
+<input type="hidden" name="listing" id="listing" value="">
+<div class="hp"><label>Leave this empty<input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+<label for="kind">What would you like to do?</label>
+<select id="kind" name="kind"><option value="claim">Claim or update our listing</option><option value="requests">Change where requests go</option><option value="stop">Stop outing requests</option><option value="add">Add our program</option><option value="remove">Remove our listing</option></select>
+<label for="org">Shelter or rescue name</label><input id="org" name="org" required maxlength="200">
+<label for="city">City and state</label><input id="city" name="city" required maxlength="120">
+<label for="name">Your name</label><input id="name" name="name" required maxlength="120">
+<label for="role">Your role</label><input id="role" name="role" maxlength="120" placeholder="e.g. Foster coordinator">
+<label for="email">Work email (where requests should go)</label><input id="email" name="email" type="email" required maxlength="200">
+<label for="phone">Phone (optional)</label><input id="phone" name="phone" maxlength="40">
+<label for="message">Program details or changes</label><textarea id="message" name="message" maxlength="4000" placeholder="Program name, what people can do, rules, sign-up link"></textarea>
+<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I work for or volunteer with this organization and can speak for it.</label>
+<p style="margin-top:16px"><button class="btn" type="submit">Send</button></p>
+<p class="fine">We use what you send only to respond to you and run ShelterDayOut. See our <a href="/privacy/">privacy policy</a>.</p>
+</form>
+<script>(function(){var u=new URLSearchParams(location.search),l=u.get('listing');if(l){document.getElementById('listing').value=l.replace(/[^a-z0-9-]/g,'');}var t=u.get('type'),s=document.getElementById('kind');if(t&&s){s.value=t;}})();</script>
+
+</div></main>
+<footer class="site"><div class="wrap">
+<p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
+<p>ShelterDayOut is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
+<p>ShelterDayOut is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; 2026 Charity Good</p>
+</div></footer>
+</body>
+</html>

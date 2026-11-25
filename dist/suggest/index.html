@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Suggest a shelter or report a problem | ShelterDayOut</title>
+<meta name="description" content="Tell ShelterDayOut about a shelter program we&#x27;re missing, or report outdated information on a listing.">
+<link rel="canonical" href="https://shelterdayout.com/suggest/">
+<meta property="og:title" content="Suggest a shelter or report a problem | ShelterDayOut">
+<meta property="og:description" content="Tell ShelterDayOut about a shelter program we&#x27;re missing, or report outdated information on a listing.">
+<meta property="og:url" content="https://shelterdayout.com/suggest/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ShelterDayOut">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css">
+
+</head>
+<body>
+<header class="site"><div class="wrap">
+<a class="logo" href="/">Shelter<b>DayOut</b></a>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/how-it-works/">How it works</a><a href="/for-shelters/">For shelters</a></nav>
+</div></header>
+<main><div class="wrap">
+<h1>Suggest a shelter or report a problem</h1>
+<div class="prose"><p class="lede">Know a shelter with a day-out, sleepover or cat program we're missing? Spot something out of date? Let us know and we'll check it.</p></div>
+<form class="std" method="post" action="/forms/submit.php">
+<input type="hidden" name="form" value="suggest">
+<input type="hidden" name="listing" id="listing" value="">
+<div class="hp"><label>Leave this empty<input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+<label for="kind">This is about</label>
+<select id="kind" name="kind"><option value="suggest">A shelter or program you're missing</option><option value="report">Out-of-date information on a listing</option><option value="wish">I wish there was a program near me</option></select>
+<label for="org">Shelter name (if you know it)</label><input id="org" name="org" maxlength="200">
+<label for="city">City and state</label><input id="city" name="city" required maxlength="120">
+<label for="message">Details</label><textarea id="message" name="message" required maxlength="4000" placeholder="A link to the program helps us check it faster"></textarea>
+<label for="email">Your email (optional, if you'd like a reply)</label><input id="email" name="email" type="email" maxlength="200">
+<p style="margin-top:16px"><button class="btn" type="submit">Send</button></p>
+<p class="fine">We use what you send only to respond to you and run ShelterDayOut. See our <a href="/privacy/">privacy policy</a>.</p>
+</form>
+<script>(function(){var u=new URLSearchParams(location.search),l=u.get('listing');if(l){document.getElementById('listing').value=l.replace(/[^a-z0-9-]/g,'');}var t=u.get('type'),s=document.getElementById('kind');if(t&&s){s.value=t;}})();</script>
+
+</div></main>
+<footer class="site"><div class="wrap">
+<p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
+<p>ShelterDayOut is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
+<p>ShelterDayOut is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; 2026 Charity Good</p>
+</div></footer>
+</body>
+</html>

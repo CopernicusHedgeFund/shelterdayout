@@ -1,0 +1,905 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ShelterDayOut: Take a shelter dog out for the day</title>
+<meta name="description" content="Find animal shelters where you can take an adoptable dog on a day trip, hike or sleepover, or visit shelter cats. Free directory, checked monthly.">
+<link rel="canonical" href="https://shelterdayout.com/">
+<meta property="og:title" content="ShelterDayOut: Take a shelter dog out for the day">
+<meta property="og:description" content="Find animal shelters where you can take an adoptable dog on a day trip, hike or sleepover, or visit shelter cats. Free directory, checked monthly.">
+<meta property="og:url" content="https://shelterdayout.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ShelterDayOut">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "ShelterDayOut", "url": "https://shelterdayout.com/", "potentialAction": {"@type": "SearchAction", "target": "https://shelterdayout.com/?q={search_term_string}", "query-input": "required name=search_term_string"}}</script>
+</head>
+<body>
+<header class="site"><div class="wrap">
+<a class="logo" href="/">Shelter<b>DayOut</b></a>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/how-it-works/">How it works</a><a href="/for-shelters/">For shelters</a></nav>
+</div></header>
+<main><div class="wrap">
+<section class="hero">
+<h1>Take a shelter dog out for the day.</h1>
+<p class="lede">Find animal shelters where you can take an adoptable dog on a day trip, a hike or a sleepover, or spend time with shelter cats. It's free, it helps animals get adopted, and every listing is checked monthly.</p>
+</section>
+<section id="find">
+<div class="search">
+<div class="row">
+<div style="flex:1"><label for="q">City, shelter or program</label><input type="text" id="q" placeholder="e.g. Austin, Pasadena Humane, sleepover"></div>
+<div><label for="f-state">State</label><select id="f-state"><option value="">All states</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select></div>
+<div><label for="f-animal">Animal</label><select id="f-animal"><option value="">Dogs and cats</option><option value="Dogs">Dogs</option><option value="Cats">Cats</option></select></div>
+<div><label for="f-type">Type</label><select id="f-type"><option value="">Any</option><option value="day">Day trip</option><option value="sleep">Sleepover or staycation</option><option value="hike">Hike or walk</option><option value="visit">Visit (cat lounge)</option></select></div>
+</div>
+<label class="chk"><input type="checkbox" id="f-public"> Open to the public only</label>
+</div>
+<p class="count" id="count"></p>
+<table class="list" id="results">
+<thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
+<tbody>
+<tr data-state="AK" data-animals="Dogs" data-types="hike" data-status="Needs check" data-q="anchorage animal care and control anchorage alaska tails on trails">
+<td class="org"><a href="/listings/anchorage-animal-care-and-control-anchorage/">Anchorage Animal Care and Control</a><div class="prog">Tails on Trails</div></td>
+<td>Anchorage, AK</td>
+<td>Hike, up to 48 hours<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="AK" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="city of valdez animal shelter valdez alaska doggy day out">
+<td class="org"><a href="/listings/city-of-valdez-animal-shelter-valdez/">City of Valdez Animal Shelter</a><div class="prog">Doggy Day Out</div></td>
+<td>Valdez, AK</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="AL" data-animals="Dogs" data-types="sleep" data-status="Open to public" data-q="shelby humane columbiana alabama weekend warrior">
+<td class="org"><a href="/listings/shelby-humane-columbiana/">Shelby Humane</a><div class="prog">Weekend Warrior</div></td>
+<td>Columbiana, AL</td>
+<td>Weekend or week-long stay<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="AL" data-animals="Dogs" data-types="day sleep" data-status="Needs check" data-q="troy animal rescue project troy alabama doggy day out">
+<td class="org"><a href="/listings/troy-animal-rescue-project-troy/">Troy Animal Rescue Project</a><div class="prog">Doggy Day Out</div></td>
+<td>Troy, AL</td>
+<td>Day trip, weekend<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="AR" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="best friends pet resource center bentonville arkansas dog day out">
+<td class="org"><a href="/listings/best-friends-pet-resource-center-bentonville/">Best Friends Pet Resource Center</a><div class="prog">Dog Day Out</div></td>
+<td>Bentonville, AR</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="AZ" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="arizona humane society phoenix arizona dog field trip">
+<td class="org"><a href="/listings/arizona-humane-society-phoenix/">Arizona Humane Society</a><div class="prog">Dog Field Trip</div></td>
+<td>Phoenix, AZ</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="AZ" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="maricopa county animal care &amp; control phoenix arizona tails around town">
+<td class="org"><a href="/listings/maricopa-county-animal-care-and-control-phoenix/">Maricopa County Animal Care &amp; Control</a><div class="prog">Tails Around Town</div></td>
+<td>Phoenix, AZ</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="AZ" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="foothills animal rescue scottsdale arizona doggy day out">
+<td class="org"><a href="/listings/foothills-animal-rescue-scottsdale/">Foothills Animal Rescue</a><div class="prog">Doggy Day Out</div></td>
+<td>Scottsdale, AZ</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="AZ" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="pima animal care center tucson arizona day trips &amp; pawjama parties">
+<td class="org"><a href="/listings/pima-animal-care-center-tucson/">Pima Animal Care Center</a><div class="prog">Day Trips &amp; Pawjama Parties</div></td>
+<td>Tucson, AZ</td>
+<td>Day trip, sleepover (1-3 nights)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="AZ" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="humane society of yuma yuma arizona dogs day out">
+<td class="org"><a href="/listings/humane-society-of-yuma-yuma/">Humane Society of Yuma</a><div class="prog">Dogs Day Out</div></td>
+<td>Yuma, AZ</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="AZ" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="tombstone small animal shelter tombstone arizona dog field trips &amp; outings">
+<td class="org"><a href="/listings/tombstone-small-animal-shelter-tombstone/">Tombstone Small Animal Shelter</a><div class="prog">Dog Field Trips &amp; Outings</div></td>
+<td>Tombstone, AZ</td>
+<td>Day trip (1-4 hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs &amp; Cats" data-types="day sleep" data-status="Open to public" data-q="elk grove animal shelter elk grove california doggy day out; sleepovers &amp; awaiting adoption">
+<td class="org"><a href="/listings/elk-grove-animal-shelter-elk-grove/">Elk Grove Animal Shelter</a><div class="prog">Doggy Day Out; Sleepovers &amp; Awaiting Adoption</div></td>
+<td>Elk Grove, CA</td>
+<td>Day trip; sleepover foster<div class="animal">Dogs &amp; Cats</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="pasadena humane pasadena california foster field trip &amp; doggy sleepover">
+<td class="org"><a href="/listings/pasadena-humane-pasadena/">Pasadena Humane</a><div class="prog">Foster Field Trip &amp; Doggy Sleepover</div></td>
+<td>Pasadena, CA</td>
+<td>Day trip, sleepover (1 to a few nights)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="mary s. roberts pet adoption center riverside california riverside rover / rover over">
+<td class="org"><a href="/listings/mary-s-roberts-pet-adoption-center-riverside/">Mary S. Roberts Pet Adoption Center</a><div class="prog">Riverside Rover / Rover Over</div></td>
+<td>Riverside, CA</td>
+<td>Afternoon outing, overnight<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="bradshaw animal shelter (sacramento county) sacramento california barks and recreation">
+<td class="org"><a href="/listings/bradshaw-animal-shelter-sacramento-county-sacramento/">Bradshaw Animal Shelter (Sacramento County)</a><div class="prog">Barks and Recreation</div></td>
+<td>Sacramento, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day sleep hike" data-status="Open to public" data-q="front street animal shelter (city of sacramento) sacramento california doggie day out / pups &amp; pjs / jog-a-dog">
+<td class="org"><a href="/listings/front-street-animal-shelter-city-of-sacramento-sacramento/">Front Street Animal Shelter (City of Sacramento)</a><div class="prog">Doggie Day Out / Pups &amp; PJs / Jog-A-Dog</div></td>
+<td>Sacramento, CA</td>
+<td>Day trip, sleepover, morning run<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="spca monterey county salinas california doggy day out &amp; pawjama parties">
+<td class="org"><a href="/listings/spca-monterey-county-salinas/">SPCA Monterey County</a><div class="prog">Doggy Day Out &amp; Pawjama Parties</div></td>
+<td>Salinas, CA</td>
+<td>Day trip, sleepover<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="san diego humane society san diego california dog day out">
+<td class="org"><a href="/listings/san-diego-humane-society-san-diego/">San Diego Humane Society</a><div class="prog">Dog Day Out</div></td>
+<td>San Diego, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Cats" data-types="visit" data-status="Open to public" data-q="the cat lounge rescue and adoption center san diego california cat lounge visits">
+<td class="org"><a href="/listings/the-cat-lounge-rescue-and-adoption-center-san-diego/">The Cat Lounge Rescue and Adoption Center</a><div class="prog">Cat lounge visits</div></td>
+<td>San Diego, CA</td>
+<td>Lounge visit<div class="animal">Cats</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="oc animal care tustin california dog&#x27;s day out">
+<td class="org"><a href="/listings/oc-animal-care-tustin/">OC Animal Care</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Tustin, CA</td>
+<td>Day trip (4 hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="sleep" data-status="Needs check" data-q="nkla pet adoption center (best friends) los angeles california sleepover buddies">
+<td class="org"><a href="/listings/nkla-pet-adoption-center-best-friends-los-angeles/">NKLA Pet Adoption Center (Best Friends)</a><div class="prog">Sleepover Buddies</div></td>
+<td>Los Angeles, CA</td>
+<td>Sleepover<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day sleep" data-status="Needs check" data-q="oakland animal services oakland california short-term foster">
+<td class="org"><a href="/listings/oakland-animal-services-oakland/">Oakland Animal Services</a><div class="prog">Short-term foster</div></td>
+<td>Oakland, CA</td>
+<td>Day trip, short-term foster<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="santa clara county animal shelter san martin california doggy day out">
+<td class="org"><a href="/listings/santa-clara-county-animal-shelter-san-martin/">Santa Clara County Animal Shelter</a><div class="prog">Doggy Day Out</div></td>
+<td>San Martin, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="santa barbara county animal services santa barbara california doggy day trip">
+<td class="org"><a href="/listings/santa-barbara-county-animal-services-santa-barbara/">Santa Barbara County Animal Services</a><div class="prog">Doggy Day Trip</div></td>
+<td>Santa Barbara, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="placer county animal services auburn california doggy day out">
+<td class="org"><a href="/listings/placer-county-animal-services-auburn/">Placer County Animal Services</a><div class="prog">Doggy Day Out</div></td>
+<td>Auburn, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="pets in need palo alto california doggy day out">
+<td class="org"><a href="/listings/pets-in-need-palo-alto/">Pets In Need</a><div class="prog">Doggy Day Out</div></td>
+<td>Palo Alto, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="tracy animal services tracy california doggy day out (friends of the tracy animal shelter)">
+<td class="org"><a href="/listings/tracy-animal-services-tracy/">Tracy Animal Services</a><div class="prog">Doggy Day Out (Friends of the Tracy Animal Shelter)</div></td>
+<td>Tracy, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="ukiah animal shelter ukiah california fido field trips">
+<td class="org"><a href="/listings/ukiah-animal-shelter-ukiah/">Ukiah Animal Shelter</a><div class="prog">Fido Field Trips</div></td>
+<td>Ukiah, CA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="CA" data-animals="Dogs" data-types="day sleep" data-status="Paused" data-q="humane society silicon valley milpitas california doggy day out">
+<td class="org"><a href="/listings/humane-society-silicon-valley-milpitas/">Humane Society Silicon Valley</a><div class="prog">Doggy Day Out</div></td>
+<td>Milpitas, CA</td>
+<td>Day trip, sleepover<div class="animal">Dogs</div></td>
+<td><span class="badge b-paused">Paused</span></td>
+</tr>
+<tr data-state="CO" data-animals="Cats" data-types="visit" data-status="Open to public" data-q="denver cat company (denver cat rescue) denver colorado cat café visits">
+<td class="org"><a href="/listings/denver-cat-company-denver-cat-rescue-denver/">Denver Cat Company (Denver Cat Rescue)</a><div class="prog">Cat café visits</div></td>
+<td>Denver, CO</td>
+<td>Café visit<div class="animal">Cats</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CO" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="teller county regional animal shelter (tcras) divide colorado doggy day out">
+<td class="org"><a href="/listings/teller-county-regional-animal-shelter-tcras-divide/">Teller County Regional Animal Shelter (TCRAS)</a><div class="prog">Doggy Day Out</div></td>
+<td>Divide, CO</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CO" data-animals="Dogs" data-types="hike" data-status="Open to public" data-q="second chance humane society ridgway colorado dogs day out">
+<td class="org"><a href="/listings/second-chance-humane-society-ridgway/">Second Chance Humane Society</a><div class="prog">Dogs Day Out</div></td>
+<td>Ridgway, CO</td>
+<td>Hike<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="CO" data-animals="Dogs &amp; Cats" data-types="sleep hike" data-status="Needs check" data-q="aspen animal shelter aspen colorado rent-a-pet">
+<td class="org"><a href="/listings/aspen-animal-shelter-aspen/">Aspen Animal Shelter</a><div class="prog">Rent-a-Pet</div></td>
+<td>Aspen, CO</td>
+<td>Walk or hike, up to a weekend<div class="animal">Dogs &amp; Cats</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CO" data-animals="Dogs" data-types="hike" data-status="Needs check" data-q="la plata county humane society durango colorado mutts in the mountains">
+<td class="org"><a href="/listings/la-plata-county-humane-society-durango/">La Plata County Humane Society</a><div class="prog">Mutts in the Mountains</div></td>
+<td>Durango, CO</td>
+<td>Group hike<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CO" data-animals="Dogs" data-types="hike" data-status="Needs check" data-q="roice-hurst humane society grand junction colorado pop-up pack walk">
+<td class="org"><a href="/listings/roice-hurst-humane-society-grand-junction/">Roice-Hurst Humane Society</a><div class="prog">Pop-Up Pack Walk</div></td>
+<td>Grand Junction, CO</td>
+<td>Group walk<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="CT" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="connecticut humane society newington connecticut pup scouts">
+<td class="org"><a href="/listings/connecticut-humane-society-newington/">Connecticut Humane Society</a><div class="prog">Pup Scouts</div></td>
+<td>Newington, CT</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="DC" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="humane rescue alliance washington district of columbia dog field trip program">
+<td class="org"><a href="/listings/humane-rescue-alliance-washington/">Humane Rescue Alliance</a><div class="prog">Dog Field Trip Program</div></td>
+<td>Washington, DC</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="DE" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="brandywine valley spca new castle delaware shelter skip day">
+<td class="org"><a href="/listings/brandywine-valley-spca-new-castle/">Brandywine Valley SPCA</a><div class="prog">Shelter Skip Day</div></td>
+<td>New Castle, DE</td>
+<td>Day trip (1 hour to all day)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="DE" data-animals="Dogs" data-types="day hike" data-status="Open to public" data-q="humane animal partners wilmington delaware doggy day out">
+<td class="org"><a href="/listings/humane-animal-partners-wilmington/">Humane Animal Partners</a><div class="prog">Doggy Day Out</div></td>
+<td>Wilmington, DE</td>
+<td>Day trip, hike<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs &amp; Cats" data-types="day sleep" data-status="Open to public" data-q="jacksonville humane society jacksonville florida dog day out / shelter staycation">
+<td class="org"><a href="/listings/jacksonville-humane-society-jacksonville/">Jacksonville Humane Society</a><div class="prog">Dog Day Out / Shelter Staycation</div></td>
+<td>Jacksonville, FL</td>
+<td>Day trip; multi-day staycation<div class="animal">Dogs &amp; Cats</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="spca florida lakeland florida doggie dates &amp; doggie overnights">
+<td class="org"><a href="/listings/spca-florida-lakeland/">SPCA Florida</a><div class="prog">Doggie Dates &amp; Doggie Overnights</div></td>
+<td>Lakeland, FL</td>
+<td>Day trip, 1-2 nights<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="miami-dade animal services miami florida pawventures foster field trips">
+<td class="org"><a href="/listings/miami-dade-animal-services-miami/">Miami-Dade Animal Services</a><div class="prog">Pawventures Foster Field Trips</div></td>
+<td>Miami, FL</td>
+<td>Day trip, 7 days a week<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="patty baker humane society naples florida rescue recess">
+<td class="org"><a href="/listings/patty-baker-humane-society-naples/">Patty Baker Humane Society</a><div class="prog">Rescue Recess</div></td>
+<td>Naples, FL</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="friends of strays st. petersburg florida doggy day out">
+<td class="org"><a href="/listings/friends-of-strays-st-petersburg/">Friends of Strays</a><div class="prog">Doggy Day Out</div></td>
+<td>St. Petersburg, FL</td>
+<td>Day trip (up to 2 hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Cats" data-types="visit" data-status="Open to public" data-q="cats &amp; caffeine (purrs &amp; whiskers inc.) tampa florida kitten lounge visits">
+<td class="org"><a href="/listings/cats-and-caffeine-purrs-and-whiskers-inc-tampa/">Cats &amp; Caffeine (Purrs &amp; Whiskers Inc.)</a><div class="prog">Kitten lounge visits</div></td>
+<td>Tampa, FL</td>
+<td>Lounge visit<div class="animal">Cats</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="spca of brevard titusville florida borrowed buddies">
+<td class="org"><a href="/listings/spca-of-brevard-titusville/">SPCA of Brevard</a><div class="prog">Borrowed Buddies</div></td>
+<td>Titusville, FL</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="palm beach county animal care &amp; control west palm beach florida doggie daycation">
+<td class="org"><a href="/listings/palm-beach-county-animal-care-and-control-west-palm-beach/">Palm Beach County Animal Care &amp; Control</a><div class="prog">Doggie Daycation</div></td>
+<td>West Palm Beach, FL</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs &amp; Cats" data-types="sleep" data-status="Needs check" data-q="humane society of manatee county bradenton florida sleepover program">
+<td class="org"><a href="/listings/humane-society-of-manatee-county-bradenton/">Humane Society of Manatee County</a><div class="prog">Sleepover Program</div></td>
+<td>Bradenton, FL</td>
+<td>Sleepover, up to 4 nights<div class="animal">Dogs &amp; Cats</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="justin bartlett animal rescue royal palm beach florida day outings">
+<td class="org"><a href="/listings/justin-bartlett-animal-rescue-royal-palm-beach/">Justin Bartlett Animal Rescue</a><div class="prog">Day outings</div></td>
+<td>Royal Palm Beach, FL</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="FL" data-animals="Dogs" data-types="day sleep" data-status="Volunteers only" data-q="broward county animal care fort lauderdale florida broward buddies">
+<td class="org"><a href="/listings/broward-county-animal-care-fort-lauderdale/">Broward County Animal Care</a><div class="prog">Broward Buddies</div></td>
+<td>Fort Lauderdale, FL</td>
+<td>Outings, sleepovers<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="GA" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="carroll county animal services carrollton georgia come over rover">
+<td class="org"><a href="/listings/carroll-county-animal-services-carrollton/">Carroll County Animal Services</a><div class="prog">Come Over Rover</div></td>
+<td>Carrollton, GA</td>
+<td>Day trip, weekend, longer stays<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="GA" data-animals="Dogs" data-types="day sleep hike" data-status="Open to public" data-q="animal ark rescue columbus georgia doggie date, sleepover &amp; dog hikes">
+<td class="org"><a href="/listings/animal-ark-rescue-columbus/">Animal Ark Rescue</a><div class="prog">Doggie Date, Sleepover &amp; Dog Hikes</div></td>
+<td>Columbus, GA</td>
+<td>Day trip, sleepover, monthly group hike<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="GA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="humane society of northeast georgia gainesville georgia expawditions">
+<td class="org"><a href="/listings/humane-society-of-northeast-georgia-gainesville/">Humane Society of Northeast Georgia</a><div class="prog">ExPAWditions</div></td>
+<td>Gainesville, GA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="GA" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="walker county animal shelter lafayette georgia doggy day out">
+<td class="org"><a href="/listings/walker-county-animal-shelter-lafayette/">Walker County Animal Shelter</a><div class="prog">Doggy Day Out</div></td>
+<td>LaFayette, GA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="HI" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="hawaiian humane society honolulu hawaii ʻīlio explorers">
+<td class="org"><a href="/listings/hawaiian-humane-society-honolulu/">Hawaiian Humane Society</a><div class="prog">ʻĪlio Explorers</div></td>
+<td>Honolulu, HI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="HI" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="kauai humane society lihue hawaii field trips for shelter dogs">
+<td class="org"><a href="/listings/kauai-humane-society-lihue/">Kauai Humane Society</a><div class="prog">Field Trips for Shelter Dogs</div></td>
+<td>Lihue, HI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="HI" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="oahu spca wahiawa hawaii doggy day trip">
+<td class="org"><a href="/listings/oahu-spca-wahiawa/">Oahu SPCA</a><div class="prog">Doggy Day Trip</div></td>
+<td>Wahiawa, HI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="HI" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="hawaii island humane society keaau hawaii field trips for shelter dogs">
+<td class="org"><a href="/listings/hawaii-island-humane-society-keaau/">Hawaii Island Humane Society</a><div class="prog">Field Trips For Shelter Dogs</div></td>
+<td>Keaau, HI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="HI" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="maui humane society puunene hawaii beach buddies">
+<td class="org"><a href="/listings/maui-humane-society-puunene/">Maui Humane Society</a><div class="prog">Beach Buddies</div></td>
+<td>Puunene, HI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="IA" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="animal rescue league of iowa des moines iowa dog&#x27;s day out &amp; shelter dog getaway">
+<td class="org"><a href="/listings/animal-rescue-league-of-iowa-des-moines/">Animal Rescue League of Iowa</a><div class="prog">Dog&#x27;s Day Out &amp; Shelter Dog Getaway</div></td>
+<td>Des Moines, IA</td>
+<td>Day trip, weekend or longer<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="IL" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="tails humane society dekalb illinois dog&#x27;s day out">
+<td class="org"><a href="/listings/tails-humane-society-dekalb/">Tails Humane Society</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>DeKalb, IL</td>
+<td>Day trip, sleepover (up to 3 nights)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="IL" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="the anti-cruelty society chicago illinois dog day out">
+<td class="org"><a href="/listings/the-anti-cruelty-society-chicago/">The Anti-Cruelty Society</a><div class="prog">Dog Day Out</div></td>
+<td>Chicago, IL</td>
+<td>Day trip (up to 2 hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="IL" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="hinsdale humane society hinsdale illinois paws &amp; play getaways">
+<td class="org"><a href="/listings/hinsdale-humane-society-hinsdale/">Hinsdale Humane Society</a><div class="prog">Paws &amp; Play Getaways</div></td>
+<td>Hinsdale, IL</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="IL" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="noah&#x27;s ark animal sanctuary rockford illinois field trips">
+<td class="org"><a href="/listings/noah-s-ark-animal-sanctuary-rockford/">Noah&#x27;s Ark Animal Sanctuary</a><div class="prog">Field Trips</div></td>
+<td>Rockford, IL</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="IL" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="dupage county animal services wheaton illinois fetch a friend">
+<td class="org"><a href="/listings/dupage-county-animal-services-wheaton/">DuPage County Animal Services</a><div class="prog">Fetch a Friend</div></td>
+<td>Wheaton, IL</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="IN" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="indyhumane indianapolis indiana dog day out">
+<td class="org"><a href="/listings/indyhumane-indianapolis/">IndyHumane</a><div class="prog">Dog Day Out</div></td>
+<td>Indianapolis, IN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="IN" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="indianapolis animal care services indianapolis indiana doggy day out">
+<td class="org"><a href="/listings/indianapolis-animal-care-services-indianapolis/">Indianapolis Animal Care Services</a><div class="prog">Doggy Day Out</div></td>
+<td>Indianapolis, IN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="IN" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="floyd county animal shelter jeffersonville indiana doggy day out">
+<td class="org"><a href="/listings/floyd-county-animal-shelter-jeffersonville/">Floyd County Animal Shelter</a><div class="prog">Doggy Day Out</div></td>
+<td>Jeffersonville, IN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="KS" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="kansas humane society wichita kansas dog&#x27;s day out">
+<td class="org"><a href="/listings/kansas-humane-society-wichita/">Kansas Humane Society</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Wichita, KS</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="KY" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="louisville metro animal services louisville kentucky field trips">
+<td class="org"><a href="/listings/louisville-metro-animal-services-louisville/">Louisville Metro Animal Services</a><div class="prog">Field Trips</div></td>
+<td>Louisville, KY</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="LA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="louisiana spca new orleans louisiana doggy day out">
+<td class="org"><a href="/listings/louisiana-spca-new-orleans/">Louisiana SPCA</a><div class="prog">Doggy Day Out</div></td>
+<td>New Orleans, LA</td>
+<td>Day trip (2+ hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="MA" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="second chance animal services north brookfield massachusetts dog&#x27;s day out">
+<td class="org"><a href="/listings/second-chance-animal-services-north-brookfield/">Second Chance Animal Services</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>North Brookfield, MA</td>
+<td>Day trip (2+ hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="MD" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="baltimore animal rescue &amp; care shelter (barcs) baltimore maryland dog&#x27;s day out">
+<td class="org"><a href="/listings/baltimore-animal-rescue-and-care-shelter-barcs-baltimore/">Baltimore Animal Rescue &amp; Care Shelter (BARCS)</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Baltimore, MD</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="ME" data-animals="Dogs" data-types="day sleep" data-status="Needs check" data-q="midcoast humane brunswick maine doggy day out">
+<td class="org"><a href="/listings/midcoast-humane-brunswick/">Midcoast Humane</a><div class="prog">Doggy Day Out</div></td>
+<td>Brunswick, ME</td>
+<td>Day trip, overnight<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="ME" data-animals="Dogs" data-types="day sleep" data-status="Needs check" data-q="animal welfare society west kennebunk maine take a dog on a date">
+<td class="org"><a href="/listings/animal-welfare-society-west-kennebunk/">Animal Welfare Society</a><div class="prog">Take a Dog on a Date</div></td>
+<td>West Kennebunk, ME</td>
+<td>Lunch date, day trip, overnight, weekend<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="MI" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="humane society of west michigan grand rapids michigan dog&#x27;s day out">
+<td class="org"><a href="/listings/humane-society-of-west-michigan-grand-rapids/">Humane Society of West Michigan</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Grand Rapids, MI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="MI" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="friends for animals of metro detroit wayne michigan doggy day out">
+<td class="org"><a href="/listings/friends-for-animals-of-metro-detroit-wayne/">Friends for Animals of Metro Detroit</a><div class="prog">Doggy Day Out</div></td>
+<td>Wayne, MI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="MI" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="michigan humane detroit michigan dog day getaway">
+<td class="org"><a href="/listings/michigan-humane-detroit/">Michigan Humane</a><div class="prog">Dog Day Getaway</div></td>
+<td>Detroit, MI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="MI" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="saginaw county animal care and control saginaw michigan dog day out">
+<td class="org"><a href="/listings/saginaw-county-animal-care-and-control-saginaw/">Saginaw County Animal Care and Control</a><div class="prog">Dog Day Out</div></td>
+<td>Saginaw, MI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="MN" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="minneapolis animal care &amp; control minneapolis minnesota fido field trip">
+<td class="org"><a href="/listings/minneapolis-animal-care-and-control-minneapolis/">Minneapolis Animal Care &amp; Control</a><div class="prog">Fido Field Trip</div></td>
+<td>Minneapolis, MN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="MO" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="wayside waifs kansas city missouri paws around kc">
+<td class="org"><a href="/listings/wayside-waifs-kansas-city/">Wayside Waifs</a><div class="prog">Paws Around KC</div></td>
+<td>Kansas City, MO</td>
+<td>Day trip (1 hour to all day)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="MO" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="apa adoption center st. louis missouri dog dates">
+<td class="org"><a href="/listings/apa-adoption-center-st-louis/">APA Adoption Center</a><div class="prog">Dog Dates</div></td>
+<td>St. Louis, MO</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="MO" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="care stl st. louis missouri doggy day out">
+<td class="org"><a href="/listings/care-stl-st-louis/">CARE STL</a><div class="prog">Doggy Day Out</div></td>
+<td>St. Louis, MO</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="MS" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="southern pines animal shelter hattiesburg mississippi dog&#x27;s day out">
+<td class="org"><a href="/listings/southern-pines-animal-shelter-hattiesburg/">Southern Pines Animal Shelter</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Hattiesburg, MS</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="NC" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="harnett county animal services lillington north carolina dog day out">
+<td class="org"><a href="/listings/harnett-county-animal-services-lillington/">Harnett County Animal Services</a><div class="prog">Dog Day Out</div></td>
+<td>Lillington, NC</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="NC" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="guilford county animal services greensboro north carolina dog&#x27;s day out">
+<td class="org"><a href="/listings/guilford-county-animal-services-greensboro/">Guilford County Animal Services</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Greensboro, NC</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="NC" data-animals="Dogs" data-types="day sleep hike" data-status="Needs check" data-q="mitchell county animal rescue spruce pine north carolina trail buddies">
+<td class="org"><a href="/listings/mitchell-county-animal-rescue-spruce-pine/">Mitchell County Animal Rescue</a><div class="prog">Trail Buddies</div></td>
+<td>Spruce Pine, NC</td>
+<td>Outings, hikes, sleepovers<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="NC" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="pitt county animal services greenville north carolina doggy day out">
+<td class="org"><a href="/listings/pitt-county-animal-services-greenville/">Pitt County Animal Services</a><div class="prog">Doggy Day Out</div></td>
+<td>Greenville, NC</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="NE" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="nebraska humane society omaha nebraska daycations">
+<td class="org"><a href="/listings/nebraska-humane-society-omaha/">Nebraska Humane Society</a><div class="prog">Daycations</div></td>
+<td>Omaha, NE</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="NJ" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="st. hubert&#x27;s animal welfare center madison new jersey field trips for dogs">
+<td class="org"><a href="/listings/st-hubert-s-animal-welfare-center-madison/">St. Hubert&#x27;s Animal Welfare Center</a><div class="prog">Field Trips for Dogs</div></td>
+<td>Madison, NJ</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="NM" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="city of albuquerque animal welfare department albuquerque new mexico doggy day out">
+<td class="org"><a href="/listings/city-of-albuquerque-animal-welfare-department-albuquerque/">City of Albuquerque Animal Welfare Department</a><div class="prog">Doggy Day Out</div></td>
+<td>Albuquerque, NM</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="NV" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="the animal foundation las vegas nevada doggy day out">
+<td class="org"><a href="/listings/the-animal-foundation-las-vegas/">The Animal Foundation</a><div class="prog">Doggy Day Out</div></td>
+<td>Las Vegas, NV</td>
+<td>Day trip (event days)<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="NY" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="animal care centers of nyc new york new york boroughbreak">
+<td class="org"><a href="/listings/animal-care-centers-of-nyc-new-york/">Animal Care Centers of NYC</a><div class="prog">BoroughBreak</div></td>
+<td>New York, NY</td>
+<td>Day trip (1 hour to all day)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="NY" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="humanecny syracuse new york doggy day out">
+<td class="org"><a href="/listings/humanecny-syracuse/">HumaneCNY</a><div class="prog">Doggy Day Out</div></td>
+<td>Syracuse, NY</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="OH" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="cleveland animal protective league cleveland ohio dog&#x27;s day out cleveland">
+<td class="org"><a href="/listings/cleveland-animal-protective-league-cleveland/">Cleveland Animal Protective League</a><div class="prog">Dog&#x27;s Day Out Cleveland</div></td>
+<td>Cleveland, OH</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="OH" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="humane society of greater dayton dayton ohio doggy day out">
+<td class="org"><a href="/listings/humane-society-of-greater-dayton-dayton/">Humane Society of Greater Dayton</a><div class="prog">Doggy Day Out</div></td>
+<td>Dayton, OH</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="OH" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="cuyahoga county animal shelter valley view ohio dogs day out">
+<td class="org"><a href="/listings/cuyahoga-county-animal-shelter-valley-view/">Cuyahoga County Animal Shelter</a><div class="prog">Dogs Day Out</div></td>
+<td>Valley View, OH</td>
+<td>Day trip (2+ hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="OK" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="humane society of tulsa tulsa oklahoma dog day out">
+<td class="org"><a href="/listings/humane-society-of-tulsa-tulsa/">Humane Society of Tulsa</a><div class="prog">Dog Day Out</div></td>
+<td>Tulsa, OK</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="OR" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="humane society of central oregon bend oregon dog day out">
+<td class="org"><a href="/listings/humane-society-of-central-oregon-bend/">Humane Society of Central Oregon</a><div class="prog">Dog Day Out</div></td>
+<td>Bend, OR</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="OR" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="multnomah county animal services troutdale oregon pawsport adventure">
+<td class="org"><a href="/listings/multnomah-county-animal-services-troutdale/">Multnomah County Animal Services</a><div class="prog">Pawsport Adventure</div></td>
+<td>Troutdale, OR</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="PA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="brandywine valley spca west chester pennsylvania shelter skip day">
+<td class="org"><a href="/listings/brandywine-valley-spca-west-chester/">Brandywine Valley SPCA</a><div class="prog">Shelter Skip Day</div></td>
+<td>West Chester, PA</td>
+<td>Day trip (1 hour to all day)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="PA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="york county spca york pennsylvania dogs&#x27; day out">
+<td class="org"><a href="/listings/york-county-spca-york/">York County SPCA</a><div class="prog">Dogs&#x27; Day Out</div></td>
+<td>York, PA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="RI" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="rhode island spca riverside rhode island dogs day out">
+<td class="org"><a href="/listings/rhode-island-spca-riverside/">Rhode Island SPCA</a><div class="prog">Dogs Day Out</div></td>
+<td>Riverside, RI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="SC" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="charleston animal society north charleston south carolina paws around town">
+<td class="org"><a href="/listings/charleston-animal-society-north-charleston/">Charleston Animal Society</a><div class="prog">Paws Around Town</div></td>
+<td>North Charleston, SC</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="SC" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="pet helpers charleston south carolina doggy day out">
+<td class="org"><a href="/listings/pet-helpers-charleston/">Pet Helpers</a><div class="prog">Doggy Day Out</div></td>
+<td>Charleston, SC</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TN" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="young-williams animal center knoxville tennessee doggie day trip">
+<td class="org"><a href="/listings/young-williams-animal-center-knoxville/">Young-Williams Animal Center</a><div class="prog">Doggie Day Trip</div></td>
+<td>Knoxville, TN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TN" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="memphis animal services memphis tennessee foster field trips">
+<td class="org"><a href="/listings/memphis-animal-services-memphis/">Memphis Animal Services</a><div class="prog">Foster Field Trips</div></td>
+<td>Memphis, TN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TN" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="metro animal care and control nashville tennessee bow wow breakout">
+<td class="org"><a href="/listings/metro-animal-care-and-control-nashville/">Metro Animal Care and Control</a><div class="prog">Bow Wow Breakout</div></td>
+<td>Nashville, TN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TN" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="nashville humane association nashville tennessee dog dates">
+<td class="org"><a href="/listings/nashville-humane-association-nashville/">Nashville Humane Association</a><div class="prog">Dog Dates</div></td>
+<td>Nashville, TN</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="austin animal services austin texas doggie day out &amp; sleepover">
+<td class="org"><a href="/listings/austin-animal-services-austin/">Austin Animal Services</a><div class="prog">Doggie Day Out &amp; Sleepover</div></td>
+<td>Austin, TX</td>
+<td>Day trip, weekend sleepover<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Cats" data-types="visit" data-status="Open to public" data-q="purrfecto cat lounge austin texas catxperience">
+<td class="org"><a href="/listings/purrfecto-cat-lounge-austin/">Purrfecto Cat Lounge</a><div class="prog">CATXperience</div></td>
+<td>Austin, TX</td>
+<td>Lounge visit<div class="animal">Cats</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="aggieland humane society bryan texas dog day out / cold snap getaway">
+<td class="org"><a href="/listings/aggieland-humane-society-bryan/">Aggieland Humane Society</a><div class="prog">Dog Day Out / Cold Snap Getaway</div></td>
+<td>Bryan, TX</td>
+<td>Day trip, weekend<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="dallas animal services dallas texas doggie daycations &amp; staycations">
+<td class="org"><a href="/listings/dallas-animal-services-dallas/">Dallas Animal Services</a><div class="prog">Doggie Daycations &amp; Staycations</div></td>
+<td>Dallas, TX</td>
+<td>Day trip, 1-week foster<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="palm valley animal society edinburg texas paw-jama party / tails around town">
+<td class="org"><a href="/listings/palm-valley-animal-society-edinburg/">Palm Valley Animal Society</a><div class="prog">Paw-Jama Party / Tails Around Town</div></td>
+<td>Edinburg, TX</td>
+<td>Day trip, weekend<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="williamson county regional animal shelter georgetown texas doggy day out">
+<td class="org"><a href="/listings/williamson-county-regional-animal-shelter-georgetown/">Williamson County Regional Animal Shelter</a><div class="prog">Doggy Day Out</div></td>
+<td>Georgetown, TX</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="victoria county animal services victoria texas doggy day out">
+<td class="org"><a href="/listings/victoria-county-animal-services-victoria/">Victoria County Animal Services</a><div class="prog">Doggy Day Out</div></td>
+<td>Victoria, TX</td>
+<td>Day trip, overnight<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="pet circle regional animal center waco texas bark break &amp; sleepover rover">
+<td class="org"><a href="/listings/pet-circle-regional-animal-center-waco/">Pet Circle Regional Animal Center</a><div class="prog">Bark Break &amp; Sleepover Rover</div></td>
+<td>Waco, TX</td>
+<td>Day trip, overnight or weekend<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="hike" data-status="Needs check" data-q="el paso animal services el paso texas rescue runners">
+<td class="org"><a href="/listings/el-paso-animal-services-el-paso/">El Paso Animal Services</a><div class="prog">Rescue Runners</div></td>
+<td>El Paso, TX</td>
+<td>Group walk or run, monthly<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="humane society of north texas fort worth texas doggy day out">
+<td class="org"><a href="/listings/humane-society-of-north-texas-fort-worth/">Humane Society of North Texas</a><div class="prog">Doggy Day Out</div></td>
+<td>Fort Worth, TX</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="houston humane houston texas doggy day out">
+<td class="org"><a href="/listings/houston-humane-houston/">Houston Humane</a><div class="prog">Doggy Day Out</div></td>
+<td>Houston, TX</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="city of irving animal services irving texas volunteer outings">
+<td class="org"><a href="/listings/city-of-irving-animal-services-irving/">City of Irving Animal Services</a><div class="prog">Volunteer outings</div></td>
+<td>Irving, TX</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs &amp; Cats" data-types="sleep" data-status="Needs check" data-q="laredo animal care services laredo texas pajamas and paws sleepover">
+<td class="org"><a href="/listings/laredo-animal-care-services-laredo/">Laredo Animal Care Services</a><div class="prog">Pajamas and Paws Sleepover</div></td>
+<td>Laredo, TX</td>
+<td>One night or a weekend<div class="animal">Dogs &amp; Cats</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="amarillo animal management &amp; welfare amarillo texas doggy day out">
+<td class="org"><a href="/listings/amarillo-animal-management-and-welfare-amarillo/">Amarillo Animal Management &amp; Welfare</a><div class="prog">Doggy Day Out</div></td>
+<td>Amarillo, TX</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="barc animal shelter houston texas volunteer outings">
+<td class="org"><a href="/listings/barc-animal-shelter-houston/">BARC Animal Shelter</a><div class="prog">Volunteer outings</div></td>
+<td>Houston, TX</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day" data-status="Volunteers only" data-q="richardson animal services richardson texas doggy day out">
+<td class="org"><a href="/listings/richardson-animal-services-richardson/">Richardson Animal Services</a><div class="prog">Doggy Day Out</div></td>
+<td>Richardson, TX</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="TX" data-animals="Dogs" data-types="day sleep hike" data-status="Volunteers only" data-q="friends of rescue animals rowlett texas canine cruisers">
+<td class="org"><a href="/listings/friends-of-rescue-animals-rowlett/">Friends of Rescue Animals</a><div class="prog">Canine Cruisers</div></td>
+<td>Rowlett, TX</td>
+<td>Walks, outings, overnight<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="UT" data-animals="Dogs" data-types="day sleep" data-status="Open to public" data-q="humane society of utah murray utah doggy day out &amp; slumber party weekend">
+<td class="org"><a href="/listings/humane-society-of-utah-murray/">Humane Society of Utah</a><div class="prog">Doggy Day Out &amp; Slumber Party Weekend</div></td>
+<td>Murray, UT</td>
+<td>Day trip, weekend sleepover<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="UT" data-animals="Dogs &amp; Cats" data-types="day sleep" data-status="Needs check" data-q="best friends animal sanctuary kanab utah adventure buddies &amp; sleepovers">
+<td class="org"><a href="/listings/best-friends-animal-sanctuary-kanab/">Best Friends Animal Sanctuary</a><div class="prog">Adventure Buddies &amp; sleepovers</div></td>
+<td>Kanab, UT</td>
+<td>Outing, sleepover<div class="animal">Dogs &amp; Cats</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="UT" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="cache humane society logan utah doggy day trip">
+<td class="org"><a href="/listings/cache-humane-society-logan/">Cache Humane Society</a><div class="prog">Doggy Day Trip</div></td>
+<td>Logan, UT</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="VA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="chesapeake animal services chesapeake virginia snout &amp; about">
+<td class="org"><a href="/listings/chesapeake-animal-services-chesapeake/">Chesapeake Animal Services</a><div class="prog">Snout &amp; About</div></td>
+<td>Chesapeake, VA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="VA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="richmond spca richmond virginia dog&#x27;s day out">
+<td class="org"><a href="/listings/richmond-spca-richmond/">Richmond SPCA</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Richmond, VA</td>
+<td>Day trip (2+ hours)<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="WA" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="kitsap humane society silverdale washington barks and rec">
+<td class="org"><a href="/listings/kitsap-humane-society-silverdale/">Kitsap Humane Society</a><div class="prog">Barks and Rec</div></td>
+<td>Silverdale, WA</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="WI" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="humane society of southern wisconsin janesville wisconsin doggy day out">
+<td class="org"><a href="/listings/humane-society-of-southern-wisconsin-janesville/">Humane Society of Southern Wisconsin</a><div class="prog">Doggy Day Out</div></td>
+<td>Janesville, WI</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+<tr data-state="WI" data-animals="Dogs" data-types="day sleep" data-status="Volunteers only" data-q="dane county humane society madison wisconsin outings &amp; overnights">
+<td class="org"><a href="/listings/dane-county-humane-society-madison/">Dane County Humane Society</a><div class="prog">Outings &amp; Overnights</div></td>
+<td>Madison, WI</td>
+<td>Outing, overnight<div class="animal">Dogs</div></td>
+<td><span class="badge b-vol">Volunteers only</span></td>
+</tr>
+<tr data-state="WV" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="marion county humane society fairmont west virginia doggy day out">
+<td class="org"><a href="/listings/marion-county-humane-society-fairmont/">Marion County Humane Society</a><div class="prog">Doggy Day Out</div></td>
+<td>Fairmont, WV</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="WY" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="park county animal shelter cody wyoming dog&#x27;s day out">
+<td class="org"><a href="/listings/park-county-animal-shelter-cody/">Park County Animal Shelter</a><div class="prog">Dog&#x27;s Day Out</div></td>
+<td>Cody, WY</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+</tbody></table>
+</section>
+<h2>Browse by state</h2>
+<div class="states"><a href="/states/alabama/">Alabama<span>2 programs</span></a><a href="/states/alaska/">Alaska<span>2 programs</span></a><a href="/states/arizona/">Arizona<span>6 programs</span></a><a href="/states/arkansas/">Arkansas<span>1 program</span></a><a href="/states/california/">California<span>18 programs</span></a><a href="/states/colorado/">Colorado<span>6 programs</span></a><a href="/states/connecticut/">Connecticut<span>1 program</span></a><a href="/states/delaware/">Delaware<span>2 programs</span></a><a href="/states/district-of-columbia/">District of Columbia<span>1 program</span></a><a href="/states/florida/">Florida<span>11 programs</span></a><a href="/states/georgia/">Georgia<span>4 programs</span></a><a href="/states/hawaii/">Hawaii<span>5 programs</span></a><a href="/states/idaho/">Idaho<span>0 programs</span></a><a href="/states/illinois/">Illinois<span>5 programs</span></a><a href="/states/indiana/">Indiana<span>3 programs</span></a><a href="/states/iowa/">Iowa<span>1 program</span></a><a href="/states/kansas/">Kansas<span>1 program</span></a><a href="/states/kentucky/">Kentucky<span>1 program</span></a><a href="/states/louisiana/">Louisiana<span>1 program</span></a><a href="/states/maine/">Maine<span>2 programs</span></a><a href="/states/maryland/">Maryland<span>1 program</span></a><a href="/states/massachusetts/">Massachusetts<span>1 program</span></a><a href="/states/michigan/">Michigan<span>4 programs</span></a><a href="/states/minnesota/">Minnesota<span>1 program</span></a><a href="/states/mississippi/">Mississippi<span>1 program</span></a><a href="/states/missouri/">Missouri<span>3 programs</span></a><a href="/states/montana/">Montana<span>0 programs</span></a><a href="/states/nebraska/">Nebraska<span>1 program</span></a><a href="/states/nevada/">Nevada<span>1 program</span></a><a href="/states/new-hampshire/">New Hampshire<span>0 programs</span></a><a href="/states/new-jersey/">New Jersey<span>1 program</span></a><a href="/states/new-mexico/">New Mexico<span>1 program</span></a><a href="/states/new-york/">New York<span>2 programs</span></a><a href="/states/north-carolina/">North Carolina<span>4 programs</span></a><a href="/states/north-dakota/">North Dakota<span>0 programs</span></a><a href="/states/ohio/">Ohio<span>3 programs</span></a><a href="/states/oklahoma/">Oklahoma<span>1 program</span></a><a href="/states/oregon/">Oregon<span>2 programs</span></a><a href="/states/pennsylvania/">Pennsylvania<span>2 programs</span></a><a href="/states/rhode-island/">Rhode Island<span>1 program</span></a><a href="/states/south-carolina/">South Carolina<span>2 programs</span></a><a href="/states/south-dakota/">South Dakota<span>0 programs</span></a><a href="/states/tennessee/">Tennessee<span>4 programs</span></a><a href="/states/texas/">Texas<span>17 programs</span></a><a href="/states/utah/">Utah<span>3 programs</span></a><a href="/states/vermont/">Vermont<span>0 programs</span></a><a href="/states/virginia/">Virginia<span>2 programs</span></a><a href="/states/washington/">Washington<span>1 program</span></a><a href="/states/west-virginia/">West Virginia<span>1 program</span></a><a href="/states/wisconsin/">Wisconsin<span>2 programs</span></a><a href="/states/wyoming/">Wyoming<span>1 program</span></a></div>
+<p class="animal" style="margin-top:8px">136 programs in 44 states and Washington, DC so far. We search every state each month and add new programs as shelters launch them. <a href="/suggest/">Know a shelter we're missing?</a></p>
+<h2>How it works</h2>
+<div class="steps">
+<div><b>1. Find a program</b>Search by city or state. 70 programs listed here are open to the public.</div>
+<div><b>2. Sign up with the shelter</b>Each listing links to the shelter's own sign-up page, rules and hours. Shelters make the match.</div>
+<div><b>3. Enjoy the day</b>Take the dog for a hike, a coffee or a nap on your couch. The photos you share help them get adopted.</div>
+</div>
+<div class="band"><div class="wrap" style="padding:0">
+<h2 style="margin-top:0">Run a shelter?</h2>
+<p>Get listed for free, update your details, or start receiving outing requests from people near you. <a class="btn" href="/for-shelters/">For shelters</a></p>
+</div></div>
+<script>
+(function(){
+ var q=document.getElementById('q'),st=document.getElementById('f-state'),an=document.getElementById('f-animal'),ty=document.getElementById('f-type'),pub=document.getElementById('f-public'),cnt=document.getElementById('count');
+ var rows=[].slice.call(document.querySelectorAll('#results tbody tr'));
+ function run(){
+  var t=(q&&q.value||'').trim().toLowerCase(),s=st?st.value:'',a=an.value,y=ty.value,p=pub.checked,n=0;
+  rows.forEach(function(r){
+   var ok=true;
+   if(t&&r.dataset.q.indexOf(t)<0)ok=false;
+   if(s&&r.dataset.state!==s)ok=false;
+   if(a&&r.dataset.animals.indexOf(a)<0)ok=false;
+   if(y&&r.dataset.types.split(' ').indexOf(y)<0)ok=false;
+   if(p&&r.dataset.status!=='Open to public')ok=false;
+   r.classList.toggle('hide',!ok); if(ok)n++;
+  });
+  cnt.textContent=n+(n===1?' program':' programs');
+ }
+ [q,st,an,ty,pub].forEach(function(el){if(el){el.addEventListener('input',run);el.addEventListener('change',run);}});
+ var u=new URLSearchParams(location.search);
+ if(u.get('q')&&q){q.value=u.get('q');}
+ if(u.get('state')&&st){st.value=u.get('state').toUpperCase();}
+ if(u.get('animal')){an.value=u.get('animal');}
+ run();
+})();
+</script>
+</div></main>
+<footer class="site"><div class="wrap">
+<p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
+<p>ShelterDayOut is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
+<p>ShelterDayOut is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; 2026 Charity Good</p>
+</div></footer>
+</body>
+</html>

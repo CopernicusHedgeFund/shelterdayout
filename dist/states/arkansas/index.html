@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shelter Dog Day Trips &amp; Sleepovers in Arkansas | ShelterDayOut</title>
+<meta name="description" content="1 animal shelter programs in Arkansas where you can take a dog on a day trip or sleepover, or visit shelter cats.">
+<link rel="canonical" href="https://shelterdayout.com/states/arkansas/">
+<meta property="og:title" content="Shelter Dog Day Trips &amp; Sleepovers in Arkansas | ShelterDayOut">
+<meta property="og:description" content="1 animal shelter programs in Arkansas where you can take a dog on a day trip or sleepover, or visit shelter cats.">
+<meta property="og:url" content="https://shelterdayout.com/states/arkansas/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ShelterDayOut">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css">
+
+</head>
+<body>
+<header class="site"><div class="wrap">
+<a class="logo" href="/">Shelter<b>DayOut</b></a>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/how-it-works/">How it works</a><a href="/for-shelters/">For shelters</a></nav>
+</div></header>
+<main><div class="wrap">
+<div class="crumbs"><a href="/">Home</a> / Arkansas</div>
+<h1>Shelter dog day trips and sleepovers in Arkansas</h1>
+<p class="lede">1 shelter programs in Arkansas, 1 of them open to the public. Cities include Bentonville.</p>
+<div class="search">
+<div class="row">
+
+
+<div><label for="f-animal">Animal</label><select id="f-animal"><option value="">Dogs and cats</option><option value="Dogs">Dogs</option><option value="Cats">Cats</option></select></div>
+<div><label for="f-type">Type</label><select id="f-type"><option value="">Any</option><option value="day">Day trip</option><option value="sleep">Sleepover or staycation</option><option value="hike">Hike or walk</option><option value="visit">Visit (cat lounge)</option></select></div>
+</div>
+<label class="chk"><input type="checkbox" id="f-public"> Open to the public only</label>
+</div>
+<p class="count" id="count"></p>
+<table class="list" id="results">
+<thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
+<tbody>
+<tr data-state="AR" data-animals="Dogs" data-types="day" data-status="Open to public" data-q="best friends pet resource center bentonville arkansas dog day out">
+<td class="org"><a href="/listings/best-friends-pet-resource-center-bentonville/">Best Friends Pet Resource Center</a><div class="prog">Dog Day Out</div></td>
+<td>Bentonville</td>
+<td>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-open">Open to the public</span></td>
+</tr>
+</tbody></table>
+<p class="animal" style="margin-top:12px">Don't see your shelter? <a href="/suggest/">Suggest one</a>. Shelter staff can <a href="/for-shelters/">claim a listing</a>.</p>
+<script>
+(function(){
+ var q=document.getElementById('q'),st=document.getElementById('f-state'),an=document.getElementById('f-animal'),ty=document.getElementById('f-type'),pub=document.getElementById('f-public'),cnt=document.getElementById('count');
+ var rows=[].slice.call(document.querySelectorAll('#results tbody tr'));
+ function run(){
+  var t=(q&&q.value||'').trim().toLowerCase(),s=st?st.value:'',a=an.value,y=ty.value,p=pub.checked,n=0;
+  rows.forEach(function(r){
+   var ok=true;
+   if(t&&r.dataset.q.indexOf(t)<0)ok=false;
+   if(s&&r.dataset.state!==s)ok=false;
+   if(a&&r.dataset.animals.indexOf(a)<0)ok=false;
+   if(y&&r.dataset.types.split(' ').indexOf(y)<0)ok=false;
+   if(p&&r.dataset.status!=='Open to public')ok=false;
+   r.classList.toggle('hide',!ok); if(ok)n++;
+  });
+  cnt.textContent=n+(n===1?' program':' programs');
+ }
+ [q,st,an,ty,pub].forEach(function(el){if(el){el.addEventListener('input',run);el.addEventListener('change',run);}});
+ var u=new URLSearchParams(location.search);
+ if(u.get('q')&&q){q.value=u.get('q');}
+ if(u.get('state')&&st){st.value=u.get('state').toUpperCase();}
+ if(u.get('animal')){an.value=u.get('animal');}
+ run();
+})();
+</script>
+</div></main>
+<footer class="site"><div class="wrap">
+<p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
+<p>ShelterDayOut is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
+<p>ShelterDayOut is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; 2026 Charity Good</p>
+</div></footer>
+</body>
+</html>
