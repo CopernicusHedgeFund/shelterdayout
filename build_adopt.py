@@ -189,7 +189,7 @@ def build_home(rows):
     n_states = len({r["state"] for r in rows if r["state"] != "DC"})
     body = f"""<section class="adopt-hero">
 <h1>Adopt a shelter pet <span class="hl">near you.</span></h1>
-<p class="lede">Find animal shelters, humane societies and SPCAs in every state, see their adoptable dogs and cats, and catch upcoming adoption events and fee-waived days.</p>
+<p class="lede">Find animal shelters, humane societies and SPCAs in every state, see their adoptable dogs, puppies, cats and kittens, and catch upcoming adoption events and fee-waived days.</p>
 <p class="tagline">The nationwide shelter adoption directory, updated monthly.</p>
 <p style="margin-top:14px"><a class="btn" href="#find">Find a shelter</a> <a class="btn alt" href="/events/">Adoption events</a></p>
 </section>
@@ -218,7 +218,7 @@ def build_home(rows):
 {faq_html}
 {SEARCH_JS}"""
     write("/", page(f"Animal Shelters Near Me: Adopt a Dog or Cat ({len(rows):,} Shelters) | {BRAND}",
-        f"Find animal shelters near you and adopt a dog or cat. {len(rows):,} shelters, humane societies and SPCAs in every state, plus upcoming adoption events. Updated monthly.",
+        f"Find an animal shelter or humane society near you and adopt a dog, puppy, cat or kitten. {len(rows):,} shelters and SPCAs in every state, plus adoption events.",
         body, "/", f'<script type="application/ld+json">{ld}</script><script type="application/ld+json">{org_ld}</script>{faq_ld}'))
     return evs
 
@@ -245,8 +245,8 @@ def build_states(rows):
 {('<ul class="slist">' + "".join(shelter_li(r, False) for r in lst) + "</ul>") if lst else f'<p>We don\'t have shelters listed in {name} yet. <a href="{SDO}/suggest/">Suggest one</a>.</p>'}
 {f'<p class="animal" style="margin-top:14px">{len(progs)} of these shelters let you take a dog out for the day before adopting. <a href="{SDO}/states/{slugify(name)}/" rel="noopener">See dog day out programs in {name}</a>.</p>' if progs else ""}
 <div class="note">Shelters update their adoptable animals daily on their own websites. Confirm hours and requirements with the shelter before you visit.</div>"""
-        write(path, page(f"Animal Shelters in {name}: Adopt a Dog or Cat ({len(lst):,} Shelters) | {BRAND}",
-            f"Adopt a dog or cat in {name}: {len(lst):,} animal shelters and humane societies{(' in ' + ', '.join(cities[:4]) + ' and more') if cities else ''}, plus upcoming adoption events.",
+        write(path, page(f"Animal Shelters & Humane Societies in {name}: Adopt a Dog, Puppy or Cat | {BRAND}",
+            f"Adopt a dog, puppy, cat or kitten in {name}: {len(lst):,} animal shelters, humane societies and SPCAs{(' in ' + ', '.join(cities[:4]) + ' and more') if cities else ''}, plus upcoming adoption events.",
             body, path, crumbs_ld([("Home", "/"), (name, path)])))
 
 
@@ -311,7 +311,7 @@ document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!
 {groups or '<p>No upcoming events listed right now. Check back soon: we update monthly.</p>'}
 {js if allev else ""}"""
     write("/events/", page(f"Pet Adoption Events Near Me: {len(allev):,} Upcoming Dates | {BRAND}",
-        f"Upcoming pet adoption events, open houses and fee-waived adoption days at animal shelters nationwide. {len(allev):,} dates, updated monthly.",
+        f"Dog and pet adoption events near you: adoption days, open houses and fee-waived events at animal shelters nationwide. {len(allev):,} dates, updated monthly.",
         body, "/events/", ld + crumbs_ld([("Home", "/"), ("Adoption events", "/events/")])))
     # fee-waived subset
     fw = [x for x in allev if re.search(r"fee|free|waiv|\$|half|reduced|clear the shelter|empty the shelter|discount", x[2]["title"], re.I)]
@@ -321,8 +321,8 @@ document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!
 <p class="lede">Shelters often waive or cut adoption fees when they're full, around holidays, and during national events like Clear the Shelters. Here are the upcoming ones we've found on shelters' own websites.</p>
 {f'<ul class="evlist">{items}</ul>' if items else '<p>No fee-waived events listed right now. See <a href="/events/">all adoption events</a>.</p>'}
 <p>Reduced fees don't mean a shortcut on the process: shelters still ask for an application and a meet-and-greet. See our <a href="/adoption-checklist/">adoption checklist</a>.</p>"""
-    write("/fee-waived-adoption-events/", page(f"Free & Fee-Waived Pet Adoption Events Near You | {BRAND}",
-        "Upcoming free, fee-waived and reduced-fee pet adoption events at animal shelters nationwide, from shelters' own announcements. Updated monthly.",
+    write("/fee-waived-adoption-events/", page(f"Free Pet Adoption Near Me: Fee-Waived & Free Dog Adoption Events | {BRAND}",
+        "Free dog and cat adoption near you: upcoming fee-waived and reduced-fee adoption events at animal shelters nationwide, from shelters' own announcements.",
         body, "/fee-waived-adoption-events/", crumbs_ld([("Home", "/"), ("Fee-waived adoption events", "/fee-waived-adoption-events/")])))
     return allev
 
@@ -373,7 +373,7 @@ GUIDES = {
 <h2>Bring to the shelter</h2><ul><li>Photo ID</li><li>Landlord's name and number, or proof you can have pets, if you rent</li><li>Your current pets' vet records, if the shelter asks</li><li>A leash and collar (dogs) or a carrier (cats)</li><li>Everyone in your household, if the shelter wants to meet them</li></ul>
 <h2>Questions to ask</h2><ul><li>Why was this animal surrendered or found?</li><li>How do they do with kids, dogs and cats?</li><li>Any health issues or medications?</li><li>What vaccines and treatment have they had?</li><li>What does the fee include? Is there a return policy?</li></ul>
 <h2>Have ready at home</h2><ul><li>Food (ask what the shelter feeds, and switch slowly)</li><li>Food and water bowls</li><li>Bed or crate (dogs); litter box, litter and scratching post (cats)</li><li>ID tag with your phone number</li><li>A few toys and chews</li><li>A local vet picked out (<a href="SDO/find-a-vet/">find a vet near you</a>)</li></ul>"""),
-    "/adoption-fees/": ("How Much Does It Cost to Adopt a Pet From a Shelter?", "What shelter adoption fees usually cover, why they vary, and how to find reduced-fee and fee-waived adoption events near you.",
+    "/adoption-fees/": ("How Much Does It Cost to Adopt a Dog or Cat? Shelter Adoption Fees Explained", "What shelter adoption fees usually cover, why they vary, and how to find reduced-fee and fee-waived adoption events near you.",
         "How much does it cost to adopt a pet?", """
 <p class="lede">Adoption fees are set by each shelter and vary with the animal's age and type, the shelter, and the time of year. Check the shelter's own website for its current fees.</p>
 <h2>What the fee usually covers</h2><ul><li>Spay or neuter surgery</li><li>Age-appropriate vaccines</li><li>A microchip</li><li>Deworming and flea treatment</li><li>Sometimes a free first vet visit, a starter bag of food or a trial of pet insurance</li></ul>

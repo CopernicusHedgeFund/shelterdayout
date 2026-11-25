@@ -273,7 +273,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 </div></main>
 <footer class="site"><div class="wrap">
 <div class="logo">{LOGO}<span>Shelter<b>DayOut</b></span></div>
-<p><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/cities/">Browse by city</a><a href="/events/">Adoption events</a></p>
+<p><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/volunteer-at-an-animal-shelter/">Volunteer at a shelter</a><a href="/cities/">Browse by city</a><a href="/events/">Adoption events</a></p>
 <p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Ready to adopt? <a href="https://shelteradoption.com/" rel="noopener">ShelterAdoption</a>, our sister site, lists every shelter near you plus upcoming adoption events.</p>
@@ -447,8 +447,8 @@ def build_home(rows, all_rows=None):
 <div class="band"><div style="flex:1 1 360px"><h2>Run a shelter?</h2><p>Get listed for free, update your details, or choose where outing requests go.</p></div><a class="btn" href="/for-shelters/">For shelters</a></div>
 {FILTER_JS}"""
     write("/", page(
-        "Borrow a Shelter Dog for the Day: Dog Day Out & Sleepover Programs Near You | ShelterDayOut",
-        f"Want to rent a dog for the day? Borrow an adoptable shelter dog free for a day trip, hike or sleepover. {len(all_rows):,} shelters nationwide, checked monthly.",
+        "Dog Day Out Near Me: Borrow (or 'Rent') a Shelter Dog for the Day, Free | ShelterDayOut",
+        f"Find a doggy day out program near you: rent or borrow a shelter dog for the day, a hike or a sleepover, free. {len(all_rows):,} shelters nationwide, checked monthly.",
         body, "/", f'<script type="application/ld+json">{ld}</script><script type="application/ld+json">{org_ld}</script>{faq_ld}'))
 
 
@@ -811,14 +811,23 @@ def build_cities(progs):
 
 GUIDES = {
     "/rent-a-dog/": dict(
-        title="Rent a Dog for the Day? Borrow a Shelter Dog Free Instead | ShelterDayOut",
-        desc="Want to rent a dog for a day? Many shelters let you borrow an adoptable dog free for a few hours, a hike or a sleepover. Find a program near you.",
+        title="Rent a Dog for a Day Near You (or a Puppy): Borrow a Shelter Dog Free | ShelterDayOut",
+        desc="Want to rent a dog or puppy for a day? Many shelters let you borrow or foster a dog for a day free: a few hours, a hike or a sleepover. Find one near you.",
         h1="Want to rent a dog for the day? Borrow a shelter dog instead",
         types=None,
-        intro="Dog rental businesses are rare and controversial, but hundreds of animal shelters let you borrow a dog for free. You get a hiking buddy or a couch companion for the day; the dog gets a break from the kennel and a better shot at adoption. Shelters call it Doggy Day Out, Dog for a Day, Field Trips, Daycations, Rent-A-Dog or Borrow a Buddy.",
+        intro="Dog rental businesses are rare and controversial, but hundreds of animal shelters let you borrow a dog for free. You get a hiking buddy or a couch companion for the day; the dog gets a break from the kennel and a better shot at adoption. Shelters call it Doggy Day Out, Dog for a Day, Foster a Dog for a Day, Field Trips, Daycations, Rent-A-Dog or Borrow a Buddy. A few shelters even let you take out puppies.",
         faqs=[("Is borrowing a shelter dog free?", "Yes, almost always. Shelters provide a leash, an Adopt Me vest and often treats and a water bowl."),
               ("What do I need to borrow a dog?", "Usually a photo ID, being 18 or older, and a signed waiver. Some shelters need a short orientation or an online booking first."),
               ("How long can I keep the dog?", "Day trips run from a couple of hours to a full day. Many shelters also offer overnights, weekend sleepovers or week-long staycations.")]),
+    "/volunteer-at-an-animal-shelter/": dict(
+        title="Volunteer at an Animal Shelter Near You: Dog Walking, Outings & More | ShelterDayOut",
+        desc="How to volunteer at an animal shelter near you: dog walking, day trips, sleepovers and cat socializing. Find shelters with volunteer outing programs.",
+        h1="Volunteer at an animal shelter near you",
+        types=None,
+        intro="Volunteering is the most reliable way to spend regular time with shelter animals. Most shelters ask volunteers to fill out an application, attend an orientation and commit to a few shifts a month; many then let trained volunteers walk dogs, take them on day trips or hikes, host sleepovers or socialize cats. The programs below include outings open to volunteers or to the public.",
+        faqs=[("How do I start volunteering at an animal shelter?", "Find a shelter near you below, open its website and look for a Volunteer page. Most have an online application, a minimum age (often 16 or 18) and an orientation session."),
+              ("Can volunteers walk dogs or take them out?", "Usually yes after training. Many shelters' day-out and hiking programs started as volunteer-only programs and some still are; each listing says who can go."),
+              ("Is there a volunteer dog walking program near me?", "Most city, county and nonprofit shelters run one. Search by city on our home page, or ask the shelter about dog walking shifts.")]),
     "/shelter-dog-sleepovers/": dict(
         title="Shelter Dog Sleepovers Near You: Overnight & Weekend Programs | ShelterDayOut",
         desc="Host a shelter dog for a night, a weekend or a staycation. Find shelter dog sleepover programs near you, free and checked monthly.",
@@ -841,7 +850,9 @@ GUIDES = {
 def build_guides(progs):
     for path, g in GUIDES.items():
         lst = [r for r in progs if g["types"] is None or g["types"] in r["types"]]
-        if g["types"] is None:
+        if g["types"] is None and path == "/volunteer-at-an-animal-shelter/":
+            lst = [r for r in lst if r["status"] in ("Open to public", "Needs check", "Volunteers only")]
+        elif g["types"] is None:
             lst = [r for r in lst if r["status"] in ("Open to public", "Needs check") and "Dogs" in r["animals"]]
         faq_html, faq_ld = faq_block(g["faqs"])
         body = f"""<div class="crumbs"><a href="/">Home</a> / {esc(g['h1'])}</div>
