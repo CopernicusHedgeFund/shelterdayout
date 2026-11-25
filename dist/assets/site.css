@@ -45,6 +45,12 @@ table.list .prog{color:var(--muted);font-size:.92rem}
 .b-vol{color:#9a4f12;background:#ffe7cf}
 .b-check{color:#7a6410;background:#fff2bf}
 .b-paused{color:#555;background:#eee}
+.b-none{color:#4a4e69;background:#ebe9f5}
+.noprog{margin-top:34px}
+.noprog ul{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+.noprog li{background:#fff;border:2px solid #f3e9da;border-radius:14px;padding:12px 14px}
+.noprog li b{display:block}
+.noprog li span{color:var(--muted);font-size:.9rem}
 .animal{font-size:.88rem;color:var(--muted)}
 .ico{display:inline-block;vertical-align:-4px;width:20px;height:20px;margin-right:4px}
 .states{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}

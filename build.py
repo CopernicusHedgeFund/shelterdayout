@@ -23,13 +23,16 @@ STATUS_LABEL = {
     "Volunteers only": "Volunteers only",
     "Paused": "Paused",
     "Needs check": "Unconfirmed",
+    "No program yet": "No program yet",
 }
-STATUS_ORDER = {"Open to public": 0, "Needs check": 1, "Volunteers only": 2, "Paused": 3}
+NOPROG = "No program yet"
+STATUS_ORDER = {"Open to public": 0, "Needs check": 1, "Volunteers only": 2, "Paused": 3, "No program yet": 9}
 STATUS_HELP = {
     "Open to public": "Anyone who meets the shelter's rules can sign up.",
     "Volunteers only": "Open to the shelter's trained volunteers. Many shelters make it easy to become one.",
     "Paused": "The shelter says this program is on hold right now.",
     "Needs check": "We couldn't fully confirm the current details. Contact the shelter before you go.",
+    "No program yet": "This shelter doesn't run a day-out program that we know of. You can still send a request: once a month we tell each shelter how many people want to take their dogs out, and pass along your details.",
 }
 TYPE_LABEL = {"day": "Day trip", "sleep": "Sleepover", "hike": "Hike or walk", "visit": "Visit"}
 
@@ -72,7 +75,7 @@ def load():
         r["types"] = tag_types(r["offers"])
         r["state_name"] = STATES[r["state"]]
         r["state_slug"] = slugify(STATES[r["state"]])
-        r["requests"] = bool(r.get("email_main") or r.get("email_program") or optins.get(slug))
+        r["requests"] = bool(r.get("email_main") or r.get("email_program") or optins.get(slug)) or r["status"] == NOPROG
     rows.sort(key=lambda r: (r["state"], STATUS_ORDER[r["status"]], r["city"], r["org"]))
     return rows, optins
 
@@ -125,6 +128,12 @@ table.list .prog{color:var(--muted);font-size:.92rem}
 .b-vol{color:#9a4f12;background:#ffe7cf}
 .b-check{color:#7a6410;background:#fff2bf}
 .b-paused{color:#555;background:#eee}
+.b-none{color:#4a4e69;background:#ebe9f5}
+.noprog{margin-top:34px}
+.noprog ul{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+.noprog li{background:#fff;border:2px solid #f3e9da;border-radius:14px;padding:12px 14px}
+.noprog li b{display:block}
+.noprog li span{color:var(--muted);font-size:.9rem}
 .animal{font-size:.88rem;color:var(--muted)}
 .ico{display:inline-block;vertical-align:-4px;width:20px;height:20px;margin-right:4px}
 .states{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
@@ -201,7 +210,7 @@ PAWROW = '<div class="paw-divider" style="color:#e2c9a4">' + PAW*5 + '</div>'
 
 
 def badge(status):
-    cls = {"Open to public": "b-open", "Volunteers only": "b-vol", "Needs check": "b-check", "Paused": "b-paused"}[status]
+    cls = {"Open to public": "b-open", "Volunteers only": "b-vol", "Needs check": "b-check", "Paused": "b-paused", "No program yet": "b-none"}[status]
     return f'<span class="badge {cls}">{esc(STATUS_LABEL[status])}</span>'
 
 
@@ -368,19 +377,35 @@ def build_home(rows):
         body, "/", f'<script type="application/ld+json">{ld}</script>'))
 
 
+def noprog_section(others, name):
+    if not others:
+        return ""
+    items = "".join(
+        f'<li><b><a href="/listings/{r["slug"]}/">{esc(r["org"])}</a></b><span>{esc(r["city"])}</span>'
+        + (f'<br><a href="/request/?listing={r["slug"]}">Request an outing</a>' if r["requests"] else "")
+        + "</li>" for r in sorted(others, key=lambda r: (r["city"], r["org"])))
+    return f"""<section class="noprog"><h2>Other shelters in {name}</h2>
+<p class="animal">These shelters don't run a day-out program that we know of yet. Want to take one of their dogs out? Send a request. Once a month we tell each shelter how many people asked, with a free guide to starting a program.</p>
+<ul>{items}</ul></section>"""
+
+
 def build_states(rows):
     by_state = {}
     for r in rows:
         by_state.setdefault(r["state"], []).append(r)
     for s in STATES:
-        lst = by_state.get(s, [])
+        allst = by_state.get(s, [])
+        lst = [r for r in allst if r["status"] != NOPROG]
+        others = [r for r in allst if r["status"] == NOPROG]
         name = STATES[s]
+        np_html = noprog_section(others, name)
         if not lst:
             body = f'''<div class="crumbs"><a href="/">Home</a> / {name}</div>
 <h1>Shelter dog day trips and sleepovers in {name}</h1>
 <p class="lede">We haven't found a public day-out, sleepover or cat program in {name} yet. We check every state each month and add new programs as shelters launch them.</p>
 <p><a class="btn" href="/suggest/">Know one? Tell us</a> <a class="btn alt" href="/for-shelters/">Run a shelter in {name}?</a></p>
-<p class="animal" style="margin-top:16px">Many shelters will still let you walk dogs or socialize cats as a volunteer. Ask your local shelter about volunteering or short-term fostering.</p>'''
+<p class="animal" style="margin-top:16px">Many shelters will still let you walk dogs or socialize cats as a volunteer. Ask your local shelter about volunteering or short-term fostering.</p>
+{np_html}'''
             write(f"/states/{slugify(name)}/", page(
                 f"Shelter Dog Day Trips & Sleepovers in {name} | {BRAND}",
                 f"Animal shelter day-out, sleepover and cat programs in {name}. Know one we're missing? Tell us.",
@@ -394,6 +419,7 @@ def build_states(rows):
 {filters(False)}
 {table(lst, show_state=False)}
 <p class="animal" style="margin-top:12px">Don't see your shelter? <a href="/suggest/">Suggest one</a>. Shelter staff can <a href="/for-shelters/">claim a listing</a>.</p>
+{np_html}
 {FILTER_JS}"""
         write(f"/states/{slugify(name)}/", page(
             f"Shelter Dog Day Trips & Sleepovers in {name} | {BRAND}",
@@ -409,7 +435,7 @@ def build_listings(rows):
         req = ""
         if r["requests"]:
             req = f'<a class="btn" href="/request/?listing={r["slug"]}">Request an outing</a> '
-        go = f'<a class="btn{" alt" if r["requests"] else ""}" href="{esc(r["url"])}" rel="noopener nofollow" target="_blank">Sign up on the shelter\'s site</a>'
+        go = f'<a class="btn{" alt" if r["requests"] else ""}" href="{esc(r["url"])}" rel="noopener nofollow" target="_blank">{"Visit the shelter\'s site" if r["status"] == NOPROG else "Sign up on the shelter\'s site"}</a>'
         status_help = STATUS_HELP[r["status"]]
         ld = json.dumps({
             "@context": "https://schema.org", "@type": "AnimalShelter", "name": name,
@@ -506,7 +532,7 @@ def build_forms(rows=None):
               "suggest")
 
     # Phase 2 request form: shown for listings with a known shelter email.
-    req_map = json.dumps({r["slug"]: r["org"] for r in (rows or []) if r["requests"]})
+    req_map = json.dumps({r["slug"]: [r["org"], 1 if r["status"] == NOPROG else 0] for r in (rows or []) if r["requests"]})
     body = f"""<h1>Request an outing</h1>
 <div class="prose"><p class="lede" id="req-intro">Send an outing request straight to the shelter's email. They'll reply to you by email or phone to confirm details and next steps.</p></div>
 <form class="std" method="post" action="/forms/submit.php">
@@ -521,9 +547,9 @@ def build_forms(rows=None):
 <label for="message">Anything the shelter should know?</label><textarea id="message" name="message" maxlength="3000" placeholder="Your plans for the day, experience with dogs or cats, other pets or kids at home"></textarea>
 <label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I'm 18 or older and understand the shelter decides whether to approve the outing and sets its own rules.</label>
 <p style="margin-top:16px"><button class="btn" type="submit">Send request</button></p>
-<p class="fine">Your request goes to the shelter you picked, with a copy kept by {BRAND} so we can help if something goes wrong. See our <a href="/privacy/">privacy policy</a>.</p>
+<p class="fine">Your request goes to the shelter you picked (right away if it runs a program, or in our monthly note if it doesn't), with a copy kept by {BRAND} so we can help if something goes wrong. See our <a href="/privacy/">privacy policy</a>.</p>
 </form>
-<script>(function(){{var M={req_map};var l=(new URLSearchParams(location.search).get('listing')||'').replace(/[^a-z0-9-]/g,'');document.getElementById('listing').value=l;var t=document.getElementById('req-intro');if(M[l]){{t.textContent='Send an outing request to '+M[l]+'. They will reply to you by email or phone to confirm details and next steps.';}}else{{t.textContent='Pick a shelter from the directory first, then use its Request an outing button.';document.querySelector('form.std').style.display='none';}}}})();</script>"""
+<script>(function(){{var M={req_map};var l=(new URLSearchParams(location.search).get('listing')||'').replace(/[^a-z0-9-]/g,'');document.getElementById('listing').value=l;var t=document.getElementById('req-intro');if(M[l]&&M[l][1]){{t.textContent=M[l][0]+' does not run a day-out program yet. Send your request and we will add it to a monthly note telling them how many people want to take their dogs out, with your name and contact details so they can reach you if they start one.';}}else if(M[l]){{t.textContent='Send an outing request to '+M[l][0]+'. They will reply to you by email or phone to confirm details and next steps.';}}else{{t.textContent='Pick a shelter from the directory first, then use its Request an outing button.';document.querySelector('form.std').style.display='none';}}}})();</script>"""
     write("/request/", page(f"Request an outing | {BRAND}", "Send an outing request to a participating shelter.", body, "/request/", '<meta name="robots" content="noindex">'))
 
     thanks = f"""<h1>Thanks, we got it.</h1><p class="lede">Your message was sent. If you asked for a reply, we'll be in touch by email.</p><p><a class="btn" href="/">Back to {BRAND}</a></p>"""
@@ -625,7 +651,7 @@ def build_assets(rows, optins):
     lookup = {}
     for r in rows:
         em = r.get("email_main") or (optins.get(r["slug"], {}) or {}).get("email", "")
-        lookup[r["slug"]] = {"org": r["org"], "city": r["city"], "state": r["state"], "email_main": em, "email_program": r.get("email_program", "")}
+        lookup[r["slug"]] = {"org": r["org"], "city": r["city"], "state": r["state"], "email_main": em, "email_program": r.get("email_program", ""), "noprog": r["status"] == NOPROG}
     (DIST / "forms" / "listings.json").write_text(json.dumps(lookup))
     (DIST / "forms" / "optins.json").write_text(json.dumps(optins))
     (DIST / ".htaccess").write_text(
@@ -641,14 +667,15 @@ def main():
     DIST.mkdir()
     rows, optins = load()
     build_assets(rows, optins)
-    build_home(rows)
+    progs = [r for r in rows if r["status"] != NOPROG]
+    build_home(progs)
     build_states(rows)
     build_listings(rows)
-    build_cats(rows)
+    build_cats(progs)
     build_forms(rows)
     build_static_pages(rows)
     n = sum(1 for _ in DIST.rglob("*.html"))
-    print(f"Built {len(rows)} listings, {n} pages into {DIST}")
+    print(f"Built {len(progs)} programs + {len(rows)-len(progs)} other shelters, {n} pages into {DIST}")
 
 
 if __name__ == "__main__":

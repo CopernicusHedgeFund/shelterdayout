@@ -74,6 +74,19 @@ $summary = implode("\n", $lines);
 
 if ($form === 'request') {
     if (!$L || $email === '' || ($fields['name'] ?? '') === '' || ($fields['confirm'] ?? '') !== 'yes') { back('oops'); }
+    if (!empty($L['noprog'])) {
+        // Shelter has no program yet: queue the request for the monthly batch (send_batches.php).
+        $row = ['at' => $stamp, 'listing' => $listing, 'org' => $L['org'], 'city' => $L['city'], 'state' => $L['state'],
+                'name' => $fields['name'], 'email' => $email, 'phone' => $fields['phone'] ?? '', 'when' => $fields['when'] ?? '',
+                'kind' => $fields['kind'] ?? '', 'message' => $message];
+        $ok = (bool)@file_put_contents($PRIVATE . '/pending_requests.jsonl', json_encode($row) . "\n", FILE_APPEND | LOCK_EX);
+        log_row($PRIVATE, [$stamp, 'request-queued', $listing, '', $fields['name'], $email, $fields['phone'] ?? '', $fields['when'] ?? '', $ok ? 'queued' : 'FAILED']);
+        send($email, 'Your outing request for ' . $L['org'],
+            "Hi " . $fields['name'] . ",\n\nThanks for asking to take a dog out from " . $L['org'] . " (" . $L['city'] . ", " . $L['state'] . ").\n\n"
+            . "This shelter doesn't run a day-out program yet, so we don't forward requests one at a time. Once a month we send each shelter a note telling them how many people want to take their dogs out, with each person's name and contact details and a free guide to starting a program. If they start one, they may contact you directly.\n\n"
+            . "Your request:\n" . $summary . "\n\nIn the meantime, see programs you can join now at https://shelterdayout.com/\n\n" . BRAND . " (shelterdayout.com)\n", SITE_EMAIL);
+        back($ok ? 'thanks' : 'oops');
+    }
     $to = array_values(array_filter(array_unique(array_merge(
         isset($L['email_program']) && $L['email_program'] ? [$L['email_program']] : [],
         isset($L['email_main']) && $L['email_main'] ? [$L['email_main']] : []
