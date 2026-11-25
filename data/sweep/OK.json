@@ -7,12 +7,123 @@
   "status": "Needs check",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.tulsapets.com/",
-  "notes": "Submit a foster application first, then contact the shelter to schedule.",
+  "url": "https://www.tulsapets.org/",
+  "notes": "Dog Day Out was reported by local news (KJRH/News9) but is not described anywhere on tulsapets.org as of Nov 2026 (foster/volunteer pages checked). Call 918-495-3647 to confirm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source": "https://www.kjrh.com/news/local-news/dog-day-out-humane-society-of-tulsa-starts-new-program-to-help-dogs-in-shelter"
+  "source": "https://www.kjrh.com/news/local-news/dog-day-out-humane-society-of-tulsa-starts-new-program-to-help-dogs-in-shelter",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Adoptions at PetSmart - BA",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-ba-3",
+    "place": "PetSmart - Broken Arrow"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Adoptions at PetSmart - Tulsa Hills",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-tulsa-hills-2",
+    "place": "PetSmart - Tulsa Hills"
+   },
+   {
+    "date": "2026-11-30",
+    "title": "Adoptions at PetSmart - Woodland",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-woodland-4",
+    "place": "PetSmart - Woodland"
+   },
+   {
+    "date": "2026-12-02",
+    "title": "Adoptions at PetSmart - Bixby",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-bixby-2",
+    "place": "PetSmart - Bixby"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Adoptions at PetSmart - Woodland (Adopt Joy Event)",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-woodland-adopt-joy-event",
+    "place": "PetSmart - Woodland"
+   },
+   {
+    "date": "2026-12-07",
+    "title": "Adoptions at PetSmart - Woodland",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-woodland-3",
+    "place": "PetSmart - Woodland"
+   },
+   {
+    "date": "2026-12-11",
+    "title": "Adoptions at PetSmart - BA",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-ba-2",
+    "place": "PetSmart - Broken Arrow"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Adoptions at Hollywood Feed",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-hollywood-feed",
+    "place": "Hollywood Feed"
+   },
+   {
+    "date": "2026-12-14",
+    "title": "Adoptions at PetSmart - Woodland",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-woodland-2",
+    "place": "PetSmart - Woodland"
+   },
+   {
+    "date": "2026-12-15",
+    "title": "Adoptions at PetSmart - Tulsa Hills",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-tulsa-hills-1",
+    "place": "PetSmart - Tulsa Hills"
+   },
+   {
+    "date": "2026-12-18",
+    "title": "Adoptions at PetSmart - BA",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-ba-1",
+    "place": "PetSmart - Broken Arrow"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Adoptions at PetSmart - Bixby",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-bixby-1",
+    "place": "PetSmart - Bixby"
+   },
+   {
+    "date": "2026-12-21",
+    "title": "Adoptions at PetSmart - Woodland",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-woodland-1",
+    "place": "PetSmart - Woodland"
+   },
+   {
+    "date": "2026-12-22",
+    "title": "Adoptions at PetSmart - Tulsa Hills",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-tulsa-hills",
+    "place": "PetSmart - Tulsa Hills"
+   },
+   {
+    "date": "2026-12-23",
+    "title": "Adoptions at PetSmart - Bixby",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-bixby",
+    "place": "PetSmart - Bixby"
+   },
+   {
+    "date": "2026-12-28",
+    "title": "Adoptions at PetSmart - Woodland",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-woodland",
+    "place": "PetSmart - Woodland"
+   },
+   {
+    "date": "2026-12-30",
+    "title": "Adoptions at PetSmart - BA",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-ba",
+    "place": "PetSmart - Broken Arrow"
+   },
+   {
+    "date": "2027-01-02",
+    "title": "Adoptions at Petco 41st Street",
+    "url": "https://www.tulsapets.org/event-details/adoptions-at-petco-41st-street",
+    "place": "Petco 41st Street"
+   }
+  ],
+  "source_list": ""
  },
  {
   "state": "OK",
@@ -22,7 +133,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.brokenarrowok.gov/government/police/animal-control/adoption-information",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -51,13 +162,13 @@
  {
   "state": "OK",
   "city": "Moore",
-  "org": "City of Moore Animal Shelter and Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "org": "Moore Animal Welfare and Adoption Center",
+  "program": "Staycation and Daycation Program",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "",
+  "offers": "Day trip, sleepover",
+  "url": "https://www.cityofmooreok.gov/departments-divisions/animal-welfare-and-adoption",
+  "notes": "The city's Animal Welfare page lists a Staycation and Daycation Program and links a program document (https://www.cityofmooreok.gov/document/90001941, rev. 11/23/26). Rules were not verified because the PDF could not be retrieved. Shelter at 3500 S. I-35 Service Rd, Moore. Adoption center open Tue-Fri 9am-6pm, Sat 9am-4pm. Phone 405-793-5190.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -68,13 +179,13 @@
  {
   "state": "OK",
   "city": "Altus",
-  "org": "Animal Control Department",
+  "org": "City of Altus Animal Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://www.altusok.gov/page/animal-control/",
+  "notes": "2200 Enterprise Dr, Altus. Public hours Mon-Fri 12-5pm, plus every 3rd Saturday 10am-2pm. Phone 580-481-2285. Adoptable pets: https://www.altusok.gov/page/lost-and-adoptable-pets",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -84,17 +195,17 @@
  },
  {
   "state": "OK",
-  "city": "Del City",
-  "org": "Oklahoma City Animal Shelter",
+  "city": "Oklahoma City",
+  "org": "Oklahoma City Animal Welfare (OKC Animal Shelter)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://www.okc.gov/AnimalWelfare",
+  "notes": "Shelter at 2811 SE 29th St. Adoptions Tue-Sat noon-5pm. A Nov 9, 2026 city bulletin says the shelter moves to the new Louisa McCune Animal Welfare Center in mid-December 2026. In 2025 the city ran a 'Home for the Holidays' flash-foster program (adults 18+ foster a dog for up to 2 weeks, through year end). No 2026 edition has been confirmed yet, so re-check in December. The 'We Are Moving! Empty the Shelter' name-your-fee promotion ended Nov 17, 2026.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "awinfo@okc.gov",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/496249323"
@@ -119,13 +230,13 @@
  {
   "state": "OK",
   "city": "Edmond",
-  "org": "Edmond Animal Shelter",
+  "org": "Edmond Animal Services",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "http://www.edmondok.com/animalservices",
+  "notes": "2424 Old Timbers Dr, Edmond. Phone 405-216-7615. URL taken from a directory listing and not yet verified.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -136,13 +247,13 @@
  {
   "state": "OK",
   "city": "Mangum",
-  "org": "Mangum Animal Shelter",
+  "org": "City of Mangum Animal Shelter",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://www.facebook.com/cityofmangumanimalshelter/",
+  "notes": "City-run shelter in Mangum. Facebook is its only web presence (URL from a directory listing and not verified).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -234,5 +345,140 @@
   "phone": "+1 405 286 1229",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1309514291"
+ },
+ {
+  "state": "OK",
+  "city": "Tulsa",
+  "org": "Tulsa Animal Services",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cityoftulsa.org/taw",
+  "notes": "Shelter at 3031 N Erie Ave; open 2-6 p.m. daily. No day-out program; offers short-term fostering and guided group tours by appointment.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "Tulsa311@cityoftulsa.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Tulsa",
+  "org": "Tulsa SPCA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://tulsaspca.org/",
+  "notes": "2910 Mohawk Blvd, Tulsa.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@tulsaspca.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Sand Springs",
+  "org": "Sand Springs Animal Welfare",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.sandspringsok.gov/598/Animal-Welfare",
+  "notes": "1640 W. Wekiwa Rd; open 10-4 Mon-Fri. A TulsaKids article mentions 'doggy dates', but the city's own pages do not describe one - worth rechecking.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "animalcontrol@sandspringsok.gov",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Owasso",
+  "org": "Owasso Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.cityofowasso.com/129/Animal-Shelter",
+  "notes": "500 S Main St, Owasso.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "AnimalShelter@cityofowasso.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Jenks",
+  "org": "Jenks Animal Welfare",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.jenks.com/171/Dog-Cat-Adoption",
+  "notes": "City page found in search; could not be fetched to verify details.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Glenpool",
+  "org": "Glenpool Animal Control & Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.facebook.com/GlenpoolAnimalControl/",
+  "notes": "14536 S Elwood Ave, Glenpool. Facebook-only presence found.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Duncan",
+  "org": "Stephens County Humane Society",
+  "program": "Sleepover Program",
+  "status": "Needs check",
+  "animals": "Dogs and cats",
+  "offers": "Weekend sleepover",
+  "url": "https://www.givegab.com/nonprofits/stephens-county-humane-society/opportunities/sleepover-program",
+  "notes": "The humane society's own GiveGab listing describes an ongoing weekend sleepover: take a dog or cat home for a weekend trial stay. Families welcome. Fill out paperwork at the shelter; times arranged with the coordinator. Shelter at 714 Martin Luther King Jr. Ave, Duncan. Phone 580-252-7387. No standalone website found.",
+  "checked": "November 2026",
+  "email_program": "schs@att.net",
+  "email_main": "schs@att.net",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Yukon",
+  "org": "City of Yukon Animal Control and Facility",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cityofyukonok.gov/288/Adoptable-Animals",
+  "notes": "City facility. Phone 405-350-4738. Adoptable animals are posted on Facebook.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OK",
+  "city": "Yukon",
+  "org": "Pets and People Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cityofyukonok.gov/288/Adoptable-Animals",
+  "notes": "An independent humane society in Yukon, listed on the city's Adoptable Animals page. Phone 405-367-7156. Its own website was not checked (limits ran out).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]
