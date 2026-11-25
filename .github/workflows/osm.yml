@@ -1,8 +1,13 @@
-name: Refresh OpenStreetMap shelters
+name: Refresh OpenStreetMap data
 on:
   workflow_dispatch:
+    inputs:
+      which:
+        description: "shelters, vets or both"
+        default: "both"
   schedule:
-    - cron: "23 6 1 * *"
+    - cron: "23 6 1 * *"      # shelters monthly
+    - cron: "41 7 2 1,4,7,10 *" # vets quarterly
 permissions:
   contents: write
 jobs:
@@ -14,10 +19,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python tools/fetch_osm_shelters.py
+      - run: pip install reverse_geocoder
+      - name: Shelters
+        if: github.event.schedule == '23 6 1 * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.which != 'vets')
+        run: python tools/fetch_osm.py animal_shelter data/osm_shelters.json
+      - name: Vets
+        if: github.event.schedule == '41 7 2 1,4,7,10 *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.which != 'shelters')
+        run: python tools/fetch_osm.py veterinary data/osm_vets.json
       - run: |
           git config user.name "shelterdayout-bot"
           git config user.email "hello@shelterdayout.com"
-          git add data/osm_shelters.json
-          git diff --cached --quiet || git commit -m "Refresh OpenStreetMap shelter data"
-          git push
+          git add data/osm_*.json || true
+          git diff --cached --quiet || git commit -m "Refresh OpenStreetMap data"
+          git pull --rebase origin main && git push
