@@ -251,7 +251,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <body>
 <header class="site"><div class="wrap">
 <a class="logo" href="/">{LOGO}<span>Shelter<b>DayOut</b></span></a>
-<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/how-it-works/">How it works</a><a href="/for-shelters/">For shelters</a></nav>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/find-a-vet/">Find a vet</a><a href="/for-shelters/">For shelters</a></nav>
 </div></header>
 <main><div class="wrap">
 {body}
@@ -406,7 +406,7 @@ def build_home(rows, all_rows=None):
 <div class="stats">
 <div><b>{len(all_rows):,}</b><span>shelters listed</span></div>
 <div><b>{len(rows):,}</b><span>day-out &amp; cat programs</span></div>
-<div><b>{n_states}</b><span>states{" + DC" if "DC" in by_state else ""} covered</span></div>
+<div><b>{len({r["state"] for r in all_rows if r["state"] != "DC"})}</b><span>states{" + DC" if any(r["state"] == "DC" for r in all_rows) else ""} covered</span></div>
 <div><b>Monthly</b><span>updated {date.today().strftime("%B %Y")}</span></div>
 </div>
 <section id="find">
@@ -783,6 +783,81 @@ def build_guides(progs):
         write(path, page(g["title"], g["desc"], body, path, faq_ld + crumbs_ld([("Home", "/"), (g["h1"], path)])))
 
 
+VET_JS = """<script>
+(function(){
+ var q=document.getElementById('vq'),st=document.getElementById('vst'),em=document.getElementById('vem'),lc=document.getElementById('vlc'),out=document.getElementById('vout'),cnt=document.getElementById('vcount'),cache={};
+ function esc(s){return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+ function row(v){var site=v.w?'<a href="'+esc(v.w)+'" rel="noopener nofollow" target="_blank">Website</a>':'';var ph=v.p?'<a href="tel:'+esc(v.p.replace(/[^0-9+]/g,''))+'">'+esc(v.p)+'</a>':'';
+  return '<tr><td><b>'+esc(v.n)+'</b>'+(v.e?' <span class="badge b-open">24/7 emergency</span>':'')+(v.l?' <span class="badge b-check">Low-cost / nonprofit</span>':'')+'<br><span class="animal">'+esc(v.a||'')+'</span></td><td>'+esc(v.c)+', '+v.s+(v.z?' '+esc(v.z):'')+'</td><td>'+ph+(ph&&site?'<br>':'')+site+'</td></tr>';}
+ function render(list){var t=(q.value||'').trim().toLowerCase(),r=list.filter(function(v){if(em.checked&&!v.e)return false;if(lc.checked&&!v.l)return false;if(!t)return true;return (v.n+' '+v.c+' '+(v.z||'')).toLowerCase().indexOf(t)>=0;});
+  cnt.textContent=r.length+' vets'+(r.length>300?' (showing first 300, narrow your search)':'');out.innerHTML=r.slice(0,300).map(row).join('');}
+ function load(){var s=st.value;if(!s){cnt.textContent='Pick a state to search vets.';out.innerHTML='';return;}
+  if(cache[s])return render(cache[s]);cnt.textContent='Loading...';fetch('/find-a-vet/data/'+s+'.json').then(function(r){return r.json();}).then(function(d){cache[s]=d;render(d);});}
+ st.addEventListener('change',load);[q,em,lc].forEach(function(e){e.addEventListener('input',load);e.addEventListener('change',load);});
+ document.getElementById('vform').addEventListener('submit',function(e){e.preventDefault();load();});
+ var u=new URLSearchParams(location.search);if(u.get('state'))st.value=u.get('state').toUpperCase();if(u.get('q'))q.value=u.get('q');load();
+})();
+</script>"""
+
+
+def build_vets():
+    src = ROOT / "data" / "osm_vets.json"
+    if not src.exists():
+        return
+    raw = json.loads(src.read_text())["places"]
+    lowcost = re.compile(r"low.?cost|nonprofit|non-profit|spay|neuter|humane|spca|community|clinic for|charity|rescue|free", re.I)
+    by = {}
+    for v in raw:
+        if v["state"] not in STATES or not v.get("city"):
+            continue
+        site = (v.get("website") or "").split(";")[0].strip()
+        if site and not site.startswith("http"):
+            site = "https://" + site
+        rec = {"n": v["name"], "c": v["city"], "s": v["state"], "z": (v.get("zip") or "")[:5], "a": v.get("street", ""),
+               "p": (v.get("phone") or "").split(";")[0].strip(), "w": site,
+               "e": 1 if v.get("emergency") == "yes" or re.search(r"emergency|24.?7|24 hour", v["name"], re.I) else 0,
+               "l": 1 if lowcost.search(v["name"] + " " + v.get("operator", "")) or v.get("operator_type") in ("community", "ngo", "charity") else 0}
+        by.setdefault(v["state"], []).append(rec)
+    (DIST / "find-a-vet" / "data").mkdir(parents=True, exist_ok=True)
+    total = 0
+    for stc, lst in by.items():
+        lst.sort(key=lambda r: (r["c"], r["n"]))
+        total += len(lst)
+        (DIST / "find-a-vet" / "data" / f"{stc}.json").write_text(json.dumps(lst, separators=(",", ":")))
+    opts = "".join(f'<option value="{k}">{v} ({len(by.get(k, [])):,})</option>' for k, v in sorted(STATES.items(), key=lambda kv: kv[1]) if by.get(k))
+    state_links = " ".join(f'<a href="/find-a-vet/{slugify(STATES[k])}/">{STATES[k]}</a>' for k in sorted(by, key=lambda k: STATES[k]))
+    body = f"""<h1>Find a vet near you</h1>
+<p class="lede">Search {total:,} veterinary clinics across the US. Filter for 24/7 emergency vets or low-cost and nonprofit clinics. Updated every 3 months.</p>
+<form class="search" id="vform"><div class="row">
+<div style="flex:1"><label for="vq">City, ZIP or clinic name</label><input id="vq" type="text" placeholder="e.g. Denver, 80202, Banfield" enterkeyhint="search"></div>
+<div><label for="vst">State</label><select id="vst"><option value="">Choose a state</option>{opts}</select></div>
+</div><div class="row2"><label class="chk"><input type="checkbox" id="vem"> 24/7 emergency only</label><label class="chk"><input type="checkbox" id="vlc"> Low-cost / nonprofit</label><button class="btn sbtn" type="submit">Search</button></div></form>
+<p class="count" id="vcount"></p>
+<table class="list"><thead><tr><th>Clinic</th><th>Location</th><th>Contact</th></tr></thead><tbody id="vout"></tbody></table>
+<div class="note">Clinic details come from OpenStreetMap and can be out of date. Call ahead, especially for emergencies. Know a vet we're missing or see a mistake? <a href="/suggest/">Tell us</a>.</div>
+<h2>Browse vets by state</h2><p class="citylinks">{state_links}</p>
+{VET_JS}"""
+    write("/find-a-vet/", page(f"Find a Vet Near You: {total:,} Veterinary Clinics, Emergency & Low-Cost | {BRAND}",
+        f"Search {total:,} vet clinics across the US by city, ZIP or state. Find 24/7 emergency vets and low-cost or nonprofit clinics. Updated every 3 months.",
+        body, "/find-a-vet/"))
+    for stc, lst in by.items():
+        name = STATES[stc]
+        rows_html = "".join(
+            f'<tr><td><b>{esc(r["n"])}</b>{" <span class=\"badge b-open\">24/7 emergency</span>" if r["e"] else ""}{" <span class=\"badge b-check\">Low-cost / nonprofit</span>" if r["l"] else ""}</td>'
+            f'<td>{esc(r["c"])}</td><td>{esc(r["p"])}{"<br>" if r["p"] and r["w"] else ""}{f"<a href=\"{esc(r["w"])}\" rel=\"noopener nofollow\" target=\"_blank\">Website</a>" if r["w"] else ""}</td></tr>'
+            for r in lst)
+        ne = sum(r["e"] for r in lst)
+        cities = sorted({r["c"] for r in lst}, key=lambda c: -sum(1 for r in lst if r["c"] == c))[:5]
+        body = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/find-a-vet/">Find a vet</a> / {name}</div>
+<h1>Vets in {name}</h1>
+<p class="lede">{len(lst):,} veterinary clinics in {name}, including {ne} listed as 24/7 emergency. <a href="/find-a-vet/?state={stc}">Search by city or ZIP</a>.</p>
+<table class="list"><thead><tr><th>Clinic</th><th>City</th><th>Contact</th></tr></thead><tbody>{rows_html}</tbody></table>
+<div class="note">From OpenStreetMap; details can change. Call ahead.</div>"""
+        write(f"/find-a-vet/{slugify(name)}/", page(f"Vets in {name}: {len(lst):,} Veterinary Clinics & Emergency Vets | {BRAND}",
+            f"Find a vet in {name}: {len(lst):,} clinics in {', '.join(cities)} and more, including 24/7 emergency and low-cost clinics.",
+            body, f"/find-a-vet/{slugify(name)}/", crumbs_ld([("Home", "/"), ("Find a vet", "/find-a-vet/"), (name, f"/find-a-vet/{slugify(name)}/")])))
+
+
 def build_sitemap():
     today = date.today().isoformat()
     skip = {"/404.html", "/thanks/", "/oops/", "/request/"}
@@ -840,6 +915,7 @@ def main():
     build_static_pages(rows)
     build_cities(progs)
     build_guides(progs)
+    build_vets()
     build_sitemap()
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"Built {len(progs)} programs + {len(rows)-len(progs)} other shelters, {n} pages into {DIST}")

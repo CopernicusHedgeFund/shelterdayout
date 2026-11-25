@@ -3,7 +3,7 @@ Skips shelters already listed (fuzzy name match in the same state) and non-dog/c
 import json, re
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
-osm = json.loads((ROOT / "data" / "osm_shelters.json").read_text())["shelters"]
+osm = json.loads((ROOT / "data" / "osm_shelters.json").read_text())["places"]
 L = json.loads((ROOT / "data" / "listings.json").read_text())
 SKIP = re.compile(r"wildlife|raptor|equine|horse|donkey|burro|bird|avian|parrot|reptile|turtle|tortoise|rabbit|bunny|guinea pig|ferret|farm animal|goat|pig sanctuary|livestock|bat |bats$|aquarium|marine|seal|zoo|veterinar|animal hospital|clinic|grooming|boarding|kennel club|daycare|day care|pet store|petsmart|petco|thrift|resale|store|office|admin", re.I)
 STOP = r"\b(the|inc|of|and|a|city|county|animal|animals|services|service|shelter|center|centre|society|humane|spca|care|control|adoption|pet|pets|rescue|league|department|dept|regional|friends|for|facility)\b"
