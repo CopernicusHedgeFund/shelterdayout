@@ -134,6 +134,10 @@ table.list .prog{color:var(--muted);font-size:.92rem}
 .stats b{display:block;font-family:Fredoka,sans-serif;font-size:1.9rem;color:var(--accent);line-height:1.1}
 .stats span{font-size:.88rem;color:var(--muted);font-weight:700}
 @media(max-width:640px){.stats{grid-template-columns:repeat(2,1fr)}.stats b{font-size:1.5rem}}
+.faq{background:#fff;border:2px solid #f3e9da;border-radius:14px;padding:12px 16px;margin:8px 0}
+.faq summary{font-weight:800;cursor:pointer}
+.faq p{margin:8px 0 0}
+.citylinks a{display:inline-block;margin:0 10px 8px 0;font-weight:700}
 .b-none{color:#4a4e69;background:#ebe9f5}
 .noprog{margin-top:34px}
 .noprog ul{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
@@ -236,6 +240,9 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <meta property="og:url" content="{url}">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{BRAND}">
+<meta property="og:image" content="{SITE}/assets/og.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700;800&display=swap">
 <link rel="stylesheet" href="/assets/site.css">
@@ -252,8 +259,10 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 </div></main>
 <footer class="site"><div class="wrap">
 <div class="logo">{LOGO}<span>Shelter<b>DayOut</b></span></div>
+<p><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/cities/">Browse by city</a></p>
 <p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
+<p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License.</p>
 <p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
 </div></footer>
 </body>
@@ -339,6 +348,28 @@ def filters(with_state=True, states_present=()):
 <p class="count" id="count" aria-live="polite"></p>"""
 
 
+def crumbs_ld(items):
+    return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@type": "BreadcrumbList",
+        "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": SITE + u} for i, (n, u) in enumerate(items)]}) + "</script>"
+
+
+def faq_block(faqs):
+    html_ = "".join(f"<details class=\"faq\"><summary>{esc(q)}</summary><p>{a}</p></details>" for q, a in faqs)
+    ld = json.dumps({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+        {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub(r"<[^>]+>", "", a)}} for q, a in faqs]})
+    return html_, f'<script type="application/ld+json">{ld}</script>'
+
+
+HOME_FAQ = [
+    ("Can I rent a dog for the day?", "Not from a business, but you can do something better: many animal shelters let you <a href=\"/rent-a-dog/\">borrow an adoptable dog for free</a> for a few hours, a full day or a sleepover. Programs go by names like Doggy Day Out, Dog for a Day, Field Trips and Daycations."),
+    ("How much does it cost to take a shelter dog out for the day?", "Almost always nothing. Shelters run these programs to give dogs a break from the kennel and help them get adopted, and most send you off with a leash, an Adopt Me vest and treats."),
+    ("Do I have to adopt the dog?", "No. There is no commitment. If you fall in love, you can ask the shelter about adopting, but most people simply bring the dog back at the end of the outing."),
+    ("Who can take a shelter dog out?", "Most programs require you to be 18 or older with a photo ID and a signed waiver. Some are open to anyone who walks in; others are for trained volunteers or require booking ahead. Each listing says which."),
+    ("Can I have a sleepover with a shelter dog?", "Yes, many shelters offer overnights, weekend sleepovers or multi-day staycations. See <a href=\"/shelter-dog-sleepovers/\">shelter dog sleepovers near you</a>."),
+    ("Is there a dog day out program near me?", "Search the directory above by city or state, or <a href=\"/cities/\">browse by city</a>. We list programs in all 50 states and check them every month. If your shelter doesn't run one yet, you can still send a request."),
+]
+
+
 def build_home(rows, all_rows=None):
     all_rows = all_rows or rows
     by_state = {}
@@ -354,6 +385,14 @@ def build_home(rows, all_rows=None):
         "@context": "https://schema.org", "@type": "WebSite", "name": BRAND, "url": SITE + "/",
         "potentialAction": {"@type": "SearchAction", "target": SITE + "/?q={search_term_string}", "query-input": "required name=search_term_string"},
     })
+    faq_html, faq_ld = faq_block(HOME_FAQ)
+    cc = {}
+    for r in rows:
+        cc.setdefault((r["city"], r["state"]), 0); cc[(r["city"], r["state"])] += 1
+    top = sorted(cc.items(), key=lambda kv: (-kv[1], kv[0]))[:30]
+    city_links = " ".join(f'<a href="/cities/{slugify(c + " " + st)}/">{esc(c)}, {st}</a>' for (c, st), _ in sorted(top, key=lambda kv: kv[0]))
+    org_ld = json.dumps({"@context": "https://schema.org", "@type": "Organization", "name": BRAND, "url": SITE + "/",
+        "logo": SITE + "/assets/og.png", "email": CONTACT, "parentOrganization": {"@type": "NGO", "name": "Charity Good", "url": "https://charitygood.org"}})
     body = f"""<section class="hero">
 <div>
 <h1>Take a shelter dog out <span class="hl">for the day.</span></h1>
@@ -383,12 +422,16 @@ def build_home(rows, all_rows=None):
 <div><span class="num" style="background:#d8f3e6">{PAW.replace('currentColor','#2a9d8f')}</span><b>2. Sign up with the shelter</b>Each listing links to the shelter's own sign-up page, rules and hours. Shelters make the match.</div>
 <div><span class="num" style="background:#fff2bf">{ICONS['day'].replace('class="ico"','')}</span><b>3. Enjoy the day</b>Take the dog for a hike, a coffee or a nap on your couch. The photos you share help them get adopted.</div>
 </div>
+<h2>Questions people ask</h2>
+{faq_html}
+<h2>Popular cities</h2>
+<p class="citylinks">{city_links}</p>
 <div class="band"><div style="flex:1 1 360px"><h2>Run a shelter?</h2><p>Get listed for free, update your details, or choose where outing requests go.</p></div><a class="btn" href="/for-shelters/">For shelters</a></div>
 {FILTER_JS}"""
     write("/", page(
-        f"{BRAND}: Take a shelter dog out for the day",
-        "Find animal shelters where you can take an adoptable dog on a day trip, hike or sleepover, or visit shelter cats. Free directory, checked monthly.",
-        body, "/", f'<script type="application/ld+json">{ld}</script>'))
+        "Borrow a Shelter Dog for the Day: Dog Day Out & Sleepover Programs Near You | ShelterDayOut",
+        f"Want to rent a dog for the day? Borrow an adoptable shelter dog free for a day trip, hike or sleepover. {len(all_rows):,} shelters nationwide, checked monthly.",
+        body, "/", f'<script type="application/ld+json">{ld}</script><script type="application/ld+json">{org_ld}</script>{faq_ld}'))
 
 
 def noprog_section(others, name):
@@ -421,24 +464,24 @@ def build_states(rows):
 <p class="animal" style="margin-top:16px">Many shelters will still let you walk dogs or socialize cats as a volunteer. Ask your local shelter about volunteering or short-term fostering.</p>
 {np_html}'''
             write(f"/states/{slugify(name)}/", page(
-                f"Shelter Dog Day Trips & Sleepovers in {name} | {BRAND}",
-                f"Animal shelter day-out, sleepover and cat programs in {name}. Know one we're missing? Tell us.",
-                body, f"/states/{slugify(name)}/"))
+                f"Borrow a Shelter Dog in {name}: Day Trips & Sleepovers | {BRAND}",
+                f"Looking to rent or borrow a shelter dog for the day in {name}? See shelters in {name} and request a dog day out. Checked monthly.",
+                body, f"/states/{slugify(name)}/", crumbs_ld([("Home", "/"), (name, f"/states/{slugify(name)}/")])))
             continue
         open_n = sum(1 for r in lst if r["status"] == "Open to public")
         cities = sorted({r["city"] for r in lst})
         body = f"""<div class="crumbs"><a href="/">Home</a> / {name}</div>
-<h1>Shelter dog day trips and sleepovers in {name}</h1>
-<p class="lede">{len(lst)} shelter programs in {name}, {open_n} of them open to the public. Cities include {esc(', '.join(cities[:8]))}{'' if len(cities) <= 8 else ' and more'}.</p>
+<h1>Take a shelter dog out for the day in {name}</h1>
+<p class="lede">Want to rent or borrow a dog in {name}? These shelters let you take an adoptable dog on a day trip, hike or sleepover for free. {len(lst)} shelter programs in {name}, {open_n} of them open to the public. Cities include {esc(', '.join(cities[:8]))}{'' if len(cities) <= 8 else ' and more'}.</p>
 {filters(False)}
 {table(lst, show_state=False)}
 <p class="animal" style="margin-top:12px">Don't see your shelter? <a href="/suggest/">Suggest one</a>. Shelter staff can <a href="/for-shelters/">claim a listing</a>.</p>
 {np_html}
 {FILTER_JS}"""
         write(f"/states/{slugify(name)}/", page(
-            f"Shelter Dog Day Trips & Sleepovers in {name} | {BRAND}",
-            f"{len(lst)} animal shelter programs in {name} where you can take a dog on a day trip or sleepover, or visit shelter cats.",
-            body, f"/states/{slugify(name)}/"))
+            f"Borrow a Shelter Dog in {name}: {len(lst)} Day Trip & Sleepover Programs | {BRAND}",
+            f"Rent or borrow a shelter dog for the day in {name}, free. {len(lst)} programs in {', '.join(cities[:4])} and more, plus {len(others)} other shelters. Checked monthly.",
+            body, f"/states/{slugify(name)}/", crumbs_ld([("Home", "/"), (name, f"/states/{slugify(name)}/")])))
 
 
 def contact_html(r):
@@ -486,9 +529,12 @@ def build_listings(rows):
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
 <p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests.</p>"""
         write(f"/listings/{r['slug']}/", page(
-            f"{name} {r['program']} ({r['city']}, {r['state']}) | {BRAND}",
-            f"{r['program']} at {name} in {r['city']}, {r['state_name']}: {r['offers']}. Details, rules and how to sign up.",
-            body, f"/listings/{r['slug']}/", f'<script type="application/ld+json">{ld}</script>'))
+            (f"{name} ({r['city']}, {r['state']}): Request a Dog Day Out | {BRAND}" if r["status"] == NOPROG
+             else f"{r['program']} at {name}, {r['city']}, {r['state']}: Take a Shelter Dog Out | {BRAND}"),
+            (f"{name} in {r['city']}, {r['state_name']} doesn't list a dog day out program yet. Ask them for one: we pass requests to the shelter every month."
+             if r["status"] == NOPROG else
+             f"Take a shelter dog out with {name} in {r['city']}, {r['state_name']}: {r['offers']}. Free. Rules, hours and how to sign up."),
+            body, f"/listings/{r['slug']}/", f'<script type="application/ld+json">{ld}</script>' + crumbs_ld([("Home", "/"), (r["state_name"], f"/states/{r['state_slug']}/"), (name, f"/listings/{r['slug']}/")])))
 
 
 def build_cats(rows):
@@ -660,10 +706,100 @@ def build_static_pages(rows):
         f"""<h1>Page not found</h1><p class="lede">That page doesn't exist or has moved.</p><p><a class="btn" href="/">Find a shelter outing</a></p>""", "/404.html", canonical=False))
 
 
+def build_cities(progs):
+    by = {}
+    for r in progs:
+        by.setdefault((r["city"], r["state"]), []).append(r)
+    idx = []
+    for (city, st), lst in sorted(by.items(), key=lambda kv: (STATES[kv[0][1]], kv[0][0])):
+        slug = slugify(city + " " + st)
+        sname = STATES[st]
+        idx.append((sname, city, st, slug, len(lst)))
+        types = sorted({TYPE_LABEL[t].lower() for r in lst for t in r["types"]})
+        body = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/states/{slugify(sname)}/">{sname}</a> / {esc(city)}</div>
+<h1>Take a shelter dog out for the day in {esc(city)}, {st}</h1>
+<p class="lede">Looking to rent or borrow a dog in {esc(city)}? {len(lst)} local shelter program{"s" if len(lst) != 1 else ""} let{"" if len(lst) != 1 else "s"} you take an adoptable dog out for free: {", ".join(types)}.</p>
+{table(lst, show_state=False)}
+<p class="animal" style="margin-top:12px">More nearby: see every program in <a href="/states/{slugify(sname)}/">{sname}</a>. New to this? Read <a href="/how-it-works/">how shelter dog day trips work</a>.</p>"""
+        write(f"/cities/{slug}/", page(
+            f"Rent or Borrow a Dog in {city}, {st}: Shelter Dog Day Out Programs | {BRAND}",
+            f"Borrow a shelter dog for the day in {city}, {sname}, free: {len(lst)} program{'s' if len(lst) != 1 else ''} for {', '.join(types)}. Rules, hours and sign-up links.",
+            body, f"/cities/{slug}/", crumbs_ld([("Home", "/"), (sname, f"/states/{slugify(sname)}/"), (city, f"/cities/{slug}/")])))
+    groups = ""
+    cur = None
+    for sname, city, st, slug, n in idx:
+        if sname != cur:
+            groups += ("</p>" if cur else "") + f'<h2>{sname}</h2><p class="citylinks">'
+            cur = sname
+        groups += f'<a href="/cities/{slug}/">{esc(city)}</a>'
+    groups += "</p>"
+    write("/cities/", page(f"Shelter Dog Day Out Programs by City | {BRAND}",
+        f"Find a shelter dog day trip, hike or sleepover program in {len(idx)} US cities. Free to join, checked monthly.",
+        f'<h1>Find a shelter dog day out by city</h1><p class="lede">{len(idx)} cities with shelters that let you take a dog out for the day.</p>{groups}', "/cities/"))
+
+
+GUIDES = {
+    "/rent-a-dog/": dict(
+        title="Rent a Dog for the Day? Borrow a Shelter Dog Free Instead | ShelterDayOut",
+        desc="Want to rent a dog for a day? Many shelters let you borrow an adoptable dog free for a few hours, a hike or a sleepover. Find a program near you.",
+        h1="Want to rent a dog for the day? Borrow a shelter dog instead",
+        types=None,
+        intro="Dog rental businesses are rare and controversial, but hundreds of animal shelters let you borrow a dog for free. You get a hiking buddy or a couch companion for the day; the dog gets a break from the kennel and a better shot at adoption. Shelters call it Doggy Day Out, Dog for a Day, Field Trips, Daycations, Rent-A-Dog or Borrow a Buddy.",
+        faqs=[("Is borrowing a shelter dog free?", "Yes, almost always. Shelters provide a leash, an Adopt Me vest and often treats and a water bowl."),
+              ("What do I need to borrow a dog?", "Usually a photo ID, being 18 or older, and a signed waiver. Some shelters need a short orientation or an online booking first."),
+              ("How long can I keep the dog?", "Day trips run from a couple of hours to a full day. Many shelters also offer overnights, weekend sleepovers or week-long staycations.")]),
+    "/shelter-dog-sleepovers/": dict(
+        title="Shelter Dog Sleepovers Near You: Overnight & Weekend Programs | ShelterDayOut",
+        desc="Host a shelter dog for a night, a weekend or a staycation. Find shelter dog sleepover programs near you, free and checked monthly.",
+        h1="Have a sleepover with a shelter dog",
+        types="sleep",
+        intro="A night or a weekend in a home lets a shelter dog decompress and shows the shelter how they act in a house. Programs go by names like Slumber Party, Pawjama Party, Staycation, Sleepover Buddies and Weekend Warrior.",
+        faqs=[("Do I need to be a foster to host a sleepover?", "Some shelters sign you up as a one-night foster on the spot; others ask you to complete a short foster application first. Each listing explains."),
+              ("Can I bring the dog home if I have other pets?", "Shelters usually ask you to keep the visiting dog separated from resident pets unless they have done a meet and greet.")]),
+    "/hike-with-a-shelter-dog/": dict(
+        title="Hike With a Shelter Dog: Trail Buddy & Field Trip Programs | ShelterDayOut",
+        desc="Take an adoptable shelter dog hiking or for a long walk. Find shelter trail buddy and field trip programs near you, free and checked monthly.",
+        h1="Take a shelter dog hiking",
+        types="hike",
+        intro="Shelter dogs love the trail as much as you do. These programs let you take an adoptable dog for a hike, a run or a long walk, then share photos that help them get adopted.",
+        faqs=[("Can anyone hike with a shelter dog?", "Many programs are open to the public with an ID and waiver; some trail programs are for trained volunteers. Each listing says who can go."),
+              ("Where can I take the dog?", "Usually anywhere dogs are allowed on leash. Most shelters ask you to avoid dog parks.")]),
+}
+
+
+def build_guides(progs):
+    for path, g in GUIDES.items():
+        lst = [r for r in progs if g["types"] is None or g["types"] in r["types"]]
+        if g["types"] is None:
+            lst = [r for r in lst if r["status"] in ("Open to public", "Needs check") and "Dogs" in r["animals"]]
+        faq_html, faq_ld = faq_block(g["faqs"])
+        body = f"""<div class="crumbs"><a href="/">Home</a> / {esc(g['h1'])}</div>
+<h1>{esc(g['h1'])}</h1>
+<div class="prose"><p class="lede">{esc(g['intro'])}</p></div>
+<h2>{len(lst)} programs</h2>
+{table(lst)}
+<h2>Good to know</h2>
+{faq_html}"""
+        write(path, page(g["title"], g["desc"], body, path, faq_ld + crumbs_ld([("Home", "/"), (g["h1"], path)])))
+
+
+def build_sitemap():
+    today = date.today().isoformat()
+    skip = {"/404.html", "/thanks/", "/oops/", "/request/"}
+    urls = []
+    for f in sorted(DIST.rglob("index.html")):
+        u = "/" + str(f.parent.relative_to(DIST)).replace(".", "") + "/"
+        u = u.replace("//", "/")
+        if u not in skip:
+            urls.append(u)
+    sm = "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls)
+    (DIST / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
+
+
 def build_assets(rows, optins):
     (DIST / "assets").mkdir(parents=True, exist_ok=True)
     (DIST / "assets" / "site.css").write_text(CSS.strip() + "\n")
-    for f in (ROOT / "src" / "art").glob("*.svg"):
+    for f in list((ROOT / "src" / "art").glob("*.svg")) + list((ROOT / "src" / "art").glob("*.png")):
         shutil.copy(f, DIST / "assets" / f.name)
     (DIST / "favicon.svg").write_text(
         LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
@@ -702,6 +838,9 @@ def main():
     build_cats(progs)
     build_forms(rows)
     build_static_pages(rows)
+    build_cities(progs)
+    build_guides(progs)
+    build_sitemap()
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"Built {len(progs)} programs + {len(rows)-len(progs)} other shelters, {n} pages into {DIST}")
 
