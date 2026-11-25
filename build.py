@@ -128,6 +128,12 @@ table.list .prog{color:var(--muted);font-size:.92rem}
 .b-vol{color:#9a4f12;background:#ffe7cf}
 .b-check{color:#7a6410;background:#fff2bf}
 .b-paused{color:#555;background:#eee}
+.tagline{font-weight:800;color:var(--teal);margin:6px 0 0}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:8px 0 26px}
+.stats div{background:#fff;border:2px solid #f3e9da;border-radius:16px;padding:14px 10px;text-align:center}
+.stats b{display:block;font-family:Fredoka,sans-serif;font-size:1.9rem;color:var(--accent);line-height:1.1}
+.stats span{font-size:.88rem;color:var(--muted);font-weight:700}
+@media(max-width:640px){.stats{grid-template-columns:repeat(2,1fr)}.stats b{font-size:1.5rem}}
 .b-none{color:#4a4e69;background:#ebe9f5}
 .noprog{margin-top:34px}
 .noprog ul{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
@@ -333,7 +339,8 @@ def filters(with_state=True, states_present=()):
 <p class="count" id="count" aria-live="polite"></p>"""
 
 
-def build_home(rows):
+def build_home(rows, all_rows=None):
+    all_rows = all_rows or rows
     by_state = {}
     for r in rows:
         by_state.setdefault(r["state"], []).append(r)
@@ -351,18 +358,25 @@ def build_home(rows):
 <div>
 <h1>Take a shelter dog out <span class="hl">for the day.</span></h1>
 <p class="lede">Hike, grab a pup cup, or host a sleepover with an adoptable dog, or spend time with shelter cats. It's free, it helps animals get adopted, and every listing is checked monthly.</p>
+<p class="tagline">The nationwide database of shelter day-out programs, updated monthly.</p>
 <div class="pills"><span>{ICONS['day']}Day trips</span><span>{ICONS['sleep']}Sleepovers</span><span>{ICONS['hike']}Hikes</span><span>{ICONS['visit']}Cat lounges</span></div>
 <p style="margin-top:18px"><a class="btn" href="#find">Find an outing near you</a></p>
 </div>
 <img src="/assets/hero.svg" alt="A happy shelter dog in an Adopt Me bandana and a cat on an outdoor adventure" width="560" height="380">
 </section>
+<div class="stats">
+<div><b>{len(all_rows):,}</b><span>shelters listed</span></div>
+<div><b>{len(rows):,}</b><span>day-out &amp; cat programs</span></div>
+<div><b>{n_states + (1 if "DC" in by_state else 0)}</b><span>states + DC covered</span></div>
+<div><b>Monthly</b><span>updated {date.today().strftime("%B %Y")}</span></div>
+</div>
 <section id="find">
 {filters(True, by_state.keys())}
 {table(rows)}
 </section>
 <h2>Browse by state</h2>
 <div class="states">{state_links}</div>
-<p class="animal" style="margin-top:8px">{len(rows)} programs in {n_states} states and Washington, DC so far. We search every state each month and add new programs as shelters launch them. <a href="/suggest/">Know a shelter we're missing?</a></p>
+<p class="animal" style="margin-top:8px">{len(all_rows):,} shelters listed nationwide, including {len(rows):,} with day-out or cat programs in {n_states} states and Washington, DC. We search every state each month and add new programs as shelters launch them. <a href="/suggest/">Know a shelter we're missing?</a></p>
 <h2>How it works</h2>
 <div class="steps">
 <div><span class="num" style="background:#ffe7cf">{ICONS['hike'].replace('class="ico"','')}</span><b>1. Find a program</b>Search by city or state. {open_n} programs listed here are open to the public.</div>
@@ -436,6 +450,8 @@ def build_listings(rows):
         if r["requests"]:
             req = f'<a class="btn" href="/request/?listing={r["slug"]}">Request an outing</a> '
         go = f'<a class="btn{" alt" if r["requests"] else ""}" href="{esc(r["url"])}" rel="noopener nofollow" target="_blank">{"Visit the shelter\'s site" if r["status"] == NOPROG else "Sign up on the shelter\'s site"}</a>'
+        if not r.get("url"):
+            go = ""
         status_help = STATUS_HELP[r["status"]]
         ld = json.dumps({
             "@context": "https://schema.org", "@type": "AnimalShelter", "name": name,
@@ -448,7 +464,7 @@ def build_listings(rows):
 <p>{badge(r['status'])} <span class="animal">{esc(status_help)}</span></p>
 <dl class="facts">
 <dt>Program</dt><dd>{esc(r['program'])}</dd>
-<dt>What you can do</dt><dd>{offers}</dd>
+{f"<dt>What you can do</dt><dd>{offers}</dd>" if offers else ""}
 <dt>Animals</dt><dd>{esc(r['animals'])}</dd>
 <dt>Location</dt><dd>{esc(r['city'])}, {r['state_name']}</dd>
 <dt>Last checked</dt><dd>{esc(r['checked'])}</dd>
@@ -668,7 +684,7 @@ def main():
     rows, optins = load()
     build_assets(rows, optins)
     progs = [r for r in rows if r["status"] != NOPROG]
-    build_home(progs)
+    build_home(progs, rows)
     build_states(rows)
     build_listings(rows)
     build_cats(progs)

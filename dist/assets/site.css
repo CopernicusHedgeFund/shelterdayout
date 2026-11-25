@@ -45,6 +45,12 @@ table.list .prog{color:var(--muted);font-size:.92rem}
 .b-vol{color:#9a4f12;background:#ffe7cf}
 .b-check{color:#7a6410;background:#fff2bf}
 .b-paused{color:#555;background:#eee}
+.tagline{font-weight:800;color:var(--teal);margin:6px 0 0}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:8px 0 26px}
+.stats div{background:#fff;border:2px solid #f3e9da;border-radius:16px;padding:14px 10px;text-align:center}
+.stats b{display:block;font-family:Fredoka,sans-serif;font-size:1.9rem;color:var(--accent);line-height:1.1}
+.stats span{font-size:.88rem;color:var(--muted);font-weight:700}
+@media(max-width:640px){.stats{grid-template-columns:repeat(2,1fr)}.stats b{font-size:1.5rem}}
 .b-none{color:#4a4e69;background:#ebe9f5}
 .noprog{margin-top:34px}
 .noprog ul{list-style:none;padding:0;margin:10px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
