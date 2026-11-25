@@ -372,12 +372,15 @@ HOME_FAQ = [
 
 def build_home(rows, all_rows=None):
     all_rows = all_rows or rows
+    all_by = {}
+    for r in all_rows:
+        all_by[r["state"]] = all_by.get(r["state"], 0) + 1
     by_state = {}
     for r in rows:
         by_state.setdefault(r["state"], []).append(r)
     open_n = sum(1 for r in rows if r["status"] == "Open to public")
     state_links = "".join(
-        f'<a class="{"" if by_state.get(s) else "none"}" href="/states/{slugify(STATES[s])}/" style="color:#ff7a59">{PAW}<div style="color:#2b2d42">{STATES[s]}<span>{len(by_state.get(s, []))} program{"" if len(by_state.get(s, [])) == 1 else "s"}</span></a>'
+        f'<a class="{"" if by_state.get(s) else "none"}" href="/states/{slugify(STATES[s])}/" style="color:#ff7a59">{PAW}<div style="color:#2b2d42">{STATES[s]}<span>{all_by.get(s, 0):,} shelter{"" if all_by.get(s, 0) == 1 else "s"} &middot; {len(by_state.get(s, []))} program{"" if len(by_state.get(s, [])) == 1 else "s"}</span></div></a>'
         for s in sorted(STATES, key=lambda k: STATES[k])
     ).replace("</span></a>", "</span></div></a>")
     n_states = len([k for k in by_state if k != "DC"])
