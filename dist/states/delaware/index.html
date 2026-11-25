@@ -25,16 +25,17 @@
 <div class="crumbs"><a href="/">Home</a> / Delaware</div>
 <h1>Shelter dog day trips and sleepovers in Delaware</h1>
 <p class="lede">2 shelter programs in Delaware, 2 of them open to the public. Cities include New Castle, Wilmington.</p>
-<div class="search">
+<form class="search" id="sform" action="" method="get" role="search">
 <div class="row">
 
 
-<div><label for="f-animal">Animal</label><select id="f-animal"><option value="">Dogs and cats</option><option value="Dogs">Dogs</option><option value="Cats">Cats</option></select></div>
-<div><label for="f-type">Type</label><select id="f-type"><option value="">Any</option><option value="day">Day trip</option><option value="sleep">Sleepover or staycation</option><option value="hike">Hike or walk</option><option value="visit">Visit (cat lounge)</option></select></div>
+<div><label for="f-animal">Animal</label><select id="f-animal" name="animal"><option value="">Dogs and cats</option><option value="Dogs">Dogs</option><option value="Cats">Cats</option></select></div>
+<div><label for="f-type">Type</label><select id="f-type" name="type"><option value="">Any</option><option value="day">Day trip</option><option value="sleep">Sleepover or staycation</option><option value="hike">Hike or walk</option><option value="visit">Visit (cat lounge)</option></select></div>
 </div>
-<label class="chk"><input type="checkbox" id="f-public"> Open to the public only</label>
-</div>
-<p class="count" id="count"></p>
+<div class="row2"><label class="chk"><input type="checkbox" id="f-public" name="public" value="1"> Open to the public only</label>
+<button type="submit" class="btn sbtn">Search</button></div>
+</form>
+<p class="count" id="count" aria-live="polite"></p>
 <table class="list" id="results">
 <thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
 <tbody>
@@ -70,10 +71,14 @@
   cnt.textContent=n+(n===1?' program':' programs');
  }
  [q,st,an,ty,pub].forEach(function(el){if(el){el.addEventListener('input',run);el.addEventListener('change',run);}});
+ var f=document.getElementById('sform'),res=document.getElementById('results');
+ if(f){f.addEventListener('submit',function(e){e.preventDefault();run();if(q)q.blur();if(res){res.scrollIntoView({behavior:'smooth',block:'start'});}});}
  var u=new URLSearchParams(location.search);
  if(u.get('q')&&q){q.value=u.get('q');}
  if(u.get('state')&&st){st.value=u.get('state').toUpperCase();}
  if(u.get('animal')){an.value=u.get('animal');}
+ if(u.get('type')){ty.value=u.get('type');}
+ if(u.get('public')){pub.checked=true;}
  run();
 })();
 </script>

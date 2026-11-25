@@ -108,7 +108,10 @@ main{padding:24px 0 56px}
 .search input[type=text]:focus,.search select:focus{outline:none;border-color:var(--teal)}
 .search input[type=text]{width:100%;min-width:220px}
 .search .row>div:first-child{flex:1 1 260px}
-.search .chk{font-size:.95rem;color:var(--ink);display:flex;align-items:center;gap:8px;margin:12px 0 0;font-weight:700}
+.search .chk{font-size:.95rem;color:var(--ink);display:flex;align-items:center;gap:8px;margin:0;font-weight:700}
+.search .row2{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:12px}
+.search .sbtn{border:0;cursor:pointer;font-size:1rem;padding:12px 28px}
+@media(max-width:640px){.search .sbtn{width:100%}}
 .count{color:var(--muted);font-size:.95rem;margin:14px 4px 8px;font-weight:700}
 table.list{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:2px solid var(--line);border-radius:18px;overflow:hidden}
 table.list th{text-align:left;font-size:.76rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:800;padding:12px 14px;background:#fff3e2}
@@ -289,10 +292,14 @@ FILTER_JS = """<script>
   cnt.textContent=n+(n===1?' program':' programs');
  }
  [q,st,an,ty,pub].forEach(function(el){if(el){el.addEventListener('input',run);el.addEventListener('change',run);}});
+ var f=document.getElementById('sform'),res=document.getElementById('results');
+ if(f){f.addEventListener('submit',function(e){e.preventDefault();run();if(q)q.blur();if(res){res.scrollIntoView({behavior:'smooth',block:'start'});}});}
  var u=new URLSearchParams(location.search);
  if(u.get('q')&&q){q.value=u.get('q');}
  if(u.get('state')&&st){st.value=u.get('state').toUpperCase();}
  if(u.get('animal')){an.value=u.get('animal');}
+ if(u.get('type')){ty.value=u.get('type');}
+ if(u.get('public')){pub.checked=true;}
  run();
 })();
 </script>"""
@@ -302,18 +309,19 @@ def filters(with_state=True, states_present=()):
     state_sel = ""
     if with_state:
         opts = "".join(f'<option value="{k}">{v}</option>' for k, v in STATES.items() if k in states_present)
-        state_sel = f'<div><label for="f-state">State</label><select id="f-state"><option value="">All states</option>{opts}</select></div>'
-    search_box = '<div style="flex:1"><label for="q">City, shelter or program</label><input type="text" id="q" placeholder="e.g. Austin, Pasadena Humane, sleepover"></div>' if with_state else ""
-    return f"""<div class="search">
+        state_sel = f'<div><label for="f-state">State</label><select id="f-state" name="state"><option value="">All states</option>{opts}</select></div>'
+    search_box = '<div style="flex:1"><label for="q">City, shelter or program</label><input type="text" id="q" name="q" enterkeyhint="search" placeholder="e.g. Austin, Pasadena Humane, sleepover"></div>' if with_state else ""
+    return f"""<form class="search" id="sform" action="" method="get" role="search">
 <div class="row">
 {search_box}
 {state_sel}
-<div><label for="f-animal">Animal</label><select id="f-animal"><option value="">Dogs and cats</option><option value="Dogs">Dogs</option><option value="Cats">Cats</option></select></div>
-<div><label for="f-type">Type</label><select id="f-type"><option value="">Any</option><option value="day">Day trip</option><option value="sleep">Sleepover or staycation</option><option value="hike">Hike or walk</option><option value="visit">Visit (cat lounge)</option></select></div>
+<div><label for="f-animal">Animal</label><select id="f-animal" name="animal"><option value="">Dogs and cats</option><option value="Dogs">Dogs</option><option value="Cats">Cats</option></select></div>
+<div><label for="f-type">Type</label><select id="f-type" name="type"><option value="">Any</option><option value="day">Day trip</option><option value="sleep">Sleepover or staycation</option><option value="hike">Hike or walk</option><option value="visit">Visit (cat lounge)</option></select></div>
 </div>
-<label class="chk"><input type="checkbox" id="f-public"> Open to the public only</label>
-</div>
-<p class="count" id="count"></p>"""
+<div class="row2"><label class="chk"><input type="checkbox" id="f-public" name="public" value="1"> Open to the public only</label>
+<button type="submit" class="btn sbtn">Search</button></div>
+</form>
+<p class="count" id="count" aria-live="polite"></p>"""
 
 
 def build_home(rows):
