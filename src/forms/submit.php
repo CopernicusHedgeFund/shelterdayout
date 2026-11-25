@@ -10,7 +10,7 @@ const BRAND = 'ShelterDayOut';
 $PRIVATE = dirname(__DIR__, 3) . '/sdo_private';
 if (!is_dir($PRIVATE) && !@mkdir($PRIVATE, 0700, true)) { $PRIVATE = dirname(__DIR__, 2) . '/sdo_private'; }
 
-function back(string $where): void { header('Location: /' . $where . '/', true, 303); exit; }
+function back(string $where): void { header('Location: /' . ($where === '' ? '' : $where . '/'), true, 303); exit; }
 function clean(string $k, int $max = 500): string {
     $v = isset($_POST[$k]) ? (string)$_POST[$k] : '';
     $v = str_replace(["\r", "\0"], '', $v);

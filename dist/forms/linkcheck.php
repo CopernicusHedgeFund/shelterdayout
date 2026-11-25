@@ -1,7 +1,7 @@
 <?php
 // Link checker. CLI (cron/monthly) or temporary token access. Reports links that fail or land somewhere unexpected.
 $isCli = php_sapi_name() === 'cli';
-if (!$isCli && ($_GET['t'] ?? '') !== '857f4eb5b853923a052754f08d068342') { http_response_code(404); exit; }
+if (!$isCli) { http_response_code(404); exit; }
 header('Content-Type: application/json');
 $L = json_decode((string)@file_get_contents(__DIR__ . '/listings.json'), true) ?: [];
 $only = $_GET['field'] ?? 'url';
