@@ -367,7 +367,7 @@ def build_home(rows, all_rows=None):
 <div class="stats">
 <div><b>{len(all_rows):,}</b><span>shelters listed</span></div>
 <div><b>{len(rows):,}</b><span>day-out &amp; cat programs</span></div>
-<div><b>{n_states + (1 if "DC" in by_state else 0)}</b><span>states + DC covered</span></div>
+<div><b>{n_states}</b><span>states{" + DC" if "DC" in by_state else ""} covered</span></div>
 <div><b>Monthly</b><span>updated {date.today().strftime("%B %Y")}</span></div>
 </div>
 <section id="find">
