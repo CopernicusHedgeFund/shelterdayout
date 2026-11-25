@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Shelter Dog Day Trips &amp; Sleepovers in Montana | ShelterDayOut</title>
-<meta name="description" content="Animal shelter day-out, sleepover and cat programs in Montana. Know one we&#x27;re missing? Tell us.">
+<meta name="description" content="2 animal shelter programs in Montana where you can take a dog on a day trip or sleepover, or visit shelter cats.">
 <link rel="canonical" href="https://shelterdayout.com/states/montana/">
 <meta property="og:title" content="Shelter Dog Day Trips &amp; Sleepovers in Montana | ShelterDayOut">
-<meta property="og:description" content="Animal shelter day-out, sleepover and cat programs in Montana. Know one we&#x27;re missing? Tell us.">
+<meta property="og:description" content="2 animal shelter programs in Montana where you can take a dog on a day trip or sleepover, or visit shelter cats.">
 <meta property="og:url" content="https://shelterdayout.com/states/montana/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="ShelterDayOut">
@@ -24,9 +24,64 @@
 <main><div class="wrap">
 <div class="crumbs"><a href="/">Home</a> / Montana</div>
 <h1>Shelter dog day trips and sleepovers in Montana</h1>
-<p class="lede">We haven't found a public day-out, sleepover or cat program in Montana yet. We check every state each month and add new programs as shelters launch them.</p>
-<p><a class="btn" href="/suggest/">Know one? Tell us</a> <a class="btn alt" href="/for-shelters/">Run a shelter in Montana?</a></p>
-<p class="animal" style="margin-top:16px">Many shelters will still let you walk dogs or socialize cats as a volunteer. Ask your local shelter about volunteering or short-term fostering.</p>
+<p class="lede">2 shelter programs in Montana, 0 of them open to the public. Cities include Hamilton, Missoula.</p>
+<form class="search" id="sform" action="" method="get" role="search">
+<div class="row">
+
+
+<div><label for="f-animal">Animal</label><select id="f-animal" name="animal"><option value="">Dogs and cats</option><option value="Dogs">Dogs</option><option value="Cats">Cats</option></select></div>
+<div><label for="f-type">Type</label><select id="f-type" name="type"><option value="">Any</option><option value="day">Day trip</option><option value="sleep">Sleepover or staycation</option><option value="hike">Hike or walk</option><option value="visit">Visit (cat lounge)</option></select></div>
+</div>
+<div class="row2"><label class="chk"><input type="checkbox" id="f-public" name="public" value="1"> Open to the public only</label>
+<button type="submit" class="btn sbtn">Search</button></div>
+</form>
+<p class="count" id="count" aria-live="polite"></p>
+<table class="list" id="results">
+<thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
+<tbody>
+<tr data-state="MT" data-animals="Dogs" data-types="day sleep" data-status="Needs check" data-q="bitter root humane association hamilton montana adventure days &amp; slumber parties">
+<td class="org"><a href="/listings/bitter-root-humane-association-hamilton/">Bitter Root Humane Association</a><div class="prog">Adventure Days &amp; Slumber Parties</div></td>
+<td>Hamilton</td>
+<td><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5" fill="#ffd166"/><g stroke="#f4a259" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2" x2="12" y2="4"/><line x1="12" y1="20" x2="12" y2="22"/><line x1="2" y1="12" x2="4" y2="12"/><line x1="20" y1="12" x2="22" y2="12"/><line x1="5" y1="5" x2="6.4" y2="6.4"/><line x1="17.6" y1="17.6" x2="19" y2="19"/><line x1="5" y1="19" x2="6.4" y2="17.6"/><line x1="17.6" y1="6.4" x2="19" y2="5"/></g></svg><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M19 15A8 8 0 0 1 9 5a8 8 0 1 0 10 10z" fill="#7b8cde"/><circle cx="17" cy="5" r="1.2" fill="#ffd166"/><circle cx="21" cy="9" r="1" fill="#ffd166"/></svg>Day trip, sleepover<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+<tr data-state="MT" data-animals="Dogs" data-types="day" data-status="Needs check" data-q="humane society of western montana missoula montana date with a dog">
+<td class="org"><a href="/listings/humane-society-of-western-montana-missoula/">Humane Society of Western Montana</a><div class="prog">Date with a Dog</div></td>
+<td>Missoula</td>
+<td><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5" fill="#ffd166"/><g stroke="#f4a259" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2" x2="12" y2="4"/><line x1="12" y1="20" x2="12" y2="22"/><line x1="2" y1="12" x2="4" y2="12"/><line x1="20" y1="12" x2="22" y2="12"/><line x1="5" y1="5" x2="6.4" y2="6.4"/><line x1="17.6" y1="17.6" x2="19" y2="19"/><line x1="5" y1="19" x2="6.4" y2="17.6"/><line x1="17.6" y1="6.4" x2="19" y2="5"/></g></svg>Day trip<div class="animal">Dogs</div></td>
+<td><span class="badge b-check">Unconfirmed</span></td>
+</tr>
+</tbody></table>
+<p class="animal" style="margin-top:12px">Don't see your shelter? <a href="/suggest/">Suggest one</a>. Shelter staff can <a href="/for-shelters/">claim a listing</a>.</p>
+<script>
+(function(){
+ var q=document.getElementById('q'),st=document.getElementById('f-state'),an=document.getElementById('f-animal'),ty=document.getElementById('f-type'),pub=document.getElementById('f-public'),cnt=document.getElementById('count');
+ var rows=[].slice.call(document.querySelectorAll('#results tbody tr'));
+ function run(){
+  var t=(q&&q.value||'').trim().toLowerCase(),s=st?st.value:'',a=an.value,y=ty.value,p=pub.checked,n=0;
+  rows.forEach(function(r){
+   var ok=true;
+   if(t&&r.dataset.q.indexOf(t)<0)ok=false;
+   if(s&&r.dataset.state!==s)ok=false;
+   if(a&&r.dataset.animals.indexOf(a)<0)ok=false;
+   if(y&&r.dataset.types.split(' ').indexOf(y)<0)ok=false;
+   if(p&&r.dataset.status!=='Open to public')ok=false;
+   r.classList.toggle('hide',!ok); if(ok)n++;
+  });
+  cnt.textContent=n+(n===1?' program':' programs');
+ }
+ [q,st,an,ty,pub].forEach(function(el){if(el){el.addEventListener('input',run);el.addEventListener('change',run);}});
+ var f=document.getElementById('sform'),res=document.getElementById('results');
+ if(f){f.addEventListener('submit',function(e){e.preventDefault();run();if(q)q.blur();if(res){res.scrollIntoView({behavior:'smooth',block:'start'});}});}
+ var u=new URLSearchParams(location.search);
+ if(u.get('q')&&q){q.value=u.get('q');}
+ if(u.get('state')&&st){st.value=u.get('state').toUpperCase();}
+ if(u.get('animal')){an.value=u.get('animal');}
+ if(u.get('type')){ty.value=u.get('type');}
+ if(u.get('public')){pub.checked=true;}
+ run();
+})();
+</script>
 <div class="paw-divider" style="color:#e2c9a4"><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><ellipse cx="12" cy="16" rx="5.5" ry="4.5"/><circle cx="5.5" cy="10" r="2.4"/><circle cx="9.5" cy="6" r="2.4"/><circle cx="14.5" cy="6" r="2.4"/><circle cx="18.5" cy="10" r="2.4"/></g></svg><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><ellipse cx="12" cy="16" rx="5.5" ry="4.5"/><circle cx="5.5" cy="10" r="2.4"/><circle cx="9.5" cy="6" r="2.4"/><circle cx="14.5" cy="6" r="2.4"/><circle cx="18.5" cy="10" r="2.4"/></g></svg><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><ellipse cx="12" cy="16" rx="5.5" ry="4.5"/><circle cx="5.5" cy="10" r="2.4"/><circle cx="9.5" cy="6" r="2.4"/><circle cx="14.5" cy="6" r="2.4"/><circle cx="18.5" cy="10" r="2.4"/></g></svg><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><ellipse cx="12" cy="16" rx="5.5" ry="4.5"/><circle cx="5.5" cy="10" r="2.4"/><circle cx="9.5" cy="6" r="2.4"/><circle cx="14.5" cy="6" r="2.4"/><circle cx="18.5" cy="10" r="2.4"/></g></svg><svg viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><ellipse cx="12" cy="16" rx="5.5" ry="4.5"/><circle cx="5.5" cy="10" r="2.4"/><circle cx="9.5" cy="6" r="2.4"/><circle cx="14.5" cy="6" r="2.4"/><circle cx="18.5" cy="10" r="2.4"/></g></svg></div>
 </div></main>
 <footer class="site"><div class="wrap">
