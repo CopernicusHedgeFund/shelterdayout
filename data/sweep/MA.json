@@ -6,12 +6,13 @@
   "program": "Dog's Day Out",
   "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip (2+ hours)",
+  "offers": "Day trip",
   "url": "https://www.secondchanceanimals.org/dogs-day-out/",
-  "notes": "Field trips for registered volunteers who have completed dog-care training at the East Brookfield Adoption Center; pickup Mon-Sat from 10 AM, back by 5 PM (4 PM Fri), no Sundays. Call (508) 867-5525 ahead to confirm a dog is available.",
+  "notes": "Dog's Day Out field trips are for active registered volunteers who have completed dog care training at the Adoption Center (111 Young Road, East Brookfield). Pickup Mon-Sat from 10 AM (no Sunday trips), plan at least 2 hours, return by 4 PM Fri / 5 PM other days. Call ahead to confirm a dog is available and bring a valid ID with current address. Staff supply gear and a list of dog-friendly businesses. No upcoming adoption events listed (2027 fundraisers only).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "adoption@secondchanceanimals.org"
+  "email_main": "adoption@secondchanceanimals.org",
+  "phone": "(508) 867-5525"
  },
  {
   "state": "MA",
@@ -21,12 +22,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.arlboston.org/",
-  "notes": "",
+  "url": "https://www.arlboston.org/adopt/adoption-centers/",
+  "notes": "10 Chandler Street, Boston. Checked ARL site (adoption centers, events, group opportunities, humane education): no ongoing field trip/day-out program for the public. Only a one-time staff event (Red Sox/Fenway visit, Nov 2024). No adoption events listed after 2026-11-26 (Home for the Holidays Nov 29 in Dedham is a family event, not an adoption event).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "boston-adoption@arlboston.org",
-  "phone": "",
+  "phone": "(617) 426-9170 ext. 604",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7686391344"
  },
@@ -43,7 +44,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "methuen@mspca.org",
-  "phone": "+1-978-687-7453",
+  "phone": "(978) 687-7453 ext. 6101",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14242862901"
  },
@@ -56,11 +57,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://fotmas.squarespace.com",
-  "notes": "156 Clay Pit Rd; town shelter supported by Friends of the Marshfield Animal Shelter. Meetings by appointment via Animal Control.",
+  "notes": "156 Clay Pit Road. Adoption visits via Marshfield Animal Control (781-834-6655 x1500); Friends of the Marshfield Animal Shelter line 781-837-9759. Foster program (non short-term). Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "friendsofthemarshfieldshelter@yahoo.com",
-  "phone": "",
+  "phone": "(781) 834-6655 ext. 1500",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14320042044",
   "events": [
@@ -80,12 +81,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.arlboston.org/",
-  "notes": "",
+  "url": "https://www.arlboston.org/adopt/adoption-centers/",
+  "notes": "55 Anna's Place, Dedham. ARL does not list a day-out/field trip program on its site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dedham-adoption@arlboston.org",
-  "phone": "",
+  "phone": "(617) 426-9170 ext. 605",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/29671238"
  },
@@ -98,18 +99,19 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.apcsm.org/",
-  "notes": "",
+  "notes": "1300 West Elm Street Ext., Brockton. Foster page mentions dogs needing a break from the shelter but no defined day-out/short-term program. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@apcsm.org",
-  "phone": "+1 508 5862053",
+  "phone": "(508) 586-2053",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/212264889",
   "events": [
    {
     "date": "2026-12-12",
-    "title": "APCSM Holiday Open House & Stuff the Van Donation Drive",
-    "url": "https://www.apcsm.org/"
+    "title": "Holiday Open House & Stuff the Van Donation Drive (1-5 PM)",
+    "url": "https://www.apcsm.org/",
+    "place": "APCSM, 1300 West Elm Street Ext., Brockton, MA"
    }
   ]
  },
@@ -121,12 +123,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.falmouthma.gov/Directory.aspx?DID=5",
-  "notes": "Town Animal Services dog pound facility, 150 Blacksmith Shop Rd.",
+  "url": "https://www.falmouthma.gov/148",
+  "notes": "Falmouth Animal Services facility, 150 Blacksmith Shop Road, East Falmouth. Town pages do not describe adoptions; verify it still adopts out animals. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "animalcontrol@falmouthma.gov",
+  "phone": "(508) 457-2550",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/213079248"
  },
@@ -143,7 +145,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animaladoption@gardner-ma.gov",
-  "phone": "",
+  "phone": "(978) 630-4950",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/213311296"
  },
@@ -160,7 +162,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ipswichhumanegroup@gmail.com",
-  "phone": "",
+  "phone": "(978) 356-6652",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/213664504",
   "events": [
@@ -186,7 +188,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@scituateanimalshelter.org",
-  "phone": "",
+  "phone": "(781) 544-4533",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/213971819"
  },
@@ -216,11 +218,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://plymouth-ma.gov/164/Plymouth-Animal-Shelter",
-  "notes": "2199 State Rd; adoption viewings by appointment.",
+  "notes": "2199 State Road. Dogs and cats; viewings by appointment only, no same-day adoptions. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aco@plymouth-ma.gov",
-  "phone": "",
+  "phone": "(508) 888-1186",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/215719603"
  },
@@ -237,7 +239,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@tjoconnoradoptioncenter.com",
-  "phone": "+1-413-781-1484",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/216108802",
   "events": [
@@ -279,7 +281,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "staff@sterlingshelter.org",
-  "phone": "+1-978-422-8585",
+  "phone": "(978) 422-8585",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/216175186"
  },
@@ -292,11 +294,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.ahimsahaven.org/",
-  "notes": "",
+  "notes": "Contacts page lists 273 Central St, Winchendon; cats are displayed at PetSmart Leominster and visits are by appointment after an approved application. Its own site does not clearly describe an on-site shelter (town page says its former home at 381 Baldwinville Rd, Templeton is now the regional animal control shelter). Verify it still has a facility.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(978) 939-8464",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1317496089"
  },
@@ -309,11 +311,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.quincyanimalshelter.org/",
-  "notes": "",
+  "notes": "99 Quarry Street, Quincy. Kitten foster program only (5-8 weeks); no day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@quincyanimalshelter.org",
-  "phone": "",
+  "phone": "(617) 376-1349",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1527674617"
  },
@@ -326,11 +328,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.arlboston.org/",
-  "notes": "",
+  "notes": "Tom Kingman Memorial Campus, 3981 Main St (Rte 6A), East Brewster. ARL site lists main line with ext. 305; Town of Yarmouth page lists (508) 255-1030. No day-out program found. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "brewster-adoption@arlboston.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(617) 426-9170 ext. 305"
  },
  {
   "state": "MA",
@@ -340,12 +343,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.mspca.org/adoption-centers/boston-adoption-center/adoption-inquiry/",
-  "notes": "Volunteer FAQ states: \"We do not currently have a dog day out program.\" Adoption hours Tue-Sun 12-4pm.",
+  "url": "https://www.mspca.org/adoption-centers/boston-adoption-center/",
+  "notes": "350 South Huntington Ave, Boston (Jamaica Plain). Adoption hours Tue-Sun 12-4. No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@mspca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(617) 522-5055"
  },
  {
   "state": "MA",
@@ -355,12 +359,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.mspca.org/how-to-adopt/adoption-inquiry-cape-cod/",
-  "notes": "",
+  "url": "https://www.mspca.org/adoption-centers/cape-cod-adoption-center/",
+  "notes": "1577 Falmouth Rd., Centerville. Adoption hours Tue-Sun 1-4pm. No day-out program found. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "cape@mspca.org",
+  "source_list": "shelter website",
+  "phone": "(508) 775-0940"
  },
  {
   "state": "MA",
@@ -375,7 +380,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "neasinfo@mspca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(978) 745-9888"
  },
  {
   "state": "MA",
@@ -386,11 +392,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.lowellhumanesociety.org/",
-  "notes": "",
+  "notes": "951 Broadway St, Lowell. No day-out program listed. Holiday online auction in December (fundraiser, not adoption event).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lowellhumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(978) 452-7781"
  },
  {
   "state": "MA",
@@ -401,11 +408,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.buddydoghs.org/hours-info",
-  "notes": "Site moved from buddydoghs.com to buddydoghs.org. Visits by appointment, Tue-Sun 11am-5pm.",
+  "notes": "151 Boston Post Road (Rt. 20), Sudbury. No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@buddydoghs.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(978) 443-6990"
  },
  {
   "state": "MA",
@@ -416,11 +424,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.baypathhumane.org/",
-  "notes": "",
+  "notes": "500 Legacy Farms North, Hopkinton. No day-out program listed; event calendar empty.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 435-6938"
  },
  {
   "state": "MA",
@@ -443,7 +452,8 @@
     "url": "https://www.capeannanimalaid.org/event-details/cape-ann-animal-aid-at-happy-tails-shoppe-6",
     "place": "Happy Tails Shoppe, 186 Main St., Gloucester, MA"
    }
-  ]
+  ],
+  "phone": "(978) 283-6055"
  },
  {
   "state": "MA",
@@ -453,12 +463,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.boston.gov/departments/animal-care-and-control",
-  "notes": "",
+  "url": "https://www.boston.gov/departments/animal-care-and-control/animal-care-and-control-shelter",
+  "notes": "26 Mahler Road, Roslindale. Adoption line 617-635-1800; adoption hours Tue-Sat 11-3. Public-area renovations: appointment only until about Feb 6. No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "animalcontrol@boston.gov",
-  "source_list": "shelter website"
+  "email_main": "animalshelter@boston.gov",
+  "source_list": "shelter website",
+  "phone": "(617) 635-1800"
  },
  {
   "state": "MA",
@@ -469,11 +480,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.miltonanimalleague.org/",
-  "notes": "",
+  "notes": "Phone from Town of Milton Animal Control page (100 Access Rd; shelter also staffed Saturdays). Milton Animal League site: shelter open to public Saturdays; dog meets by appointment, cat walk-ins Saturdays. No day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "miltonanimalshelter@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(617) 698-0455"
  },
  {
   "state": "MA",
@@ -488,7 +500,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@worcesterarl.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 853-0030"
  },
  {
   "state": "MA",
@@ -563,7 +576,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "leominsteraco@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(978) 514-2381"
  },
  {
   "state": "MA",
@@ -578,7 +592,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "marilyn@neadycats.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(978) 422-5116"
  },
  {
   "state": "MA",
@@ -593,7 +608,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@mrfrs.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(978) 462-0760"
  },
  {
   "state": "MA",
@@ -604,11 +620,12 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.giffordcatshelter.org/",
-  "notes": "Free-roaming cat shelter at 30 Undine Road, Brighton (Boston); adoptions by appointment after an online adopter profile.",
+  "notes": "30 Undine Rd, Brighton. Events page: no upcoming events. Email not shown on the site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@giffordcatshelter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(617) 787-8872"
  },
  {
   "state": "MA",
@@ -619,7 +636,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.saveadog.org/",
-  "notes": "Humane society with a shelter facility at 604 Boston Post Road, Sudbury.",
+  "notes": "604 Boston Post Road, Sudbury; visits by appointment. Site also lists 978-443-7282. Holiday pet photos Dec 5 2026 (fundraiser, not an adoption event). No day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@saveadog.org",
@@ -631,7 +648,8 @@
     "url": "https://www.saveadog.org/",
     "place": "604 Boston Post Road, Sudbury, MA"
    }
-  ]
+  ],
+  "phone": "(508) 877-1407"
  },
  {
   "state": "MA",
@@ -646,7 +664,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(781) 631-8664"
  },
  {
   "state": "MA",
@@ -656,8 +675,8 @@
   "status": "No program yet",
   "animals": "Dogs, cats and small animals",
   "offers": "",
-  "url": "https://www.foreverpaws.com/adoption-forms",
-  "notes": "300 Lynwood St. Regular foster program (foster@foreverpaws.com); no day-out program described.",
+  "url": "https://www.foreverpaws.com/",
+  "notes": "300 Lynwood St. Contracted shelter for Fall River Animal Control. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "FPAS1@ForeverPaws.com",
@@ -675,7 +694,8 @@
     "url": "https://www.foreverpaws.com/events",
     "place": "The Venus De Milo"
    }
-  ]
+  ],
+  "phone": "(508) 677-9154"
  },
  {
   "state": "MA",
@@ -690,7 +710,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 676-1061"
  },
  {
   "state": "MA",
@@ -701,11 +722,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://lighthouseanimalshelter.org/contact/",
-  "notes": "596 Hathaway Rd; adult and senior dogs and cats, visits by appointment for approved applicants.",
+  "notes": "596 Hathaway Rd. By appointment for approved adopters; adoption events mostly May-Oct. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "paws@lighthouseanimalshelter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 999-7387"
  },
  {
   "state": "MA",
@@ -716,11 +738,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://hsssc.org/",
-  "notes": "31 Ventura Dr; also serves as holding shelter for Dartmouth and Westport animal control. Only email on site is the director's personal address.",
+  "notes": "31 Ventura Drive. Shelter for Dartmouth and Westport animal control. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 995-6661"
  },
  {
   "state": "MA",
@@ -731,11 +754,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://tauntonanimalshelter821.weebly.com/",
-  "notes": "821 W. Water St. Site is a Weebly page; city page (taunton-ma.gov/161) could not be fetched.",
+  "notes": "821 W Water Street. Phones 508-822-2150 / 508-822-1463 per City of Taunton page https://www.taunton-ma.gov/161/Animal-controlAnimal-Care-facility. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 822-2150"
  },
  {
   "state": "MA",
@@ -758,7 +782,8 @@
     "url": "https://faaspets.org/about-us/",
     "place": "Good News Bible Chapel, 235 West St, Attleboro"
    }
-  ]
+  ],
+  "phone": "(774) 203-1862"
  },
  {
   "state": "MA",
@@ -773,7 +798,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 699-0100 ext. 2670"
  },
  {
   "state": "MA",
@@ -788,7 +814,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adopt@mansfieldshelter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 261-7339"
  },
  {
   "state": "MA",
@@ -799,11 +826,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://swanseama.gov/residents/animal_control/",
-  "notes": "68 Stevens Rd; visits by appointment (508-679-6446). Also serves Somerset.",
+  "notes": "68 Stevens Rd. Visits by appointment. Also serves as the shelter for the Town of Somerset. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 679-6446"
  },
  {
   "state": "MA",
@@ -818,7 +846,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 336-6663"
  },
  {
   "state": "MA",
@@ -833,7 +862,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "a.ruscetta@comcast.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 252-5421"
  },
  {
   "state": "MA",
@@ -843,12 +873,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://fairhaven-ma.gov/fairhaven-animal-shelter-adopt-a-pet-november-2026/",
-  "notes": "Town posts monthly Adopt-a-Pet pages; page could not be fetched for details.",
+  "url": "https://www.fairhaven-ma.gov/print/24",
+  "notes": "Phone from Town of Fairhaven Animal Officer page; previous URL returned an error. Checked November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(508) 979-4028"
  },
  {
   "state": "MA",
@@ -863,6 +894,343 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@brockton.gov",
+  "source_list": "shelter website",
+  "phone": "(508) 580-7835"
+ },
+ {
+  "state": "MA",
+  "city": "Canton",
+  "org": "Richard A. Stein Animal Shelter (Canton Animal Control)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.town.canton.ma.us/131/Animal-Control",
+  "phone": "(781) 575-6507",
+  "notes": "150R Bolivar Street, Canton. Town shelter; unclaimed dogs/cats are vetted and made available for adoption. Call before visiting.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "sbenton@town.canton.ma.us",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Medfield",
+  "org": "Medfield Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.medfieldshelter.com/",
+  "phone": "(508) 359-8989",
+  "notes": "101 Old Bridge Street, Medfield (GPS: 99 West Street). Licensed MA shelter.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@medfieldshelter.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Norwood",
+  "org": "Norwood Animal Shelter (Norwood Animal Control)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.norwoodma.gov/residents/animal_control/visiting_the_animal_shelter.php",
+  "phone": "(781) 762-3159",
+  "notes": "Town shelter; dogs/cats unclaimed after 10 days become available for adoption. ACO hours Mon-Fri 8-4; call before visiting.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Brighton",
+  "org": "The Cat Connection",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://thecatconnection.org/",
+  "phone": "(781) 899-4610",
+  "notes": "Cat shelter at 167 Chestnut Hill Ave, Brighton; open to public by appointment. Licensed as The Cat Connection Rescue Shelter (formerly associated with Waltham). No upcoming events listed.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@thecatconnection.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Randolph",
+  "org": "Randolph Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.randolph-ma.gov/858/Abandoned-Pets-that-Need-a-Home",
+  "phone": "(781) 510-2436",
+  "notes": "Town page lists stray/abandoned pets in animal control's care that are waiting for a shelter transfer or a new home; contact ACO. No dedicated shelter facility is described, so verify before listing.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "jgillan@randolph-ma.gov",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Blackstone",
+  "org": "Blackstone Regional Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://townofblackstone.org/644/Animal-Control",
+  "phone": "(508) 883-2822",
+  "notes": "14 Chestnut Street, Blackstone. Regional animal control unit for Blackstone, Uxbridge, Mendon, Hopedale, Millville and Douglas. Town page links to adoption application and a Foster to Adopt program.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "ACO@blackstonepolice.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Webster",
+  "org": "Webster Animal Control Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://webster-ma.gov/150/Animal-Control",
+  "phone": "(508) 949-3883 ext. 1240",
+  "notes": "Run by Webster Police Department. Mass.gov 'Adopt Local Animals' page features dogs adoptable from the Webster Animal Control Shelter.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "animalcontrol@websterpolice.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Templeton",
+  "org": "Winchendon/Templeton Regional Animal Control Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.townofwinchendon.com/node/95",
+  "phone": "(978) 297-1212 ext. 0",
+  "notes": "Shelter at 381 Baldwinville Rd, Templeton (former home of Ahimsa Haven). Phone is Winchendon Dispatch. Mass.gov 'Adopt Local Animals' page features dogs adoptable here; Winchendon posts an Animal Control adoption application.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "animalcontrol@townofwinchendon.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Milford",
+  "org": "Milford Animal Control & Dog Kennel",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.milfordma.gov/print/12",
+  "phone": "(774) 462-3315",
+  "notes": "Town dog kennel at 3 Fiske Mill Road, Milford; town page says it works to find homes for abandoned animals. Hours Mon-Fri 9-4.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Edgartown",
+  "org": "Animal Shelter of Martha's Vineyard",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.animalshelterofmv.org/",
+  "phone": "(508) 627-8662",
+  "notes": "1 Pennywise Path, Edgartown. Closed Sun/Mon. Email is shelter manager's.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "ldawley@animalshelterofmv.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Nantucket",
+  "org": "Nantucket Safe Harbor for Animals (NiSHA)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.nishanimals.org/",
+  "phone": "(508) 825-2287",
+  "notes": "11 Crooked Lane. By appointment Mon-Sat 9-5. Phone listed as (508) 825-CATS.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@nishanimals.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Provincetown",
+  "org": "Carrie A. Seaman Animal Shelter (CASAS)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.casasanimalshelter.org/",
+  "phone": "(508) 487-4243",
+  "notes": "5 Sandy Hill Lane. Cat shelter, open 2:00-3:30 PM daily.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "East Falmouth",
+  "org": "People for Cats",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.peopleforcats.org/page.php?pg=adopt",
+  "phone": "(508) 540-5654",
+  "notes": "Shelter at 44 Beagle Lane, Teaticket/East Falmouth. Phone is a volunteer hotline (does not ring at shelter).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@peopleforcats.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Duxbury",
+  "org": "Standish Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.standishhumane.org/",
+  "phone": "(781) 834-4663",
+  "notes": "Volunteer-run cat shelter, 622 Congress Street. By appointment.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "contact@standishhumane.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Duxbury",
+  "org": "Duxbury Animal Control & Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.town.duxbury.ma.us/animal-control",
+  "phone": "(781) 934-6424",
+  "notes": "Town-run shelter, 878 Tremont Street (Route 3A). Phone from Town of Pembroke 'Animal Shelters' page; Duxbury town site was not reachable to confirm adoption details.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Hull",
+  "org": "Hull Seaside Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.hsar.org/",
+  "phone": "(781) 925-3121",
+  "notes": "Cage-free no-kill cat shelter, 487 Nantasket Ave. Visiting Sat 1-3pm and by appointment.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@hsar.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Kingston",
+  "org": "Kingston Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.kingstonma.gov/FAQ.aspx?QID=75",
+  "phone": "(781) 585-0529",
+  "notes": "Town shelter, 28 Evergreen St. Adoption by application then meet and greet.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Lakeville",
+  "org": "Lakeville Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.lakevillema.org/265/Dogs-for-Adoption",
+  "phone": "(508) 947-3891",
+  "notes": "Town shelter, 8 Montgomery Street. Adoptions Wed 6:30-8pm, Sat 1-3pm. Also takes Carver stray dogs.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Middleborough",
+  "org": "Middleborough Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.middleboroughma.gov/FormCenter/Animal-Control-30/Middleborough-Animal-Shelter-Adoption-Ap-212",
+  "phone": "(508) 946-2455",
+  "notes": "Town animal control shelter with online adoption application.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Norton",
+  "org": "Norton Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://nortonma.gov/266/Animal-Control",
+  "phone": "(508) 286-2655",
+  "notes": "Town shelter, 84 Hill Street. Hours Mon-Fri 3-5pm.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Acushnet",
+  "org": "CARE Southcoast",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.caresouthcoast.com/",
+  "phone": "(508) 994-0220",
+  "notes": "Cat shelter at 197 Middle Road, Acushnet (dogs in foster). Adoption hours Sat 10-1, Sun 4-6.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "Caresouthcoast1@gmail.com",
   "source_list": "shelter website"
  }
 ]
