@@ -790,7 +790,7 @@ https://shelterdayout.com/listings/bucks-county-spca-lahaska/
 https://shelterdayout.com/listings/bucks-county-spca-quakertown-animal-care-center-quakertown/
 https://shelterdayout.com/listings/buddy-dog-humane-society-sudbury/
 https://shelterdayout.com/listings/buffalo-animal-shelter-buffalo/
-https://shelterdayout.com/listings/buffalo-county-humaine-society-mondovi/
+https://shelterdayout.com/listings/buffalo-county-humane-society-mondovi/
 https://shelterdayout.com/listings/bullhead-city-animal-resource-center-barc-bullhead-city/
 https://shelterdayout.com/listings/bullitt-county-animal-control-and-shelter-shepherdsville/
 https://shelterdayout.com/listings/bulloch-county-animal-services-statesboro/
@@ -3321,7 +3321,6 @@ https://shelterdayout.com/listings/westfield-animal-control-and-shelter-westfiel
 https://shelterdayout.com/listings/westmoreland-county-animal-shelter-montross/
 https://shelterdayout.com/listings/weston-county-humane-society-newcastle/
 https://shelterdayout.com/listings/westport-animal-control-westport/
-https://shelterdayout.com/listings/wetland-koi-madison/
 https://shelterdayout.com/listings/wetzel-county-animal-shelter-new-martinsville/
 https://shelterdayout.com/listings/wexford-county-animal-shelter-cadillac/
 https://shelterdayout.com/listings/whatcom-humane-society-bellingham/

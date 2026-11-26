@@ -198,7 +198,6 @@ https://shelteradoption.com/cities/louisville-ky/
 https://shelteradoption.com/cities/lubbock-tx/
 https://shelteradoption.com/cities/madison-fl/
 https://shelteradoption.com/cities/madison-ga/
-https://shelteradoption.com/cities/madison-wi/
 https://shelteradoption.com/cities/manchester-nh/
 https://shelteradoption.com/cities/manistee-mi/
 https://shelteradoption.com/cities/marianna-fl/
@@ -759,7 +758,7 @@ https://shelteradoption.com/shelters/bucks-county-spca-lahaska/
 https://shelteradoption.com/shelters/bucks-county-spca-quakertown-animal-care-center-quakertown/
 https://shelteradoption.com/shelters/buddy-dog-humane-society-sudbury/
 https://shelteradoption.com/shelters/buffalo-animal-shelter-buffalo/
-https://shelteradoption.com/shelters/buffalo-county-humaine-society-mondovi/
+https://shelteradoption.com/shelters/buffalo-county-humane-society-mondovi/
 https://shelteradoption.com/shelters/bullhead-city-animal-resource-center-barc-bullhead-city/
 https://shelteradoption.com/shelters/bullitt-county-animal-control-and-shelter-shepherdsville/
 https://shelteradoption.com/shelters/bulloch-county-animal-services-statesboro/
@@ -3290,7 +3289,6 @@ https://shelteradoption.com/shelters/westfield-animal-control-and-shelter-westfi
 https://shelteradoption.com/shelters/westmoreland-county-animal-shelter-montross/
 https://shelteradoption.com/shelters/weston-county-humane-society-newcastle/
 https://shelteradoption.com/shelters/westport-animal-control-westport/
-https://shelteradoption.com/shelters/wetland-koi-madison/
 https://shelteradoption.com/shelters/wetzel-county-animal-shelter-new-martinsville/
 https://shelteradoption.com/shelters/wexford-county-animal-shelter-cadillac/
 https://shelteradoption.com/shelters/whatcom-humane-society-bellingham/

@@ -132,7 +132,7 @@
  {
   "state": "WI",
   "city": "Mondovi",
-  "org": "Buffalo County Humaine Society",
+  "org": "Buffalo County Humane Society",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
@@ -213,23 +213,6 @@
   "phone": "+1-262-723-1000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14322166169"
- },
- {
-  "state": "WI",
-  "city": "Madison",
-  "org": "Wetland Koi",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/107665575"
  },
  {
   "state": "WI",
