@@ -81,7 +81,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <body>
 <header class="site"><div class="wrap">
 <a class="logo" href="/">{logo_html()}</a>
-<nav class="main"><a href="/#find">Find a shelter</a><a href="/events/">Adoption events</a><a href="/how-to-adopt-a-dog/">How to adopt</a><a href="{SDO}/" rel="noopener">Dog day outs</a></nav>
+<nav class="main"><a href="/#find">Find a shelter</a><a href="/events/">Adoption events</a><a href="/how-to-adopt-a-dog/">How to adopt</a><a href="/find-a-vet/">Find a vet</a><a href="{SDO}/" rel="noopener">Dog day outs</a></nav>
 </div></header>
 <main><div class="wrap">
 {body}
@@ -414,7 +414,7 @@ GUIDES = {
 <p class="lede">Print this or keep it on your phone.</p>
 <h2>Bring to the shelter</h2><ul><li>Photo ID</li><li>Landlord's name and number, or proof you can have pets, if you rent</li><li>Your current pets' vet records, if the shelter asks</li><li>A leash and collar (dogs) or a carrier (cats)</li><li>Everyone in your household, if the shelter wants to meet them</li></ul>
 <h2>Questions to ask</h2><ul><li>Why was this animal surrendered or found?</li><li>How do they do with kids, dogs and cats?</li><li>Any health issues or medications?</li><li>What vaccines and treatment have they had?</li><li>What does the fee include? Is there a return policy?</li></ul>
-<h2>Have ready at home</h2><ul><li>Food (ask what the shelter feeds, and switch slowly)</li><li>Food and water bowls</li><li>Bed or crate (dogs); litter box, litter and scratching post (cats)</li><li>ID tag with your phone number</li><li>A few toys and chews</li><li>A local vet picked out (<a href="SDO/find-a-vet/">find a vet near you</a>)</li></ul>"""),
+<h2>Have ready at home</h2><ul><li>Food (ask what the shelter feeds, and switch slowly)</li><li>Food and water bowls</li><li>Bed or crate (dogs); litter box, litter and scratching post (cats)</li><li>ID tag with your phone number</li><li>A few toys and chews</li><li>A local vet picked out (<a href="/find-a-vet/">find a vet near you</a>)</li></ul>"""),
     "/adoption-fees/": ("How Much Does It Cost to Adopt a Dog or Cat? Shelter Adoption Fees Explained", "What shelter adoption fees usually cover, why they vary, and how to find reduced-fee and fee-waived adoption events near you.",
         "How much does it cost to adopt a pet?", """
 <p class="lede">Adoption fees are set by each shelter and vary with the animal's age and type, the shelter, and the time of year. Check the shelter's own website for its current fees.</p>
@@ -550,6 +550,7 @@ def main(rows=None):
     build_guides()
     build_keyword_pages(rows)
     build_static(rows)
+    sdo.build_vets(DIST, page, write, BRAND, crumbs_ld, f"{SDO}/suggest/")
     build_sitemap()
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"ShelterAdoption: {len(rows)} shelters, {len(evs)} events, {n} pages into {DIST}")

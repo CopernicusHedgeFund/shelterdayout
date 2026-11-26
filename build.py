@@ -1117,7 +1117,9 @@ VET_JS = """<script>
 </script>"""
 
 
-def build_vets():
+def build_vets(dist=None, page_fn=None, write_fn=None, brand=None, crumbs_fn=None, suggest="/suggest/"):
+    """Find-a-vet section. Called with no arguments for ShelterDayOut; build_adopt.py passes its own folder and page helpers."""
+    dist = dist or DIST; page_fn = page_fn or page; write_fn = write_fn or write; brand = brand or BRAND; crumbs_fn = crumbs_fn or crumbs_ld
     src = ROOT / "data" / "osm_vets.json"
     if not src.exists():
         return
@@ -1149,12 +1151,12 @@ def build_vets():
             if rec["w"] and urlparse(rec["w"]).path in ("", "/") and homes[urlparse(rec["w"]).netloc.lower().removeprefix("www.")] >= 3:
                 rec["w"] = ""
             rec["m"] = map_url(rec["n"], rec["c"], rec["s"], rec["a"])
-    (DIST / "find-a-vet" / "data").mkdir(parents=True, exist_ok=True)
+    (dist / "find-a-vet" / "data").mkdir(parents=True, exist_ok=True)
     total = 0
     for stc, lst in by.items():
         lst.sort(key=lambda r: (r["c"], r["n"]))
         total += len(lst)
-        (DIST / "find-a-vet" / "data" / f"{stc}.json").write_text(json.dumps(lst, separators=(",", ":")))
+        (dist / "find-a-vet" / "data" / f"{stc}.json").write_text(json.dumps(lst, separators=(",", ":")))
     opts = "".join(f'<option value="{k}">{v} ({len(by.get(k, [])):,})</option>' for k, v in sorted(STATES.items(), key=lambda kv: kv[1]) if by.get(k))
     state_links = " ".join(f'<a href="/find-a-vet/{slugify(STATES[k])}/">{STATES[k]}</a>' for k in sorted(by, key=lambda k: STATES[k]))
     body = f"""<h1>Find a vet near you</h1>
@@ -1165,10 +1167,10 @@ def build_vets():
 </div><div class="row2"><label class="chk"><input type="checkbox" id="vem"> 24/7 emergency only</label><label class="chk"><input type="checkbox" id="vlc"> Low-cost / nonprofit</label><button class="btn sbtn" type="submit">Search</button></div></form>
 <p class="count" id="vcount"></p>
 <table class="list"><thead><tr><th>Clinic</th><th>Location</th><th>Contact</th></tr></thead><tbody id="vout"></tbody></table>
-<div class="note">Clinic details come from OpenStreetMap and can be out of date. Call ahead, especially for emergencies. Know a vet we're missing or see a mistake? <a href="/suggest/">Tell us</a>.</div>
+<div class="note">Clinic details come from OpenStreetMap and can be out of date. Call ahead, especially for emergencies. Know a vet we're missing or see a mistake? <a href="{suggest}">Tell us</a>.</div>
 <h2>Browse vets by state</h2><p class="citylinks">{state_links}</p>
 {VET_JS}"""
-    write("/find-a-vet/", page(f"Find a Vet Near You: {total:,} Veterinary Clinics, Emergency & Low-Cost | {BRAND}",
+    write_fn("/find-a-vet/", page_fn(f"Find a Vet Near You: {total:,} Veterinary Clinics, Emergency & Low-Cost | {brand}",
         f"Search {total:,} vet clinics across the US by city, ZIP or state. Find 24/7 emergency vets and low-cost or nonprofit clinics. Updated every 3 months.",
         body, "/find-a-vet/"))
     for stc, lst in by.items():
@@ -1184,9 +1186,9 @@ def build_vets():
 <p class="lede">{len(lst):,} veterinary clinics in {name}, including {ne} listed as 24/7 emergency. <a href="/find-a-vet/?state={stc}">Search by city or ZIP</a>.</p>
 <table class="list"><thead><tr><th>Clinic</th><th>City</th><th>Contact</th></tr></thead><tbody>{rows_html}</tbody></table>
 <div class="note">From OpenStreetMap; details can change. Call ahead.</div>"""
-        write(f"/find-a-vet/{slugify(name)}/", page(f"Vets in {name}: {len(lst):,} Veterinary Clinics & Emergency Vets | {BRAND}",
+        write_fn(f"/find-a-vet/{slugify(name)}/", page_fn(f"Vets in {name}: {len(lst):,} Veterinary Clinics & Emergency Vets | {brand}",
             f"Find a vet in {name}: {len(lst):,} clinics in {', '.join(cities)} and more, including 24/7 emergency and low-cost clinics.",
-            body, f"/find-a-vet/{slugify(name)}/", crumbs_ld([("Home", "/"), ("Find a vet", "/find-a-vet/"), (name, f"/find-a-vet/{slugify(name)}/")])))
+            body, f"/find-a-vet/{slugify(name)}/", crumbs_fn([("Home", "/"), ("Find a vet", "/find-a-vet/"), (name, f"/find-a-vet/{slugify(name)}/")])))
 
 
 PREV_LASTMOD = {}
