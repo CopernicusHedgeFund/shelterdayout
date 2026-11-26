@@ -17,13 +17,13 @@
     "date": "2026-12-12",
     "title": "Bottle and Bean Holiday Market Adoption Event (Waggin' Wheels)",
     "url": "https://www.azhumane.org/events/",
-    "place": "Bottle and Bean, 2577 W. Queen Creek Rd, Chandler"
+    "place": "Bottle and Bean, 2577 W. Queen Creek Rd, Suite 100, Chandler"
    },
    {
     "date": "2026-12-19",
     "title": "Pars Fore Pets Golf Tournament: Adoption Event and Donation Drive",
     "url": "https://www.azhumane.org/events/",
-    "place": "Papago Golf Club, Phoenix"
+    "place": "Papago Golf Club, 5595 E. Karsten Way, Phoenix"
    },
    {
     "date": "2027-01-09",
@@ -42,10 +42,25 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.maricopa.gov/6037/Tails-Around-Town",
-  "notes": "Book online for the East (Mesa) or West (Phoenix) shelter; slots open 60 days ahead. Pick up before opening, return 12-5pm; own vehicle required, stay within Maricopa County and 50 miles of the shelter. Two no-shows in six months disqualifies you.",
+  "notes": "West Shelter, 2500 S. 27th Ave, Phoenix (East Shelter in Mesa also takes part). Book online; slots open 60 days ahead and cancellations reopen the night before. Pick up before opening, return 12-5pm; own vehicle (no rideshare), stay within Maricopa County and 50 miles of the shelter; staff choose the dog. Two no-shows or cancellations in six months disqualifies you.",
   "checked": "November 2026",
   "email_program": "ACCVolunteer@maricopa.gov",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(602) 506-7387",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "MCACC Adoption Event at PetSmart Avondale",
+    "url": "https://www.maricopa.gov/5268/Animal-Care-and-Control",
+    "place": "PetSmart, Avondale"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "MCACC Adoption Event at PetSmart Desert Ridge",
+    "url": "https://www.maricopa.gov/5268/Animal-Care-and-Control",
+    "place": "PetSmart Desert Ridge, Phoenix"
+   }
+  ]
  },
  {
   "state": "AZ",
@@ -68,12 +83,13 @@
   "program": "Day Trips & Pawjama Parties",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip, sleepover (1-3 nights)",
-  "url": "https://www.pima.gov/3536/Take-a-Shelter-Dog-on-a-Day-Trip-or-Pawj",
-  "notes": "18+; children may come but an adult must control the dog. Visit during open hours and go to the foster office for quick paperwork; staff keep a list of eligible dogs. Pawjama Parties are 1-3 night stays; no dog parks or schools.",
+  "offers": "Day trip, Sleepover",
+  "url": "https://www.pima.gov/day-trips-and-pawjama-parties",
+  "notes": "18+; children may come but an adult must control the dog at all times. Visit PACC (4000 N Silverbell Rd) during open hours and go to the foster office for basic paperwork; staff keep a list of eligible dogs. Pawjama Parties are 1-3 night short-term foster stays; no dog parks or schools.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(520) 724-5900"
  },
  {
   "state": "AZ",
@@ -116,7 +132,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@halorescue.org",
-  "phone": "+1-602-971-9222",
+  "phone": "(602) 971-9222",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/2778878023"
  },
@@ -133,7 +149,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@heidisvillage.org",
-  "phone": "+1-602-241-4640",
+  "phone": "(602) 241-4640",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9868851757"
  },
@@ -150,7 +166,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 520-625-3170",
+  "phone": "(520) 625-3170",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13083644021"
  },
@@ -167,7 +183,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 480 983 4405",
+  "phone": "(480) 983-4405",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/164545739"
  },
@@ -201,7 +217,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 520 456 1337",
+  "phone": "(520) 456-1337",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/259742834"
  },
@@ -218,7 +234,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@azfriends.org",
-  "phone": "+1-480-497-8296",
+  "phone": "(480) 497-8296",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/767991950"
  },
@@ -252,7 +268,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.shelter@sierravistaaz.gov",
-  "phone": "+1 520 458 4151",
+  "phone": "(520) 458-4151",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/896244103"
  },
@@ -269,7 +285,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-928-428-7842",
+  "phone": "(928) 428-7842",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/904500081"
  },
@@ -303,7 +319,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-928-684-8801",
+  "phone": "(928) 684-8801",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1267824543"
  },
@@ -337,7 +353,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-520-432-6020",
+  "phone": "(520) 432-6020",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1451513042"
  },
@@ -367,11 +383,12 @@
   "animals": "Dogs",
   "offers": "Hike, day trip",
   "url": "https://highcountryhumane.org/high-country-hikers/",
-  "notes": "Walk in at the Main Campus (11665 N. Hwy 89) Thu-Tue 11am-4:30pm, sign a waiver, and staff match you with a dog for a trail outing; dog back by 4:30pm. Minors need a signed minor waiver; groups of 6+ email ahead. Formerly Coconino Humane Association.",
+  "notes": "Walk in at the Main Campus front lobby (11665 N. Hwy 89) Thu-Tue 11am-4:30pm (closed Wed), sign a waiver, and staff match you with a dog 1+ years old for a trail outing near Flagstaff; no fee listed; dog back by 4:30pm. Minors need a signed minor waiver; groups of 6+ email volunteer@highcountryhumane.org. Formerly Coconino Humane Association (merged); Butler Campus closed for the season until Spring 2027.",
   "checked": "November 2026",
   "email_program": "volunteer@highcountryhumane.org",
   "email_main": "support@highcountryhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(928) 526-0742"
  },
  {
   "state": "AZ",
@@ -407,7 +424,8 @@
     "date": "2026-12-01",
     "end": "2026-12-11",
     "title": "BISSELL Empty the Shelters Adoption Event",
-    "url": "https://humanesocietyofsedona.org/events/"
+    "url": "https://humanesocietyofsedona.org/events/",
+    "place": "Humane Society of Sedona, 2115 Shelby Drive, Sedona"
    },
    {
     "date": "2026-12-05",
@@ -415,7 +433,8 @@
     "url": "https://humanesocietyofsedona.org/events/",
     "place": "PetSmart Sedona"
    }
-  ]
+  ],
+  "phone": "(928) 282-4679"
  },
  {
   "state": "AZ",
@@ -762,5 +781,37 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "AZ",
+  "city": "Mesa",
+  "org": "Maricopa County Animal Care & Control (East Shelter)",
+  "program": "Tails Around Town",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://www.maricopa.gov/6037/Tails-Around-Town",
+  "phone": "(602) 506-7387",
+  "notes": "East Shelter at 1920 S. Lewis, Mesa. Book a slot on the East shelter sign-up form (slots open 60 days ahead); pick up before opening, return 12-5pm; own vehicle, stay in Maricopa County within 50 miles; staff pick the dog.",
+  "checked": "November 2026",
+  "email_program": "ACCVolunteer@maricopa.gov",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "AZ",
+  "city": "Tucson",
+  "org": "Eastside PACC Adoption Center (EPAC)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.pima.gov/eastside-pacc-adoption-center-epac",
+  "phone": "(520) 724-5940",
+  "notes": "Pima Animal Care Center's eastside adoption center at 7225 E Broadway Blvd, Suite 140 (holds up to 50 pets). Day Trips and Pawjama Parties are run through the main PACC foster office on Silverbell Rd.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "government website"
  }
 ]
