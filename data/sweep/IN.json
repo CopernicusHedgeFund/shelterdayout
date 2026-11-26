@@ -279,7 +279,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "city": "Rensselaer",
-  "org": "Jasper County Animal Shelter"
+  "org": "Jasper County Animal Shelter",
+  "phone": "(219) 866-5756"
  },
  {
   "state": "IN",
@@ -630,7 +631,7 @@
   "source_list": "shelter website",
   "city": "South Bend",
   "org": "South Bend Animal Resource Center",
-  "phone": "(574) 233-0311"
+  "phone": ""
  },
  {
   "state": "IN",
@@ -915,7 +916,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "city": "Decatur",
-  "org": "Adams County Animal Shelter"
+  "org": "Adams County Animal Shelter",
+  "phone": "(260) 849-0300"
  },
  {
   "state": "IN",
@@ -1138,7 +1140,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(765) 584-6845"
+  "phone": ""
  },
  {
   "state": "IN",
@@ -1650,7 +1652,7 @@
   "email_program": "",
   "email_main": "animalcontrol@warrickcounty.gov",
   "source_list": "shelter website",
-  "phone": "(812) 897-6107"
+  "phone": ""
  },
  {
   "state": "IN",

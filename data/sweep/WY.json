@@ -181,7 +181,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(307) 334-3612",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1273151342"
  },
@@ -324,7 +324,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 328-4534"
  },
  {
   "state": "WY",
@@ -340,7 +341,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(307) 733-3932"
+  "phone": ""
  },
  {
   "state": "WY",

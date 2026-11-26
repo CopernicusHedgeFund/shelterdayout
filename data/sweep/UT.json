@@ -282,7 +282,7 @@
   "checked": "November 2026",
   "email_program": "DoggyDaycationSchedule@wvc-ut.gov",
   "email_main": "",
-  "phone": "(801) 966-3600",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/589092723"
  },
@@ -402,7 +402,7 @@
   "email_program": "",
   "email_main": "animalservices@draperutah.gov",
   "source_list": "shelter website",
-  "phone": "(801) 576-6500"
+  "phone": ""
  },
  {
   "state": "UT",
@@ -418,7 +418,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(801) 568-7100"
+  "phone": ""
  },
  {
   "state": "UT",
@@ -434,7 +434,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(435) 623-0822"
+  "phone": ""
  },
  {
   "state": "UT",

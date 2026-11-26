@@ -117,7 +117,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "thehe@carrollcountygov.us",
-  "phone": "",
+  "phone": "(502) 732-8959",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/516823879"
  },
@@ -134,7 +134,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(502) 863-7850",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/604372079"
  },
@@ -416,7 +416,7 @@
   "email_program": "",
   "email_main": "brackencountyanimalshelter@gmail.com",
   "source_list": "shelter website",
-  "phone": "(606) 735-2300"
+  "phone": ""
  },
  {
   "state": "KY",
@@ -431,7 +431,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 564-6067"
  },
  {
   "state": "KY",
@@ -809,7 +810,7 @@
   "email_program": "",
   "email_main": "greenupcountyanimalshelter@aol.com",
   "source_list": "shelter website",
-  "phone": "(606) 473-6440"
+  "phone": ""
  },
  {
   "state": "KY",
@@ -1142,7 +1143,7 @@
     "url": "https://marshallcountyky.gov/?p=6704"
    }
   ],
-  "phone": "(270) 527-4740"
+  "phone": ""
  },
  {
   "state": "KY",
@@ -1157,7 +1158,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 251-0130"
  },
  {
   "state": "KY",
@@ -1361,7 +1363,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 927-8137"
+  "phone": "(270) 927-8544"
  },
  {
   "state": "KY",

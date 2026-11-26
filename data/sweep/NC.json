@@ -42,7 +42,7 @@
   "email_program": "",
   "email_main": "pittshelter@pittcountync.gov",
   "source": "http://www.reflector.com/features/local/pet-news/article_71d974de-90af-4cb9-876e-5673c077112e.html",
-  "phone": "(252) 902-1000"
+  "phone": "(252) 902-1726"
  },
  {
   "state": "NC",
@@ -116,7 +116,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@burlingtonnc.gov",
-  "phone": "(336) 222-5000"
+  "phone": ""
  },
  {
   "state": "NC",
@@ -647,7 +647,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(828) 488-9273"
+  "phone": ""
  },
  {
   "state": "NC",
@@ -867,7 +867,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(336) 593-2811"
+  "phone": "(336) 994-2788"
  },
  {
   "state": "NC",
@@ -883,7 +883,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(336) 342-8100"
+  "phone": ""
  },
  {
   "state": "NC",
@@ -1070,7 +1070,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dcanimals@duplinnc.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 296-2159"
  },
  {
   "state": "NC",
@@ -1212,7 +1213,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(252) 789-4300"
+  "phone": ""
  },
  {
   "state": "NC",
@@ -1431,7 +1432,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 572-3067"
  },
  {
   "state": "NC",
@@ -1567,7 +1569,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 583-1050"
  },
  {
   "state": "NC",

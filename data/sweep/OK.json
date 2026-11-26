@@ -13,7 +13,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/13932663370"
+  "osm": "node/13932663370",
+  "phone": "(580) 481-2285"
  },
  {
   "state": "OK",
@@ -60,7 +61,7 @@
   "email_program": "",
   "email_main": "animalcontrol@cityofblanchard.us",
   "source_list": "shelter website",
-  "phone": "(405) 485-9392"
+  "phone": ""
  },
  {
   "state": "OK",
@@ -206,7 +207,7 @@
   "email_program": "",
   "email_main": "police@elrenook.gov",
   "source_list": "shelter website",
-  "phone": "(405) 262-4070"
+  "phone": ""
  },
  {
   "state": "OK",

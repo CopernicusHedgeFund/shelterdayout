@@ -353,7 +353,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(860) 535-2877"
+  "phone": ""
  },
  {
   "state": "CT",
@@ -430,7 +430,7 @@
   "email_program": "",
   "email_main": "aco@windhamct.gov",
   "source_list": "shelter website",
-  "phone": "(860) 465-3000"
+  "phone": ""
  },
  {
   "state": "CT",
@@ -462,7 +462,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(860) 673-6789"
+  "phone": "(860) 960-6600"
  },
  {
   "state": "CT",
@@ -663,7 +663,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 854-3240"
  },
  {
   "state": "CT",
@@ -804,7 +805,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 294-2180"
  },
  {
   "state": "CT",
@@ -835,7 +837,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 239-1616"
  },
  {
   "state": "CT",
@@ -866,7 +869,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(860) 584-6100"
+  "phone": ""
  },
  {
   "state": "CT",
@@ -913,7 +916,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(860) 870-3599"
+  "phone": ""
  },
  {
   "state": "CT",
@@ -991,6 +994,6 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(860) 434-1605"
+  "phone": ""
  }
 ]

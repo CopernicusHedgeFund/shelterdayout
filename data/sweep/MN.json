@@ -44,7 +44,7 @@
     "place": "PetSmart, 1640 New Brighton Blvd, Minneapolis"
    }
   ],
-  "phone": "(612) 673-3000"
+  "phone": ""
  },
  {
   "state": "MN",
@@ -229,7 +229,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(507) 537-6760",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/803413926"
  },
@@ -446,7 +446,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(507) 328-2311"
+  "phone": "(507) 328-6960"
  },
  {
   "state": "MN",
@@ -722,7 +722,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(218) 927-2527"
+  "phone": ""
  },
  {
   "state": "MN",

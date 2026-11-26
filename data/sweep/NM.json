@@ -224,7 +224,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(575) 835-4222",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/439627862"
  },
@@ -275,7 +275,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@mountainairnm.gov",
-  "phone": "",
+  "phone": "(505) 384-4270",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/624238313"
  },
@@ -498,7 +498,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(505) 891-5000"
+  "phone": ""
  },
  {
   "state": "NM",
@@ -513,7 +513,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "sandovalpets@sandovalcountynm.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(505) 867-7642"
  },
  {
   "state": "NM",
@@ -529,7 +530,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(505) 966-2730"
+  "phone": ""
  },
  {
   "state": "NM",
@@ -561,7 +562,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(505) 286-4518"
+  "phone": ""
  },
  {
   "state": "NM",
@@ -644,7 +645,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(575) 445-9551"
+  "phone": ""
  },
  {
   "state": "NM",
@@ -706,7 +707,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(575) 746-2122"
+  "phone": ""
  },
  {
   "state": "NM",

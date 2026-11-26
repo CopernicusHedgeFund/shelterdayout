@@ -123,7 +123,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(615) 790-5590",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8630269515"
  },
@@ -157,7 +157,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mharren.ucas@gmail.com",
-  "phone": "(423) 743-9391",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/10595100166"
  },
@@ -174,7 +174,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(731) 780-9037",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/10749810705"
  },
@@ -208,7 +208,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@roanecountytn.gov",
-  "phone": "",
+  "phone": "(865) 354-7387",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/11396288609"
  },
@@ -325,7 +325,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jtracy@cookeville-tn.gov",
-  "phone": "(931) 526-9591",
+  "phone": "(931) 526-3647",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/557495625"
  },
@@ -410,7 +410,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(731) 885-1341",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1314391793"
  },
@@ -601,7 +601,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 566-8018"
  },
  {
   "state": "TN",
@@ -744,7 +745,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(423) 472-4551"
+  "phone": "(423) 559-3333"
  },
  {
   "state": "TN",
@@ -760,7 +761,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(423) 775-7837"
+  "phone": "(423) 775-2029"
  },
  {
   "state": "TN",
@@ -791,7 +792,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 468-1432"
  },
  {
   "state": "TN",
@@ -869,7 +871,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(931) 473-1200"
+  "phone": "(931) 473-2553"
  },
  {
   "state": "TN",
@@ -885,7 +887,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(931) 728-4652"
+  "phone": ""
  },
  {
   "state": "TN",
@@ -981,7 +983,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(615) 382-2200"
+  "phone": "(615) 384-9289"
  },
  {
   "state": "TN",
@@ -1090,7 +1092,7 @@
   "email_program": "",
   "email_main": "Shelter@gilescountytn.gov",
   "source_list": "shelter website",
-  "phone": "(931) 363-5300"
+  "phone": "(931) 607-0116"
  },
  {
   "state": "TN",
@@ -1197,7 +1199,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(731) 642-5024"
  },
  {
   "state": "TN",

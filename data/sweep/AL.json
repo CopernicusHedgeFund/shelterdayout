@@ -48,7 +48,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Animals@HuntsvilleAL.gov",
-  "phone": "(256) 427-5000",
+  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/478940823",
   "source": "https://www.huntsvilleal.gov/government/departments/animal-services-department"
@@ -276,7 +276,7 @@
   "email_program": "",
   "email_main": "ccas@cherokeecounty-al.gov",
   "source_list": "shelter website",
-  "phone": "(256) 927-3668"
+  "phone": "(256) 266-1390"
  },
  {
   "state": "AL",
@@ -549,7 +549,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(256) 241-2929"
  },
  {
   "state": "AL",
@@ -812,7 +813,7 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.greenvilleadvocate.com/?p=190353",
-  "phone": "(334) 382-2647"
+  "phone": ""
  },
  {
   "state": "AL",
@@ -829,7 +830,7 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://selma-al.gov/job-openings/animal-shelter-coordinator/",
-  "phone": "(334) 876-1220"
+  "phone": ""
  },
  {
   "state": "AL",
@@ -1270,7 +1271,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(334) 774-4633"
+  "phone": ""
  },
  {
   "state": "AL",

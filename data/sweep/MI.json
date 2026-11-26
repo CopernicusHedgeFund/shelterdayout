@@ -200,7 +200,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(248) 433-7700"
+  "phone": ""
  },
  {
   "state": "MI",
@@ -312,7 +312,7 @@
   "email_program": "",
   "email_main": "roas@romi.gov",
   "source_list": "shelter website",
-  "phone": "(248) 246-3000"
+  "phone": "(248) 548-3058"
  },
  {
   "state": "MI",
@@ -1349,7 +1349,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@vanburencountymi.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(269) 621-4624"
  },
  {
   "state": "MI",
@@ -1681,7 +1682,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "rforsyth@arenaccountymi.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 846-4421"
  },
  {
   "state": "MI",
@@ -2199,7 +2201,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 705-7632"
  },
  {
   "state": "MI",
@@ -2552,7 +2555,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(906) 632-2519"
+  "phone": ""
  },
  {
   "state": "MI",
@@ -2801,7 +2804,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityofinkstermi.gov/682/Animal-Shelter-Temporary",
-  "phone": "",
+  "phone": "(313) 563-9850",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -2817,7 +2820,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.sterlingheights.gov/513/Animal-Control",
-  "phone": "",
+  "phone": "(586) 446-2879",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",

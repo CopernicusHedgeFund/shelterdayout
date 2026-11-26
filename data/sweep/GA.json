@@ -13,7 +13,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(770) 830-5800"
+  "phone": ""
  },
  {
   "state": "GA",
@@ -400,7 +400,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@fayettecountyga.gov",
-  "phone": "",
+  "phone": "(770) 631-7210",
   "source_list": "shelter website",
   "osm": "way/1348835619"
  },
@@ -435,7 +435,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(770) 254-2601"
+  "phone": ""
  },
  {
   "state": "GA",
@@ -988,7 +988,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 867-7297"
  },
  {
   "state": "GA",
@@ -1036,7 +1037,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(706) 629-3795"
+  "phone": ""
  },
  {
   "state": "GA",
@@ -1111,7 +1112,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@haralsoncountyga.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(770) 646-6622"
  },
  {
   "state": "GA",
@@ -1219,7 +1221,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@morgancountyga.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 752-1195"
  },
  {
   "state": "GA",
@@ -1377,7 +1380,8 @@
     "url": "https://www.augustaga.gov/Calendar.aspx?EID=6149",
     "place": "Augusta Animal Shelter, 4164 Mack Ln"
    }
-  ]
+  ],
+  "phone": "(706) 790-6836"
  },
  {
   "state": "GA",
@@ -2070,7 +2074,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://burkecounty-ga.gov/departments/animal_services.php",
-  "phone": "",
+  "phone": "(762) 225-6462",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -2278,7 +2282,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.putnamcountyga.us/257/Animal-Adoption",
-  "phone": "",
+  "phone": "(706) 485-3970",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -2374,7 +2378,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://gradycountyga.gov/services/animal-control/",
-  "phone": "",
+  "phone": "(229) 377-3070",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",

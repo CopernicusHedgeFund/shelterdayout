@@ -1610,7 +1610,8 @@
   "checked": "November 2026",
   "email_program": "leigh.sweet@citruscounty.gov",
   "email_main": "colleen.yarbrough@citruscounty.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 746-8406"
  },
  {
   "state": "FL",
@@ -1835,7 +1836,7 @@
   "email_program": "",
   "email_main": "animalservices@mypasco.net",
   "source_list": "shelter website",
-  "phone": "(727) 847-2411"
+  "phone": ""
  },
  {
   "state": "FL",
