@@ -16,23 +16,6 @@
  },
  {
   "state": "NM",
-  "city": "Lordsburg",
-  "org": "Wolfsong Ranch Foundation",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/2167225317"
- },
- {
-  "state": "NM",
   "city": "Carlsbad",
   "org": "Noah's Ark Animal Shelter",
   "program": "No day-out program yet",
@@ -719,11 +702,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/member/us/nm/tucumcari/paws-claws-animal-rescue-of-quay-county-inc-nm144/",
+  "url": "",
   "notes": "Shelter at 2524 S. Fifth St, Tucumcari (per ShareNM listing). No own website found; url is its Petfinder page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pawsandclawsanimalrescue2@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.petfinder.com/member/us/nm/tucumcari/paws-claws-animal-rescue-of-quay-county-inc-nm144/"
  }
 ]

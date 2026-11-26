@@ -37,12 +37,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/AdoptaDogAnimalRescue/",
+  "url": "",
   "notes": "Facility at 16724 US-30; open Tue-Fri 9am-12pm, Sat 10am-2pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/AdoptaDogAnimalRescue/"
  },
  {
   "state": "NE",

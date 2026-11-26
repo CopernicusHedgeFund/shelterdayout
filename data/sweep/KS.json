@@ -7,12 +7,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.facebook.com/Atchison-Animal-Control-Atchison-Kansas-102470159818251/",
+  "url": "",
   "notes": "City shelter at 1801 Main St; adoptions by appointment (913-367-5530).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@cityofatchison.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/Atchison-Animal-Control-Atchison-Kansas-102470159818251/"
  },
  {
   "state": "KS",

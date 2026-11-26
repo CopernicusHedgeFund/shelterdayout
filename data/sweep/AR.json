@@ -247,12 +247,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/share/16uaq1aMvG/",
+  "url": "",
   "notes": "Small county shelter, mainly dogs. Phone 870-807-0037.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/share/16uaq1aMvG/"
  },
  {
   "state": "AR",
@@ -444,12 +445,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/HopeforPawsHopeArkansas/",
+  "url": "",
   "notes": "City shelter in Hope; Hope For Paws volunteers advocate for its dogs. Facebook not readable at check time.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/HopeforPawsHopeArkansas/"
  },
  {
   "state": "AR",
@@ -551,12 +553,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/chicothumaneshelter/",
+  "url": "",
   "notes": "Facebook page not readable at check time; listed email chicotcountyhumane@gmail.com.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/chicothumaneshelter/"
  },
  {
   "state": "AR",
@@ -566,12 +569,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/groups/982128781839986/",
+  "url": "",
   "notes": "Shelter facility at 6253 S. Hwy 65, Leslie (holds about 17 large dogs) with supporting thrift store. Facebook not readable at check time. Official website/details still to be confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/groups/982128781839986/"
  },
  {
   "state": "AR",
@@ -641,14 +645,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://facebook.com/cityofmarionanimalshelter",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "+18707395412",
   "source_list": "shelter website",
-  "osm": "way/1419286194"
+  "osm": "way/1419286194",
+  "url_social": "http://facebook.com/cityofmarionanimalshelter"
  },
  {
   "state": "AR",
@@ -750,12 +755,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/OsceolaAnimalShelter/",
+  "url": "",
   "notes": "City shelter at 2501 W. Semmes Avenue. Facebook page not readable at check time.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/OsceolaAnimalShelter/"
  },
  {
   "state": "AR",
@@ -874,12 +880,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/HumaneSocietyofSearcy",
+  "url": "",
   "notes": "Shelter at 112 Johnston Road. Facebook page could not be read at check time.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/HumaneSocietyofSearcy"
  },
  {
   "state": "AR",

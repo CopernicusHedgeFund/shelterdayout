@@ -172,7 +172,6 @@ https://shelteradoption.com/cities/lexington-ky/
 https://shelteradoption.com/cities/little-rock-ar/
 https://shelteradoption.com/cities/lodi-ca/
 https://shelteradoption.com/cities/long-beach-ca/
-https://shelteradoption.com/cities/lordsburg-nm/
 https://shelteradoption.com/cities/los-angeles-ca/
 https://shelteradoption.com/cities/louisville-ky/
 https://shelteradoption.com/cities/lubbock-tx/
@@ -996,7 +995,6 @@ https://shelteradoption.com/shelters/corona-animal-shelter-corona/
 https://shelteradoption.com/shelters/corrales-animal-services-corrales/
 https://shelteradoption.com/shelters/cortez-animal-shelter-city-of-cortez-animal-services-cortez/
 https://shelteradoption.com/shelters/coulee-region-humane-society-onalaska/
-https://shelteradoption.com/shelters/countryside-kennels-castile/
 https://shelteradoption.com/shelters/cove-animal-rescue-city-of-glen-cove-animal-shelter-glen-cove/
 https://shelteradoption.com/shelters/coweta-county-animal-services-newnan/
 https://shelteradoption.com/shelters/cowley-county-humane-society-winfield/
@@ -1098,7 +1096,6 @@ https://shelteradoption.com/shelters/eastern-pa-animal-alliance-brodheadsville/
 https://shelteradoption.com/shelters/eastern-shore-regional-animal-control-facility-melfa/
 https://shelteradoption.com/shelters/eastshore-humane-association-chilton/
 https://shelteradoption.com/shelters/easy-s-dog-shelter-tracy-city/
-https://shelteradoption.com/shelters/eden-rehab-and-rescue-rising-sun/
 https://shelteradoption.com/shelters/edgecombe-county-animal-shelter-tarboro/
 https://shelteradoption.com/shelters/edgefield-county-animal-control-edgefield/
 https://shelteradoption.com/shelters/edgewater-animal-shelter-edgewater/
@@ -1479,7 +1476,6 @@ https://shelteradoption.com/shelters/humane-educational-society-chattanooga/
 https://shelteradoption.com/shelters/humane-fort-wayne-fort-wayne/
 https://shelteradoption.com/shelters/humane-indiana-munster/
 https://shelteradoption.com/shelters/humane-pennsylvania-reading-freedom-center-for-animal-life-saving-reading/
-https://shelteradoption.com/shelters/humane-rescue-alliance-takoma-park/
 https://shelteradoption.com/shelters/humane-rescue-alliance-washington/
 https://shelteradoption.com/shelters/humane-society-adoption-center-of-monroe-monroe/
 https://shelteradoption.com/shelters/humane-society-and-shelter-southcoast-dartmouth/
@@ -3107,7 +3103,6 @@ https://shelteradoption.com/shelters/wisconsin-humane-society-dalton-campus-milw
 https://shelteradoption.com/shelters/wise-county-animal-shelter-wise/
 https://shelteradoption.com/shelters/wolf-point-pound-puppies-animal-rescue-wolf-point/
 https://shelteradoption.com/shelters/wolfe-county-animal-shelter-campton/
-https://shelteradoption.com/shelters/wolfsong-ranch-foundation-lordsburg/
 https://shelteradoption.com/shelters/women-s-animal-center-bensalem/
 https://shelteradoption.com/shelters/wonder-dog-rescue-san-francisco/
 https://shelteradoption.com/shelters/wood-county-dog-shelter-bowling-green/

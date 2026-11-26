@@ -85,12 +85,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/Broken-Bow-OK-Police-Department-Animal-Control-409200219130005/",
+  "url": "",
   "notes": "Small city shelter (12 kennels) run by the Broken Bow Police Department. Phone 580-306-3072.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/Broken-Bow-OK-Police-Department-Animal-Control-409200219130005/"
  },
  {
   "state": "OK",
@@ -100,12 +101,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/ChickashaAnimalShelter",
+  "url": "",
   "notes": "City shelter at 203 N. Genevieve, Chickasha. Tue-Sat 1-4pm, by appointment; phone 405-222-6093.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/ChickashaAnimalShelter"
  },
  {
   "state": "OK",
@@ -223,12 +225,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/GlenpoolAnimalControl/",
+  "url": "",
   "notes": "14536 S Elwood Ave, Glenpool. Facebook-only presence found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/GlenpoolAnimalControl/"
  },
  {
   "state": "OK",
@@ -343,12 +346,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/profile.php?id=100006843196959",
+  "url": "",
   "notes": "No-kill city shelter at 815 S 3rd St, Madill. Adoption $25 plus a $10 refundable spay/neuter deposit.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "gmwilson.cityofmadill@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/profile.php?id=100006843196959"
  },
  {
   "state": "OK",
@@ -358,14 +362,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/cityofmangumanimalshelter/",
+  "url": "",
   "notes": "City-run shelter in Mangum. Facebook is its only web presence (URL from a directory listing and not verified).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1099444374"
+  "osm": "way/1099444374",
+  "url_social": "https://www.facebook.com/cityofmangumanimalshelter/"
  },
  {
   "state": "OK",
@@ -698,12 +703,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/VillageAW/",
+  "url": "",
   "notes": "City of The Village animal shelter (Oklahoma City 73120). Visits by appointment. Phone 405-751-9518.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/VillageAW/"
  },
  {
   "state": "OK",
@@ -886,12 +892,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/paasvinitaok/",
+  "url": "",
   "notes": "State-licensed shelter (Vinita pound partner) at 628 S. Wilson St., Vinita. Mon-Thu 10am-3pm, Fri by appointment. Phone 918-256-7227.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "vinitapoundanimals@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/paasvinitaok/"
  },
  {
   "state": "OK",

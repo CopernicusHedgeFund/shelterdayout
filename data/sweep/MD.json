@@ -439,23 +439,6 @@
  },
  {
   "state": "MD",
-  "city": "Rising Sun",
-  "org": "Eden Rehab & Rescue",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/6468275327"
- },
- {
-  "state": "MD",
   "city": "Cumberland",
   "org": "Allegany County Animal Shelter Management Foundation",
   "program": "No day-out program yet",
@@ -517,22 +500,5 @@
   "email_program": "",
   "email_main": "",
   "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
- },
- {
-  "state": "MD",
-  "city": "Takoma Park",
-  "org": "Humane Rescue Alliance",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.humanerescuealliance.org",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list. Needs check: HRA's main campuses are in Washington DC; confirm whether this OSM point is a Maryland facility or a mis-located DC campus (if DC, remove from MD).",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "+1 202-723-5730",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/296239338"
  }
 ]

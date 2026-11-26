@@ -496,12 +496,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/AlexandriaforAnimals",
+  "url": "",
   "notes": "City of Alexandria shelter, 200 Shelter Road. Phone 318-441-6700. Toby's House adoption center (516 Fairfield Ave) planned next door.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/AlexandriaforAnimals"
  },
  {
   "state": "LA",
@@ -578,12 +579,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/pages/category/Animal-Shelter/St-Mary-Parish-Animal-Shelter-1391048811127654/",
+  "url": "",
   "notes": "10905 B Hwy 182. Parish shelter; St. Mary Parish Government links its adoption page to this Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/pages/category/Animal-Shelter/St-Mary-Parish-Animal-Shelter-1391048811127654/"
  },
  {
   "state": "LA",
@@ -608,12 +610,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/NatchitochesAnimalControl",
+  "url": "",
   "notes": "450 Fairgrounds Road. Website and contact details still to be confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/NatchitochesAnimalControl"
  },
  {
   "state": "LA",
@@ -623,12 +626,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://facebook.com/washingtonparishanimalshelter",
+  "url": "",
   "notes": "23046 Yacc Rd. Website and contact details still to be confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://facebook.com/washingtonparishanimalshelter"
  },
  {
   "state": "LA",
@@ -728,12 +732,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/cityofwinnfieldanimalshelter/",
+  "url": "",
   "notes": "508 S Bevill St. Website and contact details still to be confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/cityofwinnfieldanimalshelter/"
  },
  {
   "state": "LA",
@@ -773,11 +778,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/concordiapawsrescue",
+  "url": "",
   "notes": "1212 First St. Website and contact details still to be confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/concordiapawsrescue"
  }
 ]

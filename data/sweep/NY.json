@@ -563,21 +563,6 @@
  },
  {
   "state": "NY",
-  "city": "Castile",
-  "org": "Countryside Kennels",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "countrysidekennels94@gmail.com",
-  "source_list": "OpenStreetMap contributors (ODbL)"
- },
- {
-  "state": "NY",
   "city": "Victor",
   "org": "Pet Pride of New York, Cat Sanctuary and Adoption Center",
   "program": "No day-out program yet",

@@ -1261,12 +1261,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/profile.php?id=61569887755490",
+  "url": "",
   "notes": "County shelter at 1697 S Jefferson St, Monticello; phone 850-728-3673. Adopts, fosters and transfers to rescue partners. Official web presence is its Facebook page (url); county web page not yet confirmed. No day-out program found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/profile.php?id=61569887755490"
  },
  {
   "state": "FL",

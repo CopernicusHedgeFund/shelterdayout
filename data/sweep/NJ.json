@@ -35,14 +35,15 @@
   "status": "No program yet",
   "animals": "Cats",
   "offers": "",
-  "url": "https://www.petfinder.com/member/us/nj/pompton-lakes/pet-adoption-thru-caring-hands-nj42/",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/4940878505"
+  "osm": "node/4940878505",
+  "url_social": "https://www.petfinder.com/member/us/nj/pompton-lakes/pet-adoption-thru-caring-hands-nj42/"
  },
  {
   "state": "NJ",
@@ -154,14 +155,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/nj36.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/474675557"
+  "osm": "way/474675557",
+  "url_social": "https://www.petfinder.com/shelters/nj36.html"
  },
  {
   "state": "NJ",
@@ -273,14 +275,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ32.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/794207478"
+  "osm": "way/794207478",
+  "url_social": "https://www.petfinder.com/shelters/NJ32.html"
  },
  {
   "state": "NJ",
@@ -324,14 +327,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/nj238.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/962513571"
+  "osm": "way/962513571",
+  "url_social": "https://www.petfinder.com/shelters/nj238.html"
  },
  {
   "state": "NJ",
@@ -426,14 +430,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ268.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1189971762"
+  "osm": "way/1189971762",
+  "url_social": "https://www.petfinder.com/shelters/NJ268.html"
  },
  {
   "state": "NJ",
@@ -702,12 +707,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ399.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.petfinder.com/shelters/NJ399.html"
  },
  {
   "state": "NJ",
@@ -747,12 +753,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ181.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.petfinder.com/shelters/NJ181.html"
  },
  {
   "state": "NJ",
@@ -762,12 +769,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ304.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.petfinder.com/shelters/NJ304.html"
  },
  {
   "state": "NJ",
@@ -777,12 +785,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ76.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.petfinder.com/shelters/NJ76.html"
  },
  {
   "state": "NJ",
@@ -807,12 +816,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ715.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.petfinder.com/shelters/NJ715.html"
  },
  {
   "state": "NJ",
@@ -852,12 +862,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.petfinder.com/shelters/NJ22.html",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.petfinder.com/shelters/NJ22.html"
  },
  {
   "state": "NJ",

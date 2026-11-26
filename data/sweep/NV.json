@@ -146,14 +146,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/City-of-Winnemucca-Humboldt-County-Animal-Center-913704112000918/",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1127364496"
+  "osm": "way/1127364496",
+  "url_social": "https://www.facebook.com/City-of-Winnemucca-Humboldt-County-Animal-Center-913704112000918/"
  },
  {
   "state": "NV",

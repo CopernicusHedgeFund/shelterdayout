@@ -268,14 +268,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/BentonCountyShelter/",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/461279942"
+  "osm": "way/461279942",
+  "url_social": "https://www.facebook.com/BentonCountyShelter/"
  },
  {
   "state": "TN",
@@ -495,12 +496,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/JCHSITN",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/JCHSITN"
  },
  {
   "state": "TN",
@@ -525,12 +527,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/hawkinshumane",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hchs37857@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/hawkinshumane"
  },
  {
   "state": "TN",

@@ -1043,7 +1043,6 @@ https://shelterdayout.com/listings/corona-animal-shelter-corona/
 https://shelterdayout.com/listings/corrales-animal-services-corrales/
 https://shelterdayout.com/listings/cortez-animal-shelter-city-of-cortez-animal-services-cortez/
 https://shelterdayout.com/listings/coulee-region-humane-society-onalaska/
-https://shelterdayout.com/listings/countryside-kennels-castile/
 https://shelterdayout.com/listings/cove-animal-rescue-city-of-glen-cove-animal-shelter-glen-cove/
 https://shelterdayout.com/listings/coweta-county-animal-services-newnan/
 https://shelterdayout.com/listings/cowley-county-humane-society-winfield/
@@ -1145,7 +1144,6 @@ https://shelterdayout.com/listings/eastern-pa-animal-alliance-brodheadsville/
 https://shelterdayout.com/listings/eastern-shore-regional-animal-control-facility-melfa/
 https://shelterdayout.com/listings/eastshore-humane-association-chilton/
 https://shelterdayout.com/listings/easy-s-dog-shelter-tracy-city/
-https://shelterdayout.com/listings/eden-rehab-and-rescue-rising-sun/
 https://shelterdayout.com/listings/edgecombe-county-animal-shelter-tarboro/
 https://shelterdayout.com/listings/edgefield-county-animal-control-edgefield/
 https://shelterdayout.com/listings/edgewater-animal-shelter-edgewater/
@@ -1526,7 +1524,6 @@ https://shelterdayout.com/listings/humane-educational-society-chattanooga/
 https://shelterdayout.com/listings/humane-fort-wayne-fort-wayne/
 https://shelterdayout.com/listings/humane-indiana-munster/
 https://shelterdayout.com/listings/humane-pennsylvania-reading-freedom-center-for-animal-life-saving-reading/
-https://shelterdayout.com/listings/humane-rescue-alliance-takoma-park/
 https://shelterdayout.com/listings/humane-rescue-alliance-washington/
 https://shelterdayout.com/listings/humane-society-adoption-center-of-monroe-monroe/
 https://shelterdayout.com/listings/humane-society-and-shelter-southcoast-dartmouth/
@@ -3154,7 +3151,6 @@ https://shelterdayout.com/listings/wisconsin-humane-society-dalton-campus-milwau
 https://shelterdayout.com/listings/wise-county-animal-shelter-wise/
 https://shelterdayout.com/listings/wolf-point-pound-puppies-animal-rescue-wolf-point/
 https://shelterdayout.com/listings/wolfe-county-animal-shelter-campton/
-https://shelterdayout.com/listings/wolfsong-ranch-foundation-lordsburg/
 https://shelterdayout.com/listings/women-s-animal-center-bensalem/
 https://shelterdayout.com/listings/wonder-dog-rescue-san-francisco/
 https://shelterdayout.com/listings/wood-county-dog-shelter-bowling-green/

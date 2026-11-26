@@ -37,12 +37,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/caresclarksdalems",
+  "url": "",
   "notes": "1645 Desoto Ave, Clarksdale. Official Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/caresclarksdalems"
  },
  {
   "state": "MS",
@@ -114,12 +115,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/NewLCHS/",
+  "url": "",
   "notes": "Official Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/NewLCHS/"
  },
  {
   "state": "MS",
@@ -222,12 +224,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/p/Jackson-Friends-of-the-Animal-Shelter-100064731069051/",
+  "url": "",
   "notes": "Friends group for the City of Jackson municipal shelter; official Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/p/Jackson-Friends-of-the-Animal-Shelter-100064731069051/"
  },
  {
   "state": "MS",
@@ -237,12 +240,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/MARLshelter/",
+  "url": "",
   "notes": "Official Facebook page; site not verified this pass.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/MARLshelter/"
  },
  {
   "state": "MS",
@@ -297,12 +301,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/mccomb.shelter/",
+  "url": "",
   "notes": "125 E Michigan Ave, McComb. Official Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/mccomb.shelter/"
  },
  {
   "state": "MS",

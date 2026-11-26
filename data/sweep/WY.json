@@ -106,14 +106,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/waggintailsshelter",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "waggin_tails_shelter@hotmail.com",
   "phone": "+1 307 532 5373",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/606689652"
+  "osm": "way/606689652",
+  "url_social": "https://www.facebook.com/waggintailsshelter"
  },
  {
   "state": "WY",
@@ -236,12 +237,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/RSHumaneSociety/",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "rshumanesociety@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/RSHumaneSociety/"
  },
  {
   "state": "WY",
@@ -386,12 +388,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.facebook.com/PawsAndClawsAnimals",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pawsandclawsanimals@hotmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/PawsAndClawsAnimals"
  },
  {
   "state": "WY",
@@ -401,11 +404,12 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.adoptapet.com/shelter/275068",
+  "url": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "westoncopaws@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "url_social": "https://www.adoptapet.com/shelter/275068"
  }
 ]
