@@ -77,6 +77,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <footer class="site"><div class="wrap">
 <div class="logo">{logo_html()}</div>
 <p><a href="/how-to-adopt-a-dog/">How to adopt a dog</a><a href="/how-to-adopt-a-cat/">How to adopt a cat</a><a href="/adoption-checklist/">Adoption checklist</a><a href="/adoption-fees/">Adoption fees</a><a href="/fee-waived-adoption-events/">Fee-waived events</a><a href="/cities/">Browse by city</a></p>
+<p><a href="/puppy-adoption/">Puppy adoption</a><a href="/kitten-adoption/">Kitten adoption</a><a href="/rescue-dogs-near-me/">Rescue dogs</a><a href="/humane-society-near-me/">Humane societies</a><a href="/animal-control-near-me/">Animal control</a></p>
 <p><a href="/about/">About</a><a href="/events/">Adoption events</a><a href="{SDO}/suggest/" rel="noopener">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory of animal shelters. We don't place animals or handle adoptions; each shelter runs its own adoption process. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Not ready to adopt? <a href="{SDO}/" rel="noopener">ShelterDayOut</a>, our sister site, lists shelters that let you take a dog out for the day.</p>
@@ -240,6 +241,13 @@ def build_states(rows):
         evs = sorted(((e["date"], r, e) for r in lst for e in upcoming(r)), key=lambda x: x[0])
         ev_html = "".join(f'<li><b>{fmt_date(e["date"])}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}): {esc(e["title"])}</li>' for _, r, e in evs)
         progs = [r for r in lst if has_program(r)]
+        hs = [r for r in lst if re.search(r"humane|spca", r["org"], re.I)]
+        sfaq_html, sfaq_ld = faq_block([
+            (f"How many animal shelters are in {name}?", f"We list {len(lst):,} animal shelters, humane societies and SPCAs in {name}" + (f", in {len(cities)} cities and towns." if cities else ".") + " The list is checked every month."),
+            (f"Where can I adopt a dog or cat in {name}?", "At any shelter below. Each one links to its own adoptable animals page, which it updates daily." + (f" {len(hs)} of them are humane societies or SPCAs." if hs else "")),
+            (f"Are there adoption events in {name}?", (f"Yes: {len(evs)} upcoming adoption events are listed above, taken from the shelters' own websites." if evs else f"None are listed right now. Check back soon, or see adoption events nationwide on our events page."))]) if lst else ("", "")
+        ilist = json.dumps({"@context": "https://schema.org", "@type": "ItemList", "name": f"Animal shelters in {name}", "numberOfItems": len(lst),
+            "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE + f"/shelters/{r['slug']}/", "name": r["org"]} for i, r in enumerate(lst[:100])]})
         body = f"""<div class="crumbs"><a href="/">Home</a> / {name}</div>
 <h1>Animal shelters &amp; humane societies in {name}</h1>
 <p class="lede">{len(lst):,} animal shelter{"s" if len(lst) != 1 else ""}, humane societies and SPCAs in {name}{(" including " + ", ".join(esc(c) for c in cities[:5])) if cities else ""}. Each links to its own adoptable dogs and cats.</p>
@@ -247,10 +255,13 @@ def build_states(rows):
 <h2>Shelters</h2>
 {('<ul class="slist">' + "".join(shelter_li(r, False) for r in lst) + "</ul>") if lst else f'<p>We don\'t have shelters listed in {name} yet. <a href="{SDO}/suggest/">Suggest one</a>.</p>'}
 {f'<p class="animal" style="margin-top:14px">{len(progs)} of these shelters let you take a dog out for the day before adopting. <a href="{SDO}/states/{slugify(name)}/" rel="noopener">See dog day out programs in {name}</a>.</p>' if progs else ""}
+<h2>Questions about adopting in {name}</h2>
+{sfaq_html}
+<p class="citylinks"><a href="/puppy-adoption/#{s}">Puppy adoption in {name}</a> <a href="/kitten-adoption/#{s}">Kitten adoption in {name}</a> <a href="/humane-society-near-me/#{s}">Humane societies in {name}</a> <a href="/animal-control-near-me/#{s}">Animal control in {name}</a></p>
 <div class="note">Shelters update their adoptable animals daily on their own websites. Confirm hours and requirements with the shelter before you visit.</div>"""
         write(path, page(f"Animal Shelters & Humane Societies in {name}: Adopt a Dog, Puppy or Cat | {BRAND}",
             f"Adopt a dog, puppy, cat or kitten in {name}: {len(lst):,} animal shelters, humane societies and SPCAs{(' in ' + ', '.join(cities[:4]) + ' and more') if cities else ''}, plus upcoming adoption events.",
-            body, path, crumbs_ld([("Home", "/"), (name, path)])))
+            body, path, crumbs_ld([("Home", "/"), (name, path)]) + sfaq_ld + (f'<script type="application/ld+json">{ilist}</script>' if lst else "")))
 
 
 def build_shelters(rows):
@@ -392,6 +403,71 @@ def build_guides():
         write(path, page(f"{title} | {BRAND}", desc, body, path, crumbs_ld([("Home", "/"), (h1, path)])))
 
 
+KEYWORD_PAGES = {
+    "/puppy-adoption/": dict(
+        title="Puppy Adoption Near Me: Shelters With Puppies in Every State",
+        desc="Adopt a puppy from a shelter near you. {n:,} animal shelters, humane societies and SPCAs that adopt out puppies, in every state, plus puppy adoption events.",
+        h1="Puppy adoption near you", match=lambda r: "Dogs" in (r.get("animals") or "Dogs"),
+        intro="Shelters and humane societies take in puppies year-round, with the most in spring and summer. Puppies at shelters are usually vaccinated, microchipped and spayed or neutered before they go home, and the adoption fee covers it. Puppies go fast, so check each shelter's adoptable animals page often.",
+        faqs=[("Where can I adopt a puppy near me?", "From city and county animal shelters, humane societies and SPCAs. Pick your state below; every shelter links to its own adoptable dogs page, where puppies are listed."),
+              ("Is it cheaper to adopt a puppy from a shelter?", "Usually. Shelter fees for puppies are often higher than for adult dogs, but they include spay or neuter, vaccines and a microchip, which cost far more separately."),
+              ("How do I get a puppy before someone else does?", "Check the shelter's site daily, apply early (many shelters let you apply before you visit), and watch for adoption events.")]),
+    "/kitten-adoption/": dict(
+        title="Kitten Adoption Near Me: Shelters With Kittens in Every State",
+        desc="Adopt a kitten from a shelter near you. {n:,} animal shelters, humane societies and SPCAs that adopt out kittens and cats, in every state.",
+        h1="Kitten adoption near you", match=lambda r: "Cats" in (r.get("animals") or "Cats"),
+        intro="Kitten season runs from spring through fall, when shelters are full of kittens needing homes. Many shelters offer two-kitten discounts, since kittens adopted in pairs keep each other company and learn good manners from each other.",
+        faqs=[("Where can I adopt a kitten near me?", "From animal shelters, humane societies, SPCAs and cat rescues with adoption centers. Choose your state below and open the shelter's adoptable cats page."),
+              ("How old does a kitten have to be to be adopted?", "Shelters usually adopt out kittens at about 8 weeks old and 2 pounds, once they're old enough to be spayed or neutered."),
+              ("Should I adopt two kittens?", "Many shelters encourage it and some discount the second kitten. Two kittens play with each other and are often easier than one.")]),
+    "/humane-society-near-me/": dict(
+        title="Humane Society Near Me: Humane Societies & SPCAs in Every State",
+        desc="Find a humane society or SPCA near you. {n:,} humane societies and SPCAs listed by state, with links to their adoptable pets and adoption events.",
+        h1="Humane societies and SPCAs near you", match=lambda r: bool(re.search(r"humane|spca|s\.p\.c\.a", r["org"], re.I)),
+        intro="Humane societies and SPCAs are usually independent local nonprofits, despite the shared names: the Humane Society of the United States and the ASPCA don't run local shelters. Most local humane societies run an adoption center, low-cost vet care and volunteer programs.",
+        faqs=[("Is the humane society the same as the SPCA?", "No. Both names are used by many separate local nonprofits. Each one is run on its own, with its own fees and rules."),
+              ("Is the humane society the same as animal control?", "Usually not. Animal control is a city or county service that takes in strays; humane societies are nonprofits, though some run the local shelter under contract."),
+              ("How do I adopt from the humane society?", "Look at the adoptable animals on its website, then visit or apply. Bring a photo ID; the fee usually covers spay or neuter, vaccines and a microchip.")]),
+    "/animal-control-near-me/": dict(
+        title="Animal Control & County Animal Shelters Near Me (Adopt a Pet)",
+        desc="Find animal control and county or city animal shelters near you. {n:,} government animal services listed by state, most of which adopt out dogs and cats.",
+        h1="Animal control and county animal shelters near you", match=lambda r: bool(re.search(r"animal control|animal services|animal care|county|city of|municipal|parish|police", r["org"], re.I)),
+        intro="Animal control is run by a city, county or parish. It takes in stray and surrendered animals, and most animal control shelters also adopt pets out, often for lower fees than private shelters. For emergencies involving a dangerous animal, call 911 or your local non-emergency police number.",
+        faqs=[("Can you adopt from animal control?", "Yes, most city and county animal services shelters adopt out dogs and cats. Each one below links to its own site."),
+              ("What does animal control do?", "Animal control picks up strays, investigates bites and cruelty reports, enforces local pet laws and runs the public shelter in many areas."),
+              ("My pet is lost. Where should I look?", "Check your county or city animal shelter first, in person if you can, plus nearby humane societies. Shelters keep strays only a few days before they can be adopted out.")]),
+    "/rescue-dogs-near-me/": dict(
+        title="Rescue Dogs Near Me: Adopt a Rescue Dog From a Shelter",
+        desc="Adopt a rescue dog near you. {n:,} shelters, humane societies and rescues with adoption centers in every state, plus dog adoption events.",
+        h1="Rescue dogs near you", match=lambda r: "Dogs" in (r.get("animals") or "Dogs"),
+        intro="Every shelter dog is a rescue dog. City and county shelters, humane societies and rescue groups with adoption centers all have dogs of every age and size, and many know each dog's personality well from staff and volunteer notes.",
+        faqs=[("Where can I find rescue dogs near me?", "Choose your state below. Each shelter links to its own adoptable dogs page, updated daily."),
+              ("Can I take a rescue dog out before adopting?", "Often, yes. Many shelters let you take a dog out for a day or a sleepover. Our sister site ShelterDayOut lists those programs."),
+              ("What should I bring to adopt a rescue dog?", "A photo ID, a leash and collar, and, if you rent, your landlord's approval. See our adoption checklist.")]),
+}
+
+
+def build_keyword_pages(rows):
+    for path, k in KEYWORD_PAGES.items():
+        lst = [r for r in rows if k["match"](r)]
+        by = {}
+        for r in lst:
+            by.setdefault(r["state"], []).append(r)
+        states_html = "".join(
+            f'<h2 id="{s}">{STATES[s]} <span class="animal">({len(by[s])})</span></h2><ul class="slist">' + "".join(shelter_li(r, False) for r in sorted(by[s], key=lambda r: (r["city"], r["org"]))) + "</ul>"
+            for s in sorted(by, key=lambda k_: STATES[k_]))
+        jump = " ".join(f'<a href="#{s}">{STATES[s]}</a>' for s in sorted(by, key=lambda k_: STATES[k_]))
+        faq_html, faq_ld = faq_block(k["faqs"])
+        body = f"""<div class="crumbs"><a href="/">Home</a> / {esc(k['h1'])}</div>
+<h1>{esc(k['h1'])}</h1>
+<div class="prose"><p class="lede">{esc(k['intro'])}</p></div>
+<p class="animal">{len(lst):,} shelters in {len(by)} states and DC. Jump to a state: </p><p class="citylinks">{jump}</p>
+<h2>Questions people ask</h2>
+{faq_html}
+{states_html}"""
+        write(path, page(f"{k['title']} | {BRAND}", k["desc"].format(n=len(lst)), body, path, faq_ld + crumbs_ld([("Home", "/"), (k["h1"], path)])))
+
+
 def build_static(rows):
     write("/about/", page(f"About | {BRAND}", f"{BRAND} is a free nationwide directory of animal shelters, run by the nonprofit Charity Good.",
         f"""<h1>About {BRAND}</h1><div class="prose">
@@ -442,6 +518,7 @@ def main(rows=None):
     build_events(rows)
     build_cities(rows)
     build_guides()
+    build_keyword_pages(rows)
     build_static(rows)
     build_sitemap()
     n = sum(1 for _ in DIST.rglob("*.html"))
