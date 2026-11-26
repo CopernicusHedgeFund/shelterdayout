@@ -486,6 +486,7 @@ https://shelteradoption.com/shelters/animal-humane-new-mexico-westside-adoption-
 https://shelteradoption.com/shelters/animal-humane-society-coon-rapids-coon-rapids/
 https://shelteradoption.com/shelters/animal-humane-society-golden-valley-golden-valley/
 https://shelteradoption.com/shelters/animal-humane-society-woodbury-woodbury/
+https://shelteradoption.com/shelters/animal-orphanage-old-town/
 https://shelteradoption.com/shelters/animal-protection-center-of-southeastern-massachusetts-brockton/
 https://shelteradoption.com/shelters/animal-protection-league-of-mercer-county-celina/
 https://shelteradoption.com/shelters/animal-protection-society-friday-harbor/
@@ -1525,6 +1526,7 @@ https://shelteradoption.com/shelters/hart-county-animal-shelter-munfordville/
 https://shelteradoption.com/shelters/hart-county-humane-society-hartwell/
 https://shelteradoption.com/shelters/hartford-animal-control-hartford-animal-shelter-hartford/
 https://shelteradoption.com/shelters/hartsville-trousdale-county-animal-shelter-hartsville/
+https://shelteradoption.com/shelters/harvest-hills-animal-shelter-fryeburg/
 https://shelteradoption.com/shelters/hava-shelter-harbor-association-of-volunteers-for-animals-raymond/
 https://shelteradoption.com/shelters/haven-humane-society-anderson/
 https://shelteradoption.com/shelters/haven-to-home-rescue-sunbury/
@@ -2532,6 +2534,7 @@ https://shelteradoption.com/shelters/paws-and-claws-humane-society-rochester/
 https://shelteradoption.com/shelters/paws-and-whiskers-cat-shelter-toledo/
 https://shelteradoption.com/shelters/paws-animal-rescue-pierre/
 https://shelteradoption.com/shelters/paws-animal-shelter-teton-valley-driggs/
+https://shelteradoption.com/shelters/paws-brave-hearts-calais/
 https://shelteradoption.com/shelters/paws-chicago-pippen-fasseas-adoption-center-chicago/
 https://shelteradoption.com/shelters/paws-claws-rescue-and-resort-hackensack/
 https://shelteradoption.com/shelters/paws-companion-animal-shelter-lynnwood/
@@ -2544,7 +2547,6 @@ https://shelteradoption.com/shelters/paws-of-bremerton-bremerton/
 https://shelteradoption.com/shelters/paws-of-dearborn-county-humane-center-lawrenceburg/
 https://shelteradoption.com/shelters/paws-of-hertford-county-ahoskie/
 https://shelteradoption.com/shelters/paws-of-love-monticello/
-https://shelteradoption.com/shelters/paws-of-milo-milo/
 https://shelteradoption.com/shelters/paws-of-nome-nome/
 https://shelteradoption.com/shelters/paws-pet-animal-welfare-society-norwalk/
 https://shelteradoption.com/shelters/paws-philadelphia-animal-welfare-society-philadelphia/
@@ -2572,6 +2574,8 @@ https://shelteradoption.com/shelters/pennsville-township-animal-shelter-pennsvil
 https://shelteradoption.com/shelters/pennsylvania-spca-central-pa-center-danville/
 https://shelteradoption.com/shelters/pennsylvania-spca-lancaster-center-lancaster/
 https://shelteradoption.com/shelters/pennsylvania-spca-philadelphia/
+https://shelteradoption.com/shelters/penobscot-valley-humane-society-lincoln/
+https://shelteradoption.com/shelters/penquis-animal-welfare-sanctuary-paws-milo/
 https://shelteradoption.com/shelters/pensacola-humane-society-pensacola/
 https://shelteradoption.com/shelters/peoria-county-animal-protection-services-peoria/
 https://shelteradoption.com/shelters/pequannock-animal-shelter-pompton-plains/
@@ -3135,6 +3139,7 @@ https://shelteradoption.com/shelters/the-animal-league-groveland/
 https://shelteradoption.com/shelters/the-animal-league-of-green-valley-green-valley/
 https://shelteradoption.com/shelters/the-animal-shelter-society-inc-zanesville/
 https://shelteradoption.com/shelters/the-anti-cruelty-society-chicago/
+https://shelteradoption.com/shelters/the-ark-pope-memorial-animal-shelter-cherryfield/
 https://shelteradoption.com/shelters/the-babinski-foundation-pequot-lakes/
 https://shelteradoption.com/shelters/the-buddy-foundation-arlington-heights/
 https://shelteradoption.com/shelters/the-cat-caf-san-diego-san-diego/

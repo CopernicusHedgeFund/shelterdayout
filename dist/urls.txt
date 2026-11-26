@@ -343,6 +343,7 @@ https://shelterdayout.com/cities/west-olive-mi/
 https://shelterdayout.com/cities/west-palm-beach-fl/
 https://shelterdayout.com/cities/west-seneca-ny/
 https://shelterdayout.com/cities/west-valley-city-ut/
+https://shelterdayout.com/cities/westbrook-me/
 https://shelterdayout.com/cities/westland-mi/
 https://shelterdayout.com/cities/westminster-md/
 https://shelterdayout.com/cities/wheaton-il/
@@ -527,6 +528,7 @@ https://shelterdayout.com/listings/animal-humane-new-mexico-westside-adoption-ce
 https://shelterdayout.com/listings/animal-humane-society-coon-rapids-coon-rapids/
 https://shelterdayout.com/listings/animal-humane-society-golden-valley-golden-valley/
 https://shelterdayout.com/listings/animal-humane-society-woodbury-woodbury/
+https://shelterdayout.com/listings/animal-orphanage-old-town/
 https://shelterdayout.com/listings/animal-protection-center-of-southeastern-massachusetts-brockton/
 https://shelterdayout.com/listings/animal-protection-league-of-mercer-county-celina/
 https://shelterdayout.com/listings/animal-protection-society-friday-harbor/
@@ -1566,6 +1568,7 @@ https://shelterdayout.com/listings/hart-county-animal-shelter-munfordville/
 https://shelterdayout.com/listings/hart-county-humane-society-hartwell/
 https://shelterdayout.com/listings/hartford-animal-control-hartford-animal-shelter-hartford/
 https://shelterdayout.com/listings/hartsville-trousdale-county-animal-shelter-hartsville/
+https://shelterdayout.com/listings/harvest-hills-animal-shelter-fryeburg/
 https://shelterdayout.com/listings/hava-shelter-harbor-association-of-volunteers-for-animals-raymond/
 https://shelterdayout.com/listings/haven-humane-society-anderson/
 https://shelterdayout.com/listings/haven-to-home-rescue-sunbury/
@@ -2573,6 +2576,7 @@ https://shelterdayout.com/listings/paws-and-claws-humane-society-rochester/
 https://shelterdayout.com/listings/paws-and-whiskers-cat-shelter-toledo/
 https://shelterdayout.com/listings/paws-animal-rescue-pierre/
 https://shelterdayout.com/listings/paws-animal-shelter-teton-valley-driggs/
+https://shelterdayout.com/listings/paws-brave-hearts-calais/
 https://shelterdayout.com/listings/paws-chicago-pippen-fasseas-adoption-center-chicago/
 https://shelterdayout.com/listings/paws-claws-rescue-and-resort-hackensack/
 https://shelterdayout.com/listings/paws-companion-animal-shelter-lynnwood/
@@ -2585,7 +2589,6 @@ https://shelterdayout.com/listings/paws-of-bremerton-bremerton/
 https://shelterdayout.com/listings/paws-of-dearborn-county-humane-center-lawrenceburg/
 https://shelterdayout.com/listings/paws-of-hertford-county-ahoskie/
 https://shelterdayout.com/listings/paws-of-love-monticello/
-https://shelterdayout.com/listings/paws-of-milo-milo/
 https://shelterdayout.com/listings/paws-of-nome-nome/
 https://shelterdayout.com/listings/paws-pet-animal-welfare-society-norwalk/
 https://shelterdayout.com/listings/paws-philadelphia-animal-welfare-society-philadelphia/
@@ -2613,6 +2616,8 @@ https://shelterdayout.com/listings/pennsville-township-animal-shelter-pennsville
 https://shelterdayout.com/listings/pennsylvania-spca-central-pa-center-danville/
 https://shelterdayout.com/listings/pennsylvania-spca-lancaster-center-lancaster/
 https://shelterdayout.com/listings/pennsylvania-spca-philadelphia/
+https://shelterdayout.com/listings/penobscot-valley-humane-society-lincoln/
+https://shelterdayout.com/listings/penquis-animal-welfare-sanctuary-paws-milo/
 https://shelterdayout.com/listings/pensacola-humane-society-pensacola/
 https://shelterdayout.com/listings/peoria-county-animal-protection-services-peoria/
 https://shelterdayout.com/listings/pequannock-animal-shelter-pompton-plains/
@@ -3176,6 +3181,7 @@ https://shelterdayout.com/listings/the-animal-league-groveland/
 https://shelterdayout.com/listings/the-animal-league-of-green-valley-green-valley/
 https://shelterdayout.com/listings/the-animal-shelter-society-inc-zanesville/
 https://shelterdayout.com/listings/the-anti-cruelty-society-chicago/
+https://shelterdayout.com/listings/the-ark-pope-memorial-animal-shelter-cherryfield/
 https://shelterdayout.com/listings/the-babinski-foundation-pequot-lakes/
 https://shelterdayout.com/listings/the-buddy-foundation-arlington-heights/
 https://shelterdayout.com/listings/the-cat-caf-san-diego-san-diego/
