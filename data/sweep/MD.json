@@ -215,17 +215,17 @@
  {
   "state": "MD",
   "city": "Hughesville",
-  "org": "Tri-County Animal Shelter",
+  "org": "Charles County Animal Care Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://www.charlescountymd.gov/services/animal-care-control",
+  "notes": "County-run shelter (formerly Tri-County Animal Shelter), 6707 Animal Shelter Rd, Hughesville; adoption hours Mon-Fri 11 am-4 pm, Sat 10 am-3 pm. No day-out program on county page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "county government page"
  },
  {
   "state": "MD",
@@ -245,17 +245,17 @@
  {
   "state": "MD",
   "city": "Frederick",
-  "org": "Frederick County Animal Control Division",
+  "org": "Frederick County Animal Control Pet and Adoption Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://frederickcountymd.gov/114/Adopt",
+  "notes": "1832 Rosemont Ave, Frederick; renovated center opened Aug 2026 (renovations continuing into 2027). Volunteers walk dogs on site; no off-site outing program found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "county government page"
  },
  {
   "state": "MD",
@@ -350,17 +350,17 @@
  {
   "state": "MD",
   "city": "Upper Marlboro",
-  "org": "Prince George's County Animal Management Facility",
+  "org": "Prince George's County Animal Services Facility & Adoption Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://www.princegeorgescountymd.gov/animal-services",
+  "notes": "3750 Brown Station Rd, Upper Marlboro. Offers general short-term fostering (apply online, fosterPGCpets@co.pg.md.us) but no day-trip/sleepover program described.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "county government page"
  },
  {
   "state": "MD",
@@ -400,12 +400,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://baltimorecountymd.gov/animalservices",
+  "notes": "13800 Manor Rd, Baldwin; adoptions daily noon-5 pm. Volunteer page lists short-term fostering but no off-site outing program.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "email_main": "animalservices@baltimorecountymd.gov",
+  "source_list": "county government page"
  },
  {
   "state": "MD",
@@ -479,12 +479,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list. Existing url pointed to City of Gaithersburg animal control page (wrong org) and was cleared; official MCASAC site (Montgomery County government) still needs to be added.",
+  "url": "https://montgomerycountymd.gov/animalservices/about/location.html",
+  "notes": "7315 Muncaster Mill Rd, Derwood. No day-out program found on county pages.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "email_main": "AdoptMCASAC@montgomerycountymd.gov",
+  "source_list": "county government page"
  },
  {
   "state": "MD",
@@ -500,5 +500,35 @@
   "email_program": "",
   "email_main": "",
   "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+ },
+ {
+  "state": "MD",
+  "city": "Prince Frederick",
+  "org": "Linda L. Kelley Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://calvertcountymd.gov/3170/Animal-Shelter",
+  "notes": "Calvert County government shelter, 5055 Hallowing Point Rd, Prince Frederick; 410-535-7387. No day-out program on county page.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "county government page"
+ },
+ {
+  "state": "MD",
+  "city": "California",
+  "org": "St. Mary's County Animal Adoption & Resource Center",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.stmaryscountymd.gov/AnimalShelter/",
+  "notes": "St. Mary's County government shelter, 22975 FDR Blvd, California (Lexington Park area); 301-475-8018. No day-out program on county page; no events scheduled.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "county government page"
  }
 ]

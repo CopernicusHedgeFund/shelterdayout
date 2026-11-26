@@ -273,6 +273,7 @@ https://shelteradoption.com/cities/pontiac-mi/
 https://shelteradoption.com/cities/port-huron-mi/
 https://shelteradoption.com/cities/port-washington-ny/
 https://shelteradoption.com/cities/portland-or/
+https://shelteradoption.com/cities/prince-frederick-md/
 https://shelteradoption.com/cities/princeton-wv/
 https://shelteradoption.com/cities/providence-ri/
 https://shelteradoption.com/cities/pueblo-co/
@@ -885,6 +886,7 @@ https://shelteradoption.com/shelters/champaign-county-animal-control-urbana/
 https://shelteradoption.com/shelters/champaign-county-humane-society-champaign/
 https://shelteradoption.com/shelters/chanute-animal-shelter-chanute/
 https://shelteradoption.com/shelters/charles-city-county-animal-shelter-charles-city/
+https://shelteradoption.com/shelters/charles-county-animal-care-center-hughesville/
 https://shelteradoption.com/shelters/charles-smithgall-humane-society-and-adoption-center-sautee-nacoochee/
 https://shelteradoption.com/shelters/charleston-animal-society-north-charleston/
 https://shelteradoption.com/shelters/charlestown-animal-shelter-charlestown/
@@ -1341,7 +1343,7 @@ https://shelteradoption.com/shelters/franklin-county-humane-society-union/
 https://shelteradoption.com/shelters/franklin-county-indiana-animal-shelter-metamora/
 https://shelteradoption.com/shelters/franklin-county-sheriff-s-office-regional-dog-shelter-turners-falls/
 https://shelteradoption.com/shelters/franklin-township-animal-shelter-somerset/
-https://shelteradoption.com/shelters/frederick-county-animal-control-division-frederick/
+https://shelteradoption.com/shelters/frederick-county-animal-control-pet-and-adoption-center-frederick/
 https://shelteradoption.com/shelters/frederick-county-esther-boyd-animal-shelter-winchester/
 https://shelteradoption.com/shelters/fredericksburg-animal-control-and-shelter-fredericksburg/
 https://shelteradoption.com/shelters/fredericksburg-spca-fredericksburg/
@@ -2059,6 +2061,7 @@ https://shelteradoption.com/shelters/lincoln-county-animal-shelter-libby/
 https://shelteradoption.com/shelters/lincoln-county-animal-shelter-shoshone/
 https://shelteradoption.com/shelters/lincoln-county-animal-shelter-stanford/
 https://shelteradoption.com/shelters/lincoln-county-animal-shelter-waldport/
+https://shelteradoption.com/shelters/linda-l-kelley-animal-shelter-prince-frederick/
 https://shelteradoption.com/shelters/linda-mcnatt-animal-care-and-adoption-center-denton/
 https://shelteradoption.com/shelters/linn-county-animal-control-linn-county-sheriff-s-office-albany/
 https://shelteradoption.com/shelters/little-rascals-cat-sanctuary-manistee/
@@ -2680,7 +2683,7 @@ https://shelteradoption.com/shelters/priceless-pet-rescue-costa-mesa-costa-mesa/
 https://shelteradoption.com/shelters/priest-river-animal-rescue-priest-river/
 https://shelteradoption.com/shelters/prince-edward-county-animal-control-farmville/
 https://shelteradoption.com/shelters/prince-george-county-animal-services-and-adoption-center-disputanta/
-https://shelteradoption.com/shelters/prince-george-s-county-animal-management-facility-upper-marlboro/
+https://shelteradoption.com/shelters/prince-george-s-county-animal-services-facility-and-adoption-center-upper-marlboro/
 https://shelteradoption.com/shelters/prince-william-county-animal-shelter-independent-hill/
 https://shelteradoption.com/shelters/promoting-animal-welfare-society-paws-muskogee/
 https://shelteradoption.com/shelters/providence-animal-center-media/
@@ -3048,6 +3051,7 @@ https://shelteradoption.com/shelters/st-lawrence-valley-spca-ogdensburg/
 https://shelteradoption.com/shelters/st-lucie-county-animal-safety-services-and-protection-fort-pierce/
 https://shelteradoption.com/shelters/st-martin-parish-animal-services-shelter-st-martinville/
 https://shelteradoption.com/shelters/st-mary-parish-animal-shelter-franklin/
+https://shelteradoption.com/shelters/st-mary-s-county-animal-adoption-and-resource-center-california/
 https://shelteradoption.com/shelters/st-sophia-s-forgotten-felines-wheaton/
 https://shelteradoption.com/shelters/st-tammany-parish-department-of-animal-services-lacombe/
 https://shelteradoption.com/shelters/stafford-animal-shelter-livingston/
@@ -3222,7 +3226,6 @@ https://shelteradoption.com/shelters/tri-county-animal-rescue-boca-raton/
 https://shelteradoption.com/shelters/tri-county-animal-rescue-center-shippenville/
 https://shelteradoption.com/shelters/tri-county-animal-shelter-albany/
 https://shelteradoption.com/shelters/tri-county-animal-shelter-clearfield/
-https://shelteradoption.com/shelters/tri-county-animal-shelter-hughesville/
 https://shelteradoption.com/shelters/tri-county-animal-shelter-tyner/
 https://shelteradoption.com/shelters/tri-county-humane-society-saint-cloud/
 https://shelteradoption.com/shelters/tri-lakes-humane-society-reeds-spring/

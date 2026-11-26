@@ -927,6 +927,7 @@ https://shelterdayout.com/listings/champaign-county-animal-control-urbana/
 https://shelterdayout.com/listings/champaign-county-humane-society-champaign/
 https://shelterdayout.com/listings/chanute-animal-shelter-chanute/
 https://shelterdayout.com/listings/charles-city-county-animal-shelter-charles-city/
+https://shelterdayout.com/listings/charles-county-animal-care-center-hughesville/
 https://shelterdayout.com/listings/charles-smithgall-humane-society-and-adoption-center-sautee-nacoochee/
 https://shelterdayout.com/listings/charleston-animal-society-north-charleston/
 https://shelterdayout.com/listings/charlestown-animal-shelter-charlestown/
@@ -1383,7 +1384,7 @@ https://shelterdayout.com/listings/franklin-county-humane-society-union/
 https://shelterdayout.com/listings/franklin-county-indiana-animal-shelter-metamora/
 https://shelterdayout.com/listings/franklin-county-sheriff-s-office-regional-dog-shelter-turners-falls/
 https://shelterdayout.com/listings/franklin-township-animal-shelter-somerset/
-https://shelterdayout.com/listings/frederick-county-animal-control-division-frederick/
+https://shelterdayout.com/listings/frederick-county-animal-control-pet-and-adoption-center-frederick/
 https://shelterdayout.com/listings/frederick-county-esther-boyd-animal-shelter-winchester/
 https://shelterdayout.com/listings/fredericksburg-animal-control-and-shelter-fredericksburg/
 https://shelterdayout.com/listings/fredericksburg-spca-fredericksburg/
@@ -2101,6 +2102,7 @@ https://shelterdayout.com/listings/lincoln-county-animal-shelter-libby/
 https://shelterdayout.com/listings/lincoln-county-animal-shelter-shoshone/
 https://shelterdayout.com/listings/lincoln-county-animal-shelter-stanford/
 https://shelterdayout.com/listings/lincoln-county-animal-shelter-waldport/
+https://shelterdayout.com/listings/linda-l-kelley-animal-shelter-prince-frederick/
 https://shelterdayout.com/listings/linda-mcnatt-animal-care-and-adoption-center-denton/
 https://shelterdayout.com/listings/linn-county-animal-control-linn-county-sheriff-s-office-albany/
 https://shelterdayout.com/listings/little-rascals-cat-sanctuary-manistee/
@@ -2722,7 +2724,7 @@ https://shelterdayout.com/listings/priceless-pet-rescue-costa-mesa-costa-mesa/
 https://shelterdayout.com/listings/priest-river-animal-rescue-priest-river/
 https://shelterdayout.com/listings/prince-edward-county-animal-control-farmville/
 https://shelterdayout.com/listings/prince-george-county-animal-services-and-adoption-center-disputanta/
-https://shelterdayout.com/listings/prince-george-s-county-animal-management-facility-upper-marlboro/
+https://shelterdayout.com/listings/prince-george-s-county-animal-services-facility-and-adoption-center-upper-marlboro/
 https://shelterdayout.com/listings/prince-william-county-animal-shelter-independent-hill/
 https://shelterdayout.com/listings/promoting-animal-welfare-society-paws-muskogee/
 https://shelterdayout.com/listings/providence-animal-center-media/
@@ -3090,6 +3092,7 @@ https://shelterdayout.com/listings/st-lawrence-valley-spca-ogdensburg/
 https://shelterdayout.com/listings/st-lucie-county-animal-safety-services-and-protection-fort-pierce/
 https://shelterdayout.com/listings/st-martin-parish-animal-services-shelter-st-martinville/
 https://shelterdayout.com/listings/st-mary-parish-animal-shelter-franklin/
+https://shelterdayout.com/listings/st-mary-s-county-animal-adoption-and-resource-center-california/
 https://shelterdayout.com/listings/st-sophia-s-forgotten-felines-wheaton/
 https://shelterdayout.com/listings/st-tammany-parish-department-of-animal-services-lacombe/
 https://shelterdayout.com/listings/stafford-animal-shelter-livingston/
@@ -3264,7 +3267,6 @@ https://shelterdayout.com/listings/tri-county-animal-rescue-boca-raton/
 https://shelterdayout.com/listings/tri-county-animal-rescue-center-shippenville/
 https://shelterdayout.com/listings/tri-county-animal-shelter-albany/
 https://shelterdayout.com/listings/tri-county-animal-shelter-clearfield/
-https://shelterdayout.com/listings/tri-county-animal-shelter-hughesville/
 https://shelterdayout.com/listings/tri-county-animal-shelter-tyner/
 https://shelterdayout.com/listings/tri-county-humane-society-saint-cloud/
 https://shelterdayout.com/listings/tri-lakes-humane-society-reeds-spring/
