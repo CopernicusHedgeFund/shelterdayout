@@ -1,0 +1,26 @@
+name: Link check
+
+# Checks every outside link on shelterdayout.com and shelteradoption.com (and the vet data) from GitHub's network.
+# Results: data/linkcheck.json on the linkcheck-data branch.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "29 9 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        run: python3 tools/linkcheck.py
+      - name: Save results
+        run: |
+          mkdir -p out/data && cp data/linkcheck.json out/data/
+          cd out && git init -q -b linkcheck-data && git config user.name shelterdayout-bot && git config user.email hello@shelterdayout.com
+          git add data/linkcheck.json && git commit -qm "Link check $(date -u +%FT%H:%MZ)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" linkcheck-data
