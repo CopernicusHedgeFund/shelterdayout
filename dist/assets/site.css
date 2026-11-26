@@ -1,3 +1,5 @@
+#nores[hidden]{display:none!important}
+#nores ul{margin:.4em 0 .2em;padding-left:1.2em}
 :root{--ink:#2b2d42;--muted:#5c6178;--line:#eadfce;--bg:#fffaf2;--accent:#ff7a59;--accent-d:#e55d3c;--teal:#2a9d8f;--sun:#ffd166;--mint:#e6f6f0;--card:#fff}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}

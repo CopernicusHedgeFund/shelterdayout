@@ -93,6 +93,8 @@ def load():
 
 
 CSS = """
+#nores[hidden]{display:none!important}
+#nores ul{margin:.4em 0 .2em;padding-left:1.2em}
 :root{--ink:#2b2d42;--muted:#5c6178;--line:#eadfce;--bg:#fffaf2;--accent:#ff7a59;--accent-d:#e55d3c;--teal:#2a9d8f;--sun:#ffd166;--mint:#e6f6f0;--card:#fff}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -330,10 +332,33 @@ FILTER_JS = """<script>
    r.classList.toggle('hide',!ok); if(ok)n++;
   });
   cnt.textContent=n+(n===1?' program':' programs');
+  nores(n,t,s,a,y,p);
  }
+ // No matching program: show shelters without a program yet that match, the programs in the chosen state, and the state page.
+ var box=document.getElementById('nores'),others=null,SN=window.SDO_STATES||{};
+ function esc(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+ function nores(n,t,s,a,y,p){
+  if(!box)return;
+  if(n>0||(!t&&!s)){box.hidden=true;box.innerHTML='';return;}
+  var inState=s?rows.filter(function(r){return r.dataset.state===s;}).length:0;
+  var html='<p><b>No day-out programs match'+(t?' &ldquo;'+esc(t)+'&rdquo;':'')+(s?' in '+esc(SN[s]||s):'')+' yet.</b></p>';
+  var tips=[];
+  if(t&&s&&inState)tips.push('<a href="#" data-act="state">See all '+inState+' program'+(inState===1?'':'s')+' in '+esc(SN[s]||s)+'</a>');
+  if(a||y||p)tips.push('<a href="#" data-act="clear">Clear the animal, type and public filters</a>');
+  if(s)tips.push('<a href="/states/'+esc((SN[s]||'').toLowerCase().replace(/[^a-z0-9]+/g,'-'))+'/">Every shelter in '+esc(SN[s]||s)+'</a>');
+  if(tips.length)html+='<ul><li>'+tips.join('</li><li>')+'</li></ul>';
+  box.innerHTML=html+'<div id="nores-o"></div>';box.hidden=false;
+  if(!t)return;
+  var show=function(){var m=others.filter(function(o){return (!s||o[3]===s)&&(o[1]+' '+o[2]+' '+o[3]+' '+(SN[o[3]]||'')).toLowerCase().indexOf(t)>=0;}).slice(0,25);
+   var el=document.getElementById('nores-o');if(!el||!m.length)return;
+   el.innerHTML='<p>Shelters'+(s?' in '+esc(SN[s]||s):'')+' matching &ldquo;'+esc(t)+'&rdquo; that don&rsquo;t run a program yet. Ask them for one:</p><ul>'+m.map(function(o){return '<li><a href="/listings/'+o[0]+'/">'+esc(o[1])+'</a> ('+esc(o[2])+', '+o[3]+') &middot; <a href="/request/?listing='+o[0]+'">Request a day out</a></li>';}).join('')+'</ul>';};
+  if(others){show();}else{fetch('/assets/others.json').then(function(r){return r.json();}).then(function(j){others=j;show();}).catch(function(){});}
+ }
+ if(box)box.addEventListener('click',function(e){var x=e.target.closest('a[data-act]');if(!x)return;e.preventDefault();
+  if(x.dataset.act==='state'&&q)q.value='';if(x.dataset.act==='clear'){an.value='';ty.value='';pub.checked=false;}run();});
  [q,st,an,ty,pub].forEach(function(el){if(el){el.addEventListener('input',run);el.addEventListener('change',run);}});
  var f=document.getElementById('sform'),res=document.getElementById('results');
- if(f){f.addEventListener('submit',function(e){e.preventDefault();run();if(q)q.blur();if(res){res.scrollIntoView({behavior:'smooth',block:'start'});}});}
+ if(f){f.addEventListener('submit',function(e){e.preventDefault();run();if(q)q.blur();var tgt=(box&&!box.hidden)?box:res;if(tgt){tgt.scrollIntoView({behavior:'smooth',block:'start'});}});}
  var u=new URLSearchParams(location.search);
  if(u.get('q')&&q){q.value=u.get('q');}
  if(u.get('state')&&st){st.value=u.get('state').toUpperCase();}
@@ -361,7 +386,9 @@ def filters(with_state=True, states_present=()):
 <div class="row2"><label class="chk"><input type="checkbox" id="f-public" name="public" value="1"> Open to the public only</label>
 <button type="submit" class="btn sbtn">Search</button></div>
 </form>
-<p class="count" id="count" aria-live="polite"></p>"""
+<p class="count" id="count" aria-live="polite"></p>
+<div class="note" id="nores" hidden></div>
+<script>window.SDO_STATES={json.dumps(STATES)};</script>"""
 
 
 def crumbs_ld(items):
@@ -429,7 +456,7 @@ def build_home(rows, all_rows=None):
 <div><b>Monthly</b><span>updated {date.today().strftime("%B %Y")}</span></div>
 </div>
 <section id="find">
-{filters(True, by_state.keys())}
+{filters(True, STATES.keys())}
 {table(rows)}
 </section>
 <h2>Browse by state</h2>
@@ -977,6 +1004,7 @@ def build_assets(rows, optins):
         lookup[r["slug"]] = {"org": r["org"], "city": r["city"], "state": r["state"], "email_main": em, "email_program": r.get("email_program", ""), "noprog": r["status"] == NOPROG, "url": r.get("url", ""), "source": r.get("source", "")}
     (DIST / "forms" / "listings.json").write_text(json.dumps(lookup))
     (DIST / "forms" / "optins.json").write_text(json.dumps(optins))
+    (DIST / "assets" / "others.json").write_text(json.dumps([[r["slug"], r["org"], r["city"], r["state"]] for r in rows if r["status"] == NOPROG], separators=(",", ":")))
     (DIST / ".htaccess").write_text(
         "ErrorDocument 404 /404.html\nOptions -Indexes\n"
         "<IfModule mod_rewrite.c>\nRewriteEngine On\nRewriteCond %{HTTPS} off\nRewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]\n"

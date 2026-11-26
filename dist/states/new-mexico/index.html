@@ -39,6 +39,8 @@
 <button type="submit" class="btn sbtn">Search</button></div>
 </form>
 <p class="count" id="count" aria-live="polite"></p>
+<div class="note" id="nores" hidden></div>
+<script>window.SDO_STATES={"AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California", "CO": "Colorado", "CT": "Connecticut", "DE": "Delaware", "DC": "District of Columbia", "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho", "IL": "Illinois", "IN": "Indiana", "IA": "Iowa", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana", "ME": "Maine", "MD": "Maryland", "MA": "Massachusetts", "MI": "Michigan", "MN": "Minnesota", "MS": "Mississippi", "MO": "Missouri", "MT": "Montana", "NE": "Nebraska", "NV": "Nevada", "NH": "New Hampshire", "NJ": "New Jersey", "NM": "New Mexico", "NY": "New York", "NC": "North Carolina", "ND": "North Dakota", "OH": "Ohio", "OK": "Oklahoma", "OR": "Oregon", "PA": "Pennsylvania", "RI": "Rhode Island", "SC": "South Carolina", "SD": "South Dakota", "TN": "Tennessee", "TX": "Texas", "UT": "Utah", "VT": "Vermont", "VA": "Virginia", "WA": "Washington", "WV": "West Virginia", "WI": "Wisconsin", "WY": "Wyoming"};</script>
 <table class="list" id="results">
 <thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
 <tbody>
@@ -69,10 +71,33 @@
    r.classList.toggle('hide',!ok); if(ok)n++;
   });
   cnt.textContent=n+(n===1?' program':' programs');
+  nores(n,t,s,a,y,p);
  }
+ // No matching program: show shelters without a program yet that match, the programs in the chosen state, and the state page.
+ var box=document.getElementById('nores'),others=null,SN=window.SDO_STATES||{};
+ function esc(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+ function nores(n,t,s,a,y,p){
+  if(!box)return;
+  if(n>0||(!t&&!s)){box.hidden=true;box.innerHTML='';return;}
+  var inState=s?rows.filter(function(r){return r.dataset.state===s;}).length:0;
+  var html='<p><b>No day-out programs match'+(t?' &ldquo;'+esc(t)+'&rdquo;':'')+(s?' in '+esc(SN[s]||s):'')+' yet.</b></p>';
+  var tips=[];
+  if(t&&s&&inState)tips.push('<a href="#" data-act="state">See all '+inState+' program'+(inState===1?'':'s')+' in '+esc(SN[s]||s)+'</a>');
+  if(a||y||p)tips.push('<a href="#" data-act="clear">Clear the animal, type and public filters</a>');
+  if(s)tips.push('<a href="/states/'+esc((SN[s]||'').toLowerCase().replace(/[^a-z0-9]+/g,'-'))+'/">Every shelter in '+esc(SN[s]||s)+'</a>');
+  if(tips.length)html+='<ul><li>'+tips.join('</li><li>')+'</li></ul>';
+  box.innerHTML=html+'<div id="nores-o"></div>';box.hidden=false;
+  if(!t)return;
+  var show=function(){var m=others.filter(function(o){return (!s||o[3]===s)&&(o[1]+' '+o[2]+' '+o[3]+' '+(SN[o[3]]||'')).toLowerCase().indexOf(t)>=0;}).slice(0,25);
+   var el=document.getElementById('nores-o');if(!el||!m.length)return;
+   el.innerHTML='<p>Shelters'+(s?' in '+esc(SN[s]||s):'')+' matching &ldquo;'+esc(t)+'&rdquo; that don&rsquo;t run a program yet. Ask them for one:</p><ul>'+m.map(function(o){return '<li><a href="/listings/'+o[0]+'/">'+esc(o[1])+'</a> ('+esc(o[2])+', '+o[3]+') &middot; <a href="/request/?listing='+o[0]+'">Request a day out</a></li>';}).join('')+'</ul>';};
+  if(others){show();}else{fetch('/assets/others.json').then(function(r){return r.json();}).then(function(j){others=j;show();}).catch(function(){});}
+ }
+ if(box)box.addEventListener('click',function(e){var x=e.target.closest('a[data-act]');if(!x)return;e.preventDefault();
+  if(x.dataset.act==='state'&&q)q.value='';if(x.dataset.act==='clear'){an.value='';ty.value='';pub.checked=false;}run();});
  [q,st,an,ty,pub].forEach(function(el){if(el){el.addEventListener('input',run);el.addEventListener('change',run);}});
  var f=document.getElementById('sform'),res=document.getElementById('results');
- if(f){f.addEventListener('submit',function(e){e.preventDefault();run();if(q)q.blur();if(res){res.scrollIntoView({behavior:'smooth',block:'start'});}});}
+ if(f){f.addEventListener('submit',function(e){e.preventDefault();run();if(q)q.blur();var tgt=(box&&!box.hidden)?box:res;if(tgt){tgt.scrollIntoView({behavior:'smooth',block:'start'});}});}
  var u=new URLSearchParams(location.search);
  if(u.get('q')&&q){q.value=u.get('q');}
  if(u.get('state')&&st){st.value=u.get('state').toUpperCase();}
