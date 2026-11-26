@@ -5,6 +5,7 @@ declare(strict_types=1);
 
 const SITE_EMAIL = 'hello@shelterdayout.com';
 const BRAND = 'ShelterDayOut';
+require_once __DIR__ . '/_email.php';
 // Private log folder outside the web root (created if missing).
 // Keep logs outside every web root: prefer the account home (two levels above public_html/<domain>).
 $PRIVATE = dirname(__DIR__, 3) . '/sdo_private';
@@ -66,8 +67,13 @@ function log_row(string $dir, array $row): void {
 }
 
 $stamp = gmdate('Y-m-d H:i:s') . ' UTC';
+$LABELS = ['kind' => 'Type of outing', 'org' => 'Organization', 'city' => 'City', 'name' => 'Name', 'role' => 'Role',
+           'email' => 'Email', 'phone' => 'Phone', 'when' => 'Preferred date(s)'];
 $lines = [];
-foreach ($fields as $k => $v) { $lines[] = ucfirst($k) . ': ' . $v; }
+foreach ($fields as $k => $v) {
+    if ($k === 'confirm') { if ($form === 'request') { $lines[] = 'Confirmed: 18 or older, and understands the shelter decides whether to approve the outing'; } continue; }
+    $lines[] = ($LABELS[$k] ?? ucfirst($k)) . ': ' . $v;
+}
 if ($L) { $lines[] = 'Listing: ' . $L['org'] . ' (' . $L['city'] . ', ' . $L['state'] . ') https://shelterdayout.com/listings/' . $listing . '/'; }
 if ($message !== '') { $lines[] = "\nMessage:\n" . $message; }
 $summary = implode("\n", $lines);
@@ -93,14 +99,37 @@ if ($form === 'request') {
     )), fn($e) => filter_var($e, FILTER_VALIDATE_EMAIL)));
     if (!$to) { back('oops'); }
     $name = $fields['name'];
-    $body = "Hello " . $L['org'] . ",\n\n"
-        . $name . " would like to take one of your animals on an outing and found your program on " . BRAND . " (shelterdayout.com), a free directory of shelter day-out and sleepover programs.\n\n"
-        . "Reply to this email to reach " . $name . " directly. " . BRAND . " doesn't arrange outings; you decide whether to approve this request under your own rules and agreements.\n\n"
-        . "----- Request -----\n" . $summary . "\n-------------------\n\n"
-        . "Sent " . $stamp . " via https://shelterdayout.com/listings/" . $listing . "/\n"
-        . "To update your listing, change where requests go, or stop receiving requests, reply with STOP or visit https://shelterdayout.com/for-shelters/\n"
-        . BRAND . " is a program of Charity Good (charitygood.org).\n";
-    $ok = send(implode(', ', $to), 'Outing request from ' . $name . ' via ' . BRAND, $body, $name . ' <' . $email . '>', SITE_EMAIL);
+    $page = 'https://shelterdayout.com/listings/' . $listing . '/';
+    $body = "NEW OUTING REQUEST FROM SHELTERDAYOUT.COM\n"
+        . "==========================================\n\n"
+        . "Hello " . $L['org'] . ",\n\n"
+        . $name . " found your program on ShelterDayOut.com (https://shelterdayout.com), the free nationwide directory of shelter day-out, field trip and sleepover programs, and sent this request through your listing:\n"
+        . $page . "\n\n"
+        . "Reply to this email to reach " . $name . " directly. ShelterDayOut doesn't arrange outings; you decide whether to approve this request under your own rules and agreements.\n\n"
+        . "----- Request sent via ShelterDayOut.com -----\n" . $summary . "\n----------------------------------------------\n\n"
+        . "Lead source: ShelterDayOut.com, " . $stamp . "\n"
+        . "Your listing: " . $page . "\n"
+        . "Your adoption page: https://shelteradoption.com/shelters/" . $listing . "/\n"
+        . "Update your listing or change where requests go: https://shelterdayout.com/for-shelters/?listing=" . $listing . "\n"
+        . "To stop receiving requests, reply STOP.\n\n"
+        . "ShelterDayOut.com - https://shelterdayout.com\n"
+        . "A free program of Charity Good (charitygood.org). Sister site: ShelterAdoption.com - https://shelteradoption.com\n";
+    $html = sdo_html_email([
+        'kicker' => 'New outing request from ShelterDayOut.com',
+        'title' => $name . ' wants to take one of your animals out!',
+        'intro' => $name . ' found ' . $L['org'] . "'s program on ShelterDayOut.com and sent this request through your listing. Just hit Reply to answer them directly. You decide whether to approve the outing under your own rules.",
+        'rows' => ['Type of outing' => $fields['kind'] ?? '', 'Name' => $name, 'Email' => $email, 'Phone' => $fields['phone'] ?? '',
+                   'Preferred date(s)' => $fields['when'] ?? '', 'Confirmed' => '18 or older; understands the shelter decides',
+                   'Sent' => $stamp],
+        'message' => $message,
+        'buttons' => [['Reply to ' . $name, 'mailto:' . $email . '?subject=' . rawurlencode('Your outing request for ' . $L['org']), true],
+                      ['View your ShelterDayOut listing', $page]],
+        'note' => "Want requests to go to a different email, or need to update your program details? Update your listing at https://shelterdayout.com/for-shelters/?listing=" . $listing . ". To stop receiving requests, reply STOP.",
+        'footer_links' => [['ShelterDayOut.com', 'https://shelterdayout.com'], ['Your listing', $page],
+                           ['Your adoption page', 'https://shelteradoption.com/shelters/' . $listing . '/'],
+                           ['Update listing', 'https://shelterdayout.com/for-shelters/?listing=' . $listing]],
+    ]);
+    $ok = sdo_mail(implode(', ', $to), 'New outing request from ShelterDayOut.com: ' . $name, $body, $html, $name . ' <' . $email . '>', SITE_EMAIL);
     log_row($PRIVATE, [$stamp, 'request', $listing, implode(' ', $to), $name, $email, $fields['phone'] ?? '', $fields['when'] ?? '', $ok ? 'sent' : 'FAILED']);
     // Confirmation to the requester.
     send($email, 'Your outing request to ' . $L['org'],

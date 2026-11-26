@@ -1207,6 +1207,9 @@ def build_assets(rows, optins):
     (DIST / "assets" / "site.css").write_text(CSS.strip() + "\n")
     for f in list((ROOT / "src" / "art").glob("*.svg")) + list((ROOT / "src" / "art").glob("*.png")):
         shutil.copy(f, DIST / "assets" / f.name)
+    (DIST / "assets" / "email").mkdir(exist_ok=True)
+    for f in (ROOT / "src" / "email").glob("*.png"):
+        shutil.copy(f, DIST / "assets" / "email" / f.name)
     (DIST / "favicon.svg").write_text(
         LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /forms/\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
