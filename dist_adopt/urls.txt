@@ -699,6 +699,7 @@ https://shelteradoption.com/shelters/central-missouri-humane-society-columbia/
 https://shelteradoption.com/shelters/central-nebraska-humane-society-grand-island/
 https://shelteradoption.com/shelters/central-new-york-spca-cnyspca-syracuse/
 https://shelteradoption.com/shelters/central-pennsylvania-humane-society-altoona/
+https://shelteradoption.com/shelters/central-vermont-humane-society-east-montpelier/
 https://shelteradoption.com/shelters/centre-county-paws-state-college/
 https://shelteradoption.com/shelters/champaign-county-animal-control-urbana/
 https://shelteradoption.com/shelters/champaign-county-humane-society-champaign/
@@ -1030,6 +1031,7 @@ https://shelteradoption.com/shelters/fort-smith-animal-haven-fort-smith/
 https://shelteradoption.com/shelters/fort-wayne-animal-care-and-control-fort-wayne/
 https://shelteradoption.com/shelters/fort-worth-animal-care-and-control-fort-worth/
 https://shelteradoption.com/shelters/fox-valley-humane-association-neenah/
+https://shelteradoption.com/shelters/franklin-county-animal-rescue-st-albans/
 https://shelteradoption.com/shelters/franklin-county-animal-shelter-farmington/
 https://shelteradoption.com/shelters/franklin-county-animal-shelter-louisburg/
 https://shelteradoption.com/shelters/franklin-county-animal-shelter-rocky-mount/
@@ -1628,6 +1630,7 @@ https://shelteradoption.com/shelters/lowndes-county-animal-services-valdosta/
 https://shelteradoption.com/shelters/lubbock-animal-services-lubbock/
 https://shelteradoption.com/shelters/lucas-county-canine-care-and-control-toledo/
 https://shelteradoption.com/shelters/lucky-paws-adoption-center-city-of-albuquerque-animal-welfare-albuquerque/
+https://shelteradoption.com/shelters/lucy-mackenzie-humane-society-west-windsor/
 https://shelteradoption.com/shelters/lumpkin-county-animal-shelter-dahlonega/
 https://shelteradoption.com/shelters/lunenburg-county-animal-kennel-lunenburg/
 https://shelteradoption.com/shelters/lusk-animal-shelter-lusk/
@@ -1831,6 +1834,7 @@ https://shelteradoption.com/shelters/noco-humane-weld-campus-evans/
 https://shelteradoption.com/shelters/nodaway-humane-society-maryville/
 https://shelteradoption.com/shelters/norfolk-animal-care-center-norfolk/
 https://shelteradoption.com/shelters/norman-animal-welfare-center-norman/
+https://shelteradoption.com/shelters/north-country-animal-league-morrisville/
 https://shelteradoption.com/shelters/north-jersey-community-animal-shelter-bloomingdale/
 https://shelteradoption.com/shelters/north-little-rock-animal-shelter-north-little-rock/
 https://shelteradoption.com/shelters/north-platte-animal-shelter-north-platte/
@@ -2042,6 +2046,7 @@ https://shelteradoption.com/shelters/pointe-coupee-animal-shelter-new-roads/
 https://shelteradoption.com/shelters/polk-county-animal-control-cedartown/
 https://shelteradoption.com/shelters/polk-county-humane-society-bolivar/
 https://shelteradoption.com/shelters/polk-county-sheriff-s-office-animal-control-winter-haven/
+https://shelteradoption.com/shelters/pope-memorial-frontier-animal-shelter-orleans/
 https://shelteradoption.com/shelters/pope-memorial-humane-society-cocheco-valley-dover/
 https://shelteradoption.com/shelters/pope-memorial-humane-society-of-knox-county-thomaston/
 https://shelteradoption.com/shelters/pope-memorial-spca-of-concord-merrimack-county-concord/
@@ -2118,6 +2123,7 @@ https://shelteradoption.com/shelters/ritchie-county-humane-society-harrisville/
 https://shelteradoption.com/shelters/river-cities-humane-society-for-cats-monroe/
 https://shelteradoption.com/shelters/riverhead-town-animal-shelter-north-fork-animal-welfare-league-aquebogue/
 https://shelteradoption.com/shelters/rivers-and-bluffs-animal-shelter-prairie-du-chien/
+https://shelteradoption.com/shelters/riverside-animal-rescue-lunenburg/
 https://shelteradoption.com/shelters/riverton-city-animal-shelter-riverton/
 https://shelteradoption.com/shelters/roane-county-animal-shelter-rockwood/
 https://shelteradoption.com/shelters/roane-county-humane-authority-society-spencer/
@@ -2148,6 +2154,7 @@ https://shelteradoption.com/shelters/russell-county-animal-shelter-lebanon/
 https://shelteradoption.com/shelters/russellville-animal-control-russellville/
 https://shelteradoption.com/shelters/ruth-steinert-memorial-spca-pine-grove/
 https://shelteradoption.com/shelters/rutherford-county-animal-control-services-rutherfordton/
+https://shelteradoption.com/shelters/rutland-county-humane-society-pittsford/
 https://shelteradoption.com/shelters/sabine-animal-shelter-sabine-humane-society-many/
 https://shelteradoption.com/shelters/sachse-animal-shelter-sachse/
 https://shelteradoption.com/shelters/sacramento-spca-sacramento/
@@ -2240,6 +2247,7 @@ https://shelteradoption.com/shelters/seattle-area-feline-rescue-shoreline/
 https://shelteradoption.com/shelters/seattle-humane-bellevue/
 https://shelteradoption.com/shelters/secaucus-animal-shelter-secaucus/
 https://shelteradoption.com/shelters/second-chance-animal-adoption-bonners-ferry/
+https://shelteradoption.com/shelters/second-chance-animal-center-arlington/
 https://shelteradoption.com/shelters/second-chance-animal-sanctuaries-tioga/
 https://shelteradoption.com/shelters/second-chance-animal-services-east-brookfield/
 https://shelteradoption.com/shelters/second-chance-animal-shelter-alpena/
@@ -2627,6 +2635,7 @@ https://shelteradoption.com/shelters/wilmington-area-humane-society-wilmington/
 https://shelteradoption.com/shelters/wilson-county-animal-services-wilson/
 https://shelteradoption.com/shelters/wilson-county-no-kill-animal-shelter-floresville/
 https://shelteradoption.com/shelters/winchester-randolph-county-animal-shelter-winchester/
+https://shelteradoption.com/shelters/windham-county-humane-society-brattleboro/
 https://shelteradoption.com/shelters/winnebago-county-animal-services-rockford/
 https://shelteradoption.com/shelters/winona-area-humane-society-winona/
 https://shelteradoption.com/shelters/winslow-animal-shelter-winslow/
