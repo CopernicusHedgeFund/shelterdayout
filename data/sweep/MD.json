@@ -8,27 +8,61 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://barcs.org/dogs-day-out-program",
-  "notes": "Ages 18+, no volunteer experience needed; sign up via online form, then pick an eligible dog at the shelter. Dogs on leash, no dog parks or meeting other pets. Return by 4 pm weekdays, 12 pm weekends.",
+  "notes": "Dog's Day Out: 18+, no volunteer experience needed; dogs back by 4pm weekdays / 12pm weekends; no overnights (foster instead).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@barcs.org",
   "source": "https://www.wmar2news.com/local/dogs-day-out-lets-you-take-a-shelter-dog-out-for-an-adventure",
-  "source_list": "news (WMAR)"
+  "source_list": "news (WMAR)",
+  "phone": "(410) 396-4695",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Black Furiday Adoption Event",
+    "url": "https://barcs.org/adoption-events",
+    "place": "BARCS, 2490 Giles Rd, Baltimore, MD 21225"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Holiday Market Adoption Event",
+    "url": "https://barcs.org/adoption-events",
+    "place": "THE AVENUE at White Marsh, 8125 Honeygo Blvd, Baltimore, MD 21236"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Whisker Wonderland Adoption Event",
+    "url": "https://barcs.org/adoption-events",
+    "place": "Petco Ellicott City, 10060 US Hwy 40, Ellicott City, MD 21042"
+   },
+   {
+    "date": "2026-12-13",
+    "title": "All I Want for Christmas is Mew!",
+    "url": "https://barcs.org/adoption-events",
+    "place": "BARCS, 2490 Giles Rd, Baltimore, MD 21225"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Happy Howliday Adoption Event",
+    "url": "https://barcs.org/adoption-events",
+    "place": "Petco Towson, 6325 York Rd, Baltimore, MD 21212"
+   }
+  ]
  },
  {
   "state": "MD",
   "city": "Baltimore",
   "org": "Maryland SPCA",
-  "program": "Dog's Day Out (Dog Deputies)",
-  "status": "Volunteers only",
+  "program": "Couch Crashers short-term foster (1-3 nights, adult dogs 40+ lbs); Dog's Day Out outings for trained Dog Deputy volunteers",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://mdspca.org/volunteer/",
-  "notes": "Dog Deputy volunteers take adoptable dogs on off-site adventures. Requires 2 shifts/month for 6 months, orientation, online modules and a shadow session.",
+  "offers": "Day trip, Sleepover",
+  "url": "https://mdspca.org/foster/",
+  "notes": "Couch Crashers is a public short-term foster (about 1-3 days, supplies provided). Dog's Day Out is limited to Dog Deputy volunteers (mdspca.org/volunteer/). No adoption events listed after 11/26/2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@mdspca.org",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 235-8826"
  },
  {
   "state": "MD",
@@ -37,9 +71,9 @@
   "program": "Paws Around Town",
   "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip, overnight",
-  "url": "https://www.aacounty.org/node/13372",
-  "notes": "For approved fosters/volunteers (apply to foster with ID copy; Anne Arundel County residents only). Dogs at shelter 7+ days, not on stray hold. Leash at all times, dog-friendly places only, no contact with other animals. 411 Maxwell Frye Rd.",
+  "offers": "Day trip, Sleepover",
+  "url": "https://www.aacounty.org/animal-services/paws-around-town",
+  "notes": "Paws Around Town: approved fosters/volunteers (Anne Arundel County residents only) take dogs held 7+ days out for a day or overnight; non-volunteers submit a foster application. Shelter at 411 Maxwell Frye Rd, Millersville.",
   "checked": "November 2026",
   "email_program": "foster@aacounty.org",
   "email_main": "",
@@ -50,7 +84,8 @@
     "title": "Sunday adoption hours (10 am-3 pm)",
     "url": "https://www.aacounty.org/animal-services"
    }
-  ]
+  ],
+  "phone": "(410) 222-8900"
  },
  {
   "state": "MD",
@@ -61,11 +96,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://aacspca.org/",
-  "notes": "1815 Bay Ridge Ave, Annapolis. Volunteers walk dogs on on-site nature trail; no off-site outing program found.",
+  "notes": "1815 Bay Ridge Ave, Annapolis. General foster program only (foster@aacspca.org); no day-out program on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "volunteer@aacspca.org",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 268-4388"
  },
  {
   "state": "MD",
@@ -88,67 +124,111 @@
     "url": "https://bmorehumane.org/event/pet-photos-with-santa-at-petco-owings-mills/",
     "place": "Petco Owings Mills, 10383 Reisterstown Rd"
    }
-  ]
+  ],
+  "phone": "(410) 833-8848"
  },
  {
   "state": "MD",
   "city": "Easton",
   "org": "Talbot Humane",
-  "program": "Dog Day Out / Bedtime with Benji",
+  "program": "Dog Day Out",
   "status": "Needs check",
   "animals": "Dogs",
-  "offers": "Day trip, sleepover",
+  "offers": "Day trip",
   "url": "https://www.talbothumane.org/dog-day-out/",
-  "notes": "Dog Day Out: take a shelter dog out for a car ride, a few hours at home, hikes or pet-friendly spots; no dog parks, no contact with other pets. Bedtime with Benji: take a dog home for an evening, weekend or holiday break, returning next open day; requires foster application. Sign-up details not stated on page.",
+  "notes": "Dog Day Out: take a shelter dog out for a few hours (car rides, hikes, naps at home; no dog parks or contact with other pets). Evening/weekend stays via foster application. Eligibility/scheduling not stated on page; contact shelter. 7894 Ocean Gateway, Easton.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@talbothumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(410) 822-0107"
  },
  {
   "state": "MD",
   "city": "Ridgely",
   "org": "Caroline County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Short-Term Foster",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.carolinehumane.org/",
-  "notes": "407 West Bell St, Ridgely (per Maryland 211). Own site failed to load this pass; program/events not checked.",
+  "offers": "Sleepover",
+  "url": "https://www.carolinehumane.org/foster",
+  "notes": "Short-Term Foster: temporary home for a dog or cat for a few days or a weekend break from the shelter (foster application required). 407 W. Belle St, Ridgely; also handles Caroline County animal control.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "email_main": "info@carolinehumane.org",
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 820-1600"
  },
  {
   "state": "MD",
   "city": "Westminster",
   "org": "Humane Society of Carroll County",
   "program": "Doggy Day Out",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://humanesocietycarrollcounty.org/adoption",
-  "notes": "2517 Littlestown Pike, Westminster; 410-848-4810. Site lists Doggy Day Out under Volunteer but gives no details (likely volunteer-only).",
+  "offers": "Day trip, Sleepover",
+  "url": "https://humanesocietycarrollcounty.org/doggy-day-out/",
+  "notes": "Volunteer outings of a few hours or overnight, booked by request form (at least 2 business days ahead); short-notice line (410) 848-4810 ext. 814. Site says the program is being revamped.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 848-4810",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "PetSmart Adoption Event",
+    "url": "https://humanesocietycarrollcounty.org/petsmart-adoption/",
+    "place": "PetSmart Westminster, 625 Baltimore Blvd, Westminster, MD 21157"
+   },
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-31",
+    "title": "Home for the Holidays PetSmart Stores Adoption Promotion",
+    "url": "https://humanesocietycarrollcounty.org/petsmart-adoption/",
+    "place": "PetSmart stores"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart Adoption Event",
+    "url": "https://humanesocietycarrollcounty.org/petsmart-adoption/",
+    "place": "PetSmart Westminster, 625 Baltimore Blvd, Westminster, MD 21157"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "PetSmart Adoption Event",
+    "url": "https://humanesocietycarrollcounty.org/petsmart-adoption/",
+    "place": "PetSmart Westminster, 625 Baltimore Blvd, Westminster, MD 21157"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "PetSmart Adoption Event at Owings Mills",
+    "url": "https://humanesocietycarrollcounty.org/petsmart-adoption/",
+    "place": "PetSmart Owings Mills, 10240 Mill Run Cir Suite 102, Owings Mills, MD 21117"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "PetSmart Adoption Event",
+    "url": "https://humanesocietycarrollcounty.org/petsmart-adoption/",
+    "place": "PetSmart Westminster, 625 Baltimore Blvd, Westminster, MD 21157"
+   }
+  ]
  },
  {
   "state": "MD",
   "city": "Fallston",
   "org": "The Humane Society of Harford County",
   "program": "Weekend Getaway Program",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Weekend sleepover",
-  "url": "https://www.harfordshelter.org/",
-  "notes": "Homepage lists a Weekend Getaway Program to take a shelter dog home for a weekend; rules not published, contact shelter. 2208 Connolly Rd, Fallston. Homepage also mentions Chewy-sponsored holiday waived adoption fees (dates not given).",
+  "offers": "Sleepover",
+  "url": "https://www.harfordshelter.org/?p=23318",
+  "notes": "Weekend short-term foster (Friday to Sunday/Monday); shelter supplies crate, leash, food; sign up through the foster application. Upcoming listed events are fundraisers (not adoption events).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@harfordshelter.org",
   "email_main": "adopt@harfordshelter.org",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 836-1090"
  },
  {
   "state": "MD",
@@ -163,7 +243,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hswcmd.org",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(301) 733-2060"
  },
  {
   "state": "MD",
@@ -174,13 +255,21 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cawlrescue.org/",
-  "notes": "Adoption and education center at 1040 Prince Frederick Blvd; adoption hours Sat 11 am-3 pm, otherwise by appointment. No day-out program found.",
+  "notes": "1040 Prince Frederick Blvd. Adoption hours Sat 11-3, else by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "cawl@comcast.net",
-  "phone": "+1 410 535 9300",
+  "phone": "(410) 535-9300",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/705432751"
+  "osm": "way/705432751",
+  "events": [
+   {
+    "date": "2026-12-06",
+    "title": "Joyful Paws Holiday Open House",
+    "url": "https://www.cawlrescue.org/events",
+    "place": "CAWL, 1040 N. Prince Frederick Blvd., Prince Frederick, MD"
+   }
+  ]
  },
  {
   "state": "MD",
@@ -195,7 +284,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@howardcountymd.gov",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 313-2780"
  },
  {
   "state": "MD",
@@ -210,7 +300,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "rdudok@garrettcounty.org",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(301) 334-3553"
  },
  {
   "state": "MD",
@@ -221,22 +312,23 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.charlescountymd.gov/services/animal-care-control",
-  "notes": "County-run shelter (formerly Tri-County Animal Shelter), 6707 Animal Shelter Rd, Hughesville; adoption hours Mon-Fri 11 am-4 pm, Sat 10 am-3 pm. No day-out program on county page.",
+  "notes": "6707 Animal Shelter Rd, Hughesville (formerly Tri-County Animal Shelter). Adoption hours M-F 11-4, Sat 10-3.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "county government page"
+  "source_list": "county government page",
+  "phone": "(301) 932-1713"
  },
  {
   "state": "MD",
   "city": "Cambridge",
-  "org": "Dorchester County Animal Control",
+  "org": "Dorchester County Dog Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
   "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "notes": "County dog control at 829 Fieldcrest Rd, Cambridge (address per MD Dept. of Agriculture contacts page). Listed as a shelter in MDA 2025 shelter statistics. Website docodogcontrol.com is a 'launching soon' placeholder; no official phone could be verified.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -251,41 +343,28 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://frederickcountymd.gov/114/Adopt",
-  "notes": "1832 Rosemont Ave, Frederick; renovated center opened Aug 2026 (renovations continuing into 2027). Volunteers walk dogs on site; no off-site outing program found.",
+  "notes": "1832 Rosemont Ave; adoption by reservation (visitfcac.as.me). Tours/education programs paused during construction.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "county government page"
- },
- {
-  "state": "MD",
-  "city": "Timonium",
-  "org": "Alley Animals",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "email_main": "animalcontrol@frederickcountymd.gov",
+  "source_list": "county government page",
+  "phone": "(301) 600-1546"
  },
  {
   "state": "MD",
   "city": "Chestertown",
-  "org": "Humane Society of Kent County",
+  "org": "Animal Care Shelter for Kent County (Humane Society of Kent County)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://acskc.org/",
+  "notes": "Operates as Animal Care Shelter for Kent County (legal name The Humane Society of Kent County, Inc.), 10168 Worton Rd, Chestertown; county animal control provider. General foster only.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "email_main": "info@acskc.org",
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 778-3648"
  },
  {
   "state": "MD",
@@ -295,12 +374,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://ccgov.org/government/animal-services",
+  "notes": "3280 Augustine Herman Hwy; adoptions by appointment.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "email_main": "ccasadoptions@ccgov.org",
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 441-2040"
  },
  {
   "state": "MD",
@@ -310,23 +390,24 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://worcestersheriff.com/animal-control-unit/",
+  "notes": "Sheriff's Office Animal Control Unit, 6207 Timmons Rd, Snow Hill. M-F 8-4; adoption application on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 632-1340"
  },
  {
   "state": "MD",
   "city": "Westover",
-  "org": "Somerset County Animal Control Shelter",
+  "org": "Somerset County Dog Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
   "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "notes": "Listed as Somerset County Dog Control (Westover) in MDA 2025 shelter statistics. No official website/phone could be verified (county site not reachable this run).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -336,16 +417,17 @@
   "state": "MD",
   "city": "Salisbury",
   "org": "Humane Society of Wicomico County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Foster day trips",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "offers": "Day trip",
+  "url": "https://wicomicohumane.org/foster/",
+  "notes": "Approved fosters can 'take a dog for a field trip out of the kennel for a day'; anyone may apply via foster application. 5130 Citation Dr, Salisbury; also Wicomico County animal control.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 749-7603"
  },
  {
   "state": "MD",
@@ -356,26 +438,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.princegeorgescountymd.gov/animal-services",
-  "notes": "3750 Brown Station Rd, Upper Marlboro. Offers general short-term fostering (apply online, fosterPGCpets@co.pg.md.us) but no day-trip/sleepover program described.",
+  "notes": "3750 Brown Station Rd. Short-term foster (general) only; no day-out program described.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "fosterPGCpets@co.pg.md.us",
   "email_main": "",
-  "source_list": "county government page"
- },
- {
-  "state": "MD",
-  "city": "Ocean City",
-  "org": "Ocean City Animal Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "county government page",
+  "phone": "(301) 780-7200"
  },
  {
   "state": "MD",
@@ -385,72 +453,76 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://adopt-a-pet.org",
+  "notes": "Confirmed physical shelter (since 1988, on a 35.8-acre sanctuary in northern Baltimore County); visitation Tue-Fri 10-4:30, Sat adoptions 10-4.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "email_main": "feedbackdoar@gmail.com",
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 527-1466"
  },
  {
   "state": "MD",
   "city": "Baldwin",
   "org": "Baltimore County Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Sleepover Squad",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://baltimorecountymd.gov/animalservices",
-  "notes": "13800 Manor Rd, Baldwin; adoptions daily noon-5 pm. Volunteer page lists short-term fostering but no off-site outing program.",
+  "offers": "Sleepover",
+  "url": "https://baltimorecountymd.gov/departments/animal-services/foster",
+  "notes": "Sleepover Squad: take a shelter dog home for a night or two through the foster application; supplies provided. Phone shown as 410-887-PAWS (7297).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "bcasfoster@baltimorecountymd.gov",
   "email_main": "animalservices@baltimorecountymd.gov",
-  "source_list": "county government page"
+  "source_list": "county government page",
+  "phone": "(410) 887-7297"
  },
  {
   "state": "MD",
   "city": "Cambridge",
-  "org": "Humane Society of Dorchester County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "org": "Baywater Animal Rescue",
+  "program": "Rescue Pet Sleepover",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "offers": "Sleepover",
+  "url": "https://www.baywateranimalrescue.org/",
+  "notes": "Formerly the Humane Society of Dorchester County (site says 'Previously Known As'). 4930 Bucktown Rd, Cambridge. Site lists a 'Rescue Pet Sleepover' under Volunteer (https://www.baywateranimalrescue.org/rescue-pet-sleepover.html) but that page could not be read (robots blocked) - verify details.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 228-3090"
  },
  {
   "state": "MD",
-  "city": "Centreville",
-  "org": "Queen Anne's County Animal Control",
+  "city": "Queenstown",
+  "org": "Queen Anne's County Animal Services",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://qac.org/226",
+  "notes": "County shelter (QAC Animal Services) at 201 Clay Drive, Queenstown; Thu-Tue 12-5. Field animal control is at 100 Communications Dr, Centreville (410-758-2393, qacac@qac.org).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
+  "phone": "(410) 827-7178"
  },
  {
   "state": "MD",
   "city": "Cumberland",
-  "org": "Allegany County Animal Shelter Management Foundation",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "org": "Allegany County Animal Shelter",
+  "program": "Hounds Around Town",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "offers": "Day trip",
+  "url": "https://alleganyanimalshelter.org/hounds-around-town/",
+  "notes": "716 Furnace St. The shelter's site describes Hounds Around Town (sign a dog out for the day, application form). The Foundation stopped operating in Oct 2025 and the county took over the shelter (alleganygov.org statement, 10/23/2025); the site was last updated 10/2025, so confirm the program still runs.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "info@ashelterofhope.com",
+  "phone": "(301) 777-5930",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/6481830244"
  },
@@ -462,12 +534,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list.",
+  "url": "https://greenbeltmd.gov/government/departments/animal-control/animal-shelter",
+  "notes": "Open by appointment only.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-301-474-6124",
+  "email_main": "animalcontrol@greenbeltmd.gov",
+  "phone": "(301) 474-6124",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/207532582"
  },
@@ -484,22 +556,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AdoptMCASAC@montgomerycountymd.gov",
-  "source_list": "county government page"
- },
- {
-  "state": "MD",
-  "city": "Queenstown",
-  "org": "Animal Welfare League of Queen Anne's County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not re-verified in this pass (shared web search/fetch budget exhausted); details carried over from existing list. Existing url awshc.org was wrong (it redirects to an unrelated Baltimore rescue) and was cleared.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)"
+  "source_list": "county government page",
+  "phone": "(240) 773-5900"
  },
  {
   "state": "MD",
@@ -510,11 +568,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://calvertcountymd.gov/3170/Animal-Shelter",
-  "notes": "Calvert County government shelter, 5055 Hallowing Point Rd, Prince Frederick; 410-535-7387. No day-out program on county page.",
+  "notes": "5055 Hallowing Point Rd, Prince Frederick (Calvert County).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "county government page"
+  "email_main": "animalshelter@calvertcountymd.gov",
+  "source_list": "county government page",
+  "phone": "(410) 535-7387"
  },
  {
   "state": "MD",
@@ -525,10 +584,93 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.stmaryscountymd.gov/AnimalShelter/",
-  "notes": "St. Mary's County government shelter, 22975 FDR Blvd, California (Lexington Park area); 301-475-8018. No day-out program on county page; no events scheduled.",
+  "notes": "22975 FDR Blvd, California. Tue/Wed/Fri 12-6, Sat/Sun 12-4.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "county government page"
+  "source_list": "county government page",
+  "phone": "(301) 475-8018"
+ },
+ {
+  "state": "MD",
+  "city": "Frederick",
+  "org": "Animal Welfare League of Frederick County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, Cats",
+  "offers": "",
+  "url": "https://www.awlfc.org",
+  "phone": "(301) 663-5855",
+  "notes": "All-volunteer nonprofit with a small adoption center plus foster homes; office at 1202 East Patrick St., Suite 13A. No adoption events listed after 11/26/2026.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@awlfc.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MD",
+  "city": "Berlin",
+  "org": "Worcester County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "offers": "",
+  "animals": "Dogs, Cats",
+  "url": "https://www.worcestercountyhumanesociety.org/",
+  "phone": "(410) 213-0146",
+  "notes": "No-kill shelter at 12330 Eagles Nest Rd, Berlin. General foster program only.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "savinganimals@worcestercountyhumanesociety.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MD",
+  "city": "College Park",
+  "org": "City of College Park Animal Welfare & Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "offers": "",
+  "animals": "Dogs, Cats",
+  "url": "https://www.collegeparkmd.gov/animalcontrol",
+  "phone": "(240) 487-3575",
+  "notes": "City shelter, visits by appointment only; adoptions by application ($75). Office at City Hall, 7401 Baltimore Ave, Suite 201. Fostering via Animal Control Officer.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MD",
+  "city": "Waldorf",
+  "org": "Humane Society of Charles County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "offers": "",
+  "animals": "Dogs, Cats",
+  "url": "",
+  "phone": "",
+  "notes": "Listed in MD Dept. of Agriculture 2025 shelter statistics; shelter at 71 Industrial Park Dr, Waldorf (per directory). Own site humanesocietycc.org could not be fetched this run - verify url/phone/program.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "source": "http://humanesocietycc.org"
+ },
+ {
+  "state": "MD",
+  "city": "Princess Anne",
+  "org": "Humane Society of Somerset County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "offers": "",
+  "animals": "Dogs, Cats",
+  "url": "",
+  "phone": "",
+  "notes": "Listed in MD Dept. of Agriculture 2025 shelter statistics. Own site humanesocietyofsomersetcounty.org could not be fetched this run - verify facility, url, phone.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "source": "https://humanesocietyofsomersetcounty.org/"
  }
 ]
