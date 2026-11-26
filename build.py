@@ -97,6 +97,7 @@ def load():
             if is_dead(e.get("url")):
                 e["url"] = ""
         r["map"] = map_url(r["org"], r["city"], r["state"])
+        r["phone"], r["tel"] = clean_phone(r.get("phone", ""))
         r["requests"] = bool(r.get("email_main") or r.get("email_program") or optins.get(slug)) or r["status"] == NOPROG
     rows.sort(key=lambda r: (r["state"], STATUS_ORDER[r["status"]], r["city"], r["org"]))
     return rows, optins
@@ -592,6 +593,7 @@ def build_listings(rows):
             "@context": "https://schema.org", "@type": "AnimalShelter", "name": name,
             "address": {"@type": "PostalAddress", "addressLocality": r["city"], "addressRegion": r["state"], "addressCountry": "US"},
             "url": SITE + f"/listings/{r['slug']}/",
+            **({"telephone": "+1-" + r["tel"][2:5] + "-" + r["tel"][5:8] + "-" + r["tel"][8:12]} if r.get("tel") else {}),
         })
         body = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/states/{r['state_slug']}/">{r['state_name']}</a> / {esc(name)}</div>
 <h1>{esc(name)}</h1>
@@ -602,12 +604,12 @@ def build_listings(rows):
 {f"<dt>What you can do</dt><dd>{offers}</dd>" if offers else ""}
 <dt>Animals</dt><dd>{esc(r['animals'])}</dd>
 <dt>Location</dt><dd>{esc(r['city'])}, {r['state_name']}</dd>
-{contact_html(r)}<dt>Last checked</dt><dd>{esc(r['checked'])}</dd>
+{phone_dd(r)}{contact_html(r)}<dt>Last checked</dt><dd>{esc(r['checked'])}</dd>
 </dl>
 {note}
 {f'<h2>Upcoming events</h2><ul class="evlist">{events_html(r, upcoming(r))}</ul>' if upcoming(r) else ""}
-<p>{req}{go}</p>
-<p class="animal"><a href="{esc(r['map'])}" rel="noopener nofollow" target="_blank">Find {esc(name)} on the map</a> for directions, hours and phone.</p>
+<p>{req}{go} {call_btn(r)}</p>
+{map_line(r)}
 {f'<p class="animal">Source: <a href="{esc(r["source"])}" rel="noopener nofollow" target="_blank">news coverage of this program</a></p>' if r.get("source") else ""}
 <p class="animal">Thinking of adopting? <a href="https://shelteradoption.com/shelters/{r['slug']}/" rel="noopener">See {esc(name)} on ShelterAdoption</a> for its adoptable pets and adoption events.</p>
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
@@ -816,6 +818,40 @@ def is_dead(u):
         f = ROOT / "data" / "dead_links.json"
         DEAD = set(json.loads(f.read_text()).get("dead", [])) if f.exists() else set()
     return bool(u) and u in DEAD
+
+
+def clean_phone(raw):
+    """Return (display, tel-link) for a US phone, or ("", "") if it isn't a valid 10-digit number.
+    Display is "(555) 555-5555" plus " ext. N" when given; tel uses +1 and a pause before the extension."""
+    raw = (raw or "").strip()
+    if not raw:
+        return "", ""
+    m = re.match(r"^(.*?)(?:\s*(?:ext\.?|x|extension)\s*(\d{1,6}))?\s*$", raw, re.I)
+    main, ext = m.group(1), m.group(2)
+    d = re.sub(r"\D", "", main)
+    if len(d) == 11 and d[0] == "1":
+        d = d[1:]
+    if len(d) != 10 or d[0] in "01":
+        return "", ""
+    disp = f"({d[:3]}) {d[3:6]}-{d[6:]}" + (f" ext. {ext}" if ext else "")
+    tel = f"+1{d}" + (f",{ext}" if ext else "")
+    return disp, tel
+
+
+def phone_dd(r):
+    """<dt>/<dd> pair with a tap-to-call link, or "" when no phone."""
+    if not r.get("phone"):
+        return ""
+    return f'<dt>Phone</dt><dd><a href="tel:{r["tel"]}">{esc(r["phone"])}</a></dd>\n'
+
+
+def call_btn(r):
+    return f'<a class="btn alt" href="tel:{r["tel"]}">Call {esc(r["phone"])}</a> ' if r.get("phone") else ""
+
+
+def map_line(r):
+    what = "directions and hours" if r.get("phone") else "directions, hours and phone"
+    return f'<p class="animal"><a href="{esc(r["map"])}" rel="noopener nofollow" target="_blank">Find {esc(r["org"])} on the map</a> for {what}.</p>'
 
 
 def map_url(name, city, state, street=""):

@@ -301,7 +301,8 @@ def build_shelters(rows):
             dayout = f"""<div class="card" style="margin-top:16px"><h3>Try a day out first</h3><p>{esc(r['org'])} runs <b>{esc(r['program'])}</b>{(': ' + esc(r['offers'])) if r.get('offers') else ''}. It's a great way to get to know a dog before you adopt.</p><p><a href="{SDO}/listings/{r['slug']}/" rel="noopener">Program details on ShelterDayOut</a></p></div>"""
         ld = [{"@context": "https://schema.org", "@type": "AnimalShelter", "name": r["org"],
                "address": {"@type": "PostalAddress", "addressLocality": r["city"], "addressRegion": r["state"], "addressCountry": "US"},
-               "url": r.get("url") or SITE + path}]
+               "url": r.get("url") or SITE + path,
+               **({"telephone": "+1-" + r["tel"][2:5] + "-" + r["tel"][5:8] + "-" + r["tel"][8:12]} if r.get("tel") else {})}]
         ld += [event_ld(r, e) for e in evs]
         body = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/states/{r['state_slug']}/">{r['state_name']}</a> / {esc(r['org'])}</div>
 <h1>{esc(r['org'])}</h1>
@@ -310,10 +311,10 @@ def build_shelters(rows):
 <dt>Animals</dt><dd>{esc(r.get('animals') or 'Dogs and cats')}</dd>
 <dt>Location</dt><dd>{esc(r['city'])}, {r['state_name']}</dd>
 {f'<dt>Website</dt><dd><a href="{esc(r["url"])}" rel="noopener nofollow" target="_blank">{esc(re.sub(r"^https?://(www\.)?", "", r["url"]).split("/")[0])}</a></dd>' if r.get("url") else ""}
-{contact_html(r)}<dt>Last checked</dt><dd>{esc(r.get('checked', ''))}</dd>
+{sdo.phone_dd(r)}{contact_html(r)}<dt>Last checked</dt><dd>{esc(r.get('checked', ''))}</dd>
 </dl>
-<p>{visit}</p>
-<p class="animal"><a href="{esc(r['map'])}" rel="noopener nofollow" target="_blank">Find {esc(r['org'])} on the map</a> for directions, hours and phone.</p>
+<p>{visit} {sdo.call_btn(r)}</p>
+{sdo.map_line(r)}
 {f'<h2>Upcoming adoption events</h2><ul class="evlist">{ev_html}</ul>' if evs else ""}
 {dayout}
 <h2>How adoption usually works here</h2>
