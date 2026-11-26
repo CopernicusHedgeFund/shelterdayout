@@ -267,7 +267,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <body>
 <header class="site"><div class="wrap">
 <a class="logo" href="/">{LOGO}<span>Shelter<b>DayOut</b></span></a>
-<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/volunteer-at-an-animal-shelter/">Volunteer</a><a href="/find-a-vet/">Find a vet</a><a href="/for-shelters/">For shelters</a><a href="https://shelteradoption.com/" rel="noopener">Adopt</a></nav>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/events/">Adoption events</a><a href="/cats/">Cats</a><a href="/volunteer-at-an-animal-shelter/">Volunteer</a><a href="/find-a-vet/">Find a vet</a><a href="/for-shelters/">For shelters</a><a href="https://shelteradoption.com/" rel="noopener">Adopt</a></nav>
 </div></header>
 <main><div class="wrap">
 {body}
