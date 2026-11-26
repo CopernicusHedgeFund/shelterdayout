@@ -985,8 +985,17 @@ VET_JS = """<script>
  function esc(s){return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
  function row(v){var site=v.w?'<a href="'+esc(v.w)+'" rel="noopener nofollow" target="_blank">Website</a>':'';var ph=v.p?'<a href="tel:'+esc(v.p.replace(/[^0-9+]/g,''))+'">'+esc(v.p)+'</a>':'';
   return '<tr><td><b>'+esc(v.n)+'</b>'+(v.e?' <span class="badge b-open">24/7 emergency</span>':'')+(v.l?' <span class="badge b-check">Low-cost / nonprofit</span>':'')+'<br><span class="animal">'+esc(v.a||'')+'</span></td><td>'+esc(v.c)+', '+v.s+(v.z?' '+esc(v.z):'')+'</td><td>'+ph+(ph&&site?'<br>':'')+site+'</td></tr>';}
- function render(list){var t=(q.value||'').trim().toLowerCase(),r=list.filter(function(v){if(em.checked&&!v.e)return false;if(lc.checked&&!v.l)return false;if(!t)return true;return (v.n+' '+v.c+' '+(v.z||'')).toLowerCase().indexOf(t)>=0;});
-  cnt.textContent=r.length+' vets'+(r.length>300?' (showing first 300, narrow your search)':'');out.innerHTML=r.slice(0,300).map(row).join('');}
+ var places={};
+ function render(list){var t=(q.value||'').trim().toLowerCase(),okf=function(v){return !(em.checked&&!v.e)&&!(lc.checked&&!v.l);},r=list.filter(function(v){if(!okf(v))return false;if(!t)return true;return (v.n+' '+v.c+' '+(v.z||'')).toLowerCase().indexOf(t)>=0;});
+  cnt.textContent=r.length+(r.length===1?' vet':' vets')+(t?' matching \u201c'+esc(t)+'\u201d':'')+(r.length>300?' (showing first 300, narrow your search)':'');out.innerHTML=r.slice(0,300).map(row).join('');
+  // nearest clinics to a typed town (Vail -> Edwards, Avon, Eagle...)
+  var s=st.value,tt=t.replace(/,?\\s+[a-z]{2}$/,'').trim();if(!s||tt.length<3)return;
+  var go=function(pl){var p=pl[tt];if(!p)return;var R=3958.8,rad=Math.PI/180,seen={};r.forEach(function(v){seen[v.n+v.a]=1;});
+   var near=list.filter(function(v){return v.g&&okf(v)&&!seen[v.n+v.a];}).map(function(v){var x=Math.sin((v.g[0]-p[0])*rad/2),y=Math.sin((v.g[1]-p[1])*rad/2),h=x*x+Math.cos(v.g[0]*rad)*Math.cos(p[0]*rad)*y*y;return [Math.round(2*R*Math.asin(Math.sqrt(h))),v];}).filter(function(a){return a[0]<=100;}).sort(function(a,b){return a[0]-b[0];}).slice(0,15);
+   if(!near.length)return;
+   cnt.textContent=(r.length?cnt.textContent+' \u00b7 ':'')+'nearest '+near.length+' vets to '+tt.replace(/\\b\\w/g,function(m){return m.toUpperCase();})+' below';
+   out.innerHTML+=near.map(function(a){return row(a[1]).replace('</b>','</b> <span class="badge b-none">about '+a[0]+' mi</span>');}).join('');};
+  if(places[s])go(places[s]);else fetch('/assets/places/'+s+'.json').then(function(x){return x.json();}).then(function(d){places[s]=d;go(d);}).catch(function(){});}
  function load(){var s=st.value;if(!s){cnt.textContent='Pick a state to search vets.';out.innerHTML='';return;}
   if(cache[s])return render(cache[s]);cnt.textContent='Loading...';fetch('/find-a-vet/data/'+s+'.json').then(function(r){return r.json();}).then(function(d){cache[s]=d;render(d);});}
  st.addEventListener('change',load);[q,em,lc].forEach(function(e){e.addEventListener('input',load);e.addEventListener('change',load);});
@@ -1010,7 +1019,7 @@ def build_vets():
         if site and not site.startswith("http"):
             site = "https://" + site
         rec = {"n": v["name"], "c": v["city"], "s": v["state"], "z": (v.get("zip") or "")[:5], "a": v.get("street", ""),
-               "p": (v.get("phone") or "").split(";")[0].strip(), "w": site,
+               "p": (v.get("phone") or "").split(";")[0].strip(), "w": site, "g": [round(v["lat"], 3), round(v["lon"], 3)] if v.get("lat") and v.get("lon") else None,
                "e": 1 if v.get("emergency") == "yes" or re.search(r"emergency|24.?7|24 hour", v["name"], re.I) else 0,
                "l": 1 if lowcost.search(v["name"] + " " + v.get("operator", "")) or v.get("operator_type") in ("community", "ngo", "charity") else 0}
         by.setdefault(v["state"], []).append(rec)
