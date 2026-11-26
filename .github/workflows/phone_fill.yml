@@ -1,0 +1,47 @@
+name: Fill shelter phone numbers
+
+# Reads each shelter's OWN website (or its government page) and fills blank "phone" fields when one
+# main number clearly wins. Respects robots.txt, never uses directories or Facebook, never guesses.
+# Run: gh api -X POST repos/CopernicusHedgeFund/shelterdayout/actions/workflows/phone_fill.yml/dispatches -f ref=main
+# Optional states: -f "inputs[states]=CA TX"
+on:
+  workflow_dispatch:
+    inputs:
+      states:
+        description: "Space-separated state codes (blank = all)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "17 10 * * 3"     # weekly, picks up shelters added by sweeps
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
+jobs:
+  fill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fill phones
+        run: python3 -I tools/phone_fill.py ${{ github.event.inputs.states }}
+      - name: Build and publish
+        run: |
+          git config user.name shelterdayout-bot && git config user.email hello@shelterdayout.com
+          for i in 1 2 3 4; do
+            python3 build.py | tail -2
+            git add data/sweep data/phone_fill_report.json dist dist_adopt
+            git diff --cached --quiet && break
+            N=$(python3 -c "import json;print(len(json.load(open('data/phone_fill_report.json'))['filled']))")
+            git commit -qm "Phones: +$N from shelters' own websites (automatic fill)"
+            git pull -q --rebase -X theirs origin main || { git rebase --abort; exit 1; }
+            git push -q origin HEAD:main && break
+            sleep 15
+          done
