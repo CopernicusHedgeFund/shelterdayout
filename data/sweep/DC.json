@@ -6,11 +6,42 @@
   "program": "Dog Field Trip Program",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Day trip; short-term holiday foster",
   "url": "https://www.humanerescuealliance.org/field-trip-program",
-  "notes": "Fridays, for volunteers and the public. Pickup 9:30am-noon, drop-off ideally by 4pm.",
+  "notes": "Fridays, for volunteers and the public. Pickup 9:30am-noon, drop-off ideally by 4pm (no later than 6pm). Handlers 18+. Sign up via the button on the page. Since Jan 1, 2025 DC animal control/sheltering moved to Brandywine Valley SPCA; HRA keeps humane law enforcement. HRA also runs a short-term Thanksgiving foster program (2-3 days).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "DC",
+  "city": "Washington",
+  "org": "Brandywine Valley SPCA - DC Village Shelter",
+  "program": "Shelter Skip Day",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://bvspca.org/shelter-skip-day",
+  "notes": "BVSPCA (DC Health's animal care contractor since Jan 2025) lists Shelter Skip Day as a service at this location; DC-specific rules not shown. Hours Tue-Fri 12-7, Sat-Sun 11-5. Phone (202) 888-PETS.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "dcinfo@bvspca.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "DC",
+  "city": "Washington",
+  "org": "Brandywine Valley SPCA - Ivy City Adoption Center",
+  "program": "Shelter Skip Day",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://bvspca.org/shelter-skip-day",
+  "notes": "1516 Okie St NE. BVSPCA (DC Health's animal care contractor since Jan 2025) lists Shelter Skip Day as a service at this location; DC-specific rules not shown. Hours Tue-Fri 12-7, Sat-Sun 11-5. Phone (202) 888-PETS.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "dcinfo@bvspca.org",
+  "source_list": "shelter website"
  }
 ]
