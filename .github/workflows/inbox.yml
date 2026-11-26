@@ -1,0 +1,66 @@
+name: Inbox relay
+
+# Moves hello@shelterdayout.com items between the server and the scheduled inbox task, ENCRYPTED both ways.
+# Branch inbox-data holds: queue.enc (open items, encrypted to the inbox task's key), server_pub.pem,
+# replies/*.enc (written by the inbox task, encrypted to the server's key; sent then moved to sent/).
+# Logs show counts only. Runs every 30 minutes, and right away when the inbox task pushes replies.
+on:
+  schedule:
+    - cron: "11,41 * * * *"
+  push:
+    branches: [inbox-data]
+    paths: ["replies/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: inbox-relay
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Check out inbox-data
+        run: |
+          git init -q work && cd work
+          git config user.name shelterdayout-bot && git config user.email hello@shelterdayout.com
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          if git fetch -q origin inbox-data 2>/dev/null; then git checkout -q -b inbox-data FETCH_HEAD; else git checkout -q --orphan inbox-data; fi
+          mkdir -p replies sent
+      - name: Send replies, then pull the queue
+        run: |
+          cd work
+          tok() { curl -sS -f -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=shelterdayout-inbox" | python3 -c "import json,sys;print(json.load(sys.stdin)['value'])"; }
+          for f in replies/*.enc; do
+            [ -e "$f" ] || continue
+            T=$(tok); echo "::add-mask::$T"
+            code=$(curl -sS -m 90 -A "ShelterDayOut-inbox-relay" --data-urlencode "t=$T" --data-urlencode "op=send" --data-urlencode "r@$f" https://shelterdayout.com/api/inbox.php -o /tmp/res.json -w "%{http_code}")
+            echo "$(basename $f): HTTP $code $(cat /tmp/res.json)"
+            if [ "$code" = "200" ]; then git mv -f "$f" sent/ 2>/dev/null || mv "$f" sent/; fi
+          done
+          T=$(tok); echo "::add-mask::$T"
+          code=$(curl -sS -m 90 -A "ShelterDayOut-inbox-relay" --data-urlencode "t=$T" --data-urlencode "op=pull" https://shelterdayout.com/api/inbox.php -o /tmp/pull.json -w "%{http_code}")
+          echo "pull: HTTP $code"
+          if [ "$code" = "200" ]; then
+            python3 - <<'PY'
+          import json
+          d = json.load(open('/tmp/pull.json'))
+          open('server_pub.pem', 'w').write(d['pubkey'])
+          old = {}
+          try: old = json.load(open('status.json'))
+          except Exception: pass
+          if d['h'] != old.get('h') or not __import__('os').path.exists('queue.enc'):
+              open('queue.enc', 'w').write(d['queue'])
+          json.dump({'open': d['n'], 'h': d['h']}, open('status.json', 'w'))
+          print('open items:', d['n'])
+          PY
+          fi
+          # keep sent/ for 30 days
+          find sent -name '*.enc' -mtime +30 -delete 2>/dev/null || true
+          git add -A .
+          git diff --cached --quiet || (git commit -qm "inbox relay $(date -u +%FT%H:%MZ)" && git push -q origin HEAD:inbox-data)
