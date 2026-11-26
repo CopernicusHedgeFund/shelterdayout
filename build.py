@@ -280,6 +280,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License.</p>
 <p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
 </div></footer>
+<script>(function(){{try{{var d={{p:location.pathname,r:document.referrer,w:innerWidth}},s=function(e){{d.e=e;var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon('/api/hit.php',new Blob([b],{{type:'application/json'}}));else fetch('/api/hit.php',{{method:'POST',body:b,keepalive:true}});}};s(0);var once=function(){{s(1);['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{removeEventListener(t,once,true)}})}};['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{addEventListener(t,once,{{capture:true,passive:true}})}})}}catch(e){{}}}})();</script>
 </body>
 </html>
 """
@@ -710,7 +711,7 @@ def build_static_pages(rows):
 <p>Last updated {date.today().strftime('%B %-d, %Y')}.</p>
 <p>{BRAND} is a program of Charity Good (charitygood.org). This policy explains what we collect on the site and how we use it.</p>
 <h2>What we collect</h2>
-<p>You can browse {BRAND} without giving us any personal information. If you send a form, we collect what you enter, such as your name, email, phone and message. Our web host keeps standard server logs (like IP address and pages visited) for security and basic traffic counts.</p>
+<p>You can browse {BRAND} without giving us any personal information. If you send a form, we collect what you enter, such as your name, email, phone and message. Our web host keeps standard server logs (like IP address and pages visited) for security. To count visits we use our own cookie-free counter: it records the page, the site you came from, your device type and browser family, and a daily anonymous code that can't be traced back to you. It stores no IP address and sets no cookies.</p>
 <h2>How we use it</h2>
 <p>We use form details only to respond to you, update listings, and run the site. If you send an outing request, we send it to the shelter you chose so they can contact you, and keep a copy in case there's a problem. Shelters handle your information under their own policies.</p>
 <h2>What we don't do</h2>
@@ -960,7 +961,7 @@ def build_assets(rows, optins):
         shutil.copy(f, DIST / "assets" / f.name)
     (DIST / "favicon.svg").write_text(
         LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
-    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /forms/\nSitemap: {SITE}/sitemap.xml\n")
+    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /forms/\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
     today = date.today().isoformat()
     urls = ["/", "/cats/", "/how-it-works/", "/for-shelters/", "/suggest/", "/about/", "/terms/", "/privacy/"]
     urls += sorted({f"/states/{slugify(v)}/" for v in STATES.values()})
@@ -969,6 +970,7 @@ def build_assets(rows, optins):
     (DIST / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
     # Form handler + the listing->shelter map it needs (only opted-in shelters get requests).
     shutil.copytree(ROOT / "src" / "forms", DIST / "forms", dirs_exist_ok=True)
+    shutil.copytree(ROOT / "src" / "api", DIST / "api", dirs_exist_ok=True)
     lookup = {}
     for r in rows:
         em = r.get("email_main") or (optins.get(r["slug"], {}) or {}).get("email", "")

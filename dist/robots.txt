@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /forms/
+Disallow: /api/
 Sitemap: https://shelterdayout.com/sitemap.xml

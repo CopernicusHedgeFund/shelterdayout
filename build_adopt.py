@@ -83,6 +83,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License.</p>
 <p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
 </div></footer>
+<script>(function(){{try{{var d={{p:location.pathname,r:document.referrer,w:innerWidth}},s=function(e){{d.e=e;var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon('/api/hit.php',new Blob([b],{{type:'application/json'}}));else fetch('/api/hit.php',{{method:'POST',body:b,keepalive:true}});}};s(0);var once=function(){{s(1);['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{removeEventListener(t,once,true)}})}};['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{addEventListener(t,once,{{capture:true,passive:true}})}})}}catch(e){{}}}})();</script>
 </body>
 </html>
 """
@@ -402,7 +403,7 @@ def build_static(rows):
 <p>{BRAND} is a free informational directory provided by Charity Good. Listings are gathered from public sources and checked monthly, but may be out of date or incomplete. We don't place animals, process adoptions or speak for any shelter. Each shelter sets its own policies, fees and requirements; confirm details with the shelter. Links to other websites are provided for convenience and we aren't responsible for their content. Use of this site is at your own risk and is provided as is, without warranties.</p>
 <p>Some location data &copy; OpenStreetMap contributors, available under the Open Database License.</p></div>""", "/terms/"))
     write("/privacy/", page(f"Privacy | {BRAND}", "Privacy policy.", f"""<h1>Privacy</h1><div class="prose">
-<p>{BRAND} doesn't require an account and doesn't sell personal information. Our web host keeps standard server logs (such as IP address and pages requested) for security and to count visits. Fonts are loaded from Google Fonts. Forms for suggestions and corrections are handled by our sister site ShelterDayOut under its <a href="{SDO}/privacy/">privacy policy</a>. The site isn't directed to children under 13. Contact: <a href="mailto:{CONTACT}">{CONTACT}</a>.</p></div>""", "/privacy/"))
+<p>{BRAND} doesn't require an account and doesn't sell personal information. Our web host keeps standard server logs (such as IP address and pages requested) for security. Visits are counted with our own cookie-free counter, which records the page, referring site, device type, browser family and a daily anonymous code; it stores no IP address and sets no cookies. Fonts are loaded from Google Fonts. Forms for suggestions and corrections are handled by our sister site ShelterDayOut under its <a href="{SDO}/privacy/">privacy policy</a>. The site isn't directed to children under 13. Contact: <a href="mailto:{CONTACT}">{CONTACT}</a>.</p></div>""", "/privacy/"))
     write("/404.html", page(f"Page not found | {BRAND}", "Page not found.",
         '<h1>Page not found</h1><p class="lede">That page doesn\'t exist or has moved.</p><p><a class="btn" href="/">Find a shelter</a></p>', "/404.html", canonical=False))
 
@@ -413,8 +414,9 @@ def build_assets():
     og = ROOT / "src" / "art" / "og_adopt.png"
     if og.exists():
         shutil.copy(og, DIST / "assets" / "og.png")
+    shutil.copytree(ROOT / "src" / "api", DIST / "api", dirs_exist_ok=True)
     (DIST / "favicon.svg").write_text(LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
-    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
+    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
     (DIST / ".htaccess").write_text(
         "ErrorDocument 404 /404.html\nOptions -Indexes\n"
         "<IfModule mod_rewrite.c>\nRewriteEngine On\nRewriteCond %{HTTPS} off\nRewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]\n"
