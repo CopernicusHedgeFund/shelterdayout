@@ -11,7 +11,7 @@ For other domains the listed page, then the site's home and contact page are rea
 Writes data/phone_fill_report.json with what was filled and why others were left blank.
 Usage: python3 tools/phone_fill.py [STATE ...]"""
 import json, re, sys, ssl, time, glob, collections, threading
-import concurrent.futures as cf, urllib.request, urllib.robotparser
+import concurrent.futures as cf, urllib.request, urllib.error, urllib.robotparser
 from urllib.parse import urljoin, urlparse
 from html import unescape
 from pathlib import Path
@@ -46,8 +46,15 @@ def allowed(u):
     return rp.can_fetch(UA, u) and rp.can_fetch("*", u)
 
 
+_why = threading.local()
+
+
 def get(u):
-    if BLOCK.search(u) or not allowed(u):
+    _why.last = "page did not load"
+    if BLOCK.search(u):
+        return None
+    if not allowed(u):
+        _why.last = "robots.txt says no"
         return None
     with _hostlock[urlparse(u).netloc]:     # one request at a time per site, with a pause
         for ua in (UA_BROWSER,):
@@ -59,7 +66,11 @@ def get(u):
                     html = r.read(3_000_000).decode(r.headers.get_content_charset() or "utf-8", "ignore")
                     time.sleep(1)
                     return r.geturl(), html
-            except Exception:
+            except urllib.error.HTTPError as e:
+                _why.last = f"page did not load (HTTP {e.code})"
+                time.sleep(1)
+            except Exception as e:
+                _why.last = f"page did not load ({type(e).__name__})"
                 time.sleep(1)
     return None
 
@@ -153,7 +164,7 @@ def find_phone(url):
     host = urlparse(url).netloc.lower()
     gov = bool(GOV.search(host.split(":")[0]))
     pages, seen = [url], set()
-    total = collections.Counter(); labels = {}; why = "page did not load"
+    total = collections.Counter(); labels = {}; why = "page did not load"; first_fail = None
     while pages and len(seen) < 3:
         u = pages.pop(0)
         if u in seen:
@@ -161,6 +172,8 @@ def find_phone(url):
         seen.add(u)
         r = get(u)
         if not r:
+            if len(seen) == 1:
+                first_fail = _why.last
             continue
         final, html = r
         sc, lb = candidates(html)
@@ -187,7 +200,7 @@ def find_phone(url):
     num, why2 = pick(total)
     if num and why != "page did not load":
         return fmt(*re.match(r"\((\d+)\) (\d+)-(\d+)", num).groups(), labels.get(num)), "ok (combined pages): " + url
-    return None, why2 if why != "page did not load" else why
+    return None, why2 if why != "page did not load" else (first_fail or why)
 
 
 def main():
@@ -229,7 +242,7 @@ def main():
                 r["phone"] = num
                 report["filled"].append({"state": Path(f).stem, "org": r.get("org"), "phone": num, "from": why})
             else:
-                key = why.split(":")[0]
+                key = why.split(":")[0].split(" (")[0]
                 report["blank"][key] += 1
                 report["blank_detail"].append({"state": Path(f).stem, "org": r.get("org"), "url": u, "why": why})
             if n % 200 == 0:
