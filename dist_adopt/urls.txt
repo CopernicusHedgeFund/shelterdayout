@@ -266,6 +266,7 @@ https://shelteradoption.com/cities/nesbit-ms/
 https://shelteradoption.com/cities/new-castle-de/
 https://shelteradoption.com/cities/new-iberia-la/
 https://shelteradoption.com/cities/new-york-ny/
+https://shelteradoption.com/cities/newark-nj/
 https://shelteradoption.com/cities/newberg-or/
 https://shelteradoption.com/cities/newington-ct/
 https://shelteradoption.com/cities/newnan-ga/
@@ -401,6 +402,7 @@ https://shelteradoption.com/cities/vancouver-wa/
 https://shelteradoption.com/cities/victor-ny/
 https://shelteradoption.com/cities/virginia-beach-va/
 https://shelteradoption.com/cities/visalia-ca/
+https://shelteradoption.com/cities/voorhees-nj/
 https://shelteradoption.com/cities/wantagh-ny/
 https://shelteradoption.com/cities/warwick-ri/
 https://shelteradoption.com/cities/washington-dc/
@@ -515,6 +517,7 @@ https://shelteradoption.com/shelters/angels-of-assisi-roanoke/
 https://shelteradoption.com/shelters/angleton-animal-services-adoption-center-angleton/
 https://shelteradoption.com/shelters/ani-care-animal-shelter-ontario/
 https://shelteradoption.com/shelters/animal-adoption-center-jackson/
+https://shelteradoption.com/shelters/animal-adoption-center-lindenwold/
 https://shelteradoption.com/shelters/animal-aid-inc-oakland-park/
 https://shelteradoption.com/shelters/animal-aid-portland/
 https://shelteradoption.com/shelters/animal-alliance-of-nj-lambertville/
@@ -552,6 +555,8 @@ https://shelteradoption.com/shelters/animal-humane-society-coon-rapids-coon-rapi
 https://shelteradoption.com/shelters/animal-humane-society-golden-valley-golden-valley/
 https://shelteradoption.com/shelters/animal-humane-society-woodbury-woodbury/
 https://shelteradoption.com/shelters/animal-orphanage-old-town/
+https://shelteradoption.com/shelters/animal-orphanage-voorhees/
+https://shelteradoption.com/shelters/animal-outreach-of-cape-may-county-rio-grande/
 https://shelteradoption.com/shelters/animal-protection-center-of-southeastern-massachusetts-brockton/
 https://shelteradoption.com/shelters/animal-protection-society-friday-harbor-aps-fh-friday-harbor/
 https://shelteradoption.com/shelters/animal-protection-society-of-caswell-county-yanceyville/
@@ -1175,6 +1180,7 @@ https://shelteradoption.com/shelters/clifton-animal-shelter-clifton/
 https://shelteradoption.com/shelters/clinton-animal-shelter-clinton/
 https://shelteradoption.com/shelters/clinton-county-animal-shelter-st-johns/
 https://shelteradoption.com/shelters/clinton-county-spca-lock-haven/
+https://shelteradoption.com/shelters/closter-animal-welfare-society-claws-closter/
 https://shelteradoption.com/shelters/clover-s-cat-club-normal/
 https://shelteradoption.com/shelters/clovis-animal-shelter-city-of-clovis-animal-control-clovis/
 https://shelteradoption.com/shelters/coachella-valley-animal-campus-riverside-county-dept-of-animal-services-thousand-palms/
@@ -1811,6 +1817,7 @@ https://shelteradoption.com/shelters/homeward-pet-adoption-center-woodinville/
 https://shelteradoption.com/shelters/hood-county-animal-control-granbury/
 https://shelteradoption.com/shelters/hood-river-adopt-a-dog-hood-river/
 https://shelteradoption.com/shelters/hopatcong-animal-shelter-hopatcong/
+https://shelteradoption.com/shelters/hope-4-paws-humane-society-formerly-plainfield-area-humane-society-plainfield/
 https://shelteradoption.com/shelters/hope-animal-shelter-help-orphaned-pets-everywhere-ironwood/
 https://shelteradoption.com/shelters/hopewell-animal-services-unit-city-of-hopewell-animal-shelter-hopewell/
 https://shelteradoption.com/shelters/hopkins-county-humane-society-madisonville/
@@ -1827,6 +1834,7 @@ https://shelteradoption.com/shelters/howard-county-animal-control-and-adoption-c
 https://shelteradoption.com/shelters/hsnt-keller-regional-adoption-center-regional-animal-adoption-center-keller/
 https://shelteradoption.com/shelters/huachuca-city-animal-shelter-huachuca-city/
 https://shelteradoption.com/shelters/hub-city-humane-society-hattiesburg/
+https://shelteradoption.com/shelters/hudson-county-animal-league-hcal-bayonne/
 https://shelteradoption.com/shelters/hudson-valley-animal-rescue-and-sanctuary-hvars-poughkeepsie/
 https://shelteradoption.com/shelters/hudson-valley-humane-society-pomona/
 https://shelteradoption.com/shelters/hudson-valley-spca-goshen-goshen/
@@ -1861,6 +1869,7 @@ https://shelteradoption.com/shelters/humane-society-for-southwest-washington-van
 https://shelteradoption.com/shelters/humane-society-of-adams-county-west-union/
 https://shelteradoption.com/shelters/humane-society-of-amherst-county-amherst-county-adoption-center-amherst/
 https://shelteradoption.com/shelters/humane-society-of-atchison-atchison/
+https://shelteradoption.com/shelters/humane-society-of-atlantic-county-atlantic-city/
 https://shelteradoption.com/shelters/humane-society-of-barron-county-barron/
 https://shelteradoption.com/shelters/humane-society-of-bay-county-bay-city/
 https://shelteradoption.com/shelters/humane-society-of-bay-county-panama-city/
@@ -2661,7 +2670,7 @@ https://shelteradoption.com/shelters/newtown-animal-care-and-control-silverlieb-
 https://shelteradoption.com/shelters/niagara-spca-niagara-county-spca-niagara-falls/
 https://shelteradoption.com/shelters/nicholas-co-animal-shelter-summersville/
 https://shelteradoption.com/shelters/nine-lives-foundation-redwood-city/
-https://shelteradoption.com/shelters/nj-humane-society-west-new-york/
+https://shelteradoption.com/shelters/nj-humane-society-newark/
 https://shelteradoption.com/shelters/noah-project-muskegon/
 https://shelteradoption.com/shelters/noah-s-ark-animal-sanctuary-rockford/
 https://shelteradoption.com/shelters/noah-s-ark-animal-shelter-carlsbad/
@@ -2953,7 +2962,6 @@ https://shelteradoption.com/shelters/placer-county-animal-services-center-auburn
 https://shelteradoption.com/shelters/placer-spca-adoption-and-education-center-roseville/
 https://shelteradoption.com/shelters/placer-spca-pet-adoption-and-resource-center-auburn/
 https://shelteradoption.com/shelters/plainfield-animal-control-moosup/
-https://shelteradoption.com/shelters/plainfield-area-humane-society-plainfield/
 https://shelteradoption.com/shelters/plano-animal-shelter-and-services-plano/
 https://shelteradoption.com/shelters/plattsmouth-animal-shelter-happy-paws-plattsmouth/
 https://shelteradoption.com/shelters/pleasants-county-humane-society-st-marys/
@@ -3154,6 +3162,7 @@ https://shelteradoption.com/shelters/salt-lake-county-animal-services-murray-mur
 https://shelteradoption.com/shelters/salt-lake-county-animal-services-salt-lake-city/
 https://shelteradoption.com/shelters/sam-b-coffey-animal-shelter-city-of-junction-animal-shelter-junction/
 https://shelteradoption.com/shelters/sammie-s-friends-nevada-county-animal-shelter-grass-valley/
+https://shelteradoption.com/shelters/sammy-s-hope-animal-welfare-and-adoption-center-sayreville/
 https://shelteradoption.com/shelters/sampson-county-animal-shelter-clinton/
 https://shelteradoption.com/shelters/san-angelo-animal-services-and-shelter-san-angelo/
 https://shelteradoption.com/shelters/san-antonio-animal-care-services-san-antonio/
@@ -3313,6 +3322,7 @@ https://shelteradoption.com/shelters/souris-valley-animal-shelter-minot/
 https://shelteradoption.com/shelters/south-bend-animal-resource-center-south-bend/
 https://shelteradoption.com/shelters/south-county-animal-rescue-king-city/
 https://shelteradoption.com/shelters/south-euclid-humane-society-south-euclid/
+https://shelteradoption.com/shelters/south-jersey-regional-animal-shelter-cumberland-county-spca-vineland/
 https://shelteradoption.com/shelters/south-jordan-animal-shelter-south-jordan/
 https://shelteradoption.com/shelters/south-kingstown-animal-shelter-wakefield/
 https://shelteradoption.com/shelters/south-ogden-city-animal-shelter-south-ogden/
@@ -3537,6 +3547,7 @@ https://shelteradoption.com/shelters/the-messenger-animal-rescue-harrington/
 https://shelteradoption.com/shelters/the-noah-center-northwest-organization-for-animal-help-stanwood/
 https://shelteradoption.com/shelters/the-ohio-pet-sanctuary-cincinnati/
 https://shelteradoption.com/shelters/the-pawsitive-cafe-pawsitive-cat-rescue-rochester/
+https://shelteradoption.com/shelters/the-pet-adoption-league-hackettstown/
 https://shelteradoption.com/shelters/the-pet-place-humane-society-of-harrison-county-marshall/
 https://shelteradoption.com/shelters/the-pixie-project-portland/
 https://shelteradoption.com/shelters/the-pretty-paw-lounge-pretty-paw-rescue-rotterdam/
