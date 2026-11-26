@@ -8,7 +8,7 @@
   "animals": "Dogs",
   "offers": "Day trip, 7 days a week",
   "url": "https://www.miamidade.gov/global/news-item.page?Mduid_news=news1697285264502801",
-  "notes": "Take an adoptable dog out for the day (park, dog beach, coffee shop, boat). Shelter is the Pet Adoption and Protection Center, 3599 NW 79 Ave, Doral; participants must be 18+.",
+  "notes": "Take an adoptable dog out for the day (park, dog beach, coffee shop, boat), 7 days a week by appointment via 311 Direct or by calling 311. Participants 18+ with government photo ID showing current address. Pick-up Mon-Fri 10am-noon, Sat-Sun 9-10am; return by 5pm weekdays, 3pm weekends. No fee mentioned. Shelter: Pet Adoption and Protection Center, 3599 NW 79 Ave, Doral.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -66,11 +66,11 @@
   "program": "Broward Buddies",
   "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Outings, sleepovers",
+  "offers": "Off-site dog outings ('dates'); sleepovers/weekends with coordinator approval",
   "url": "https://www.broward.org/Animal/ProgramsServices/Pages/browardbuddies.aspx",
-  "notes": "For approved volunteer fosters. Foster Coordinator: 954-299-7224. Program page could not be re-fetched this run. Adoption Center at 2400 SW 42nd St, Fort Lauderdale, open daily 11am-6pm; adoptions currently at no cost.",
+  "notes": "For approved volunteer fosters: schedule outings via the shelter's online scheduler; Foster Coordinator picks a fully vetted 'Green Dot' dog. Short leash only, no dog parks or flexi-leashes, no dog-dog contact. Overnights/weekends need Foster Coordinator approval. Coordinator 954-299-7224 / 954-359-1313 x7093. Adoption Center at 2400 SW 42nd St, Fort Lauderdale.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "BrowardBuddies@Broward.org",
   "email_main": "",
   "source_list": "shelter website"
  },
@@ -83,7 +83,7 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://pbhsnaples.org/recess/",
-  "notes": "Reservations required (no walk-ins). Pickup Tue-Fri 9am-2:30pm, Sat-Sun 9am-noon; back by 3:30pm. Under 18 with an adult. 239-643-1555.",
+  "notes": "Take an adoptable dog on an outing; Tue-Sun (pickups Tue-Fri 9am-2:30pm, Sat-Sun 9am-12pm, return by 3:30pm); reservation required via online calendar (calendly.com/humanesocietynaples/rescue-recess), no walk-ins; under 18 with parent/guardian. Staff pick the dog; supplies provided. Main shelter 370 Airport-Pulling Rd N, Naples. Formerly Humane Society Naples.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -130,15 +130,15 @@
   "state": "FL",
   "city": "Royal Palm Beach",
   "org": "Justin Bartlett Animal Rescue",
-  "program": "Day outings",
-  "status": "Needs check",
+  "program": "Doggy-Day-Date Out",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://www.justinbartlettanimalrescue.org/",
-  "notes": "Could not reach the rescue's own website this run; day-outing program unverified.",
+  "offers": "Day trip (an hour, an afternoon or a full day)",
+  "url": "https://justinbartlettanimalrescue.org/service/foster/",
+  "notes": "Take an adoptable dog out to the beach, a park or a cafe; photos help them get adopted. Apply via the doggy-day-date application (Shelterluv form linked on the page). Shelter at 10405 Southern Blvd, Royal Palm Beach, open to the public 11am-5pm daily; second site in Loxahatchee. Age/cost not stated.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@justinbartlett.org",
   "source_list": "shelter website"
  },
  {
@@ -146,15 +146,23 @@
   "city": "Bradenton",
   "org": "Humane Society of Manatee County",
   "program": "Sleepover Program",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Sleepover, up to 4 nights",
+  "offers": "Overnight sleepover (up to 4 nights)",
   "url": "https://humanemanatee.org/shelter/sleepover-program/",
-  "notes": "Trial short-term foster for potential adopters. Dogs and cats 6 months and older, up to 4 nights/5 days. Dogs leashed outside, no dog parks; cats stay indoors. Page does not state booking process; ask Adoption Center (941-747-8808 x313, Tue-Sat 10am-4pm).",
+  "notes": "Short-term foster sleepover for potential adopters; dogs and cats 6 months+; max four nights/five days; dogs leashed outside, no dog parks; cats indoors only. Contact HSMC / foster page to arrange.",
   "checked": "November 2026",
   "email_program": "sheltermanager@humanemanatee.org",
   "email_main": "info@humanemanatee.org",
-  "source_list": ""
+  "source_list": "",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Dog Adoptions!",
+    "url": "https://humanemanatee.org/schedule/dog-adoptions/",
+    "place": "5000 Fruitville Rd., Sarasota"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -175,18 +183,55 @@
   "state": "FL",
   "city": "Englewood",
   "org": "Suncoast Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.humane.org/",
-  "notes": "",
+  "program": "Doggy Day Out / Weekend Warrior",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip; weekend foster",
+  "url": "https://humane.org/foster-care-program/#doggy-day-out",
+  "notes": "Doggy Day Out: take a shelter dog for a walk, home visit or pup cup, Tue-Sun 10:30-5:30; apply via the Doggy Day Out application (Shelterluv) on the page or call (941) 474-7887 x413. Weekend Warrior: take a dog home for a weekend (can start Wednesday). Shelter at 2620 Worth Ave, Englewood.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@humane.org",
   "email_main": "information@humane.org",
   "phone": "+1-941-474-7884",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/2759371154"
+  "osm": "node/2759371154",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Black Friday Open House",
+    "url": "https://www.humane.org/"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "S. Venice Pet Supermarket Adoption Event",
+    "url": "https://humane.org/events/s-venice-pet-supermarket-adoption-event-3/",
+    "place": "Pet Supermarket, South Venice"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Venice Petco Adoption Event",
+    "url": "https://humane.org/events/venice-petco-adoption-event-3/",
+    "place": "Petco, Venice"
+   },
+   {
+    "date": "2026-12-11",
+    "title": "Companion Meadow Adoption Event",
+    "url": "https://humane.org/events/companion-meadow-adoption-event/",
+    "place": "Companion Meadow"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "N. Venice Pet Supermarket Adoption Event",
+    "url": "https://humane.org/events/n-venice-pet-supermarket-adoption-event-4/",
+    "place": "Pet Supermarket, North Venice"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "S. Venice Pet Supermarket Adoption Event",
+    "url": "https://humane.org/events/s-venice-pet-supermarket-adoption-event-4/",
+    "place": "Pet Supermarket, South Venice"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -269,17 +314,24 @@
   "city": "North Miami Beach",
   "org": "Humane Society of Greater Miami",
   "program": "Bark Around Town",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Possible dog outing program (unconfirmed)",
-  "url": "https://www.humanesocietymiami.org/about/",
-  "notes": "'Bark Around Town' is listed in the site menu but no details could be confirmed this run. Adoption center: Soffer and Fine Adoption Center, 16101 W Dixie Hwy, North Miami Beach; adoptions Tue-Sun 12-6:30pm.",
+  "offers": "Day trip (one-day foster)",
+  "url": "https://www.humanesocietymiami.org/bark-around-town/",
+  "notes": "One-day foster outing with a long-term shelter dog; same-day return. Adults 18+ who can transport the dog. Sign-up: complete the Bark Around Town questionnaire, contact the Foster Care team, then schedule via Volgistics account. Questions: 305-255-4032. Adoption center: 16101 W Dixie Hwy, North Miami Beach; adoptions Tue-Sun 12-6:30pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "+1-305-696-0800",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/10738321328"
+  "source_list": "shelter website",
+  "osm": "node/10738321328",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Rescue Wonderland holiday market (meet adoptable dogs)",
+    "url": "https://www.humanesocietymiami.org/rescuewonderland"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -341,46 +393,62 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.hstc1.org/",
-  "notes": "",
+  "notes": "Shelter at 4100 SW Leighton Farm Ave, Palm City; Martin County's main shelter. No day-out program found on site.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "admin@hstc1.org",
   "phone": "+1-772-223-8822",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/350411473"
+  "source_list": "shelter website",
+  "osm": "way/350411473",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-23",
+    "title": "Home for the Holidays - $25 adoptions for all pets",
+    "url": "https://hstc1.org/Home-for-the-Holidays"
+   }
+  ]
  },
  {
   "state": "FL",
-  "city": "Winter Beach",
+  "city": "Vero Beach",
   "org": "Humane Society of Vero Beach & Indian River County",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://hsvb.org/",
+  "notes": "Shelter at 6230 77th Street, Vero Beach (Winter Beach area); serves as Indian River County's main shelter. No day-out program found on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/367452057"
+  "source_list": "shelter website",
+  "osm": "way/367452057",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Bissell Pet Foundation's Empty the Shelters Holiday Hope Adoption Event",
+    "url": "https://hsvb.org/event/bissell-pet-foundations-empty-the-shelter-holiday-hope-adoption-event/"
+   }
+  ]
  },
  {
   "state": "FL",
   "city": "Sebastian",
-  "org": "H.A.L.O Shelter",
+  "org": "H.A.L.O. No-Kill Rescue",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://halorescuefl.org/",
+  "notes": "No-kill shelter at 710 Jackson St., Sebastian. No day-out program found on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
+  "source_list": "shelter website",
   "osm": "way/470810249"
  },
  {
@@ -521,12 +589,12 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.bdrr.org/",
-  "notes": "",
+  "notes": "Dog shelter at 14444 Okeechobee Blvd, Loxahatchee Groves; open daily 10am-5pm. No day-out program found on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "saveadog@bdrr.org",
   "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
+  "source_list": "shelter website",
   "osm": "way/714199318"
  },
  {
@@ -572,12 +640,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.peggyadams.org/",
-  "notes": "",
+  "notes": "Shelter at 3200 N. Military Trail, West Palm Beach. No day-out program; offers Foster to Adopt (up to 14-day trial). Black FURiday 2026-11-27: all adoption fees waived (already listed).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptions@peggyadams.org",
   "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
+  "source_list": "shelter website",
   "osm": "way/1209875672",
   "events": [
    {
@@ -599,7 +667,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "info@gulfcoasthumanesociety.org",
+  "email_main": "adoptiondesk@gulfcoasthumanesociety.org",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1229961582"
@@ -1039,7 +1107,7 @@
   "program": "No day-out program yet",
   "status": "No program yet",
   "offers": "",
-  "notes": "",
+  "notes": "No-kill cat shelter (~200 cats housed in rooms), 10060 Mallory E Pkwy Unit D, St. James City; adoption hours 5-7pm, closed Mon & Wed. Despite the name it is an adopting cat shelter, not a wildlife sanctuary.",
   "email_program": ""
  },
  {
@@ -1693,5 +1761,341 @@
   "email_program": "",
   "email_main": "info@suncoastanimalleague.org",
   "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Sarasota",
+  "org": "Sarasota County Sheriff's Office Animal Services",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://sarasotasheriff.org/programs_and_amp_services/animal_services/volunteer_foster_adopt.php",
+  "notes": "Shelter at 6010 Cattleridge Blvd, Sarasota; south county office at 4531 Annex Rd, Venice.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "adoptions@sarasotasheriff.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Sarasota",
+  "org": "Humane Society of Sarasota County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.hssc.org/",
+  "notes": "2331 15th Street, Sarasota.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Sarasota",
+  "org": "Cat Depot",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://catdepot.org/",
+  "notes": "Cat-only adoption center, 2542 17th St, Sarasota; open daily 10am-6pm.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@catdepot.org",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-03",
+    "title": "Holiday Open House (RSVP required)",
+    "url": "https://catdepot.harnessgiving.org/events/4238"
+   }
+  ]
+ },
+ {
+  "state": "FL",
+  "city": "Venice",
+  "org": "St. Francis Animal Rescue of Venice",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.sfarvenice.org/",
+  "notes": "Adoption site at 1925 S. Tamiami Trail, Venice.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "sfarvenice@gmail.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Port Charlotte",
+  "org": "Animal Welfare League of Charlotte County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.awlshelter.org/",
+  "notes": "3519 Drance St., Port Charlotte; contracted shelter for Charlotte County (county Animal Control does not run its own adoption shelter).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Naples",
+  "org": "Collier County Domestic Animal Services",
+  "program": "Purr & Play",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Free cat lounge visits with adoptable cats",
+  "url": "https://www.collier.gov/Resident-Resources/Domestic-Animal-Services/Purr-and-Play",
+  "notes": "Free cat lounge at North Collier Regional Park Exhibit Hall, 15000 Livingston Rd, Naples; Wed-Sun 9am-4pm; reservations recommended (bit.ly/purrandplay), walk-ins as space permits. Main shelter: 7610 Davis Blvd, Naples (adopt page https://www.collier.gov/Resident-Resources/Domestic-Animal-Services/Adopt-a-Pet).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "DL-DAS-Ops@Collier.gov",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Bradenton",
+  "org": "Nate's Honor Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://nateshonoranimalrescue.org/",
+  "notes": "Ranch Adoption Center, 4951 Lorraine Road, Bradenton; Wed-Sun.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@honoranimalrescue.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Port St. Lucie",
+  "org": "Humane Society of St. Lucie County",
+  "program": "Doggy Day Out",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://hsslc.org/doggy-day-out/",
+  "notes": "Take a shelter dog out for the day (nature trails, beaches, pup-cup drive-thru); kit with water bowl, bags and treats provided. Site says no sign-up required - just stop by (an online sign-up form is also linked). Shelter at 8890 Glades Cut Off Rd; open Tue-Sat 11am-5pm. Dog parks and pet stores not allowed. Main site https://hsslc.org/",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Fort Pierce",
+  "org": "St. Lucie County Animal Safety, Services & Protection",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://stlucieco.gov/departments-and-services/public-safety/pet-adoption",
+  "notes": "County Animal Safety Division shelter, 3404 W. Midway Rd, Fort Pierce. Adoptions on set dates or by appointment (772-462-8120).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Fort Pierce",
+  "org": "Fort Pierce Animal Adoption Center (City of Fort Pierce)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://fl-fortpierce.civicplus.com/1053/fort-pierce-animal-adoption-center",
+  "notes": "City adoption center at 100 Savannah Rd, Fort Pierce; phone 772-242-1662.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "adoptioncenter@cityoffortpierce.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Okeechobee",
+  "org": "Okeechobee County Sheriff's Office Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://okeesheriff.org/animalcontrol",
+  "notes": "Sheriff-run county animal control shelter, 1480 NW 25th Dr, Okeechobee. Mon-Fri 8am-5pm; adoption fees $50 cats, $75 dogs. Adoptable pets listed on Adopt-a-Pet.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "Animalcontrol@okeesheriff.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Boca Raton",
+  "org": "Tri-County Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://tricountyanimalrescue.org/",
+  "notes": "No-kill shelter at 21287 Boca Rio Rd, Boca Raton; phone 561-482-8110. No day-out program found on site. Upcoming Dec 2026 events (Bark, Bling and Brunch; Santa Paws) are fundraisers, not adoption events.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Key West",
+  "org": "Florida Keys SPCA - Key West Campus",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://fkspca.org/adopt/",
+  "notes": "Key West campus, 5711 College Rd. Fee-waiver programs (6/60 for adopters 60+, Golden Paw seniors, Good Dog Club) but no day-out program.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@fkspca.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Marathon",
+  "org": "Florida Keys SPCA - Marathon Campus",
+  "program": "Taking Dogs Offsite (volunteer role)",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Off-site dog outings by volunteers",
+  "url": "https://fkspca.org/volunteer/how-to-volunteer/",
+  "notes": "Marathon campus, 10550 Aviation Blvd. 'Taking Dogs Offsite' is listed as a volunteer position; volunteers must be 18+, pass a background check, $30 admin fee. No public day-out program.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@fkspca.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Key Largo",
+  "org": "Upper Keys Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://ukhsociety.org/",
+  "notes": "No-kill shelter at MM 101.6 (101617 Overseas Hwy), Key Largo; closed to public Mon-Tue. No day-out program or dated events on site.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Fort Lauderdale",
+  "org": "Humane Society of Broward County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://humanebroward.com/",
+  "notes": "2070 Griffin Road, Fort Lauderdale. Ongoing adoption specials (Senior Scholarships for 60+, Dolly's Dream, Diamond in the Ruff). No day-out program found; foster programs are long-term only.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Black Furrday adoption event",
+    "url": "https://humanebroward.com/events/"
+   }
+  ]
+ },
+ {
+  "state": "FL",
+  "city": "Fort Lauderdale",
+  "org": "Abandoned Pet Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.abandonedpetrescue.org/",
+  "notes": "No-kill shelter for cats and dogs at 1137 NE 9th Ave, Fort Lauderdale; open 7 days 12-5pm. No day-out program or dated adoption events listed.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@abandonedpetrescue.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Oakland Park",
+  "org": "Animal Aid, Inc.",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.animal-aid.com/",
+  "notes": "Recovery and adoption center at 571 NE 44th St, Oakland Park; adoptions by appointment with approved application. No day-out program listed.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "AnimalAidInc@aol.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Miami",
+  "org": "PAWS4you Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.paws4you.org/",
+  "notes": "Rescue Retreat at 8717 SW 134th St, Miami (open by appointment and for events). Approved applicants with an appointment can take a pet home at events. No day-out program found.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Adoption event at PetSmart at The Falls",
+    "url": "https://www.paws4you.org/events/",
+    "place": "PetSmart at The Falls, 13621 S Dixie Hwy, Miami"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Monthly Adoption Open House",
+    "url": "https://www.paws4you.org/events/"
+   },
+   {
+    "date": "2026-12-06",
+    "title": "Adoption event at Petco Kendall",
+    "url": "https://www.paws4you.org/events/",
+    "place": "Petco Kendall, 12014 SW 88th St, Miami"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Adoption event at PetSmart at The Falls",
+    "url": "https://www.paws4you.org/events/",
+    "place": "PetSmart at The Falls, 13621 S Dixie Hwy, Miami"
+   },
+   {
+    "date": "2026-12-20",
+    "title": "Adoption event at Pet Supermarket Kendall",
+    "url": "https://www.paws4you.org/events/",
+    "place": "Pet Supermarket, 9003 SW 107th Ave, Miami"
+   },
+   {
+    "date": "2026-12-27",
+    "title": "Adoption event at PetSmart Kendall",
+    "url": "https://www.paws4you.org/events/",
+    "place": "PetSmart Kendall, 14025 SW 88th St, Miami"
+   }
+  ]
  }
 ]
