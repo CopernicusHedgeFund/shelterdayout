@@ -6,9 +6,9 @@
   "program": "Dog Field Trip Program",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip; short-term holiday foster",
+  "offers": "Friday day trips",
   "url": "https://www.humanerescuealliance.org/field-trip-program",
-  "notes": "Fridays, for volunteers and the public. Pickup 9:30am-noon, drop-off ideally by 4pm (no later than 6pm). Handlers 18+. Sign up via the button on the page. Since Jan 1, 2025 DC animal control/sheltering moved to Brandywine Valley SPCA; HRA keeps humane law enforcement. HRA also runs a short-term Thanksgiving foster program (2-3 days).",
+  "notes": "Fridays, open to volunteers and the public: pickup 9:30am-noon, return ideally by 4pm (no later than 6pm); handlers 18+, dog on leash, no dog parks. Sign up via the button on the page. Adoption center at 71 Oglethorpe St NW (open 12-7pm daily, 202-723-5730); since Jan 2025 DC animal control is run by Brandywine Valley SPCA.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -19,29 +19,62 @@
   "city": "Washington",
   "org": "Brandywine Valley SPCA - DC Village Shelter",
   "program": "Shelter Skip Day",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Outings from 1 hour to a full day",
   "url": "https://bvspca.org/shelter-skip-day",
-  "notes": "BVSPCA (DC Health's animal care contractor since Jan 2025) lists Shelter Skip Day as a service at this location; DC-specific rules not shown. Hours Tue-Fri 12-7, Sat-Sun 11-5. Phone (202) 888-PETS.",
+  "notes": "No registration or training needed: stop by during pickup hours (Tue-Fri 12-4pm, Sat-Sun 11-2pm), pick a dog from the available list, and return it 1 hour before closing that day; dog wears Adopt Me vest and harness. BVSPCA's Skip Day page lists DC Village and Ivy City as participating campuses. Shelter at 4 DC Village Lane SW, open Tue-Fri 12-7, Sat-Sun 11-5; (202) 888-PETS.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dcinfo@bvspca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event",
+    "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026",
+    "place": "All BVSPCA locations and participating partners (see megaadopt.com/locations)"
+   }
+  ]
  },
  {
   "state": "DC",
   "city": "Washington",
   "org": "Brandywine Valley SPCA - Ivy City Adoption Center",
   "program": "Shelter Skip Day",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Outings from 1 hour to a full day",
   "url": "https://bvspca.org/shelter-skip-day",
-  "notes": "1516 Okie St NE. BVSPCA (DC Health's animal care contractor since Jan 2025) lists Shelter Skip Day as a service at this location; DC-specific rules not shown. Hours Tue-Fri 12-7, Sat-Sun 11-5. Phone (202) 888-PETS.",
+  "notes": "No registration or training needed: stop by during pickup hours (Tue-Fri 12-4pm, Sat-Sun 11-2pm), pick a dog from the available list, and return it 1 hour before closing that day; dog wears Adopt Me vest and harness. BVSPCA's Skip Day page lists DC Village and Ivy City as participating campuses. Adoption center at 1516 Okie St NE, open Tue-Fri 12-7, Sat-Sun 11-5; (202) 888-PETS.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dcinfo@bvspca.org",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event",
+    "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026",
+    "place": "All BVSPCA locations and participating partners (see megaadopt.com/locations)"
+   }
+  ]
+ },
+ {
+  "state": "DC",
+  "city": "Washington",
+  "org": "Crumbs & Whiskers DC (cat cafe)",
+  "program": "Cat cafe visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Timed cat lounge visits with adoptable cats",
+  "url": "https://crumbsandwhiskers.com/appointments-dc",
+  "notes": "For-profit cat cafe at 3109 M St NW (Georgetown) that houses 25+ adoptable rescue cats; book a ticketed visit online. Adoptions are handled by partner rescue Homeward Trails (fee about $180-200 for one cat).",
+  "checked": "November 2026",
+  "email_program": "thekittenlounge@crumbsandwhiskers.com",
+  "email_main": "thekittenlounge@crumbsandwhiskers.com",
   "source_list": "shelter website"
  }
 ]
