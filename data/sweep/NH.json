@@ -20,7 +20,7 @@
   "city": "Stratham",
   "org": "New Hampshire SPCA",
   "url": "https://nhspca.org/",
-  "phone": "",
+  "phone": "(603) 772-2921",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1161112189",
   "state": "NH",
@@ -100,7 +100,8 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": "info@pmspca.org"
+  "email_main": "info@pmspca.org",
+  "phone": "(603) 856-8756"
  },
  {
   "city": "Nashua",
@@ -115,13 +116,14 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(603) 889-2275"
  },
  {
   "city": "Swanzey",
   "org": "Monadnock Humane Society",
   "url": "https://monadnockhumanesociety.org/",
-  "phone": "",
+  "phone": "(603) 352-9011",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1550029682",
   "state": "NH",
@@ -164,7 +166,8 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": "info@uvhs.org"
+  "email_main": "info@uvhs.org",
+  "phone": "(603) 448-6888"
  },
  {
   "city": "Laconia",
@@ -179,7 +182,8 @@
   "offers": "Day trip",
   "notes": "Approved volunteers take a shelter dog out for a short outing (walk, hike or drive for a pup cup), typically up to a couple of hours; contact Programs@NHHumane.org.",
   "email_program": "Programs@NHHumane.org",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(603) 524-3252"
  },
  {
   "city": "Salem",
@@ -194,7 +198,8 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(603) 893-3210"
  },
  {
   "city": "Manchester",
@@ -226,7 +231,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lrhs.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(603) 539-1077"
  },
  {
   "state": "NH",
@@ -241,7 +247,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@conwayhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(603) 447-5955"
  },
  {
   "state": "NH",
@@ -256,7 +263,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(603) 259-3244"
  },
  {
   "state": "NH",
@@ -271,7 +279,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "frontdesk@darbster.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(603) 635-4495"
  },
  {
   "state": "NH",
@@ -286,7 +295,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(603) 635-4495"
  },
  {
   "state": "NH",
@@ -316,7 +326,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(603) 608-3374"
  },
  {
   "state": "NH",
@@ -360,7 +371,8 @@
     "url": "https://arnne.org/pet-adoption-days/",
     "place": "Pelham, NH"
    }
-  ]
+  ],
+  "phone": "(603) 233-4801"
  },
  {
   "state": "NH",
@@ -375,7 +387,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "maureen@pettailsrescue.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(603) 942-8905"
  },
  {
   "state": "NH",

@@ -11,7 +11,8 @@
   "notes": "Program page describes taking a shelter dog out (hiking, pup cup, movie at home) and links a liability waiver, but gives no sign-up rules; call (307) 587-5110 for details.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(307) 587-5110"
  },
  {
   "state": "WY",
@@ -60,7 +61,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(307) 872-0500",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/156839832"
  },
@@ -146,7 +147,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "bdar@bdar.org",
-  "phone": "",
+  "phone": "(307) 514-4024",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1102240296"
  },
@@ -180,7 +181,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(307) 334-3612",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1273151342"
  },
@@ -212,7 +213,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontroldivision@cityoflaramie.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 721-5200"
  },
  {
   "state": "WY",
@@ -258,7 +260,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adopt@animaladoptioncenter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 739-1881"
  },
  {
   "state": "WY",
@@ -273,7 +276,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@landerpets.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 330-5200"
  },
  {
   "state": "WY",
@@ -288,7 +292,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@kindnessranch.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 735-4177"
  },
  {
   "state": "WY",
@@ -303,7 +308,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 783-6471"
  },
  {
   "state": "WY",
@@ -333,7 +339,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 733-3932"
  },
  {
   "state": "WY",
@@ -348,7 +355,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 358-6475"
  },
  {
   "state": "WY",
@@ -363,7 +371,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(307) 684-1738"
  },
  {
   "state": "WY",

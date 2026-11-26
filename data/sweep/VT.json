@@ -54,7 +54,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(802) 473-3377",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1074307766"
  },
@@ -103,7 +103,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@centralvermonthumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 476-3811"
  },
  {
   "state": "VT",
@@ -118,7 +119,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@fcarpets.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 524-9650"
  },
  {
   "state": "VT",
@@ -133,7 +135,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@windhamcountyhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 254-2232"
  },
  {
   "state": "VT",
@@ -148,7 +151,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 375-2898"
  },
  {
   "state": "VT",
@@ -178,7 +182,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 888-5065"
  },
  {
   "state": "VT",
@@ -193,7 +198,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animals@fasv.comcastbiz.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 754-2228"
  },
  {
   "state": "VT",
@@ -208,6 +214,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 892-5300"
  }
 ]

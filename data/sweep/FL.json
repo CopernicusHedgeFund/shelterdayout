@@ -653,7 +653,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@cityoflynnhaven.com",
-  "phone": "",
+  "phone": "(850) 265-4699",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1074636521"
  },
@@ -836,7 +836,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lakecityhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 752-3191"
  },
  {
   "state": "FL",
@@ -1128,7 +1129,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalControl@polksheriff.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(863) 577-1762"
  },
  {
   "state": "FL",
@@ -1175,7 +1177,8 @@
   "status": "No program yet",
   "offers": "",
   "notes": "No-kill cat shelter (~200 cats housed in rooms), 10060 Mallory E Pkwy Unit D, St. James City; adoption hours 5-7pm, closed Mon & Wed. Despite the name it is an adopting cat shelter, not a wildlife sanctuary.",
-  "email_program": ""
+  "email_program": "",
+  "phone": "(239) 283-9100"
  },
  {
   "state": "FL",
@@ -1326,7 +1329,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@sjbhumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 227-1103"
  },
  {
   "state": "FL",
@@ -1502,7 +1506,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 498-1224"
  },
  {
   "state": "FL",
@@ -1620,7 +1625,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "humanelake@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 589-7400"
  },
  {
   "state": "FL",
@@ -1670,7 +1676,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@petrescuebyjudy.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(407) 302-4497"
  },
  {
   "state": "FL",
@@ -1827,7 +1834,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@mypasco.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(727) 847-2411"
  },
  {
   "state": "FL",
@@ -1857,7 +1865,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 796-2711"
  },
  {
   "state": "FL",
@@ -1872,7 +1881,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@suncoastanimalleague.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(727) 786-1330"
  },
  {
   "state": "FL",
@@ -1942,7 +1952,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "sfarvenice@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(941) 492-6200"
  },
  {
   "state": "FL",
@@ -2051,7 +2062,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Animalcontrol@okeesheriff.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(863) 357-3225"
  },
  {
   "state": "FL",
@@ -2135,7 +2147,8 @@
     "title": "Black Furrday adoption event",
     "url": "https://humanebroward.com/events/"
    }
-  ]
+  ],
+  "phone": "(954) 989-3977"
  },
  {
   "state": "FL",
@@ -2150,7 +2163,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@abandonedpetrescue.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(954) 728-9010"
  },
  {
   "state": "FL",

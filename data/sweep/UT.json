@@ -11,7 +11,8 @@
   "notes": "Walk in Monday-Thursday 11am-4pm (no appointment); adults 18+ with a valid driver's license and their own enclosed vehicle sign a waiver at the adoptions desk. Trips last up to 2 hours, four dogs per day, approved destinations only. A separate Slumber Party Weekend (Fri-Mon foster for dogs awaiting surgery) needs an approved foster interest form; the events calendar also lists a Home for the Holidays Christmas foster (pick up Dec. 23, return Dec. 26, 2026).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(801) 261-2919"
  },
  {
   "state": "UT",
@@ -25,7 +26,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(435) 792-3920"
  },
  {
   "state": "UT",
@@ -53,7 +55,8 @@
   "notes": "Registered fosters and volunteers can take a shelter dog on a field trip (walks, hikes, car rides, self-serve baths, pup cups, short shopping trips). All field trips must be scheduled in advance through the foster team.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(385) 468-7387"
  },
  {
   "state": "UT",
@@ -68,7 +71,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(435) 627-4350",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/1871821238"
  },
@@ -119,7 +122,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(801) 840-4000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/11905454652"
  },
@@ -136,7 +139,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(801) 317-8643",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12789368167"
  },
@@ -187,7 +190,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@webercountyutah.gov",
-  "phone": "",
+  "phone": "(801) 399-8244",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/46325099"
  },
@@ -279,7 +282,7 @@
   "checked": "November 2026",
   "email_program": "DoggyDaycationSchedule@wvc-ut.gov",
   "email_main": "",
-  "phone": "",
+  "phone": "(801) 966-3600",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/589092723"
  },
@@ -381,7 +384,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(435) 636-3747",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1510420362"
  },
@@ -398,7 +401,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@draperutah.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(801) 576-6500"
  },
  {
   "state": "UT",
@@ -413,7 +417,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(801) 568-7100"
  },
  {
   "state": "UT",
@@ -428,7 +433,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(435) 623-0822"
  },
  {
   "state": "UT",
@@ -443,7 +449,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(801) 483-6024"
  },
  {
   "state": "UT",
@@ -458,7 +465,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "communityservices@herrimanpd.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(801) 758-0080"
  },
  {
   "state": "UT",
@@ -488,7 +496,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@utahpetadoptions.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(801) 590-8999"
  },
  {
   "state": "UT",
@@ -503,7 +512,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(801) 622-2700"
  },
  {
   "state": "UT",

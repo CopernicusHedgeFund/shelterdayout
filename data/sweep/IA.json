@@ -72,7 +72,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@dbqhumane.org",
-  "phone": "",
+  "phone": "(563) 582-6766",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8677671659"
  },
@@ -123,7 +123,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@furryfriendsrefuge.org",
-  "phone": "",
+  "phone": "(515) 222-0009",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/325933793"
  },
@@ -157,7 +157,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(319) 286-5993",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/711530817"
  },
@@ -174,7 +174,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(563) 823-8900",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/798509736"
  },
@@ -191,7 +191,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@allsophumane.org",
-  "phone": "",
+  "phone": "(319) 362-6288",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1019195381"
  },
@@ -242,7 +242,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(712) 396-2270",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1237321070"
  },
@@ -259,7 +259,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hsni@hsni.org",
-  "phone": "",
+  "phone": "(641) 423-6241",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1525349891"
  },
@@ -276,7 +276,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "icanimalcenter@iowa-city.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(319) 356-5295"
  },
  {
   "state": "IA",
@@ -306,7 +307,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(712) 252-2614"
  },
  {
   "state": "IA",
@@ -321,6 +323,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(319) 232-6887"
  }
 ]

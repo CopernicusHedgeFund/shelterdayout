@@ -66,7 +66,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(502) 875-3436",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8529299675"
  },
@@ -83,7 +83,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@callowaycountyky.gov",
-  "phone": "",
+  "phone": "(270) 227-7600",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12034021234"
  },
@@ -100,7 +100,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@campbellcountyky.gov",
-  "phone": "",
+  "phone": "(859) 635-2819",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/375247396"
  },
@@ -134,7 +134,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(502) 863-7850",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/604372079"
  },
@@ -151,7 +151,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "paws@pcanimalshelter.com",
-  "phone": "",
+  "phone": "(606) 679-6432",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/720880653"
  },
@@ -185,7 +185,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(859) 472-5400",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/928256394"
  },
@@ -219,7 +219,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(502) 875-7297",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1160958579"
  },
@@ -271,7 +271,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelterdir@logancountyky.gov",
-  "phone": "",
+  "phone": "(270) 726-2186",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1582471051"
  },
@@ -288,7 +288,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@animalcaresociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(502) 426-6303"
  },
  {
   "state": "KY",
@@ -303,7 +304,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "PHelton@oldhamcountyky.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(502) 222-7387"
  },
  {
   "state": "KY",
@@ -318,7 +320,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "danielle.reynolds@shelbycoky.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(502) 633-0009"
  },
  {
   "state": "KY",
@@ -333,7 +336,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@bullittky.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(502) 543-8686"
  },
  {
   "state": "KY",
@@ -363,7 +367,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 567-5691"
  },
  {
   "state": "KY",
@@ -378,7 +383,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 334-2100"
  },
  {
   "state": "KY",
@@ -393,7 +399,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 824-9403"
  },
  {
   "state": "KY",
@@ -408,7 +415,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "brackencountyanimalshelter@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 735-2300"
  },
  {
   "state": "KY",
@@ -438,7 +446,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "president@andersonhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(502) 839-8339"
  },
  {
   "state": "KY",
@@ -468,7 +477,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 873-5491"
  },
  {
   "state": "KY",
@@ -499,7 +509,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 233-0044"
  },
  {
   "state": "KY",
@@ -514,7 +525,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jessamineacc@jessamineky.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 881-0821"
  },
  {
   "state": "KY",
@@ -529,7 +541,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@mercerky.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 734-5154"
  },
  {
   "state": "KY",
@@ -574,7 +587,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "menifeeshelter@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 768-9368"
  },
  {
   "state": "KY",
@@ -589,7 +603,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 465-7651"
  },
  {
   "state": "KY",
@@ -604,7 +619,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 792-1562"
  },
  {
   "state": "KY",
@@ -619,7 +635,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 784-4930"
  },
  {
   "state": "KY",
@@ -634,7 +651,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 392-3290"
  },
  {
   "state": "KY",
@@ -664,7 +682,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 737-0053"
  },
  {
   "state": "KY",
@@ -694,7 +713,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 238-1117"
  },
  {
   "state": "KY",
@@ -709,7 +729,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 988-9800"
  },
  {
   "state": "KY",
@@ -771,7 +792,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@boydcountyky.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 324-0745"
  },
  {
   "state": "KY",
@@ -786,7 +808,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "greenupcountyanimalshelter@aol.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 473-6440"
  },
  {
   "state": "KY",
@@ -831,7 +854,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "JCASKY23@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 789-2550"
  },
  {
   "state": "KY",
@@ -861,7 +885,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 886-3189"
  },
  {
   "state": "KY",
@@ -921,7 +946,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 573-8867"
  },
  {
   "state": "KY",
@@ -998,7 +1024,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(606) 348-0575"
  },
  {
   "state": "KY",
@@ -1028,7 +1055,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 783-9404"
  },
  {
   "state": "KY",
@@ -1058,7 +1086,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ocanimalshelter@ohiocountyky.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 256-6611"
  },
  {
   "state": "KY",
@@ -1073,7 +1102,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 887-4175"
  },
  {
   "state": "KY",
@@ -1111,7 +1141,8 @@
     "title": "Adoption fees waived all November",
     "url": "https://marshallcountyky.gov/?p=6704"
    }
-  ]
+  ],
+  "phone": "(270) 527-4740"
  },
  {
   "state": "KY",
@@ -1141,7 +1172,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 443-5923"
  },
  {
   "state": "KY",
@@ -1156,7 +1188,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 302-6813"
  },
  {
   "state": "KY",
@@ -1186,7 +1219,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 580-4299"
  },
  {
   "state": "KY",
@@ -1216,7 +1250,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 651-7297"
  },
  {
   "state": "KY",
@@ -1231,7 +1266,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 598-1229"
  },
  {
   "state": "KY",
@@ -1246,7 +1282,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 338-6940"
  },
  {
   "state": "KY",
@@ -1261,7 +1298,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 826-8966"
  },
  {
   "state": "KY",
@@ -1306,7 +1344,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 526-2694"
  },
  {
   "state": "KY",
@@ -1321,7 +1360,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 927-8137"
  },
  {
   "state": "KY",
@@ -1336,7 +1376,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 969-1054"
  },
  {
   "state": "KY",
@@ -1381,7 +1422,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 618-7387"
  },
  {
   "state": "KY",

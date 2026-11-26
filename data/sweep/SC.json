@@ -45,7 +45,8 @@
     "url": "https://charlestonanimalsociety.org/event/hoppy-holidays-5k-fun-run-at-ctfg-2026-sc-brewery-running-series-adoptions/",
     "place": "Charles Towne Fermentory Garden"
    }
-  ]
+  ],
+  "phone": "(843) 747-4849"
  },
  {
   "state": "SC",
@@ -60,7 +61,7 @@
   "checked": "November 2026",
   "email_program": "pag@greenvillehumane.com",
   "email_main": "",
-  "phone": "",
+  "phone": "(864) 242-3626",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/1718676995"
  },
@@ -77,7 +78,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(803) 648-6863",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8507491482"
  },
@@ -94,7 +95,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "letmehelpfahs@gmail.com",
-  "phone": "",
+  "phone": "(843) 629-5456",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13362523210"
  },
@@ -111,7 +112,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(803) 425-6016",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/530303778"
  },
@@ -145,7 +146,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@horrycountysc.gov",
-  "phone": "",
+  "phone": "(843) 915-5172",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/756369111"
  },
@@ -162,7 +163,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "humane@gwdhumanesociety.org",
-  "phone": "",
+  "phone": "(864) 223-2498",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/760090931"
  },
@@ -196,7 +197,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(864) 467-3985"
  },
  {
   "state": "SC",
@@ -211,7 +213,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pawsrescue@andersoncountysc.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(864) 260-4000"
  },
  {
   "state": "SC",
@@ -241,7 +244,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(864) 487-0161"
  },
  {
   "state": "SC",
@@ -256,7 +260,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(864) 366-6639"
  },
  {
   "state": "SC",
@@ -271,7 +276,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dkitchens@countyofunion.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(864) 429-1600"
  },
  {
   "state": "SC",
@@ -301,7 +307,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(864) 833-9060"
  },
  {
   "state": "SC",
@@ -377,7 +384,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 385-5133"
  },
  {
   "state": "SC",
@@ -392,7 +400,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 286-8103"
  },
  {
   "state": "SC",
@@ -437,7 +446,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 802-0902"
  },
  {
   "state": "SC",
@@ -482,7 +492,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@lexingtoncounty.sc.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 785-8149"
  },
  {
   "state": "SC",
@@ -512,7 +523,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 436-2775"
  },
  {
   "state": "SC",
@@ -557,7 +569,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 536-3918"
  },
  {
   "state": "SC",
@@ -572,7 +585,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 874-2914"
  },
  {
   "state": "SC",
@@ -632,7 +646,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 245-7387"
  },
  {
   "state": "SC",
@@ -711,7 +726,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ccaec@colletoncounty.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 893-2651"
  },
  {
   "state": "SC",
@@ -726,7 +742,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hcas@hamptoncountysc.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 914-2100"
  },
  {
   "state": "SC",
@@ -749,7 +766,8 @@
     "url": "https://hhhumane.org/event-list/",
     "place": "Captain Woody's, Hilton Head Island"
    }
-  ]
+  ],
+  "phone": "(843) 681-8686"
  },
  {
   "state": "SC",
@@ -764,7 +782,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 837-6369"
  },
  {
   "state": "SC",
@@ -779,7 +798,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@bcgov.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 255-5010"
  },
  {
   "state": "SC",
@@ -794,7 +814,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "lead@sfanimals.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 546-0780"
  },
  {
   "state": "SC",
@@ -825,7 +846,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "asheltermgr@ftc-i.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 473-7075"
  },
  {
   "state": "SC",
@@ -855,7 +877,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hsnmb.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 249-4948"
  },
  {
   "state": "SC",
@@ -870,7 +893,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "KindKeeper@yahoo.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 427-4388"
  },
  {
   "state": "SC",
@@ -885,7 +909,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 222-8057"
  },
  {
   "state": "SC",
@@ -915,7 +940,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "marioncountyanimalshelter@marionsc.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 250-1413"
  },
  {
   "state": "SC",
@@ -945,7 +971,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 479-3330"
  },
  {
   "state": "SC",
@@ -975,6 +1002,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@shtc.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 623-9615"
  }
 ]

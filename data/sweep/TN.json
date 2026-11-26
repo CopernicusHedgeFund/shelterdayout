@@ -43,7 +43,8 @@
     "url": "https://www.young-williams.org/event/petco-adoption-event-farragut-23/2027-01-16/",
     "place": "Petco Farragut, 169 Brooklawn St, Farragut"
    }
-  ]
+  ],
+  "phone": "(865) 433-9922"
  },
  {
   "state": "TN",
@@ -58,7 +59,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source": "https://newschannel5.com/talk-of-the-town/doggy-day-out"
+  "source": "https://newschannel5.com/talk-of-the-town/doggy-day-out",
+  "phone": "(615) 340-5616"
  },
  {
   "state": "TN",
@@ -88,7 +90,8 @@
   "checked": "November 2026",
   "email_program": "adoption@nashvillehumane.org",
   "email_main": "",
-  "source": "https://www.newschannel5.com/news/state/tennessee/davidson-county/nashville-shelter-dogs-get-valentines-day-dates-through-special-volunteer-program"
+  "source": "https://www.newschannel5.com/news/state/tennessee/davidson-county/nashville-shelter-dogs-get-valentines-day-dates-through-special-volunteer-program",
+  "phone": "(615) 352-1010"
  },
  {
   "state": "TN",
@@ -120,7 +123,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(615) 790-5590",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8630269515"
  },
@@ -154,7 +157,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mharren.ucas@gmail.com",
-  "phone": "",
+  "phone": "(423) 743-9391",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/10595100166"
  },
@@ -256,7 +259,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "claiborneshelter2018@gmail.com",
-  "phone": "",
+  "phone": "(423) 626-2686",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/339558775"
  },
@@ -322,7 +325,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jtracy@cookeville-tn.gov",
-  "phone": "",
+  "phone": "(931) 526-9591",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/557495625"
  },
@@ -407,7 +410,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(731) 885-1341",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1314391793"
  },
@@ -456,7 +459,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "humanesociety@ahhumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 926-8533"
  },
  {
   "state": "TN",
@@ -486,7 +490,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 639-4771"
  },
  {
   "state": "TN",
@@ -517,7 +522,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@blounttn.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(865) 980-6244"
  },
  {
   "state": "TN",
@@ -563,7 +569,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "contact@smhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 532-8475"
  },
  {
   "state": "TN",
@@ -578,7 +585,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(865) 475-8930"
  },
  {
   "state": "TN",
@@ -608,7 +616,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "uchs.org@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(865) 992-7969"
  },
  {
   "state": "TN",
@@ -638,7 +647,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(865) 458-5593"
  },
  {
   "state": "TN",
@@ -653,7 +663,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@monroecountyfriendsofanimals.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 436-2900"
  },
  {
   "state": "TN",
@@ -668,7 +679,8 @@
   "checked": "November 2026",
   "email_program": "saccadoptions@gmail.com",
   "email_main": "saccadoptions@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(865) 280-2280"
  },
  {
   "state": "TN",
@@ -683,7 +695,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 305-6500"
  },
  {
   "state": "TN",
@@ -698,7 +711,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 624-5302"
  },
  {
   "state": "TN",
@@ -713,7 +727,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 790-1915"
  },
  {
   "state": "TN",
@@ -728,7 +743,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 472-4551"
  },
  {
   "state": "TN",
@@ -743,7 +759,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 775-7837"
  },
  {
   "state": "TN",
@@ -758,7 +775,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 877-0738"
  },
  {
   "state": "TN",
@@ -788,7 +806,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(423) 760-7922"
  },
  {
   "state": "TN",
@@ -803,7 +822,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 484-8525"
  },
  {
   "state": "TN",
@@ -848,7 +868,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 473-1200"
  },
  {
   "state": "TN",
@@ -863,7 +884,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 728-4652"
  },
  {
   "state": "TN",
@@ -878,7 +900,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 454-9580"
  },
  {
   "state": "TN",
@@ -893,7 +916,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "paws@rutherfordcountytn.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 898-7740"
  },
  {
   "state": "TN",
@@ -908,7 +932,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 444-9775"
  },
  {
   "state": "TN",
@@ -923,7 +948,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 773-5533"
  },
  {
   "state": "TN",
@@ -938,7 +964,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 648-5750"
  },
  {
   "state": "TN",
@@ -953,7 +980,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 382-2200"
  },
  {
   "state": "TN",
@@ -968,7 +996,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@cheathamcountytn.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 792-3647"
  },
  {
   "state": "TN",
@@ -983,7 +1012,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 822-0061"
  },
  {
   "state": "TN",
@@ -1013,7 +1043,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 359-5948"
  },
  {
   "state": "TN",
@@ -1058,7 +1089,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Shelter@gilescountytn.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 363-5300"
  },
  {
   "state": "TN",
@@ -1103,7 +1135,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "FrontDesk@memphishumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(901) 937-3900"
  },
  {
   "state": "TN",
@@ -1133,7 +1166,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(901) 385-6400"
  },
  {
   "state": "TN",
@@ -1178,6 +1212,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "chooseme@redfernanimalshelter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(731) 332-9116"
  }
 ]

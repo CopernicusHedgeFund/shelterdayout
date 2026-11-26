@@ -26,7 +26,8 @@
     "url": "https://animalfoundation.com/event/grow-some-love-at-mojave-bloom-nursery/",
     "place": "Mojave Bloom Nursery, 1401 Searles Ave, Las Vegas"
    }
-  ]
+  ],
+  "phone": "(702) 955-5932"
  },
  {
   "state": "NV",
@@ -58,7 +59,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(702) 463-9996",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12898496476"
  },
@@ -109,7 +110,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(775) 324-7773",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/495300347",
   "events": [
@@ -134,7 +135,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@elkocitynv.gov",
-  "phone": "",
+  "phone": "(775) 777-7333",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/832386108"
  },
@@ -201,7 +202,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(775) 856-2000"
  },
  {
   "state": "NV",
@@ -216,7 +218,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(775) 856-2000"
  },
  {
   "state": "NV",
@@ -336,7 +339,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(775) 577-5005"
  },
  {
   "state": "NV",
@@ -381,7 +385,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(725) 231-5051"
  },
  {
   "state": "NV",
@@ -396,7 +401,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(775) 832-4404"
  },
  {
   "state": "NV",
@@ -411,7 +417,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(775) 537-8674"
  },
  {
   "state": "NV",
@@ -426,7 +433,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@cityofelynv.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(775) 296-0567"
  },
  {
   "state": "NV",
@@ -437,7 +445,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.washoecounty.gov/animal/faq/shelter_animals.php",
-  "phone": "",
+  "phone": "(775) 328-2003",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -453,7 +461,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://battlemountainhumanesociety.org/pets/",
-  "phone": "",
+  "phone": "(605) 745-7283",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -469,7 +477,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.mineralcountynv.us/government/sheriff/animal_control.php",
-  "phone": "",
+  "phone": "(775) 945-0701",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -485,7 +493,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityoffernley.org/446/Shelter-Location",
-  "phone": "",
+  "phone": "(775) 784-9800",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",

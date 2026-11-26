@@ -29,7 +29,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(701) 356-7877",
   "source_list": "shelter website",
   "osm": "way/1474497403"
  },
@@ -46,7 +46,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@homewardonline.org",
-  "phone": "",
+  "phone": "(701) 239-0077",
   "source_list": "shelter website",
   "osm": "way/85033454"
  },
@@ -63,7 +63,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(701) 775-3732",
   "source_list": "shelter website",
   "osm": "way/664892444"
  },
@@ -166,7 +166,8 @@
     "url": "https://svaspets.com/events/runnings-saturday-stroll/",
     "place": "Runnings, Minot"
    }
-  ]
+  ],
+  "phone": "(701) 852-6133"
  },
  {
   "state": "ND",
@@ -181,7 +182,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(701) 252-0747"
  },
  {
   "state": "ND",
@@ -196,7 +198,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mondakanimalrescue@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(701) 577-7387"
  },
  {
   "state": "ND",
@@ -219,7 +222,8 @@
     "url": "https://www.tlcndanimalrescue.org/events-schedule.html",
     "place": "307 5th Ave NE, Devils Lake"
    }
-  ]
+  ],
+  "phone": "(701) 662-4357"
  },
  {
   "state": "ND",
@@ -235,7 +239,8 @@
   "email_program": "",
   "email_main": "theshelter@hsrwc.org",
   "source_list": "shelter website",
-  "source": "https://www.facebook.com/hsrwc"
+  "source": "https://www.facebook.com/hsrwc",
+  "phone": "(701) 672-1676"
  },
  {
   "state": "ND",

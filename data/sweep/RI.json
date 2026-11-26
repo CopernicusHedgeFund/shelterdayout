@@ -11,7 +11,8 @@
   "notes": "Field trips that take shelter dogs out into the community; listed under volunteer opportunities and eligibility is not stated (kennel volunteers must be 18+).",
   "checked": "November 2026",
   "email_program": "Brittany.Diprete@rispca.org",
-  "email_main": "info@rispca.org"
+  "email_main": "info@rispca.org",
+  "phone": "(401) 383-1900"
  },
  {
   "state": "RI",
@@ -43,7 +44,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "communitycatcarecenter@gmail.com",
-  "phone": "",
+  "phone": "(401) 285-9800",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7735801511"
  },
@@ -77,7 +78,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "HeartofRIAdoption@gmail.com",
-  "phone": "",
+  "phone": "(401) 467-3670",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/146580138"
  },
@@ -94,7 +95,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(401) 738-2000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/252695024"
  },
@@ -128,7 +129,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@standupforanimals.org",
-  "phone": "",
+  "phone": "(401) 348-9595",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/548140380"
  },
@@ -168,7 +169,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 421-1399"
  },
  {
   "state": "RI",
@@ -183,7 +185,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@animalrescueri.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 783-7606"
  },
  {
   "state": "RI",
@@ -198,7 +201,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "PACadoptions@providenceri.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 680-5000"
  },
  {
   "state": "RI",
@@ -258,7 +262,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 826-1100"
  },
  {
   "state": "RI",
@@ -273,7 +278,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 822-9200"
  },
  {
   "state": "RI",
@@ -318,7 +324,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 728-2400"
  },
  {
   "state": "RI",
@@ -348,7 +355,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@lincolnri.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 333-1100"
  },
  {
   "state": "RI",
@@ -363,7 +371,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(800) 745-5555"
  },
  {
   "state": "RI",
@@ -378,7 +387,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 568-4300"
  },
  {
   "state": "RI",
@@ -408,7 +418,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 783-3321"
  },
  {
   "state": "RI",
@@ -513,6 +524,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 294-1115"
  }
 ]

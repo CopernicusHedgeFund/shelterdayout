@@ -11,7 +11,8 @@
   "notes": "Open to visitors and locals. Fill out the DDO volunteer agreement and info form, read the DDO manual, and bring the paperwork on your first visit; call 719-686-7707 at least 24 hours ahead. A backpack with supplies is provided.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(719) 686-7707"
  },
  {
   "state": "CO",
@@ -74,7 +75,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(303) 703-2938",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7070857198"
  },
@@ -91,7 +92,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hsppr.org",
-  "phone": "",
+  "phone": "(719) 302-8798",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12093873377"
  },
@@ -159,7 +160,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(303) 278-7575",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/273399685"
  },
@@ -201,7 +202,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(303) 739-7000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/318915497"
  },
@@ -235,7 +236,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(720) 913-1311",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/967607248"
  },
@@ -300,7 +301,8 @@
     "title": "Hill's Sponsored Adoption Event: $17 adoptions for dogs and cats over 1 year",
     "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/"
    }
-  ]
+  ],
+  "phone": "(970) 775-5887"
  },
  {
   "state": "CO",
@@ -315,7 +317,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pueblo@hsppr.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(719) 302-8798"
  },
  {
   "state": "CO",
@@ -476,7 +479,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "aspenanimalshelter@gmail.com"
+  "email_main": "aspenanimalshelter@gmail.com",
+  "phone": "(970) 544-0206"
  },
  {
   "state": "CO",
@@ -490,7 +494,8 @@
   "notes": "Pop-Up Pack Walks are held Mondays at 12 p.m. at a different Grand Valley location each week; complete the online waiver in advance and arrive at noon (minors need a parent/guardian on the waiver). Only Roice-Hurst shelter dogs may be walked. Off-site hikes are a separate volunteer program for trained volunteers.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "info@rhhumanesociety.org"
+  "email_main": "info@rhhumanesociety.org",
+  "phone": "(970) 434-7337"
  },
  {
   "state": "CO",
@@ -505,7 +510,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@jhacc.org",
-  "phone": "",
+  "phone": "(970) 625-8808",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/589162666"
  },
@@ -522,7 +527,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(970) 947-9173",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/594334525"
  },
@@ -539,7 +544,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelterstaff@eaglecounty.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 328-3647"
  },
  {
   "state": "CO",
@@ -568,7 +574,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ac.dispatch@mesacounty.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 242-4646"
  },
  {
   "state": "CO",
@@ -598,7 +605,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 725-3347"
  },
  {
   "state": "CO",
@@ -637,7 +645,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "delta@adoptmountainpets.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 874-7907"
  },
  {
   "state": "CO",
@@ -652,7 +661,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 249-9110"
  },
  {
   "state": "CO",
@@ -667,7 +677,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 641-1173"
  },
  {
   "state": "CO",
@@ -682,7 +693,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@ark-valley.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(719) 395-2737"
  },
  {
   "state": "CO",
@@ -697,7 +709,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@leadville-co.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(719) 486-8951"
  },
  {
   "state": "CO",
@@ -727,7 +740,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 565-8441"
  },
  {
   "state": "CO",
@@ -742,7 +756,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 675-8476"
  },
  {
   "state": "CO",
@@ -757,7 +772,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 878-4968"
  },
  {
   "state": "CO",
@@ -783,7 +799,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://loganhumane.org/",
-  "phone": "",
+  "phone": "(970) 520-2804",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -799,7 +815,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://humanecolorado.org/locations/san-luis-valley-animal-center/",
-  "phone": "",
+  "phone": "(303) 751-5772",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -847,7 +863,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://ci.lamar.co.us/lamar-animal-shelter",
-  "phone": "",
+  "phone": "(719) 336-8769",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -863,7 +879,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://grandrivershumane.com/",
-  "phone": "",
+  "phone": "(970) 257-0070",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -879,7 +895,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cityofyuma.colorado.gov/animal-shelter",
-  "phone": "",
+  "phone": "(970) 848-3878",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",

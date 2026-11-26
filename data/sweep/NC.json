@@ -41,7 +41,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pittshelter@pittcountync.gov",
-  "source": "http://www.reflector.com/features/local/pet-news/article_71d974de-90af-4cb9-876e-5673c077112e.html"
+  "source": "http://www.reflector.com/features/local/pet-news/article_71d974de-90af-4cb9-876e-5673c077112e.html",
+  "phone": "(252) 902-1000"
  },
  {
   "state": "NC",
@@ -56,7 +57,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source": "https://wlos.com/news/local/mitchell-county-animal-rescue-dogs-trail-buddies-volunteer-program-shelter-community-members-outings-hikes-walks-staycations-field-trip-older-larger-mix-breed-adopters-adoption-fee-treats-toys-towell-water-bowl-travel"
+  "source": "https://wlos.com/news/local/mitchell-county-animal-rescue-dogs-trail-buddies-volunteer-program-shelter-community-members-outings-hikes-walks-staycations-field-trip-older-larger-mix-breed-adopters-adoption-fee-treats-toys-towell-water-bowl-travel",
+  "phone": "(828) 765-6952"
  },
  {
   "state": "NC",
@@ -84,7 +86,8 @@
   "notes": "Book online (limited spots); walk-ins Mon-Fri only, Saturdays online only. Pick-ups 10am-3pm; return by 5pm weekdays, 4:30pm Saturdays.",
   "checked": "November 2026",
   "email_program": "volunteer@orangecountync.gov",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(919) 942-7387"
  },
  {
   "state": "NC",
@@ -112,7 +115,8 @@
   "notes": "Free; book online Monday-Saturday. Return dogs by 4:30pm weekdays or 3pm Saturdays; no dog parks.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "animalservices@burlingtonnc.gov"
+  "email_main": "animalservices@burlingtonnc.gov",
+  "phone": "(336) 222-5000"
  },
  {
   "state": "NC",
@@ -126,7 +130,8 @@
   "notes": "New participant registrations are temporarily paused. When open: foster application first, then book Tue-Fri 10am-5pm on the calendar.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "info@forsythhumane.org"
+  "email_main": "info@forsythhumane.org",
+  "phone": "(336) 721-1303"
  },
  {
   "state": "NC",
@@ -140,7 +145,8 @@
   "notes": "Volunteers 18+ with a valid driver's license and auto insurance; sign up as a volunteer and schedule an orientation first.",
   "checked": "November 2026",
   "email_program": "info@paws4ever.org",
-  "email_main": "info@paws4ever.org"
+  "email_main": "info@paws4ever.org",
+  "phone": "(919) 241-8438"
  },
  {
   "state": "NC",
@@ -155,7 +161,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(336) 694-4921",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/6140738927"
  },
@@ -172,7 +178,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(828) 649-9798",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/6439976190"
  },
@@ -206,7 +212,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@catawbahumane.org",
-  "phone": "",
+  "phone": "(828) 464-8878",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/6845513141"
  },
@@ -376,7 +382,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(828) 863-4444",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/11391511452",
   "events": [
@@ -469,7 +475,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(828) 682-1200",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/617892815"
  },
@@ -537,7 +543,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(252) 453-8682",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/755199242"
  },
@@ -623,7 +629,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(828) 586-4055",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1409388577"
  },
@@ -640,7 +646,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 488-9273"
  },
  {
   "state": "NC",
@@ -655,7 +662,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 349-2106"
  },
  {
   "state": "NC",
@@ -670,7 +678,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 883-3713"
  },
  {
   "state": "NC",
@@ -685,7 +694,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@ashecountygov.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 846-5501"
  },
  {
   "state": "NC",
@@ -700,7 +710,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 651-7300"
  },
  {
   "state": "NC",
@@ -715,7 +726,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 757-1300"
  },
  {
   "state": "NC",
@@ -730,7 +742,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(704) 481-9884"
  },
  {
   "state": "NC",
@@ -745,7 +758,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(704) 866-3000"
  },
  {
   "state": "NC",
@@ -790,7 +804,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 632-1199"
  },
  {
   "state": "NC",
@@ -835,7 +850,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal_shelter@yadkincountync.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 849-7901"
  },
  {
   "state": "NC",
@@ -850,7 +866,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 593-2811"
  },
  {
   "state": "NC",
@@ -865,7 +882,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 342-8100"
  },
  {
   "state": "NC",
@@ -895,7 +913,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 751-6238"
  },
  {
   "state": "NC",
@@ -940,7 +959,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcenter@wake.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(919) 212-7387"
  },
  {
   "state": "NC",
@@ -955,7 +975,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animals@johnstonnc.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(919) 934-8474"
  },
  {
   "state": "NC",
@@ -970,7 +991,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 875-8751"
  },
  {
   "state": "NC",
@@ -985,7 +1007,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 321-6852"
  },
  {
   "state": "NC",
@@ -1000,7 +1023,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@brunswicksheriff.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 253-1738"
  },
  {
   "state": "NC",
@@ -1015,7 +1039,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@columbussheriff.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 642-6551"
  },
  {
   "state": "NC",
@@ -1060,7 +1085,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 520-0003"
  },
  {
   "state": "NC",
@@ -1075,7 +1101,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@scotlandhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 276-9271"
  },
  {
   "state": "NC",
@@ -1090,7 +1117,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "rchsfriendsforlife@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 738-8282"
  },
  {
   "state": "NC",
@@ -1105,7 +1133,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@fapspet.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 864-9040"
  },
  {
   "state": "NC",
@@ -1135,7 +1164,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 798-7311"
  },
  {
   "state": "NC",
@@ -1165,7 +1195,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 253-2237"
  },
  {
   "state": "NC",
@@ -1180,7 +1211,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 789-4300"
  },
  {
   "state": "NC",
@@ -1210,7 +1242,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 761-2001"
  },
  {
   "state": "NC",
@@ -1240,7 +1273,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 692-2639"
  },
  {
   "state": "NC",
@@ -1255,7 +1289,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 743-5752"
  },
  {
   "state": "NC",
@@ -1270,7 +1305,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 488-0418"
  },
  {
   "state": "NC",
@@ -1285,7 +1321,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 524-4588"
  },
  {
   "state": "NC",
@@ -1300,7 +1337,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 733-2333"
  },
  {
   "state": "NC",
@@ -1315,7 +1353,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 838-9588"
  },
  {
   "state": "NC",
@@ -1330,7 +1369,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 982-4297"
  },
  {
   "state": "NC",
@@ -1360,7 +1400,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 287-6025"
  },
  {
   "state": "NC",
@@ -1405,7 +1446,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(704) 216-7768"
  },
  {
   "state": "NC",
@@ -1585,7 +1627,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 534-1125"
  },
  {
   "state": "NC",
@@ -1600,7 +1643,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 642-7297"
  },
  {
   "state": "NC",
@@ -1646,7 +1690,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 641-4112"
  },
  {
   "state": "NC",
@@ -1661,7 +1706,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 862-6918"
  },
  {
   "state": "NC",
@@ -1676,7 +1722,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "penderhumane@yahoo.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 259-7022"
  },
  {
   "state": "NC",
@@ -1721,7 +1768,8 @@
   "checked": "November 2026",
   "email_program": "volunteer@hsecarolina.org",
   "email_main": "info@hsecarolina.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 413-7247"
  },
  {
   "state": "NC",
@@ -1736,7 +1784,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 482-9807"
  },
  {
   "state": "NC",
@@ -1751,7 +1800,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(252) 793-5823"
  },
  {
   "state": "NC",

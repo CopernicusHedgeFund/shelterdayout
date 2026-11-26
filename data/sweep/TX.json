@@ -68,7 +68,8 @@
   "checked": "November 2026",
   "email_program": "BARCvolunteers@houstontx.gov",
   "email_main": "",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(832) 395-9031"
  },
  {
   "state": "TX",
@@ -84,7 +85,8 @@
   "email_program": "EPASFoster@elpasotexas.gov",
   "email_main": "",
   "source": "https://kvia.com/lifestyle/2026/10/02/fort-bliss-soldiers-help-shelter-dogs/",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(915) 212-7297"
  },
  {
   "state": "TX",
@@ -122,7 +124,8 @@
     "url": "https://www.houstonhumane.org/events/calendar/chewy-claus-holiday-pet-adoption-special"
    }
   ],
-  "source_list": ""
+  "source_list": "",
+  "phone": "(713) 433-6421"
  },
  {
   "state": "TX",
@@ -152,7 +155,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(979) 775-5755"
  },
  {
   "state": "TX",
@@ -197,7 +201,8 @@
   "checked": "November 2026",
   "email_program": "foster@pvastx.org",
   "email_main": "info@pvastx.org",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(956) 686-1141"
  },
  {
   "state": "TX",
@@ -212,7 +217,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(361) 575-4558"
  },
  {
   "state": "TX",
@@ -273,7 +279,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "meow@purrfectocatlounge.com",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(512) 296-2469"
  },
  {
   "state": "TX",
@@ -335,7 +342,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ac@seabrooktx.gov",
-  "phone": "",
+  "phone": "(281) 291-5610",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/3930767088"
  },
@@ -505,7 +512,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(817) 598-4111",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12482304553"
  },
@@ -632,7 +639,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(346) 550-6661",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14024653827"
  },
@@ -717,7 +724,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(214) 350-7387",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/421606075"
  },
@@ -810,7 +817,7 @@
   "checked": "November 2026",
   "email_program": "foster@spca.org",
   "email_main": "spca@spca.org",
-  "phone": "",
+  "phone": "(214) 742-7722",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/466702239"
  },
@@ -895,7 +902,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(214) 509-4200",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/545518793"
  },
@@ -912,7 +919,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(210) 655-1481",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/554762206",
   "events": [
@@ -988,7 +995,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(972) 288-7711",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/661277992"
  },
@@ -1362,7 +1369,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.control@ac.kerrcountytx.gov",
-  "phone": "",
+  "phone": "(830) 257-3100",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1097873556"
  },
@@ -1396,7 +1403,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(972) 205-3570",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1137755956"
  },
@@ -1413,7 +1420,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@spcabc.org",
-  "phone": "",
+  "phone": "(979) 285-2340",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1215459320"
  },
@@ -1685,7 +1692,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(210) 226-7461"
  },
  {
   "state": "TX",
@@ -1700,7 +1708,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(210) 655-1481"
  },
  {
   "state": "TX",
@@ -1715,7 +1724,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@austinhumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(512) 646-7387"
  },
  {
   "state": "TX",
@@ -1730,7 +1740,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(254) 953-5472"
  },
  {
   "state": "TX",
@@ -1805,7 +1816,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(254) 547-4221"
  },
  {
   "state": "TX",
@@ -1820,7 +1832,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(254) 865-8951"
  },
  {
   "state": "TX",
@@ -1880,7 +1893,8 @@
   "checked": "November 2026",
   "email_program": "foster@baytown.org",
   "email_main": "animalcontrol@baytown.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(281) 422-8281"
  },
  {
   "state": "TX",
@@ -1910,7 +1924,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@sugarlandtx.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(281) 275-2900"
  },
  {
   "state": "TX",
@@ -1985,7 +2000,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "grahamhsyc17@yahoo.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(940) 549-1692"
  },
  {
   "state": "TX",
@@ -2000,7 +2016,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(940) 552-5373"
  },
  {
   "state": "TX",
@@ -2090,7 +2107,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "blmills@longviewtexas.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 297-7387"
  },
  {
   "state": "TX",
@@ -2135,7 +2153,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 432-3422"
  },
  {
   "state": "TX",
@@ -2150,7 +2169,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aco@mpcity.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 575-4000"
  },
  {
   "state": "TX",
@@ -2165,7 +2185,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@hendersontx.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 657-7651"
  },
  {
   "state": "TX",
@@ -2180,7 +2201,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 567-4880"
  },
  {
   "state": "TX",
@@ -2210,7 +2232,8 @@
   "checked": "November 2026",
   "email_program": "njordan@midlandtexas.gov",
   "email_main": "animalservices@midlandtexas.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(432) 685-7420"
  },
  {
   "state": "TX",
@@ -2225,7 +2248,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(281) 497-0591"
  },
  {
   "state": "TX",
@@ -2248,7 +2272,8 @@
     "url": "https://specialpals.org/event/adoption-day-at-willowbrook-mall-29/",
     "place": "Willowbrook Mall Center Court, Houston"
    }
-  ]
+  ],
+  "phone": "(281) 579-7387"
  },
  {
   "state": "TX",
@@ -2263,7 +2288,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@friends4life.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(713) 863-9835"
  },
  {
   "state": "TX",
@@ -2278,7 +2304,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@elgatocoffeehouse.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(832) 968-3006"
  },
  {
   "state": "TX",
@@ -2293,7 +2320,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter.counter@mctx.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(936) 442-7738"
  },
  {
   "state": "TX",
@@ -2308,7 +2336,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(936) 522-3550"
  },
  {
   "state": "TX",
@@ -2323,7 +2352,8 @@
   "checked": "November 2026",
   "email_program": "FosterAPet@leaguecitytx.gov",
   "email_main": "LCACvolunteer@LeagueCityTX.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(281) 554-1377"
  },
  {
   "state": "TX",
@@ -2353,7 +2383,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@galvestonhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 740-1919"
  },
  {
   "state": "TX",
@@ -2383,7 +2414,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(979) 848-5696"
  },
  {
   "state": "TX",
@@ -2413,7 +2445,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(832) 595-3300"
  },
  {
   "state": "TX",
@@ -2428,7 +2461,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 276-4200"
  },
  {
   "state": "TX",
@@ -2503,7 +2537,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 222-7124"
  },
  {
   "state": "TX",
@@ -2533,7 +2568,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.services@bedfordtx.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 952-2191"
  },
  {
   "state": "TX",
@@ -2548,7 +2584,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(512) 961-6519"
  },
  {
   "state": "TX",
@@ -2563,7 +2600,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@CentralTexasSPCA.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(512) 260-7722"
  },
  {
   "state": "TX",
@@ -2578,7 +2616,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "sandy.perio@taylortx.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(512) 352-3675"
  },
  {
   "state": "TX",
@@ -2593,7 +2632,8 @@
   "checked": "November 2026",
   "email_program": "foster@sanmarcostx.gov",
   "email_main": "foster@sanmarcostx.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(512) 393-8000"
  },
  {
   "state": "TX",
@@ -2653,7 +2693,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(210) 332-5441"
  },
  {
   "state": "TX",
@@ -2683,7 +2724,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(210) 658-5356"
  },
  {
   "state": "TX",
@@ -2698,7 +2740,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(210) 659-0333"
  },
  {
   "state": "TX",
@@ -2713,7 +2756,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(210) 653-9140"
  },
  {
   "state": "TX",
@@ -2728,7 +2772,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@hsnba.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(830) 629-5287"
  },
  {
   "state": "TX",
@@ -2758,7 +2803,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@seguintexas.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(830) 379-3212"
  },
  {
   "state": "TX",
@@ -2773,7 +2819,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(830) 372-2055"
  },
  {
   "state": "TX",
@@ -2788,7 +2835,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(830) 401-0150"
  },
  {
   "state": "TX",
@@ -2803,7 +2851,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(210) 658-9900"
  },
  {
   "state": "TX",
@@ -2834,7 +2883,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "fbgas@fbgtx.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(830) 997-7585"
  },
  {
   "state": "TX",
@@ -2864,7 +2914,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dclark825@hondo-tx.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(830) 426-3378"
  },
  {
   "state": "TX",
@@ -2908,7 +2959,8 @@
     "url": "https://spcaeasttx.com/",
     "place": "SPCA of East Texas, Tyler"
    }
-  ]
+  ],
+  "phone": "(903) 596-7722"
  },
  {
   "state": "TX",
@@ -2931,7 +2983,8 @@
     "url": "https://petsfurpeople.org/events-2",
     "place": "PetSmart, Tyler"
    }
-  ]
+  ],
+  "phone": "(903) 597-2471"
  },
  {
   "state": "TX",
@@ -2946,7 +2999,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 983-8100"
  },
  {
   "state": "TX",
@@ -2961,7 +3015,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 833-0504"
  },
  {
   "state": "TX",
@@ -2976,7 +3031,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 935-4530"
  },
  {
   "state": "TX",
@@ -3021,7 +3077,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Animalcontrol@Bridgecitytex.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 735-6801"
  },
  {
   "state": "TX",
@@ -3051,7 +3108,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@jaspertx.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 384-4651"
  },
  {
   "state": "TX",
@@ -3074,7 +3132,8 @@
     "url": "https://www.spcapolk.org/upcomingevents",
     "place": "Angel's Fireworks"
    }
-  ]
+  ],
+  "phone": "(936) 755-3020"
  },
  {
   "state": "TX",
@@ -3089,7 +3148,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "contact@hselpaso.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(915) 532-6971"
  },
  {
   "state": "TX",
@@ -3104,7 +3164,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@arlep.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(915) 877-5002"
  },
  {
   "state": "TX",
@@ -3119,7 +3180,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "havenacs@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(806) 763-0092"
  },
  {
   "state": "TX",
@@ -3164,7 +3226,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@allkindabilene.org",
-  "source_list": "city page + allkindabilene.org"
+  "source_list": "city page + allkindabilene.org",
+  "phone": "(325) 676-6200"
  },
  {
   "state": "TX",
@@ -3179,7 +3242,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jstewart@cityofalpine.com",
-  "source_list": "city page"
+  "source_list": "city page",
+  "phone": "(432) 837-9030"
  },
  {
   "state": "TX",
@@ -3194,7 +3258,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "city page"
+  "source_list": "city page",
+  "phone": "(432) 523-4820"
  },
  {
   "state": "TX",
@@ -3209,7 +3274,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(817) 444-2541"
  },
  {
   "state": "TX",
@@ -3239,7 +3305,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jparsons@baltx.org",
-  "source_list": "city page + Adopt-a-Pet listing"
+  "source_list": "city page + Adopt-a-Pet listing",
+  "phone": "(325) 365-3591"
  },
  {
   "state": "TX",
@@ -3284,7 +3351,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@benbrook-tx.gov",
-  "source_list": "government page; Petfinder TX337"
+  "source_list": "government page; Petfinder TX337",
+  "phone": "(817) 249-3000"
  },
  {
   "state": "TX",
@@ -3314,7 +3382,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "csolis@bradytx.us",
-  "source_list": "city page"
+  "source_list": "city page",
+  "phone": "(325) 597-2152"
  },
  {
   "state": "TX",
@@ -3329,7 +3398,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "city page"
+  "source_list": "city page",
+  "phone": "(254) 559-8287"
  },
  {
   "state": "TX",
@@ -3344,7 +3414,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "city website"
+  "source_list": "city website",
+  "phone": "(830) 931-4070"
  },
  {
   "state": "TX",
@@ -3374,7 +3445,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@coppelltx.gov",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(972) 462-0022"
  },
  {
   "state": "TX",
@@ -3389,7 +3461,8 @@
   "checked": "November 2026",
   "email_program": "CCACSvolunteer@cctexas.com",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(361) 826-4630"
  },
  {
   "state": "TX",
@@ -3434,7 +3507,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page; Petfinder TX594"
+  "source_list": "government page; Petfinder TX594",
+  "phone": "(940) 393-0200"
  },
  {
   "state": "TX",
@@ -3494,7 +3568,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "denisonanimals@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 361-4211"
  },
  {
   "state": "TX",
@@ -3509,7 +3584,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@cityofdevine.com",
-  "source_list": "city website"
+  "source_list": "city website",
+  "phone": "(830) 663-2804"
  },
  {
   "state": "TX",
@@ -3524,7 +3600,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "citysec@eastlandtexas.gov",
-  "source_list": "city page"
+  "source_list": "city page",
+  "phone": "(254) 629-1700 ext. 2"
  },
  {
   "state": "TX",
@@ -3539,7 +3616,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page; Petfinder TX1817"
+  "source_list": "government page; Petfinder TX1817",
+  "phone": "(361) 782-3122"
  },
  {
   "state": "TX",
@@ -3554,7 +3632,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dbaros@cityofelcampo.org",
-  "source_list": "government page; adoptables on Rescue Me/Facebook"
+  "source_list": "government page; adoptables on Rescue Me/Facebook",
+  "phone": "(979) 541-5000"
  },
  {
   "state": "TX",
@@ -3569,7 +3648,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aco@municipalanimalservices.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 561-5495"
  },
  {
   "state": "TX",
@@ -3584,7 +3664,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(281) 996-3390"
  },
  {
   "state": "TX",
@@ -3614,7 +3695,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "city page; Petfinder listing"
+  "source_list": "city page; Petfinder listing",
+  "phone": "(830) 672-8686"
  },
  {
   "state": "TX",
@@ -3629,7 +3711,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "city page"
+  "source_list": "city page",
+  "phone": "(830) 672-8686"
  },
  {
   "state": "TX",
@@ -3644,7 +3727,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@harlingentx.gov",
-  "source_list": "city website"
+  "source_list": "city website",
+  "phone": "(956) 216-5250"
  },
  {
   "state": "TX",
@@ -3659,7 +3743,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(956) 556-5885"
  },
  {
   "state": "TX",
@@ -3674,7 +3759,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(940) 465-7444"
  },
  {
   "state": "TX",
@@ -3689,7 +3775,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pets@highlandvillage.org",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(469) 444-0915"
  },
  {
   "state": "TX",
@@ -3719,7 +3806,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "gay.murr@cityofjunction.com",
-  "source_list": "city page"
+  "source_list": "city page",
+  "phone": "(325) 446-9066"
  },
  {
   "state": "TX",
@@ -3748,7 +3836,8 @@
     "url": "https://www.cityofkingsville.com/departments/health-and-social-services/animal-shelter/",
     "place": "3415 N. FM 1355, Kingsville"
    }
-  ]
+  ],
+  "phone": "(361) 595-8040"
  },
  {
   "state": "TX",
@@ -3763,7 +3852,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(817) 237-1211"
  },
  {
   "state": "TX",
@@ -3778,7 +3868,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@collincountytx.gov",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(972) 547-7292"
  },
  {
   "state": "TX",
@@ -3808,7 +3899,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@cityofmercedes.com",
-  "source_list": "city page; adoptable animals posted on Facebook (Paws of Mercedes)"
+  "source_list": "city page; adoptable animals posted on Facebook (Paws of Mercedes)",
+  "phone": "(956) 565-3114"
  },
  {
   "state": "TX",
@@ -3823,7 +3915,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(956) 580-8650"
  },
  {
   "state": "TX",
@@ -3883,7 +3976,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(806) 296-1100"
  },
  {
   "state": "TX",
@@ -3898,7 +3992,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pets@seagoville.us",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(972) 287-2050"
  },
  {
   "state": "TX",
@@ -3988,7 +4083,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(806) 855-4120"
  },
  {
   "state": "TX",

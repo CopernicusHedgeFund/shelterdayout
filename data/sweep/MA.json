@@ -239,7 +239,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@tjoconnoradoptioncenter.com",
-  "phone": "",
+  "phone": "(413) 781-1484",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/216108802",
   "events": [
@@ -264,7 +264,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "springfield@dakinhumane.org",
-  "phone": "",
+  "phone": "(413) 781-4000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/216160897"
  },
@@ -516,7 +516,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(413) 447-7878"
  },
  {
   "state": "MA",
@@ -531,7 +532,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(413) 447-7878"
  },
  {
   "state": "MA",
@@ -546,7 +548,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "m.terkelsen@cityofwestfield.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(413) 564-3129"
  },
  {
   "state": "MA",
@@ -561,7 +564,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "fcsodogshelter@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(413) 676-9182"
  },
  {
   "state": "MA",

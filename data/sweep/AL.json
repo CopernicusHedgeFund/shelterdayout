@@ -48,7 +48,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Animals@HuntsvilleAL.gov",
-  "phone": "",
+  "phone": "(256) 427-5000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/478940823",
   "source": "https://www.huntsvilleal.gov/government/departments/animal-services-department"
@@ -84,7 +84,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(256) 760-6676"
  },
  {
   "state": "AL",
@@ -116,7 +117,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://hvilleblast.com/find-your-new-4-legged-family-member-shelters"
+  "source": "https://hvilleblast.com/find-your-new-4-legged-family-member-shelters",
+  "phone": "(256) 881-8081"
  },
  {
   "state": "AL",
@@ -132,7 +134,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "government page",
-  "source": "https://www.adoptapet.com/shelter/183760"
+  "source": "https://www.adoptapet.com/shelter/183760",
+  "phone": "(334) 242-4169"
  },
  {
   "state": "AL",
@@ -177,7 +180,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mccanimal@morgancounty-al.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(256) 773-2934"
  },
  {
   "state": "AL",
@@ -271,7 +275,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ccas@cherokeecounty-al.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(256) 927-3668"
  },
  {
   "state": "AL",
@@ -379,7 +384,8 @@
     "url": "https://www.shelbyhumane.org/event-details/adoption-event-12",
     "place": "Buff-A-Pup Wash, 4601 US-31 Ste C, Calera, AL"
    }
-  ]
+  ],
+  "phone": "(205) 669-3916"
  },
  {
   "state": "AL",
@@ -394,7 +400,7 @@
   "checked": "November 2026",
   "email_program": "tmas@metroanimalshelter.org",
   "email_main": "tmas@metroanimalshelter.org",
-  "phone": "",
+  "phone": "(205) 752-9101",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/645878477"
  },
@@ -459,7 +465,8 @@
     "url": "https://gbhs.org/events/2026/5/23/petsmart-dog-adoption-event-s28z8-dfzmf-txmst-et5ap-4na74",
     "place": "PetSmart, 4925 Promenade Pkwy, Bessemer, AL"
    }
-  ]
+  ],
+  "phone": "(205) 942-1211"
  },
  {
   "state": "AL",
@@ -475,7 +482,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://alabamaanimaladvocates.com/al-walker.html"
+  "source": "https://alabamaanimaladvocates.com/al-walker.html",
+  "phone": "(205) 942-1211"
  },
  {
   "state": "AL",
@@ -491,7 +499,8 @@
   "email_program": "",
   "email_main": "LCross@gbhs.org",
   "source_list": "shelter website",
-  "source": "https://abc3340.com/news/local/alabama-city-of-jasper-animal-care-control-temporarily-closes-for-facility-improvements-greater-birmingham-humane-society-gbhs-july-2026"
+  "source": "https://abc3340.com/news/local/alabama-city-of-jasper-animal-care-control-temporarily-closes-for-facility-improvements-greater-birmingham-humane-society-gbhs-july-2026",
+  "phone": "(205) 221-6621"
  },
  {
   "state": "AL",
@@ -507,7 +516,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://pell-city.com/tag/gbhs/"
+  "source": "https://pell-city.com/tag/gbhs/",
+  "phone": "(205) 942-1211"
  },
  {
   "state": "AL",
@@ -523,7 +533,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "directory + alabamaanimaladvocates.com",
-  "source": "https://adoptapet.com/adoption_rescue/96933-kitty-kat-haven-rescue-hoover-alabama"
+  "source": "https://adoptapet.com/adoption_rescue/96933-kitty-kat-haven-rescue-hoover-alabama",
+  "phone": "(205) 302-8883"
  },
  {
   "state": "AL",
@@ -554,7 +565,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "directory",
-  "source": "https://adoptapet.com/adoption_rescue/75280-calhoun-county-humane-society-inc-anniston-alabama"
+  "source": "https://adoptapet.com/adoption_rescue/75280-calhoun-county-humane-society-inc-anniston-alabama",
+  "phone": "(256) 405-6680"
  },
  {
   "state": "AL",
@@ -570,7 +582,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
-  "source": "https://alabamaanimaladvocates.com/al-talladega.html"
+  "source": "https://alabamaanimaladvocates.com/al-talladega.html",
+  "phone": "(256) 391-4142"
  },
  {
   "state": "AL",
@@ -586,7 +599,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
-  "source": "https://alabamaanimaladvocates.com/al-talladega.html"
+  "source": "https://alabamaanimaladvocates.com/al-talladega.html",
+  "phone": "(256) 362-8186"
  },
  {
   "state": "AL",
@@ -602,7 +616,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
-  "source": "https://alabamaanimaladvocates.com/al-clay.html"
+  "source": "https://alabamaanimaladvocates.com/al-clay.html",
+  "phone": "(256) 354-1453"
  },
  {
   "state": "AL",
@@ -618,7 +633,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
-  "source": "https://alabamaanimaladvocates.com/al-randolph.html"
+  "source": "https://alabamaanimaladvocates.com/al-randolph.html",
+  "phone": "(256) 357-0101"
  },
  {
   "state": "AL",
@@ -634,7 +650,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
-  "source": "https://alabamaanimaladvocates.com/al-chambers.html"
+  "source": "https://alabamaanimaladvocates.com/al-chambers.html",
+  "phone": "(334) 756-9377"
  },
  {
   "state": "AL",
@@ -681,7 +698,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "cbollack@chiltoncounty.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(205) 755-1551"
  },
  {
   "state": "AL",
@@ -713,7 +731,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 409-0622"
  },
  {
   "state": "AL",
@@ -728,7 +747,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hselco@bellsouth.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 567-3377"
  },
  {
   "state": "AL",
@@ -743,7 +763,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "prattvilleautaugahumane@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 358-2882"
  },
  {
   "state": "AL",
@@ -773,7 +794,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "alabama@bdrr.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(561) 791-6465"
  },
  {
   "state": "AL",
@@ -789,7 +811,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://www.greenvilleadvocate.com/?p=190353"
+  "source": "https://www.greenvilleadvocate.com/?p=190353",
+  "phone": "(334) 382-2647"
  },
  {
   "state": "AL",
@@ -805,7 +828,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://selma-al.gov/job-openings/animal-shelter-coordinator/"
+  "source": "https://selma-al.gov/job-openings/animal-shelter-coordinator/",
+  "phone": "(334) 876-1220"
  },
  {
   "state": "AL",
@@ -883,7 +907,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source": "https://today.troy.edu/trojanvision/2025/06/12/troy-animal-rescue-project-begins-doggy-day-out-program/"
+  "source": "https://today.troy.edu/trojanvision/2025/06/12/troy-animal-rescue-project-begins-doggy-day-out-program/",
+  "phone": "(334) 508-2367"
  },
  {
   "state": "AL",
@@ -898,7 +923,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@daphneal.com",
-  "phone": "",
+  "phone": "(251) 620-1000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12957362938"
  },
@@ -915,7 +940,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@cityofmobile.org",
-  "phone": "",
+  "phone": "(251) 208-2807",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1259202780"
  },
@@ -1002,7 +1027,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(251) 574-3647"
  },
  {
   "state": "AL",
@@ -1033,7 +1059,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(251) 679-5570"
  },
  {
   "state": "AL",
@@ -1068,7 +1095,8 @@
     "url": "https://www.havenforanimals.org/programs/",
     "place": "PetSmart"
    }
-  ]
+  ],
+  "phone": "(251) 929-3980"
  },
  {
   "state": "AL",
@@ -1083,7 +1111,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@baldwinhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(251) 928-4585"
  },
  {
   "state": "AL",
@@ -1098,7 +1127,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dogsrus@frontiernet.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(251) 575-3427"
  },
  {
   "state": "AL",
@@ -1177,7 +1207,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 222-8705"
  },
  {
   "state": "AL",
@@ -1238,7 +1269,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 774-4633"
  },
  {
   "state": "AL",
@@ -1253,6 +1285,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 615-3000"
  }
 ]

@@ -11,7 +11,8 @@
   "notes": "Free foster field trips: take an adoptable dog for a walk, hike, cafe visit or time at home, with optional overnight. Walk-ins welcome at Newington or schedule at cthumane.org/fieldtrip.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "info@cthumane.org"
+  "email_main": "info@cthumane.org",
+  "phone": "(800) 452-0114"
  },
  {
   "state": "CT",
@@ -77,7 +78,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(203) 389-3400",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9796045139"
  },
@@ -213,7 +214,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(203) 262-0600",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/942081875"
  },
@@ -281,7 +282,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@cthumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(800) 452-0114"
  },
  {
   "state": "CT",
@@ -304,7 +306,8 @@
     "url": "https://cthumane.org/event/reading-to-pets-in-waterford-dec/",
     "place": "CHS Waterford, 169 Old Colchester Rd, Quaker Hill"
    }
-  ]
+  ],
+  "phone": "(800) 452-0114"
  },
  {
   "state": "CT",
@@ -349,7 +352,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 535-2877"
  },
  {
   "state": "CT",
@@ -394,7 +398,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 242-5501"
  },
  {
   "state": "CT",
@@ -424,7 +429,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aco@windhamct.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 465-3000"
  },
  {
   "state": "CT",
@@ -439,7 +445,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 342-6743"
  },
  {
   "state": "CT",
@@ -454,7 +461,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 673-6789"
  },
  {
   "state": "CT",
@@ -469,7 +477,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 924-2501"
  },
  {
   "state": "CT",
@@ -529,7 +538,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 672-6346"
  },
  {
   "state": "CT",
@@ -591,7 +601,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@meridenhumanesocietyrescue.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 238-3650"
  },
  {
   "state": "CT",
@@ -636,7 +647,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.shelter@bridgeportct.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 576-7727"
  },
  {
   "state": "CT",
@@ -666,7 +678,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 622-8299"
  },
  {
   "state": "CT",
@@ -681,7 +694,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pmiller@fairfieldct.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 254-4857"
  },
  {
   "state": "CT",
@@ -696,7 +710,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 261-3665"
  },
  {
   "state": "CT",
@@ -741,7 +756,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 597-3444"
  },
  {
   "state": "CT",
@@ -756,7 +772,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 230-4000"
  },
  {
   "state": "CT",
@@ -771,7 +788,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 937-3500"
  },
  {
   "state": "CT",
@@ -801,7 +819,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 729-4324"
  },
  {
   "state": "CT",
@@ -846,7 +865,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 584-6100"
  },
  {
   "state": "CT",
@@ -861,7 +881,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 638-4030"
  },
  {
   "state": "CT",
@@ -891,7 +912,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 870-3599"
  },
  {
   "state": "CT",
@@ -936,7 +958,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 848-3529"
  },
  {
   "state": "CT",
@@ -951,7 +974,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "kstone@plainfieldct.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 564-8547"
  },
  {
   "state": "CT",
@@ -966,6 +990,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 434-1605"
  }
 ]

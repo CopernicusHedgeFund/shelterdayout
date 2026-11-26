@@ -25,7 +25,8 @@
   "notes": "existing details kept.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(757) 382-2489"
  },
  {
   "state": "VA",
@@ -57,7 +58,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(804) 462-7175",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8150181651"
  },
@@ -142,7 +143,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(571) 931-0796",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14214338686"
  },
@@ -176,7 +177,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(703) 931-9241",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/211288208"
  },
@@ -227,7 +228,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ccas@chesterfield.gov",
-  "phone": "",
+  "phone": "(804) 748-1683",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/235732512"
  },
@@ -269,7 +270,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(757) 933-8900",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/304316982"
  },
@@ -286,7 +287,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(757) 221-0150",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/370034088",
   "events": [
@@ -334,7 +335,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(703) 257-8200",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/453605377"
  },
@@ -368,7 +369,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(540) 898-1500",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/573532717"
  },
@@ -419,7 +420,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(804) 966-9861",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/692502928"
  },
@@ -436,7 +437,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(804) 365-6000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/722741236"
  },
@@ -453,7 +454,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(540) 662-8616",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/733100424"
  },
@@ -555,7 +556,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(540) 364-3272",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/998872858"
  },
@@ -623,7 +624,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(540) 635-0262",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1120299026"
  },
@@ -674,7 +675,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(540) 657-7387",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1335619778"
  },
@@ -691,7 +692,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(434) 263-7722",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1526837304"
  },
@@ -708,7 +709,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@caspca.org",
-  "phone": "",
+  "phone": "(434) 973-5959",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "relation/16006257"
  },
@@ -725,7 +726,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 658-4450"
  },
  {
   "state": "VA",
@@ -785,7 +787,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 434-5270"
  },
  {
   "state": "VA",
@@ -860,7 +863,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 556-5800"
  },
  {
   "state": "VA",
@@ -875,7 +879,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ameliaanimalshelter@ameliacova.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 561-3039"
  },
  {
   "state": "VA",
@@ -950,7 +955,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 645-8696"
  },
  {
   "state": "VA",
@@ -965,7 +971,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 492-3800"
  },
  {
   "state": "VA",
@@ -980,7 +987,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 696-2142"
  },
  {
   "state": "VA",
@@ -1010,7 +1018,8 @@
   "checked": "November 2026",
   "email_program": "beachbuddies@vbspca.com",
   "email_main": "info@vbspca.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 427-0071"
  },
  {
   "state": "VA",
@@ -1040,7 +1049,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Mjones@surrycountyva.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 294-0158"
  },
  {
   "state": "VA",
@@ -1100,7 +1110,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 848-3107"
  },
  {
   "state": "VA",
@@ -1115,7 +1126,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 546-5355"
  },
  {
   "state": "VA",
@@ -1167,7 +1179,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Info4bhs@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 586-6100"
  },
  {
   "state": "VA",
@@ -1182,7 +1195,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dahsinc1975@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 799-0843"
  },
  {
   "state": "VA",
@@ -1197,7 +1211,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "exec@spcamhc.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 638-7297"
  },
  {
   "state": "VA",
@@ -1242,7 +1257,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@plannedpethoodrockymount.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 489-3491"
  },
  {
   "state": "VA",
@@ -1257,7 +1273,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mail@rcacp.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 344-4922"
  },
  {
   "state": "VA",
@@ -1287,7 +1304,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 344-8707"
  },
  {
   "state": "VA",
@@ -1302,7 +1320,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@salemva.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 375-3038"
  },
  {
   "state": "VA",
@@ -1317,7 +1336,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 862-2436"
  },
  {
   "state": "VA",
@@ -1332,7 +1352,8 @@
   "checked": "November 2026",
   "email_program": "animalcenter@montgomerycountyva.gov",
   "email_main": "animalcenter@montgomerycountyva.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 382-5795"
  },
  {
   "state": "VA",
@@ -1347,7 +1368,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pulaskicountyac@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 674-8359"
  },
  {
   "state": "VA",
@@ -1393,7 +1415,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 223-4500"
  },
  {
   "state": "VA",
@@ -1408,7 +1431,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 646-2222"
  },
  {
   "state": "VA",
@@ -1423,7 +1447,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 676-6210"
  },
  {
   "state": "VA",
@@ -1483,7 +1508,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 935-6500"
  },
  {
   "state": "VA",
@@ -1498,7 +1524,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 926-1676"
  },
  {
   "state": "VA",
@@ -1513,7 +1540,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal_control@wisecounty.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 328-2321"
  },
  {
   "state": "VA",
@@ -1528,7 +1556,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 386-6521"
  },
  {
   "state": "VA",
@@ -1543,7 +1572,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "lcac@leecova.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(276) 346-7714"
  },
  {
   "state": "VA",
@@ -1588,7 +1618,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 937-3336"
  },
  {
   "state": "VA",
@@ -1618,7 +1649,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 894-4219"
  },
  {
   "state": "VA",
@@ -1633,7 +1665,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 541-2200"
  },
  {
   "state": "VA",
@@ -1648,7 +1681,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 469-4500"
  },
  {
   "state": "VA",
@@ -1678,7 +1712,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "HSofAC@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 946-2340"
  },
  {
   "state": "VA",
@@ -1708,7 +1743,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@southsidespca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 736-9595"
  },
  {
   "state": "VA",
@@ -1738,7 +1774,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aco@buckinghamva.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 969-4242"
  },
  {
   "state": "VA",
@@ -1753,7 +1790,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@norfolkspca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 622-3319"
  },
  {
   "state": "VA",
@@ -1768,7 +1806,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@portsmouthhumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 397-6004"
  },
  {
   "state": "VA",
@@ -1783,7 +1822,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jwilson@gloucesterva.info",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 693-5290"
  },
  {
   "state": "VA",
@@ -1843,7 +1883,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 829-9265"
  },
  {
   "state": "VA",
@@ -1858,7 +1899,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 493-0869"
  },
  {
   "state": "VA",
@@ -1873,7 +1915,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@northumberlandsheriff.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 529-5031"
  },
  {
   "state": "VA",
@@ -1888,7 +1931,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 758-4330"
  },
  {
   "state": "VA",
@@ -1918,7 +1962,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shorespca@verizon.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 787-7385"
  },
  {
   "state": "VA",
@@ -1933,7 +1978,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 653-3015"
  },
  {
   "state": "VA",
@@ -1948,7 +1994,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "staff@rockbridgespca.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 463-5123"
  },
  {
   "state": "VA",
@@ -1979,7 +2026,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(434) 374-8076"
  },
  {
   "state": "VA",
