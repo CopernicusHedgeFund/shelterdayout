@@ -2,19 +2,19 @@
  {
   "city": "Bedford",
   "org": "Animal Rescue League of NH",
-  "url": "https://www.rescueleague.org/",
+  "url": "https://www.rescueleague.org/dogfoster",
   "phone": "+1-603-472-3647",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/704705659",
   "state": "NH",
   "checked": "November 2026",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "notes": "",
+  "program": "Rovernights",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Sleepover",
+  "notes": "Approved ARLNH dog fosters can take qualifying dogs for short overnight \"Rovernights\" stays; apply via the foster application on the Dog Foster page.",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@rescueleague.org"
  },
  {
   "city": "Stratham",
@@ -31,7 +31,27 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@nhspca.org",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Black Friday pick-your-price adoptions (adult dogs, adult cats, small animals)",
+    "url": "https://nhspca.org/adopt/",
+    "place": "New Hampshire SPCA, Stratham"
+   },
+   {
+    "date": "2026-12-09",
+    "title": "Adoption Event at Churchill's Garden Center",
+    "url": "https://nhspca.org/event/adoption-event-at-churchills-garden-center-8/",
+    "place": "Churchill's Garden Center, Exeter"
+   },
+   {
+    "date": "2026-12-16",
+    "title": "Adoption Event at Petco in Dover",
+    "url": "https://nhspca.org/event/adoption-event-at-petco-in-dover-2/",
+    "place": "Petco, Dover"
+   }
+  ]
  },
  {
   "city": "Manchester",
@@ -48,7 +68,7 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@manchesteranimalshelter.org"
  },
  {
   "city": "Dover",
@@ -70,7 +90,7 @@
  {
   "city": "Concord",
   "org": "Pope Memorial SPCA of Concord-Merrimack County",
-  "url": "https://www.popememorialspca.org/",
+  "url": "https://www.pmspca.org/",
   "source_list": "shelter website",
   "state": "NH",
   "checked": "November 2026",
@@ -80,7 +100,7 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@pmspca.org"
  },
  {
   "city": "Nashua",
@@ -98,7 +118,7 @@
   "email_main": ""
  },
  {
-  "city": "West Swanzey",
+  "city": "Swanzey",
   "org": "Monadnock Humane Society",
   "url": "https://monadnockhumanesociety.org/",
   "phone": "",
@@ -117,8 +137,8 @@
  {
   "city": "Claremont",
   "org": "Sullivan County Humane Society",
-  "url": "",
-  "notes": "14 Tremont St, Claremont. Official website could not be located/verified.",
+  "url": "https://www.sullivancountyhumanesociety.org/",
+  "notes": "Feline shelter and adoption center at 14 Tremont St, Claremont.",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9067178159",
@@ -126,10 +146,10 @@
   "checked": "November 2026",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "email_program": "",
-  "email_main": ""
+  "email_main": "sullivanhumane@hotmail.com"
  },
  {
   "city": "Enfield",
@@ -144,21 +164,21 @@
   "offers": "",
   "notes": "",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@uvhs.org"
  },
  {
   "city": "Laconia",
   "org": "New Hampshire Humane Society",
-  "url": "https://www.nhhumane.org/",
+  "url": "https://www.nhhumane.org/properties/cozy-minimalist-apartment",
   "source_list": "shelter website",
   "state": "NH",
   "checked": "November 2026",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "notes": "",
-  "email_program": "",
+  "program": "Dog for a Day",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "notes": "Approved volunteers take a shelter dog out for a short outing (walk, hike or drive for a pup cup), typically up to a couple of hours; contact Programs@NHHumane.org.",
+  "email_program": "Programs@NHHumane.org",
   "email_main": ""
  },
  {
@@ -177,12 +197,12 @@
   "email_main": ""
  },
  {
-  "city": "Goffstown",
+  "city": "Manchester",
   "org": "Darbster Kitty",
   "animals": "Cats",
-  "url": "https://darbsterkitty.com",
-  "notes": "Cat rescue (Pinardville/Goffstown area). Not verified this session (web search/fetch limits reached); confirm official site.",
-  "checked": "",
+  "url": "https://www.darbsterfoundation.com/darbster-kitty/adopt/",
+  "notes": "Darbster Foundation cat adoption center at 332 Kelley St, Manchester; walk-ins Tue-Sun.",
+  "checked": "November 2026",
   "phone": "+1-603-856-9233",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/805146246",
@@ -194,37 +214,182 @@
   "email_main": ""
  },
  {
-  "city": "Manchester",
-  "org": "Animal Allies",
-  "url": "https://animalallies.org/",
-  "notes": "Existing row; could not confirm a NH adoption facility (animalallies.org is also the domain of a Duluth, MN shelter). Not verified this session (web search/fetch limits reached); confirm official site.",
-  "checked": "November 2026",
-  "phone": "+1-603-228-6755",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/860230565",
   "state": "NH",
+  "city": "Ossipee",
+  "org": "Lakes Region Humane Society",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
+  "url": "https://lrhs.net/",
+  "notes": "",
+  "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@lrhs.net",
+  "source_list": "shelter website"
  },
  {
-  "city": "Rochester",
-  "org": "Alpha Dog Rescue",
-  "animals": "Dogs",
-  "url": "",
-  "notes": "Existing row; could not confirm whether it has a physical adoption facility. Not verified this session (web search/fetch limits reached); confirm official site.",
-  "checked": "November 2026",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1189894036",
   "state": "NH",
+  "city": "Conway",
+  "org": "Conway Area Humane Society",
   "program": "No day-out program yet",
   "status": "No program yet",
+  "animals": "Dogs and cats",
   "offers": "",
+  "url": "https://www.conwayhumane.org/",
+  "notes": "",
+  "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@conwayhumane.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Littleton",
+  "org": "Second Chance Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "http://www.secondchancear.org/",
+  "notes": "No-kill cat shelter in Littleton; visits by appointment.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Chichester",
+  "org": "Darbster Doggy (Darbster Foundation)",
+  "program": "Darbster Day Trip",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://www.darbsterfoundation.com/darbster-doggy/volunteer-foster/",
+  "notes": "Darbster volunteers (under the foster program) sign up online to take a dog from the Chichester ranch on a short outing such as a beach or dog-friendly shop; dogs may not meet other dogs on trips. Apply via the volunteer application.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "frontdesk@darbster.net",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Merrimack",
+  "org": "Darbster Adoption Center (Merrimack Premium Outlets)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.darbsterfoundation.com/adoption-center/",
+  "notes": "Darbster Foundation adoption center at Merrimack Premium Outlets.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Chichester",
+  "org": "Live and Let Live Farm",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "http://www.liveandletlivefarm.org/",
+  "notes": "Farm rescue and sanctuary at 20 Paradise Lane that also shelters and adopts out dogs and cats; visits by appointment.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "adoptions@liveandletlivefarm.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Barrington",
+  "org": "Mary's Dogs Rescue & Adoption",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "http://www.marysdogs.org/",
+  "notes": "Rescue with a licensed NH facility where transported dogs are housed; visits by appointment.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Rochester",
+  "org": "FuRRR Feline Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://furrr.org/",
+  "notes": "Cage-free cat rescue facility in Gonic (Rochester); visits by appointment.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "allpawsin@furrr.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Pelham",
+  "org": "Animal Rescue Network of New England (ARNNE)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://arnne.org/",
+  "notes": "Staffed dog shelter in Pelham plus foster homes.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@arnne.org",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-19",
+    "title": "Pet Adoption Day (held 3rd Saturday monthly)",
+    "url": "https://arnne.org/pet-adoption-days/",
+    "place": "Pelham, NH"
+   },
+   {
+    "date": "2027-01-16",
+    "title": "Pet Adoption Day (held 3rd Saturday monthly)",
+    "url": "https://arnne.org/pet-adoption-days/",
+    "place": "Pelham, NH"
+   }
+  ]
+ },
+ {
+  "state": "NH",
+  "city": "Northwood",
+  "org": "Pet Tails Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://pettailsrescue.org/",
+  "notes": "Listed as a facility-based rescue at 1172 First NH Turnpike, Northwood (open Wed/Thu); also uses foster homes.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "maureen@pettailsrescue.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NH",
+  "city": "Jaffrey",
+  "org": "Monadnock Kitty Rescue & Adoption",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://kittyrescuenh.org/",
+  "notes": "No-kill cat shelter at 11 Plantation Dr, Jaffrey; open Tue/Thu evenings and Saturday mornings.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@kittyrescuenh.org",
+  "source_list": "shelter website"
  }
 ]

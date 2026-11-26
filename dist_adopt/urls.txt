@@ -78,6 +78,7 @@ https://shelteradoption.com/cities/chehalis-wa/
 https://shelteradoption.com/cities/chesapeake-va/
 https://shelteradoption.com/cities/cheyenne-wy/
 https://shelteradoption.com/cities/chicago-il/
+https://shelteradoption.com/cities/chichester-nh/
 https://shelteradoption.com/cities/chico-ca/
 https://shelteradoption.com/cities/cincinnati-oh/
 https://shelteradoption.com/cities/cleveland-oh/
@@ -426,7 +427,6 @@ https://shelteradoption.com/shelters/almost-home-animal-haven-of-southfield-bing
 https://shelteradoption.com/shelters/almost-home-animal-shelter-dickinson-county-humane-society-quinnesec/
 https://shelteradoption.com/shelters/almost-home-shelter-and-rescue-van-buren/
 https://shelteradoption.com/shelters/alpena-county-animal-control-alpena/
-https://shelteradoption.com/shelters/alpha-dog-rescue-rochester/
 https://shelteradoption.com/shelters/alvarado-animal-services-alvarado/
 https://shelteradoption.com/shelters/alvin-animal-adoption-center-alvin/
 https://shelteradoption.com/shelters/always-and-furever-osawatomie-animal-shelter-osawatomie/
@@ -454,7 +454,6 @@ https://shelteradoption.com/shelters/animal-aid-inc-oakland-park/
 https://shelteradoption.com/shelters/animal-aid-portland/
 https://shelteradoption.com/shelters/animal-alliance-of-nj-lambertville/
 https://shelteradoption.com/shelters/animal-allies-humane-society-duluth/
-https://shelteradoption.com/shelters/animal-allies-manchester/
 https://shelteradoption.com/shelters/animal-ark-hastings/
 https://shelteradoption.com/shelters/animal-ark-rescue-columbus/
 https://shelteradoption.com/shelters/animal-care-and-control-anderson/
@@ -507,6 +506,7 @@ https://shelteradoption.com/shelters/animal-rescue-league-of-boston-dedham-anima
 https://shelteradoption.com/shelters/animal-rescue-league-of-el-paso-canutillo/
 https://shelteradoption.com/shelters/animal-rescue-league-of-iowa-des-moines/
 https://shelteradoption.com/shelters/animal-rescue-league-of-nh-bedford/
+https://shelteradoption.com/shelters/animal-rescue-network-of-new-england-arnne-pelham/
 https://shelteradoption.com/shelters/animal-rescue-of-fresno-fresno/
 https://shelteradoption.com/shelters/animal-rescue-project-kalamazoo/
 https://shelteradoption.com/shelters/animal-rescue-rhode-island-peace-dale/
@@ -1079,6 +1079,7 @@ https://shelteradoption.com/shelters/contra-costa-animal-services-pinole-shelter
 https://shelteradoption.com/shelters/contra-costa-humane-society-pleasant-hill/
 https://shelteradoption.com/shelters/converse-county-animal-shelter-douglas/
 https://shelteradoption.com/shelters/conway-animal-services-conway/
+https://shelteradoption.com/shelters/conway-area-humane-society-conway/
 https://shelteradoption.com/shelters/cookeville-putnam-county-animal-shelter-cookeville/
 https://shelteradoption.com/shelters/coos-county-animal-shelter-coos-bay/
 https://shelteradoption.com/shelters/copper-country-humane-society-houghton/
@@ -1131,7 +1132,9 @@ https://shelteradoption.com/shelters/dane-county-humane-society-madison/
 https://shelteradoption.com/shelters/danville-area-humane-society-danville-city-animal-shelter-danville/
 https://shelteradoption.com/shelters/danville-boyle-county-humane-society-danville/
 https://shelteradoption.com/shelters/daphne-animal-shelter-daphne/
-https://shelteradoption.com/shelters/darbster-kitty-goffstown/
+https://shelteradoption.com/shelters/darbster-adoption-center-merrimack-premium-outlets-merrimack/
+https://shelteradoption.com/shelters/darbster-doggy-darbster-foundation-chichester/
+https://shelteradoption.com/shelters/darbster-kitty-manchester/
 https://shelteradoption.com/shelters/dare-county-animal-shelter-outer-banks-spca-manteo/
 https://shelteradoption.com/shelters/darlington-county-humane-society-hartsville/
 https://shelteradoption.com/shelters/davidson-county-animal-shelter-lexington/
@@ -1364,6 +1367,7 @@ https://shelteradoption.com/shelters/furkids-cat-adoption-center-east-cobb-marie
 https://shelteradoption.com/shelters/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/
 https://shelteradoption.com/shelters/furkids-johns-creek-cat-adoption-and-community-resource-center-johns-creek/
 https://shelteradoption.com/shelters/furkids-peachtree-corners-cat-adoption-and-community-resource-center-peachtree-corners/
+https://shelteradoption.com/shelters/furrr-feline-rescue-rochester/
 https://shelteradoption.com/shelters/furry-babies-janesville/
 https://shelteradoption.com/shelters/furry-friends-refuge-west-des-moines/
 https://shelteradoption.com/shelters/gabby-s-sanctuary-ark-desoto/
@@ -1973,6 +1977,7 @@ https://shelteradoption.com/shelters/lake-lowell-animal-rescue-nampa/
 https://shelteradoption.com/shelters/lake-martin-humane-society-alexander-city/
 https://shelteradoption.com/shelters/lake-of-the-woods-humane-society-baudette/
 https://shelteradoption.com/shelters/lakeland-animal-shelter-delavan/
+https://shelteradoption.com/shelters/lakes-region-humane-society-ossipee/
 https://shelteradoption.com/shelters/lakeshore-paws-valparaiso/
 https://shelteradoption.com/shelters/lamar-county-animal-services-barnesville/
 https://shelteradoption.com/shelters/lanai-cat-sanctuary-lana-i-city/
@@ -2050,6 +2055,7 @@ https://shelteradoption.com/shelters/little-rascals-cat-sanctuary-manistee/
 https://shelteradoption.com/shelters/little-rock-animal-village-little-rock-animal-services-little-rock/
 https://shelteradoption.com/shelters/little-shelter-animal-rescue-and-adoption-center-huntington/
 https://shelteradoption.com/shelters/little-traverse-bay-humane-society-harbor-springs/
+https://shelteradoption.com/shelters/live-and-let-live-farm-chichester/
 https://shelteradoption.com/shelters/live-oak-animal-care-and-control-live-oak/
 https://shelteradoption.com/shelters/living-free-animal-sanctuary-mountain-center/
 https://shelteradoption.com/shelters/living-grace-canine-ranch-bertram/
@@ -2152,6 +2158,7 @@ https://shelteradoption.com/shelters/martin-county-humane-society-fairmont/
 https://shelteradoption.com/shelters/martin-county-humane-society-loogootee/
 https://shelteradoption.com/shelters/mary-ann-morris-animal-society-mamas-bamberg/
 https://shelteradoption.com/shelters/mary-hall-ruddiman-canine-shelter-marion/
+https://shelteradoption.com/shelters/mary-s-dogs-rescue-and-adoption-barrington/
 https://shelteradoption.com/shelters/mary-s-roberts-pet-adoption-center-riverside/
 https://shelteradoption.com/shelters/maryland-spca-baltimore/
 https://shelteradoption.com/shelters/mason-county-animal-control-ludington/
@@ -2246,7 +2253,8 @@ https://shelteradoption.com/shelters/mobile-spca-mobile/
 https://shelteradoption.com/shelters/mochas-and-meows-branson/
 https://shelteradoption.com/shelters/mohave-county-animal-shelter-kingman/
 https://shelteradoption.com/shelters/mohawk-hudson-humane-society-menands/
-https://shelteradoption.com/shelters/monadnock-humane-society-west-swanzey/
+https://shelteradoption.com/shelters/monadnock-humane-society-swanzey/
+https://shelteradoption.com/shelters/monadnock-kitty-rescue-and-adoption-jaffrey/
 https://shelteradoption.com/shelters/mondak-animal-rescue-williston/
 https://shelteradoption.com/shelters/monmouth-county-spca-eatontown/
 https://shelteradoption.com/shelters/mono-county-animal-services-whitmore-shelter-mammoth-lakes/
@@ -2581,6 +2589,7 @@ https://shelteradoption.com/shelters/pet-refuge-north-kingstown-exeter-animal-pr
 https://shelteradoption.com/shelters/pet-refuge-south-bend/
 https://shelteradoption.com/shelters/pet-relief-north-syracuse/
 https://shelteradoption.com/shelters/pet-rescue-by-judy-sanford/
+https://shelteradoption.com/shelters/pet-tails-rescue-northwood/
 https://shelteradoption.com/shelters/petaluma-animal-services-petaluma/
 https://shelteradoption.com/shelters/petersburg-animal-care-and-control-petersburg/
 https://shelteradoption.com/shelters/pets-alive-buffalo/
@@ -2883,6 +2892,7 @@ https://shelteradoption.com/shelters/seattle-humane-bellevue/
 https://shelteradoption.com/shelters/secaucus-animal-shelter-secaucus/
 https://shelteradoption.com/shelters/second-chance-animal-adoption-bonners-ferry/
 https://shelteradoption.com/shelters/second-chance-animal-center-arlington/
+https://shelteradoption.com/shelters/second-chance-animal-rescue-littleton/
 https://shelteradoption.com/shelters/second-chance-animal-rescue-norman/
 https://shelteradoption.com/shelters/second-chance-animal-sanctuaries-tioga/
 https://shelteradoption.com/shelters/second-chance-animal-services-east-brookfield/
