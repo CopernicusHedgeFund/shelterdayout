@@ -136,6 +136,7 @@ function inbox_apply_replies(array $items): array {
             $to = $q[$id]['from'];                      // only ever the original sender
             $subj = trim((string)($it['subject'] ?? '')) ?: ('Re: ' . ($q[$id]['subject'] ?: 'Your message to ShelterDayOut'));
             $txt = (string)$it['body'];
+            if (($q[$id]['to'] ?? '') === 'hello@shelteradoption.com') $txt = str_replace('ShelterDayOut (a free directory run by Charity Good)', 'ShelterAdoption (a free directory run by Charity Good)', $txt);
             if (!sdo_mail($to, $subj, $txt, nl2br(sdo_h($txt)), '', '', $q[$id]['to'] ?? 'hello@shelterdayout.com')) { $skip++; inbox_log("send failed $id"); continue; }
             $q[$id]['status'] = 'replied'; $q[$id]['done'] = gmdate('c'); $sent++; inbox_log("replied $id to $to");
         } else { $q[$id]['status'] = 'closed'; $q[$id]['done'] = gmdate('c'); $closed++; inbox_log("closed $id"); }
