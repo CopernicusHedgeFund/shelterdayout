@@ -1371,7 +1371,6 @@ https://shelteradoption.com/shelters/florida-keys-spca-marathon-campus-marathon/
 https://shelteradoption.com/shelters/flower-mound-animal-adoption-center-flower-mound/
 https://shelteradoption.com/shelters/floyd-county-animal-control-dog-shelter-floyd/
 https://shelteradoption.com/shelters/floyd-county-animal-control-rome/
-https://shelteradoption.com/shelters/floyd-county-animal-shelter-jeffersonville/
 https://shelteradoption.com/shelters/floyd-county-animal-shelter-prestonsburg/
 https://shelteradoption.com/shelters/floydada-animal-shelter-floydada/
 https://shelteradoption.com/shelters/fluvanna-county-spca-troy/
@@ -1729,7 +1728,6 @@ https://shelteradoption.com/shelters/humane-society-for-greater-savannah-savanna
 https://shelteradoption.com/shelters/humane-society-for-hamilton-county-fishers/
 https://shelteradoption.com/shelters/humane-society-for-inland-mendocino-county-redwood-valley/
 https://shelteradoption.com/shelters/humane-society-for-southwest-washington-vancouver/
-https://shelteradoption.com/shelters/humane-society-northwest-indiana-lake-station/
 https://shelteradoption.com/shelters/humane-society-of-adams-county-west-union/
 https://shelteradoption.com/shelters/humane-society-of-amherst-county-amherst-county-adoption-center-amherst/
 https://shelteradoption.com/shelters/humane-society-of-atchison-atchison/
@@ -1810,6 +1808,7 @@ https://shelteradoption.com/shelters/humane-society-of-north-texas-fort-worth/
 https://shelteradoption.com/shelters/humane-society-of-northeast-georgia-gainesville/
 https://shelteradoption.com/shelters/humane-society-of-northern-virginia-dumfries/
 https://shelteradoption.com/shelters/humane-society-of-northwest-georgia-dalton/
+https://shelteradoption.com/shelters/humane-society-of-northwest-indiana-gary/
 https://shelteradoption.com/shelters/humane-society-of-northwest-montana-kalispell/
 https://shelteradoption.com/shelters/humane-society-of-ocean-city-ocean-city/
 https://shelteradoption.com/shelters/humane-society-of-otter-tail-county-fergus-falls/
@@ -2310,7 +2309,7 @@ https://shelteradoption.com/shelters/metter-animal-shelter-metter/
 https://shelteradoption.com/shelters/miami-county-animal-shelter-denver/
 https://shelteradoption.com/shelters/miami-county-animal-shelter-troy/
 https://shelteradoption.com/shelters/miami-dade-animal-services-doral/
-https://shelteradoption.com/shelters/michiana-humane-society-long-beach/
+https://shelteradoption.com/shelters/michiana-humane-society-michigan-city/
 https://shelteradoption.com/shelters/michigan-animal-rescue-league-pontiac/
 https://shelteradoption.com/shelters/michigan-anti-cruelty-society-detroit/
 https://shelteradoption.com/shelters/michigan-humane-berman-center-for-animal-care-westland/
@@ -3125,6 +3124,7 @@ https://shelteradoption.com/shelters/spca-westchester-briarcliff-manor/
 https://shelteradoption.com/shelters/spcala-p-d-pitchford-companion-animal-village-long-beach/
 https://shelteradoption.com/shelters/spcala-south-bay-pet-adoption-center-hawthorne/
 https://shelteradoption.com/shelters/special-pals-houston/
+https://shelteradoption.com/shelters/spencer-county-animal-control-operated-by-it-takes-a-village-no-kill-rescue-chrisney/
 https://shelteradoption.com/shelters/spencer-county-animal-control-taylorsville/
 https://shelteradoption.com/shelters/speranza-animal-rescue-mechanicsburg/
 https://shelteradoption.com/shelters/spotsylvania-county-animal-shelter-fredericksburg/
@@ -3210,6 +3210,7 @@ https://shelteradoption.com/shelters/suwannee-county-animal-services-mcalpin/
 https://shelteradoption.com/shelters/suwannee-valley-humane-society-madison/
 https://shelteradoption.com/shelters/swain-county-animal-services-bryson-city/
 https://shelteradoption.com/shelters/sweetwater-animal-control-sweetwater/
+https://shelteradoption.com/shelters/switzerland-county-animal-control-florence/
 https://shelteradoption.com/shelters/sylacauga-animal-shelter-sylacauga/
 https://shelteradoption.com/shelters/tabby-s-place-a-cat-sanctuary-ringoes/
 https://shelteradoption.com/shelters/tabby-town-cat-adoption-center-friends-for-felines-blasdell/
@@ -3339,6 +3340,7 @@ https://shelteradoption.com/shelters/tri-county-animal-rescue-boca-raton/
 https://shelteradoption.com/shelters/tri-county-animal-rescue-center-shippenville/
 https://shelteradoption.com/shelters/tri-county-animal-shelter-albany/
 https://shelteradoption.com/shelters/tri-county-animal-shelter-clearfield/
+https://shelteradoption.com/shelters/tri-county-animal-shelter-floyd-county-jeffersonville/
 https://shelteradoption.com/shelters/tri-county-animal-shelter-tyner/
 https://shelteradoption.com/shelters/tri-county-humane-society-saint-cloud/
 https://shelteradoption.com/shelters/tri-lakes-humane-society-reeds-spring/
