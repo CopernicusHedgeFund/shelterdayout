@@ -267,7 +267,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <body>
 <header class="site"><div class="wrap">
 <a class="logo" href="/">{LOGO}<span>Shelter<b>DayOut</b></span></a>
-<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/volunteer-at-an-animal-shelter/">Volunteer</a><a href="/find-a-vet/">Find a vet</a><a href="/for-shelters/">For shelters</a></nav>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/cats/">Cats</a><a href="/volunteer-at-an-animal-shelter/">Volunteer</a><a href="/find-a-vet/">Find a vet</a><a href="/for-shelters/">For shelters</a><a href="https://shelteradoption.com/" rel="noopener">Adopt</a></nav>
 </div></header>
 <main><div class="wrap">
 {body}
@@ -472,6 +472,7 @@ def build_home(rows, all_rows=None):
 {faq_html}
 <h2>Popular cities</h2>
 <p class="citylinks">{city_links}</p>
+<div class="band"><div style="flex:1 1 360px"><h2>Ready to adopt?</h2><p>Our sister site ShelterAdoption lists {len(all_rows):,} animal shelters and humane societies in every state, plus upcoming adoption events.</p></div><a class="btn" href="https://shelteradoption.com/" rel="noopener">Find a shelter to adopt from</a></div>
 <div class="band"><div style="flex:1 1 360px"><h2>Run a shelter?</h2><p>Get listed for free, update your details, or choose where outing requests go.</p></div><a class="btn" href="/for-shelters/">For shelters</a></div>
 {FILTER_JS}"""
     write("/", page(
@@ -573,6 +574,7 @@ def build_listings(rows):
 {f'<h2>Upcoming events</h2><ul class="evlist">{events_html(r, upcoming(r))}</ul>' if upcoming(r) else ""}
 <p>{req}{go}</p>
 {f'<p class="animal">Source: <a href="{esc(r["source"])}" rel="noopener nofollow" target="_blank">news coverage of this program</a></p>' if r.get("source") else ""}
+<p class="animal">Thinking of adopting? <a href="https://shelteradoption.com/shelters/{r['slug']}/" rel="noopener">See {esc(name)} on ShelterAdoption</a> for its adoptable pets and adoption events.</p>
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
 <p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests.</p>"""
         write(f"/listings/{r['slug']}/", page(
