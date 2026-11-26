@@ -18,6 +18,11 @@ jobs:
       - uses: actions/checkout@v4
       - name: Check links
         run: python3 tools/linkcheck.py
+      - name: Save dead-link list to main (the build hides dead links)
+        run: |
+          git config user.name shelterdayout-bot && git config user.email hello@shelterdayout.com
+          git add data/dead_links.json
+          git diff --cached --quiet || (git commit -qm "Link check: update dead links list" && for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 10; done)
       - name: Save results
         run: |
           mkdir -p out/data && cp data/linkcheck.json out/data/

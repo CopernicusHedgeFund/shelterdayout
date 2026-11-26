@@ -5,6 +5,7 @@ Reads data/listings.json (+ data/optins.json) and writes the full site to dist/.
 Re-run any time the data changes; the monthly update task does exactly that.
 """
 import html
+import collections
 import json
 import re
 import shutil
@@ -87,6 +88,15 @@ def load():
         r["types"] = tag_types(r["offers"])
         r["state_name"] = STATES[r["state"]]
         r["state_slug"] = slugify(STATES[r["state"]])
+        # dead links (found by the weekly link check) are hidden until the monthly refresh fixes them
+        if is_dead(r.get("url")):
+            r["url"] = ""
+        if is_dead(r.get("source")):
+            r["source"] = ""
+        for e in r.get("events", []):
+            if is_dead(e.get("url")):
+                e["url"] = ""
+        r["map"] = map_url(r["org"], r["city"], r["state"])
         r["requests"] = bool(r.get("email_main") or r.get("email_program") or optins.get(slug)) or r["status"] == NOPROG
     rows.sort(key=lambda r: (r["state"], STATUS_ORDER[r["status"]], r["city"], r["org"]))
     return rows, optins
@@ -597,6 +607,7 @@ def build_listings(rows):
 {note}
 {f'<h2>Upcoming events</h2><ul class="evlist">{events_html(r, upcoming(r))}</ul>' if upcoming(r) else ""}
 <p>{req}{go}</p>
+<p class="animal"><a href="{esc(r['map'])}" rel="noopener nofollow" target="_blank">Find {esc(name)} on the map</a> for directions, hours and phone.</p>
 {f'<p class="animal">Source: <a href="{esc(r["source"])}" rel="noopener nofollow" target="_blank">news coverage of this program</a></p>' if r.get("source") else ""}
 <p class="animal">Thinking of adopting? <a href="https://shelteradoption.com/shelters/{r['slug']}/" rel="noopener">See {esc(name)} on ShelterAdoption</a> for its adoptable pets and adoption events.</p>
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
@@ -796,6 +807,20 @@ def ev_when(e):
 
 
 PLACES = None
+DEAD = None
+
+
+def is_dead(u):
+    global DEAD
+    if DEAD is None:
+        f = ROOT / "data" / "dead_links.json"
+        DEAD = set(json.loads(f.read_text()).get("dead", [])) if f.exists() else set()
+    return bool(u) and u in DEAD
+
+
+def map_url(name, city, state, street=""):
+    from urllib.parse import quote_plus
+    return "https://www.google.com/maps/search/?api=1&query=" + quote_plus(" ".join(x for x in (name, street, city, state) if x))
 
 
 def coords(city, state):
@@ -983,7 +1008,7 @@ VET_JS = """<script>
 (function(){
  var q=document.getElementById('vq'),st=document.getElementById('vst'),em=document.getElementById('vem'),lc=document.getElementById('vlc'),out=document.getElementById('vout'),cnt=document.getElementById('vcount'),cache={};
  function esc(s){return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
- function row(v){var site=v.w?'<a href="'+esc(v.w)+'" rel="noopener nofollow" target="_blank">Website</a>':'';var ph=v.p?'<a href="tel:'+esc(v.p.replace(/[^0-9+]/g,''))+'">'+esc(v.p)+'</a>':'';
+ function row(v){var site=v.w?'<a href="'+esc(v.w)+'" rel="noopener nofollow" target="_blank">Website</a>':'';var ph=v.p?'<a href="tel:'+esc(v.p.replace(/[^0-9+]/g,''))+'">'+esc(v.p)+'</a>':'';var mp=v.m?'<a href="'+esc(v.m)+'" rel="noopener nofollow" target="_blank">Map &amp; hours</a>':'';site=site+(site&&mp?' \u00b7 ':'')+mp;
   return '<tr><td><b>'+esc(v.n)+'</b>'+(v.e?' <span class="badge b-open">24/7 emergency</span>':'')+(v.l?' <span class="badge b-check">Low-cost / nonprofit</span>':'')+'<br><span class="animal">'+esc(v.a||'')+'</span></td><td>'+esc(v.c)+', '+v.s+(v.z?' '+esc(v.z):'')+'</td><td>'+ph+(ph&&site?'<br>':'')+site+'</td></tr>';}
  var places={};
  function render(list){var t=(q.value||'').trim().toLowerCase(),okf=function(v){return !(em.checked&&!v.e)&&!(lc.checked&&!v.l);},r=list.filter(function(v){if(!okf(v))return false;if(!t)return true;return (v.n+' '+v.c+' '+(v.z||'')).toLowerCase().indexOf(t)>=0;});
@@ -1018,11 +1043,25 @@ def build_vets():
         site = (v.get("website") or "").split(";")[0].strip()
         if site and not site.startswith("http"):
             site = "https://" + site
+        if is_dead(site):
+            site = ""
         rec = {"n": v["name"], "c": v["city"], "s": v["state"], "z": (v.get("zip") or "")[:5], "a": v.get("street", ""),
                "p": (v.get("phone") or "").split(";")[0].strip(), "w": site, "g": [round(v["lat"], 3), round(v["lon"], 3)] if v.get("lat") and v.get("lon") else None,
                "e": 1 if v.get("emergency") == "yes" or re.search(r"emergency|24.?7|24 hour", v["name"], re.I) else 0,
                "l": 1 if lowcost.search(v["name"] + " " + v.get("operator", "")) or v.get("operator_type") in ("community", "ngo", "charity") else 0}
         by.setdefault(v["state"], []).append(rec)
+    # A chain's bare home page (e.g. thrivepetcare.com for dozens of clinics) isn't this clinic's site: link the map instead.
+    from urllib.parse import urlparse
+    homes = collections.Counter()
+    for lst in by.values():
+        for rec in lst:
+            if rec["w"] and urlparse(rec["w"]).path in ("", "/"):
+                homes[urlparse(rec["w"]).netloc.lower().removeprefix("www.")] += 1
+    for lst in by.values():
+        for rec in lst:
+            if rec["w"] and urlparse(rec["w"]).path in ("", "/") and homes[urlparse(rec["w"]).netloc.lower().removeprefix("www.")] >= 3:
+                rec["w"] = ""
+            rec["m"] = map_url(rec["n"], rec["c"], rec["s"], rec["a"])
     (DIST / "find-a-vet" / "data").mkdir(parents=True, exist_ok=True)
     total = 0
     for stc, lst in by.items():
@@ -1049,7 +1088,7 @@ def build_vets():
         name = STATES[stc]
         rows_html = "".join(
             f'<tr><td><b>{esc(r["n"])}</b>{" <span class=\"badge b-open\">24/7 emergency</span>" if r["e"] else ""}{" <span class=\"badge b-check\">Low-cost / nonprofit</span>" if r["l"] else ""}</td>'
-            f'<td>{esc(r["c"])}</td><td>{esc(r["p"])}{"<br>" if r["p"] and r["w"] else ""}{f"<a href=\"{esc(r["w"])}\" rel=\"noopener nofollow\" target=\"_blank\">Website</a>" if r["w"] else ""}</td></tr>'
+            f'<td>{esc(r["c"])}</td><td>{esc(r["p"])}{"<br>" if r["p"] and r["w"] else ""}{f"<a href=\"{esc(r["w"])}\" rel=\"noopener nofollow\" target=\"_blank\">Website</a> &middot; " if r["w"] else ""}<a href="{esc(r["m"])}" rel="noopener nofollow" target="_blank">Map &amp; hours</a></td></tr>'
             for r in lst)
         ne = sum(r["e"] for r in lst)
         cities = sorted({r["c"] for r in lst}, key=lambda c: -sum(1 for r in lst if r["c"] == c))[:5]

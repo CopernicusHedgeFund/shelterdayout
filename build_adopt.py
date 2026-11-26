@@ -313,6 +313,7 @@ def build_shelters(rows):
 {contact_html(r)}<dt>Last checked</dt><dd>{esc(r.get('checked', ''))}</dd>
 </dl>
 <p>{visit}</p>
+<p class="animal"><a href="{esc(r['map'])}" rel="noopener nofollow" target="_blank">Find {esc(r['org'])} on the map</a> for directions, hours and phone.</p>
 {f'<h2>Upcoming adoption events</h2><ul class="evlist">{ev_html}</ul>' if evs else ""}
 {dayout}
 <h2>How adoption usually works here</h2>

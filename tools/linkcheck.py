@@ -63,4 +63,7 @@ with cf.ThreadPoolExecutor(48) as ex:
             print(n, "done,", len(bad), "bad", flush=True)
 out = {"checked": len(urls), "bad_count": len(bad), "bad": bad, "generated": time.strftime("%Y-%m-%dT%H:%MZ", time.gmtime())}
 (ROOT / "data" / "linkcheck.json").write_text(json.dumps(out, indent=1, sort_keys=True))
+# definitely-dead links (page gone, domain gone, bad certificate): the build hides these and the monthly refresh fixes them
+dead = sorted(u for u, v in bad.items() if v["code"] in (404, 410) or (v["err"] or "").startswith(("URLError: [Errno -2]", "URLError: [Errno -5]", "URLError: [SSL: CERTIFICATE_VERIFY_FAILED")))
+(ROOT / "data" / "dead_links.json").write_text(json.dumps({"generated": out["generated"], "dead": dead}, indent=0))
 print("checked", len(urls), "bad", len(bad))

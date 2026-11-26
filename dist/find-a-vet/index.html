@@ -39,7 +39,7 @@
 (function(){
  var q=document.getElementById('vq'),st=document.getElementById('vst'),em=document.getElementById('vem'),lc=document.getElementById('vlc'),out=document.getElementById('vout'),cnt=document.getElementById('vcount'),cache={};
  function esc(s){return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
- function row(v){var site=v.w?'<a href="'+esc(v.w)+'" rel="noopener nofollow" target="_blank">Website</a>':'';var ph=v.p?'<a href="tel:'+esc(v.p.replace(/[^0-9+]/g,''))+'">'+esc(v.p)+'</a>':'';
+ function row(v){var site=v.w?'<a href="'+esc(v.w)+'" rel="noopener nofollow" target="_blank">Website</a>':'';var ph=v.p?'<a href="tel:'+esc(v.p.replace(/[^0-9+]/g,''))+'">'+esc(v.p)+'</a>':'';var mp=v.m?'<a href="'+esc(v.m)+'" rel="noopener nofollow" target="_blank">Map &amp; hours</a>':'';site=site+(site&&mp?' · ':'')+mp;
   return '<tr><td><b>'+esc(v.n)+'</b>'+(v.e?' <span class="badge b-open">24/7 emergency</span>':'')+(v.l?' <span class="badge b-check">Low-cost / nonprofit</span>':'')+'<br><span class="animal">'+esc(v.a||'')+'</span></td><td>'+esc(v.c)+', '+v.s+(v.z?' '+esc(v.z):'')+'</td><td>'+ph+(ph&&site?'<br>':'')+site+'</td></tr>';}
  var places={};
  function render(list){var t=(q.value||'').trim().toLowerCase(),okf=function(v){return !(em.checked&&!v.e)&&!(lc.checked&&!v.l);},r=list.filter(function(v){if(!okf(v))return false;if(!t)return true;return (v.n+' '+v.c+' '+(v.z||'')).toLowerCase().indexOf(t)>=0;});
