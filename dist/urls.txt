@@ -109,6 +109,7 @@ https://shelterdayout.com/cities/englewood-fl/
 https://shelterdayout.com/cities/escondido-ca/
 https://shelterdayout.com/cities/evansville-in/
 https://shelterdayout.com/cities/everett-wa/
+https://shelterdayout.com/cities/ewa-beach-hi/
 https://shelterdayout.com/cities/fairhope-al/
 https://shelterdayout.com/cities/fairmont-wv/
 https://shelterdayout.com/cities/fairport-ny/
@@ -142,6 +143,7 @@ https://shelterdayout.com/cities/helena-mt/
 https://shelterdayout.com/cities/henderson-nv/
 https://shelterdayout.com/cities/hinsdale-il/
 https://shelterdayout.com/cities/hobart-in/
+https://shelterdayout.com/cities/holualoa-hi/
 https://shelterdayout.com/cities/honolulu-hi/
 https://shelterdayout.com/cities/houston-tx/
 https://shelterdayout.com/cities/huntsville-al/
@@ -162,6 +164,7 @@ https://shelterdayout.com/cities/kokomo-in/
 https://shelterdayout.com/cities/laconia-nh/
 https://shelterdayout.com/cities/lafayette-in/
 https://shelterdayout.com/cities/lakeland-fl/
+https://shelterdayout.com/cities/lana-i-city-hi/
 https://shelterdayout.com/cities/lander-wy/
 https://shelterdayout.com/cities/laredo-tx/
 https://shelterdayout.com/cities/las-vegas-nv/
@@ -436,6 +439,7 @@ https://shelterdayout.com/listings/aggieland-humane-society-bryan/
 https://shelterdayout.com/listings/aheinz57-pet-rescue-and-shelter-de-soto/
 https://shelterdayout.com/listings/ahimsa-haven-animal-rescue-winchendon/
 https://shelterdayout.com/listings/aiken-county-animal-shelter-aiken/
+https://shelterdayout.com/listings/aka-ula-cat-garden-kualapuu/
 https://shelterdayout.com/listings/al-van-humane-society-south-haven/
 https://shelterdayout.com/listings/alachua-county-animal-resources-and-care-gainesville/
 https://shelterdayout.com/listings/alameda-animal-shelter-friends-of-the-alameda-animal-shelter-alameda/
@@ -1561,8 +1565,10 @@ https://shelterdayout.com/listings/hava-shelter-harbor-association-of-volunteers
 https://shelterdayout.com/listings/haven-humane-society-anderson/
 https://shelterdayout.com/listings/haven-to-home-rescue-sunbury/
 https://shelterdayout.com/listings/havre-animal-shelter-havre/
-https://shelterdayout.com/listings/hawaii-island-humane-society-keaau/
-https://shelterdayout.com/listings/hawaiian-humane-society-honolulu/
+https://shelterdayout.com/listings/hawaii-island-humane-society-animal-community-center-in-kona-holualoa/
+https://shelterdayout.com/listings/hawaii-island-humane-society-keaau-shelter-keaau/
+https://shelterdayout.com/listings/hawaiian-humane-society-kosasa-family-campus-at-ho-opili-ewa-beach/
+https://shelterdayout.com/listings/hawaiian-humane-society-m-ili-ili-campus-honolulu/
 https://shelterdayout.com/listings/hawk-creek-animal-shelter-willmar/
 https://shelterdayout.com/listings/hawkins-county-humane-society-rogersville/
 https://shelterdayout.com/listings/hayward-animal-services-hayward/
@@ -2730,6 +2736,7 @@ https://shelterdayout.com/listings/quitman-animal-shelter-quitman/
 https://shelterdayout.com/listings/rabun-paws-4-life-tiger/
 https://shelterdayout.com/listings/radford-police-animal-shelter-radford/
 https://shelterdayout.com/listings/rainbow-city-animal-services-rainbow-city/
+https://shelterdayout.com/listings/rainbow-friends-animal-sanctuary-kurtistown/
 https://shelterdayout.com/listings/ramapo-bergen-animal-refuge-rbari-oakland/
 https://shelterdayout.com/listings/ramona-humane-society-san-jacinto/
 https://shelterdayout.com/listings/rancho-coastal-humane-society-encinitas/

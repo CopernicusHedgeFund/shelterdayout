@@ -399,6 +399,7 @@ https://shelteradoption.com/shelters/aggieland-humane-society-bryan/
 https://shelteradoption.com/shelters/aheinz57-pet-rescue-and-shelter-de-soto/
 https://shelteradoption.com/shelters/ahimsa-haven-animal-rescue-winchendon/
 https://shelteradoption.com/shelters/aiken-county-animal-shelter-aiken/
+https://shelteradoption.com/shelters/aka-ula-cat-garden-kualapuu/
 https://shelteradoption.com/shelters/al-van-humane-society-south-haven/
 https://shelteradoption.com/shelters/alachua-county-animal-resources-and-care-gainesville/
 https://shelteradoption.com/shelters/alameda-animal-shelter-friends-of-the-alameda-animal-shelter-alameda/
@@ -1524,8 +1525,10 @@ https://shelteradoption.com/shelters/hava-shelter-harbor-association-of-voluntee
 https://shelteradoption.com/shelters/haven-humane-society-anderson/
 https://shelteradoption.com/shelters/haven-to-home-rescue-sunbury/
 https://shelteradoption.com/shelters/havre-animal-shelter-havre/
-https://shelteradoption.com/shelters/hawaii-island-humane-society-keaau/
-https://shelteradoption.com/shelters/hawaiian-humane-society-honolulu/
+https://shelteradoption.com/shelters/hawaii-island-humane-society-animal-community-center-in-kona-holualoa/
+https://shelteradoption.com/shelters/hawaii-island-humane-society-keaau-shelter-keaau/
+https://shelteradoption.com/shelters/hawaiian-humane-society-kosasa-family-campus-at-ho-opili-ewa-beach/
+https://shelteradoption.com/shelters/hawaiian-humane-society-m-ili-ili-campus-honolulu/
 https://shelteradoption.com/shelters/hawk-creek-animal-shelter-willmar/
 https://shelteradoption.com/shelters/hawkins-county-humane-society-rogersville/
 https://shelteradoption.com/shelters/hayward-animal-services-hayward/
@@ -2693,6 +2696,7 @@ https://shelteradoption.com/shelters/quitman-animal-shelter-quitman/
 https://shelteradoption.com/shelters/rabun-paws-4-life-tiger/
 https://shelteradoption.com/shelters/radford-police-animal-shelter-radford/
 https://shelteradoption.com/shelters/rainbow-city-animal-services-rainbow-city/
+https://shelteradoption.com/shelters/rainbow-friends-animal-sanctuary-kurtistown/
 https://shelteradoption.com/shelters/ramapo-bergen-animal-refuge-rbari-oakland/
 https://shelteradoption.com/shelters/ramona-humane-society-san-jacinto/
 https://shelteradoption.com/shelters/rancho-coastal-humane-society-encinitas/
