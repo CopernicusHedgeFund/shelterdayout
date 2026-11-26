@@ -125,7 +125,6 @@ https://shelteradoption.com/cities/greensboro-ga/
 https://shelteradoption.com/cities/greenville-nc/
 https://shelteradoption.com/cities/greenville-sc/
 https://shelteradoption.com/cities/hammond-la/
-https://shelteradoption.com/cities/harrisville-ut/
 https://shelteradoption.com/cities/hattiesburg-ms/
 https://shelteradoption.com/cities/hendersonville-nc/
 https://shelteradoption.com/cities/hot-springs-ar/
@@ -242,6 +241,7 @@ https://shelteradoption.com/cities/san-francisco-ca/
 https://shelteradoption.com/cities/san-jacinto-ca/
 https://shelteradoption.com/cities/san-jose-ca/
 https://shelteradoption.com/cities/san-luis-obispo-ca/
+https://shelteradoption.com/cities/sandy-ut/
 https://shelteradoption.com/cities/sanford-fl/
 https://shelteradoption.com/cities/santa-barbara-ca/
 https://shelteradoption.com/cities/santa-cruz-ca/
@@ -1254,6 +1254,7 @@ https://shelteradoption.com/shelters/henry-county-humane-society-geneseo-geneseo
 https://shelteradoption.com/shelters/henry-county-humane-society-napoleon/
 https://shelteradoption.com/shelters/heritage-humane-society-williamsburg/
 https://shelteradoption.com/shelters/hernando-county-sheriff-s-office-animal-services-brooksville/
+https://shelteradoption.com/shelters/herriman-city-animal-services-herriman/
 https://shelteradoption.com/shelters/hesperia-animal-shelter-hesperia/
 https://shelteradoption.com/shelters/hi-tor-animal-care-center-pomona/
 https://shelteradoption.com/shelters/high-country-humane-flagstaff/
@@ -1853,7 +1854,6 @@ https://shelteradoption.com/shelters/multnomah-county-animal-services-troutdale/
 https://shelteradoption.com/shelters/muncie-animal-care-services-muncie/
 https://shelteradoption.com/shelters/murphy-animal-shelter-murphy/
 https://shelteradoption.com/shelters/murray-calloway-co-animal-shelter-murray/
-https://shelteradoption.com/shelters/murray-city-animal-shelter-murray/
 https://shelteradoption.com/shelters/murray-county-animal-shelter-chatsworth/
 https://shelteradoption.com/shelters/muskingum-county-k-9-adoption-center-zanesville/
 https://shelteradoption.com/shelters/muttville-senior-dog-rescue-san-francisco/
@@ -1875,6 +1875,7 @@ https://shelteradoption.com/shelters/national-greyhound-adoption-program-philade
 https://shelteradoption.com/shelters/nebraska-humane-society-omaha/
 https://shelteradoption.com/shelters/neccog-animal-services-northeastern-ct-council-of-governments-regional-animal-shelter-dayville/
 https://shelteradoption.com/shelters/nelson-spca-lovingston/
+https://shelteradoption.com/shelters/nephi-city-animal-control-nephi/
 https://shelteradoption.com/shelters/nevada-animal-shelter-nevada/
 https://shelteradoption.com/shelters/nevada-humane-society-carson-city-carson-city/
 https://shelteradoption.com/shelters/nevada-humane-society-reno/
@@ -1987,7 +1988,6 @@ https://shelteradoption.com/shelters/owen-county-humane-society-spencer/
 https://shelteradoption.com/shelters/oxford-lafayette-humane-society-oxford/
 https://shelteradoption.com/shelters/ozark-humane-society-harrison/
 https://shelteradoption.com/shelters/p-a-t-c-h-pet-adoption-thru-caring-hands-pompton-lakes/
-https://shelteradoption.com/shelters/p-a-w-s-adoption-center-saint-george/
 https://shelteradoption.com/shelters/p-a-w-s-animal-adoption-center-camden/
 https://shelteradoption.com/shelters/p-a-w-s-people-s-animal-welfare-society-of-tinley-park-tinley-park/
 https://shelteradoption.com/shelters/page-county-animal-shelter-stanley/
@@ -2151,6 +2151,7 @@ https://shelteradoption.com/shelters/prince-william-county-animal-shelter-indepe
 https://shelteradoption.com/shelters/providence-animal-center-media/
 https://shelteradoption.com/shelters/providence-animal-control-providence/
 https://shelteradoption.com/shelters/providence-animal-rescue-league-providence/
+https://shelteradoption.com/shelters/providing-animals-with-support-paws-adoption-center-saint-george/
 https://shelteradoption.com/shelters/pulaski-animal-center-winamac/
 https://shelteradoption.com/shelters/pulaski-county-animal-shelter-dublin/
 https://shelteradoption.com/shelters/pulaski-county-animal-shelter-somerset/
@@ -2232,6 +2233,7 @@ https://shelteradoption.com/shelters/rolla-animal-shelter-rolla/
 https://shelteradoption.com/shelters/rosie-s-southside-animal-shelter-indianapolis/
 https://shelteradoption.com/shelters/routt-county-humane-society-steamboat-springs/
 https://shelteradoption.com/shelters/rowan-county-animal-shelter-salisbury/
+https://shelteradoption.com/shelters/roy-city-animal-shelter-roy/
 https://shelteradoption.com/shelters/royal-animal-refuge-tyrone/
 https://shelteradoption.com/shelters/royse-city-animal-shelter-royse-city/
 https://shelteradoption.com/shelters/ruff-tufts-cattery-newport/
@@ -2261,6 +2263,7 @@ https://shelteradoption.com/shelters/salem-county-humane-society-penns-grove/
 https://shelteradoption.com/shelters/salem-friends-of-felines-salem/
 https://shelteradoption.com/shelters/salina-animal-shelter-salina-animal-services-salina/
 https://shelteradoption.com/shelters/saline-county-animal-control-harrisburg/
+https://shelteradoption.com/shelters/salt-lake-county-animal-services-murray-murray/
 https://shelteradoption.com/shelters/salt-lake-county-animal-services-salt-lake-city/
 https://shelteradoption.com/shelters/sammamish-animal-sanctuary-renton/
 https://shelteradoption.com/shelters/sammie-s-friends-nevada-county-animal-shelter-grass-valley/
@@ -2339,6 +2342,7 @@ https://shelteradoption.com/shelters/second-chance-animal-sanctuaries-tioga/
 https://shelteradoption.com/shelters/second-chance-animal-services-east-brookfield/
 https://shelteradoption.com/shelters/second-chance-animal-shelter-alpena/
 https://shelteradoption.com/shelters/second-chance-canine-adoption-shelter-city-of-syracuse-jamesville/
+https://shelteradoption.com/shelters/second-chance-for-homeless-pets-salt-lake-city/
 https://shelteradoption.com/shelters/second-chance-humane-society-delta-animal-resource-center-delta/
 https://shelteradoption.com/shelters/second-chance-humane-society-ridgway-animal-resource-center-ridgway/
 https://shelteradoption.com/shelters/sedalia-animal-shelter-sedalia/
@@ -2385,6 +2389,8 @@ https://shelteradoption.com/shelters/souris-valley-animal-shelter-minot/
 https://shelteradoption.com/shelters/south-bend-animal-resource-center-south-bend/
 https://shelteradoption.com/shelters/south-county-animal-rescue-king-city/
 https://shelteradoption.com/shelters/south-jordan-animal-shelter-south-jordan/
+https://shelteradoption.com/shelters/south-ogden-city-animal-shelter-south-ogden/
+https://shelteradoption.com/shelters/south-salt-lake-animal-services-south-salt-lake/
 https://shelteradoption.com/shelters/south-suburban-humane-society-matteson/
 https://shelteradoption.com/shelters/south-utah-valley-animal-shelter-spanish-fork/
 https://shelteradoption.com/shelters/south-wood-county-humane-society-lake-wazeecha/
@@ -2484,6 +2490,7 @@ https://shelteradoption.com/shelters/sullivan-county-spca-rock-hill/
 https://shelteradoption.com/shelters/summers-county-humane-society-animal-control-and-welfare-project-hinton/
 https://shelteradoption.com/shelters/summit-county-animal-control-akron/
 https://shelteradoption.com/shelters/summit-county-animal-control-and-shelter-frisco/
+https://shelteradoption.com/shelters/summit-county-animal-control-wanship/
 https://shelteradoption.com/shelters/sumter-county-animal-control-sumter/
 https://shelteradoption.com/shelters/sumter-county-animal-services-lake-panasoffkee/
 https://shelteradoption.com/shelters/sumter-humane-society-americus/
@@ -2570,6 +2577,7 @@ https://shelteradoption.com/shelters/toccoa-stephens-county-humane-shelter-tocco
 https://shelteradoption.com/shelters/toledo-humane-society-maumee/
 https://shelteradoption.com/shelters/tombstone-small-animal-shelter-tombstone/
 https://shelteradoption.com/shelters/toms-river-township-animal-facility-toms-river/
+https://shelteradoption.com/shelters/tooele-city-animal-shelter-tooele/
 https://shelteradoption.com/shelters/torrance-county-animal-services-mcintosh/
 https://shelteradoption.com/shelters/town-and-country-humane-society-orland/
 https://shelteradoption.com/shelters/town-cats-of-morgan-hill-morgan-hill/
@@ -2630,6 +2638,7 @@ https://shelteradoption.com/shelters/unleashed-pet-rescue-mission/
 https://shelteradoption.com/shelters/upland-animal-services-shelter-upland/
 https://shelteradoption.com/shelters/upper-keys-humane-society-key-largo/
 https://shelteradoption.com/shelters/upper-valley-humane-society-enfield/
+https://shelteradoption.com/shelters/utah-animal-adoption-center-sandy/
 https://shelteradoption.com/shelters/valencia-county-animal-control-los-lunas/
 https://shelteradoption.com/shelters/valley-cat-haven-fort-kent/
 https://shelteradoption.com/shelters/valley-humane-society-pleasanton/
@@ -2675,6 +2684,7 @@ https://shelteradoption.com/shelters/warrick-county-animal-control-boonville/
 https://shelteradoption.com/shelters/warrick-humane-society-newburgh/
 https://shelteradoption.com/shelters/warwick-animal-shelter-warwick/
 https://shelteradoption.com/shelters/warwick-valley-humane-society-warwick/
+https://shelteradoption.com/shelters/wasatch-county-animal-services-heber-city/
 https://shelteradoption.com/shelters/washington-area-humane-society-eighty-four/
 https://shelteradoption.com/shelters/washington-city-animal-shelter-washington/
 https://shelteradoption.com/shelters/washington-county-animal-control-plymouth/
@@ -2690,7 +2700,7 @@ https://shelteradoption.com/shelters/wayne-county-dog-shelter-wooster/
 https://shelteradoption.com/shelters/waynesville-saint-robert-animal-shelter-waynesville/
 https://shelteradoption.com/shelters/wayside-waifs-kansas-city/
 https://shelteradoption.com/shelters/weatherford-parker-county-animal-shelter-weatherford/
-https://shelteradoption.com/shelters/weber-county-animal-shelter-harrisville/
+https://shelteradoption.com/shelters/weber-county-animal-shelter-ogden/
 https://shelteradoption.com/shelters/webster-animal-shelter-madison/
 https://shelteradoption.com/shelters/wenatchee-valley-humane-society-wenatchee/
 https://shelteradoption.com/shelters/west-baton-rouge-parish-shelter-and-animal-control-port-allen/
@@ -2702,7 +2712,7 @@ https://shelteradoption.com/shelters/west-milford-animal-shelter-west-milford/
 https://shelteradoption.com/shelters/west-point-clay-county-animal-shelter-west-point/
 https://shelteradoption.com/shelters/west-side-cat-rescue-inc-buffalo/
 https://shelteradoption.com/shelters/west-suburban-humane-society-downers-grove/
-https://shelteradoption.com/shelters/west-valley-taylorsville-animal-shelter-west-valley-city/
+https://shelteradoption.com/shelters/west-valley-city-animal-shelter-west-valley-city/
 https://shelteradoption.com/shelters/western-arizona-humane-society-lake-havasu-city/
 https://shelteradoption.com/shelters/western-hills-humane-society-spearfish/
 https://shelteradoption.com/shelters/western-riverside-county-city-animal-shelter-riverside-county-dept-of-animal-services-jurupa-valley/
