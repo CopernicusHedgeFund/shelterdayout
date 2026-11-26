@@ -118,6 +118,35 @@ def contact_link(base_url, html):
     return None
 
 
+_sitewide, _swlock = {}, threading.Lock()
+ANIMAL = re.compile(r"animal|shelter|adopt|pet|humane|spca|kennel", re.I)
+
+
+def sitewide_numbers(final_url):
+    """Numbers printed on a government site's homepage (header/footer switchboards) - not the shelter's line."""
+    home = f"{urlparse(final_url).scheme}://{urlparse(final_url).netloc}/"
+    with _swlock:
+        if home in _sitewide:
+            return _sitewide[home]
+    r = get(home)
+    nums = set(candidates(r[1])[0]) if r else set()
+    with _swlock:
+        _sitewide[home] = nums
+    return nums
+
+
+def animal_labeled(html):
+    """Numbers whose label (text just before) mentions animals/shelter/adoption."""
+    body = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", html)
+    text = re.sub(r"\s+", " ", unescape(re.sub(r"(?s)<[^>]+>", " ", body)))
+    out, prev = set(), 0
+    for m in PH.finditer(text):
+        if ANIMAL.search(text[max(prev, m.start() - 40):m.start()]):
+            out.add(fmt(*m.groups()[:3]))
+        prev = m.end()
+    return out
+
+
 def find_phone(url):
     if not url or not url.startswith("http") or BLOCK.search(url):
         return None, "no official url"
@@ -136,6 +165,11 @@ def find_phone(url):
         final, html = r
         sc, lb = candidates(html)
         labels.update(lb)
+        if gov:
+            sw = sitewide_numbers(final) - animal_labeled(html)
+            for k in list(sc):
+                if k in sw:
+                    sc[k] = 0
         num, why = pick(sc)
         if num:
             return fmt(*re.match(r"\((\d+)\) (\d+)-(\d+)", num).groups(), labels.get(num)), "ok: " + u
@@ -157,7 +191,16 @@ def find_phone(url):
 
 
 def main():
-    states = [s.upper() for s in sys.argv[1:]]
+    args = sys.argv[1:]
+    recheck = "--recheck-gov" in args
+    states = [a.upper() for a in args if not a.startswith("--")]
+    redo = set()
+    if recheck:
+        old = json.loads((ROOT / "data/phone_fill_report.json").read_text())
+        for x in old["filled"]:
+            u = x["from"].split(": ", 1)[-1]
+            if GOV.search(urlparse(u).netloc.lower().split(":")[0]):
+                redo.add((x["state"], x["org"], x["phone"]))
     files = sorted(glob.glob(str(ROOT / "data/sweep/*.json")))
     if states:
         files = [f for f in files if Path(f).stem in states]
@@ -167,6 +210,8 @@ def main():
         rows = json.loads(Path(f).read_text())
         data[f] = rows
         for i, r in enumerate(rows):
+            if (Path(f).stem, r.get("org"), r.get("phone")) in redo:
+                r["phone"] = ""
             if not (r.get("phone") or "").strip():
                 jobs.append((f, i, r.get("url", "")))
     print("blank phones:", len(jobs), flush=True)
@@ -189,11 +234,27 @@ def main():
                 report["blank_detail"].append({"state": Path(f).stem, "org": r.get("org"), "url": u, "why": why})
             if n % 200 == 0:
                 print(n, "done,", len(report["filled"]), "filled", flush=True)
+    report["blank"] = dict(report["blank"])
+    # a number filled here that is also on a DIFFERENT organisation's listing is a shared switchboard: drop it
+    allrows = [(f, r) for f in data for r in data[f]]
+    owners = collections.defaultdict(set)
+    for f, r in allrows:
+        if r.get("phone"):
+            owners[r["phone"]].add((urlparse(r.get("url") or "").netloc.lower().removeprefix("www."),
+                                    (re.findall(r"[a-z]+", (r.get("org") or "").lower().removeprefix("the ")) or [""])[0]))
+    new = {(x["state"], x["org"]) for x in report["filled"]}
+    dropped = 0
+    for f, r in allrows:
+        if (Path(f).stem, r.get("org")) in new and len(owners.get(r.get("phone"), ())) > 1:
+            report["blank_detail"].append({"state": Path(f).stem, "org": r.get("org"), "url": r.get("url"), "why": "shared number " + r["phone"]})
+            report["blank"]["shared number"] = report["blank"].get("shared number", 0) + 1
+            r["phone"] = ""; dropped += 1
+    report["filled"] = [x for x in report["filled"] if any(Path(f).stem == x["state"] and r.get("org") == x["org"] and r.get("phone") for f, r in allrows)]
+    print("dropped shared numbers:", dropped, flush=True)
     for f, rows in data.items():
         Path(f).write_text(json.dumps(rows, indent=1, ensure_ascii=False))
     per = collections.Counter(x["state"] for x in report["filled"])
     report["per_state"] = dict(sorted(per.items()))
-    report["blank"] = dict(report["blank"])
     (ROOT / "data/phone_fill_report.json").write_text(json.dumps(report, indent=1, ensure_ascii=False))
     print("filled", len(report["filled"]), "of", len(jobs), "| blank reasons", report["blank"], flush=True)
 

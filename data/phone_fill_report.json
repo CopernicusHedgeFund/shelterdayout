@@ -152,12 +152,6 @@
   },
   {
    "state": "AL",
-   "org": "GBHS Walker County Animal Services",
-   "phone": "(205) 942-1211",
-   "from": "ok: https://gbhs.org/adoptable-pets"
-  },
-  {
-   "state": "AL",
    "org": "Chilton County Animal Shelter",
    "phone": "(205) 755-1551",
    "from": "ok: https://chiltoncounty.org/animal-shelter/"
@@ -200,12 +194,6 @@
   },
   {
    "state": "AL",
-   "org": "GBHS Pell City Animal Care and Control",
-   "phone": "(205) 942-1211",
-   "from": "ok: https://gbhs.org/adoptable-pets"
-  },
-  {
-   "state": "AL",
    "org": "Baldwin County Humane Society (Baldwin Animal Rescue Center)",
    "phone": "(251) 928-4585",
    "from": "ok: https://www.baldwinhumane.org/"
@@ -233,12 +221,6 @@
    "org": "Andalusia Animal Shelter",
    "phone": "(334) 222-8705",
    "from": "ok: https://andalusiaal.gov/latest-news/animal-shelter-seeking-donations.html"
-  },
-  {
-   "state": "AL",
-   "org": "Greater Birmingham Humane Society",
-   "phone": "(205) 942-1211",
-   "from": "ok: https://gbhs.org/contactus"
   },
   {
    "state": "AR",
@@ -560,12 +542,6 @@
   },
   {
    "state": "CA",
-   "org": "Big Bear Animal Shelter (San Bernardino County Animal Care)",
-   "phone": "(800) 472-5609",
-   "from": "ok: https://animalcare.sbcounty.gov"
-  },
-  {
-   "state": "CA",
    "org": "Inyo County Animal Shelter",
    "phone": "(760) 938-2715",
    "from": "ok: https://www.inyocounty.us/services/animal-services"
@@ -635,12 +611,6 @@
    "org": "Santa Ynez Valley Humane Society & D.A.W.G.",
    "phone": "(805) 688-8224",
    "from": "ok: https://syvhumane.org/about/location-hours/"
-  },
-  {
-   "state": "CA",
-   "org": "Devore Animal Shelter (San Bernardino County Animal Care)",
-   "phone": "(800) 472-5609",
-   "from": "ok: https://animalcare.sbcounty.gov"
   },
   {
    "state": "CA",
@@ -872,12 +842,6 @@
   },
   {
    "state": "CA",
-   "org": "Palo Alto Animal Shelter (Pets In Need)",
-   "phone": "(650) 454-5648",
-   "from": "ok: https://www.petsinneed.org/doggy-day-out/"
-  },
-  {
-   "state": "CA",
    "org": "Cat Town Cafe & Adoption Center",
    "phone": "(510) 866-4607",
    "from": "ok: https://www.cattownoakland.org/contact-us"
@@ -923,12 +887,6 @@
    "org": "Redlands Animal Shelter",
    "phone": "(909) 798-7644",
    "from": "ok: https://www.redlands.gov/animal-services/"
-  },
-  {
-   "state": "CA",
-   "org": "Redwood City Animal Shelter (Pets In Need)",
-   "phone": "(650) 454-5648",
-   "from": "ok: https://www.petsinneed.org/doggy-day-out/"
   },
   {
    "state": "CA",
@@ -6020,12 +5978,6 @@
   },
   {
    "state": "NY",
-   "org": "Southold Town Animal Shelter (North Fork Animal Welfare League)",
-   "phone": "(631) 765-1811 ext. 1",
-   "from": "ok: https://northforkanimalwelfareleague.org/"
-  },
-  {
-   "state": "NY",
    "org": "Humane Society of Westchester (formerly New Rochelle Humane Society)",
    "phone": "(914) 632-2925",
    "from": "ok: https://humanesocietyofwestchester.org/"
@@ -6089,12 +6041,6 @@
    "org": "Columbia-Greene Humane Society/SPCA",
    "phone": "(518) 828-6044",
    "from": "ok: https://www.cghs.org"
-  },
-  {
-   "state": "NY",
-   "org": "Riverhead Town Animal Shelter (North Fork Animal Welfare League)",
-   "phone": "(631) 765-1811 ext. 1",
-   "from": "ok: https://northforkanimalwelfareleague.org/"
   },
   {
    "state": "NY",
@@ -6326,12 +6272,6 @@
   },
   {
    "state": "NY",
-   "org": "Massena Humane Society",
-   "phone": "(518) 457-3502",
-   "from": "ok: https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6623"
-  },
-  {
-   "state": "NY",
    "org": "Pawsitivitea CNY Cafe & Cat Lounge",
    "phone": "(315) 807-8936",
    "from": "ok: https://www.pawsitiviteacny.com/"
@@ -6395,12 +6335,6 @@
    "org": "Hornell Area Humane Society",
    "phone": "(607) 324-1270",
    "from": "ok: http://www.hornellanimalshelter.org"
-  },
-  {
-   "state": "NY",
-   "org": "Town of Schroeppel Dog Shelter",
-   "phone": "(518) 457-3502",
-   "from": "ok: https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6568"
   },
   {
    "state": "NY",
@@ -6577,12 +6511,6 @@
    "from": "ok (combined pages): https://fairhumane.org"
   },
   {
-   "state": "NY",
-   "org": "Town of Lisle Dog Shelter",
-   "phone": "(518) 457-3502",
-   "from": "ok: https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6615"
-  },
-  {
    "state": "OK",
    "org": "Ardmore Animal Care, Inc.",
    "phone": "(580) 223-7070",
@@ -6617,12 +6545,6 @@
    "org": "Custer County Friends for Life Animal Society",
    "phone": "(877) 653-3527",
    "from": "ok: http://www.okfflas.org"
-  },
-  {
-   "state": "NY",
-   "org": "Town of Owego Dog Shelter (Town of Owego Dog Control)",
-   "phone": "(518) 457-3502",
-   "from": "ok: https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/25118"
   },
   {
    "state": "OK",
@@ -6734,12 +6656,6 @@
   },
   {
    "state": "OK",
-   "org": "City of Yukon Animal Control and Facility",
-   "phone": "(405) 354-1895",
-   "from": "ok: https://cityofyukonok.gov/288/Adoptable-Animals"
-  },
-  {
-   "state": "OK",
    "org": "Humane Society of Tulsa",
    "phone": "(918) 495-3647",
    "from": "ok: https://www.tulsapets.org/"
@@ -6775,12 +6691,6 @@
    "from": "ok: https://thehso.org/"
   },
   {
-   "state": "OK",
-   "org": "Pets and People Humane Society",
-   "phone": "(405) 354-1895",
-   "from": "ok: https://cityofyukonok.gov/288/Adoptable-Animals"
-  },
-  {
    "state": "OR",
    "org": "Clackamas County Dog Services",
    "phone": "(503) 655-8628",
@@ -6811,12 +6721,6 @@
    "from": "ok: https://cityofnoble.org/contact/"
   },
   {
-   "state": "NY",
-   "org": "Aurora Dog Shelter (Town of Aurora Dog Control)",
-   "phone": "(518) 457-3502",
-   "from": "ok: https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6453"
-  },
-  {
    "state": "OR",
    "org": "ARK Pet Rescue (ARK Boutique & Rescue)",
    "phone": "(971) 387-6211",
@@ -6845,12 +6749,6 @@
    "org": "Oregon Humane - Portland Campus",
    "phone": "(503) 285-7722",
    "from": "ok: https://www.oregonhumane.org/"
-  },
-  {
-   "state": "NY",
-   "org": "Orchard Park Dog Shelter (Town of Orchard Park Dog Control)",
-   "phone": "(518) 457-3502",
-   "from": "ok: https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6650"
   },
   {
    "state": "OR",
