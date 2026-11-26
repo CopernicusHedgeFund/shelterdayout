@@ -970,17 +970,68 @@ def build_vets():
             body, f"/find-a-vet/{slugify(name)}/", crumbs_ld([("Home", "/"), ("Find a vet", "/find-a-vet/"), (name, f"/find-a-vet/{slugify(name)}/")])))
 
 
-def build_sitemap():
+PREV_LASTMOD = {}
+INDEXNOW_KEY = "31de02e2d1ad0d69c5434587a63bcb12"  # public by design: IndexNow verifies ownership by this file at the site root
+
+
+def remember_lastmod(dist, key):
+    f = dist / "lastmod.json"
+    try:
+        PREV_LASTMOD[key] = json.loads(f.read_text()) if f.exists() else {}
+    except Exception:
+        PREV_LASTMOD[key] = {}
+
+
+SITEMAP_SECTIONS = [("listings", "listings"), ("shelters", "shelters"), ("states", "states"), ("cities", "cities"), ("find-a-vet", "vets"), ("events", "events")]
+
+
+def split_sitemaps(dist, site, key, skip=()):
+    """Sitemap index + one sitemap per section, with a lastmod that only changes when the page's main content changes
+    (search engines ignore lastmod when it is always today). Hashes are kept in data/lastmod_<key>.json."""
+    import hashlib
+    # kept inside the built folder (not data/) so parallel sweep runs never get a merge conflict on it;
+    # main() reads the previous copy before wiping the folder.
+    store = dist / "lastmod.json"
+    old = PREV_LASTMOD.get(key, {})
     today = date.today().isoformat()
-    skip = {"/404.html", "/thanks/", "/oops/", "/request/"}
-    urls = []
-    for f in sorted(DIST.rglob("index.html")):
-        u = "/" + str(f.parent.relative_to(DIST)).replace(".", "") + "/"
-        u = u.replace("//", "/")
-        if u not in skip:
-            urls.append(u)
-    sm = "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls)
-    (DIST / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
+    new, groups = {}, {}
+    for f in sorted(dist.rglob("index.html")):
+        rel = str(f.parent.relative_to(dist))
+        u = "/" if rel == "." else f"/{rel}/"
+        if u in skip:
+            continue
+        html_ = f.read_text()
+        if 'name="robots" content="noindex' in html_:
+            continue
+        m = re.search(r"<main>(.*?)</main>", html_, re.S)
+        body = re.sub(r"(updated|Last updated|checked) [A-Z][a-z]+ \d{4}|\d{4}-\d{2}-\d{2}|&copy; \d{4}", "", m.group(1) if m else html_)
+        h = hashlib.sha1(body.encode()).hexdigest()[:16]
+        prev = old.get(u)
+        lm = prev["d"] if prev and prev.get("h") == h else today
+        new[u] = {"h": h, "d": lm}
+        top = u.strip("/").split("/")[0]
+        sec = next((name for prefix, name in SITEMAP_SECTIONS if top == prefix), "pages")
+        groups.setdefault(sec, []).append((u, lm))
+    store.write_text(json.dumps(new, separators=(",", ":"), sort_keys=True))
+    hdr = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    idx = []
+    for sec, items in sorted(groups.items()):
+        for n in range(0, len(items), 45000):
+            chunk = items[n:n + 45000]
+            name = f"sitemap-{sec}{'' if n == 0 else '-' + str(n // 45000 + 1)}.xml"
+            body = "".join(f"<url><loc>{site}{u}</loc><lastmod>{lm}</lastmod></url>" for u, lm in chunk)
+            (dist / name).write_text(hdr + f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>\n')
+            idx.append((name, max(lm for _, lm in chunk)))
+    body = "".join(f"<sitemap><loc>{site}/{n}</loc><lastmod>{lm}</lastmod></sitemap>" for n, lm in idx)
+    (dist / "sitemap.xml").write_text(hdr + f'<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</sitemapindex>\n')
+    # plain list of every URL (handy for IndexNow and for Bing's "submit URLs")
+    (dist / "urls.txt").write_text("".join(f"{site}{u}\n" for items in groups.values() for u, _ in items))
+    (dist / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY)
+    return sum(len(v) for v in groups.values())
+
+
+def build_sitemap():
+    return split_sitemaps(DIST, SITE, "dayout", {"/404.html", "/thanks/", "/oops/", "/request/"})
 
 
 def build_assets(rows, optins):
@@ -1015,6 +1066,8 @@ def build_assets(rows, optins):
 
 
 def main():
+    remember_lastmod(DIST, "dayout")
+    remember_lastmod(ROOT / "dist_adopt", "adopt")
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir()

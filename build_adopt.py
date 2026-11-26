@@ -424,16 +424,12 @@ def build_assets():
 
 
 def build_sitemap():
-    today = date.today().isoformat()
-    urls = []
-    for f in sorted(DIST.rglob("index.html")):
-        rel = str(f.parent.relative_to(DIST))
-        urls.append("/" if rel == "." else f"/{rel}/")
-    sm = "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls)
-    (DIST / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>\n')
+    return sdo.split_sitemaps(DIST, SITE, "adopt")
 
 
 def main(rows=None):
+    if rows is None:
+        sdo.remember_lastmod(DIST, "adopt")
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir()
