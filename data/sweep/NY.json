@@ -6,12 +6,44 @@
   "program": "BoroughBreak",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip (1 hour to all day)",
+  "offers": "Day trip",
   "url": "https://www.nycacc.org/boroughbreak/",
-  "notes": "Adults 18+ take a large dog (matched by staff) on a hike, beach trip, car ride or nap at home; book online for Manhattan, Queens or Staten Island. No kids or your own dog.",
+  "notes": "Anyone 18+ can take a large shelter dog out for one hour up to a full day (hike, beach, car ride, day at home); staff match the dog. Book via the borough scheduling link on the BoroughBreak page; leave kids and own dogs at home.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "ACC Brooklyn mobile adoption event (12-4pm)",
+    "url": "https://www.nycacc.org/adoption/events/",
+    "place": "Petco Bensonhurst, 2601 86th St, Brooklyn"
+   },
+   {
+    "date": "2026-11-29",
+    "title": "ACC Manhattan mobile adoption event (12-4pm)",
+    "url": "https://www.nycacc.org/adoption/events/",
+    "place": "The Pet Market, 224 W 72nd St, New York"
+   },
+   {
+    "date": "2026-12-06",
+    "title": "ACC Bronx mobile adoption event (12-4pm)",
+    "url": "https://www.nycacc.org/adoption/events/",
+    "place": "Council Member Shirley Aldebol office, 1925 Williamsbridge Rd, Bronx"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "ACC Manhattan mobile adoption event (12-4pm)",
+    "url": "https://www.nycacc.org/adoption/events/",
+    "place": "Council Member Grace Lee office, 466 Grand St, New York"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "ACC Brooklyn mobile adoption event (12-4pm)",
+    "url": "https://www.nycacc.org/adoption/events/",
+    "place": "Buddy's Dog Den, 429 Graham Ave, Brooklyn"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -68,18 +100,16 @@
   "state": "NY",
   "city": "Brooklyn",
   "org": "Brooklyn Cat Cafe",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Cat lounge visits",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "",
-  "url": "https://www.catcafebk.com",
-  "notes": "",
+  "offers": "Cat lounge visit",
+  "url": "https://catcafebk.com/",
+  "notes": "Run by Brooklyn Bridge Animal Welfare Coalition at 76 Montague St; all cats adoptable. Book lounge time online; open Thu-Mon (closed Tue/Wed), 18+ only 5-7pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "meow@catcafebk.com",
-  "phone": "+1-347-946-2286",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/2321103070"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -94,9 +124,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "warwickhumane@yahoo.com",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/2875380482"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -111,26 +139,22 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@animalhaven.org",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/4006284840"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
-  "city": "New York City",
-  "org": "Ollie's Place",
+  "city": "New York",
+  "org": "Ollie's Place (Mighty Mutts)",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://mighty-mutts.squarespace.com/findus",
+  "notes": "Cat adoption center at 430 E 9th St (East Village), open 7 days. Lease was at risk in Jan 2025 - confirm still open.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/4284763280"
+  "email_main": "info@mightymutts.org",
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -145,9 +169,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/5235096689"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -162,9 +184,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-718-486-7489",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/5765663722"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -179,9 +199,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@cityofrochester.gov",
-  "phone": "+1 585-428-7274",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/6018790980"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -192,30 +210,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.nyanimalrescue.org/",
-  "notes": "",
+  "notes": "153 East 3rd Street, Brooklyn (Windsor Terrace/Kensington); open 7 days 11am-7pm. Adoption email adopt@nyanimalrescue.org.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@nyanimalrescue.org",
-  "phone": "+1-718-436-5163",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/6593155011"
- },
- {
-  "state": "NY",
-  "city": "Rhinebeck",
-  "org": "Stonehouse Wood Sanctuary",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://stonehousewoodsanctuary.org",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/9273495605"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -230,9 +229,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/10119118353"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -247,9 +244,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "lazycatloungeandcafe@gmail.com",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12001743182"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -258,15 +253,21 @@
   "program": "BoroughBreak",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip (1 hour to all day)",
+  "offers": "Day trip",
   "url": "https://www.nycacc.org/boroughbreak/",
-  "notes": "Adults 18+ take a large dog (matched by staff) out for an hour up to a full day; book the Queens slot online. No kids or your own dog.",
+  "notes": "Anyone 18+ can take a large shelter dog out for one hour up to a full day (hike, beach, car ride, day at home); staff match the dog. Book via the borough scheduling link on the BoroughBreak page; leave kids and own dogs at home.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12147781434"
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "ACC Queens mobile adoption event (12-4pm)",
+    "url": "https://www.nycacc.org/adoption/events/",
+    "place": "Office of Senator John Liu, 40-25 College Point Blvd, Flushing"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -281,9 +282,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12979063166"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -298,9 +297,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/13393932217"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -311,19 +308,23 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://spcawestchester.org/dog-day-out",
-  "notes": "Adults 21+ apply online, then staff schedule a few-hour outing (park walk, hike, time at home); dog stays leashed and away from other animals and children.",
+  "notes": "Applicants 21+ apply online via the Dog Day Out application; staff call to schedule. Outings can be park walks, trail hikes or time at home; dogs stay leashed and can't meet other animals or children.",
   "checked": "November 2026",
   "email_program": "info@spcawestchester.org",
   "email_main": "info@spcawestchester.org",
-  "phone": "+1-914-941-2896",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/13968813901",
   "events": [
    {
     "date": "2026-11-28",
     "title": "Mobile adoption event",
     "url": "https://spcawestchester.org/adopt/mobile-adoption-events",
     "place": "Tarrytown Music Hall, Tarrytown"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "SPCA Paws & Presents Holiday Event",
+    "url": "https://spcawestchester.org/spca-events",
+    "place": "SPCA Westchester Rescue Center, 590 North State Road, Briarcliff Manor"
    }
   ]
  },
@@ -336,13 +337,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://amaanimalrescue.org/",
-  "notes": "",
+  "notes": "No-kill shelter with a 1,200 sq ft facility in Brooklyn (11214); visits by appointment only.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/14027091586"
+  "email_main": "adoption@amaanimalrescue.org",
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -357,9 +356,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/58870841"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -374,9 +371,7 @@
   "checked": "November 2026",
   "email_program": "zaks@yourspca.org",
   "email_main": "yourspca@yourspca.org",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/227866438"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -391,9 +386,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 315 343 1803",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/230172568"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -408,13 +401,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-845-331-5377",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/264333060"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
-  "city": "Zena",
+  "city": "Saugerties",
   "org": "Saugerties Animal Shelter",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -424,10 +415,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-845-679-0339",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/264655956"
+  "email_main": "Contact@SaugertiesAnimalShelter.com",
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -442,9 +431,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/450097213"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -459,9 +446,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@kentanimalshelter.com",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/463002666"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -476,9 +461,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@sasf.org",
-  "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/471907999",
   "events": [
    {
     "date": "2026-11-29",
@@ -490,20 +473,18 @@
  },
  {
   "state": "NY",
-  "city": "Washington Heights",
+  "city": "Middletown",
   "org": "Grateful Doggies Rescue Retreat",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://www.gdrrny.org",
+  "notes": "Facility is at 560 Route 17M, Middletown (Orange County), not Washington Heights; open by appointment via email.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/549863591"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -518,9 +499,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/565878915"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -535,26 +514,22 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@northhempsteadny.gov",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/616467772"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
-  "city": "Voorheesville",
-  "org": "Guiderland Animal Shelter",
+  "city": "Guilderland",
+  "org": "Town of Guilderland Animal Shelter (Richard R. Murray Animal Shelter)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://guilderlandpd.org/157/Animal-Control-Animal-Shelter",
+  "notes": "Run by Guilderland Police Animal Control, 6363 French's Mill Rd, Guilderland. Adoptions Mon-Fri by appointment, Sat noon-5. Shelter phone 518-861-6855.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/709619348"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -569,9 +544,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/794144024"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -581,14 +554,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://saratogacountyanimalshelter.com/",
+  "notes": "County shelter at 6010 County Farm Rd, Ballston Spa. Walk-in adoption meets: cats Mon-Sat 10-3, dogs Tue-Sat 12-3.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/817689775"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -603,9 +574,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "countrysidekennels94@gmail.com",
-  "phone": "+1-585-493-2017",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/825319405"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -620,9 +589,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/825620078"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -637,9 +604,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/827205150"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -654,60 +619,60 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/830056981"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
-  "city": "Hastings-on-Hudson",
+  "city": "Yonkers",
   "org": "Yonkers Animal Shelter",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.yonkersny.gov/",
+  "url": "https://www.yonkersny.gov/440/Animal-Shelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/843965344"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
-  "city": "Albany",
+  "city": "Menands",
   "org": "Mohawk Hudson Humane Society",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://www.mohawkhumane.org/",
+  "notes": "Lisa Mitzen Animal Care Center, 3 Oakland Ave, Menands.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "customercare@mohawkhumane.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/865358670"
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Goldstein Adoption Day",
+    "url": "https://www.mohawkhumane.org/goldstein-adoption-day-56",
+    "place": "3 Oakland Ave, Menands"
+   }
+  ]
  },
  {
   "state": "NY",
   "city": "Saratoga Springs",
-  "org": "H.O.P.E.",
+  "org": "H.O.P.E. (Homes for Orphaned Pets Exist)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://hopeanimalrescue.org/",
+  "notes": "Adoption center at Wilton Mall, 3065 Route 50, Saratoga Springs; currently open by appointment (Tue/Fri/Sat 11-4).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/948416188"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -722,9 +687,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/960892449"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -734,14 +697,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.townofbabylonny.gov/132/Animal-Shelter",
+  "url": "https://townofbabylonny.gov/132",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/970287624"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -756,9 +717,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1138534023"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -773,26 +732,22 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1214384456"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
   "city": "Walden",
   "org": "Humane Society of Walden",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://waldenhumane.org",
-  "notes": "",
+  "program": "Sunday Funday Dog Walk",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Off-site walk",
+  "url": "https://waldenhumane.org/dog-walk/",
+  "notes": "Sundays from 9:30am (weather permitting), shelter dogs go out on walks; sign up weekly through the shelter's scheduler after on-site training. Leash holders must be 21+; under-18s come with a parent who holds the leash. New walkers are welcomed on the first and last Sunday of each month.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "lisa@waldenhumane.org",
   "email_main": "contact@waldenhumane.org",
-  "phone": "+1-845-778-5115",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1536724712"
+  "source_list": "OpenStreetMap contributors (ODbL)"
  },
  {
   "state": "NY",
@@ -801,9 +756,9 @@
   "program": "BoroughBreak",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip (1 hour to all day)",
+  "offers": "Day trip",
   "url": "https://www.nycacc.org/boroughbreak/",
-  "notes": "Adults 18+ take a large dog (matched by staff) out for an hour up to a full day; book the Staten Island slot online. No kids or your own dog.",
+  "notes": "Anyone 18+ can take a large shelter dog out for one hour up to a full day (hike, beach, car ride, day at home); staff match the dog. Book via the borough scheduling link on the BoroughBreak page; leave kids and own dogs at home.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -817,7 +772,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.aspca.org/nyc/aspca-adoption-center",
+  "url": "https://www.aspca.org/nyc/aspca-adoption-center-nyc",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -852,7 +807,15 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "manhattanadoptions@bideawee.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Whisker Wonderland",
+    "url": "https://www.bideawee.org/community/events/whisker-wonderland-on-12-5/",
+    "place": "Bideawee Manhattan, 410 E 38th St"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -882,7 +845,15 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "westhamptonadoptions@bideawee.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Whisker Wonderland",
+    "url": "https://www.bideawee.org/community/events/whisker-wonderland-on-12-5/",
+    "place": "Bideawee Westhampton"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -908,7 +879,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.lasthopeanimalrescue.org/",
-  "notes": "",
+  "notes": "Adoption center at 3300 Beltagh Ave, Wantagh; also adopts at PetSmart Huntington Station and Petco Plainview/Wantagh.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -927,7 +898,15 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "North Shore Animal League America adoption event at Bottles & Cases (12-4pm)",
+    "url": "https://www.animalleague.org/event/north-shore-animal-league-america-at-bottles-and-cases-sponsored-by-titos-handmade-vodka-112826/",
+    "place": "Bottles and Cases, 99 E Main St, Huntington"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -937,12 +916,21 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://hempsteadny.gov/animal-shelter",
+  "url": "https://hempsteadny.gov/179/Animal-Shelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@hempsteadny.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-22",
+    "end": "2027-01-03",
+    "title": "Home for the Holidays: adoption fees waived",
+    "url": "https://hempsteadny.gov/1206/Home-for-the-Holidays-Pet-Adoption-Progr",
+    "place": "Town of Hempstead Animal Shelter, 3320 Beltagh Ave, Wantagh"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -995,10 +983,10 @@
   "org": "Huntington Animal Shelter (Town of Huntington)",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Dogs",
   "offers": "",
-  "url": "https://www.huntingtonny.gov/content/13749/13859/16555/16561/171453/16537/default.aspx",
-  "notes": "",
+  "url": "https://huntingtonny.gov/animal-shelter",
+  "notes": "Town dog shelter at 106 Deposit Road, East Northport; cats are at the adjacent Town cat shelter run by Little Shelter.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1022,16 +1010,16 @@
  {
   "state": "NY",
   "city": "Pomona",
-  "org": "Hi Tor Animal Care Center",
+  "org": "RG CARES Animal Shelter (Rockland Green; formerly Hi Tor Animal Care Center)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.hitor.org/",
+  "url": "https://www.rocklandgreen.com/facilities/animal-shelter/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "info@hitor.org",
+  "email_main": "info@rocklandgreen.com",
   "source_list": "shelter website"
  },
  {
@@ -1051,14 +1039,14 @@
  },
  {
   "state": "NY",
-  "city": "Bay Shore",
+  "city": "Central Islip",
   "org": "Town of Islip Animal Shelter and Adopt-a-Pet Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.islipny.gov/",
-  "notes": "",
+  "url": "https://islipny.gov/news/press-releases/1401-new-animal-shelter-opens-in-town-of-islip",
+  "notes": "Shelter moved to a new facility on Carleton Ave, Central Islip (opened Oct 2021).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1073,7 +1061,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.brookhavenny.gov/",
-  "notes": "",
+  "notes": "300 Horseblock Road, Brookhaven.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1087,7 +1075,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.pjhumane.org/",
+  "url": "https://www.pjhumane.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -1136,7 +1124,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "Sullivancountyanimalrescue@gmail.com",
   "source_list": "shelter website"
  },
  {
@@ -1151,7 +1139,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "catskillanimalrescuefrontdesk@gmail.com",
   "source_list": "shelter website"
  },
  {
@@ -1242,6 +1230,411 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dogcontrol@livingstoncountyny.gov",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Glendale",
+  "org": "Bobbi and the Strays",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://bobbiandthestrays.org/",
+  "notes": "No-kill shelter at The Shops at Atlas Park, 80-36 Cooper Ave, Glendale (Queens). Open daily.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "New York",
+  "org": "Meow Parlour",
+  "program": "Cat lounge visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visit",
+  "url": "https://www.meowparlour.com/adopt",
+  "notes": "NYC's first cat cafe at 43 Essex St (Lower East Side); all resident cats are adoptable. Book a visit online; apply via the adopt page after meeting a cat.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "meow@meowparlour.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "New York",
+  "org": "Kokoro Cat Cafe (Lower East Side)",
+  "program": "Cat lounge visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visit",
+  "url": "https://www.kokorocatcafe.com/faq",
+  "notes": "Cat cafe at 26 Clinton St (former Koneko space) with adoptable cats from Anjellicle Cats Rescue. Open daily; reserve a lounge session online.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@kokorocatcafe.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Flushing",
+  "org": "Kokoro Cat Cafe (Flushing)",
+  "program": "Cat lounge visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visit",
+  "url": "https://www.kokorocatcafe.com/faq",
+  "notes": "Cat cafe in Tangram Mall, 133-36 37th Ave, Flushing; every cat is adoptable through Anjellicle Cats Rescue. Open daily; reserve a lounge session online.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@kokorocatcafe.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Bayside",
+  "org": "Espurresso Cat Cafe",
+  "program": "Cat lounge visits",
+  "status": "Needs check",
+  "animals": "Cats",
+  "offers": "Cat lounge visit",
+  "url": "https://espurresso.com/Reservation/",
+  "notes": "Cat cafe at 208-03 35th Ave, Bayside, with adoptable cats from Purrific Home rescue. Reservations online; limited weekend walk-ins. (Confirmed via QNS news; own site not fetched.)",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Port Jefferson Station",
+  "org": "Save-A-Pet Animal Rescue & Adoption Center",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "http://www.saveapet.org",
+  "notes": "Nonprofit adoption center at 608 Route 112, Port Jefferson Station. Website could not be fetched this run; listing details from Petfinder profile.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Glen Cove",
+  "org": "Cove Animal Rescue (City of Glen Cove Animal Shelter)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/ViewReport/104050",
+  "notes": "Nonprofit that runs the City of Glen Cove municipal shelter at 40 Shore Road, Glen Cove (per NYS Ag & Markets 2024 report). Phone 516-676-5913. No own website found.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Long Beach",
+  "org": "Posh Pets Rescue (City of Long Beach Animal Shelter)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "http://poshpetsrescue.org/",
+  "notes": "Posh Pets Rescue manages the City of Long Beach animal shelter at 770 Park Place, Long Beach (per NYS Ag & Markets report). City animal control: animal_control@lbpd.com, 516-431-7674. Website not fetched this run.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "East Northport",
+  "org": "Town of Huntington Cat Shelter (operated by Little Shelter)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://huntingtonny.gov/cats",
+  "notes": "Town cat shelter at 104 Deposit Road, East Northport, run by Little Shelter Animal Rescue; open 7 days for adoptions. Phone 631-651-9788.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Carmel",
+  "org": "Putnam Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.puthumane.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "shelter@puthumane.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Pomona",
+  "org": "Hudson Valley Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.hvhumane.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "New Windsor",
+  "org": "Hudson Valley SPCA (New Windsor)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.hudsonvalleyspca.com/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@hudsonvalleyspca.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Goshen",
+  "org": "Hudson Valley SPCA (Goshen)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.hudsonvalleyspca.com/about-3",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "hvspcagoshen@gmail.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Middletown",
+  "org": "Middletown Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://middletownhumanesociety.com/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "adoptmhs@gmail.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Middletown",
+  "org": "Pets Alive",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://petsalive.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@petsalive.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Washingtonville",
+  "org": "Humane Society of Blooming Grove",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.humanesocietybg.com/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "bghumanesociety@gmail.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Newburgh",
+  "org": "Town of Newburgh Animal Control & Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "http://www.townofnewburgh.org/Cit-e-Access/webpage.cfm?TID=40&TPID=4743",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Highland Mills",
+  "org": "Woodbury Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.townofwoodbury.com/departments/animal-control.html",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Armonk",
+  "org": "Adopt-A-Dog",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "http://www.adoptadog.org",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "adoptions@adoptadog.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Wappingers Falls",
+  "org": "CARE of DC (Compassionate Animal Rescue Efforts of Dutchess County)",
+  "program": "Doggy Day Out",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://careofdc.org/",
+  "notes": "Volunteers pick up a shelter dog in the morning (about 10-11am) and return it by 4pm; CARE supplies gear. Sign-up has been by Google Form announced on social media/local press (reported March 2025); not described on the shelter's own site, so confirm with the shelter.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Beacon",
+  "org": "Mid Hudson Animal Aid",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.midhudsonanimalaid.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@midhudsonanimalaid.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Poughkeepsie",
+  "org": "Hudson Valley Animal Rescue & Sanctuary (HVARS)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.hvars.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Pawling",
+  "org": "Happy Life Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://happylifeanimalrescue.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "contact@happylifeanimalrescue.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Glenville",
+  "org": "Animal Protective Foundation",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, cats and small animals",
+  "offers": "",
+  "url": "https://www.animalprotective.org/",
+  "notes": "Shelter at 53 Maple Ave, Glenville (Scotia), NY 12302.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@animalprotective.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Queensbury",
+  "org": "The SPCA of Upstate New York",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "http://www.spcauny.org/",
+  "notes": "588 Queensbury Ave. Site says it is restructuring: it will house cruelty-case animals for Warren County and do dog control for Queensbury and Glens Falls, and no longer accepts most animals. Check adoption availability.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Corinth",
+  "org": "Adirondack Save-A-Stray",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.adirondacksaveastray.org/",
+  "notes": "No-kill shelter in Corinth (site refers to 'our shelter'); street address not listed on site. Phone 518-654-6220.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "adirondacksaveastray@yahoo.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NY",
+  "city": "Rotterdam",
+  "org": "The Pretty Paw Lounge (Pretty Paw Rescue)",
+  "program": "Cat lounge visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "url": "https://sites.google.com/view/theprettypawlounge/faq",
+  "notes": "Cat cafe at 370 Mariaville Rd, Rotterdam; every cat is adoptable. Visitors book paid 30-minute or 1-hour play sessions in the cat room; check FAQ for hours.",
+  "checked": "November 2026",
+  "email_program": "theprettypawlounge@gmail.com",
+  "email_main": "theprettypawlounge@gmail.com",
   "source_list": "shelter website"
  }
 ]
