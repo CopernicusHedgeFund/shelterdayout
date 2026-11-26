@@ -23,11 +23,12 @@
   "animals": "Dogs",
   "offers": "Day trip (overnight possible with pre-approval, max 24 hours)",
   "url": "https://discover.pbc.gov/publicsafety/animalcare/Pages/Doggiedaycation.aspx",
-  "notes": "Palm Beach County residents 18+ only; approved foster application required; photo ID with PBC address. Hours Mon-Fri 12-5, Sat 12-4, Sun 12-3. Apply via online form, then email at least 24 hours ahead to schedule.",
+  "notes": "Open to approved Palm Beach County residents age 18+ (no out-of-county residents). Outings are scheduled by email at least 24 hours in advance. Available Mon-Fri 12-5 PM, Sat 12-4 PM, Sun 12-3 PM.",
   "checked": "November 2026",
   "email_program": "acc-doggiedayout@pbc.gov",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(561) 233-1200"
  },
  {
   "state": "FL",
@@ -36,13 +37,14 @@
   "program": "Doggy Day Out",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip (up to 2 hours)",
+  "offers": "Dog outings up to 2 hours, Wed-Sun",
   "url": "https://www.friendsofstrays.org/doggydayout",
-  "notes": "Ages 18+. Read welcome packet, sign volunteer agreement/release and complete online questionnaire; call adoption line 727-522-6566 ext. 110 before coming to confirm an eligible dog. Pickup during shelter hours Wed-Sun 10am-7pm. Outings from pre-approved list (hikes, beach, nap at home, pet-friendly restaurant).",
+  "notes": "Anyone 18+ can take a shelter dog out for up to two hours; no training or orientation required. Sign the Volunteer Agreement and Release and complete the Volunteer Questionnaire, then call (727) 522-6566 ext. 110 to confirm a dog is available. Shelter open Wed-Sun 10am-7pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@friendsofstrays.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(727) 522-6566"
  },
  {
   "state": "FL",
@@ -52,12 +54,41 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip; multi-day staycation (adult dogs)",
-  "url": "https://jaxhumane.org/dogdayout",
-  "notes": "Free ($20 suggested donation); adoption not required. 18+, or under 18 with a parent/guardian. No sign-up: walk in during adoption hours (weekdays 12-7, weekends 10-5), pick a dog with a Dog Day Out tag; return 1 hour before closing. Leash at all times, no dog parks or other dogs. Paused during adoption specials. Staycation (multi-day, adult dogs) via foster page. 8464 Beach Blvd; 904-725-8766. Events calendar: https://jaxhumane.org/upcoming-events/ (could not be read Nov 2026; Dec 2025 Bissell Empty the Shelters ran Dec 1-15, check for 2026 repeat).",
+  "url": "https://jaxhumane.org/get-involved/dog-day-out/",
+  "notes": "Free (suggested $20 minimum donation); no sign-up needed, come during adoption hours (weekdays 12-7pm, weekends 10am-5pm). Must be 18+ to take a dog out; minors may join with a parent or guardian. Dogs return one hour before closing; paused during free/name-your-price adoption events.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(904) 725-8766",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "end": "2026-11-29",
+    "title": "Black Friday at JHS",
+    "url": "https://jaxhumane.org/events/black-friday-at-jhs/",
+    "place": "Jacksonville Humane Society"
+   },
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Bissell Pet Foundation's Holiday Hope Adoption Event",
+    "url": "https://jaxhumane.org/events/bissell-pet-foundations-holiday-hope-adoption-event/",
+    "place": "Jacksonville Humane Society, 8464 Beach Blvd, Jacksonville"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart Charities Adopt Joy",
+    "url": "https://jaxhumane.org/events/petsmart-charities-adopt-joy-2/",
+    "place": "PetSmart Southside, 8801 Southside Blvd, Jacksonville"
+   },
+   {
+    "date": "2026-12-11",
+    "title": "Chewy Claus's National Adoption Event",
+    "url": "https://jaxhumane.org/events/chewy-clauss-national-adoption-event/",
+    "place": "Jacksonville Humane Society, 8464 Beach Blvd, Jacksonville"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -67,12 +98,13 @@
   "status": "Volunteers only",
   "animals": "Dogs",
   "offers": "Off-site dog outings ('dates'); sleepovers/weekends with coordinator approval",
-  "url": "https://www.broward.org/Animal/ProgramsServices/Pages/browardbuddies.aspx",
-  "notes": "For approved volunteer fosters: schedule outings via the shelter's online scheduler; Foster Coordinator picks a fully vetted 'Green Dot' dog. Short leash only, no dog parks or flexi-leashes, no dog-dog contact. Overnights/weekends need Foster Coordinator approval. Coordinator 954-299-7224 / 954-359-1313 x7093. Adoption Center at 2400 SW 42nd St, Fort Lauderdale.",
+  "url": "https://www.broward.org/animal/ProgramServices/browardbuddies",
+  "notes": "Broward Buddies is part of the Broward County Animal Care foster program: registered fosters take Green Dot, fully vetted dogs on community outings (parks, restaurants), booked through the Acuity scheduler or the Foster Coordinator. Dog parks and flexi-leashes are not allowed.",
   "checked": "November 2026",
   "email_program": "BrowardBuddies@Broward.org",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(954) 359-1313"
  },
  {
   "state": "FL",
@@ -86,8 +118,9 @@
   "notes": "Take an adoptable dog on an outing; Tue-Sun (pickups Tue-Fri 9am-2:30pm, Sat-Sun 9am-12pm, return by 3:30pm); reservation required via online calendar (calendly.com/humanesocietynaples/rescue-recess), no walk-ins; under 18 with parent/guardian. Staff pick the dog; supplies provided. Main shelter 370 Airport-Pulling Rd N, Naples. Formerly Humane Society Naples.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@pbhsnaples.org",
+  "source_list": "shelter website",
+  "phone": "(239) 643-1555"
  },
  {
   "state": "FL",
@@ -102,7 +135,8 @@
   "checked": "November 2026",
   "email_program": "rentadog@spcaflorida.org",
   "email_main": "adopt@spcaflorida.org",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(863) 577-4600"
  },
  {
   "state": "FL",
@@ -124,7 +158,8 @@
     "title": "The More the Merrier - Open House Holiday Party",
     "url": "https://www.spcabrevard.com/events/the-more-the-merrier-open-house-holiday-party-the-spca-of-brevard"
    }
-  ]
+  ],
+  "phone": "(321) 567-3615"
  },
  {
   "state": "FL",
@@ -139,7 +174,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@justinbartlett.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(561) 795-9999"
  },
  {
   "state": "FL",
@@ -162,7 +198,8 @@
     "url": "https://humanemanatee.org/schedule/dog-adoptions/",
     "place": "5000 Fruitville Rd., Sarasota"
    }
-  ]
+  ],
+  "phone": "(941) 747-8808"
  },
  {
   "state": "FL",
@@ -192,7 +229,7 @@
   "checked": "November 2026",
   "email_program": "foster@humane.org",
   "email_main": "information@humane.org",
-  "phone": "+1-941-474-7884",
+  "phone": "(941) 474-7884",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/2759371154",
   "events": [
@@ -246,7 +283,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-352-671-8700",
+  "phone": "(352) 671-8700",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/6302473412"
  },
@@ -263,7 +300,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 850 926 0902",
+  "phone": "(850) 926-0902",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7806702943"
  },
@@ -274,13 +311,13 @@
   "program": "Hound Around Town",
   "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip (2-hour outing)",
-  "url": "https://www.seminolecountyfl.gov/departments-services/county-managers-office/animal-services/hound-around-town.stml",
-  "notes": "Trained volunteers take a vetted dog out for 2 hours (trail walk, park, brunch at partner restaurant patios). Must be 18+ and complete a mandatory 2-hour training (see county events calendar). Mon-Fri 10am-12pm. Shelter at 232 Bush Blvd, Sanford.",
+  "offers": "2-hour dog outings, Mon-Fri 10am-12pm",
+  "url": "https://www.seminolecountyfl.gov/departments-services/prepare-seminole/animal-services/hound-around-town",
+  "notes": "Trained volunteers over 18 take a vetted dog out for two hours to a county trail, park, or partner restaurant patio. A mandatory two-hour training is required first. Runs Monday-Friday, 10am-12pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-407-665-5201",
+  "phone": "(407) 665-5201",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8942085962"
  },
@@ -297,7 +334,7 @@
   "checked": "November 2026",
   "email_program": "dogadoptions@paws-shelter.org",
   "email_main": "dogadoptions@paws-shelter.org",
-  "phone": "+1 850 243 1525",
+  "phone": "(850) 243-1525",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9270430675",
   "events": [
@@ -322,7 +359,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-305-696-0800",
+  "phone": "(305) 696-0800",
   "source_list": "shelter website",
   "osm": "node/10738321328",
   "events": [
@@ -346,7 +383,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-863-324-5227",
+  "phone": "(863) 324-5227",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13654760301"
  },
@@ -358,12 +395,12 @@
   "status": "No program yet",
   "animals": "Cats",
   "offers": "",
-  "url": "",
+  "url": "https://catsangels.org/adoptions/",
   "notes": "Cat-only adoption center at 709 S 8th St, Fernandina Beach (per directory listing); official website could not be confirmed in Nov 2026 sweep.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "info@catsangels.org",
+  "phone": "(904) 321-2267",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14334426714"
  },
@@ -380,7 +417,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@petpalanimalshelter.com",
-  "phone": "+1-727-328-7738",
+  "phone": "(727) 328-7738",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/295556643"
  },
@@ -397,7 +434,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "admin@hstc1.org",
-  "phone": "+1-772-223-8822",
+  "phone": "(772) 223-8822",
   "source_list": "shelter website",
   "osm": "way/350411473",
   "events": [
@@ -413,16 +450,16 @@
   "state": "FL",
   "city": "Vero Beach",
   "org": "Humane Society of Vero Beach & Indian River County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://hsvb.org/",
-  "notes": "Shelter at 6230 77th Street, Vero Beach (Winter Beach area); serves as Indian River County's main shelter. No day-out program found on site.",
+  "program": "Doggy Day Out",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day outing with a shelter dog",
+  "url": "https://hsvb.org/adopt/doggy-day-out/",
+  "notes": "Adults over 18 can take a shelter dog out for the day (hike, beach, pet-friendly restaurant); no training or orientation needed. Call (772) 388-3331, press 1, to check availability and schedule, then sign a volunteer agreement at the shelter during open hours.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(772) 388-3331",
   "source_list": "shelter website",
   "osm": "way/367452057",
   "events": [
@@ -430,7 +467,8 @@
     "date": "2026-12-01",
     "end": "2026-12-11",
     "title": "Bissell Pet Foundation's Empty the Shelters Holiday Hope Adoption Event",
-    "url": "https://hsvb.org/event/bissell-pet-foundations-empty-the-shelter-holiday-hope-adoption-event/"
+    "url": "https://hsvb.org/event/bissell-pet-foundations-empty-the-shelter-holiday-hope-adoption-event/",
+    "place": "Humane Society of Vero Beach & Indian River County, 6230 77th Street, Vero Beach"
    }
   ]
  },
@@ -446,8 +484,8 @@
   "notes": "No-kill shelter at 710 Jackson St., Sebastian. No day-out program found on site.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "halonokillrescue@gmail.com",
+  "phone": "(772) 589-7297",
   "source_list": "shelter website",
   "osm": "way/470810249"
  },
@@ -464,22 +502,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "acpsfosters@coj.net",
-  "phone": "",
+  "phone": "(904) 630-2489",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/493862652",
   "events": [
-   {
-    "date": "2026-11-26",
-    "title": "ACPS at Pete's Giving (adoption & community event, 9am-2pm)",
-    "url": "https://www.jacksonville.gov/departments/office-of-administrative-services/animal-care-and-protective-services",
-    "place": "Pete's Bar, 117 First St, Neptune Beach"
-   },
-   {
-    "date": "2026-11-26",
-    "title": "Birdies 5 Points Birdsgiving (adoption event, 9am-1pm)",
-    "url": "https://www.jacksonville.gov/departments/office-of-administrative-services/animal-care-and-protective-services",
-    "place": "Birdies, 1044 Park St, Jacksonville"
-   },
    {
     "date": "2026-11-27",
     "title": "Black Friday, Bright Futures! shelter adoption event (12pm-8pm)",
@@ -500,7 +526,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@humanesocietyofpasco.org",
-  "phone": "+1-727-856-6762",
+  "phone": "(727) 856-6762",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/497256551"
  },
@@ -513,11 +539,11 @@
   "animals": "Dogs",
   "offers": "Day trip (morning pickup, a few hours)",
   "url": "https://humanesocietytampabay.org/how-to-help/doggie-day-out/",
-  "notes": "Ages 18+. Register in advance via the Hillsborough (Tampa) campus sign-up link; pickup 8:30-9:00am at 3607 N Armenia Ave; staff pre-select dogs ready for outings. Dog wears ADOPT ME vest. Contact Volunteer Manager 813-291-7357.",
+  "notes": "Ages 18+. Dog pick-up is 8:30-9:00am; offered at both the Hillsborough and Pinellas campuses with separate sign-up links. Contact the volunteer team at Volunteer@HumaneSocietyTampa.org.",
   "checked": "November 2026",
   "email_program": "Volunteer@HumaneSocietyTampa.org",
   "email_main": "adopt@hstb.org",
-  "phone": "+1-813-876-7138",
+  "phone": "(813) 876-7138",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/524345111"
  },
@@ -547,11 +573,11 @@
   "animals": "Dogs",
   "offers": "Field trip",
   "url": "https://www.talgov.com/animals/asc-volunteer",
-  "notes": "Field trips/dog walking are part of the Level 2 Canine Companion volunteer role: 18+ (or rising HS senior), after 1 month as Level 1 Shelter Support volunteer plus training; apply via Better Impact portal; $15 supply fee.",
+  "notes": "Field trips and special events are part of the Level 2 Canine Companion volunteer role. Volunteers must be 18+ (or a rising high school senior), complete at least one month of Level 1 volunteering, and take extra training.",
   "checked": "November 2026",
   "email_program": "sheltervolunteer@talgov.com",
   "email_main": "",
-  "phone": "+1 850-891-2950",
+  "phone": "(850) 891-2950",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/624529633"
  },
@@ -568,7 +594,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 850 863 5756",
+  "phone": "(850) 863-5756",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/692353473",
   "events": [
@@ -593,7 +619,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "saveadog@bdrr.org",
-  "phone": "",
+  "phone": "(561) 791-6465",
   "source_list": "shelter website",
   "osm": "way/714199318"
  },
@@ -610,7 +636,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@mymanatee.org",
-  "phone": "+1-941-742-5824",
+  "phone": "(941) 742-5824",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/895996141"
  },
@@ -644,7 +670,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@peggyadams.org",
-  "phone": "",
+  "phone": "(561) 686-3663",
   "source_list": "shelter website",
   "osm": "way/1209875672",
   "events": [
@@ -668,9 +694,29 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptiondesk@gulfcoasthumanesociety.org",
-  "phone": "",
+  "phone": "(239) 332-0364",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1229961582"
+  "osm": "way/1229961582",
+  "events": [
+   {
+    "date": "2026-12-11",
+    "title": "Bell Tower Yappy Hour Santa Paws",
+    "url": "https://gulfcoasthumanesociety.org/event/bell-tower-yappy-hour-santa-paws-december-2026/",
+    "place": "Bell Tower Shops, 13499 S Cleveland Ave, Fort Myers"
+   },
+   {
+    "date": "2026-12-27",
+    "title": "Paws and Pose - Monthly Yoga with Shelter Pets",
+    "url": "https://gulfcoasthumanesociety.org/event/paws-and-pose-monthly-yoga-with-shelter-pets-2-2-2-2/2026-12-27/",
+    "place": "GCHS, 2010 Arcadia Street, Fort Myers"
+   },
+   {
+    "date": "2027-01-24",
+    "title": "Paws and Pose - Monthly Yoga with Shelter Pets",
+    "url": "https://gulfcoasthumanesociety.org/event/paws-and-pose-monthly-yoga-with-shelter-pets-2-2-2-2/2027-01-24/",
+    "place": "GCHS, 2010 Arcadia Street, Fort Myers"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -685,7 +731,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@mymanatee.org",
-  "phone": "+1-941-742-5933",
+  "phone": "(941) 742-5933",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "relation/14615602"
  },
@@ -702,7 +748,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@myescambia.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 595-3075"
  },
  {
   "state": "FL",
@@ -717,7 +764,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "bcac@baycountyfl.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 767-3333"
  },
  {
   "state": "FL",
@@ -732,7 +780,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 892-8758"
  },
  {
   "state": "FL",
@@ -747,7 +796,8 @@
   "checked": "November 2026",
   "email_program": "ACARoutreach@alachuacounty.us",
   "email_main": "ACARoutreach@alachuacounty.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 264-6870"
  },
  {
   "state": "FL",
@@ -770,7 +820,8 @@
     "title": "December Adoption Days (reduced fees, pets 5 months+)",
     "url": "https://www.humanesocietyncfl.org/event/december-adoption-days/"
    }
-  ]
+  ],
+  "phone": "(352) 373-5855"
  },
  {
   "state": "FL",
@@ -815,7 +866,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pstudivant@sjcfl.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(904) 209-6190"
  },
  {
   "state": "FL",
@@ -830,7 +882,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 329-0396"
  },
  {
   "state": "FL",
@@ -845,7 +898,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(904) 259-6786"
  },
  {
   "state": "FL",
@@ -860,7 +914,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Info@FlaglerHumaneSociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 445-1814"
  },
  {
   "state": "FL",
@@ -869,9 +924,9 @@
   "program": "Pet Sleepover",
   "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Sleepover (trial stay up to 14 days)",
+  "offers": "Trial sleepover up to 14 days",
   "url": "https://orangecountyanimalservicesfl.net/ProgramsServices/PetSleepover.aspx",
-  "notes": "Trial stay of up to 14 days with select spayed/neutered, vaccinated, microchipped pets for people considering adoption; adoption application required first. Shelter at 2769 Conroy Rd, Orlando.",
+  "notes": "Take an eligible shelter pet (already fixed, vaccinated and microchipped) home on a trial basis for up to 14 days. An adoption application must be submitted beforehand. Shelter: 2769 Conroy Road, Orlando.",
   "checked": "November 2026",
   "email_program": "AnimalServices@ocfl.net",
   "email_main": "AnimalServices@ocfl.net",
@@ -883,7 +938,8 @@
     "title": "Fall in Love promo: all adoptions $30 (Sept-Nov; excludes puppies/kittens under 4 months)",
     "url": "https://orangecountyanimalservicesfl.net/Adopt/PromosEvents.aspx"
    }
-  ]
+  ],
+  "phone": "(407) 836-3111"
  },
  {
   "state": "FL",
@@ -905,15 +961,16 @@
   "city": "Daytona Beach",
   "org": "Halifax Humane Society",
   "program": "Dogs Day Out",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip (parks, beaches, trails)",
-  "url": "https://www.halifaxhumanesociety.org/?p=236",
-  "notes": "Program page (?p=236) no longer shows Dogs Day Out (Nov 2026) and the homepage/'Our Next Chapter' page do not mention it; Halifax stopped stray intake Oct 1, 2025 and is refocusing on adoptions, training and vet care. Previously: orientation + backpack, check-in 7:30-10:30am, dogs back by noon. Confirm at 386-274-4703. 2364 LPGA Blvd.",
+  "offers": "Dog outings, daily 7:30-10:30am",
+  "url": "https://www.halifaxhumanesociety.org/program/dogs-day-out/",
+  "notes": "Participants register through the shelter's volunteer system and eSign a Volunteer Waiver & Photo Release before a first outing. Pick-up 7:30-10:30am any day; dogs must be back by 12pm. First-come, first-served or reserve by email.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 274-4703"
  },
  {
   "state": "FL",
@@ -928,7 +985,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@volusia.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 248-1790"
  },
  {
   "state": "FL",
@@ -938,12 +996,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.volusia.org/services/public-protection/animal-services/shelter.stml",
+  "url": "https://www.newhopeanimalshelter.com/",
   "notes": "800 Humane Society Rd, DeLand. Now also the City of Daytona Beach's stray sheltering provider. No standalone website found (uses Facebook: facebook.com/newhopeanimalshelter2020); url is Volusia County's page listing it as a partner shelter.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 734-2450"
  },
  {
   "state": "FL",
@@ -958,7 +1017,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@sevhumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 428-9860"
  },
  {
   "state": "FL",
@@ -968,12 +1028,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://cityofedgewater.org/fire/page/how-help",
+  "url": "https://edgewateranimalshelter.org/",
   "notes": "605 Mango Tree Dr, Edgewater; 386-957-3994; call to arrange a meeting/tour.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 402-7476"
  },
  {
   "state": "FL",
@@ -988,7 +1049,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(321) 264-5208"
  },
  {
   "state": "FL",
@@ -1003,7 +1065,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(407) 742-8000"
  },
  {
   "state": "FL",
@@ -1018,7 +1081,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 343-9688"
  },
  {
   "state": "FL",
@@ -1033,7 +1097,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 689-4400"
  },
  {
   "state": "FL",
@@ -1042,7 +1107,7 @@
   "email_program": "Volunteer@HumaneSocietyTampa.org",
   "email_main": "adopt@hstb.org",
   "offers": "Day trip (morning pickup, a few hours)",
-  "notes": "Ages 18+. Register in advance via the Pinellas campus sign-up link; pickup 8:30-9:00am at 3040 FL-590, Clearwater; staff pre-select dogs ready for outings. Contact Volunteer Manager 813-291-7357.",
+  "notes": "Ages 18+. Dog pick-up is 8:30-9:00am; offered at both the Hillsborough and Pinellas campuses with separate sign-up links. Contact the volunteer team at Volunteer@HumaneSocietyTampa.org.",
   "city": "Clearwater",
   "org": "Humane Society of Tampa Bay - Pinellas Campus",
   "program": "Doggie Day Out",
@@ -1072,28 +1137,30 @@
   "animals": "Dogs and cats",
   "url": "https://www.leegov.com/animalservices/adopt",
   "checked": "November 2026",
-  "email_main": "kennel@leegov.com",
+  "email_main": "petadoptions@leegov.com",
   "source_list": "shelter website",
   "program": "No day-out program yet",
   "status": "No program yet",
   "offers": "",
   "notes": "",
-  "email_program": ""
+  "email_program": "",
+  "phone": "(239) 533-7387"
  },
  {
   "state": "FL",
   "city": "Cape Coral",
   "org": "Cape Coral Animal Shelter",
   "animals": "Dogs and cats",
-  "url": "https://capecoralanimalshelter.com/",
+  "url": "https://capecoralanimalshelter.com/adopt/adoption-information/",
   "checked": "November 2026",
   "email_main": "",
   "source_list": "shelter website",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "offers": "",
-  "notes": "",
-  "email_program": ""
+  "program": "Staycations and Excursions",
+  "status": "Volunteers only",
+  "offers": "Staycations, excursions",
+  "notes": "Only volunteers who have completed Volunteer Orientation and Dog Walking Classes may take animals out of the shelter for fostering, staycations and excursions.",
+  "email_program": "",
+  "phone": "(239) 573-2002"
  },
  {
   "state": "FL",
@@ -1122,7 +1189,7 @@
   "notes": "Shelter at 5 North Q Street, Pensacola. No day-out program on its site (volunteer page lists dog walking/foster only).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adopt@pensacolahumane.org",
   "source_list": "shelter website",
   "events": [
    {
@@ -1131,7 +1198,8 @@
     "title": "Empty the Shelters (BISSELL Pet Foundation reduced-fee adoption event)",
     "url": "https://pensacolahumane.org/#events"
    }
-  ]
+  ],
+  "phone": "(850) 432-4250"
  },
  {
   "state": "FL",
@@ -1140,13 +1208,14 @@
   "program": "Doggy Day Out",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Outings from one hour to all weekend",
+  "offers": "Field trip, 1 hour to all day",
   "url": "https://www.santarosa.fl.gov/863/Doggy-Day-Out-Program",
-  "notes": "Community members take shelter dogs on outings (beach trip, hike, pet-friendly restaurant), from one hour up to all weekend, per county Programs page. Shelter at 4451 Pine Forest Rd, Milton; appointments required; call 850-983-4680. Program detail page could not be loaded to confirm rules/age.",
+  "notes": "Community members can take a shelter dog on an outing during shelter hours (Mon-Fri 11:30am-4:30pm, Sat 9am-2pm). Outings last from one hour to all day. Apply online and call (850) 983-4680 at least 48 hours ahead to schedule.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animals@santarosa.fl.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 983-4680"
  },
  {
   "state": "FL",
@@ -1161,7 +1230,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 331-3560"
  },
  {
   "state": "FL",
@@ -1176,7 +1246,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@Alaqua.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 880-6399"
  },
  {
   "state": "FL",
@@ -1186,12 +1257,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.washingtonfl.com/departments/animalcontrol",
+  "url": "https://www.washingtonfl.com/departments/animalcontrol/about/",
   "notes": "County animal control shelter; animals are put up for adoption after a 5-day hold. Call 850-638-6306 (Mon-Fri 8am-4pm); updates on the Washington County Animal Services Facebook page. No day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 638-6306"
  },
  {
   "state": "FL",
@@ -1206,7 +1278,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 640-4708"
  },
  {
   "state": "FL",
@@ -1221,7 +1294,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "partnersforpetsmarianna@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 482-4570"
  },
  {
   "state": "FL",
@@ -1236,18 +1310,19 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 718-0021"
  },
  {
   "state": "FL",
   "city": "Port St. Joe",
   "org": "St. Joseph Bay Humane Society",
-  "program": "Dogs Day Out",
-  "status": "Open to public",
+  "program": "Tails on the Trail (walking club)",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Few-hour outing",
-  "url": "https://www.sjbhumanesociety.org/",
-  "notes": "Travelers or locals can take a shelter dog on an outing for a few hours; stop by the shelter (1007 10th St, Port St. Joe) to sign up. Shelter hours Tue 12-4, Wed-Fri 12-5, Sat 11-4; phone 850-227-1103. Age/cost rules not stated on site.",
+  "offers": "Dog walks, Saturdays 1-3pm",
+  "url": "https://www.sjbhumanesociety.org/tails-on-the-trails",
+  "notes": "SJBHS walking club where volunteers walk the shelter's adoptable dogs on Saturday afternoons from 1:00 to 3:00 pm. Any volunteer can join after a volunteer orientation. No 'Dogs Day Out' program appears on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@sjbhumanesociety.org",
@@ -1256,18 +1331,19 @@
  {
   "state": "FL",
   "city": "Monticello",
-  "org": "Jefferson County Animal Services",
+  "org": "Jefferson County Animal Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://jeffersoncountyfl.gov/animal-control/",
   "notes": "County shelter at 1697 S Jefferson St, Monticello; phone 850-728-3673. Adopts, fosters and transfers to rescue partners. Official web presence is its Facebook page (url); county web page not yet confirmed. No day-out program found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/profile.php?id=61569887755490"
+  "url_social": "https://www.facebook.com/profile.php?id=61569887755490",
+  "phone": "(850) 342-0184"
  },
  {
   "state": "FL",
@@ -1281,8 +1357,9 @@
   "notes": "County shelter (TCAC) in Perry; dogs, cats, occasionally pocket pets. Call (850) 838-3500 before visiting.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "acofficer@taylorcountygov.com",
+  "source_list": "shelter website",
+  "phone": "(850) 838-3525"
  },
  {
   "state": "FL",
@@ -1297,7 +1374,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 208-0072"
  },
  {
   "state": "FL",
@@ -1307,12 +1385,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.cityofliveoak.org/?p=3807",
+  "url": "https://www.cityofliveoak.org/animal-control/",
   "notes": "City animal control at 701 Lime Ave, Live Oak; $15 adoption fee, application on city page. Mon-Fri 8-4.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mtaylor@cityofliveoak.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 362-2222"
  },
  {
   "state": "FL",
@@ -1327,7 +1406,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@levycounty.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 486-5138"
  },
  {
   "state": "FL",
@@ -1342,7 +1422,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 496-2180"
  },
  {
   "state": "FL",
@@ -1357,7 +1438,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(904) 964-9200"
  },
  {
   "state": "FL",
@@ -1372,7 +1454,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 973-6495"
  },
  {
   "state": "FL",
@@ -1387,7 +1470,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "suwanneevalley@embarqmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(850) 971-9904"
  },
  {
   "state": "FL",
@@ -1402,7 +1486,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(386) 855-1323"
  },
  {
   "state": "FL",
@@ -1421,18 +1506,19 @@
  },
  {
   "state": "FL",
-  "city": "Trenton",
+  "city": "Bell",
   "org": "Gilchrist County Animal Services",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.trentonflorida.org/?p=3337",
+  "url": "https://gilchrist.fl.us/animal-services-2/",
   "notes": "County animal services/kennel serving Gilchrist County and Trenton under interlocal agreement; Animal Control Office (352) 463-4084. No county web page with adoption details found; call ahead.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 463-4084"
  },
  {
   "state": "FL",
@@ -1447,7 +1533,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(904) 530-6150"
  },
  {
   "state": "FL",
@@ -1470,7 +1557,8 @@
     "url": "https://nassauhumane.org/events/",
     "place": "Centre Street, Fernandina Beach"
    }
-  ]
+  ],
+  "phone": "(904) 321-1647"
  },
  {
   "state": "FL",
@@ -1485,22 +1573,24 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@safeanimalshelter.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(904) 375-9122"
  },
  {
   "state": "FL",
   "city": "St. Augustine",
   "org": "Frisky Cat Cafe (Small Lives Matter Kitten Rescue)",
   "program": "Cat cafe visits",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "Cat lounge visits; all cats adoptable",
-  "url": "https://www.visitstaugustine.com/restaurant/frisky-cat-cafe",
-  "notes": "Nonprofit cat rescue's cafe at 1092 S Ponce De Leon Blvd (Winn-Dixie plaza), St. Augustine; 904-547-2940. Every cat is adoptable. Rescue's own website not found (url is St. Johns County's official visitor-bureau listing) - verify hours/booking.",
+  "offers": "Cat cafe visits, daily",
+  "url": "https://friskycatcafe.com/adopt/",
+  "notes": "Cafe at 1092 S Ponce De Leon Blvd, St. Augustine, partnered with Small Lives Matter Kitten Rescue; resident cats are adoptable ($155 for most cats, in-person meet required, no same-day adoptions). Entry fee $12-$14 per visit. Open Mon-Thu and Sat-Sun 10am-6pm, Fri 10am-7pm.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "info@thekittenrescue.org",
   "email_main": "info@thekittenrescue.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(904) 547-2940"
  },
  {
   "state": "FL",
@@ -1618,7 +1708,8 @@
     "url": "https://brevardhumanesociety.org/event/subaru-of-melbourne-christmas-adoption-event/",
     "place": "Subaru of Melbourne, 4340 W New Haven Ave, Melbourne"
    }
-  ]
+  ],
+  "phone": "(321) 636-3343"
  },
  {
   "state": "FL",
@@ -1633,7 +1724,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(321) 636-3343 ext. 214"
  },
  {
   "state": "FL",
@@ -1648,18 +1740,19 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ContactAnimalServices@hernandosheriff.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(352) 796-5062"
  },
  {
   "state": "FL",
   "city": "Largo",
   "org": "Pinellas County Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Home for the Holidays (holiday foster)",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://pinellas.gov/adoption-center-dog-cat-adoptions/",
-  "notes": "County adoption center at 12450 Ulmerton Rd, Largo; Mon-Sat 11am-6pm. Ongoing fee waivers for veterans and for adopters within 10 days of their birthday; 50% off pets 7+. Holiday short-term foster (up to 30 days) runs Nov 1-Dec 30, 2026.",
+  "offers": "Holiday foster up to 30 days, Nov 1-Dec 30",
+  "url": "https://pinellas.gov/news/animal-services-invites-community-to-bring-a-little-joy-home-for-the-holidays/",
+  "notes": "Community members can foster a shelter dog or cat for up to 30 days over the holidays (Nov. 1-Dec. 30, 2026); Animal Services provides supplies. Fosters can start the adoption process at any time. Call (727) 582-2600, option 8.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1671,7 +1764,8 @@
     "title": "Home for the Holidays: foster a shelter dog or cat for up to 30 days over the holidays (can adopt any time)",
     "url": "https://pinellas.gov/news/animal-services-invites-community-to-bring-a-little-joy-home-for-the-holidays/"
    }
-  ]
+  ],
+  "phone": "(727) 582-2600"
  },
  {
   "state": "FL",
@@ -1686,7 +1780,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(727) 586-3591"
  },
  {
   "state": "FL",
@@ -1697,11 +1792,27 @@
   "animals": "Dogs",
   "offers": "Half-day (about 4 hours) or full-day outing",
   "url": "https://hcfl.gov/newsroom/2024/02/23/love-dogs-but-can-t-have-one-the-adventure-tails-program-is-for-you-",
-  "notes": "County shelter at 440 N Falkenburg Rd, Tampa. Take a shelter dog out for a half day or full day (park, hike, lunch) with no fostering or adopting commitment. Sign up through the PRC volunteer portal (Better Impact). Announced February 2024; not mentioned on the current department page, so confirm it is still running.",
+  "notes": "The county site mentions volunteering by taking a dog out for the day through PRC's Adventure Tails program; no eligibility, hours or sign-up details found on hcfl.gov.",
   "checked": "November 2026",
   "email_program": "PRC@hcfl.gov",
   "email_main": "PetInfo@HCFL.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(813) 301-7387",
+  "events": [
+   {
+    "date": "2026-11-24",
+    "end": "2026-12-23",
+    "title": "Silent Night holiday foster: pick up a dog or cat Nov 24-Dec 23, return Jan 4-9",
+    "url": "https://hcfl.gov/residents/animals-and-pets",
+    "place": "Pet Resource Center, Tampa"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Home for the Howl-idays adoption event (adoption fees waived)",
+    "url": "https://hcfl.gov/events/home-for-the-howl-idays/2026/12/12/blta3985847ecface1a",
+    "place": "Pet Resource Center, Tampa"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -1771,12 +1882,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://sarasotasheriff.org/programs_and_amp_services/animal_services/volunteer_foster_adopt.php",
+  "url": "https://www.sarasotasheriff.org/programs_and_amp_services/animal_services/index.php",
   "notes": "Shelter at 6010 Cattleridge Blvd, Sarasota; south county office at 4531 Annex Rd, Venice.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@sarasotasheriff.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(941) 861-9500"
  },
  {
   "state": "FL",
@@ -1790,8 +1902,9 @@
   "notes": "2331 15th Street, Sarasota.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@hssc.org",
+  "source_list": "shelter website",
+  "phone": "(941) 955-4131"
  },
  {
   "state": "FL",
@@ -1813,7 +1926,8 @@
     "title": "Holiday Open House (RSVP required)",
     "url": "https://catdepot.harnessgiving.org/events/4238"
    }
-  ]
+  ],
+  "phone": "(941) 366-2404"
  },
  {
   "state": "FL",
@@ -1843,7 +1957,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(941) 625-6720"
  },
  {
   "state": "FL",
@@ -1888,7 +2003,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(772) 238-5631"
  },
  {
   "state": "FL",
@@ -1903,7 +2019,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(772) 462-8120"
  },
  {
   "state": "FL",
@@ -1918,7 +2035,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptioncenter@cityoffortpierce.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(772) 242-1662"
  },
  {
   "state": "FL",
@@ -1963,7 +2081,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@fkspca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(305) 294-4857"
  },
  {
   "state": "FL",
@@ -1978,7 +2097,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@fkspca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(305) 743-4800"
  },
  {
   "state": "FL",
@@ -2098,5 +2218,197 @@
     "place": "PetSmart Kendall, 14025 SW 88th St, Miami"
    }
   ]
+ },
+ {
+  "state": "FL",
+  "city": "Monticello",
+  "org": "Wolf Creek Pet Adoption Center (Jefferson County Humane Society)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://sites.google.com/jeffersonhumane.org/wolfcreekpetadoptioncenter/home/about-us",
+  "phone": "(850) 342-0244",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "admin@jeffersonhumane.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Eastpoint",
+  "org": "Franklin County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "http://www.forgottenpets.org",
+  "phone": "(850) 670-8417",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Ocala",
+  "org": "Humane Society of Marion County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://thehsmc.org/",
+  "phone": "(352) 873-7387",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@thehsmc.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Lake Panasoffkee",
+  "org": "Humane Society of Sumter County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://hsspca.org/",
+  "phone": "(352) 793-9117",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@hsspca.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Arcadia",
+  "org": "DeSoto County Animal Services",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.desotobocc.com/172",
+  "phone": "(863) 993-4855",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "LaBelle",
+  "org": "Caloosa Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://caloosahumanesociety.org/",
+  "phone": "(863) 675-0997",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@caloosahumanesociety.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Clewiston",
+  "org": "Clewiston Animal Services",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.clewiston-fl.gov/276/Animal-Services",
+  "phone": "(863) 983-1474",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "heather.orina@clewiston-fl.gov",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "North Fort Myers",
+  "org": "The Animal Refuge Center (ARC)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://wayne-leinen-455h.squarespace.com/arc-information",
+  "phone": "(239) 731-3535",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Naples",
+  "org": "Naples Cat Alliance",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.naplescatalliance.org/",
+  "phone": "(424) 835-1523",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@naplescatalliance.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Myakka City",
+  "org": "The Humane Society at Lakewood Ranch",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://hslwr.org/",
+  "phone": "(941) 361-1071",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@hslwr.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Sarasota",
+  "org": "Satchel's Last Resort",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://satchelslastresort.org/",
+  "phone": "(941) 924-5070",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Fort Pierce",
+  "org": "Dogs and Cats Forever, Inc.",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://dogsandcatsforever.com/",
+  "phone": "(772) 489-5454",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]
