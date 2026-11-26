@@ -167,6 +167,8 @@ HOME_FAQ = [
     ("How much does it cost to adopt from a shelter?", "Fees vary by shelter, animal and age. They usually cover spay or neuter, vaccines and a microchip. Many shelters hold <a href=\"/fee-waived-adoption-events/\">reduced-fee or fee-waived adoption events</a>. See <a href=\"/adoption-fees/\">adoption fees</a>."),
     ("Are there adoption events near me?", "Yes. Our <a href=\"/events/\">adoption events calendar</a> lists upcoming adoption days, open houses and fee-waived events taken from shelters' own websites."),
     ("Can I spend time with a shelter dog before adopting?", "Often, yes. Many shelters let you take a dog out for the day or host a sleepover. Our sister site <a href=\"" + SDO + "/\">ShelterDayOut</a> lists those programs."),
+    ("Where can I find rescue dogs, puppies or kittens near me?", "City and county shelters, humane societies and SPCAs all have rescue dogs, puppies, cats and kittens. Search by your city above; each shelter's website shows who is available today."),
+    ("What's the difference between animal control, a humane society and an SPCA?", "Animal control is usually run by a city or county and takes in strays; many also adopt animals out. Humane societies and SPCAs are usually independent nonprofits, despite the shared names. All of them are listed here."),
     ("Is ShelterAdoption free?", "Yes. It's a free directory run by the nonprofit Charity Good. We don't charge shelters or adopters and we don't handle adoptions."),
 ]
 
@@ -188,7 +190,7 @@ def build_home(rows):
     lst = "".join(shelter_li(r) for r in sorted(rows, key=lambda r: (r["state_name"], r["city"], r["org"])))
     n_states = len({r["state"] for r in rows if r["state"] != "DC"})
     body = f"""<section class="adopt-hero">
-<h1>Adopt a shelter pet <span class="hl">near you.</span></h1>
+<h1>Animal shelters near you: <span class="hl">adopt a pet.</span></h1>
 <p class="lede">Find animal shelters, humane societies and SPCAs in every state, see their adoptable dogs, puppies, cats and kittens, and catch upcoming adoption events and fee-waived days.</p>
 <p class="tagline">The nationwide shelter adoption directory, updated monthly.</p>
 <p style="margin-top:14px"><a class="btn" href="#find">Find a shelter</a> <a class="btn alt" href="/events/">Adoption events</a></p>
@@ -238,7 +240,7 @@ def build_states(rows):
         ev_html = "".join(f'<li><b>{fmt_date(e["date"])}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}): {esc(e["title"])}</li>' for _, r, e in evs)
         progs = [r for r in lst if has_program(r)]
         body = f"""<div class="crumbs"><a href="/">Home</a> / {name}</div>
-<h1>Animal shelters in {name}</h1>
+<h1>Animal shelters &amp; humane societies in {name}</h1>
 <p class="lede">{len(lst):,} animal shelter{"s" if len(lst) != 1 else ""}, humane societies and SPCAs in {name}{(" including " + ", ".join(esc(c) for c in cities[:5])) if cities else ""}. Each links to its own adoptable dogs and cats.</p>
 {f'<h2>Upcoming adoption events in {name}</h2><ul class="evlist">{ev_html}</ul>' if ev_html else ""}
 <h2>Shelters</h2>
@@ -279,7 +281,7 @@ def build_shelters(rows):
 <p>Browse the animals on the shelter's website, then visit or apply. Most shelters ask for a photo ID, a short application and a meet-and-greet, and the fee usually covers spay or neuter, vaccines and a microchip. Read our <a href="/adoption-checklist/">adoption checklist</a> before you go.</p>
 <div class="note">{BRAND} isn't affiliated with this shelter and doesn't handle adoptions. Hours, fees and requirements are set by the shelter and can change, so confirm before you visit.</div>
 <p class="animal">Something out of date? <a href="{SDO}/suggest/?type=report&amp;listing={r['slug']}" rel="noopener">Report a problem</a>.</p>"""
-        write(path, page(f"{r['org']} ({r['city']}, {r['state']}): Adopt a Dog or Cat | {BRAND}",
+        write(path, page(f"{r['org']} ({r['city']}, {r['state']}): Adopt a Dog, Puppy or Cat | {BRAND}",
             f"Adopt {animals_phrase(r)} from {r['org']} in {r['city']}, {r['state_name']}. See adoptable pets, contact details{', upcoming adoption events' if evs else ''} and how to adopt.",
             body, path, "".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld)
             + crumbs_ld([("Home", "/"), (r["state_name"], f"/states/{r['state_slug']}/"), (r["org"], path)])))
@@ -305,7 +307,7 @@ def build_events(rows):
 document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!v||li.dataset.state===v)?'':'none';});});})();</script>"""
     ld = "".join(f'<script type="application/ld+json">{json.dumps(event_ld(r, e))}</script>' for _, r, e in allev[:300])
     body = f"""<div class="crumbs"><a href="/">Home</a> / Adoption events</div>
-<h1>Pet adoption events near you</h1>
+<h1>Pet and dog adoption events near you</h1>
 <p class="lede">{len(allev):,} upcoming adoption days, open houses and fee-waived events at shelters nationwide. Dates come from each shelter's own website; confirm with the shelter before you go.</p>
 {f'<p><label class="animal" for="evst">Show state: </label><select id="evst"><option value="">All states</option>{opts}</select></p>' if allev else ""}
 {groups or '<p>No upcoming events listed right now. Check back soon: we update monthly.</p>'}
@@ -317,7 +319,7 @@ document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!
     fw = [x for x in allev if re.search(r"fee|free|waiv|\$|half|reduced|clear the shelter|empty the shelter|discount", x[2]["title"], re.I)]
     items = "".join(f'<li><b>{fmt_date(e["date"])}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>' for _, r, e in fw)
     body = f"""<div class="crumbs"><a href="/">Home</a> / Fee-waived adoption events</div>
-<h1>Fee-waived and reduced-fee adoption events</h1>
+<h1>Free pet adoption: fee-waived and reduced-fee events</h1>
 <p class="lede">Shelters often waive or cut adoption fees when they're full, around holidays, and during national events like Clear the Shelters. Here are the upcoming ones we've found on shelters' own websites.</p>
 {f'<ul class="evlist">{items}</ul>' if items else '<p>No fee-waived events listed right now. See <a href="/events/">all adoption events</a>.</p>'}
 <p>Reduced fees don't mean a shortcut on the process: shelters still ask for an application and a meet-and-greet. See our <a href="/adoption-checklist/">adoption checklist</a>.</p>"""
@@ -335,11 +337,11 @@ def build_cities(rows):
     for (c, st), lst in keep.items():
         path = f"/cities/{slugify(c + ' ' + st)}/"
         body = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/states/{slugify(STATES[st])}/">{STATES[st]}</a> / {esc(c)}</div>
-<h1>Animal shelters in {esc(c)}, {st}</h1>
+<h1>Animal shelters near {esc(c)}, {st}</h1>
 <p class="lede">{len(lst)} shelters and humane societies in {esc(c)}, {STATES[st]} where you can adopt a dog or cat.</p>
 <ul class="slist">{"".join(shelter_li(r, False) for r in sorted(lst, key=lambda r: r["org"]))}</ul>
 <p class="animal" style="margin-top:14px">More nearby: <a href="/states/{slugify(STATES[st])}/">all shelters in {STATES[st]}</a>.</p>"""
-        write(path, page(f"Animal Shelters in {c}, {st}: Adopt a Dog or Cat | {BRAND}",
+        write(path, page(f"Animal Shelters Near {c}, {st}: Dog, Puppy & Cat Adoption | {BRAND}",
             f"{len(lst)} animal shelters in {c}, {STATES[st]}: adopt a dog or cat, see adoptable pets and upcoming adoption events.",
             body, path, crumbs_ld([("Home", "/"), (STATES[st], f"/states/{slugify(STATES[st])}/"), (c, path)])))
     links = " ".join(f'<a href="/cities/{slugify(c + " " + st)}/">{esc(c)}, {st}</a>' for (c, st) in sorted(keep, key=lambda k: (STATES[k[1]], k[0])))
