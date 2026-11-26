@@ -3,15 +3,16 @@
   "state": "HI",
   "city": "Honolulu",
   "org": "Hawaiian Humane Society",
-  "program": "\u02bb\u012alio Explorers",
+  "program": "ʻĪlio Explorers",
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.hawaiianhumane.org/ilioexplorers/",
-  "notes": "Locals and Oahu visitors can book a field trip online. A car (or Uber) is needed at the Ho\u02bbopili campus. No off-leash dog parks.",
+  "url": "https://www.hawaiianhumane.org/IlioExplorers/",
+  "notes": "Locals and visitors; leash holder 18+, keiki 8+ with guardian. Donation $50 kama'aina / $150 visitors; book online for 9 or 10 a.m. check-in at the Mo'ili'ili (Honolulu) or Kosasa Ho'opili ('Ewa Beach) campus, dog back by 4 p.m.; enclosed vehicle/pet Uber needed.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": ""
+  "email_program": "ilioexplorers@hawaiianhumane.org",
+  "email_main": "info@hawaiianhumane.org",
+  "source_list": "shelter website"
  },
  {
   "state": "HI",
@@ -22,54 +23,56 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://oahuspca.org/Doggy-Day-Trips",
-  "notes": "Apply online for a match. $35 minimum donation at pickup. Backpack with towel, treats, water and bags provided.",
+  "notes": "Locals and visitors age 21+ with driver's license; apply online and staff match you. Pick-up Tue-Sat 9:30-11 a.m., return by 4 p.m.; minimum donation at pick-up (site lists both $35 and $25).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "Info@OahuSPCA.org",
+  "source_list": "shelter website"
  },
  {
   "state": "HI",
   "city": "Lihue",
-  "org": "Kauai Humane Society",
+  "org": "Kaua'i Humane Society",
   "program": "Field Trips for Shelter Dogs",
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://khsclinic.org/fieldtrips",
-  "notes": "Book a field trip online. $40 donation requested to cover supplies.",
+  "url": "https://kauaihumane.org/service/field-trips/",
+  "notes": "Visitors and kama'aina 18+; pick-up 10 a.m.-12 p.m. daily except Thursdays (walk-in or book online), return by 5 p.m. Visitors $75 donation per group, kama'aina free with ID; credit card and enclosed vehicle required.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "customerservice@kauaihumane.org",
+  "source_list": "shelter website"
  },
  {
   "state": "HI",
   "city": "Puunene",
   "org": "Maui Humane Society",
   "program": "Beach Buddies",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.mauihumanesociety.org/",
-  "notes": "Visitor program: sign up online for a day out with a shelter dog.",
+  "url": "https://www.mauihumanesociety.org/beachbuddies/",
+  "notes": "Visitors and residents 18+ (kids may come if noted, adults handle the dog); $75 participation fee. Pre-register via Calendly (slots open 10 days ahead) or ask about walk-ins; no walk-ins Wednesdays, shelter open Mon-Tue, Thu-Sat 11-5.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source": "https://www.hawaiimagazine.com/share-your-island-vacation-with-a-shelter-dog/"
+  "email_main": "info@mauihumanesociety.org",
+  "source_list": "shelter website"
  },
  {
   "state": "HI",
   "city": "Keaau",
   "org": "Hawaii Island Humane Society",
   "program": "Field Trips For Shelter Dogs",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.hihs.org/",
-  "notes": "Take a shelter dog to the beach, a park or anywhere for the day.",
+  "url": "https://hihs.org/programs/fieldtrips",
+  "notes": "Adults 18+ (children 8+ with adult); Fri-Sun by online appointment at the Kona (Holualoa) or Keaau shelter, return by 4:30 p.m. Donation $15 per group with Hawaii ID, $35 non-residents; enclosed vehicle, one dog per vehicle.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source": "https://bigisle.com/take-a-shelter-dog-on-a-field-trip/"
+  "source_list": "shelter website"
  },
  {
   "state": "HI",
@@ -77,7 +80,7 @@
   "org": "Lanai Cat Sanctuary",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "url": "https://lanaicatsanctuary.org/",
   "notes": "",
@@ -87,5 +90,20 @@
   "phone": "+1 808 215 9066",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13121917674"
+ },
+ {
+  "state": "HI",
+  "city": "Waianae",
+  "org": "The Hawaii SPCA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, cats and small animals",
+  "offers": "",
+  "url": "https://www.thehawaiispca.org/",
+  "notes": "Shelter & sanctuary at 87-120 Kaukamana Rd (Ma'ili); adoptions listed via Adopt-a-Pet. No day-out program on its site.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "hawaiispca@gmail.com",
+  "source_list": "shelter website"
  }
 ]
