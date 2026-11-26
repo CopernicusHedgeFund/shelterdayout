@@ -386,6 +386,7 @@ https://shelterdayout.com/listings/alleghany-humane-society-covington/
 https://shelterdayout.com/listings/allen-animal-shelter-allen/
 https://shelterdayout.com/listings/alley-animals-timonium/
 https://shelterdayout.com/listings/alley-cat-advocates-watterson-park/
+https://shelterdayout.com/listings/allsop-family-humane-society-cedar-rapids/
 https://shelterdayout.com/listings/almost-home-adoptions-westminster/
 https://shelterdayout.com/listings/almost-home-animal-haven-of-southfield-bingham-farms/
 https://shelterdayout.com/listings/almost-home-shelter-and-rescue-van-buren/
@@ -742,8 +743,8 @@ https://shelterdayout.com/listings/cats-angels-inc-spca-fernandina-beach/
 https://shelterdayout.com/listings/cats-cradle-shelter-fargo/
 https://shelterdayout.com/listings/catskill-animal-rescue-care-ferndale/
 https://shelterdayout.com/listings/cecil-county-animal-services-chesapeake-city/
-https://shelterdayout.com/listings/cedar-rapids-animal-control-cedar-rapids/
-https://shelterdayout.com/listings/cedar-valley-humane-society-cedar-rapids/
+https://shelterdayout.com/listings/cedar-bend-humane-society-waterloo/
+https://shelterdayout.com/listings/cedar-rapids-animal-care-and-control-cedar-rapids/
 https://shelterdayout.com/listings/cedartown-polk-county-humane-society-cedartown/
 https://shelterdayout.com/listings/centerton-animal-shelter-centerton/
 https://shelterdayout.com/listings/central-aroostook-humane-society-presque-isle/
@@ -1389,6 +1390,7 @@ https://shelterdayout.com/listings/humane-society-of-saline-county-bauxite/
 https://shelterdayout.com/listings/humane-society-of-san-bernardino-valley-san-bernardino/
 https://shelterdayout.com/listings/humane-society-of-sandusky-county-fremont/
 https://shelterdayout.com/listings/humane-society-of-sarasota-county-sarasota/
+https://shelterdayout.com/listings/humane-society-of-scott-county-davenport/
 https://shelterdayout.com/listings/humane-society-of-scott-county-scottsburg/
 https://shelterdayout.com/listings/humane-society-of-searcy-searcy/
 https://shelterdayout.com/listings/humane-society-of-sedona-sedona/
@@ -1467,6 +1469,7 @@ https://shelterdayout.com/listings/indianapolis-animal-care-services-indianapoli
 https://shelterdayout.com/listings/indyhumane-indianapolis/
 https://shelterdayout.com/listings/inland-valley-humane-society-and-spca-pomona/
 https://shelterdayout.com/listings/inyo-county-animal-shelter-big-pine/
+https://shelterdayout.com/listings/iowa-city-animal-care-and-adoption-center-iowa-city/
 https://shelterdayout.com/listings/iowa-county-humane-society-dodgeville/
 https://shelterdayout.com/listings/ipswich-humane-group-animal-shelter-ipswich/
 https://shelterdayout.com/listings/iredell-county-animal-services-statesville/
@@ -1518,7 +1521,6 @@ https://shelterdayout.com/listings/joshua-tree-no-kill-animal-shelter-joshua-tre
 https://shelterdayout.com/listings/joybound-people-and-pets-walnut-creek/
 https://shelterdayout.com/listings/junction-city-geary-county-animal-shelter-junction-city/
 https://shelterdayout.com/listings/juneau-animal-rescue-juneau/
-https://shelterdayout.com/listings/just-dogs-play-care-tiffin/
 https://shelterdayout.com/listings/justice-rescue-chambersburg/
 https://shelterdayout.com/listings/justin-bartlett-animal-rescue-royal-palm-beach/
 https://shelterdayout.com/listings/k-9-angels-rescue-houston/
@@ -2314,6 +2316,7 @@ https://shelterdayout.com/listings/silicon-valley-animal-control-authority-svaca
 https://shelterdayout.com/listings/siloam-springs-animal-services-siloam-springs/
 https://shelterdayout.com/listings/simply-cats-boise/
 https://shelterdayout.com/listings/sioux-falls-area-humane-society-sioux-falls/
+https://shelterdayout.com/listings/siouxland-humane-society-sioux-city/
 https://shelterdayout.com/listings/sit-happens-dog-training-center-missoula/
 https://shelterdayout.com/listings/slidell-animal-shelter-slidell/
 https://shelterdayout.com/listings/smith-county-animal-shelter-tyler/

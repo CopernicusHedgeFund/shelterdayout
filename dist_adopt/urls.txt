@@ -329,6 +329,7 @@ https://shelteradoption.com/shelters/alleghany-humane-society-covington/
 https://shelteradoption.com/shelters/allen-animal-shelter-allen/
 https://shelteradoption.com/shelters/alley-animals-timonium/
 https://shelteradoption.com/shelters/alley-cat-advocates-watterson-park/
+https://shelteradoption.com/shelters/allsop-family-humane-society-cedar-rapids/
 https://shelteradoption.com/shelters/almost-home-adoptions-westminster/
 https://shelteradoption.com/shelters/almost-home-animal-haven-of-southfield-bingham-farms/
 https://shelteradoption.com/shelters/almost-home-shelter-and-rescue-van-buren/
@@ -685,8 +686,8 @@ https://shelteradoption.com/shelters/cats-angels-inc-spca-fernandina-beach/
 https://shelteradoption.com/shelters/cats-cradle-shelter-fargo/
 https://shelteradoption.com/shelters/catskill-animal-rescue-care-ferndale/
 https://shelteradoption.com/shelters/cecil-county-animal-services-chesapeake-city/
-https://shelteradoption.com/shelters/cedar-rapids-animal-control-cedar-rapids/
-https://shelteradoption.com/shelters/cedar-valley-humane-society-cedar-rapids/
+https://shelteradoption.com/shelters/cedar-bend-humane-society-waterloo/
+https://shelteradoption.com/shelters/cedar-rapids-animal-care-and-control-cedar-rapids/
 https://shelteradoption.com/shelters/cedartown-polk-county-humane-society-cedartown/
 https://shelteradoption.com/shelters/centerton-animal-shelter-centerton/
 https://shelteradoption.com/shelters/central-aroostook-humane-society-presque-isle/
@@ -1332,6 +1333,7 @@ https://shelteradoption.com/shelters/humane-society-of-saline-county-bauxite/
 https://shelteradoption.com/shelters/humane-society-of-san-bernardino-valley-san-bernardino/
 https://shelteradoption.com/shelters/humane-society-of-sandusky-county-fremont/
 https://shelteradoption.com/shelters/humane-society-of-sarasota-county-sarasota/
+https://shelteradoption.com/shelters/humane-society-of-scott-county-davenport/
 https://shelteradoption.com/shelters/humane-society-of-scott-county-scottsburg/
 https://shelteradoption.com/shelters/humane-society-of-searcy-searcy/
 https://shelteradoption.com/shelters/humane-society-of-sedona-sedona/
@@ -1410,6 +1412,7 @@ https://shelteradoption.com/shelters/indianapolis-animal-care-services-indianapo
 https://shelteradoption.com/shelters/indyhumane-indianapolis/
 https://shelteradoption.com/shelters/inland-valley-humane-society-and-spca-pomona/
 https://shelteradoption.com/shelters/inyo-county-animal-shelter-big-pine/
+https://shelteradoption.com/shelters/iowa-city-animal-care-and-adoption-center-iowa-city/
 https://shelteradoption.com/shelters/iowa-county-humane-society-dodgeville/
 https://shelteradoption.com/shelters/ipswich-humane-group-animal-shelter-ipswich/
 https://shelteradoption.com/shelters/iredell-county-animal-services-statesville/
@@ -1461,7 +1464,6 @@ https://shelteradoption.com/shelters/joshua-tree-no-kill-animal-shelter-joshua-t
 https://shelteradoption.com/shelters/joybound-people-and-pets-walnut-creek/
 https://shelteradoption.com/shelters/junction-city-geary-county-animal-shelter-junction-city/
 https://shelteradoption.com/shelters/juneau-animal-rescue-juneau/
-https://shelteradoption.com/shelters/just-dogs-play-care-tiffin/
 https://shelteradoption.com/shelters/justice-rescue-chambersburg/
 https://shelteradoption.com/shelters/justin-bartlett-animal-rescue-royal-palm-beach/
 https://shelteradoption.com/shelters/k-9-angels-rescue-houston/
@@ -2257,6 +2259,7 @@ https://shelteradoption.com/shelters/silicon-valley-animal-control-authority-sva
 https://shelteradoption.com/shelters/siloam-springs-animal-services-siloam-springs/
 https://shelteradoption.com/shelters/simply-cats-boise/
 https://shelteradoption.com/shelters/sioux-falls-area-humane-society-sioux-falls/
+https://shelteradoption.com/shelters/siouxland-humane-society-sioux-city/
 https://shelteradoption.com/shelters/sit-happens-dog-training-center-missoula/
 https://shelteradoption.com/shelters/slidell-animal-shelter-slidell/
 https://shelteradoption.com/shelters/smith-county-animal-shelter-tyler/
