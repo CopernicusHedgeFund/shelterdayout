@@ -695,6 +695,7 @@ https://shelteradoption.com/shelters/bartlett-animal-shelter-bartlett/
 https://shelteradoption.com/shelters/bartow-county-animal-control-cartersville/
 https://shelteradoption.com/shelters/bastrop-county-animal-services-bastrop/
 https://shelteradoption.com/shelters/bath-county-animal-shelter-hot-springs/
+https://shelteradoption.com/shelters/battle-mountain-humane-society-battle-mountain/
 https://shelteradoption.com/shelters/battle-mountain-humane-society-hot-springs/
 https://shelteradoption.com/shelters/baxter-county-animal-control-mountain-home/
 https://shelteradoption.com/shelters/bay-city-matagorda-county-animal-impound-bay-city/
@@ -1069,6 +1070,7 @@ https://shelteradoption.com/shelters/city-of-elko-animal-shelter-elko/
 https://shelteradoption.com/shelters/city-of-ely-animal-control-facility-ely/
 https://shelteradoption.com/shelters/city-of-eureka-animal-shelter-eureka-pound-eureka/
 https://shelteradoption.com/shelters/city-of-fallon-animal-shelter-fallon/
+https://shelteradoption.com/shelters/city-of-fernley-animal-shelter-fernley/
 https://shelteradoption.com/shelters/city-of-festus-animal-control-adoptions-festus/
 https://shelteradoption.com/shelters/city-of-franklin-animal-shelter-franklin/
 https://shelteradoption.com/shelters/city-of-gatesville-animal-control-gatesville/
@@ -2506,6 +2508,7 @@ https://shelteradoption.com/shelters/milton-animal-shelter-milton-animal-league-
 https://shelteradoption.com/shelters/milwaukee-area-domestic-animal-control-commission-madacc-west-milwaukee/
 https://shelteradoption.com/shelters/minden-animal-shelter-minden/
 https://shelteradoption.com/shelters/mineola-animal-shelter-mineola/
+https://shelteradoption.com/shelters/mineral-county-animal-shelter-sheriff-s-animal-control-hawthorne/
 https://shelteradoption.com/shelters/mineral-county-humane-society-keyser/
 https://shelteradoption.com/shelters/mineral-wells-animal-shelter-mineral-wells/
 https://shelteradoption.com/shelters/minidoka-joint-powers-animal-shelter-rupert/
@@ -3703,6 +3706,7 @@ https://shelteradoption.com/shelters/washington-county-johnson-city-animal-shelt
 https://shelteradoption.com/shelters/washington-county-va-animal-shelter-abingdon/
 https://shelteradoption.com/shelters/washington-parish-animal-shelter-franklinton/
 https://shelteradoption.com/shelters/washington-wilkes-animal-shelter-washington/
+https://shelteradoption.com/shelters/washoe-county-regional-animal-services-reno/
 https://shelteradoption.com/shelters/watauga-animal-services-center-watauga/
 https://shelteradoption.com/shelters/watauga-humane-society-boone/
 https://shelteradoption.com/shelters/waterbury-animal-control-waterbury/
@@ -3742,6 +3746,7 @@ https://shelteradoption.com/shelters/west-suburban-humane-society-downers-grove/
 https://shelteradoption.com/shelters/west-valley-city-animal-shelter-west-valley-city/
 https://shelteradoption.com/shelters/west-valley-humane-society-caldwell/
 https://shelteradoption.com/shelters/west-warwick-animal-shelter-west-warwick/
+https://shelteradoption.com/shelters/west-wendover-animal-control-shelter-west-wendover/
 https://shelteradoption.com/shelters/westerly-animal-shelter-westerly/
 https://shelteradoption.com/shelters/western-arizona-humane-society-lake-havasu-city/
 https://shelteradoption.com/shelters/western-hills-humane-society-spearfish/
