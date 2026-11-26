@@ -1,13 +1,28 @@
 [
  {
   "state": "NE",
+  "city": "Grand Island",
+  "org": "Central Nebraska Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cnhs-gi.com/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "NE",
   "city": "Hastings",
   "org": "Heartland Pet Connection",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.heartlandpetconnection.com/",
   "notes": "Hastings shelter.",
   "checked": "November 2026",
   "email_program": "",
@@ -15,6 +30,21 @@
   "phone": "",
   "source_list": "shelter website",
   "osm": "way/1574108070"
+ },
+ {
+  "state": "NE",
+  "city": "Kearney",
+  "org": "Kearney Area Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.kearneyanimalshelter.com/",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  },
  {
   "state": "NE",
@@ -32,6 +62,21 @@
   "phone": "",
   "source_list": "shelter website",
   "osm": "way/1023438680"
+ },
+ {
+  "state": "NE",
+  "city": "North Platte",
+  "org": "North Platte Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://northplattene.gov/345/About-the-Animal-Shelter",
+  "notes": "City-operated shelter.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  },
  {
   "state": "NE",
