@@ -360,6 +360,7 @@ https://shelteradoption.com/cities/wheaton-il/
 https://shelteradoption.com/cities/wichita-falls-tx/
 https://shelteradoption.com/cities/wichita-ks/
 https://shelteradoption.com/cities/wilkesboro-nc/
+https://shelteradoption.com/cities/williston-nd/
 https://shelteradoption.com/cities/wilson-nc/
 https://shelteradoption.com/cities/winchester-va/
 https://shelteradoption.com/cities/winston-salem-nc/
@@ -2922,7 +2923,6 @@ https://shelteradoption.com/shelters/shenandoah-valley-animal-services-center-st
 https://shelteradoption.com/shelters/shenango-valley-animal-shelter-hermitage/
 https://shelteradoption.com/shelters/sherman-animal-shelter-sherman/
 https://shelteradoption.com/shelters/sherwood-humane-animal-services-sherwood/
-https://shelteradoption.com/shelters/sheyenne-valley-friends-of-animals-valley-city/
 https://shelteradoption.com/shelters/shiawassee-county-animal-control-and-care-shelter-owosso/
 https://shelteradoption.com/shelters/shiawassee-county-humane-society-owosso/
 https://shelteradoption.com/shelters/sicsa-pet-adoption-and-wellness-center-dayton/
@@ -3376,6 +3376,7 @@ https://shelteradoption.com/shelters/williamsburg-county-animal-care-and-control
 https://shelteradoption.com/shelters/williamson-county-animal-center-franklin/
 https://shelteradoption.com/shelters/williamson-county-animal-control-marion/
 https://shelteradoption.com/shelters/williamson-county-regional-animal-shelter-georgetown/
+https://shelteradoption.com/shelters/williston-police-department-animal-control-williston/
 https://shelteradoption.com/shelters/wilmington-area-humane-society-wilmington/
 https://shelteradoption.com/shelters/wilson-county-animal-control-lebanon/
 https://shelteradoption.com/shelters/wilson-county-animal-services-wilson/

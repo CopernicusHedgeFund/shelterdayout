@@ -8,7 +8,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.dickinsongov.com/police/page/animal-control",
-  "notes": "Run by Dickinson Police animal control.",
+  "notes": "Run by Dickinson Police animal control at 3405 Public Works Blvd (off Energy Dr). Strays held 5 days, then adoptable; call 701-456-7039 to arrange adoption. Current impounds posted on Facebook.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -25,7 +25,7 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://catscradleshelter.org/",
-  "notes": "Cat-only shelter, operating (local news Nov 2026; new Fargo building under construction since mid-2026).",
+  "notes": "Cat-only shelter at 9 Ninth St S, Fargo; open house Tue 3-6pm and Sat 12-4pm, no appointment needed. Hit by water leaks Nov 2026; new South Fargo building being remodeled, move hoped for March 2027.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -42,10 +42,10 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.homewardonline.org/",
-  "notes": "Operating (current adoptable listings Nov 2026).",
+  "notes": "1201 28th Ave N, Fargo. Physical shelter plus large foster network. No events on site calendar for Nov 2026-Jan 2027.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@homewardonline.org",
   "phone": "",
   "source_list": "shelter website",
   "osm": "way/85033454"
@@ -59,7 +59,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cofpets.com/",
-  "notes": "Name typo corrected (legal name Humane Society of Grand Forks, dba Circle of Friends Animal Shelter).",
+  "notes": "4375 N Washington St, Grand Forks; also serves as the Grand Forks city impound. Legal name Humane Society of Grand Forks, dba Circle of Friends Animal Shelter.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -71,16 +71,17 @@
   "state": "ND",
   "city": "Mandan",
   "org": "Central Dakota Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://cdhs.net/",
-  "notes": "2104 37th St, Mandan; serves Bismarck-Mandan.",
+  "program": "Doggie Staycations",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips, overnights or multi-night stays",
+  "url": "https://cdhs.net/files/2025/10/CDHS_Spring_2025_FC.pdf",
+  "notes": "Short-term foster program for adoptable dogs, open to CDHS Dog Critter Companion volunteers; each outing is coordinated with the Volunteer Coordinator (volunteers@cdhs.net, 701-667-2020). Described in the Spring 2025 newsletter; the Fall 2025 newsletter still mentions staycation volunteers. Shelter at 2104 37th St, Mandan.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "volunteers@cdhs.net",
+  "email_main": "info@cdhs.net",
+  "source_list": "shelter website",
+  "url_main": "https://cdhs.net/"
  },
  {
   "state": "ND",
@@ -90,13 +91,82 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "1935 20th Ave SE, Minot; also serves as Minot city pound (since 2025). Official Facebook used as url.",
+  "url": "https://svaspets.com/",
+  "notes": "1935 20th Ave SE, Minot; recently moved into its new building. Also serves as the Minot city pound (since 2025). Phone 701-852-6133.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/svaspets/"
+  "url_social": "https://www.facebook.com/svaspets/",
+  "source": "https://www.facebook.com/svaspets/",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2027-01-02",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2027-01-09",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2027-01-16",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2027-01-23",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2027-01-30",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   },
+   {
+    "date": "2027-02-06",
+    "title": "Runnings Saturday Stroll (meet adoptable dogs, 11am-2pm)",
+    "url": "https://svaspets.com/events/runnings-saturday-stroll/",
+    "place": "Runnings, Minot"
+   }
+  ]
  },
  {
   "state": "ND",
@@ -107,7 +177,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.jamesriverhumanesociety.org/",
-  "notes": "",
+  "notes": "8700 37th St SE (I-94 exit 262), Jamestown. Phone 701-252-0747.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -122,10 +192,10 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://mondakanimalrescue.org/",
-  "notes": "6207 1st Ave W, Williston (legal name MonDak Humane Society).",
+  "notes": "Physical facility (Buck Scheele Family Animal Center), 6207 1st Ave W, Williston; adoption hours Tue-Fri 1-5pm, Sat 1-4pm. Legal name MonDak Humane Society.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "mondakanimalrescue@gmail.com",
   "source_list": "shelter website"
  },
  {
@@ -137,26 +207,19 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.tlcndanimalrescue.org/",
-  "notes": "814 Highway 2 W, Devils Lake. Site has an events schedule page (tlcndanimalrescue.org/events-schedule.html) not yet checked.",
+  "notes": "Address corrected to 307 5th Ave NE, Devils Lake. Own site calls it a mostly foster-home-based rescue, but it holds public open hours at this address (Sat noon-4pm and by appointment). Kept; needs review on whether it counts as a facility.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "ND",
-  "city": "Valley City",
-  "org": "Sheyenne Valley Friends of Animals",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.svfanimals.org/",
-  "notes": "Facility vs. foster model not yet confirmed on own site.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "tlcnd@gondtc.com",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Open adoption hours, noon-4pm",
+    "url": "https://www.tlcndanimalrescue.org/events-schedule.html",
+    "place": "307 5th Ave NE, Devils Lake"
+   }
+  ]
  },
  {
   "state": "ND",
@@ -166,11 +229,28 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "18039 79 1/2 St SE, Wahpeton. Official website/Facebook not yet confirmed.",
+  "url": "https://hsrwc.org/",
+  "notes": "18039 79 1/2 St SE, Wahpeton; open to the public Mon-Fri 3-7pm. Phone 701-672-1676.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "theshelter@hsrwc.org",
+  "source_list": "shelter website",
+  "source": "https://www.facebook.com/hsrwc"
+ },
+ {
+  "state": "ND",
+  "city": "Williston",
+  "org": "Williston Police Department Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://police.cityofwilliston.com/animal_adoptions.php",
+  "notes": "City pound/animal control facility; unclaimed strays adoptable with no adoption fee via online application on the police site. Contact CSO at 701-580-8557.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "government website",
+  "source": "https://www.facebook.com/WillistonNDPDPound"
  }
 ]
