@@ -71,6 +71,9 @@ function inbox_receive(string $raw): string {
     if ($text === '' && $html !== '') $text = html_entity_decode(strip_tags(preg_replace('/<(br|\/p|\/div|\/tr)[^>]*>/i', "\n", $html)), ENT_QUOTES, 'UTF-8');
     $new = inbox_new_text($text);
     $auto = inbox_header($head, 'Auto-Submitted');
+    $rcpt = strtolower(inbox_header($head, 'X-Original-To') . ' ' . inbox_header($head, 'Delivered-To') . ' ' . inbox_header($head, 'Envelope-To') . ' ' . inbox_header($head, 'To') . ' ' . inbox_header($head, 'Cc'));
+    $ours = strpos($rcpt, 'shelteradoption.com') !== false && strpos($rcpt, 'hello@shelterdayout.com') === false ? 'hello@shelteradoption.com' : 'hello@shelterdayout.com';
+    $brandName = $ours === 'hello@shelteradoption.com' ? 'ShelterAdoption' : 'ShelterDayOut';
     // 1. loops and our own mail
     if (in_array($from, INBOX_OWN, true)) { inbox_log("ignored own mail: $subject"); return 'own'; }
     // 2. bounces: suppress the failed address
@@ -86,8 +89,8 @@ function inbox_receive(string $raw): string {
     // 4. opt-outs (short messages only, so a real question that mentions "stop" is not swallowed)
     if (mb_strlen($new) < 400 && preg_match('/\b(unsubscribe|opt[- ]?out|stop (sending|emailing|the emails)|remove (me|us|our (shelter|email))|take (me|us) off|no more (emails|requests)|do not (email|contact))\b|^\s*stop\s*\.?\s*$/im', $new . "\n" . $subject)) {
         inbox_optout_add($from, 'asked');
-        $msg = "Hi,\n\nDone. We've removed $from, so ShelterDayOut won't send you any more visitor request emails. If this was a mistake, just reply and we'll turn them back on.\n\nShelterDayOut (a free directory run by Charity Good)\nhttps://shelterdayout.com/";
-        sdo_mail($from, 'Re: ' . ($subject ?: 'ShelterDayOut emails'), $msg, nl2br(sdo_h($msg)));
+        $msg = "Hi,\n\nDone. We've removed $from, so $brandName won't send you any more emails. If this was a mistake, just reply and we'll turn them back on.\n\n$brandName (a free directory run by Charity Good)\nhttps://shelterdayout.com/ · https://shelteradoption.com/";
+        sdo_mail($from, 'Re: ' . ($subject ?: "$brandName emails"), $msg, nl2br(sdo_h($msg)), '', '', $ours);
         return 'optout';
     }
     // 5. everything else waits for the inbox task
@@ -95,7 +98,7 @@ function inbox_receive(string $raw): string {
     $id = substr(hash('sha256', $from . $subject . substr($new, 0, 500) . date('YmdH')), 0, 10);
     if (isset($q[$id])) return 'duplicate';
     $q[$id] = ['id' => $id, 'at' => gmdate('c'), 'from' => $from, 'name' => mb_substr($name, 0, 120), 'subject' => $subject,
-        'text' => mb_substr($new !== '' ? $new : trim($text), 0, 8000), 'msgid' => inbox_header($head, 'Message-ID'), 'status' => 'open'];
+        'text' => mb_substr($new !== '' ? $new : trim($text), 0, 8000), 'msgid' => inbox_header($head, 'Message-ID'), 'to' => $ours, 'status' => 'open'];
     inbox_save($q); inbox_log("queued $id from $from: $subject");
     return "queued $id";
 }
@@ -133,7 +136,7 @@ function inbox_apply_replies(array $items): array {
             $to = $q[$id]['from'];                      // only ever the original sender
             $subj = trim((string)($it['subject'] ?? '')) ?: ('Re: ' . ($q[$id]['subject'] ?: 'Your message to ShelterDayOut'));
             $txt = (string)$it['body'];
-            if (!sdo_mail($to, $subj, $txt, nl2br(sdo_h($txt)))) { $skip++; inbox_log("send failed $id"); continue; }
+            if (!sdo_mail($to, $subj, $txt, nl2br(sdo_h($txt)), '', '', $q[$id]['to'] ?? 'hello@shelterdayout.com')) { $skip++; inbox_log("send failed $id"); continue; }
             $q[$id]['status'] = 'replied'; $q[$id]['done'] = gmdate('c'); $sent++; inbox_log("replied $id to $to");
         } else { $q[$id]['status'] = 'closed'; $q[$id]['done'] = gmdate('c'); $closed++; inbox_log("closed $id"); }
     }

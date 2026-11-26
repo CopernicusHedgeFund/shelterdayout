@@ -16,7 +16,7 @@ DIST = ROOT / "dist_adopt"
 SITE = "https://shelteradoption.com"
 SDO = "https://shelterdayout.com"
 BRAND = "ShelterAdoption"
-CONTACT = "hello@shelterdayout.com"
+CONTACT = "hello@shelteradoption.com"
 
 CSS = sdo.CSS.replace("--accent:#ff7a59;--accent-d:#e55d3c", "--accent:#2a9d8f;--accent-d:#1f7a6f").replace(
     "--teal:#2a9d8f", "--teal:#1f7a6f").replace("--bg:#fffaf2", "--bg:#f7fbf9") + """

@@ -75,15 +75,17 @@ function sdo_html_email(array $o): string {
 }
 
 /** Send text + HTML together. */
-function sdo_mail(string $to, string $subject, string $text, string $html, string $replyTo = '', string $cc = ''): bool {
+function sdo_mail(string $to, string $subject, string $text, string $html, string $replyTo = '', string $cc = '', string $from = 'hello@shelterdayout.com'): bool {
+    $from = in_array($from, ['hello@shelterdayout.com', 'hello@shelteradoption.com'], true) ? $from : 'hello@shelterdayout.com';
+    $brand = $from === 'hello@shelteradoption.com' ? 'ShelterAdoption' : 'ShelterDayOut';
     $b = 'sdo_' . bin2hex(random_bytes(8));
-    $headers = ['From: ShelterDayOut <hello@shelterdayout.com>', 'MIME-Version: 1.0', 'Content-Type: multipart/alternative; boundary="' . $b . '"'];
+    $headers = ["From: $brand <$from>", 'MIME-Version: 1.0', 'Content-Type: multipart/alternative; boundary="' . $b . '"'];
     if ($replyTo !== '') { $headers[] = 'Reply-To: ' . $replyTo; }
     if ($cc !== '') { $headers[] = 'Cc: ' . $cc; }
     $body = "--$b\r\nContent-Type: text/plain; charset=UTF-8\r\nContent-Transfer-Encoding: base64\r\n\r\n" . chunk_split(base64_encode($text))
           . "--$b\r\nContent-Type: text/html; charset=UTF-8\r\nContent-Transfer-Encoding: base64\r\n\r\n" . chunk_split(base64_encode($html))
           . "--$b--\r\n";
     $subject = '=?UTF-8?B?' . base64_encode(str_replace(["\r", "\n"], ' ', $subject)) . '?=';
-    return @mail($to, $subject, $body, implode("\r\n", $headers), '-fhello@shelterdayout.com');
+    return @mail($to, $subject, $body, implode("\r\n", $headers), '-f' . $from);
 }
 }
