@@ -113,6 +113,7 @@ https://shelteradoption.com/cities/frankfort-ky/
 https://shelteradoption.com/cities/franklin-in/
 https://shelteradoption.com/cities/franklin-nc/
 https://shelteradoption.com/cities/fredericksburg-va/
+https://shelteradoption.com/cities/fremont-ne/
 https://shelteradoption.com/cities/fremont-oh/
 https://shelteradoption.com/cities/friday-harbor-wa/
 https://shelteradoption.com/cities/gainesville-fl/
@@ -215,6 +216,7 @@ https://shelteradoption.com/cities/oakland-ca/
 https://shelteradoption.com/cities/okatie-sc/
 https://shelteradoption.com/cities/oklahoma-city-ok/
 https://shelteradoption.com/cities/olympia-wa/
+https://shelteradoption.com/cities/omaha-ne/
 https://shelteradoption.com/cities/orangeburg-sc/
 https://shelteradoption.com/cities/orlando-fl/
 https://shelteradoption.com/cities/oroville-ca/
@@ -337,6 +339,7 @@ https://shelteradoption.com/shelters/adair-county-humane-society-kirksville/
 https://shelteradoption.com/shelters/adams-county-animal-shelter-decatur/
 https://shelteradoption.com/shelters/adams-county-pet-rescue-othello/
 https://shelteradoption.com/shelters/adams-county-spca-gettysburg/
+https://shelteradoption.com/shelters/adopt-a-dog-animal-rescue-inc-chappell/
 https://shelteradoption.com/shelters/adopt-a-pet-of-shelton-washington-shelton/
 https://shelteradoption.com/shelters/aggieland-humane-society-bryan/
 https://shelteradoption.com/shelters/aheinz57-pet-rescue-and-shelter-de-soto/
@@ -361,6 +364,7 @@ https://shelteradoption.com/shelters/allen-animal-shelter-allen/
 https://shelteradoption.com/shelters/allen-county-animal-control-scottsville/
 https://shelteradoption.com/shelters/allen-county-animal-rescue-facility-acarf-la-harpe/
 https://shelteradoption.com/shelters/alley-animals-timonium/
+https://shelteradoption.com/shelters/alliance-animal-shelter-alliance/
 https://shelteradoption.com/shelters/allsop-family-humane-society-cedar-rapids/
 https://shelteradoption.com/shelters/almost-home-adoptions-for-rescued-cats-westminster/
 https://shelteradoption.com/shelters/almost-home-animal-haven-of-southfield-bingham-farms/
@@ -543,6 +547,7 @@ https://shelteradoption.com/shelters/bay-county-animal-services-panama-city/
 https://shelteradoption.com/shelters/baypath-humane-society-of-hopkinton-hopkinton/
 https://shelteradoption.com/shelters/beacon-animal-rescue-ocean-view/
 https://shelteradoption.com/shelters/beadle-county-humane-society-huron/
+https://shelteradoption.com/shelters/beatrice-humane-society-beatrice/
 https://shelteradoption.com/shelters/beaufort-county-animal-control-washington/
 https://shelteradoption.com/shelters/beaufort-county-animal-services-okatie/
 https://shelteradoption.com/shelters/beaumont-animal-care-beaumont/
@@ -755,6 +760,7 @@ https://shelteradoption.com/shelters/cats-and-caffeine-purrs-and-whiskers-inc-ta
 https://shelteradoption.com/shelters/cats-angels-inc-spca-fernandina-beach/
 https://shelteradoption.com/shelters/cats-cradle-shelter-fargo/
 https://shelteradoption.com/shelters/catskill-animal-rescue-care-ferndale/
+https://shelteradoption.com/shelters/catz-angels-care-inc-fremont/
 https://shelteradoption.com/shelters/cecil-county-animal-services-chesapeake-city/
 https://shelteradoption.com/shelters/cedar-bend-humane-society-waterloo/
 https://shelteradoption.com/shelters/cedar-rapids-animal-care-and-control-cedar-rapids/
@@ -1120,6 +1126,7 @@ https://shelteradoption.com/shelters/fayetteville-animal-services-fayetteville/
 https://shelteradoption.com/shelters/feline-friends-olympia/
 https://shelteradoption.com/shelters/feline-rescue-saint-paul/
 https://shelteradoption.com/shelters/felines-and-canines-chicago/
+https://shelteradoption.com/shelters/felius-cat-cafe-and-rescue-omaha/
 https://shelteradoption.com/shelters/fetch-remedy-dogs-zanesville/
 https://shelteradoption.com/shelters/finding-furever-friends-formerly-humane-society-of-independence-county-batesville/
 https://shelteradoption.com/shelters/finney-county-humane-society-garden-city/
@@ -1190,6 +1197,7 @@ https://shelteradoption.com/shelters/fulton-county-animal-services-atlanta/
 https://shelteradoption.com/shelters/fulton-county-humane-society-archbold/
 https://shelteradoption.com/shelters/fulton-county-humane-society-broadalbin/
 https://shelteradoption.com/shelters/furever-friends-animal-oasis-harrisville/
+https://shelteradoption.com/shelters/furever-home-inc-fremont/
 https://shelteradoption.com/shelters/furkids-cat-adoption-center-east-cobb-marietta/
 https://shelteradoption.com/shelters/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/
 https://shelteradoption.com/shelters/furkids-johns-creek-cat-adoption-and-community-resource-center-johns-creek/
@@ -1379,6 +1387,7 @@ https://shelteradoption.com/shelters/holbrook-animal-shelter-holbrook/
 https://shelteradoption.com/shelters/hollister-animal-shelter-hollister-police-animal-care-and-services-hollister/
 https://shelteradoption.com/shelters/holly-lake-dog-shelter-hawkins/
 https://shelteradoption.com/shelters/holmes-county-dog-warden-millersburg/
+https://shelteradoption.com/shelters/holt-county-animal-shelter-o-neill/
 https://shelteradoption.com/shelters/homeless-animal-rescue-team-hart-of-maine-cumberland/
 https://shelteradoption.com/shelters/homer-animal-shelter-homer/
 https://shelteradoption.com/shelters/homeward-animal-shelter-fargo/
@@ -2294,6 +2303,7 @@ https://shelteradoption.com/shelters/placer-county-animal-services-center-auburn
 https://shelteradoption.com/shelters/plainfield-animal-control-moosup/
 https://shelteradoption.com/shelters/plainfield-area-humane-society-plainfield/
 https://shelteradoption.com/shelters/plano-animal-shelter-and-services-plano/
+https://shelteradoption.com/shelters/plattsmouth-animal-shelter-happy-paws-plattsmouth/
 https://shelteradoption.com/shelters/pleasants-county-humane-society-st-marys/
 https://shelteradoption.com/shelters/plumas-animal-welfare-society-paws-quincy/
 https://shelteradoption.com/shelters/plumas-county-animal-shelter-quincy/
