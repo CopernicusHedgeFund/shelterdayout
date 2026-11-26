@@ -1170,6 +1170,7 @@ https://shelterdayout.com/listings/city-of-san-bernardino-animal-shelter-san-ber
 https://shelterdayout.com/listings/city-of-selma-animal-services-center-selma/
 https://shelterdayout.com/listings/city-of-seymour-animal-shelter-seymour/
 https://shelterdayout.com/listings/city-of-shasta-lake-animal-control-shelter-shasta-lake/
+https://shelterdayout.com/listings/city-of-sidney-animal-control-sidney/
 https://shelterdayout.com/listings/city-of-st-louis-animal-care-and-control-animal-care-center-st-louis/
 https://shelterdayout.com/listings/city-of-stilwell-animal-control-shelter-stilwell/
 https://shelterdayout.com/listings/city-of-tahlequah-animal-control-tahlequah/
@@ -1787,6 +1788,7 @@ https://shelterdayout.com/listings/headwaters-animal-shelter-park-rapids/
 https://shelterdayout.com/listings/heard-county-animal-control-franklin/
 https://shelterdayout.com/listings/heart-of-idaho-animal-sanctuary-challis/
 https://shelterdayout.com/listings/heart-of-mn-animal-shelter-hutchinson/
+https://shelterdayout.com/listings/heart-of-montana-animal-shelter-and-canine-center-lewistown/
 https://shelterdayout.com/listings/heart-of-rhode-island-east-greenwich-animal-protection-league-cranston/
 https://shelterdayout.com/listings/heart-of-the-catskills-humane-society-delhi/
 https://shelterdayout.com/listings/heart-of-the-valley-animal-shelter-bozeman/

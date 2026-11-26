@@ -391,5 +391,37 @@
     "email_program": "",
     "email_main": "",
     "source_list": "shelter website"
+  },
+  {
+    "state": "MT",
+    "city": "Lewistown",
+    "org": "Heart of Montana Animal Shelter and Canine Center",
+    "program": "No day-out program yet",
+    "status": "No program yet",
+    "animals": "Dogs and cats",
+    "offers": "",
+    "url": "https://heartofmontana.weebly.com/",
+    "phone": "",
+    "notes": "",
+    "checked": "November 2026",
+    "email_program": "",
+    "email_main": "",
+    "source_list": "shelter website"
+  },
+  {
+    "state": "MT",
+    "city": "Sidney",
+    "org": "City of Sidney Animal Control",
+    "program": "No day-out program yet",
+    "status": "No program yet",
+    "animals": "Dogs and cats",
+    "offers": "",
+    "url": "https://cityofsidney.org/147/Animal-Control",
+    "phone": "",
+    "notes": "",
+    "checked": "November 2026",
+    "email_program": "",
+    "email_main": "",
+    "source_list": "shelter website"
   }
 ]
