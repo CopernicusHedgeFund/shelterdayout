@@ -44,6 +44,7 @@ https://shelterdayout.com/cities/boone-nc/
 https://shelterdayout.com/cities/bradenton-fl/
 https://shelterdayout.com/cities/branson-mo/
 https://shelterdayout.com/cities/briarcliff-manor-ny/
+https://shelterdayout.com/cities/brookings-sd/
 https://shelterdayout.com/cities/brooklyn-ny/
 https://shelterdayout.com/cities/bryan-tx/
 https://shelterdayout.com/cities/burlington-nc/
@@ -283,6 +284,7 @@ https://shelterdayout.com/cities/scottsdale-az/
 https://shelterdayout.com/cities/seattle-wa/
 https://shelterdayout.com/cities/sevierville-tn/
 https://shelterdayout.com/cities/silverdale-wa/
+https://shelterdayout.com/cities/sioux-falls-sd/
 https://shelterdayout.com/cities/south-elgin-il/
 https://shelterdayout.com/cities/spokane-valley-wa/
 https://shelterdayout.com/cities/spruce-pine-nc/
@@ -348,6 +350,7 @@ https://shelterdayout.com/cities/wilton-ct/
 https://shelterdayout.com/cities/winchester-or/
 https://shelterdayout.com/cities/winston-salem-nc/
 https://shelterdayout.com/cities/wooster-oh/
+https://shelterdayout.com/cities/yankton-sd/
 https://shelterdayout.com/cities/york-pa/
 https://shelterdayout.com/cities/yuma-az/
 https://shelterdayout.com/events/
@@ -2280,7 +2283,6 @@ https://shelterdayout.com/listings/mission-viejo-animal-services-center-mission-
 https://shelterdayout.com/listings/mississippi-animal-rescue-league-marl-jackson/
 https://shelterdayout.com/listings/missoula-animal-services-missoula/
 https://shelterdayout.com/listings/missouri-city-animal-services-missouri-city/
-https://shelterdayout.com/listings/mitchell-animal-rescue-mitchell/
 https://shelterdayout.com/listings/mitchell-county-animal-rescue-spruce-pine/
 https://shelterdayout.com/listings/mobile-county-animal-shelter-mobile/
 https://shelterdayout.com/listings/mobile-spca-mobile/
@@ -3319,6 +3321,7 @@ https://shelterdayout.com/listings/wags-pet-adoption-westminster/
 https://shelterdayout.com/listings/waif-cat-adoption-center-oak-harbor/
 https://shelterdayout.com/listings/waif-coupeville/
 https://shelterdayout.com/listings/wake-county-animal-center-raleigh/
+https://shelterdayout.com/listings/wakp-wa-t-animal-shelter-and-clinic-cheyenne-river-sioux-tribe-eagle-butte/
 https://shelterdayout.com/listings/wakulla-county-animal-services-crawfordville/
 https://shelterdayout.com/listings/walker-animal-control-and-shelter-walker/
 https://shelterdayout.com/listings/walker-county-animal-shelter-chickamauga/

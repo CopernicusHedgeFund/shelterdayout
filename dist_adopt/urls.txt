@@ -2246,7 +2246,6 @@ https://shelteradoption.com/shelters/mission-viejo-animal-services-center-missio
 https://shelteradoption.com/shelters/mississippi-animal-rescue-league-marl-jackson/
 https://shelteradoption.com/shelters/missoula-animal-services-missoula/
 https://shelteradoption.com/shelters/missouri-city-animal-services-missouri-city/
-https://shelteradoption.com/shelters/mitchell-animal-rescue-mitchell/
 https://shelteradoption.com/shelters/mitchell-county-animal-rescue-spruce-pine/
 https://shelteradoption.com/shelters/mobile-county-animal-shelter-mobile/
 https://shelteradoption.com/shelters/mobile-spca-mobile/
@@ -3285,6 +3284,7 @@ https://shelteradoption.com/shelters/wags-pet-adoption-westminster/
 https://shelteradoption.com/shelters/waif-cat-adoption-center-oak-harbor/
 https://shelteradoption.com/shelters/waif-coupeville/
 https://shelteradoption.com/shelters/wake-county-animal-center-raleigh/
+https://shelteradoption.com/shelters/wakp-wa-t-animal-shelter-and-clinic-cheyenne-river-sioux-tribe-eagle-butte/
 https://shelteradoption.com/shelters/wakulla-county-animal-services-crawfordville/
 https://shelteradoption.com/shelters/walker-animal-control-and-shelter-walker/
 https://shelteradoption.com/shelters/walker-county-animal-shelter-chickamauga/
