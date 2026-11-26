@@ -1,0 +1,30 @@
+name: Scan shelter sites for day-out programs
+
+# Reads the OWN websites of shelters listed as "No program yet" and saves keyword hits
+# (day out, field trip, sleepover, hiking buddy...) with the sentence around them for a hand check.
+# Never edits listings. Results: out/program_scan.json on the program-scan branch.
+# Run: gh api -X POST repos/CopernicusHedgeFund/shelterdayout/actions/workflows/program_scan.yml/dispatches -f ref=main
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 9 1 * *"     # monthly
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 -I tools/program_scan.py
+      - name: Save results
+        if: always()
+        run: |
+          cd out && git init -q -b program-scan && git config user.name shelterdayout-bot && git config user.email hello@shelterdayout.com
+          git add program_scan.json && git commit -qm "Program scan $(date -u +%FT%H:%MZ)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" program-scan
