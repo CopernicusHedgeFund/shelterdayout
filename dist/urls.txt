@@ -236,6 +236,7 @@ https://shelterdayout.com/cities/orlando-fl/
 https://shelterdayout.com/cities/oxnard-ca/
 https://shelterdayout.com/cities/pahrump-nv/
 https://shelterdayout.com/cities/palm-springs-ca/
+https://shelterdayout.com/cities/palmer-ak/
 https://shelterdayout.com/cities/palo-alto-ca/
 https://shelterdayout.com/cities/pasadena-ca/
 https://shelterdayout.com/cities/peachtree-city-ga/
@@ -445,6 +446,7 @@ https://shelterdayout.com/listings/alachua-county-animal-resources-and-care-gain
 https://shelterdayout.com/listings/alameda-animal-shelter-friends-of-the-alameda-animal-shelter-alameda/
 https://shelterdayout.com/listings/alan-purcell-wayne-animal-shelter-wayne/
 https://shelterdayout.com/listings/alaqua-animal-refuge-freeport/
+https://shelterdayout.com/listings/alaska-humane-society-adopt-a-cat-anchorage/
 https://shelterdayout.com/listings/alaska-spca-anchorage/
 https://shelterdayout.com/listings/albany-humane-society-albany/
 https://shelterdayout.com/listings/alcona-humane-society-lincoln/
@@ -981,6 +983,7 @@ https://shelterdayout.com/listings/city-of-commerce-animal-shelter-commerce/
 https://shelterdayout.com/listings/city-of-concordia-animal-control-police-department-animal-shelter-concordia/
 https://shelterdayout.com/listings/city-of-converse-animal-care-facility-converse/
 https://shelterdayout.com/listings/city-of-dickinson-animal-shelter-dickinson/
+https://shelterdayout.com/listings/city-of-dillingham-animal-shelter-dillingham/
 https://shelterdayout.com/listings/city-of-dumas-animal-shelter-dumas/
 https://shelterdayout.com/listings/city-of-elizabeth-animal-shelter-elizabeth/
 https://shelterdayout.com/listings/city-of-elko-animal-shelter-elko/
@@ -1517,6 +1520,7 @@ https://shelterdayout.com/listings/gwinnett-county-bill-atkinson-animal-welfare-
 https://shelterdayout.com/listings/h-a-l-o-no-kill-rescue-sebastian/
 https://shelterdayout.com/listings/h-o-p-e-homes-for-orphaned-pets-exist-saratoga-springs/
 https://shelterdayout.com/listings/habersham-county-animal-care-and-control-clarkesville/
+https://shelterdayout.com/listings/haines-animal-rescue-kennel-hark-haines/
 https://shelterdayout.com/listings/hale-county-animal-shelter-greensboro/
 https://shelterdayout.com/listings/halifax-county-animal-control-halifax/
 https://shelterdayout.com/listings/halifax-county-animal-control-south-boston/
@@ -2581,6 +2585,7 @@ https://shelterdayout.com/listings/paws-of-dearborn-county-humane-center-lawrenc
 https://shelterdayout.com/listings/paws-of-hertford-county-ahoskie/
 https://shelterdayout.com/listings/paws-of-love-monticello/
 https://shelterdayout.com/listings/paws-of-milo-milo/
+https://shelterdayout.com/listings/paws-of-nome-nome/
 https://shelterdayout.com/listings/paws-pet-animal-welfare-society-norwalk/
 https://shelterdayout.com/listings/paws-philadelphia-animal-welfare-society-philadelphia/
 https://shelterdayout.com/listings/paws-placing-animals-within-society-bryson-city/
@@ -2635,6 +2640,7 @@ https://shelterdayout.com/listings/pet-rescue-by-judy-sanford/
 https://shelterdayout.com/listings/pet-tails-rescue-northwood/
 https://shelterdayout.com/listings/petaluma-animal-services-petaluma/
 https://shelterdayout.com/listings/petersburg-animal-care-and-control-petersburg/
+https://shelterdayout.com/listings/petersburg-humane-association-petersburg/
 https://shelterdayout.com/listings/pets-alive-buffalo/
 https://shelterdayout.com/listings/pets-alive-middletown/
 https://shelterdayout.com/listings/pets-and-people-humane-society-yukon/
@@ -2978,6 +2984,7 @@ https://shelterdayout.com/listings/simply-cats-boise/
 https://shelterdayout.com/listings/simpson-county-animal-shelter-franklin/
 https://shelterdayout.com/listings/sioux-falls-area-humane-society-sioux-falls/
 https://shelterdayout.com/listings/siouxland-humane-society-sioux-city/
+https://shelterdayout.com/listings/sitka-animal-control-shelter-sitka/
 https://shelterdayout.com/listings/skiatook-animal-control-skiatook/
 https://shelterdayout.com/listings/sky-hill-animal-society-selma/
 https://shelterdayout.com/listings/slidell-animal-shelter-slidell/

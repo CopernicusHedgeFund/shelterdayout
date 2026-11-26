@@ -405,6 +405,7 @@ https://shelteradoption.com/shelters/alachua-county-animal-resources-and-care-ga
 https://shelteradoption.com/shelters/alameda-animal-shelter-friends-of-the-alameda-animal-shelter-alameda/
 https://shelteradoption.com/shelters/alan-purcell-wayne-animal-shelter-wayne/
 https://shelteradoption.com/shelters/alaqua-animal-refuge-freeport/
+https://shelteradoption.com/shelters/alaska-humane-society-adopt-a-cat-anchorage/
 https://shelteradoption.com/shelters/alaska-spca-anchorage/
 https://shelteradoption.com/shelters/albany-humane-society-albany/
 https://shelteradoption.com/shelters/alcona-humane-society-lincoln/
@@ -941,6 +942,7 @@ https://shelteradoption.com/shelters/city-of-commerce-animal-shelter-commerce/
 https://shelteradoption.com/shelters/city-of-concordia-animal-control-police-department-animal-shelter-concordia/
 https://shelteradoption.com/shelters/city-of-converse-animal-care-facility-converse/
 https://shelteradoption.com/shelters/city-of-dickinson-animal-shelter-dickinson/
+https://shelteradoption.com/shelters/city-of-dillingham-animal-shelter-dillingham/
 https://shelteradoption.com/shelters/city-of-dumas-animal-shelter-dumas/
 https://shelteradoption.com/shelters/city-of-elizabeth-animal-shelter-elizabeth/
 https://shelteradoption.com/shelters/city-of-elko-animal-shelter-elko/
@@ -1477,6 +1479,7 @@ https://shelteradoption.com/shelters/gwinnett-county-bill-atkinson-animal-welfar
 https://shelteradoption.com/shelters/h-a-l-o-no-kill-rescue-sebastian/
 https://shelteradoption.com/shelters/h-o-p-e-homes-for-orphaned-pets-exist-saratoga-springs/
 https://shelteradoption.com/shelters/habersham-county-animal-care-and-control-clarkesville/
+https://shelteradoption.com/shelters/haines-animal-rescue-kennel-hark-haines/
 https://shelteradoption.com/shelters/hale-county-animal-shelter-greensboro/
 https://shelteradoption.com/shelters/halifax-county-animal-control-halifax/
 https://shelteradoption.com/shelters/halifax-county-animal-control-south-boston/
@@ -2541,6 +2544,7 @@ https://shelteradoption.com/shelters/paws-of-dearborn-county-humane-center-lawre
 https://shelteradoption.com/shelters/paws-of-hertford-county-ahoskie/
 https://shelteradoption.com/shelters/paws-of-love-monticello/
 https://shelteradoption.com/shelters/paws-of-milo-milo/
+https://shelteradoption.com/shelters/paws-of-nome-nome/
 https://shelteradoption.com/shelters/paws-pet-animal-welfare-society-norwalk/
 https://shelteradoption.com/shelters/paws-philadelphia-animal-welfare-society-philadelphia/
 https://shelteradoption.com/shelters/paws-placing-animals-within-society-bryson-city/
@@ -2595,6 +2599,7 @@ https://shelteradoption.com/shelters/pet-rescue-by-judy-sanford/
 https://shelteradoption.com/shelters/pet-tails-rescue-northwood/
 https://shelteradoption.com/shelters/petaluma-animal-services-petaluma/
 https://shelteradoption.com/shelters/petersburg-animal-care-and-control-petersburg/
+https://shelteradoption.com/shelters/petersburg-humane-association-petersburg/
 https://shelteradoption.com/shelters/pets-alive-buffalo/
 https://shelteradoption.com/shelters/pets-alive-middletown/
 https://shelteradoption.com/shelters/pets-and-people-humane-society-yukon/
@@ -2938,6 +2943,7 @@ https://shelteradoption.com/shelters/simply-cats-boise/
 https://shelteradoption.com/shelters/simpson-county-animal-shelter-franklin/
 https://shelteradoption.com/shelters/sioux-falls-area-humane-society-sioux-falls/
 https://shelteradoption.com/shelters/siouxland-humane-society-sioux-city/
+https://shelteradoption.com/shelters/sitka-animal-control-shelter-sitka/
 https://shelteradoption.com/shelters/skiatook-animal-control-skiatook/
 https://shelteradoption.com/shelters/sky-hill-animal-society-selma/
 https://shelteradoption.com/shelters/slidell-animal-shelter-slidell/
