@@ -2,46 +2,170 @@
  {
   "state": "DE",
   "city": "New Castle",
-  "org": "Brandywine Valley SPCA",
+  "org": "Brandywine Valley SPCA (New Castle Campus)",
   "program": "Shelter Skip Day",
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip (1 hour to all day)",
   "url": "https://bvspca.org/shelter-skip-day",
-  "notes": "Open to the public at New Castle, Dover and Georgetown, DE. Stop by a campus to choose a dog.",
+  "notes": "Open to the public at BVSPCA's New Castle, Dover and Georgetown, DE campuses. Stop by a campus to choose a dog.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Pre-Mega Adoption Event ($35 adoption fees)",
+    "url": "https://bvspca.org/news-events-resources/calendar/pre-mega-adoption-event-2026-1",
+    "place": "Christiana Mall, Newark, DE"
+   },
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event ($35 adoption fees, all BVSPCA locations)",
+    "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026"
+   }
+  ]
  },
  {
   "state": "DE",
-  "city": "Wilmington",
-  "org": "Humane Animal Partners",
-  "program": "Doggy Day Out",
+  "city": "Dover",
+  "org": "Brandywine Valley SPCA (Kent Campus)",
+  "program": "Shelter Skip Day",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip, hike",
-  "url": "https://www.humaneanimalpartners.org/volunteer/doggy-day-out/",
-  "notes": "Community members take adoptable dogs on hikes, walks and outings. Kids may join with prior notice.",
+  "offers": "Day trip (1 hour to all day)",
+  "url": "https://bvspca.org/shelter-skip-day",
+  "notes": "Open to the public at BVSPCA's New Castle, Dover and Georgetown, DE campuses. Stop by a campus to choose a dog.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event ($35 adoption fees, all BVSPCA locations)",
+    "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026"
+   }
+  ]
  },
  {
   "state": "DE",
   "city": "Georgetown",
-  "org": "SPCA",
+  "org": "Brandywine Valley SPCA (Georgetown Campus)",
+  "program": "Shelter Skip Day",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip (1 hour to all day)",
+  "url": "https://bvspca.org/shelter-skip-day",
+  "notes": "Open to the public at BVSPCA's New Castle, Dover and Georgetown, DE campuses. Stop by a campus to choose a dog.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "osm": "way/506266214",
+  "phone": "(302) 858-4203",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event ($35 adoption fees, all BVSPCA locations)",
+    "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026"
+   }
+  ]
+ },
+ {
+  "state": "DE",
+  "city": "Georgetown",
+  "org": "Brandywine Valley SPCA Animal Rescue Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://bvspca.org/locations/animal-rescue-center",
+  "notes": "BVSPCA rescue center, 19022 Shingle Point Rd; state-inspected shelter. Public adoptions at this site not confirmed on the page; not listed as a Shelter Skip Day campus.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/506266214"
+  "source_list": "shelter website",
+  "phone": "(302) 858-4204"
+ },
+ {
+  "state": "DE",
+  "city": "Wilmington",
+  "org": "Humane Animal Partners (Wilmington Campus)",
+  "program": "Doggy Day Out",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip, hike; sleepover (Doggy Night Out) for existing DDO volunteers",
+  "url": "https://www.humaneanimalpartners.org/volunteer/doggy-day-out/",
+  "notes": "Short-term outing program; 7 days a week. Pickup 9:30-10am, return by 1pm Tue-Sun or 4pm Mon. Must be 18+. Apply via the DDO questionnaire on the page (allow up to a week). No dog parks, leash at all times, no meeting your pets; kids under 18 may join with prior notice. Doggy Night Out (1-2 night sleepovers) case by case for existing DDO volunteers.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "DE",
+  "city": "Newark",
+  "org": "Humane Animal Partners (Stanton Campus)",
+  "program": "Doggy Day Out",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip, hike; sleepover (Doggy Night Out) for existing DDO volunteers",
+  "url": "https://www.humaneanimalpartners.org/volunteer/doggy-day-out/",
+  "notes": "Stanton/Christiana campus, 455 Stanton Christiana Rd. Short-term outing program; 7 days a week. Pickup 9:30-10am, return by 1pm Tue-Sun or 4pm Mon. Must be 18+. Apply via the DDO questionnaire on the page (allow up to a week). No dog parks, leash at all times, no meeting your pets; kids under 18 may join with prior notice. Doggy Night Out (1-2 night sleepovers) case by case for existing DDO volunteers.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "DE",
+  "city": "Rehoboth Beach",
+  "org": "Humane Animal Partners (Rehoboth Campus)",
+  "program": "Doggy Day Out",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://www.humaneanimalpartners.org/volunteer/doggy-day-out/",
+  "notes": "At the Rehoboth campus (18675 Coastal Hwy) Doggy Day Out is only for fully onboarded shelter volunteers; apply via the HAP volunteer application. Must be 18+.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "DE",
+  "city": "New Castle",
+  "org": "Faithful Friends Animal Society",
+  "program": "Dog Ambassador Program",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Outings (car rides, walks, trail runs, home visits)",
+  "url": "https://faithfulfriends.us/dog-ambassador-program/",
+  "notes": "Trained volunteers are paired with a shelter dog for outings and home visits. Complete general volunteer orientation and dog training first (email volunteer@faithfulfriends.us); existing volunteers email jill@faithfulfriends.us.",
+  "checked": "November 2026",
+  "email_program": "volunteer@faithfulfriends.us",
+  "email_main": "info@faithfulfriends.us",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "DE",
+  "city": "Camden",
+  "org": "First State Animal Center and SPCA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.fsac-spca.org/",
+  "notes": "32 Shelter Circle, Camden (Kent County). State-inspected 2025. Website lists dog and cat adoptions; only a general foster program.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "phone": "(302) 943-6032"
  }
 ]
