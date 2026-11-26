@@ -1150,6 +1150,7 @@ https://shelteradoption.com/shelters/city-of-taylor-animal-shelter-taylor/
 https://shelteradoption.com/shelters/city-of-temple-animal-shelter-heart-to-home-temple/
 https://shelteradoption.com/shelters/city-of-tracy-animal-services-tracy/
 https://shelteradoption.com/shelters/city-of-valdez-animal-shelter-valdez/
+https://shelteradoption.com/shelters/city-of-vienna-animal-control-vienna/
 https://shelteradoption.com/shelters/city-of-washington-animal-control-and-adoption-facility-washington/
 https://shelteradoption.com/shelters/city-of-watonga-animal-control-watonga/
 https://shelteradoption.com/shelters/city-of-wichita-falls-animal-services-center-wichita-falls/
@@ -1267,6 +1268,7 @@ https://shelteradoption.com/shelters/craig-animal-shelter-craig/
 https://shelteradoption.com/shelters/cranston-animal-shelter-cranston/
 https://shelteradoption.com/shelters/crash-s-landing-cat-rescue-and-placement-center-grand-rapids/
 https://shelteradoption.com/shelters/craven-pamlico-animal-services-center-new-bern/
+https://shelteradoption.com/shelters/crawford-county-animal-control-roberta/
 https://shelteradoption.com/shelters/crawford-county-animal-control-robinson/
 https://shelteradoption.com/shelters/crawford-county-humane-society-meadville/
 https://shelteradoption.com/shelters/crestview-animal-services-crestview-police-department-crestview/
@@ -1620,6 +1622,7 @@ https://shelteradoption.com/shelters/good-mews-marietta/
 https://shelteradoption.com/shelters/good-shepherd-humane-society-eureka-springs/
 https://shelteradoption.com/shelters/gordon-county-animal-control-calhoun/
 https://shelteradoption.com/shelters/gracie-s-project-amarillo/
+https://shelteradoption.com/shelters/grady-county-animal-control-cairo/
 https://shelteradoption.com/shelters/graham-county-animal-control-safford/
 https://shelteradoption.com/shelters/grand-county-animal-shelter-granby/
 https://shelteradoption.com/shelters/grand-rivers-humane-society-grand-junction/
@@ -2362,6 +2365,7 @@ https://shelteradoption.com/shelters/logan-county-humane-society-russellville/
 https://shelteradoption.com/shelters/logan-county-humane-society-sterling/
 https://shelteradoption.com/shelters/lollypop-farm-humane-society-of-greater-rochester-fairport/
 https://shelteradoption.com/shelters/long-beach-animal-care-services-long-beach/
+https://shelteradoption.com/shelters/long-county-animal-control-ludowici/
 https://shelteradoption.com/shelters/longmont-humane-society-longmont/
 https://shelteradoption.com/shelters/longview-animal-care-and-adoption-center-longview/
 https://shelteradoption.com/shelters/lorain-county-dog-kennel-elyria/
@@ -2431,6 +2435,7 @@ https://shelteradoption.com/shelters/marietta-animal-control-facility-marietta/
 https://shelteradoption.com/shelters/marin-humane-novato/
 https://shelteradoption.com/shelters/marion-area-humane-society-marion/
 https://shelteradoption.com/shelters/marion-county-animal-control-salem/
+https://shelteradoption.com/shelters/marion-county-animal-control-services-buena-vista/
 https://shelteradoption.com/shelters/marion-county-animal-services-ocala/
 https://shelteradoption.com/shelters/marion-county-animal-shelter-lebanon/
 https://shelteradoption.com/shelters/marion-county-animal-shelter-mullins/

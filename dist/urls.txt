@@ -1176,6 +1176,7 @@ https://shelterdayout.com/listings/city-of-taylor-animal-shelter-taylor/
 https://shelterdayout.com/listings/city-of-temple-animal-shelter-heart-to-home-temple/
 https://shelterdayout.com/listings/city-of-tracy-animal-services-tracy/
 https://shelterdayout.com/listings/city-of-valdez-animal-shelter-valdez/
+https://shelterdayout.com/listings/city-of-vienna-animal-control-vienna/
 https://shelterdayout.com/listings/city-of-washington-animal-control-and-adoption-facility-washington/
 https://shelterdayout.com/listings/city-of-watonga-animal-control-watonga/
 https://shelterdayout.com/listings/city-of-wichita-falls-animal-services-center-wichita-falls/
@@ -1293,6 +1294,7 @@ https://shelterdayout.com/listings/craig-animal-shelter-craig/
 https://shelterdayout.com/listings/cranston-animal-shelter-cranston/
 https://shelterdayout.com/listings/crash-s-landing-cat-rescue-and-placement-center-grand-rapids/
 https://shelterdayout.com/listings/craven-pamlico-animal-services-center-new-bern/
+https://shelterdayout.com/listings/crawford-county-animal-control-roberta/
 https://shelterdayout.com/listings/crawford-county-animal-control-robinson/
 https://shelterdayout.com/listings/crawford-county-humane-society-meadville/
 https://shelterdayout.com/listings/crestview-animal-services-crestview-police-department-crestview/
@@ -1646,6 +1648,7 @@ https://shelterdayout.com/listings/good-mews-marietta/
 https://shelterdayout.com/listings/good-shepherd-humane-society-eureka-springs/
 https://shelterdayout.com/listings/gordon-county-animal-control-calhoun/
 https://shelterdayout.com/listings/gracie-s-project-amarillo/
+https://shelterdayout.com/listings/grady-county-animal-control-cairo/
 https://shelterdayout.com/listings/graham-county-animal-control-safford/
 https://shelterdayout.com/listings/grand-county-animal-shelter-granby/
 https://shelterdayout.com/listings/grand-rivers-humane-society-grand-junction/
@@ -2388,6 +2391,7 @@ https://shelterdayout.com/listings/logan-county-humane-society-russellville/
 https://shelterdayout.com/listings/logan-county-humane-society-sterling/
 https://shelterdayout.com/listings/lollypop-farm-humane-society-of-greater-rochester-fairport/
 https://shelterdayout.com/listings/long-beach-animal-care-services-long-beach/
+https://shelterdayout.com/listings/long-county-animal-control-ludowici/
 https://shelterdayout.com/listings/longmont-humane-society-longmont/
 https://shelterdayout.com/listings/longview-animal-care-and-adoption-center-longview/
 https://shelterdayout.com/listings/lorain-county-dog-kennel-elyria/
@@ -2457,6 +2461,7 @@ https://shelterdayout.com/listings/marietta-animal-control-facility-marietta/
 https://shelterdayout.com/listings/marin-humane-novato/
 https://shelterdayout.com/listings/marion-area-humane-society-marion/
 https://shelterdayout.com/listings/marion-county-animal-control-salem/
+https://shelterdayout.com/listings/marion-county-animal-control-services-buena-vista/
 https://shelterdayout.com/listings/marion-county-animal-services-ocala/
 https://shelterdayout.com/listings/marion-county-animal-shelter-lebanon/
 https://shelterdayout.com/listings/marion-county-animal-shelter-mullins/
