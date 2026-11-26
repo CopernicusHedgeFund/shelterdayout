@@ -9,7 +9,7 @@ from datetime import date, datetime
 from pathlib import Path
 
 import build as sdo
-from build import esc, slugify, STATES, NOPROG, upcoming, fmt_date, contact_html, faq_block
+from build import esc, slugify, STATES, NOPROG, upcoming, fmt_date, ev_when, coords, contact_html, faq_block
 
 ROOT = Path(__file__).parent
 DIST = ROOT / "dist_adopt"
@@ -81,7 +81,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <p><a href="/about/">About</a><a href="/events/">Adoption events</a><a href="{SDO}/suggest/" rel="noopener">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory of animal shelters. We don't place animals or handle adoptions; each shelter runs its own adoption process. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Not ready to adopt? <a href="{SDO}/" rel="noopener">ShelterDayOut</a>, our sister site, lists shelters that let you take a dog out for the day.</p>
-<p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License.</p>
+<p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License. Distances use <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> city data (CC BY 4.0).</p>
 <p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
 </div></footer>
 <script>(function(){{try{{var d={{p:location.pathname,r:document.referrer,w:innerWidth}},s=function(e){{d.e=e;var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon('/api/hit.php',new Blob([b],{{type:'application/json'}}));else fetch('/api/hit.php',{{method:'POST',body:b,keepalive:true}});}};s(0);var once=function(){{s(1);['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{removeEventListener(t,once,true)}})}};['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{addEventListener(t,once,{{capture:true,passive:true}})}})}}catch(e){{}}}})();</script>
@@ -132,7 +132,8 @@ def tags(r):
 def shelter_li(r, show_state=True):
     loc = f"{esc(r['city'])}, {r['state']}" if show_state else esc(r["city"])
     q = esc((r["org"] + " " + r["city"] + " " + r["state_name"] + " " + r["state"]).lower())
-    return (f'<li data-q="{q}" data-state="{r["state"]}"><b><a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a></b>'
+    ll = coords(r["city"], r["state"])
+    return (f'<li data-ll="{(str(ll[0]) + "," + str(ll[1])) if ll else ""}" data-q="{q}" data-state="{r["state"]}"><b><a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a></b>'
             f'<div class="meta">{loc} &middot; {esc(r.get("animals") or "Dogs and cats")}</div>{tags(r)}</li>')
 
 
@@ -142,7 +143,15 @@ SEARCH_JS = """<script>
  var items=[].slice.call(document.querySelectorAll('#res li'));
  function run(){var t=(q.value||'').trim().toLowerCase(),s=st?st.value:'',n=0;
   items.forEach(function(li){var ok=(!t||li.dataset.q.indexOf(t)>=0)&&(!s||li.dataset.state===s);li.classList.toggle('hide',!ok);if(ok)n++;});
-  cnt.textContent=n.toLocaleString()+(n===1?' shelter':' shelters');}
+  cnt.textContent=n.toLocaleString()+(n===1?' shelter':' shelters');near(n,t,s);}
+ var box=document.getElementById('nores'),SN=window.SDO_STATES||{};
+ function esc(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+ function near(n,t,s){if(!box)return;if(n>0||!t){box.hidden=true;box.innerHTML='';return;}
+  box.hidden=false;box.innerHTML='<p><b>No shelters match &ldquo;'+esc(t)+'&rdquo;'+(s?' in '+esc(SN[s]||s):'')+' by name.</b> Looking for the nearest ones&hellip;</p>';
+  var c=items.map(function(li){var l=li.dataset.ll;var a=li.querySelector('a');var m=li.querySelector('.meta');return {name:a.textContent,url:a.getAttribute('href'),loc:m?m.textContent.split(' \u00b7 ')[0]:'',ll:l?l.split(',').map(Number):null};});
+  window.sdoNear(t,s,c,function(pl,list){
+   if(!pl||!list.length){box.innerHTML='<p><b>No shelters match &ldquo;'+esc(t)+'&rdquo;'+(s?' in '+esc(SN[s]||s):'')+'.</b> Try a nearby city or county name'+(s?', or <a href="/states/'+esc((SN[s]||'').toLowerCase().replace(/[^a-z0-9]+/g,'-'))+'/">see every shelter in '+esc(SN[s]||s)+'</a>':'')+'.</p>';return;}
+   box.innerHTML='<p><b>Nearest shelters to '+esc(pl.name)+', '+esc(pl.st)+':</b></p><ul>'+list.map(function(x){return '<li><a href="'+x.url+'">'+esc(x.name)+'</a> ('+esc(x.loc)+') &middot; about '+x.mi+' miles</li>';}).join('')+'</ul>';});}
  q.addEventListener('input',run);if(st)st.addEventListener('change',run);
  f.addEventListener('submit',function(e){e.preventDefault();run();q.blur();res.scrollIntoView({behavior:'smooth',block:'start'});});
  var u=new URLSearchParams(location.search);if(u.get('q'))q.value=u.get('q');if(u.get('state')&&st)st.value=u.get('state').toUpperCase();
@@ -160,7 +169,9 @@ def search_form(states_present):
 </div>
 <div class="row2"><span class="animal">Every shelter links to its own adoptable pets page.</span><button type="submit" class="btn sbtn">Search</button></div>
 </form>
-<p class="count" id="count" aria-live="polite"></p>"""
+<p class="count" id="count" aria-live="polite"></p>
+<div class="note" id="nores" hidden></div>
+<script>window.SDO_STATES={json.dumps(STATES)};</script>"""
 
 
 HOME_FAQ = [
@@ -180,7 +191,7 @@ def build_home(rows):
     for r in rows:
         by.setdefault(r["state"], []).append(r)
     evs = sorted(((e["date"], r, e) for r in rows for e in upcoming(r)), key=lambda x: x[0])
-    ev_prev = "".join(f'<li><b>{fmt_date(e["date"])}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>' for _, r, e in evs[:8])
+    ev_prev = "".join(f'<li><b>{ev_when(e)}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>' for _, r, e in evs[:8])
     state_links = "".join(
         f'<a href="/states/{slugify(STATES[s])}/" style="color:#2a9d8f">{sdo.PAW}<div style="color:#2b2d42">{STATES[s]}<span>{len(by.get(s, [])):,} shelter{"" if len(by.get(s, [])) == 1 else "s"}</span></div></a>'
         for s in sorted(STATES, key=lambda k: STATES[k]))
@@ -205,7 +216,7 @@ def build_home(rows):
 </div>
 <section id="find">
 <h2>Find a shelter</h2>
-{search_form(by.keys())}
+{search_form(STATES.keys())}
 <ul class="slist" id="res">{lst}</ul>
 </section>
 {f'<h2>Upcoming adoption events</h2><ul class="evlist">{ev_prev}</ul><p><a href="/events/">See all {len(evs):,} adoption events</a></p>' if evs else ""}
@@ -220,7 +231,7 @@ def build_home(rows):
 </div>
 <h2>Questions people ask</h2>
 {faq_html}
-{SEARCH_JS}"""
+{sdo.NEAR_JS}{SEARCH_JS}"""
     write("/", page(f"Animal Shelters Near Me: Adopt a Dog or Cat ({len(rows):,} Shelters) | {BRAND}",
         f"Find an animal shelter or humane society near you and adopt a dog, puppy, cat or kitten. {len(rows):,} shelters and SPCAs in every state, plus adoption events.",
         body, "/", f'<script type="application/ld+json">{ld}</script><script type="application/ld+json">{org_ld}</script>{faq_ld}'))
@@ -239,7 +250,7 @@ def build_states(rows):
             if r["city"] not in cities:
                 cities.append(r["city"])
         evs = sorted(((e["date"], r, e) for r in lst for e in upcoming(r)), key=lambda x: x[0])
-        ev_html = "".join(f'<li><b>{fmt_date(e["date"])}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}): {esc(e["title"])}</li>' for _, r, e in evs)
+        ev_html = "".join(f'<li><b>{ev_when(e)}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}): {esc(e["title"])}</li>' for _, r, e in evs)
         progs = [r for r in lst if has_program(r)]
         hs = [r for r in lst if re.search(r"humane|spca", r["org"], re.I)]
         sfaq_html, sfaq_ld = faq_block([
@@ -307,7 +318,7 @@ def build_events(rows):
         if m != cur:
             groups += ("</ul>" if cur else "") + f'<h2>{datetime.strptime(m, "%Y-%m").strftime("%B %Y")}</h2><ul class="evlist">'
             cur = m
-        groups += (f'<li data-state="{r["state"]}"><b>{fmt_date(e["date"])}{(" – " + fmt_date(e["end"])) if e.get("end") and e["end"] != e["date"] else ""}</b> &middot; '
+        groups += (f'<li data-state="{r["state"]}"><b>{ev_when(e)}</b> &middot; '
                    f'<a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): '
                    f'{f"<a href=\"{esc(e["url"])}\" rel=\"noopener nofollow\" target=\"_blank\">{esc(e["title"])}</a>" if e.get("url") else esc(e["title"])}'
                    f'{(" · " + esc(e["place"])) if e.get("place") else ""}</li>')
@@ -329,7 +340,7 @@ document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!
         body, "/events/", ld + crumbs_ld([("Home", "/"), ("Adoption events", "/events/")])))
     # fee-waived subset
     fw = [x for x in allev if re.search(r"fee|free|waiv|\$|half|reduced|clear the shelter|empty the shelter|discount", x[2]["title"], re.I)]
-    items = "".join(f'<li><b>{fmt_date(e["date"])}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>' for _, r, e in fw)
+    items = "".join(f'<li><b>{ev_when(e)}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>' for _, r, e in fw)
     body = f"""<div class="crumbs"><a href="/">Home</a> / Fee-waived adoption events</div>
 <h1>Free pet adoption: fee-waived and reduced-fee events</h1>
 <p class="lede">Shelters often waive or cut adoption fees when they're full, around holidays, and during national events like Clear the Shelters. Here are the upcoming ones we've found on shelters' own websites.</p>
@@ -491,6 +502,7 @@ def build_assets():
     if og.exists():
         shutil.copy(og, DIST / "assets" / "og.png")
     shutil.copytree(ROOT / "src" / "api", DIST / "api", dirs_exist_ok=True)
+    sdo.write_places(DIST)
     (DIST / "favicon.svg").write_text(LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
     (DIST / ".htaccess").write_text(

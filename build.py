@@ -279,7 +279,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Ready to adopt? <a href="https://shelteradoption.com/" rel="noopener">ShelterAdoption</a>, our sister site, lists every shelter near you plus upcoming adoption events.</p>
-<p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License.</p>
+<p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License. Distances use <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> city data (CC BY 4.0).</p>
 <p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
 </div></footer>
 <script>(function(){{try{{var d={{p:location.pathname,r:document.referrer,w:innerWidth}},s=function(e){{d.e=e;var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon('/api/hit.php',new Blob([b],{{type:'application/json'}}));else fetch('/api/hit.php',{{method:'POST',body:b,keepalive:true}});}};s(0);var once=function(){{s(1);['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{removeEventListener(t,once,true)}})}};['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{addEventListener(t,once,{{capture:true,passive:true}})}})}}catch(e){{}}}})();</script>
@@ -299,7 +299,8 @@ def write(path, content):
 def row_html(r, show_state=True):
     loc = f"{esc(r['city'])}, {r['state']}" if show_state else esc(r["city"])
     types = " ".join(r["types"])
-    return f"""<tr data-state="{r['state']}" data-animals="{esc(r['animals'])}" data-types="{types}" data-status="{esc(r['status'])}" data-q="{esc((r['org']+' '+r['city']+' '+r['state_name']+' '+r['program']).lower())}">
+    ll = coords(r["city"], r["state"])
+    return f"""<tr data-ll="{(str(ll[0]) + ',' + str(ll[1])) if ll else ''}" data-state="{r['state']}" data-animals="{esc(r['animals'])}" data-types="{types}" data-status="{esc(r['status'])}" data-q="{esc((r['org']+' '+r['city']+' '+r['state_name']+' '+r['program']).lower())}">
 <td class="org"><a href="/listings/{r['slug']}/">{esc(r['org'])}</a><div class="prog">{esc(r['program'])}</div></td>
 <td>{loc}</td>
 <td>{''.join(ICONS[t] for t in r['types'])}{esc(r['offers'])}<div class="animal">{esc(r['animals'])}</div></td>
@@ -314,6 +315,24 @@ def table(rows, show_state=True):
 <tbody>
 {body}
 </tbody></table>"""
+
+
+NEAR_JS = """<script>
+window.sdoNear=function(t,s,cands,done){
+ t=(t||'').toLowerCase().replace(/,?\\s+[a-z]{2}$/,'').replace(/[^a-z .'-]/g,'').trim();
+ if(t.length<3){done(null,[]);return;}
+ fetch('/assets/places/'+(s||'US')+'.json').then(function(r){return r.json();}).then(function(d){
+  var p=null,ps=s;
+  if(s){p=d[t];}else{for(var k in d){if(d[k][t]){p=d[k][t];ps=k;break;}}}
+  if(!p){done(null,[]);return;}
+  var R=3958.8,rad=Math.PI/180,out=[];
+  cands.forEach(function(c){if(!c.ll)return;var a=c.ll[0]*rad,b=p[0]*rad,dl=(c.ll[1]-p[1])*rad;
+   var x=Math.sin((c.ll[0]-p[0])*rad/2),y=Math.sin(dl/2),h=x*x+Math.cos(a)*Math.cos(b)*y*y;c.mi=Math.round(2*R*Math.asin(Math.sqrt(h)));if(c.mi<=200)out.push(c);});
+  out.sort(function(a,b){return a.mi-b.mi;});
+  done({name:t.replace(/\\b\\w/g,function(m){return m.toUpperCase();}),st:ps},out.slice(0,10));
+ }).catch(function(){done(null,[]);});
+};
+</script>"""
 
 
 FILTER_JS = """<script>
@@ -347,12 +366,17 @@ FILTER_JS = """<script>
   if(a||y||p)tips.push('<a href="#" data-act="clear">Clear the animal, type and public filters</a>');
   if(s)tips.push('<a href="/states/'+esc((SN[s]||'').toLowerCase().replace(/[^a-z0-9]+/g,'-'))+'/">Every shelter in '+esc(SN[s]||s)+'</a>');
   if(tips.length)html+='<ul><li>'+tips.join('</li><li>')+'</li></ul>';
-  box.innerHTML=html+'<div id="nores-o"></div>';box.hidden=false;
+  box.innerHTML=html+'<div id="nores-n"></div><div id="nores-o"></div>';box.hidden=false;
   if(!t)return;
   var show=function(){var m=others.filter(function(o){return (!s||o[3]===s)&&(o[1]+' '+o[2]+' '+o[3]+' '+(SN[o[3]]||'')).toLowerCase().indexOf(t)>=0;}).slice(0,25);
    var el=document.getElementById('nores-o');if(!el||!m.length)return;
    el.innerHTML='<p>Shelters'+(s?' in '+esc(SN[s]||s):'')+' matching &ldquo;'+esc(t)+'&rdquo; that don&rsquo;t run a program yet. Ask them for one:</p><ul>'+m.map(function(o){return '<li><a href="/listings/'+o[0]+'/">'+esc(o[1])+'</a> ('+esc(o[2])+', '+o[3]+') &middot; <a href="/request/?listing='+o[0]+'">Request a day out</a></li>';}).join('')+'</ul>';};
   if(others){show();}else{fetch('/assets/others.json').then(function(r){return r.json();}).then(function(j){others=j;show();}).catch(function(){});}
+  var near=function(){if(!window.sdoNear)return;var c=rows.map(function(tr){var l=tr.dataset.ll;var a=tr.querySelector('a');return {name:a?a.textContent:'',url:a?a.getAttribute('href'):'#',loc:(tr.cells[1]?tr.cells[1].textContent.trim():''),st:tr.dataset.state,ll:l?l.split(',').map(Number):null,prog:1};});
+   (others||[]).forEach(function(o){if(o[4])c.push({name:o[1],url:'/listings/'+o[0]+'/',st:o[3],cityName:o[2],ll:o[4],prog:0,slug:o[0]});});
+   window.sdoNear(t,s,c,function(pl,list){var el=document.getElementById('nores-n');if(!el||!pl||!list.length)return;
+    el.innerHTML='<p><b>Nearest to '+esc(pl.name)+', '+esc(pl.st)+':</b></p><ul>'+list.map(function(x){return '<li><a href="'+x.url+'">'+esc(x.name)+'</a>'+(x.cityName?' ('+esc(x.cityName)+', '+x.st+')':(x.loc?' ('+esc(x.loc)+')':''))+' &middot; about '+x.mi+' miles'+(x.prog?' &middot; <b>has a day-out program</b>':' &middot; <a href="/request/?listing='+x.slug+'">Request a day out</a>')+'</li>';}).join('')+'</ul>';});};
+  if(others){near();}else{fetch('/assets/others.json').then(function(r){return r.json();}).then(function(j){others=j;near();}).catch(function(){});}
  }
  if(box)box.addEventListener('click',function(e){var x=e.target.closest('a[data-act]');if(!x)return;e.preventDefault();
   if(x.dataset.act==='state'&&q)q.value='';if(x.dataset.act==='clear'){an.value='';ty.value='';pub.checked=false;}run();});
@@ -474,7 +498,7 @@ def build_home(rows, all_rows=None):
 <p class="citylinks">{city_links}</p>
 <div class="band"><div style="flex:1 1 360px"><h2>Ready to adopt?</h2><p>Our sister site ShelterAdoption lists {len(all_rows):,} animal shelters and humane societies in every state, plus upcoming adoption events.</p></div><a class="btn" href="https://shelteradoption.com/" rel="noopener">Find a shelter to adopt from</a></div>
 <div class="band"><div style="flex:1 1 360px"><h2>Run a shelter?</h2><p>Get listed for free, update your details, or choose where outing requests go.</p></div><a class="btn" href="/for-shelters/">For shelters</a></div>
-{FILTER_JS}"""
+{NEAR_JS}{FILTER_JS}"""
     write("/", page(
         "Dog Day Out Near Me: Borrow (or 'Rent') a Shelter Dog for the Day, Free | ShelterDayOut",
         f"Find a doggy day out program near you: rent or borrow a shelter dog for the day, a hike or a sleepover, free. {len(all_rows):,} shelters nationwide, checked monthly.",
@@ -524,7 +548,7 @@ def build_states(rows):
 {table(lst, show_state=False)}
 <p class="animal" style="margin-top:12px">Don't see your shelter? <a href="/suggest/">Suggest one</a>. Shelter staff can <a href="/for-shelters/">claim a listing</a>.</p>
 {np_html}
-{FILTER_JS}"""
+{NEAR_JS}{FILTER_JS}"""
         write(f"/states/{slugify(name)}/", page(
             f"Borrow a Shelter Dog in {name}: {len(lst)} Day Trip & Sleepover Programs | {BRAND}",
             f"Rent or borrow a shelter dog for the day in {name}, free. {len(lst)} programs in {', '.join(cities[:4])} and more, plus {len(others)} other shelters. Checked monthly.",
@@ -760,6 +784,46 @@ def upcoming(r):
     return sorted([e for e in r.get("events", []) if (e.get("end") or e.get("date", "")) >= today], key=lambda e: e["date"])
 
 
+def ev_when(e):
+    """When an event happens, for display. Events already under way read 'Now through <end>'."""
+    today = date.today().isoformat()
+    start, end = e.get("date", ""), e.get("end") or ""
+    if end and start < today:
+        return "Now through " + fmt_date(end)
+    if end and end != start:
+        return f"{fmt_date(start)} – {fmt_date(end)}"
+    return fmt_date(start)
+
+
+PLACES = None
+
+
+def coords(city, state):
+    """Approximate [lat, lon] of a US city from data/us_places.json (GeoNames cities1000, CC BY 4.0), or None."""
+    global PLACES
+    if PLACES is None:
+        f = ROOT / "data" / "us_places.json"
+        PLACES = json.loads(f.read_text()) if f.exists() else {}
+    st = PLACES.get(state, {})
+    c = (city or "").lower().strip()
+    for k in (c, re.sub(r"^(city of|town of|village of)\s+", "", c), re.sub(r"\s+(city|township|twp\.?|village|town)$", "", c),
+              c.replace("saint ", "st. "), c.replace("st. ", "saint "), c.replace("mount ", "mt. "), c.replace("ft. ", "fort ")):
+        if k in st:
+            return st[k]
+    return None
+
+
+def write_places(dist):
+    f = ROOT / "data" / "us_places.json"
+    if not f.exists():
+        return
+    allp = json.loads(f.read_text())
+    (dist / "assets" / "places").mkdir(parents=True, exist_ok=True)
+    (dist / "assets" / "places" / "US.json").write_text(json.dumps(allp, separators=(",", ":")))
+    for st, d in allp.items():
+        (dist / "assets" / "places" / f"{st}.json").write_text(json.dumps(d, separators=(",", ":")))
+
+
 def fmt_date(d):
     try:
         return datetime.strptime(d, "%Y-%m-%d").strftime("%a, %b %-d, %Y")
@@ -777,7 +841,7 @@ def event_ld(r, e):
 
 
 def events_html(r, evs):
-    return "".join(f'<li><b>{fmt_date(e["date"])}{(" – " + fmt_date(e["end"])) if e.get("end") and e["end"] != e["date"] else ""}</b> '
+    return "".join(f'<li><b>{ev_when(e)}</b> '
                    f'{f"<a href=\"{esc(e["url"])}\" rel=\"noopener nofollow\" target=\"_blank\">{esc(e["title"])}</a>" if e.get("url") else esc(e["title"])}'
                    f'{(" · " + esc(e["place"])) if e.get("place") else ""}</li>' for e in evs)
 
@@ -794,7 +858,7 @@ def build_events(rows):
         if m != cur:
             groups += ("</ul>" if cur else "") + f'<h2>{datetime.strptime(m, "%Y-%m").strftime("%B %Y")}</h2><ul class="evlist">'
             cur = m
-        groups += f'<li><b>{fmt_date(e["date"])}</b> · <a href="/listings/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>'
+        groups += f'<li><b>{ev_when(e)}</b> · <a href="/listings/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}, {r["state"]}): {esc(e["title"])}</li>'
     if cur:
         groups += "</ul>"
     ld = "".join(f'<script type="application/ld+json">{json.dumps(event_ld(r, e))}</script>' for _, r, e in allev[:200])
@@ -1077,7 +1141,8 @@ def build_assets(rows, optins):
         lookup[r["slug"]] = {"org": r["org"], "city": r["city"], "state": r["state"], "email_main": em, "email_program": r.get("email_program", ""), "noprog": r["status"] == NOPROG, "url": r.get("url", ""), "source": r.get("source", "")}
     (DIST / "forms" / "listings.json").write_text(json.dumps(lookup))
     (DIST / "forms" / "optins.json").write_text(json.dumps(optins))
-    (DIST / "assets" / "others.json").write_text(json.dumps([[r["slug"], r["org"], r["city"], r["state"]] for r in rows if r["status"] == NOPROG], separators=(",", ":")))
+    write_places(DIST)
+    (DIST / "assets" / "others.json").write_text(json.dumps([[r["slug"], r["org"], r["city"], r["state"], coords(r["city"], r["state"])] for r in rows if r["status"] == NOPROG], separators=(",", ":")))
     (DIST / ".htaccess").write_text(
         "ErrorDocument 404 /404.html\nOptions -Indexes\n"
         "<IfModule mod_rewrite.c>\nRewriteEngine On\nRewriteCond %{HTTPS} off\nRewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]\n"
