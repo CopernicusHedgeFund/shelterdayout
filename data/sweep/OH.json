@@ -28,8 +28,17 @@
   "notes": "At least one adult 18+ registers; adults are screened before the trip is confirmed. Sign up online.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "contact@clevelandapl.org",
+  "source_list": "shelter website",
+  "phone": "(216) 771-4616",
+  "events": [
+   {
+    "date": "2026-11-29",
+    "title": "Jingle Bell Pops! (adoptable animals at Cleveland Pops holiday concert)",
+    "url": "https://clevelandapl.org/event/jingle-bell-pops/",
+    "place": "KeyBank State Theatre, 1519 Euclid Ave, Cleveland"
+   }
+  ]
  },
  {
   "state": "OH",
@@ -44,7 +53,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(216) 525-7877"
  },
  {
   "state": "OH",
@@ -72,11 +82,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.bereaanimalrescue.com/",
-  "notes": "",
+  "notes": "Shelter at 10015 East River Rd, Columbia Township (serves Berea). Adoption hours Tue-Fri 3:30-6:30 pm, Sat-Sun 1-4 pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "arfcats@bereaanimalrescue.com",
-  "phone": "",
+  "phone": "(440) 234-2034",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1346486350"
  },
@@ -88,12 +98,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.rescuevillage.org",
-  "notes": "",
+  "url": "https://www.rescuevillage.org/",
+  "notes": "15463 Chillicothe Rd, Novelty (Russell Twp). Public hours generally Tue-Sun from noon; check site banner for current hours.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "info@rescuevillage.org",
+  "phone": "(440) 338-4819",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/579546058"
  },
@@ -105,29 +115,29 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.portageapl.org/",
-  "notes": "",
+  "url": "https://portageapl.org/",
+  "notes": "8122 Infirmary Rd, Ravenna. Adoption hours Tue-Wed 11-4, Fri 11-6, Sat 11-3.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "frontdesk@portageapl.org",
+  "phone": "(330) 296-4022",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1457399684"
  },
  {
   "state": "OH",
-  "city": "Fairlawn",
+  "city": "Akron",
   "org": "One of a Kind Pet Rescue",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.oneofakindpets.com/",
-  "notes": "",
+  "url": "https://www.oneofakindpets.com/about-us/hours-of-operation/",
+  "notes": "Adoption center at 1929 W Market St, Akron (behind Walgreens). Open Mon-Fri 12-8, Sat 10-8, Sun 12-6.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "scheduling@oneofakindpets.com",
-  "phone": "+1-330-865-6200",
+  "phone": "(330) 865-6200",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7201314648"
  },
@@ -144,7 +154,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dogpound@co.tuscarawas.oh.us",
-  "phone": "+1-330-339-2616",
+  "phone": "(330) 339-2616",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1127807203"
  },
@@ -156,12 +166,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.lakecountyohio.gov/dog-shelter",
-  "notes": "Adoptions by appointment (440-350-2640).",
+  "url": "https://www.lakecountyohio.gov/dog-shelter/",
+  "notes": "2600 N Ridge Rd. Kennel visits by appointment Tue-Fri 10-4 (closed 12-1).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "lcdogs@lakecountyohio.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(440) 350-2640"
  },
  {
   "state": "OH",
@@ -171,12 +182,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://loraincountyohio.gov/269/Dog-Kennel",
-  "notes": "",
+  "url": "https://www.loraincountyohio.gov/269/Dog-Kennel",
+  "notes": "301 Hadaway Ct, Elyria. Open Tue-Wed 10-6, Thu-Sat 10-4:30; closed Sun, Mon and holidays. Adoptable dogs: loraincountyohio.gov/276/Dogs-to-Adopt.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "skopis@loraincounty.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(440) 326-5995"
  },
  {
   "state": "OH",
@@ -187,11 +199,12 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.ashtabulacounty.gov/347/Dog-Warden",
-  "notes": "",
+  "notes": "After the county's building contract with ACAPL ended Jan 1, 2026, the warden moved to a temporary kennel facility in Jefferson Village (news reports, early 2026); some strays boarded at Geauga County Dog Shelter. Confirm adoption availability.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "BWBerry@ashtabulacounty.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -202,11 +215,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.acapl.org/",
-  "notes": "",
+  "notes": "5970 Green Rd, Ashtabula. Open Tue-Sun from noon (closed Mon); adoptions end 30 min before closing.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(440) 224-1222"
  },
  {
   "state": "OH",
@@ -216,12 +230,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.co.trumbull.oh.us/DogWarden/index.html",
-  "notes": "Foster-to-adopt program available.",
+  "url": "https://www.co.trumbull.oh.us/DogWarden/dw_adoptions.html",
+  "notes": "7501 Anderson Ave, Warren. Adoption fee $118 (includes license, microchip and ID tag); foster-to-adopt option.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(330) 675-2787"
  },
  {
   "state": "OH",
@@ -231,12 +246,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.mahoningcountyoh.gov/",
-  "notes": "Adoption applications by email; 1230 N. Meridian Rd.",
+  "url": "https://www.mahoningcountyoh.gov/780/More-Information",
+  "notes": "1230 N Meridian Rd, Youngstown. Meeting an adoptable dog requires an approved adoption application and appointment; fees start at $170.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ssabol@mahoningcountyoh.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(330) 740-2205"
  },
  {
   "state": "OH",
@@ -251,7 +267,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "HPecorelli@ccclerk.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -261,12 +278,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.columbianacountyhumanesociety.com/",
-  "notes": "Adoptions by appointment.",
+  "url": "https://www.columbianacountyhumanesociety.com/adoption/",
+  "notes": "1825 S Lincoln Ave, Salem. Adoptions by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "columbianacountyhumanesociety@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(234) 575-7177"
  },
  {
   "state": "OH",
@@ -276,12 +294,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://sheriff.starkcountyohio.gov/government/offices/sheriff/dog_warden/",
-  "notes": "1801 Mahoning Rd NE; 330-451-2343.",
+  "url": "https://starkcountyohio.gov/government/offices/sheriff/dog_warden/services.php",
+  "notes": "County dog pound at 1801 Mahoning Rd NE, Canton; unclaimed dogs are adopted out (volunteer group Friends of Stark Pound helps). County page lists only general Sheriff office numbers, so phone left blank.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -292,11 +311,12 @@
   "animals": "Dogs",
   "offers": "Holiday sleepover (Thanksgiving, Christmas, New Year's)",
   "url": "https://www.waynedogshelter.org/holiday-sleepover-program",
-  "notes": "Host a shelter dog over a holiday; submit a Foster Application, pick a dog the day before the holiday (first come, first served), return on the set date. Page still shows 2025 dates; confirm 2026 schedule with the shelter.",
+  "notes": "Host a shelter dog over Thanksgiving, Christmas or New Year's: submit a Foster Application, pick a dog the day before the holiday (first come, first served) and return on the set date. As of Nov 26, 2026 the page still shows the 2025-26 dates (Thanksgiving pickup 11/26/25); confirm the 2026 schedule with the shelter. Shelter at 5694 Burbank Rd, Wooster.",
   "checked": "November 2026",
   "email_program": "dogs@wayneohio.org",
   "email_main": "dogs@wayneohio.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(330) 345-1018"
  },
  {
   "state": "OH",
@@ -306,12 +326,12 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.ocdwa.org/geauga-county.html",
-  "notes": "",
+  "url": "https://bocc.geauga.oh.gov/departments/dog-warden-2/",
+  "notes": "12513 Merritt Rd, Chardon (Claridon Twp). Open Tue, Fri-Sun 10-3, Wed 10-1; closed Mon & Thu.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mgranito@co.geauga.oh.us",
-  "phone": "+1-440-286-8135",
+  "phone": "(440) 279-2180",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/313519849"
  },
@@ -323,12 +343,12 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.ocdwa.org/medina-county.html",
-  "notes": "",
+  "url": "https://www.medinaco.org/dog-shelter/",
+  "notes": "6334 Deerview Ln, Medina. Open Mon-Fri 10-4 (closed 12:30-1), Sat 10-2. Adoption fee $64 (license, first shots, deworming and a spay/neuter certificate).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "vgrossenbacher@medinacounty.gov",
-  "phone": "",
+  "phone": "(330) 725-9121",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/531996034"
  },
@@ -340,12 +360,12 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.ocdwa.org/summit-county.html",
-  "notes": "",
+  "url": "https://co.summitoh.net/animalcontrolvolunteer",
+  "notes": "250 Opportunity Pkwy, Akron. Adoption hours Mon-Fri 10-6, Sat 12-3, Sun 1-3; appointments encouraged, not required. Volunteers walk and accompany dogs (apply via volunteerac@summitoh.net).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "cfatheree@summitoh.net",
-  "phone": "",
+  "phone": "(330) 643-2845",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/702097004"
  },
@@ -357,12 +377,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.ocdwa.org/portage-county.html",
-  "notes": "",
+  "url": "https://www.portagecounty-oh.gov/dog-wardens-office-shelter",
+  "notes": "County shelter on Infirmary Rd, Ravenna; dogs available for adoption during office hours. County page lists only the director's line, (330) 297-6924.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dmcintyre@portageco.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -372,12 +393,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.friendshipapl.org/",
-  "notes": "FREE Cats for Seniors program.",
+  "url": "https://friendshipapl.org/",
+  "notes": "8303 Murray Ridge Rd, Elyria. Adoption hours Tue-Sat 12-6:30, Sun 12-3; no appointment needed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(440) 322-4321"
  },
  {
   "state": "OH",
@@ -387,12 +409,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.summithumane.org/",
-  "notes": "",
+  "url": "https://summithumane.org/",
+  "notes": "Adoption center at 752 W Portage Trail, Akron. Adoption hours Mon-Fri 11-6, Sat-Sun 11-5. Also runs a Mobile Adoption Center.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "adoptions@summithumane.org",
+  "source_list": "shelter website",
+  "phone": "(330) 487-0333"
  },
  {
   "state": "OH",
@@ -403,11 +426,19 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.starkhumane.org/",
-  "notes": "",
+  "notes": "5100 Peach St, Louisville. Shelter hours Mon, Tue, Thu, Fri 11-5, Sat 11-4; closed Wed & Sun. Also adopts at PetSmart Belden Village and Massillon.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@starkhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(330) 453-5529",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Black Friday Adoption Event",
+    "url": "https://www.starkhumane.org/pet-adoption-events"
+   }
+  ]
  },
  {
   "state": "OH",
@@ -422,7 +453,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -433,11 +465,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.angelsforanimals.org/",
-  "notes": "",
+  "notes": "Shelter at 4750 W South Range Rd, Canfield. Site (angelsforanimals.org) failed to load this pass; phone not verified.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -452,7 +485,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "holmescountydogwarden@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -467,7 +501,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Mlong@carrollcountyohio.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -482,7 +517,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -514,7 +550,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Belmontcoshelter@att.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -524,27 +561,29 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.ocdwa.org/ashland-county.html",
-  "notes": "",
+  "url": "https://ashlandcounty.org/dogshelter",
+  "notes": "1740 Baney Rd, Ashland. County dog shelter page (redirects to ashlandcountyoh.us), which could not be fetched this sweep, so phone is unverified.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dogshelter@ashlandcounty.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
   "city": "Mansfield",
-  "org": "Richland County Dog Warden",
+  "org": "Richland County Dog Warden & Adoption Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.ocdwa.org/richland-county.html",
-  "notes": "",
+  "url": "https://richlandcountyoh.gov/departments/DogWarden",
+  "notes": "810 N Home Rd, Mansfield. Office Mon-Fri 8:30am-4:30pm (kennels open 11am, closed Mondays), Sat 10am-2pm. Adoption fee $199 ($50 for dogs at the shelter over a year), which covers spay/neuter, vaccines, microchip and license.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "dogs@richlandcountyoh.gov",
+  "source_list": "shelter website",
+  "phone": "(419) 774-5892"
  },
  {
   "state": "OH",
@@ -554,14 +593,22 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified this pass (site unreachable).",
+  "url": "https://www.loveastraycat.com/adoption-center.html",
+  "notes": "Cat adoptions by appointment at the group's cat shelter (submit a pre-adoption application first); the Dog Division is foster-based and holds meet-and-greets.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@loveastraydog.com",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/9067993553"
+  "osm": "node/9067993553",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "December Meet and Greet (adoptable dogs)",
+    "url": "https://www.loveastraydog.com/events/",
+    "place": "Hollywood Feed, 35901 Detroit Rd, Avon"
+   }
+  ]
  },
  {
   "state": "OH",
@@ -589,7 +636,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "",
-  "notes": "Not verified this pass; confirm it has a physical adoption facility (may be foster-based).",
+  "notes": "Every Dog Matters Rescue Group (Boardman); news coverage mentions a rescue shelter in Boardman and off-site adoption events, but no official website found to confirm a public adoption facility.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -605,8 +652,8 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified this pass.",
+  "url": "https://www.cityofeuclid.gov/euclid-pet-pals",
+  "notes": "City shelter at 25100 Lakeland Blvd; adoptions handled with volunteer group Euclid Pet Pals (euclidpetpals.net).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -622,12 +669,12 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "City of Cleveland kennel; not verified this pass (site unreachable).",
+  "url": "https://www.clevelandohio.gov/city-hall/departments/public-safety/divisions/animal-care-control/adoptions/city-dogs",
+  "notes": "City of Cleveland kennel at 9203 Detroit Ave. Adoption meet-and-greets Tue-Sun (request online).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "citydogs@clevelandohio.gov",
+  "phone": "(216) 664-3476",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/488565233"
  },
@@ -640,11 +687,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://williamscountyhumanesociety.com/",
-  "notes": "09464 County Road 13, Bryan. A Village Reporter news article confirms the shelter adopts dogs and cats. The URL is the one its Petfinder profile lists; the site itself could not be fetched. Offers cat visits for children; no day-out program found.",
+  "notes": "09464 County Rd 13, Bryan; shares a site with the Williams County Dog Warden.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "wchs123@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 636-2200"
  },
  {
   "state": "OH",
@@ -654,12 +702,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "Pound at 9992 County Road 16, Bryan, phone 419-636-4659 (Village Reporter article, 2016/2020), which describes rehoming dogs. No website found. Adoption policy needs check.",
+  "url": "https://williamscountyhumanesociety.com/contact-the-dog-warden/",
+  "notes": "9464 Williams County Rd 13, Bryan (same site as Williams County Humane Society). Mon-Fri 10-5, Sat 10-2.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "kmdogwarden@gmail.com",
+  "source_list": "shelter website",
+  "phone": "(419) 636-4659"
  },
  {
   "state": "OH",
@@ -669,12 +718,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://defiance-county.com/dog-warden",
-  "notes": "500 Court St, Suite D, Defiance, phone 419-784-2335. The county page doesn't mention adoptions; needs check.",
+  "url": "https://defiance-county.com/dog-warden/index.php",
+  "notes": "Office at 500 Court St, Suite D, Defiance. County page gives no adoption details; confirm whether dogs are adoptable on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 784-2335"
  },
  {
   "state": "OH",
@@ -684,27 +734,30 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.fortdefiancehumanesociety.org",
-  "notes": "Phone 419-658-2298, also listed on the Defiance County dog warden page. The URL is the one its Petfinder profile lists; the site itself could not be fetched.",
+  "url": "https://fortdefiancehumanesociety.org/",
+  "notes": "7169 State Route 15, Defiance. Weekdays 11-4, weekends by appointment; approved application needed before meet-and-greets.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "newbestfriend@fortdefiancehumanesociety.org",
+  "source_list": "shelter website",
+  "phone": "(419) 658-2298"
  },
  {
   "state": "OH",
   "city": "Paulding",
-  "org": "Paulding County Dog Shelter",
+  "org": "Paulding County Dog Kennel",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "13387 US 127, Paulding, phone 419-399-9728 (from Adopt-a-Pet). Facebook page: facebook.com/Paulding-County-Dog-Kennel-272091246262848. No government or news confirmation yet. Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://www.pauldingcountyoh.com/services/",
+  "notes": "Run by the Paulding County Dog Warden at 13387 US 127, Paulding. Adoptions by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pauldingcountydogwarden@hotmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 399-3791",
+  "source": "https://www.facebook.com/pages/Paulding-County-Dog-Kennel/272091246262848"
  },
  {
   "state": "OH",
@@ -714,12 +767,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Visit at 309 Bonnewitz Ave, Van Wert (from Petfinder). Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://www.vwchs.org/",
+  "notes": "550 Fox Rd, Van Wert. Open Tue/Fri/Sat 11-2, Wed/Thu 3-6. The Van Wert County Sheriff's Office serves as dog warden ((419) 238-3866); no separate county dog adoption facility found.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "staff@vwchs.org",
+  "source_list": "shelter website",
+  "phone": "(419) 238-5088"
  },
  {
   "state": "OH",
@@ -729,12 +783,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://www.henryhumane.org/",
+  "notes": "1136 Independence Dr, Napoleon. Open Tue-Sat 1-5.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 592-3777"
  },
  {
   "state": "OH",
@@ -744,12 +799,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://www.fchsohio.org/",
+  "notes": "22450 County Rd F, Archbold. Open Tue/Thu/Sun 12-4, Wed 3-7; dogs require an approved application before meeting.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "mail@fchsohio.org",
+  "source_list": "shelter website",
+  "phone": "(419) 349-3841"
  },
  {
   "state": "OH",
@@ -759,27 +815,29 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://hardincountyohio.gov/dog-warden/",
+  "notes": "49 Jones Rd, Kenton. Mon-Fri 10am-6pm; weekends by appointment. Adoptable dogs are posted on the facility's Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 674-2209"
  },
  {
   "state": "OH",
   "city": "Toledo",
   "org": "Lucas County Canine Care & Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Dogs on the Town / Snout & About",
+  "status": "Needs check",
   "animals": "Dogs",
-  "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "offers": "Day trip",
+  "url": "https://lucascountyoh.gov/948/Adoptable-Dogs",
+  "notes": "LC4 has run 'Dogs on the Town' volunteer outings (a few hours to a full day; 18+, photo ID, one dog at a time) and opened them to the public via SignUpGenius in 2023, plus occasional free public 'Snout & About' field-trip days. Current status not confirmed on an official page; call (419) 213-2800. Shelter at 410 S. Erie St, Toledo.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 213-2800"
  },
  {
   "state": "OH",
@@ -789,12 +847,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://www.humanesanduskyco.org/",
+  "notes": "1315 N. River Rd, Fremont. Open Mon-Fri 1-5, Sat 1-4.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "humanesocietyofsanduskycounty@yahoo.com",
+  "source_list": "shelter website",
+  "phone": "(419) 334-4517"
  },
  {
   "state": "OH",
@@ -804,12 +863,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://sanduskycountyoh.gov/index.php?page=dog-kennel",
+  "notes": "1950 Countryside Dr, Fremont. Dog viewing Mon-Fri 8:30-4:30. Adoption fee $150 (includes spay/neuter, vaccines, license).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 334-2372"
  },
  {
   "state": "OH",
@@ -819,12 +879,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://humanesocietysenecacounty.org/",
+  "notes": "2811 OH-100, Tiffin (behind the Animal Hospital of Tiffin). Open Tue-Fri 12:30-5:30, Sat 10-1.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "HSSenecaCounty@gmail.com",
+  "source_list": "shelter website",
+  "phone": "(419) 447-5704"
  },
  {
   "state": "OH",
@@ -839,7 +900,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -849,12 +911,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://marioncountyohio.gov/agencies/dog_warden.php",
+  "notes": "2252 Richland Rd, Marion. Run by the Marion County Sheriff's Office (Dog Warden). Hours Mon-Fri 12-6pm, Sat 12-4pm, closed Sun.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "marioncountydogpound@gmail.com",
+  "source_list": "shelter website",
+  "phone": "(740) 386-6150"
  },
  {
   "state": "OH",
@@ -864,12 +927,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://www.miamicountyohio.gov/animal-shelter/",
+  "notes": "1110 N County Road 25A, Troy. County no-kill shelter for dogs and cats. Hours Mon/Tue/Fri 10am-4pm, Wed 10am-6pm, Sat 10am-2pm; closed Thu and Sun. Volunteer and foster programs; no day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(937) 332-6919"
  },
  {
   "state": "OH",
@@ -879,44 +943,30 @@
   "status": "No program yet",
   "animals": "Cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.pawsandwhiskers.org/",
   "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing. Check that it has a physical adoption facility.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "OH",
-  "city": "Celina",
-  "org": "Animal Protection League of Mercer County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing. Could be foster-only; check for a facility.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(419) 536-1914"
  },
  {
   "state": "OH",
   "city": "Maumee",
   "org": "Toledo Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.toledohumane.org/",
-  "notes": "827 Illinois Ave, Maumee. The site and events page list no day-out program. The only upcoming event is Giving Tuesday on Dec 1, a fundraiser, not an adoption event.",
+  "program": "Tails Around Toledo",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://toledohumane.org/education-and-community-programs/tails-around-toledo",
+  "notes": "Community members take adult shelter dogs on outings (park, drive, treat stop) for 2 hours to a full day, Mon-Fri 10-5 and Sun 10-4. Read the participant manual/release, register online, then book trips via weekly SignUpGenius links (registration takes up to 2 weeks). On break Dec 21 until mid-January.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "TailsAroundToledo@toledohumane.org",
   "email_main": "info@toledohumane.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/726132068",
-  "phone": "+1-419-891-0705"
+  "phone": "(419) 891-0705"
  },
  {
   "state": "OH",
@@ -927,13 +977,13 @@
   "animals": "Dogs",
   "offers": "Dog outings (details unclear)",
   "url": "http://www.uchspets.org/",
-  "notes": "16540 County Home Rd, Marysville. The homepage lists a 'Canine Excursion Club'; its page couldn't be read (rate limited), so rules are unknown.",
+  "notes": "16540 County Home Rd, Marysville. Also serves as Union County's dog shelter (per the county Dog Warden page). The homepage mentions a 'Canine Excursion Club', but its details could not be confirmed this sweep, so status stays Needs check.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@uchspets.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/973876588",
-  "phone": "+19376426716"
+  "phone": "(937) 642-6716"
  },
  {
   "state": "OH",
@@ -943,14 +993,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://www.co.wood.oh.us/dogshelter/",
-  "notes": "Run by the Wood County Commissioners, phone 419-354-9242 option 2. Handles dogs only. Existing volunteers may walk dogs during shelter hours; no day-out program.",
+  "url": "https://www.woodcountyohio.gov/504/Dog-Shelter",
+  "notes": "1912 E Gypsy Lane Rd, Bowling Green.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "wcdogshelter@woodcountyohio.gov",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/351513309",
-  "phone": ""
+  "phone": "(419) 354-9242"
  },
  {
   "state": "OH",
@@ -960,14 +1010,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing. Also listed on Adopt-a-Pet.",
+  "url": "https://www.wchumane.org/",
+  "notes": "801 Van Camp Rd. Cat room open daily 11-5; dog adoptions by appointment.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "woodcountyhumanesociety@gmail.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/192953599",
-  "phone": ""
+  "phone": "(419) 352-7339"
  },
  {
   "state": "OH",
@@ -977,14 +1027,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Fixed the 'Sosiety' typo in the name. Current official name and URL need check. Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://hancockhumanesociety.com/",
+  "notes": "4550 Fostoria Ave, Findlay. Also handles Hancock County animal control/dog warden services (combined since 1990), so there is no separate county dog shelter.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/232156684",
-  "phone": ""
+  "phone": "(419) 423-1664"
  },
  {
   "state": "OH",
@@ -994,14 +1044,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "Phone 419-523-8617. Removed the old Petfinder URL (directory site). Official page not verified.",
+  "url": "https://putnamcountyohio.gov/county-agencies/dog-warden/",
+  "notes": "Putnam County Dog Warden, 1490 E. Second St, Ottawa. Public hours Thu 12-1 and Sat 9-10; call for an appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/287069152",
-  "phone": "+1-419-523-8617"
+  "phone": "(419) 523-8617"
  },
  {
   "state": "OH",
@@ -1011,14 +1061,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "notes": "Not verified on its own website: search budget ran out during this sweep. Name and city came from a directory listing. Check before publishing.",
+  "url": "https://www.eriecounty.oh.gov/dogwarden.aspx",
+  "notes": "2900 Columbus Ave, Sandusky. Dogs viewable Mon-Fri 7:30-4; adoption fee $32-$100 (spay/neuter required, not included).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/924639228",
-  "phone": ""
+  "phone": "(419) 627-7607"
  },
  {
   "state": "OH",
@@ -1029,13 +1079,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "",
-  "notes": "Not verified. Could be foster-only; check for a facility.",
+  "notes": "Only a Facebook presence found (12409 County Rd 99, Findlay); could not confirm a public adoption facility.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/315526086",
-  "phone": ""
+  "phone": "",
+  "source": "https://www.facebook.com/Teddysrescue/"
  },
  {
   "state": "OH",
@@ -1085,7 +1136,7 @@
   "email_program": "Foster@hsdcohio.org",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-740-369-7387",
+  "phone": "(740) 369-7387",
   "osm": "node/12868315654"
  },
  {
@@ -1119,7 +1170,7 @@
   "email_program": "",
   "email_main": "dogwarden@muskingumcounty.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1 740-453-0273",
+  "phone": "(740) 453-0273",
   "osm": "way/1212697160"
  },
  {
@@ -1136,7 +1187,7 @@
   "email_program": "",
   "email_main": "Theanimalsheltersociety1@gmail.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1 740-452-1077",
+  "phone": "(740) 452-1077",
   "osm": "way/1092042422"
  },
  {
@@ -1170,7 +1221,7 @@
   "email_program": "",
   "email_main": "dshelter@fairfieldcountyohio.gov",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-740-687-3647",
+  "phone": "(740) 687-3647",
   "osm": "way/1365592657"
  },
  {
@@ -1187,7 +1238,7 @@
   "email_program": "",
   "email_main": "acds@athensoh.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-740-593-5415",
+  "phone": "(740) 593-5415",
   "osm": "way/1347802587"
  },
  {
@@ -1203,7 +1254,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "OH",
@@ -1219,7 +1271,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-419-946-1747",
+  "phone": "(419) 946-1747",
   "osm": "way/486828105"
  },
  {
@@ -1287,7 +1339,7 @@
   "email_program": "",
   "email_main": "fetchremedydogs@gmail.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1 740-297-6434",
+  "phone": "(740) 297-6434",
   "osm": "node/9735842355"
  },
  {
@@ -1304,7 +1356,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-877-802-1633",
+  "phone": "(877) 802-1633",
   "osm": "way/550940279"
  },
  {
@@ -1345,7 +1397,8 @@
     "title": "Black Friday weekend: $9.99 adoption fees on all available animals (sponsored by Scooter The Neutered Cat)",
     "url": "https://hsdayton.org/adopt/meowza-cat-boutique/"
    }
-  ]
+  ],
+  "phone": ""
  },
  {
   "state": "OH",
@@ -1378,7 +1431,7 @@
   "email_program": "",
   "email_main": "info@sicsa.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-937-294-6505",
+  "phone": "(937) 294-6505",
   "osm": "way/889910305"
  },
  {
@@ -1395,7 +1448,7 @@
   "email_program": "",
   "email_main": "info@spcacincinnati.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-513-541-6100",
+  "phone": "(513) 541-6100",
   "osm": "way/32946331"
  },
  {
@@ -1436,7 +1489,7 @@
   "email_program": "",
   "email_main": "dogwarden@clermontcountyohio.gov",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-513-732-8854",
+  "phone": "(513) 732-8854",
   "osm": "way/741805938"
  },
  {
@@ -1453,7 +1506,7 @@
   "email_program": "",
   "email_main": "adoptions@hsoac.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1 937-831-5753",
+  "phone": "(937) 831-5753",
   "osm": "way/1306233028"
  },
  {
@@ -1470,7 +1523,7 @@
   "email_program": "",
   "email_main": "Mailbox@OhioPetSanctuary.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "513.388.9998",
+  "phone": "(513) 388-9998",
   "osm": "way/1313345508"
  },
  {
@@ -1487,7 +1540,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "513-541-7387",
+  "phone": "(513) 541-7387",
   "osm": "node/14206536696"
  },
  {
@@ -1504,7 +1557,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "513-541-7387",
+  "phone": "(513) 541-7387",
   "osm": "node/14206536697"
  },
  {
@@ -1539,5 +1592,489 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(937) 898-4457"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "City shelter at 12910 Berea Rd; adoptable pets listed at lakewoodoh.animalservices.website.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "animalshelter@lakewoodoh.gov",
+  "phone": "(216) 529-5020",
+  "url": "https://www.lakewoodoh.gov/accordions/animal-control/",
+  "source_list": "shelter website",
+  "city": "Lakewood",
+  "org": "Lakewood Animal Shelter"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "City animal control at 11675 Royalton Rd runs an adoption program; adoptable pets posted on the city's Adopt a Pet page.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "(440) 237-0665",
+  "url": "https://northroyalton.gov/departments/animal_control/adopt_a_pet_photos_and_information_.php",
+  "source_list": "shelter website",
+  "city": "North Royalton",
+  "org": "North Royalton Animal Control"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "notes": "Cat shelter at 12662 York-Delta Dr; open Sat & Sun 12-4 pm.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@stayawhilecatshelter.org",
+  "phone": "(440) 582-4990",
+  "url": "https://stayawhilecatshelter.org/",
+  "source_list": "shelter website",
+  "city": "North Royalton",
+  "org": "Stay-A-While Cat Shelter"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "Volunteer group that cares for and adopts out animals taken in by South Euclid Animal Control (1349 South Green Rd).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "southeuclidhumanesociety@seuclid.com",
+  "phone": "(216) 291-8773",
+  "url": "https://southeuclid.gov/wp-content/uploads/2026/02/SEHS.info_.pdf",
+  "source_list": "shelter website",
+  "city": "South Euclid",
+  "org": "South Euclid Humane Society",
+  "source": "https://www.facebook.com/SouthEuclidHumaneSociety/"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "notes": "Cat sanctuary; adoptions and visits by appointment only (call to schedule).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "purrfectcompanions@att.net",
+  "phone": "(216) 671-6369",
+  "url": "https://www.purrfectcompanions.org/",
+  "source_list": "shelter website",
+  "city": "Lakewood",
+  "org": "Purr-fect Companions Cat Sanctuary"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "City shelter at 15700 Bagley Rd. Open Tue/Thu/Fri 4-7 pm, Sat 12-3 pm; submit adoption application first. Fees: cats $75-100, dogs $75-200 ($25 off for veterans and 60+).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "",
+  "url": "https://middleburgheights.com/middleburg-heights-animal-shelter/animal-shelter-adoption/",
+  "source_list": "shelter website",
+  "city": "Middleburg Heights",
+  "org": "Middleburg Heights Animal Shelter"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "Shelter at 812 Youngstown-Kingsville Rd SE, Vienna. Adoption center walk-in hours Tue-Sat 1-5 pm.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "(330) 539-5300",
+  "url": "https://www.awlrescueme.com/",
+  "source_list": "shelter website",
+  "city": "Vienna",
+  "org": "Animal Welfare League of Trumbull County"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "notes": "Nonprofit pet resource center at 151 S High St with cat and kitten adoption rooms; also runs mobile spay/neuter clinic.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "arc@arc4animals.org",
+  "phone": "(330) 779-1208",
+  "url": "https://www.arc4animals.org/",
+  "source_list": "shelter website",
+  "city": "Cortland",
+  "org": "Animal Resource Center"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "Humane society shelter at 8469 Southern Blvd, Building 3, Boardman. Adoption hours Tue-Fri 12-6 pm (call for weekend hours); adoption questions: ACOadoptions@gmail.com.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "ACOofohio@gmail.com",
+  "phone": "(330) 788-1064",
+  "url": "https://www.animalcharityofohio.org/",
+  "source_list": "shelter website",
+  "city": "Boardman",
+  "org": "Animal Charity of Ohio"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "notes": "City kennel at 1220 Mogadore Rd. Call a Compliance Officer (weekdays 8-4) to ask about adopting.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "(330) 673-7732",
+  "url": "https://www.kentohio.gov/living-here/animal-services/kennel-and-adoptions/",
+  "source_list": "shelter website",
+  "city": "Kent",
+  "org": "Kent Animal Control Kennel"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "Shelter at 8790 Guilford Rd, Seville. Adoption hours 12-4 pm; closed to the public Mondays and Wednesdays.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@medinacountyspca.com",
+  "phone": "(330) 723-7722",
+  "url": "https://www.medinacountyspca.com/",
+  "source_list": "shelter website",
+  "city": "Seville",
+  "org": "Medina County SPCA"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "notes": "930 Lafayette Rd, Unit A, Medina. Adoption hours Tue-Fri 12-5, Sat 12-3; no appointment needed.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "(330) 591-4408",
+  "url": "https://www.kittenkrazy.org/",
+  "source_list": "shelter website",
+  "city": "Medina",
+  "org": "Kitten Krazy Cat Shelter and Adoption Center"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "Nonprofit shelter on Rt. 511 E (Hughes Rd), Oberlin. Website could not be loaded this pass; contact details not verified.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "",
+  "url": "http://www.oasisanimalshelter.net/",
+  "source_list": "shelter website",
+  "city": "Oberlin",
+  "org": "OASIS Animal Shelter"
+ },
+ {
+  "state": "OH",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "Shelter at 1611 Mechanicsburg Rd, Wooster. Open Tue-Fri 12-5, Sat 10-2; closed Sun & Mon.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@wchs.org",
+  "phone": "",
+  "url": "https://www.wchs.org/",
+  "source_list": "shelter website",
+  "city": "Wooster",
+  "org": "Wayne County Humane Society"
+ },
+ {
+  "state": "OH",
+  "city": "Toledo",
+  "org": "Maumee Valley Save-A-Pet",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.maumeevalleysaveapet.org/",
+  "phone": "(419) 537-9663",
+  "notes": "Open-to-the-public shelter at 5250 Hill Ave; open Wed-Sat 12-5.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "mvsap@att.net",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Toledo",
+  "org": "Toledo Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://toledoanimalrescue.org/",
+  "phone": "(419) 382-1130",
+  "notes": "640 Wyman St. Adoption visits by appointment, 10am-3pm daily.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "info@toledoanimalrescue.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Port Clinton",
+  "org": "Humane Society of Ottawa County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://humanesocietyofottawacounty.org/",
+  "phone": "(419) 734-5191",
+  "notes": "No-kill shelter at 2424 E Sand Rd, Port Clinton. Open Tue 10-5, Wed-Sat 10-2.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "HSOCpets@gmail.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Oak Harbor",
+  "org": "Ottawa County Dog Warden",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://auditor.co.ottawa.oh.us/dog-licenses",
+  "phone": "(419) 898-1368",
+  "notes": "8400 SR 163, Oak Harbor. Mon/Tue/Thu/Fri 8-4, Wed 12-4 (per county auditor page).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Sandusky",
+  "org": "Humane Society of Erie County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://humanesocietyoferiecounty.org/",
+  "phone": "(419) 626-6220",
+  "notes": "1911 Superior St, Sandusky. Adoptions by appointment; animal rooms open Mon-Fri 12-3, Sat 12-2.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "hsec.1911@gmail.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Norwalk",
+  "org": "Huron County Dog Warden",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.huroncounty-oh.gov/departments/dog_warden.php",
+  "phone": "(419) 668-9773",
+  "notes": "130 Shady Lane, Building E, Norwalk. Open Mon-Fri 8-4:30. Supported by the volunteer group Friends of the Huron County Dog Warden (fhcdw.org).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Norwalk",
+  "org": "Huron County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.huroncountyhumanesociety.com/",
+  "phone": "(419) 663-7158",
+  "notes": "246 Woodlawn Ave, Norwalk. Open Tue 1-6, Wed-Sat 1-5.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "humanehuroncounty@gmail.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Tiffin",
+  "org": "Seneca County Dog Warden",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://senecacountyohio.gov/departments/",
+  "phone": "(419) 448-5097",
+  "notes": "Shelter on S. State Route 100, Tiffin. Phone and $30 adoption fee per a 2023 county news release; county site links only to the warden's Facebook page.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "source": "https://www.facebook.com/profile.php?id=100064943131710"
+ },
+ {
+  "state": "OH",
+  "city": "Wauseon",
+  "org": "Fulton County Dog Warden",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.fultoncountyoh.com/306/Dog-Warden",
+  "phone": "(419) 337-9219",
+  "notes": "Dog shelter at 9200 County Rd 14, Wauseon. Adoption fee $15.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "dwarden@fultoncountyoh.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "McClure",
+  "org": "Henry County Dog Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://henrycountyohio.gov/170/Dog-Warden",
+  "phone": "(419) 748-7298",
+  "notes": "Run by the Henry County Dog Warden at P722 State Route 65, McClure. Open Mon-Fri 8-4:30.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "kathryn.barney@henrycountysheriff.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Lima",
+  "org": "Allen County Dog Control (Dog Warden)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://allencountyohio.com/?p=74",
+  "phone": "(419) 228-3700 ext. 8528",
+  "notes": "1165 Seriff Rd, Lima. Mon-Fri 9am-5pm; adoptions arranged directly through the Dog Control facility.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "allencountyohdogwarden@allencountyohio.com",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Wapakoneta",
+  "org": "Auglaize County Dog Warden",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www2.auglaizecounty.org/resources/dog-warden",
+  "phone": "(419) 302-8303",
+  "notes": "County dog warden; adoptable dogs come with a free spay/neuter voucher (PetsOhio grant).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Saint Henry",
+  "org": "Mercer County Dog Pound",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://mercercountyohio.org/?p=229",
+  "phone": "(419) 942-1550",
+  "notes": "3559 Fort Recovery-Minster Rd, St. Henry. No set hours; call to view dogs.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OH",
+  "city": "Bellefontaine",
+  "org": "Logan County Animal Shelter (Dog Warden)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.logancountyohio.gov/dog-warden1.html",
+  "phone": "",
+  "notes": "284 County Road 32 S, Bellefontaine, on the Logan County Sheriff's Office grounds; new county shelter opened March 2026. The Dog Warden operates under the Sheriff and does not handle cats. Phone not shown in the page text, so left blank (the page's contact link points to 937-592-5731).",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "source": "https://www.peakofohio.com/events/grand-opening-celebration-of-the-logan-county-animal-shelter"
+ },
+ {
+  "state": "OH",
+  "city": "Urbana",
+  "org": "Champaign County Dog Warden",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.champaignohiosheriff.com/champaign-county-dog-warden",
+  "phone": "(937) 484-1613",
+  "notes": "384 Park Ave, Urbana; run by the Champaign County Sheriff's Office. Address and phone come from the Village of St. Paris business directory (government site); the sheriff's own page could not be fetched.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "source": "https://www.stparisohio.org/business-directory/wpbdp_category/animal-care"
+ },
+ {
+  "state": "OH",
+  "city": "Springfield",
+  "org": "Clark County Dog Shelter (Dog Warden)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://clarkcountyohio.gov/514/Dog-Warden",
+  "phone": "(937) 521-2140",
+  "notes": "5201 Urbana Rd, Springfield. Shelter open Mon, Tue, Thu, Fri 12-5pm and Sat 12-4pm; closed Wed, Sun and holidays. Adoptable dogs are listed on Petfinder.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]
