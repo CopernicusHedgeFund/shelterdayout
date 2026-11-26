@@ -219,7 +219,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(719) 543-6464",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/658616662"
  },
@@ -253,7 +253,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@longmonthumane.org",
-  "phone": "",
+  "phone": "(303) 772-1232",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/985424514"
  },
@@ -630,7 +630,8 @@
     "url": "https://routthumane.org/rchs-events/",
     "place": "760 Critter Court, Steamboat Springs"
    }
-  ]
+  ],
+  "phone": "(970) 879-7247"
  },
  {
   "state": "CO",
