@@ -185,7 +185,8 @@
   "source_list": "shelter website",
   "city": "Michigan City",
   "org": "Michiana Humane Society",
-  "source": "https://wimsradio.com/?p=455974"
+  "source": "https://wimsradio.com/?p=455974",
+  "phone": "(219) 872-4499"
  },
  {
   "state": "IN",
@@ -342,7 +343,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "city": "Fort Wayne",
-  "org": "Fort Wayne Animal Care & Control"
+  "org": "Fort Wayne Animal Care & Control",
+  "phone": "(260) 427-1244"
  },
  {
   "state": "IN",
@@ -373,7 +375,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(317) 477-4367"
  },
  {
   "state": "IN",
@@ -1171,7 +1174,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@cityofrushville.in.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(765) 932-4754"
  },
  {
   "state": "IN",

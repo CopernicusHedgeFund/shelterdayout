@@ -111,7 +111,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@fatherjohns.org",
-  "phone": "",
+  "phone": "(973) 300-5909",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12616589655"
  },
@@ -197,7 +197,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(973) 694-0767",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/584070132"
  },
@@ -231,7 +231,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(609) 485-2345",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/629087372"
  },
@@ -665,7 +665,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(973) 824-7080"
  },
  {
   "state": "NJ",
@@ -760,7 +761,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(973) 283-4120"
  },
  {
   "state": "NJ",
@@ -923,7 +925,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(732) 922-0100"
  },
  {
   "state": "NJ",
@@ -938,7 +941,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(609) 693-1900"
  },
  {
   "state": "NJ",
@@ -953,7 +957,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@jerseyshoreanimalcenter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(732) 920-1600"
  },
  {
   "state": "NJ",

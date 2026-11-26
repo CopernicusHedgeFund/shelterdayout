@@ -12,7 +12,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(701) 456-7039",
   "source_list": "shelter website",
   "osm": "node/12905582698"
  },
@@ -81,7 +81,8 @@
   "email_program": "volunteers@cdhs.net",
   "email_main": "info@cdhs.net",
   "source_list": "shelter website",
-  "url_main": "https://cdhs.net/"
+  "url_main": "https://cdhs.net/",
+  "phone": "(701) 667-2020"
  },
  {
   "state": "ND",

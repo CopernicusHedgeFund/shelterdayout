@@ -512,7 +512,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(770) 800-7387"
  },
  {
   "state": "GA",
@@ -635,7 +636,8 @@
   "checked": "November 2026",
   "email_program": "Foster@HSNEGA.org",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(770) 532-6617"
  },
  {
   "state": "GA",
@@ -699,7 +701,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(706) 219-7881",
   "source_list": "shelter website",
   "osm": "node/6376709208"
  },
@@ -1489,7 +1491,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(478) 237-4040"
  },
  {
   "state": "GA",
@@ -1520,7 +1523,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 582-2763"
  },
  {
   "state": "GA",
@@ -1706,7 +1710,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@humanesocietyofvaldosta.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(229) 247-3266"
  },
  {
   "state": "GA",
@@ -1892,7 +1897,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(912) 851-3817"
  },
  {
   "state": "GA",
@@ -1985,7 +1991,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(912) 729-7141"
  },
  {
   "state": "GA",
@@ -2346,7 +2353,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.allaboutanimalsmaconrescue.org/",
-  "phone": "",
+  "phone": "(478) 621-5116",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",

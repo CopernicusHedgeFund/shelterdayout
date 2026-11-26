@@ -26,7 +26,8 @@
     "url": "https://arl-iowa.org/event/adoption-event-at-petsmart-ankeny-3/",
     "place": "PetSmart Ankeny"
    }
-  ]
+  ],
+  "phone": "(515) 262-9503"
  },
  {
   "state": "IA",
@@ -106,7 +107,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(515) 239-5530",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/301331313"
  },

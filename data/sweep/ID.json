@@ -215,7 +215,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(208) 736-2299"
  },
  {
   "state": "ID",
@@ -277,7 +278,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lcshelter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(208) 746-1623"
  },
  {
   "state": "ID",
@@ -432,7 +434,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(208) 773-3517"
  },
  {
   "state": "ID",
@@ -478,6 +481,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hias@custertel.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(208) 879-6500"
  }
 ]
