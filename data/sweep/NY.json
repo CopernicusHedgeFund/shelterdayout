@@ -897,7 +897,8 @@
     "url": "https://hempsteadny.gov/1206/Home-for-the-Holidays-Pet-Adoption-Progr",
     "place": "Town of Hempstead Animal Shelter, 3320 Beltagh Ave, Wantagh"
    }
-  ]
+  ],
+  "phone": "(516) 785-5220"
  },
  {
   "state": "NY",
@@ -1670,7 +1671,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(518) 353-7755"
  },
  {
   "state": "NY",
@@ -2100,7 +2102,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "GreeceAnimalControl@greeceny.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(585) 581-4025"
  },
  {
   "state": "NY",
@@ -2248,7 +2251,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adetota@cityofelmira.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(607) 737-5767"
  },
  {
   "state": "NY",
@@ -2556,7 +2560,8 @@
   "email_program": "",
   "email_main": "preciouspawsrescue@yahoo.com",
   "source_list": "shelter website",
-  "source": "https://www.petfinder.com/member/us/ny/north-tonawanda/precious-paws-rescue-ny965/"
+  "source": "https://www.petfinder.com/member/us/ny/north-tonawanda/precious-paws-rescue-ny965/",
+  "phone": "(716) 512-5521"
  },
  {
   "state": "NY",
@@ -2571,7 +2576,8 @@
   "checked": "November 2026",
   "email_program": "asublett@chqhumane.org",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(716) 665-2209"
  },
  {
   "state": "NY",

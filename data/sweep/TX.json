@@ -53,7 +53,8 @@
     "place": "Downtown Waco Farmers Market, 200 E. Bridge St., Waco"
    }
   ],
-  "source_list": ""
+  "source_list": "",
+  "phone": "(254) 754-1454"
  },
  {
   "state": "TX",
@@ -171,7 +172,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(972) 744-4480"
  },
  {
   "state": "TX",
@@ -264,7 +266,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.kgns.tv/2026/06/18/lacs-offers-sleepover-program-shelter-pets/",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(956) 625-1860"
  },
  {
   "state": "TX",
@@ -295,7 +298,8 @@
   "checked": "November 2026",
   "email_program": "fwadoptions@hsnt.org",
   "email_main": "fwadoptions@hsnt.org",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(817) 332-4768"
  },
  {
   "state": "TX",
@@ -325,7 +329,7 @@
   "checked": "November 2026",
   "email_program": "keller@hsnt.org",
   "email_main": "keller@hsnt.org",
-  "phone": "",
+  "phone": "(817) 332-4768",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/2244906298"
  },
@@ -461,7 +465,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(512) 930-3592",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12286708838"
  },
@@ -758,7 +762,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "gpasinfo@gptx.org",
-  "phone": "",
+  "phone": "(972) 237-8575",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/439895151"
  },
@@ -800,7 +804,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(972) 765-2575",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/452754302"
  },
@@ -1199,7 +1203,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(903) 535-0045",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/758841514"
  },
@@ -1881,7 +1885,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@pasadenatx.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(713) 848-5340"
  },
  {
   "state": "TX",
@@ -1912,7 +1917,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(281) 652-1970"
  },
  {
   "state": "TX",
@@ -1988,7 +1994,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(940) 761-8894"
  },
  {
   "state": "TX",
@@ -2098,7 +2105,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@smith-county.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 266-4303"
  },
  {
   "state": "TX",
@@ -2145,7 +2153,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 292-1287"
  },
  {
   "state": "TX",
@@ -2224,7 +2233,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@cityofdaingerfield.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 645-2120"
  },
  {
   "state": "TX",
@@ -2485,7 +2495,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 685-1594"
  },
  {
   "state": "TX",
@@ -2500,7 +2511,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 410-3370"
  },
  {
   "state": "TX",
@@ -2515,7 +2527,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 788-7216"
  },
  {
   "state": "TX",
@@ -2530,7 +2543,8 @@
   "checked": "November 2026",
   "email_program": "AServices@WataugaTX.org",
   "email_main": "AServices@WataugaTX.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(817) 656-9614"
  },
  {
   "state": "TX",
@@ -3010,7 +3024,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(409) 983-8785"
  },
  {
   "state": "TX",
@@ -3057,7 +3071,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(903) 938-7297"
  },
  {
   "state": "TX",
@@ -3072,7 +3087,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 963-1676"
  },
  {
   "state": "TX",
@@ -3103,7 +3119,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalControl@CityOfVidor.Gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 769-8718"
  },
  {
   "state": "TX",
@@ -3396,7 +3413,7 @@
   "email_program": "",
   "email_main": "csolis@bradytx.us",
   "source_list": "city page",
-  "phone": ""
+  "phone": "(325) 597-0639"
  },
  {
   "state": "TX",
@@ -3443,7 +3460,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(281) 592-2622"
  },
  {
   "state": "TX",
@@ -3552,7 +3570,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@deerparktx.org",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(281) 478-7274"
  },
  {
   "state": "TX",
@@ -3567,7 +3586,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "city website"
+  "source_list": "city website",
+  "phone": "(830) 774-8628"
  },
  {
   "state": "TX",
@@ -3694,7 +3714,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(940) 665-9800"
  },
  {
   "state": "TX",
@@ -3931,7 +3952,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(956) 580-8741"
  },
  {
   "state": "TX",
@@ -4085,7 +4106,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@wstx.us",
-  "source_list": "government page"
+  "source_list": "government page",
+  "phone": "(817) 246-1043"
  },
  {
   "state": "TX",

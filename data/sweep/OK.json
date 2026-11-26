@@ -414,7 +414,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(405) 739-1400"
  },
  {
   "state": "OK",
@@ -575,7 +576,8 @@
   "email_program": "",
   "email_main": "awinfo@okc.gov",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/496249323"
+  "osm": "way/496249323",
+  "phone": "(405) 297-3100"
  },
  {
   "state": "OK",
@@ -623,7 +625,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(405) 527-0222"
  },
  {
   "state": "OK",
