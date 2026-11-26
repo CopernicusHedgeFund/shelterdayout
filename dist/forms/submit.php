@@ -90,7 +90,7 @@ if ($form === 'request') {
         send($email, 'Your outing request for ' . $L['org'],
             "Hi " . $fields['name'] . ",\n\nThanks for asking to take a dog out from " . $L['org'] . " (" . $L['city'] . ", " . $L['state'] . ").\n\n"
             . "This shelter doesn't run a day-out program yet, so we don't forward requests one at a time. Once a month we send each shelter a note telling them how many people want to take their dogs out, with each person's name and contact details and a free guide to starting a program. If they start one, they may contact you directly.\n\n"
-            . "Your request:\n" . $summary . "\n\nIn the meantime, see programs you can join now at https://shelterdayout.com/\n\n" . BRAND . " (shelterdayout.com)\n", SITE_EMAIL);
+            . "Your request:\n" . $summary . "\n\nIn the meantime, see programs you can join now at https://shelterdayout.com/\n\n" . BRAND . " (shelterdayout.com)\nCharity Good, 121 South Tejon Street, Suite 900, Colorado Springs, CO 80903\n", SITE_EMAIL);
         back($ok ? 'thanks' : 'oops');
     }
     $to = array_values(array_filter(array_unique(array_merge(
@@ -113,7 +113,8 @@ if ($form === 'request') {
         . "Update your listing or change where requests go: https://shelterdayout.com/for-shelters/?listing=" . $listing . "\n"
         . "To stop receiving requests, reply STOP.\n\n"
         . "ShelterDayOut.com - https://shelterdayout.com\n"
-        . "A free program of Charity Good (charitygood.org). Sister site: ShelterAdoption.com - https://shelteradoption.com\n";
+        . "A free program of Charity Good (charitygood.org). Sister site: ShelterAdoption.com - https://shelteradoption.com\n"
+        . "Charity Good, 121 South Tejon Street, Suite 900, Colorado Springs, CO 80903\n";
     $html = sdo_html_email([
         'kicker' => 'New outing request from ShelterDayOut.com',
         'title' => $name . ' wants to take one of your animals out!',
@@ -133,7 +134,7 @@ if ($form === 'request') {
     log_row($PRIVATE, [$stamp, 'request', $listing, implode(' ', $to), $name, $email, $fields['phone'] ?? '', $fields['when'] ?? '', $ok ? 'sent' : 'FAILED']);
     // Confirmation to the requester.
     send($email, 'Your outing request to ' . $L['org'],
-        "Hi " . $name . ",\n\nYour outing request was sent to " . $L['org'] . " (" . $L['city'] . ", " . $L['state'] . "). The shelter will reply to you directly. Shelters are busy, so if you don't hear back in a few days, call them or use the sign-up link on their listing.\n\nYour request:\n" . $summary . "\n\nThanks for helping shelter animals!\n" . BRAND . " (shelterdayout.com)\n", SITE_EMAIL);
+        "Hi " . $name . ",\n\nYour outing request was sent to " . $L['org'] . " (" . $L['city'] . ", " . $L['state'] . "). The shelter will reply to you directly. Shelters are busy, so if you don't hear back in a few days, call them or use the sign-up link on their listing.\n\nYour request:\n" . $summary . "\n\nThanks for helping shelter animals!\n" . BRAND . " (shelterdayout.com)\nCharity Good, 121 South Tejon Street, Suite 900, Colorado Springs, CO 80903\n", SITE_EMAIL);
     back($ok ? 'thanks' : 'oops');
 }
 

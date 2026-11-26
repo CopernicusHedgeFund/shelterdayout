@@ -504,11 +504,8 @@ def build_static(rows):
 <p>We check every state each month: shelters' own websites, government shelter lists and OpenStreetMap. We don't copy pet listings, because shelters update them daily; we send you straight to the source.</p>
 <p>{BRAND} is a program of <a href="https://charitygood.org">Charity Good</a>, a nonprofit, and the sister site of <a href="{SDO}/">ShelterDayOut</a>, the directory of shelter day-out and sleepover programs. It's free for adopters and shelters.</p>
 <p>Questions or corrections: <a href="mailto:{CONTACT}">{CONTACT}</a>. Run a shelter? <a href="{SDO}/for-shelters/">Update your listing</a>.</p></div>""", "/about/"))
-    write("/terms/", page(f"Terms | {BRAND}", "Terms of use.", f"""<h1>Terms of use</h1><div class="prose">
-<p>{BRAND} is a free informational directory provided by Charity Good. Listings are gathered from public sources and checked monthly, but may be out of date or incomplete. We don't place animals, process adoptions or speak for any shelter. Each shelter sets its own policies, fees and requirements; confirm details with the shelter. Links to other websites are provided for convenience and we aren't responsible for their content. Use of this site is at your own risk and is provided as is, without warranties.</p>
-<p>Some location data &copy; OpenStreetMap contributors, available under the Open Database License.</p></div>""", "/terms/"))
-    write("/privacy/", page(f"Privacy | {BRAND}", "Privacy policy.", f"""<h1>Privacy</h1><div class="prose">
-<p>{BRAND} doesn't require an account and doesn't sell personal information. Our web host keeps standard server logs (such as IP address and pages requested) for security. Visits are counted with our own cookie-free counter, which records the page, referring site, device type, browser family and a daily anonymous code; it stores no IP address and sets no cookies. Fonts are loaded from Google Fonts. Forms for suggestions and corrections are handled by our sister site ShelterDayOut under its <a href="{SDO}/privacy/">privacy policy</a>. The site isn't directed to children under 13. Contact: <a href="mailto:{CONTACT}">{CONTACT}</a>.</p></div>""", "/privacy/"))
+    write("/terms/", page(f"Terms of Use | {BRAND}", f"Terms of use for {BRAND}.", sdo.legal_terms(BRAND, "adopt", CONTACT, SDO), "/terms/"))
+    write("/privacy/", page(f"Privacy Policy | {BRAND}", f"Privacy policy for {BRAND}.", sdo.legal_privacy(BRAND, "adopt", CONTACT, SDO), "/privacy/"))
     write("/404.html", page(f"Page not found | {BRAND}", "Page not found.",
         '<h1>Page not found</h1><p class="lede">That page doesn\'t exist or has moved.</p><p><a class="btn" href="/">Find a shelter</a></p>', "/404.html", canonical=False))
 

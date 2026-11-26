@@ -677,7 +677,7 @@ def build_forms(rows=None):
 <label for="email">Work email (where requests should go)</label><input id="email" name="email" type="email" required maxlength="200">
 <label for="phone">Phone (optional)</label><input id="phone" name="phone" maxlength="40">
 <label for="message">Program details or changes</label><textarea id="message" name="message" maxlength="4000" placeholder="Program name, what people can do, rules, sign-up link"></textarea>
-<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I work for or volunteer with this organization and can speak for it.</label>""",
+<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I work for or volunteer with this organization and can speak for it, and I agree to the <a href="/terms/">Terms</a> and <a href="/privacy/">Privacy policy</a>.</label>""",
               "shelter")
 
     form_page("/suggest/", "Suggest a shelter or report a problem",
@@ -705,7 +705,7 @@ def build_forms(rows=None):
 <label for="when">Preferred date(s)</label><input id="when" name="when" maxlength="200" placeholder="e.g. Saturday Dec 6, morning">
 <label for="kind">Type of outing</label><select id="kind" name="kind"><option>Day trip</option><option>Hike or walk</option><option>Sleepover or staycation</option><option>Visit</option></select>
 <label for="message">Anything the shelter should know?</label><textarea id="message" name="message" maxlength="3000" placeholder="Your plans for the day, experience with dogs or cats, other pets or kids at home"></textarea>
-<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I'm 18 or older and understand the shelter decides whether to approve the outing and sets its own rules.</label>
+<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I'm 18 or older, I understand the shelter decides whether to approve the outing and sets its own rules, and I agree to the <a href="/terms/">Terms</a> and <a href="/privacy/">Privacy policy</a>, including sending my details to this shelter.</label>
 <p style="margin-top:16px"><button class="btn" type="submit">Send request</button></p>
 <p class="fine">Your request goes to the shelter you picked (right away if it runs a program, or in our monthly note if it doesn't), with a copy kept by {BRAND} so we can help if something goes wrong. See our <a href="/privacy/">privacy policy</a>.</p>
 </form>
@@ -750,43 +750,8 @@ def build_static_pages(rows):
 <p><a href="mailto:{CONTACT}">{CONTACT}</a></p>
 </div>""", "/about/"))
 
-    write("/terms/", page(f"Terms of Use | {BRAND}", f"Terms of use for {BRAND}.",
-        f"""<h1>Terms of use</h1>
-<div class="prose">
-<p>Last updated {date.today().strftime('%B %-d, %Y')}.</p>
-<p>{BRAND} is a program of Charity Good (charitygood.org) ("Charity Good", "we", "us"). By using {BRAND} (the "site") you agree to these terms.</p>
-<h2>A directory, not a service provider</h2>
-<p>{BRAND} is an information directory. We list programs run by independent animal shelters and rescues. We are not affiliated with them unless a listing says so, and we don't run outings, sleepovers, visits or adoptions. Each shelter decides who may participate and sets its own rules, fees, agreements and waivers, which govern your outing.</p>
-<h2>Information may change</h2>
-<p>We check listings regularly, but program details change and may be wrong or out of date. Always confirm details with the shelter. The site is provided "as is" without warranties of any kind.</p>
-<h2>Outing requests</h2>
-<p>You can send a shelter an outing request through the site. We email your request to the shelter's public contact address and, where it has one, its program address. Sending a request doesn't guarantee an outing. The shelter alone decides whether to approve it. We aren't a party to any arrangement between you and a shelter.</p>
-<h2>Your responsibility</h2>
-<p>Animals can be unpredictable. You're responsible for following the shelter's instructions and for your own conduct and safety during any outing. To the fullest extent the law allows, {BRAND} isn't liable for any injury, loss, damage or dispute arising from an outing, visit, request or your use of the site.</p>
-<h2>Acceptable use</h2>
-<p>Don't submit false information, impersonate a shelter, spam shelters through request forms, or copy the site's content in bulk by automated means.</p>
-<h2>Shelters</h2>
-<p>Shelters may ask us to correct or remove their listing at any time through the <a href="/for-shelters/">For shelters</a> page.</p>
-<h2>Changes and contact</h2>
-<p>We may update these terms; the date above shows the latest version. Questions: <a href="mailto:{CONTACT}">{CONTACT}</a>.</p>
-</div>""", "/terms/"))
-
-    write("/privacy/", page(f"Privacy Policy | {BRAND}", f"Privacy policy for {BRAND}.",
-        f"""<h1>Privacy policy</h1>
-<div class="prose">
-<p>Last updated {date.today().strftime('%B %-d, %Y')}.</p>
-<p>{BRAND} is a program of Charity Good (charitygood.org). This policy explains what we collect on the site and how we use it.</p>
-<h2>What we collect</h2>
-<p>You can browse {BRAND} without giving us any personal information. If you send a form, we collect what you enter, such as your name, email, phone and message. Our web host keeps standard server logs (like IP address and pages visited) for security. To count visits we use our own cookie-free counter: it records the page, the site you came from, your device type and browser family, and a daily anonymous code that can't be traced back to you. It stores no IP address and sets no cookies.</p>
-<h2>How we use it</h2>
-<p>We use form details only to respond to you, update listings, and run the site. If you send an outing request, we send it to the shelter you chose so they can contact you, and keep a copy in case there's a problem. Shelters handle your information under their own policies.</p>
-<h2>What we don't do</h2>
-<p>We don't sell or rent personal information, and we don't use advertising trackers.</p>
-<h2>Keeping and deleting</h2>
-<p>We keep form messages only as long as needed to run the site. To see or delete what you sent us, email <a href="mailto:{CONTACT}">{CONTACT}</a>.</p>
-<h2>Children</h2>
-<p>The site isn't directed to children under 13, and outing requests require you to be 18 or older.</p>
-</div>""", "/privacy/"))
+    write("/terms/", page(f"Terms of Use | {BRAND}", f"Terms of use for {BRAND}.", legal_terms(BRAND, "dayout", CONTACT), "/terms/"))
+    write("/privacy/", page(f"Privacy Policy | {BRAND}", f"Privacy policy for {BRAND}.", legal_privacy(BRAND, "dayout", CONTACT), "/privacy/"))
 
     write("/404.html", page(f"Page not found | {BRAND}", "Page not found.",
         f"""<h1>Page not found</h1><p class="lede">That page doesn't exist or has moved.</p><p><a class="btn" href="/">Find a shelter outing</a></p>""", "/404.html", canonical=False))
@@ -818,6 +783,92 @@ def is_dead(u):
         f = ROOT / "data" / "dead_links.json"
         DEAD = set(json.loads(f.read_text()).get("dead", [])) if f.exists() else set()
     return bool(u) and u in DEAD
+
+
+LEGAL_ORG = "Charity Good"
+LEGAL_ADDR = "121 South Tejon Street, Suite 900, Colorado Springs, CO 80903"
+
+
+def legal_terms(brand, kind, contact, sdo="https://shelterdayout.com"):
+    """Terms of use shared by both sites. kind: 'dayout' or 'adopt'."""
+    upd = date.today().strftime('%B %-d, %Y')
+    if kind == "dayout":
+        what = ("We list programs run by independent animal shelters and rescues. We don't run outings, sleepovers, visits "
+                "or adoptions. Each shelter decides who may take part and sets its own rules, fees, agreements and waivers, "
+                "which govern your outing.")
+        extra = f"""<h2>Outing requests</h2>
+<p>You can send a shelter an outing request through the site. We email your request to the shelter's public contact address and, where it has one, its program address, and keep a copy. Sending a request doesn't guarantee an outing. The shelter alone decides whether to approve it, and we aren't a party to any arrangement between you and a shelter. Requests require you to be 18 or older.</p>
+<h2>Animals and safety</h2>
+<p>Animals can be unpredictable. You're responsible for following the shelter's instructions and for your own conduct and safety, and that of anyone with you, during any outing or visit.</p>"""
+        corr = f'<a href="/for-shelters/">For shelters</a> page'
+    else:
+        what = ("We list independent animal shelters, humane societies, rescues and animal control agencies and link to their "
+                "own websites. We don't place animals, process adoptions, collect fees or speak for any shelter. Each shelter "
+                "sets its own adoption policies, fees and requirements.")
+        extra = f"""<h2>Adopting</h2>
+<p>Adoption decisions, health information and animal histories come from the shelter, not from us. Ask the shelter about an animal's health and behavior before you adopt. Nothing on the site is veterinary, legal or professional advice.</p>"""
+        corr = f'<a href="{sdo}/for-shelters/">For shelters</a> page'
+    return f"""<h1>Terms of use</h1>
+<div class="prose">
+<p>Last updated {upd}.</p>
+<p>{brand} is a free program of {LEGAL_ORG} (charitygood.org), a Colorado nonprofit corporation and 501(c)(3) public charity ("{LEGAL_ORG}", "we", "us"). By using {brand} (the "site") you agree to these terms. If you don't agree, please don't use the site.</p>
+<h2>A free directory, not a service provider</h2>
+<p>{brand} is an information directory. {what} Listing a shelter doesn't mean the shelter endorses us or that we endorse it, and we're not affiliated with any listed organization unless its listing says so.</p>
+<h2>Where the information comes from</h2>
+<p>Listings are factual information (names, cities, websites, public phone numbers and emails, program descriptions and event dates) taken from each shelter's own public website or from government sources, written as short factual summaries. Some locations come from OpenStreetMap (&copy; OpenStreetMap contributors, available under the <a href="https://opendatacommons.org/licenses/odbl/" rel="noopener">Open Database License</a>) and distances use <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> city data (<a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a>). We check listings regularly, but details change and may be wrong or out of date. Always confirm with the shelter.</p>
+{extra}
+<h2>Names and trademarks</h2>
+<p>Shelter names, logos and trademarks belong to their owners and are used only to identify each organization. Corrections and removal requests are welcome through the {corr} or by email.</p>
+<h2>Acceptable use</h2>
+<p>Don't submit false information, impersonate a shelter or another person, spam shelters through our forms, try to disrupt or break into the site, or copy the site's content in bulk by automated means.</p>
+<h2>Links to other sites</h2>
+<p>We link to shelters' and other organizations' websites for your convenience. We don't control those sites and aren't responsible for their content, policies or practices.</p>
+<h2>No warranties</h2>
+<p>The site is provided "as is" and "as available", without warranties of any kind, express or implied, including accuracy, completeness, fitness for a particular purpose and non-infringement.</p>
+<h2>Limitation of liability</h2>
+<p>To the fullest extent the law allows, {LEGAL_ORG} and its directors, officers and volunteers aren't liable for any indirect, incidental, special or consequential damages, or for any injury, loss, damage or dispute arising from an outing, visit, adoption, request, a listed organization's actions, or your use of the site. Our total liability for any claim relating to the site is limited to $100. Because the site is free, these limits are a fair basis for providing it.</p>
+<h2>Indemnity</h2>
+<p>You agree to hold {LEGAL_ORG} harmless from claims arising from your misuse of the site or your breach of these terms.</p>
+<h2>Copyright concerns</h2>
+<p>The site's design, text and graphics are &copy; {date.today().year} {LEGAL_ORG}, except data credited above. If you believe something on the site infringes your rights, email <a href="mailto:{contact}">{contact}</a> with the page address and details and we'll review it promptly and remove it if appropriate.</p>
+<h2>Governing law</h2>
+<p>These terms are governed by the laws of the State of Colorado, without regard to its conflict-of-law rules. Any dispute will be handled in the state or federal courts located in Colorado.</p>
+<h2>Changes and contact</h2>
+<p>We may update these terms; the date above shows the latest version, and continued use means you accept the update. Questions: <a href="mailto:{contact}">{contact}</a>. Mail: {LEGAL_ORG}, {LEGAL_ADDR}.</p>
+</div>"""
+
+
+def legal_privacy(brand, kind, contact, sdo="https://shelterdayout.com"):
+    upd = date.today().strftime('%B %-d, %Y')
+    forms = ("If you send a form (an outing request, a shelter suggestion, a correction or a listing claim), we collect what you "
+             "enter, such as your name, email, phone and message." if kind == "dayout" else
+             f"The site has no forms of its own. Suggestions, corrections and listing claims are sent through our sister site ShelterDayOut and handled under its <a href=\"{sdo}/privacy/\">privacy policy</a>.")
+    share = ("If you send an outing request, we email it (your name, contact details, preferred dates and message) to the shelter "
+             "you chose so it can reply to you, with a copy to our own inbox. If the shelter doesn't run a program yet, we hold your "
+             "request and include it in one monthly note to that shelter. Shelters handle your information under their own policies."
+             if kind == "dayout" else "")
+    return f"""<h1>Privacy policy</h1>
+<div class="prose">
+<p>Last updated {upd}.</p>
+<p>{brand} is a free program of {LEGAL_ORG} (charitygood.org), a nonprofit. This policy explains what we collect and how we use it.</p>
+<h2>What we collect</h2>
+<p>You can browse {brand} without an account and without giving us any personal information. {forms}</p>
+<p>Our web host keeps standard server logs (such as IP address, browser and pages requested) for security and troubleshooting. To count visits we use our own cookie-free counter: it records the page, the site you came from, your device type and browser family, and a daily anonymous code that can't be traced back to you. It stores no IP address and sets no cookies. The site sets no tracking cookies and uses no advertising trackers.</p>
+<h2>Third-party services</h2>
+<p>Pages load fonts from Google Fonts, so your browser connects to Google's servers, which receive your IP address under <a href="https://policies.google.com/privacy" rel="noopener">Google's privacy policy</a>. Links to shelters and maps take you to other sites with their own policies.</p>
+<h2>How we use and share it</h2>
+<p>We use what you send only to respond to you, keep listings accurate and run the site. {share} We don't sell, rent or trade personal information, and we don't share it with advertisers.</p>
+<h2>Shelter contact details</h2>
+<p>Listings show organizations' public business contact details (website, main phone and public email) as published on their own websites or government pages. To correct or remove a listing's details, email <a href="mailto:{contact}">{contact}</a>.</p>
+<h2>Keeping and deleting</h2>
+<p>We keep form submissions for up to 24 months and server logs for as long as our host keeps them, then delete them. To see, correct or delete what you sent us, email <a href="mailto:{contact}">{contact}</a> and we'll respond within 30 days, whatever state you live in.</p>
+<h2>Security</h2>
+<p>The site uses HTTPS, and form data is stored outside the public website. No method of storage or transmission is completely secure.</p>
+<h2>Children</h2>
+<p>The site isn't directed to children under 13, and we don't knowingly collect their information.{" Outing requests require you to be 18 or older." if kind == "dayout" else ""}</p>
+<h2>Changes and contact</h2>
+<p>We'll post any changes here with a new date. Questions: <a href="mailto:{contact}">{contact}</a>. Mail: {LEGAL_ORG}, {LEGAL_ADDR}.</p>
+</div>"""
 
 
 def clean_phone(raw):

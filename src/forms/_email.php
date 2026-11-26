@@ -70,6 +70,7 @@ function sdo_html_email(array $o): string {
     . '<b style="color:#ffffff">Lead source: <a href="' . $site . '" style="color:#ffffff">ShelterDayOut.com</a></b>, the free nationwide directory of shelter day-out, field trip and sleepover programs.<br>'
     . implode(' &nbsp;&middot;&nbsp; ', $links) . '<br>'
     . 'A free program of <a href="https://charitygood.org" style="color:#cfd2e0">Charity Good</a>. Sister site: <a href="https://shelteradoption.com" style="color:#cfd2e0">ShelterAdoption.com</a>'
+    . '<br><span style="color:#9aa0b8">Charity Good, 121 South Tejon Street, Suite 900, Colorado Springs, CO 80903</span>'
     . '</td></tr></table></td></tr></table></body></html>';
 }
 

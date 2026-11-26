@@ -62,7 +62,8 @@ foreach ($by as $slug => $reqs) {
         . "Your listing: " . $page . "\n"
         . "Your adoption page: https://shelteradoption.com/shelters/" . $slug . "/\n\n"
         . "ShelterDayOut.com - https://shelterdayout.com\n"
-        . "A free program of Charity Good (charitygood.org). Sister site: ShelterAdoption.com - https://shelteradoption.com\n";
+        . "A free program of Charity Good (charitygood.org). Sister site: ShelterAdoption.com - https://shelteradoption.com\n"
+        . "Charity Good, 121 South Tejon Street, Suite 900, Colorado Springs, CO 80903\n";
     $people = [];
     foreach ($reqs as $i => $r) {
         $people[($i + 1) . '. ' . $r['name']] = implode(' · ', array_filter([$r['email'], $r['phone'] ?? '', $r['kind'] ?? '', $r['when'] ?? '']));
