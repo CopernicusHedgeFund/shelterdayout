@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 400" role="img" aria-labelledby="t">
+<title id="t">A happy dog and cat in front of their new home, with balloons and an Adopted banner</title>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9f2ea"/><stop offset="1" stop-color="#fff7e6"/></linearGradient></defs>
+<rect width="560" height="400" rx="28" fill="url(#sky)"/>
+<!-- sun -->
+<circle cx="470" cy="70" r="34" fill="#ffd166"/>
+<!-- clouds -->
+<g fill="#fff"><ellipse cx="110" cy="62" rx="40" ry="16"/><ellipse cx="138" cy="52" rx="26" ry="17"/><ellipse cx="330" cy="44" rx="30" ry="11"/><ellipse cx="350" cy="37" rx="18" ry="11"/></g>
+<!-- ground -->
+<path d="M0 320 Q150 290 290 312 T560 306 L560 400 L0 400Z" fill="#8fd1b5"/>
+<path d="M0 350 Q170 330 330 352 T560 346 L560 400 L0 400Z" fill="#5fbb93"/>
+<!-- path to door -->
+<path d="M300 400 Q300 360 318 334" stroke="#f3e2c4" stroke-width="26" fill="none" stroke-linecap="round"/>
+<!-- house -->
+<g transform="translate(230 150)">
+ <rect x="20" y="70" width="180" height="120" rx="8" fill="#fff4dd" stroke="#2b2d42" stroke-width="4"/>
+ <path d="M0 80 L110 0 L220 80Z" fill="#e76f51" stroke="#2b2d42" stroke-width="4" stroke-linejoin="round"/>
+ <rect x="150" y="18" width="24" height="40" fill="#c9844a" stroke="#2b2d42" stroke-width="4"/>
+ <!-- heart window -->
+ <path d="M110 58 c-10 -16 -32 -6 -22 12 l22 22 l22 -22 c10 -18 -12 -28 -22 -12z" fill="#ff7a8a" stroke="#2b2d42" stroke-width="3">
+  <animateTransform attributeName="transform" type="scale" values="1;1.06;1" dur="1.4s" additive="sum" repeatCount="indefinite"/></path>
+ <!-- door -->
+ <rect x="86" y="120" width="48" height="70" rx="22" fill="#2a9d8f" stroke="#2b2d42" stroke-width="4"/>
+ <circle cx="124" cy="158" r="4" fill="#ffd166"/>
+ <!-- windows -->
+ <rect x="36" y="104" width="36" height="32" rx="5" fill="#bfe7f0" stroke="#2b2d42" stroke-width="3"/>
+ <rect x="148" y="104" width="36" height="32" rx="5" fill="#bfe7f0" stroke="#2b2d42" stroke-width="3"/>
+ <path d="M54 104 v32 M36 120 h36 M166 104 v32 M148 120 h36" stroke="#2b2d42" stroke-width="2"/>
+</g>
+<!-- banner -->
+<g transform="translate(250 112) rotate(-4)">
+ <path d="M0 0 h170 l-12 18 l12 18 h-170 l12 -18z" fill="#ffd166" stroke="#2b2d42" stroke-width="3"/>
+ <text x="85" y="25" text-anchor="middle" font-family="Fredoka, Arial Rounded MT Bold, sans-serif" font-size="20" font-weight="700" fill="#2b2d42">ADOPTED!</text>
+</g>
+<!-- balloons -->
+<g>
+ <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3s" repeatCount="indefinite"/>
+ <path d="M200 118 q6 60 -4 128" stroke="#2b2d42" stroke-width="1.6" fill="none"/>
+ <path d="M220 104 q-2 70 -24 142" stroke="#2b2d42" stroke-width="1.6" fill="none"/>
+ <ellipse cx="200" cy="92" rx="22" ry="27" fill="#ff7a59"/><path d="M196 118 l4 6 l4 -6z" fill="#ff7a59"/>
+ <ellipse cx="226" cy="78" rx="20" ry="25" fill="#2a9d8f"/><path d="M222 102 l4 6 l4 -6z" fill="#2a9d8f"/>
+ <ellipse cx="194" cy="84" rx="6" ry="9" fill="#fff" opacity=".5"/><ellipse cx="220" cy="70" rx="5" ry="8" fill="#fff" opacity=".5"/>
+</g>
+<!-- DOG -->
+<g transform="translate(60 230)">
+ <path d="M128 44 q30 -26 26 -54" stroke="#c9844a" stroke-width="13" fill="none" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-10 128 44;12 128 44;-10 128 44" dur="0.5s" repeatCount="indefinite"/></path>
+ <ellipse cx="82" cy="62" rx="62" ry="38" fill="#e3a465"/>
+ <ellipse cx="82" cy="74" rx="40" ry="20" fill="#f6d7b0"/>
+ <g fill="#c9844a"><rect x="34" y="86" width="16" height="32" rx="8"/><rect x="60" y="90" width="16" height="30" rx="8"/><rect x="96" y="90" width="16" height="30" rx="8"/><rect x="118" y="86" width="16" height="32" rx="8"/></g>
+ <!-- head -->
+ <g transform="translate(-6 -18)">
+  <ellipse cx="34" cy="40" rx="38" ry="34" fill="#e3a465"/>
+  <path d="M6 20 q-18 6 -14 40 q10 6 20 -8z" fill="#9c5f2e"/><path d="M58 16 q20 4 18 38 q-10 6 -20 -8z" fill="#9c5f2e"/>
+  <ellipse cx="34" cy="54" rx="20" ry="14" fill="#f6d7b0"/>
+  <circle cx="22" cy="36" r="5" fill="#2b2d42"/><circle cx="46" cy="36" r="5" fill="#2b2d42"/>
+  <circle cx="23.5" cy="34.5" r="1.6" fill="#fff"/><circle cx="47.5" cy="34.5" r="1.6" fill="#fff"/>
+  <ellipse cx="34" cy="48" rx="7" ry="5" fill="#2b2d42"/>
+  <path d="M26 58 q8 8 16 0" stroke="#2b2d42" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M30 60 q4 12 8 0z" fill="#ff7a8a"/>
+ </g>
+ <!-- collar heart tag -->
+ <path d="M20 66 q22 12 44 0" stroke="#2a9d8f" stroke-width="7" fill="none" stroke-linecap="round"/>
+ <path d="M42 76 c-4 -6 -12 -2 -8 4 l8 8 l8 -8 c4 -6 -4 -10 -8 -4z" fill="#ffd166" stroke="#2b2d42" stroke-width="1.5"/>
+</g>
+<!-- CAT -->
+<g transform="translate(452 252)">
+ <path d="M44 70 q40 -6 30 -50" stroke="#6c757d" stroke-width="10" fill="none" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0 44 70;14 44 70;0 44 70" dur="1.6s" repeatCount="indefinite"/></path>
+ <ellipse cx="30" cy="70" rx="34" ry="30" fill="#8d99ae"/>
+ <ellipse cx="30" cy="80" rx="18" ry="16" fill="#edf2f4"/>
+ <g transform="translate(0 -8)">
+  <circle cx="30" cy="30" r="26" fill="#8d99ae"/>
+  <path d="M8 18 L6 -6 L24 8z M52 18 L54 -6 L36 8z" fill="#8d99ae"/>
+  <path d="M10 12 L9 0 L19 8z M50 12 L51 0 L41 8z" fill="#ff9fb0"/>
+  <path d="M16 28 q5 -6 10 0 M34 28 q5 -6 10 0" stroke="#2b2d42" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M27 36 l3 3 l3 -3z" fill="#ff7a8a"/>
+  <path d="M30 39 q-4 5 -8 2 M30 39 q4 5 8 2" stroke="#2b2d42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M4 34 h12 M4 40 h12 M44 34 h12 M44 40 h12" stroke="#2b2d42" stroke-width="1.4"/>
+ </g>
+</g>
+<!-- floating hearts -->
+<g fill="#ff7a8a">
+ <path d="M150 210 c-5 -8 -16 -3 -11 6 l11 11 l11 -11 c5 -9 -6 -14 -11 -6z"><animateTransform attributeName="transform" type="translate" values="0 0;-6 -40;0 -80" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" dur="4s" repeatCount="indefinite"/></path>
+ <path d="M500 230 c-4 -6 -12 -2 -8 4 l8 8 l8 -8 c4 -6 -4 -10 -8 -4z"><animateTransform attributeName="transform" type="translate" values="0 0;6 -36;0 -72" dur="3.4s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" dur="3.4s" begin="1s" repeatCount="indefinite"/></path>
+</g>
+<!-- confetti -->
+<g>
+ <rect x="300" y="96" width="8" height="4" fill="#2a9d8f" transform="rotate(30 304 98)"/>
+ <rect x="440" y="140" width="8" height="4" fill="#ff7a59" transform="rotate(-20 444 142)"/>
+ <rect x="180" y="170" width="8" height="4" fill="#ffd166" transform="rotate(50 184 172)"/>
+ <circle cx="420" cy="104" r="3.5" fill="#e76f51"/><circle cx="262" cy="96" r="3" fill="#ffd166"/><circle cx="470" cy="190" r="3" fill="#2a9d8f"/>
+</g>
+</svg>

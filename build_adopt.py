@@ -33,6 +33,18 @@ CSS = sdo.CSS.replace("--accent:#ff7a59;--accent-d:#e55d3c", "--accent:#2a9d8f;-
 .tagp{display:inline-block;background:#e6f6f0;color:#1d6b4f;border-radius:999px;padding:2px 9px;margin:2px 4px 0 0;font-weight:700}
 .tago{background:#fff1e6;color:#9a4f12}
 #res .hide,.slist li.hide{display:none!important}
+
+.adopt-hero{display:grid;grid-template-columns:1.05fr 1fr;gap:24px;align-items:center}
+.adopt-hero img{width:100%;height:auto;display:block}
+@media (max-width:760px){.adopt-hero{grid-template-columns:1fr}.adopt-hero img{max-width:440px;margin:0 auto}}
+.card .ic{width:64px;height:64px;display:block;margin-bottom:6px}
+.card{transition:transform .15s ease, box-shadow .15s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(42,157,143,.15)}
+.paws{display:block;width:100%;max-width:600px;height:34px;margin:22px auto 6px}
+.head-art{display:grid;grid-template-columns:1fr 260px;gap:18px;align-items:center}
+.head-art img{width:100%;height:auto}
+@media (max-width:760px){.head-art{grid-template-columns:1fr}.head-art img{max-width:260px}}
+.guide-ic{width:72px;height:72px;float:right;margin:0 0 8px 14px}
 """
 
 LOGO = sdo.LOGO.replace("#ff7a59", "#2a9d8f")
@@ -202,12 +214,12 @@ def build_home(rows):
         "email": CONTACT, "parentOrganization": {"@type": "NGO", "name": "Charity Good", "url": "https://charitygood.org"}})
     lst = "".join(shelter_li(r) for r in sorted(rows, key=lambda r: (r["state_name"], r["city"], r["org"])))
     n_states = len({r["state"] for r in rows if r["state"] != "DC"})
-    body = f"""<section class="adopt-hero">
+    body = f"""<section class="adopt-hero"><div>
 <h1>Animal shelters near you: <span class="hl">adopt a pet.</span></h1>
 <p class="lede">Find animal shelters, humane societies and SPCAs in every state, see their adoptable dogs, puppies, cats and kittens, and catch upcoming adoption events and fee-waived days.</p>
 <p class="tagline">The nationwide shelter adoption directory, updated monthly.</p>
 <p style="margin-top:14px"><a class="btn" href="#find">Find a shelter</a> <a class="btn alt" href="/events/">Adoption events</a></p>
-</section>
+</div><img src="/assets/art/hero.svg" alt="A happy dog and cat in front of their new home, with balloons and an Adopted banner" width="560" height="400"></section>
 <div class="stats">
 <div><b>{len(rows):,}</b><span>shelters listed</span></div>
 <div><b>{len(evs):,}</b><span>upcoming adoption events</span></div>
@@ -220,14 +232,16 @@ def build_home(rows):
 <ul class="slist" id="res">{lst}</ul>
 </section>
 {f'<h2>Upcoming adoption events</h2><ul class="evlist">{ev_prev}</ul><p><a href="/events/">See all {len(evs):,} adoption events</a></p>' if evs else ""}
+<img class="paws" src="/assets/art/paws.svg" alt="" width="600" height="40">
 <h2>Browse shelters by state</h2>
 <div class="states">{state_links}</div>
+<img class="paws" src="/assets/art/paws.svg" alt="" width="600" height="40">
 <h2>Before you adopt</h2>
 <div class="grid3">
-<div class="card"><h3><a href="/how-to-adopt-a-dog/">How to adopt a dog</a></h3>What shelters ask for, how meet-and-greets work, and the first week home.</div>
-<div class="card"><h3><a href="/how-to-adopt-a-cat/">How to adopt a cat</a></h3>Picking the right cat, bonded pairs, and settling in.</div>
-<div class="card"><h3><a href="/adoption-checklist/">Adoption checklist</a></h3>What to bring to the shelter and what to have ready at home.</div>
-<div class="card"><h3><a href="{SDO}/" rel="noopener">Take a dog out first</a></h3>Many shelters let you borrow a dog for a day or a sleepover. ShelterDayOut lists them.</div>
+<div class="card"><img class="ic" src="/assets/art/puppy.svg" alt="" width="64" height="64"><h3><a href="/how-to-adopt-a-dog/">How to adopt a dog</a></h3>What shelters ask for, how meet-and-greets work, and the first week home.</div>
+<div class="card"><img class="ic" src="/assets/art/kitten.svg" alt="" width="64" height="64"><h3><a href="/how-to-adopt-a-cat/">How to adopt a cat</a></h3>Picking the right cat, bonded pairs, and settling in.</div>
+<div class="card"><img class="ic" src="/assets/art/checklist.svg" alt="" width="64" height="64"><h3><a href="/adoption-checklist/">Adoption checklist</a></h3>What to bring to the shelter and what to have ready at home.</div>
+<div class="card"><img class="ic" src="/assets/art/home.svg" alt="" width="64" height="64"><h3><a href="{SDO}/" rel="noopener">Take a dog out first</a></h3>Many shelters let you borrow a dog for a day or a sleepover. ShelterDayOut lists them.</div>
 </div>
 <h2>Questions people ask</h2>
 {faq_html}
@@ -266,6 +280,7 @@ def build_states(rows):
 <h2>Shelters</h2>
 {('<ul class="slist">' + "".join(shelter_li(r, False) for r in lst) + "</ul>") if lst else f'<p>We don\'t have shelters listed in {name} yet. <a href="{SDO}/suggest/">Suggest one</a>.</p>'}
 {f'<p class="animal" style="margin-top:14px">{len(progs)} of these shelters let you take a dog out for the day before adopting. <a href="{SDO}/states/{slugify(name)}/" rel="noopener">See dog day out programs in {name}</a>.</p>' if progs else ""}
+<img class="paws" src="/assets/art/paws.svg" alt="" width="600" height="40">
 <h2>Questions about adopting in {name}</h2>
 {sfaq_html}
 <p class="citylinks"><a href="/puppy-adoption/#{s}">Puppy adoption in {name}</a> <a href="/kitten-adoption/#{s}">Kitten adoption in {name}</a> <a href="/humane-society-near-me/#{s}">Humane societies in {name}</a> <a href="/animal-control-near-me/#{s}">Animal control in {name}</a></p>
@@ -330,8 +345,8 @@ def build_events(rows):
 document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!v||li.dataset.state===v)?'':'none';});});})();</script>"""
     ld = "".join(f'<script type="application/ld+json">{json.dumps(event_ld(r, e))}</script>' for _, r, e in allev[:300])
     body = f"""<div class="crumbs"><a href="/">Home</a> / Adoption events</div>
-<h1>Pet and dog adoption events near you</h1>
-<p class="lede">{len(allev):,} upcoming adoption days, open houses and fee-waived events at shelters nationwide. Dates come from each shelter's own website; confirm with the shelter before you go.</p>
+<div class="head-art"><div><h1>Pet and dog adoption events near you</h1>
+<p class="lede">{len(allev):,} upcoming adoption days, open houses and fee-waived events at shelters nationwide. Dates come from each shelter's own website; confirm with the shelter before you go.</p></div><img src="/assets/art/events.svg" alt="A calendar with a paw print and a party hat" width="420" height="240"></div>
 {f'<p><label class="animal" for="evst">Show state: </label><select id="evst"><option value="">All states</option>{opts}</select></p>' if allev else ""}
 {groups or '<p>No upcoming events listed right now. Check back soon: we update monthly.</p>'}
 {js if allev else ""}"""
@@ -410,12 +425,13 @@ GUIDES = {
 
 def build_guides():
     for path, (title, desc, h1, html_) in GUIDES.items():
-        body = f'<div class="crumbs"><a href="/">Home</a> / {esc(h1)}</div><h1>{esc(h1)}</h1><div class="prose">{html_.replace("SDO/", SDO + "/")}</div><p><a class="btn" href="/#find">Find a shelter near you</a></p>'
+        ic = {"/how-to-adopt-a-dog/": "puppy", "/how-to-adopt-a-cat/": "kitten", "/adoption-checklist/": "checklist", "/adoption-fees/": "home"}.get(path, "home")
+        body = f'<div class="crumbs"><a href="/">Home</a> / {esc(h1)}</div><img class="guide-ic" src="/assets/art/{ic}.svg" alt="" width="72" height="72"><h1>{esc(h1)}</h1><div class="prose">{html_.replace("SDO/", SDO + "/")}</div><p><a class="btn" href="/#find">Find a shelter near you</a></p>'
         write(path, page(f"{title} | {BRAND}", desc, body, path, crumbs_ld([("Home", "/"), (h1, path)])))
 
 
 KEYWORD_PAGES = {
-    "/puppy-adoption/": dict(
+    "/puppy-adoption/": dict(icon="puppy",
         title="Puppy Adoption Near Me: Shelters With Puppies in Every State",
         desc="Adopt a puppy from a shelter near you. {n:,} animal shelters, humane societies and SPCAs that adopt out puppies, in every state, plus puppy adoption events.",
         h1="Puppy adoption near you", match=lambda r: "Dogs" in (r.get("animals") or "Dogs"),
@@ -423,7 +439,7 @@ KEYWORD_PAGES = {
         faqs=[("Where can I adopt a puppy near me?", "From city and county animal shelters, humane societies and SPCAs. Pick your state below; every shelter links to its own adoptable dogs page, where puppies are listed."),
               ("Is it cheaper to adopt a puppy from a shelter?", "Usually. Shelter fees for puppies are often higher than for adult dogs, but they include spay or neuter, vaccines and a microchip, which cost far more separately."),
               ("How do I get a puppy before someone else does?", "Check the shelter's site daily, apply early (many shelters let you apply before you visit), and watch for adoption events.")]),
-    "/kitten-adoption/": dict(
+    "/kitten-adoption/": dict(icon="kitten",
         title="Kitten Adoption Near Me: Shelters With Kittens in Every State",
         desc="Adopt a kitten from a shelter near you. {n:,} animal shelters, humane societies and SPCAs that adopt out kittens and cats, in every state.",
         h1="Kitten adoption near you", match=lambda r: "Cats" in (r.get("animals") or "Cats"),
@@ -447,7 +463,7 @@ KEYWORD_PAGES = {
         faqs=[("Can you adopt from animal control?", "Yes, most city and county animal services shelters adopt out dogs and cats. Each one below links to its own site."),
               ("What does animal control do?", "Animal control picks up strays, investigates bites and cruelty reports, enforces local pet laws and runs the public shelter in many areas."),
               ("My pet is lost. Where should I look?", "Check your county or city animal shelter first, in person if you can, plus nearby humane societies. Shelters keep strays only a few days before they can be adopted out.")]),
-    "/rescue-dogs-near-me/": dict(
+    "/rescue-dogs-near-me/": dict(icon="puppy",
         title="Rescue Dogs Near Me: Adopt a Rescue Dog From a Shelter",
         desc="Adopt a rescue dog near you. {n:,} shelters, humane societies and rescues with adoption centers in every state, plus dog adoption events.",
         h1="Rescue dogs near you", match=lambda r: "Dogs" in (r.get("animals") or "Dogs"),
@@ -470,7 +486,7 @@ def build_keyword_pages(rows):
         jump = " ".join(f'<a href="#{s}">{STATES[s]}</a>' for s in sorted(by, key=lambda k_: STATES[k_]))
         faq_html, faq_ld = faq_block(k["faqs"])
         body = f"""<div class="crumbs"><a href="/">Home</a> / {esc(k['h1'])}</div>
-<h1>{esc(k['h1'])}</h1>
+<img class="guide-ic" src="/assets/art/{k.get('icon', 'home')}.svg" alt="" width="72" height="72"><h1>{esc(k['h1'])}</h1>
 <div class="prose"><p class="lede">{esc(k['intro'])}</p></div>
 <p class="animal">{len(lst):,} shelters in {len(by)} states and DC. Jump to a state: </p><p class="citylinks">{jump}</p>
 <h2>Questions people ask</h2>
@@ -503,6 +519,9 @@ def build_assets():
         shutil.copy(og, DIST / "assets" / "og.png")
     shutil.copytree(ROOT / "src" / "api", DIST / "api", dirs_exist_ok=True)
     sdo.write_places(DIST)
+    (DIST / "assets" / "art").mkdir(parents=True, exist_ok=True)
+    for f in (ROOT / "src" / "art_adopt").glob("*.svg"):
+        shutil.copy(f, DIST / "assets" / "art" / f.name)
     (DIST / "favicon.svg").write_text(LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
     (DIST / ".htaccess").write_text(

@@ -140,3 +140,15 @@ footer.site .logo{color:#fff;margin-bottom:10px}
 .tagp{display:inline-block;background:#e6f6f0;color:#1d6b4f;border-radius:999px;padding:2px 9px;margin:2px 4px 0 0;font-weight:700}
 .tago{background:#fff1e6;color:#9a4f12}
 #res .hide,.slist li.hide{display:none!important}
+
+.adopt-hero{display:grid;grid-template-columns:1.05fr 1fr;gap:24px;align-items:center}
+.adopt-hero img{width:100%;height:auto;display:block}
+@media (max-width:760px){.adopt-hero{grid-template-columns:1fr}.adopt-hero img{max-width:440px;margin:0 auto}}
+.card .ic{width:64px;height:64px;display:block;margin-bottom:6px}
+.card{transition:transform .15s ease, box-shadow .15s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(42,157,143,.15)}
+.paws{display:block;width:100%;max-width:600px;height:34px;margin:22px auto 6px}
+.head-art{display:grid;grid-template-columns:1fr 260px;gap:18px;align-items:center}
+.head-art img{width:100%;height:auto}
+@media (max-width:760px){.head-art{grid-template-columns:1fr}.head-art img{max-width:260px}}
+.guide-ic{width:72px;height:72px;float:right;margin:0 0 8px 14px}
