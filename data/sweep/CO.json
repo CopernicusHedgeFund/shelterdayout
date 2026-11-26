@@ -57,7 +57,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-303-288-3294",
+  "phone": "(303) 288-3294",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/5430393216"
  },
@@ -108,7 +108,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@boulderhumane.org",
-  "phone": "+1-303-442-4030",
+  "phone": "(303) 442-4030",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/195605995"
  },
@@ -125,7 +125,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@humanecolorado.org",
-  "phone": "+1-303-751-5772",
+  "phone": "(303) 751-5772",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/222906109"
  },
@@ -142,7 +142,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-303-432-2299",
+  "phone": "(303) 432-2299",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/258707701"
  },
@@ -176,7 +176,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-970-226-3647",
+  "phone": "(970) 226-3647",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/293257636",
   "events": [
@@ -331,7 +331,7 @@
   "email_program": "",
   "email_main": "info@humanecolorado.org",
   "source_list": "shelter website",
-  "phone": "303-751-5772"
+  "phone": "(303) 751-5772"
  },
  {
   "state": "CO",
@@ -343,11 +343,11 @@
   "notes": "",
   "animals": "Cats",
   "url": "http://www.catcaresociety.org/",
-  "checked": "",
+  "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "303-239-9680"
+  "phone": "(303) 239-9680"
  },
  {
   "state": "CO",
@@ -359,11 +359,11 @@
   "notes": "",
   "animals": "Dogs and cats",
   "url": "http://www.imhs.org/",
-  "checked": "",
+  "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "303-838-2668"
+  "phone": "(303) 838-2668"
  },
  {
   "state": "CO",
@@ -375,11 +375,11 @@
   "notes": "",
   "animals": "Dogs and cats",
   "url": "https://charliesplaceshelter.weebly.com/",
-  "checked": "",
+  "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "303-679-2477"
+  "phone": "(303) 679-2477"
  },
  {
   "state": "CO",
@@ -391,11 +391,11 @@
   "notes": "",
   "animals": "Dogs and cats",
   "url": "https://fremonthumane.com/",
-  "checked": "",
+  "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "719-275-0663"
+  "phone": "(719) 275-0663"
  },
  {
   "state": "CO",
@@ -407,11 +407,11 @@
   "notes": "",
   "animals": "Dogs and cats",
   "url": "https://savinganimalstoday.org/",
-  "checked": "",
+  "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "970-484-8516"
+  "phone": "(970) 484-8516"
  },
  {
   "state": "CO",
@@ -423,11 +423,11 @@
   "notes": "",
   "animals": "Dogs and cats",
   "url": "https://savinganimalstoday.org/",
-  "checked": "",
+  "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "970-484-8516"
+  "phone": "(970) 484-8516"
  },
  {
   "state": "CO",
@@ -769,6 +769,118 @@
   "notes": "",
   "animals": "Dogs and cats",
   "url": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Sterling",
+  "org": "Logan County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://loganhumane.org/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Alamosa",
+  "org": "Humane Colorado San Luis Valley Animal Center",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://humanecolorado.org/locations/san-luis-valley-animal-center/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Trinidad",
+  "org": "Trinidad Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.trinidad.co.gov/community/trinidad_animal_shelter.php",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Trinidad",
+  "org": "Noah's Ark Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.noahsarktrinidad.org/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Lamar",
+  "org": "Lamar Animal Shelter (City of Lamar)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://ci.lamar.co.us/lamar-animal-shelter",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Grand Junction",
+  "org": "Grand Rivers Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://grandrivershumane.com/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Yuma",
+  "org": "City of Yuma Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cityofyuma.colorado.gov/animal-shelter",
+  "phone": "",
+  "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",

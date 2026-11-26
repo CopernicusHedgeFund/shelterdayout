@@ -161,6 +161,7 @@ https://shelteradoption.com/cities/georgetown-tx/
 https://shelteradoption.com/cities/gloucester-va/
 https://shelteradoption.com/cities/goleta-ca/
 https://shelteradoption.com/cities/gonzales-tx/
+https://shelteradoption.com/cities/grand-junction-co/
 https://shelteradoption.com/cities/grand-rapids-mi/
 https://shelteradoption.com/cities/granite-city-il/
 https://shelteradoption.com/cities/grants-pass-or/
@@ -387,6 +388,7 @@ https://shelteradoption.com/cities/thousand-palms-ca/
 https://shelteradoption.com/cities/tiffin-oh/
 https://shelteradoption.com/cities/toledo-oh/
 https://shelteradoption.com/cities/traverse-city-mi/
+https://shelteradoption.com/cities/trinidad-co/
 https://shelteradoption.com/cities/troy-al/
 https://shelteradoption.com/cities/truth-or-consequences-nm/
 https://shelteradoption.com/cities/tucson-az/
@@ -1138,6 +1140,7 @@ https://shelteradoption.com/shelters/city-of-winnemucca-humboldt-county-animal-c
 https://shelteradoption.com/shelters/city-of-winnfield-animal-shelter-winnfield/
 https://shelteradoption.com/shelters/city-of-wolfforth-animal-control-wolfforth-kennel-wolfforth/
 https://shelteradoption.com/shelters/city-of-yukon-animal-control-and-facility-yukon/
+https://shelteradoption.com/shelters/city-of-yuma-animal-shelter-yuma/
 https://shelteradoption.com/shelters/clackamas-county-dog-services-clackamas/
 https://shelteradoption.com/shelters/claiborne-animal-shelter-new-tazewell/
 https://shelteradoption.com/shelters/clair-s-kennel-upper-st-clair-animal-control-pittsburgh/
@@ -1596,6 +1599,7 @@ https://shelteradoption.com/shelters/gordon-county-animal-control-calhoun/
 https://shelteradoption.com/shelters/gracie-s-project-amarillo/
 https://shelteradoption.com/shelters/graham-county-animal-control-safford/
 https://shelteradoption.com/shelters/grand-county-animal-shelter-granby/
+https://shelteradoption.com/shelters/grand-rivers-humane-society-grand-junction/
 https://shelteradoption.com/shelters/grand-strand-humane-society-myrtle-beach/
 https://shelteradoption.com/shelters/grand-traverse-county-animal-control-traverse-city/
 https://shelteradoption.com/shelters/granite-city-animal-control-and-adoption-granite-city/
@@ -1831,6 +1835,7 @@ https://shelteradoption.com/shelters/humane-animal-treatment-society-hats-mt-ple
 https://shelteradoption.com/shelters/humane-animal-welfare-society-of-waukesha-county-haws-waukesha/
 https://shelteradoption.com/shelters/humane-colorado-buddy-center-formerly-dumb-friends-league-castle-rock/
 https://shelteradoption.com/shelters/humane-colorado-leslie-a-malone-center-formerly-dumb-friends-league-denver/
+https://shelteradoption.com/shelters/humane-colorado-san-luis-valley-animal-center-alamosa/
 https://shelteradoption.com/shelters/humane-educational-society-chattanooga/
 https://shelteradoption.com/shelters/humane-fort-wayne-fort-wayne/
 https://shelteradoption.com/shelters/humane-indiana-munster/
@@ -2220,6 +2225,7 @@ https://shelteradoption.com/shelters/lakeshore-paws-valparaiso/
 https://shelteradoption.com/shelters/lakeville-animal-shelter-lakeville/
 https://shelteradoption.com/shelters/lakewood-animal-shelter-lakewood/
 https://shelteradoption.com/shelters/lamar-animal-shelter-city-of-lamar-lamar/
+https://shelteradoption.com/shelters/lamar-animal-shelter-city-of-lamar-lamar-2/
 https://shelteradoption.com/shelters/lamar-county-animal-services-barnesville/
 https://shelteradoption.com/shelters/lanai-cat-sanctuary-lana-i-city/
 https://shelteradoption.com/shelters/lancaster-animal-shelter-lancaster/
@@ -2318,6 +2324,7 @@ https://shelteradoption.com/shelters/logan-county-animal-control-lincoln/
 https://shelteradoption.com/shelters/logan-county-animal-shelter-dog-warden-bellefontaine/
 https://shelteradoption.com/shelters/logan-county-animal-shelter-russellville/
 https://shelteradoption.com/shelters/logan-county-humane-society-russellville/
+https://shelteradoption.com/shelters/logan-county-humane-society-sterling/
 https://shelteradoption.com/shelters/lollypop-farm-humane-society-of-greater-rochester-fairport/
 https://shelteradoption.com/shelters/long-beach-animal-care-services-long-beach/
 https://shelteradoption.com/shelters/longmont-humane-society-longmont/
@@ -2646,6 +2653,7 @@ https://shelteradoption.com/shelters/nj-humane-society-west-new-york/
 https://shelteradoption.com/shelters/noah-project-muskegon/
 https://shelteradoption.com/shelters/noah-s-ark-animal-sanctuary-rockford/
 https://shelteradoption.com/shelters/noah-s-ark-animal-shelter-carlsbad/
+https://shelteradoption.com/shelters/noah-s-ark-animal-shelter-trinidad/
 https://shelteradoption.com/shelters/noah-s-ark-s-p-c-a-noah-s-ark-animal-shelter-gainesville/
 https://shelteradoption.com/shelters/noble-animal-shelter-noble/
 https://shelteradoption.com/shelters/noco-humane-greeley-adoption-campus-greeley/
@@ -3584,6 +3592,7 @@ https://shelteradoption.com/shelters/tri-county-humane-society-saint-cloud/
 https://shelteradoption.com/shelters/tri-lakes-humane-society-reeds-spring/
 https://shelteradoption.com/shelters/tri-lakes-humane-society-saranac-lake/
 https://shelteradoption.com/shelters/tri-town-animal-shelter-north-providence/
+https://shelteradoption.com/shelters/trinidad-animal-shelter-trinidad/
 https://shelteradoption.com/shelters/trinity-acres-rescue-eaton-rapids/
 https://shelteradoption.com/shelters/trinity-county-animal-shelter-weaverville/
 https://shelteradoption.com/shelters/troy-animal-rescue-project-troy/

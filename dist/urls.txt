@@ -1166,6 +1166,7 @@ https://shelterdayout.com/listings/city-of-winnemucca-humboldt-county-animal-cen
 https://shelterdayout.com/listings/city-of-winnfield-animal-shelter-winnfield/
 https://shelterdayout.com/listings/city-of-wolfforth-animal-control-wolfforth-kennel-wolfforth/
 https://shelterdayout.com/listings/city-of-yukon-animal-control-and-facility-yukon/
+https://shelterdayout.com/listings/city-of-yuma-animal-shelter-yuma/
 https://shelterdayout.com/listings/clackamas-county-dog-services-clackamas/
 https://shelterdayout.com/listings/claiborne-animal-shelter-new-tazewell/
 https://shelterdayout.com/listings/clair-s-kennel-upper-st-clair-animal-control-pittsburgh/
@@ -1624,6 +1625,7 @@ https://shelterdayout.com/listings/gordon-county-animal-control-calhoun/
 https://shelterdayout.com/listings/gracie-s-project-amarillo/
 https://shelterdayout.com/listings/graham-county-animal-control-safford/
 https://shelterdayout.com/listings/grand-county-animal-shelter-granby/
+https://shelterdayout.com/listings/grand-rivers-humane-society-grand-junction/
 https://shelterdayout.com/listings/grand-strand-humane-society-myrtle-beach/
 https://shelterdayout.com/listings/grand-traverse-county-animal-control-traverse-city/
 https://shelterdayout.com/listings/granite-city-animal-control-and-adoption-granite-city/
@@ -1859,6 +1861,7 @@ https://shelterdayout.com/listings/humane-animal-treatment-society-hats-mt-pleas
 https://shelterdayout.com/listings/humane-animal-welfare-society-of-waukesha-county-haws-waukesha/
 https://shelterdayout.com/listings/humane-colorado-buddy-center-formerly-dumb-friends-league-castle-rock/
 https://shelterdayout.com/listings/humane-colorado-leslie-a-malone-center-formerly-dumb-friends-league-denver/
+https://shelterdayout.com/listings/humane-colorado-san-luis-valley-animal-center-alamosa/
 https://shelterdayout.com/listings/humane-educational-society-chattanooga/
 https://shelterdayout.com/listings/humane-fort-wayne-fort-wayne/
 https://shelterdayout.com/listings/humane-indiana-munster/
@@ -2248,6 +2251,7 @@ https://shelterdayout.com/listings/lakeshore-paws-valparaiso/
 https://shelterdayout.com/listings/lakeville-animal-shelter-lakeville/
 https://shelterdayout.com/listings/lakewood-animal-shelter-lakewood/
 https://shelterdayout.com/listings/lamar-animal-shelter-city-of-lamar-lamar/
+https://shelterdayout.com/listings/lamar-animal-shelter-city-of-lamar-lamar-2/
 https://shelterdayout.com/listings/lamar-county-animal-services-barnesville/
 https://shelterdayout.com/listings/lanai-cat-sanctuary-lana-i-city/
 https://shelterdayout.com/listings/lancaster-animal-shelter-lancaster/
@@ -2346,6 +2350,7 @@ https://shelterdayout.com/listings/logan-county-animal-control-lincoln/
 https://shelterdayout.com/listings/logan-county-animal-shelter-dog-warden-bellefontaine/
 https://shelterdayout.com/listings/logan-county-animal-shelter-russellville/
 https://shelterdayout.com/listings/logan-county-humane-society-russellville/
+https://shelterdayout.com/listings/logan-county-humane-society-sterling/
 https://shelterdayout.com/listings/lollypop-farm-humane-society-of-greater-rochester-fairport/
 https://shelterdayout.com/listings/long-beach-animal-care-services-long-beach/
 https://shelterdayout.com/listings/longmont-humane-society-longmont/
@@ -2674,6 +2679,7 @@ https://shelterdayout.com/listings/nj-humane-society-west-new-york/
 https://shelterdayout.com/listings/noah-project-muskegon/
 https://shelterdayout.com/listings/noah-s-ark-animal-sanctuary-rockford/
 https://shelterdayout.com/listings/noah-s-ark-animal-shelter-carlsbad/
+https://shelterdayout.com/listings/noah-s-ark-animal-shelter-trinidad/
 https://shelterdayout.com/listings/noah-s-ark-s-p-c-a-noah-s-ark-animal-shelter-gainesville/
 https://shelterdayout.com/listings/noble-animal-shelter-noble/
 https://shelterdayout.com/listings/noco-humane-greeley-adoption-campus-greeley/
@@ -3612,6 +3618,7 @@ https://shelterdayout.com/listings/tri-county-humane-society-saint-cloud/
 https://shelterdayout.com/listings/tri-lakes-humane-society-reeds-spring/
 https://shelterdayout.com/listings/tri-lakes-humane-society-saranac-lake/
 https://shelterdayout.com/listings/tri-town-animal-shelter-north-providence/
+https://shelterdayout.com/listings/trinidad-animal-shelter-trinidad/
 https://shelterdayout.com/listings/trinity-acres-rescue-eaton-rapids/
 https://shelterdayout.com/listings/trinity-county-animal-shelter-weaverville/
 https://shelterdayout.com/listings/troy-animal-rescue-project-troy/
