@@ -208,6 +208,7 @@ https://shelterdayout.com/cities/glendale-az/
 https://shelterdayout.com/cities/glendale-ny/
 https://shelterdayout.com/cities/grand-junction-co/
 https://shelterdayout.com/cities/grand-rapids-mi/
+https://shelterdayout.com/cities/granville-oh/
 https://shelterdayout.com/cities/green-bay-wi/
 https://shelterdayout.com/cities/green-cove-springs-fl/
 https://shelterdayout.com/cities/greenfield-in/
@@ -893,6 +894,7 @@ https://shelterdayout.com/listings/attleboro-animal-shelter-friends-of-the-attle
 https://shelterdayout.com/listings/auburn-valley-humane-society-auburn/
 https://shelterdayout.com/listings/audrain-humane-society-mexico/
 https://shelterdayout.com/listings/auglaize-county-dog-warden-wapakoneta/
+https://shelterdayout.com/listings/auglaize-county-humane-society-wapakoneta/
 https://shelterdayout.com/listings/augusta-animal-services-augusta/
 https://shelterdayout.com/listings/augusta-regional-spca-staunton/
 https://shelterdayout.com/listings/aurora-adopt-a-pet-aurora/
@@ -3463,6 +3465,7 @@ https://shelterdayout.com/listings/paws-and-claws-pet-shelter-madison-county-hun
 https://shelterdayout.com/listings/paws-and-more-animal-shelter-washington-county-humane-society-washington/
 https://shelterdayout.com/listings/paws-and-whiskers-cat-shelter-toledo/
 https://shelterdayout.com/listings/paws-animal-rescue-pierre/
+https://shelterdayout.com/listings/paws-animal-shelter-champaign-county-humane-association-urbana/
 https://shelterdayout.com/listings/paws-animal-shelter-teton-valley-driggs/
 https://shelterdayout.com/listings/paws-atlanta-decatur/
 https://shelterdayout.com/listings/paws-brave-hearts-calais/
@@ -4560,6 +4563,7 @@ https://shelterdayout.com/listings/wexford-county-animal-shelter-cadillac/
 https://shelterdayout.com/listings/whatcom-humane-society-bellingham/
 https://shelterdayout.com/listings/whis-purr-rescue-redwood-city/
 https://shelterdayout.com/listings/whiskers-and-tails-peculiar/
+https://shelterdayout.com/listings/whiskers-animal-rescue-catnip-cottage-granville/
 https://shelterdayout.com/listings/white-county-animal-control-cleveland/
 https://shelterdayout.com/listings/white-county-animal-shelter-sparta/
 https://shelterdayout.com/listings/white-oak-animal-safe-haven-white-oak/
