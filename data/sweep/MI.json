@@ -93,7 +93,33 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.cbsnews.com/detroit/news/detroit-animal-care-and-control-day-trip-for-dogs",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-03",
+    "title": "Furry Thursday: evening adoption hours, 10:30am-7pm",
+    "url": "https://www.friendsofdacc.org/events/furry-thursday-dec2026",
+    "place": "Detroit Animal Care and Control, 1431 East Ferry St, Detroit"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Dog adoption event at Troy PetSmart, 12-3pm",
+    "url": "https://www.friendsofdacc.org/events/dog-adoption-event-at-chesterfield-petsmart-oct2026-f4x37-43mwy",
+    "place": "PetSmart Troy, 734 E Big Beaver Rd"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Dog adoption event at Chesterfield PetSmart, 12-3pm",
+    "url": "https://www.friendsofdacc.org/events/chesterfield-dec2026",
+    "place": "PetSmart Chesterfield, 51347 Gratiot Ave, New Baltimore"
+   },
+   {
+    "date": "2027-01-16",
+    "title": "Dog adoption event at Troy PetSmart, 12-3pm",
+    "url": "https://www.friendsofdacc.org/events/dog-adoption-event-at-chesterfield-petsmart-oct2026-f4x37-43mwy-ecmbw",
+    "place": "PetSmart Troy, 734 E Big Beaver Rd"
+   }
+  ]
  },
  {
   "state": "MI",
@@ -370,12 +396,12 @@
   "state": "MI",
   "city": "Pontiac",
   "org": "Michigan Animal Rescue League",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://marl.org/",
-  "notes": "Found on Adopt-a-Pet; own site not verified.",
+  "program": "Enrichment outings and sleepovers",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Community outings, overnight sleepovers",
+  "url": "https://marl.org/programs/enrichment/",
+  "notes": "MARL's enrichment program lists taking dogs on outings in the community or home for overnight sleepovers; the page does not say who can take part, so ask the shelter (248-335-9290).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -462,10 +488,22 @@
   "source_list": "shelter website",
   "events": [
    {
+    "date": "2026-11-27",
+    "title": "Black Friday adoption special: free cat bed with adoption of a cat with black in its fur, 12-5pm",
+    "url": "https://friendsofcompanionanimals.org/",
+    "place": "FOCA Shelter, 2532 N. Dixie Hwy, Monroe"
+   },
+   {
     "date": "2026-12-12",
     "title": "9th Annual Home For the Holidays adoption event (Santa photos, raffles, bake sale)",
     "url": "https://friendsofcompanionanimals.org/",
     "place": "FOCA Shelter, 2532 N Dixie Hwy, Monroe, MI"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "9th Annual Home for the Holidays adoption event with Santa photos, 12-5pm",
+    "url": "https://friendsofcompanionanimals.org/",
+    "place": "FOCA Shelter, 2532 N. Dixie Hwy, Monroe"
    }
   ],
   "phone": "(734) 224-0700"
@@ -568,6 +606,12 @@
     "title": "Home for the Pawlidays Adoption Event (50% off adoption fees)",
     "url": "https://lenhumanesoc.org/home-for-the-pawlidays/",
     "place": "Lenawee Humane Society, 705 W Beecher St, Adrian, MI"
+   },
+   {
+    "date": "2026-11-27",
+    "title": "Home for the Pawlidays adoption event: 50% off adoption fees on all pets (until funds run out)",
+    "url": "https://lenhumanesoc.org/home-for-the-pawlidays/",
+    "place": "Lenawee Humane Society, 705 W. Beecher St., Adrian"
    }
   ],
   "phone": "(517) 263-3463"
@@ -1379,17 +1423,37 @@
   "state": "MI",
   "city": "South Haven",
   "org": "Al-Van Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Furry Getaway",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "http://www.al-van.org/",
-  "notes": "Adoption & Community Education Center on Blue Star Hwy, South Haven.",
+  "offers": "Weekend foster",
+  "url": "https://www.al-van.org/foster",
+  "notes": "Foster a shelter pet for a mini-vacation, usually 2-3 days over a weekend; apply through the foster application on Al-Van's foster page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source": "https://www.southhaven.org/directory/al-van-humane-society",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Meet & Greet with adoptable pets at Chow Hound",
+    "url": "https://www.al-van.org/events-1/meet-greet-chow-hound-2026-11-28-11-00",
+    "place": "Chow Hound Pet Supplies, Holland"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Meet & Greet with adoptable pets at Tractor Supply",
+    "url": "https://www.al-van.org/events-1/meet-greet-tractor-supply-2026-12-12-12-00",
+    "place": "Tractor Supply, South Haven"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Santa Paws Workshop: Holiday Open House",
+    "url": "https://www.al-van.org/events-1/santa-paws-workshop-holiday-open-house",
+    "place": "Al-Van Adoption & Community Center, 07591 Blue Star Hwy, South Haven"
+   }
+  ]
  },
  {
   "state": "MI",
@@ -2240,6 +2304,12 @@
     "title": "Holiday Open House",
     "url": "https://ltbhs.org/upcomingevents/holiday-open-house-1",
     "place": "LTBHS, 1300 W. Conway Rd, Harbor Springs"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Holiday Open House: free adoptions (fees waived), Santa photos, 12-5pm",
+    "url": "https://ltbhs.org/upcomingevents/holiday-open-house-1",
+    "place": "Little Traverse Bay Humane Society, 1300 West Conway Rd, Harbor Springs"
    }
   ],
   "phone": "(231) 347-2396"

@@ -404,6 +404,7 @@ https://shelterdayout.com/cities/pittsburgh-pa/
 https://shelterdayout.com/cities/pomona-ca/
 https://shelterdayout.com/cities/ponderay-id/
 https://shelterdayout.com/cities/pontiac-il/
+https://shelterdayout.com/cities/pontiac-mi/
 https://shelterdayout.com/cities/port-angeles-wa/
 https://shelterdayout.com/cities/port-st-joe-fl/
 https://shelterdayout.com/cities/port-st-lucie-fl/
@@ -479,6 +480,7 @@ https://shelterdayout.com/cities/sioux-falls-sd/
 https://shelterdayout.com/cities/slinger-wi/
 https://shelterdayout.com/cities/south-burlington-vt/
 https://shelterdayout.com/cities/south-elgin-il/
+https://shelterdayout.com/cities/south-haven-mi/
 https://shelterdayout.com/cities/spokane-valley-wa/
 https://shelterdayout.com/cities/sprakers-ny/
 https://shelterdayout.com/cities/spruce-pine-nc/
