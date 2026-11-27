@@ -346,6 +346,7 @@ https://shelteradoption.com/cities/owosso-mi/
 https://shelteradoption.com/cities/ozark-al/
 https://shelteradoption.com/cities/pahrump-nv/
 https://shelteradoption.com/cities/palatine-il/
+https://shelteradoption.com/cities/palm-city-fl/
 https://shelteradoption.com/cities/panama-city-fl/
 https://shelteradoption.com/cities/paragould-ar/
 https://shelteradoption.com/cities/pensacola-fl/
@@ -444,6 +445,7 @@ https://shelteradoption.com/cities/sudbury-ma/
 https://shelteradoption.com/cities/sumter-sc/
 https://shelteradoption.com/cities/syracuse-ny/
 https://shelteradoption.com/cities/tahlequah-ok/
+https://shelteradoption.com/cities/tallahassee-fl/
 https://shelteradoption.com/cities/tampa-fl/
 https://shelteradoption.com/cities/thousand-oaks-ca/
 https://shelteradoption.com/cities/thousand-palms-ca/
@@ -1116,6 +1118,7 @@ https://shelteradoption.com/shelters/care-of-dc-compassionate-animal-rescue-effo
 https://shelteradoption.com/shelters/care-southcoast-acushnet/
 https://shelteradoption.com/shelters/care-stl-st-louis/
 https://shelteradoption.com/shelters/cares-clarksdale-animal-rescue-effort-and-shelter-clarksdale/
+https://shelteradoption.com/shelters/caring-fields-felines-palm-city/
 https://shelteradoption.com/shelters/caring-for-cats-north-saint-paul/
 https://shelteradoption.com/shelters/caring-hands-humane-society-newton/
 https://shelteradoption.com/shelters/caring-paws-rescue-storm-lake/
@@ -2138,7 +2141,6 @@ https://shelteradoption.com/shelters/holbrook-animal-shelter-holbrook/
 https://shelteradoption.com/shelters/holland-cat-cove-holland/
 https://shelteradoption.com/shelters/hollister-animal-shelter-hollister-police-animal-care-and-services-hollister/
 https://shelteradoption.com/shelters/holly-lake-dog-shelter-hawkins/
-https://shelteradoption.com/shelters/holmes-county-animal-control-bonifay/
 https://shelteradoption.com/shelters/holmes-county-dog-warden-millersburg/
 https://shelteradoption.com/shelters/holt-county-animal-shelter-o-neill/
 https://shelteradoption.com/shelters/homeless-animal-rescue-team-hart-of-maine-cumberland/
@@ -2695,6 +2697,7 @@ https://shelteradoption.com/shelters/lemhi-county-humane-society-salmon-animal-s
 https://shelteradoption.com/shelters/lenawee-humane-society-adrian/
 https://shelteradoption.com/shelters/lenoir-county-spca-kinston/
 https://shelteradoption.com/shelters/leominster-fitchburg-animal-control-leominster/
+https://shelteradoption.com/shelters/leon-county-humane-society-tallahassee/
 https://shelteradoption.com/shelters/leslie-county-animal-shelter-hyden/
 https://shelteradoption.com/shelters/lester-c-howick-animal-shelter-of-washington-county-fayetteville/
 https://shelteradoption.com/shelters/let-these-animals-live-williamsburg/

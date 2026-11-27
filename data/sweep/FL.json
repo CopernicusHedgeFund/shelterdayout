@@ -2611,28 +2611,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://gadsdencountyfl.gov/departments/animal-control-services",
-  "phone": "",
+  "phone": "(850) 875-8658",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "FL",
-  "city": "Bonifay",
-  "org": "Holmes County Animal Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://holmescountyfla.com/animal-control",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2658,13 +2643,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.hardeecountyfl.gov/residents/phone-directory/",
-  "phone": "",
+  "url": "https://www.hardeecountyfl.gov/departments/animal-control",
+  "phone": "(863) 773-2320",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2675,12 +2661,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.columbiacountyfla.com/AnimalEnforcement.aspx",
-  "phone": "",
+  "phone": "(386) 758-3352",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2691,12 +2678,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.charlottecountyfl.gov/departments/public-safety/animal-control/",
-  "phone": "",
+  "phone": "(941) 833-5690",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "animal.control@charlottecountyfl.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2761,5 +2749,39 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "FL",
+  "city": "Tallahassee",
+  "org": "Leon County Humane Society",
+  "program": "Tally Cat Cafe cat lounge",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "url": "https://www.leoncountyhumane.org/tally-cat-cafe/",
+  "notes": "Nonprofit at 413 Timberlane Road, Tallahassee, that houses adoptable cats and kittens on site (dogs are foster-based; adoptions by appointment) and places 12-18 adoptable cats in the Tally Cat Cafe Cat Lounge.",
+  "checked": "November 2026",
+  "phone": "(850) 224-9193",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "FL",
+  "city": "Palm City",
+  "org": "Caring Fields Felines",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.cffelines.org/",
+  "notes": "Cat sanctuary at 6807 SW Wedelia Terrace, Palm City, where cats live in free-roaming campgrounds; adoption hours 11am-3pm Monday-Saturday.",
+  "checked": "November 2026",
+  "phone": "(772) 463-7386",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
