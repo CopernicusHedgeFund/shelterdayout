@@ -39,12 +39,14 @@
    {
     "date": "2026-11-28",
     "title": "Half Price Adoptions Every Weekend (recurring weekends)",
-    "url": "https://www.petcirclewaco.org/Events"
+    "url": "https://www.petcirclewaco.org/Events",
+    "place": "Pet Circle Regional Animal Center, 2032 Circle Road, Waco 76706"
    },
    {
     "date": "2026-12-04",
     "title": "First Friday FREE Adoptions",
-    "url": "https://www.petcirclewaco.org/Events"
+    "url": "https://www.petcirclewaco.org/Events",
+    "place": "Pet Circle Regional Animal Center, 2032 Circle Road, Waco 76706"
    },
    {
     "date": "2026-12-12",
@@ -167,13 +169,14 @@
   "status": "Volunteers only",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.cor.net/departments/animal-services/volunteer-opportunities",
-  "notes": "Volunteer program (play, socialize, walk, photograph shelter dogs). Volunteers 16+ (under 18 with a registered-volunteer parent present); 15 hours of general shelter volunteering required first. Apply via Friends of Rescue Animals. Shelter: 1330 Columbia Dr, 972-744-4480.",
+  "url": "https://www.cor.net/departments/animal-services/volunteer-opportunities/doggy-day-out-program",
+  "notes": "Volunteers take adoptable shelter dogs out into the community for exposure to adopters; must be 18+ with a valid driver's license, apply as a volunteer through Friends of Rescue Animals, complete 10 hours of general shelter volunteering, then submit the Doggy Day Out form (16-17 year olds only with a supervising parent/guardian).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "",
-  "phone": "(972) 744-4480"
+  "phone": "(972) 744-4480",
+  "events": []
  },
  {
   "state": "TX",
@@ -187,8 +190,9 @@
   "notes": "Volunteers with the Rowlett Animal Shelter take dogs on walks, to stores and restaurants, or home for a night or two. 18+; orientation and training required.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": ""
+  "email_main": "info@frastx.org",
+  "source_list": "",
+  "events": []
  },
  {
   "state": "TX",
@@ -215,12 +219,13 @@
   "animals": "Dogs",
   "offers": "Day trip, overnight",
   "url": "https://www.victoriacountytx.gov/page/animal.control.Doggy%20day%20out",
-  "notes": "Open after a brief orientation; outings can include an overnight at home. 361-575-4558.",
+  "notes": "Members of the public take shelter dogs on outings (hikes, beach or lake trips, pet-friendly restaurants, or a sleepover at home) after only a brief orientation, with no minimum number of outings.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "",
-  "phone": ""
+  "phone": "(361) 578-3564",
+  "events": []
  },
  {
   "state": "TX",
@@ -310,11 +315,13 @@
   "animals": "Dogs",
   "offers": "Day trip (3-4 hours or full day)",
   "url": "https://www.sa.gov/Directory/Departments/ACS/Help/Volunteer",
-  "notes": "Shelter Paws lets you take a shelter dog out for a few hours or the day (park walk, hike, puppuccino, movie at home). Must be 18+, with photo ID, a reliable personal vehicle, and be comfortable with dogs 35 lb+; apply and pick a date via the online Jotform, then check in on WaitWhile on arrival. No meeting other pets or off-leash areas.",
+  "notes": "Shelter Paws lets you take a shelter dog out for a few hours or the day (park walk, hike or run, puppuccino, movie at home); must be 18+ with photo ID, a reliable vehicle and be dog friendly, and you sign up through the online Shelter Paws Jotform.",
   "checked": "November 2026",
   "email_program": "acsFoster@sanantonio.gov",
   "email_main": "",
-  "source_list": ""
+  "source_list": "",
+  "phone": "(210) 207-6000",
+  "events": []
  },
  {
   "state": "TX",
@@ -346,9 +353,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ac@seabrooktx.gov",
-  "phone": "(281) 291-5610",
+  "phone": "(281) 291-5644",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/3930767088"
+  "osm": "node/3930767088",
+  "events": []
  },
  {
   "state": "TX",
@@ -515,10 +523,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animals@weatherfordtx.gov",
   "phone": "(817) 598-4111",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12482304553"
+  "osm": "node/12482304553",
+  "events": []
  },
  {
   "state": "TX",
@@ -855,9 +864,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@schertz.com",
-  "phone": "",
+  "phone": "(210) 619-1550",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/489429119"
+  "osm": "way/489429119",
+  "events": []
  },
  {
   "state": "TX",
@@ -939,18 +949,19 @@
   "state": "TX",
   "city": "Royse City",
   "org": "Royse City Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Weekend & Holiday Fostering",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "",
+  "offers": "Weekend fostering, holiday fostering",
+  "url": "https://www.roysecity.com/160/Animal-Services",
+  "notes": "The shelter's Fosters page offers weekend fostering and holiday fostering, with staff setting the dates for the animal you pick and fosters asked to share photos and updates.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "animalcontrol@roysecity.com",
+  "phone": "(972) 524-4709",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/616129985"
+  "osm": "way/616129985",
+  "events": []
  },
  {
   "state": "TX",
@@ -960,14 +971,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.plano.gov/226/Animal-Services",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/640730256"
+  "osm": "way/640730256",
+  "events": []
  },
  {
   "state": "TX",
@@ -999,9 +1011,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(972) 288-7711",
+  "phone": "(972) 216-6283",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/661277992"
+  "osm": "way/661277992",
+  "events": []
  },
  {
   "state": "TX",
@@ -1045,14 +1058,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://townofsunnyvale.org/Directory/Home/DepartmentListing?DID=13",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "sunnyvaleaco@sunnyvaletx.gov",
+  "phone": "(214) 862-4525",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/701483248"
+  "osm": "way/701483248",
+  "events": []
  },
  {
   "state": "TX",
@@ -1130,14 +1144,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.cityofsachse.com/90/Animal-Services",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-214-675-9662",
+  "phone": "(972) 675-9662",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/713078397"
+  "osm": "way/713078397",
+  "events": []
  },
  {
   "state": "TX",
@@ -1266,14 +1281,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://murphytx.org/174/Animal-Control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(972) 468-4226",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/876018068"
+  "osm": "way/876018068",
+  "events": []
  },
  {
   "state": "TX",
@@ -1697,7 +1713,16 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(210) 226-7461"
+  "phone": "(210) 226-7461",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Empty the Shelters (reduced fees: adult cats $65, adult dogs $55)",
+    "url": "https://sahumane.org/event/empty-the-shelters-5/2026-12-01/",
+    "place": "San Antonio Humane Society, 4804 Fredericksburg Rd, San Antonio, TX 78229"
+   }
+  ]
  },
  {
   "state": "TX",
@@ -1713,7 +1738,15 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(210) 655-1481"
+  "phone": "(210) 655-1481",
+  "events": [
+   {
+    "date": "2026-12-18",
+    "title": "Petco Adoption Event",
+    "url": "https://adltexas.org/",
+    "place": "Petco (store location not shown on listing)"
+   }
+  ]
  },
  {
   "state": "TX",
@@ -1761,7 +1794,8 @@
   "email_program": "",
   "email_main": "ashelter@templetx.gov",
   "source_list": "shelter website",
-  "phone": "(254) 298-5732"
+  "phone": "(254) 298-5732",
+  "events": []
  },
  {
   "state": "TX",
@@ -1934,7 +1968,8 @@
   "email_program": "",
   "email_main": "animalservices@sugarlandtx.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "TX",
@@ -1995,7 +2030,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(940) 761-8894"
+  "phone": "(940) 761-8894",
+  "events": []
  },
  {
   "state": "TX",
@@ -2043,7 +2079,8 @@
   "email_program": "",
   "email_main": "animalcontrol@snydertx.gov",
   "source_list": "shelter website",
-  "phone": "(325) 573-3969"
+  "phone": "(325) 573-3969",
+  "events": []
  },
  {
   "state": "TX",
@@ -2090,7 +2127,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(409) 883-1056"
+  "phone": "(409) 883-1056",
+  "events": []
  },
  {
   "state": "TX",
@@ -2106,7 +2144,8 @@
   "email_program": "",
   "email_main": "shelter@smith-county.com",
   "source_list": "shelter website",
-  "phone": "(903) 266-4303"
+  "phone": "(903) 266-4303",
+  "events": []
  },
  {
   "state": "TX",
@@ -2138,7 +2177,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(903) 737-4199"
+  "phone": "(903) 737-4199",
+  "events": []
  },
  {
   "state": "TX",
@@ -2186,7 +2226,8 @@
   "email_program": "",
   "email_main": "aco@mpcity.org",
   "source_list": "shelter website",
-  "phone": "(903) 575-4000"
+  "phone": "(903) 575-4174",
+  "events": []
  },
  {
   "state": "TX",
@@ -2250,7 +2291,8 @@
   "email_program": "njordan@midlandtexas.gov",
   "email_main": "animalservices@midlandtexas.gov",
   "source_list": "shelter website",
-  "phone": "(432) 685-7420"
+  "phone": "(432) 685-7420",
+  "events": []
  },
  {
   "state": "TX",
@@ -2464,7 +2506,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(832) 595-3490"
+  "phone": "(832) 595-3490",
+  "events": []
  },
  {
   "state": "TX",
@@ -2475,12 +2518,13 @@
   "animals": "Dogs",
   "offers": "Day trip (up to 3 hours), holiday overnight",
   "url": "https://www.mansfieldtexas.gov/2210/Doggy-Day-Out",
-  "notes": "Doggy Day Out: walk in during open hours with a valid ID, fill out a short registration and sign the Doggy Day Out agreement, then take a shelter dog out for up to 3 hours; dogs checked out after 1pm must be back by 4pm. Doggy Night Out is a short-term home foster over holiday and long-weekend closures for approved community members. Shelter at 1200 E. Broad St.; 817-276-4200.",
+  "notes": "Doggy Day Out: come in during open hours with ID, fill out a short registration and sign the agreement, then take a shelter dog out for up to 3 hours (dogs checked out after 1pm must be back by 4pm); Doggy Night Out is an approved short-term foster over holiday and long-weekend closures, with dogs back by 10:30am the next business day.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(817) 276-4200",
+  "events": []
  },
  {
   "state": "TX",
@@ -2544,7 +2588,8 @@
   "email_program": "AServices@WataugaTX.org",
   "email_main": "AServices@WataugaTX.org",
   "source_list": "shelter website",
-  "phone": "(817) 656-9614"
+  "phone": "(817) 656-9614",
+  "events": []
  },
  {
   "state": "TX",
@@ -2575,7 +2620,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TX",
@@ -2712,7 +2758,7 @@
   "animals": "Dogs",
   "offers": "Short stay at home",
   "url": "https://sanantoniopetsalive.org/adopt/",
-  "notes": "Adoption center at 4710 Highway 151, Building One, San Antonio, TX 78227 (per Petfinder listing); main site could not be fetched to check programs.",
+  "notes": "Only the adoption page could be checked: adopters must be 18+, spend 30 minutes with the animal, apply and meet a counselor. Staycation was not mentioned there, and the rest of the site (foster/programs) could not be fetched, so the program is not confirmed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -2839,12 +2885,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.gchshumane.com/",
-  "notes": "Shelter at 2484 State Hwy 46 N, Seguin, TX 78156; adoption applications completed at the facility; (830) 372-2055.",
+  "notes": "Shelter at 2484 N. State Highway 46, Seguin, TX 78155; open Tue-Sat 10am-3pm; (830) 372-2055. Site lists no day-out program and no public email.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(830) 372-2055"
+  "phone": "(830) 372-2055",
+  "events": []
  },
  {
   "state": "TX",
@@ -2965,7 +3012,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://spcaeasttx.com/",
-  "notes": "Adoption office 3245 W. Grande Blvd, Tyler; 903-596-7722; visits by appointment. Holds Adoption Saturdays.",
+  "notes": "Adoption office 3245 W. Grande Blvd, Tyler; (903) 596-7722; visits by appointment only; meet & greets Tue-Sat after application approval. Holds Adoption Saturdays.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "spca@spcaeasttx.com",
@@ -2975,13 +3022,13 @@
     "date": "2026-12-05",
     "title": "Adoption Saturday",
     "url": "https://spcaeasttx.com/",
-    "place": "SPCA of East Texas, Tyler"
+    "place": "SPCA of East Texas Adoption Center, 3245 W. Grande Blvd, Tyler"
    },
    {
     "date": "2026-12-19",
     "title": "Adoption Saturday",
     "url": "https://spcaeasttx.com/",
-    "place": "SPCA of East Texas, Tyler"
+    "place": "SPCA of East Texas Adoption Center, 3245 W. Grande Blvd, Tyler"
    }
   ],
   "phone": "(903) 596-7722"
@@ -2995,7 +3042,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://petsfurpeople.org/",
-  "notes": "The Humane Society's Pets Fur People shelter, 1823 County Road 386, Tyler; (903) 597-2471. KTRE (May 2026) reported a planned 'Borrow a Buddy' outing program, but the shelter's own site does not describe one yet - recheck.",
+  "notes": "The Humane Society's Pets Fur People shelter, 1823 County Road 386, Tyler; (903) 597-2471. KTRE (May 2026) reported a planned 'Borrow a Buddy' outing program, but as of Nov 2026 the shelter's home, volunteer and events pages still do not describe one - recheck.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -3004,7 +3051,7 @@
    {
     "date": "2027-01-16",
     "title": "Adoption Event (10am-2pm)",
-    "url": "https://petsfurpeople.org/events-2",
+    "url": "https://petsfurpeople.org/events/",
     "place": "PetSmart, Tyler"
    }
   ],
@@ -3019,12 +3066,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.portarthurtx.gov/151/Animal-Control",
-  "notes": "New $7M Animal Services Center at 3615 Gates Blvd opened April 2026 (grand opening Apr 17). Adoptions Mon-Fri 8:30am-5pm; 409-983-8785. Fees $30 (over 6 months), $10 (under 6 months).",
+  "notes": "New Animal Services Center at 3615 Gates Blvd opened April 2026. Adoptions Mon-Fri 9am-4:30pm; (409) 983-8785. Fees $30 (over 6 months), $15 (under 6 months); spay/neuter required. Rescue Express occasionally brings animals for adoption.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(409) 983-8785"
+  "phone": "(409) 983-8785",
+  "events": []
  },
  {
   "state": "TX",
@@ -3120,7 +3168,8 @@
   "email_program": "",
   "email_main": "AnimalControl@CityOfVidor.Gov",
   "source_list": "shelter website",
-  "phone": "(409) 769-8718"
+  "phone": "(409) 769-8718",
+  "events": []
  },
  {
   "state": "TX",
@@ -3896,16 +3945,17 @@
   "city": "McKinney",
   "org": "Collin County Animal Services",
   "program": "Doggie Day Out",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
   "offers": "Day trip",
   "url": "https://www.collincountytx.gov/services/animal-services",
-  "notes": "County shelter at 4750 Community Ave. Shelters animals for unincorporated Collin County, Anna, Melissa, Celina, Princeton, Prosper, Farmersville, Lucas and others, plus McKinney and Frisco strays. Page links a 'volunteer for Doggie Day Out' application form (apps.collincountytx.gov/Forms/DogDayOutApp-Prod); no details on requirements published. Visitation Tue-Fri 11-5:30, Sat-Sun 11-4:30.",
+  "notes": "County shelter page invites people to 'volunteer for Doggie Day Out' via an online application (apps.collincountytx.gov/Forms/DogDayOutApp-Prod); no further details on how outings work are published.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@collincountytx.gov",
   "source_list": "government page",
-  "phone": "(972) 547-7292"
+  "phone": "(972) 547-7292",
+  "events": []
  },
  {
   "state": "TX",
@@ -3952,7 +4002,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(956) 580-8741"
+  "phone": "(956) 580-8741",
+  "events": []
  },
  {
   "state": "TX",
@@ -3967,7 +4018,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page; Petfinder TX2866"
+  "source_list": "government page; Petfinder TX2866",
+  "events": []
  },
  {
   "state": "TX",
@@ -3982,7 +4034,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page; PAWS listing on Petfinder/Adopt-a-Pet"
+  "source_list": "government page; PAWS listing on Petfinder/Adopt-a-Pet",
+  "phone": "(806) 669-5775",
+  "events": []
  },
  {
   "state": "TX",
@@ -3996,9 +4050,10 @@
   "notes": "2335 Moore St, Pecos; phone 432-445-4911. Lists animal adoption; received 2026 Best Friends transport grant. Updates on Facebook (Pecos Animal Shelter).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@pecostx.gov",
   "source_list": "city page",
-  "phone": "(432) 445-4911"
+  "phone": "(432) 445-4911",
+  "events": []
  },
  {
   "state": "TX",
@@ -4014,7 +4069,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "government page",
-  "phone": "(806) 296-1100"
+  "phone": "(806) 296-1100",
+  "events": []
  },
  {
   "state": "TX",
@@ -4030,7 +4086,8 @@
   "email_program": "",
   "email_main": "pets@seagoville.us",
   "source_list": "government page",
-  "phone": "(972) 287-6838"
+  "phone": "(972) 287-6838",
+  "events": []
  },
  {
   "state": "TX",
@@ -4045,7 +4102,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page (fee schedule); Adopt-a-Pet"
+  "source_list": "government page (fee schedule); Adopt-a-Pet",
+  "events": []
  },
  {
   "state": "TX",
@@ -4061,7 +4119,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "government page; Adopt-a-Pet listing",
-  "phone": "(806) 828-2020"
+  "phone": "(806) 828-2020 ext. 2",
+  "events": []
  },
  {
   "state": "TX",
@@ -4075,8 +4134,10 @@
   "notes": "501(c)(3) shelter at 728 Elm St., Waller; open daily 8-11am and 4-6pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "cityofwalleranimalshelter@yahoo.com",
+  "source_list": "shelter website",
+  "phone": "(346) 254-7824",
+  "events": []
  },
  {
   "state": "TX",
@@ -4091,7 +4152,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcare@weslacotx.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(956) 973-4003",
+  "events": []
  },
  {
   "state": "TX",
@@ -4107,7 +4170,8 @@
   "email_program": "",
   "email_main": "animalcontrol@wstx.us",
   "source_list": "government page",
-  "phone": "(817) 246-1043"
+  "phone": "(817) 246-1043",
+  "events": []
  },
  {
   "state": "TX",
@@ -4123,7 +4187,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "government page",
-  "phone": "(806) 855-4120"
+  "phone": "(806) 855-4120",
+  "events": []
  },
  {
   "state": "TX",
@@ -4213,12 +4278,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cityofrgc.com/public_safety/animal_control/found___adoptable_pets.php",
-  "phone": "",
+  "phone": "(956) 317-1573",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4377,24 +4443,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "TX",
-  "city": "Port Lavaca",
-  "org": "Port Lavaca Animal Control Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.portlavaca.gov/359/Adoptions-and-Rescue-Partners",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
+  "email_main": "cchs@tisd.net",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TX",
@@ -4405,12 +4456,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://erathcountyhumanesociety.weebly.com/",
-  "phone": "",
+  "phone": "(254) 965-3247",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TX",
@@ -4469,12 +4521,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://barcuvalde.com/",
-  "phone": "",
+  "phone": "(830) 591-9229",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "barcuvalde@gmail.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TX",
@@ -4501,12 +4554,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://pharr-tx.gov/government/departments/public-health/animal-care-services/",
-  "phone": "",
+  "phone": "(956) 402-4213",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4517,12 +4571,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cameroncountytx.gov/publichealth/environmental-health/animal-shelter/",
-  "phone": "",
+  "phone": "(956) 361-8206",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4549,12 +4604,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.ci.nederland.tx.us/departments/animal_control/index.php",
-  "phone": "",
+  "phone": "(409) 722-4965",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4565,28 +4621,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.ci.port-neches.tx.us/community/services/animal_control/index.php",
-  "phone": "",
+  "phone": "(409) 960-5719",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
- },
- {
-  "state": "TX",
-  "city": "Robinson",
-  "org": "Robinson Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.robinsontexas.org/326/Animal-Shelter",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4606,35 +4647,20 @@
  },
  {
   "state": "TX",
-  "city": "Santa Fe",
-  "org": "Santa Fe Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.santafetx.gov/1223/Animal-Services",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
- },
- {
-  "state": "TX",
-  "city": "Tomball",
+  "city": "Magnolia",
   "org": "Abandoned Animal Rescue",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.aartexas.org/adopt/adopt-a-dog/",
-  "phone": "",
+  "url": "https://www.aartexas.org/",
+  "phone": "(281) 789-4142",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@aartexas.org",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TX",
@@ -4645,12 +4671,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://navasotatx.gov/departments/animal_services/dog___cat_adoptions.php",
-  "phone": "",
+  "phone": "(936) 825-6410",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
+  "email_main": "aco@navasotatx.gov",
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4740,13 +4767,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.pleasantontx.gov/news_detail_T17_R195.php",
-  "phone": "",
+  "url": "https://www.pleasantontx.gov/departments/animal_control/index.php",
+  "phone": "(830) 217-9480",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
+  "email_main": "animalcontrol@pleasantontx.gov",
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4773,12 +4801,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cityofrobstown.com/city-hall/quality-control/animal-control-care/",
-  "phone": "",
+  "phone": "(361) 387-4589",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4789,12 +4818,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://myportisabel.com/154/Animal-Services",
-  "phone": "",
+  "phone": "(956) 943-3888",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
+  "email_main": "animalshelter@copitx.com",
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4830,22 +4860,6 @@
  },
  {
   "state": "TX",
-  "city": "Stafford",
-  "org": "Stafford Animal Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://staffordtx.gov/297/Animal-Control",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
- },
- {
-  "state": "TX",
   "city": "Monahans",
   "org": "Monahans Animal Control",
   "program": "No day-out program yet",
@@ -4853,12 +4867,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityofmonahans.org/220/Animal-Control",
-  "phone": "",
+  "phone": "(432) 943-3254",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4869,12 +4884,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cityofseminoletx.org/services/animal-control/",
-  "phone": "",
+  "phone": "(432) 245-6190",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4917,12 +4933,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://rockdaletx.gov/112/Animal-Control",
-  "phone": "",
+  "phone": "(512) 446-3436",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page"
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -4933,12 +4950,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.shinertexas.gov/animal-services",
-  "phone": "",
+  "phone": "(361) 401-9439",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "government page"
+  "email_main": "animalcontrol@shinertexas.gov",
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "TX",
@@ -5220,7 +5238,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.rockporttx.gov/833/Animal-Control",
+  "url": "https://www.aransascounty.org/animalcontrol/",
   "phone": "",
   "notes": "",
   "checked": "November 2026",
@@ -5243,5 +5261,175 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "TX",
+  "city": "Midland",
+  "org": "Lone Star Sanctuary for Animals",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.lonestarsanctuary.org/",
+  "notes": "Dog and cat adoption facility at 4200 N Fairgrounds Rd, Midland; volunteer page lists no day-out program, and the events page shows no upcoming events.",
+  "checked": "November 2026",
+  "phone": "(432) 683-7387",
+  "email_program": "",
+  "email_main": "lonestarsanctuary@yahoo.com",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "Victoria",
+  "org": "Dorothy H. O'Connor Pet Adoption Center (DOCPAC)",
+  "program": "Dog day trips",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trip outings with a shelter dog (park visit, hike, pup cup)",
+  "url": "https://docpac.net/get-involved/volunteer/",
+  "notes": "Registered DOCPAC volunteers can take a shelter dog on a day trip such as a park visit, hike or pup-cup outing.",
+  "checked": "November 2026",
+  "phone": "(361) 575-8573",
+  "email_program": "volunteers@docpac.net",
+  "email_main": "petadoptions@docpac.net",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "Palestine",
+  "org": "BARC, Anderson County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://barctx.org/",
+  "notes": "Shelter at 335 Armory Rd, open daily 12-5 pm for walk-in adoptions; volunteers can walk dogs and cuddle cats.",
+  "checked": "November 2026",
+  "phone": "(903) 729-8074",
+  "email_program": "",
+  "email_main": "achs75801@yahoo.com",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "Portland",
+  "org": "Portland Animal Care Services",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.portlandtx.com/146/Animal-Care-Services",
+  "notes": "City shelter at 1109 Moore Ave with weekday adoption hours 12-4 pm; city general email listed.",
+  "checked": "November 2026",
+  "phone": "(361) 777-4444",
+  "email_program": "",
+  "email_main": "info@portlandtx.gov",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "San Angelo",
+  "org": "Concho Valley PAWS (Humane Society of Tom Green County)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.cvpaws.org/",
+  "notes": "Hirschfeld Adoption Center and Stephens Dog Dorms next to the San Angelo Animal Shelter; open Tue-Fri 12-6, Sat 11-4.",
+  "checked": "November 2026",
+  "phone": "(325) 656-7387",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "Plano",
+  "org": "Second Chance SPCA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://secondchancespca.org/",
+  "notes": "Nonprofit shelter at 1700 J Avenue housing dogs and cats; open Tue-Fri 1-6, Sat-Sun 12-4.",
+  "checked": "November 2026",
+  "phone": "(972) 424-0077",
+  "email_program": "",
+  "email_main": "info@secondchancespca.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "Sinton",
+  "org": "Sinton Animal Services",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.sintontexas.org/2162/Animal-Services",
+  "notes": "City shelter at 9186 Business 77 N that rehomes stray and impounded animals; open Mon-Fri 7 am-4 pm.",
+  "checked": "November 2026",
+  "phone": "(361) 364-2381",
+  "email_program": "",
+  "email_main": "sintonac@sintontexas.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "San Saba",
+  "org": "San Saba County Friends of Animals",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://sansabaanimals.com/",
+  "notes": "Nonprofit shelter at 1655 E. Highway 190 with dog, cat and barn-cat adoptions plus foster program.",
+  "checked": "November 2026",
+  "phone": "(325) 372-7387",
+  "email_program": "",
+  "email_main": "info@sansabaanimals.com",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "Quinlan",
+  "org": "Texas Best Choices Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.tbcanimalrescue.com/",
+  "notes": "22-acre rescue facility caring for 100+ dogs; visits by appointment.",
+  "checked": "November 2026",
+  "phone": "(214) 535-5230",
+  "email_program": "",
+  "email_main": "tbcanimalrescue@yahoo.com",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "TX",
+  "city": "Rio Bravo",
+  "org": "Rio Bravo Animal Shelter (City of Rio Bravo Adopt A Pet Program)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://rbanimalcontrol.wixsite.com/riobravoadoptapet",
+  "notes": "City animal shelter with free adoptions; contact via City Hall at 1701 Centeno Ln.",
+  "checked": "November 2026",
+  "phone": "(956) 790-9500",
+  "email_program": "",
+  "email_main": "rdeanda@cityofriobravo.org",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
