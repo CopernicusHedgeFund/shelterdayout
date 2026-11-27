@@ -302,6 +302,7 @@ https://shelterdayout.com/cities/los-angeles-ca/
 https://shelterdayout.com/cities/louisville-ky/
 https://shelterdayout.com/cities/lovingston-va/
 https://shelterdayout.com/cities/lowell-ma/
+https://shelterdayout.com/cities/loxahatchee-groves-fl/
 https://shelterdayout.com/cities/lubbock-tx/
 https://shelterdayout.com/cities/lufkin-tx/
 https://shelterdayout.com/cities/lynchburg-va/
@@ -2814,6 +2815,7 @@ https://shelterdayout.com/listings/lee-county-animal-shelter-bishopville/
 https://shelterdayout.com/listings/lee-county-animal-shelter-leesburg/
 https://shelterdayout.com/listings/lee-county-domestic-animal-services-fort-myers/
 https://shelterdayout.com/listings/lee-s-summit-animal-shelter-lee-s-summit/
+https://shelterdayout.com/listings/leesburg-humane-society-leesburg/
 https://shelterdayout.com/listings/leflore-county-humane-society-greenwood/
 https://shelterdayout.com/listings/lehigh-valley-humane-society-allentown/
 https://shelterdayout.com/listings/lehman-animal-shelter-giddings-giddings/
