@@ -1,5 +1,8 @@
 # Round 5: final national deep sweep (instructions for one cloud run)
 
+
+**Stay in the foreground until the job is finished.** Do every step yourself in this one session. Never start background work: no Agent/Task tool, no subagents, no `run_in_background` commands, no Monitor, no sleeping until later. Do not end your reply (and so the session) until your whole scope is checked, saved and pushed. If you end early, everything still running is killed and nothing is saved. If the scope is too big, save and push every ~25 entries and keep going.
+
 Also used by the QUARTERLY full sweeps (March, June, September, December). If your trigger message says "quarterly", follow
 everything below the same way, but write "quarterly" instead of "round 5" in commit messages, set "checked" to the current
 month and year, and add events through the end of the second month after the current one.

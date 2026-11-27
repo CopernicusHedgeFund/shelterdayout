@@ -1,5 +1,8 @@
 # Round 6: discovery sweep (instructions for one cloud run)
 
+
+**Stay in the foreground until the job is finished.** Do every step yourself in this one session. Never start background work: no Agent/Task tool, no subagents, no `run_in_background` commands, no Monitor, no sleeping until later. Do not end your reply (and so the session) until your whole scope is checked, saved and pushed. If you end early, everything still running is killed and nothing is saved. If the scope is too big, save and push every ~25 entries and keep going.
+
 Round 5 already opened every listed shelter's site (each has "checked": "November 2026"). Round 6 hunts for what is
 still MISSING: shelters we don't list, day-out programs we marked "No day-out program yet", and upcoming adoption events.
 Follow every rule, data permission and save step in tools/sweep_round5.md, with these changes:
