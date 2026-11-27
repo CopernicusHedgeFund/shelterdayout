@@ -1453,5 +1453,20 @@
   "lon": null,
   "src": "https://www.fourpawsah.com/contact-us.shtml",
   "checked": "November 2026"
+ },
+ {
+  "state": "GA",
+  "name": "SurgiPet",
+  "city": "Buford",
+  "street": "4977 Lanier Islands Pkwy, Suite 104",
+  "zip": "30518",
+  "phone": "(470) 780-2121",
+  "website": "https://surgipet.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://surgipet.org/",
+  "checked": "November 2026"
  }
 ]

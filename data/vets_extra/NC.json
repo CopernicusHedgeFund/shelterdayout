@@ -958,5 +958,20 @@
   "lon": null,
   "src": "https://www.poplaranimal.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "NC",
+  "name": "Fix a Friend Spay Neuter Clinic",
+  "city": "Winnabow",
+  "street": "6033 Ocean Hwy E",
+  "zip": "28479",
+  "phone": "(910) 253-8161",
+  "website": "https://fixafriendclinic.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://fixafriendclinic.org/",
+  "checked": "November 2026"
  }
 ]
