@@ -1297,6 +1297,7 @@ https://shelteradoption.com/shelters/city-of-port-arthur-animal-services-center-
 https://shelteradoption.com/shelters/city-of-portageville-animal-services-portageville/
 https://shelteradoption.com/shelters/city-of-portales-animal-shelter-portales/
 https://shelteradoption.com/shelters/city-of-prichard-animal-shelter-prichard/
+https://shelteradoption.com/shelters/city-of-prosser-animal-control-prosser/
 https://shelteradoption.com/shelters/city-of-purcell-animal-shelter-purcell/
 https://shelteradoption.com/shelters/city-of-rexburg-animal-shelter-rexburg/
 https://shelteradoption.com/shelters/city-of-rocky-mount-animal-services-rocky-mount/
@@ -1850,6 +1851,7 @@ https://shelteradoption.com/shelters/grand-county-animal-shelter-granby/
 https://shelteradoption.com/shelters/grand-rivers-humane-society-grand-junction/
 https://shelteradoption.com/shelters/grand-strand-humane-society-myrtle-beach/
 https://shelteradoption.com/shelters/grand-traverse-county-animal-control-traverse-city/
+https://shelteradoption.com/shelters/grandview-animal-control-grandview-police-department-grandview/
 https://shelteradoption.com/shelters/granite-city-animal-control-and-adoption-granite-city/
 https://shelteradoption.com/shelters/granite-city-apa-association-for-the-protection-of-animals-granite-city/
 https://shelteradoption.com/shelters/granny-rose-animal-shelter-dixon/
@@ -3895,6 +3897,7 @@ https://shelteradoption.com/shelters/sumter-spca-sumter/
 https://shelteradoption.com/shelters/sun-cities-4-paws-rescue-peoria/
 https://shelteradoption.com/shelters/suncoast-animal-league-palm-harbor/
 https://shelteradoption.com/shelters/suncoast-humane-society-englewood/
+https://shelteradoption.com/shelters/sunnyside-animal-control-sunnyside-police-department-sunnyside/
 https://shelteradoption.com/shelters/sunnyvale-animal-shelter-sunnyvale/
 https://shelteradoption.com/shelters/super-heroes-humane-society-super-heroes-in-ripped-jeans-inc-oneonta/
 https://shelteradoption.com/shelters/surfcat-cafe-and-adoptions-oxnard/

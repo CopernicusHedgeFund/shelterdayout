@@ -1196,5 +1196,53 @@
   "email_program": "",
   "email_main": "mountainempirevet@yahoo.com",
   "source_list": "shelter website"
+ },
+ {
+  "state": "WA",
+  "city": "Sunnyside",
+  "org": "Sunnyside Animal Control (Sunnyside Police Department)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.sunnyside-wa.gov/212/Animal-Control",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "WA",
+  "city": "Grandview",
+  "org": "Grandview Animal Control (Grandview Police Department)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://grandview.wa.us/departments/police-department/animal-control/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "WA",
+  "city": "Prosser",
+  "org": "City of Prosser Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.cityofprosser.com/168/Animal-Control-Code-Enforcement",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]

@@ -1305,6 +1305,7 @@ https://shelterdayout.com/listings/city-of-port-arthur-animal-services-center-po
 https://shelterdayout.com/listings/city-of-portageville-animal-services-portageville/
 https://shelterdayout.com/listings/city-of-portales-animal-shelter-portales/
 https://shelterdayout.com/listings/city-of-prichard-animal-shelter-prichard/
+https://shelterdayout.com/listings/city-of-prosser-animal-control-prosser/
 https://shelterdayout.com/listings/city-of-purcell-animal-shelter-purcell/
 https://shelterdayout.com/listings/city-of-rexburg-animal-shelter-rexburg/
 https://shelterdayout.com/listings/city-of-rocky-mount-animal-services-rocky-mount/
@@ -1858,6 +1859,7 @@ https://shelterdayout.com/listings/grand-county-animal-shelter-granby/
 https://shelterdayout.com/listings/grand-rivers-humane-society-grand-junction/
 https://shelterdayout.com/listings/grand-strand-humane-society-myrtle-beach/
 https://shelterdayout.com/listings/grand-traverse-county-animal-control-traverse-city/
+https://shelterdayout.com/listings/grandview-animal-control-grandview-police-department-grandview/
 https://shelterdayout.com/listings/granite-city-animal-control-and-adoption-granite-city/
 https://shelterdayout.com/listings/granite-city-apa-association-for-the-protection-of-animals-granite-city/
 https://shelterdayout.com/listings/granny-rose-animal-shelter-dixon/
@@ -3903,6 +3905,7 @@ https://shelterdayout.com/listings/sumter-spca-sumter/
 https://shelterdayout.com/listings/sun-cities-4-paws-rescue-peoria/
 https://shelterdayout.com/listings/suncoast-animal-league-palm-harbor/
 https://shelterdayout.com/listings/suncoast-humane-society-englewood/
+https://shelterdayout.com/listings/sunnyside-animal-control-sunnyside-police-department-sunnyside/
 https://shelterdayout.com/listings/sunnyvale-animal-shelter-sunnyvale/
 https://shelterdayout.com/listings/super-heroes-humane-society-super-heroes-in-ripped-jeans-inc-oneonta/
 https://shelterdayout.com/listings/surfcat-cafe-and-adoptions-oxnard/
