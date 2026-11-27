@@ -158,6 +158,13 @@
     "title": "Petco Cat Adoption",
     "url": "https://www.spcaflorida.org/events",
     "place": "Petco, 4139 US Hwy 98 N, Lakeland"
+   },
+   {
+    "date": "2026-12-05",
+    "end": "2027-03-20",
+    "title": "Off-site dog adoptions at Petco (1st and 3rd Saturday each month, 12-3pm)",
+    "url": "https://www.spcaflorida.org/events",
+    "place": "Petco, 4139 US Hwy 98 N, Lakeland"
    }
   ]
  },
@@ -2864,6 +2871,23 @@
   "phone": "(352) 669-3312",
   "email_program": "",
   "email_main": "adopt@leesburghumanesociety.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "FL",
+  "city": "Key Largo",
+  "org": "Humane Animal Care Coalition (Key Largo Animal Shelter)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://humaneanimalcoalition.com/",
+  "notes": "Monroe County's contracted Upper Keys shelter at 105951 Overseas Hwy (MM 106), Key Largo; open Mon-Fri 9am-6pm, Sat 9am-5pm. Adoption fee $10 (county fee), pets spayed/neutered first. No day-out program found on site.",
+  "checked": "November 2026",
+  "phone": "(305) 451-0088",
+  "email_program": "",
+  "email_main": "info@humaneanimalcoalition.com",
   "source_list": "shelter website",
   "events": []
  }
