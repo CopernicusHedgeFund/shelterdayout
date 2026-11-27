@@ -91,6 +91,9 @@ def load():
         r["types"] = tag_types(r["offers"])
         r["state_name"] = STATES[r["state"]]
         r["state_slug"] = slugify(STATES[r["state"]])
+        # a website field must hold one address: keep the first, and encode stray spaces
+        u = (r.get("url") or "").split(";")[0].strip()
+        r["url"] = u.replace(" ", "%20")
         # dead links (found by the weekly link check) are hidden until the monthly refresh fixes them
         if is_dead(r.get("url")):
             r["url"] = ""
@@ -305,6 +308,16 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 </body>
 </html>
 """
+
+
+def source_html(r):
+    """Source line on a listing: only real news or government pages, each its own link (fields can hold several, separated by ';')."""
+    skip = ("adoptapet.com", "petfinder.com", "facebook.com", "yelp.", "shelterlist", "causeiq")
+    urls = [u.strip() for u in (r.get("source") or "").split(";") if u.strip().startswith("http") and not any(x in u for x in skip) and not is_dead(u.strip())]
+    if not urls:
+        return ""
+    links = ", ".join(f'<a href="{esc(u)}" rel="noopener nofollow" target="_blank">{"state record" if ".gov" in u else "news coverage"}</a>' for u in urls[:3])
+    return f'<p class="animal">Source: {links}</p>'
 
 
 def write(path, content):
@@ -627,7 +640,7 @@ def build_listings(rows):
 {f'<h2>Upcoming events</h2><ul class="evlist">{events_html(r, upcoming(r))}</ul>' if upcoming(r) else ""}
 <p>{req}{go} {call_btn(r)}</p>
 {map_line(r)}
-{f'<p class="animal">Source: <a href="{esc(r["source"])}" rel="noopener nofollow" target="_blank">news coverage of this program</a></p>' if r.get("source") else ""}
+{source_html(r)}
 <p class="animal">Thinking of adopting? <a href="https://shelteradoption.com/shelters/{r['slug']}/" rel="noopener">See {esc(name)} on ShelterAdoption</a> for its adoptable pets and adoption events.</p>
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
 <p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests, and add our <a href="/for-shelters/badge/?listing={r['slug']}">free website badge</a>.</p>"""
