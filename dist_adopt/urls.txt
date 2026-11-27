@@ -1373,6 +1373,7 @@ https://shelteradoption.com/shelters/cleveland-animal-protective-league-clevelan
 https://shelteradoption.com/shelters/cleveland-county-animal-services-shelby/
 https://shelteradoption.com/shelters/clewiston-animal-services-clewiston/
 https://shelteradoption.com/shelters/clifton-animal-shelter-clifton/
+https://shelteradoption.com/shelters/clinton-animal-control-clinton/
 https://shelteradoption.com/shelters/clinton-animal-shelter-clinton/
 https://shelteradoption.com/shelters/clinton-county-animal-control-carlyle/
 https://shelteradoption.com/shelters/clinton-county-animal-shelter-st-johns/
@@ -1459,6 +1460,7 @@ https://shelteradoption.com/shelters/coshocton-county-animal-shelter-coshocton/
 https://shelteradoption.com/shelters/coulee-region-humane-society-onalaska/
 https://shelteradoption.com/shelters/country-cat-lady-wayland/
 https://shelteradoption.com/shelters/cove-animal-rescue-city-of-glen-cove-animal-shelter-glen-cove/
+https://shelteradoption.com/shelters/coventry-animal-control-coventry/
 https://shelteradoption.com/shelters/coventry-animal-shelter-coventry/
 https://shelteradoption.com/shelters/cowboy-capital-pet-assistance-league-ccpal-bandera/
 https://shelteradoption.com/shelters/coweta-animal-control-and-shelter-coweta/
@@ -1599,6 +1601,7 @@ https://shelteradoption.com/shelters/east-bay-spca-oakland-adoption-center-oakla
 https://shelteradoption.com/shelters/east-bay-spca-tri-valley-adoption-center-dublin/
 https://shelteradoption.com/shelters/east-chicago-animal-control-east-chicago/
 https://shelteradoption.com/shelters/east-county-animal-shelter-alameda-county-dublin/
+https://shelteradoption.com/shelters/east-haddam-animal-control-east-haddam/
 https://shelteradoption.com/shelters/east-hampton-animal-control-east-hampton/
 https://shelteradoption.com/shelters/east-hartford-animal-control-east-hartford/
 https://shelteradoption.com/shelters/east-haven-animal-control-east-haven/
@@ -1954,6 +1957,7 @@ https://shelteradoption.com/shelters/gwinnett-county-bill-atkinson-animal-welfar
 https://shelteradoption.com/shelters/h-a-l-o-no-kill-rescue-sebastian/
 https://shelteradoption.com/shelters/h-o-p-e-homes-for-orphaned-pets-exist-saratoga-springs/
 https://shelteradoption.com/shelters/habersham-county-animal-care-and-control-clarkesville/
+https://shelteradoption.com/shelters/haddam-dog-pound-haddam-animal-control-higganum/
 https://shelteradoption.com/shelters/haines-animal-rescue-kennel-hark-haines/
 https://shelteradoption.com/shelters/hale-county-animal-shelter-greensboro/
 https://shelteradoption.com/shelters/halifax-county-animal-control-halifax/
@@ -2687,6 +2691,7 @@ https://shelteradoption.com/shelters/linda-l-kelley-animal-shelter-prince-freder
 https://shelteradoption.com/shelters/linda-mcnatt-animal-care-and-adoption-center-denton/
 https://shelteradoption.com/shelters/linn-county-animal-control-linn-county-sheriff-s-office-albany/
 https://shelteradoption.com/shelters/linn-county-humane-society-brookfield/
+https://shelteradoption.com/shelters/litchfield-animal-control-litchfield/
 https://shelteradoption.com/shelters/little-orphans-animal-shelter-montello/
 https://shelteradoption.com/shelters/little-rascals-cat-sanctuary-manistee/
 https://shelteradoption.com/shelters/little-rock-animal-village-little-rock-animal-services-little-rock/
@@ -3409,6 +3414,7 @@ https://shelteradoption.com/shelters/placer-county-animal-services-tahoe-vista-s
 https://shelteradoption.com/shelters/placer-spca-adoption-and-education-center-roseville/
 https://shelteradoption.com/shelters/placer-spca-pet-adoption-and-resource-center-auburn/
 https://shelteradoption.com/shelters/plainfield-animal-control-moosup/
+https://shelteradoption.com/shelters/plainville-animal-control-plainville/
 https://shelteradoption.com/shelters/plano-animal-shelter-and-services-plano/
 https://shelteradoption.com/shelters/plattsmouth-animal-shelter-happy-paws-plattsmouth/
 https://shelteradoption.com/shelters/pleasanton-animal-control-pleasanton/
@@ -3836,6 +3842,7 @@ https://shelteradoption.com/shelters/south-salt-lake-animal-services-south-salt-
 https://shelteradoption.com/shelters/south-sioux-city-animal-shelter-animal-control-south-sioux-city/
 https://shelteradoption.com/shelters/south-suburban-humane-society-matteson/
 https://shelteradoption.com/shelters/south-utah-valley-animal-shelter-spanish-fork/
+https://shelteradoption.com/shelters/south-windsor-animal-control-south-windsor/
 https://shelteradoption.com/shelters/south-wood-county-humane-society-wisconsin-rapids/
 https://shelteradoption.com/shelters/southampton-animal-shelter-foundation-southampton-animal-shelter-hampton-bays/
 https://shelteradoption.com/shelters/southampton-county-animal-control-shelter-courtland/
@@ -4088,6 +4095,7 @@ https://shelteradoption.com/shelters/the-ten-lives-club-blasdell/
 https://shelteradoption.com/shelters/the-village-animal-shelter-the-village/
 https://shelteradoption.com/shelters/the-whisker-society-oconomowoc/
 https://shelteradoption.com/shelters/thomas-j-o-connor-animal-control-and-adoption-center-springfield/
+https://shelteradoption.com/shelters/thomaston-animal-control-thomaston/
 https://shelteradoption.com/shelters/thomasville-humane-thomasville/
 https://shelteradoption.com/shelters/thompson-river-animal-care-shelter-tracs-thompson-falls/
 https://shelteradoption.com/shelters/thumb-animal-shelter-elkton/

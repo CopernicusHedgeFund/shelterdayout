@@ -1378,6 +1378,7 @@ https://shelterdayout.com/listings/cleveland-animal-protective-league-cleveland/
 https://shelterdayout.com/listings/cleveland-county-animal-services-shelby/
 https://shelterdayout.com/listings/clewiston-animal-services-clewiston/
 https://shelterdayout.com/listings/clifton-animal-shelter-clifton/
+https://shelterdayout.com/listings/clinton-animal-control-clinton/
 https://shelterdayout.com/listings/clinton-animal-shelter-clinton/
 https://shelterdayout.com/listings/clinton-county-animal-control-carlyle/
 https://shelterdayout.com/listings/clinton-county-animal-shelter-st-johns/
@@ -1464,6 +1465,7 @@ https://shelterdayout.com/listings/coshocton-county-animal-shelter-coshocton/
 https://shelterdayout.com/listings/coulee-region-humane-society-onalaska/
 https://shelterdayout.com/listings/country-cat-lady-wayland/
 https://shelterdayout.com/listings/cove-animal-rescue-city-of-glen-cove-animal-shelter-glen-cove/
+https://shelterdayout.com/listings/coventry-animal-control-coventry/
 https://shelterdayout.com/listings/coventry-animal-shelter-coventry/
 https://shelterdayout.com/listings/cowboy-capital-pet-assistance-league-ccpal-bandera/
 https://shelterdayout.com/listings/coweta-animal-control-and-shelter-coweta/
@@ -1604,6 +1606,7 @@ https://shelterdayout.com/listings/east-bay-spca-oakland-adoption-center-oakland
 https://shelterdayout.com/listings/east-bay-spca-tri-valley-adoption-center-dublin/
 https://shelterdayout.com/listings/east-chicago-animal-control-east-chicago/
 https://shelterdayout.com/listings/east-county-animal-shelter-alameda-county-dublin/
+https://shelterdayout.com/listings/east-haddam-animal-control-east-haddam/
 https://shelterdayout.com/listings/east-hampton-animal-control-east-hampton/
 https://shelterdayout.com/listings/east-hartford-animal-control-east-hartford/
 https://shelterdayout.com/listings/east-haven-animal-control-east-haven/
@@ -1959,6 +1962,7 @@ https://shelterdayout.com/listings/gwinnett-county-bill-atkinson-animal-welfare-
 https://shelterdayout.com/listings/h-a-l-o-no-kill-rescue-sebastian/
 https://shelterdayout.com/listings/h-o-p-e-homes-for-orphaned-pets-exist-saratoga-springs/
 https://shelterdayout.com/listings/habersham-county-animal-care-and-control-clarkesville/
+https://shelterdayout.com/listings/haddam-dog-pound-haddam-animal-control-higganum/
 https://shelterdayout.com/listings/haines-animal-rescue-kennel-hark-haines/
 https://shelterdayout.com/listings/hale-county-animal-shelter-greensboro/
 https://shelterdayout.com/listings/halifax-county-animal-control-halifax/
@@ -2692,6 +2696,7 @@ https://shelterdayout.com/listings/linda-l-kelley-animal-shelter-prince-frederic
 https://shelterdayout.com/listings/linda-mcnatt-animal-care-and-adoption-center-denton/
 https://shelterdayout.com/listings/linn-county-animal-control-linn-county-sheriff-s-office-albany/
 https://shelterdayout.com/listings/linn-county-humane-society-brookfield/
+https://shelterdayout.com/listings/litchfield-animal-control-litchfield/
 https://shelterdayout.com/listings/little-orphans-animal-shelter-montello/
 https://shelterdayout.com/listings/little-rascals-cat-sanctuary-manistee/
 https://shelterdayout.com/listings/little-rock-animal-village-little-rock-animal-services-little-rock/
@@ -3414,6 +3419,7 @@ https://shelterdayout.com/listings/placer-county-animal-services-tahoe-vista-she
 https://shelterdayout.com/listings/placer-spca-adoption-and-education-center-roseville/
 https://shelterdayout.com/listings/placer-spca-pet-adoption-and-resource-center-auburn/
 https://shelterdayout.com/listings/plainfield-animal-control-moosup/
+https://shelterdayout.com/listings/plainville-animal-control-plainville/
 https://shelterdayout.com/listings/plano-animal-shelter-and-services-plano/
 https://shelterdayout.com/listings/plattsmouth-animal-shelter-happy-paws-plattsmouth/
 https://shelterdayout.com/listings/pleasanton-animal-control-pleasanton/
@@ -3841,6 +3847,7 @@ https://shelterdayout.com/listings/south-salt-lake-animal-services-south-salt-la
 https://shelterdayout.com/listings/south-sioux-city-animal-shelter-animal-control-south-sioux-city/
 https://shelterdayout.com/listings/south-suburban-humane-society-matteson/
 https://shelterdayout.com/listings/south-utah-valley-animal-shelter-spanish-fork/
+https://shelterdayout.com/listings/south-windsor-animal-control-south-windsor/
 https://shelterdayout.com/listings/south-wood-county-humane-society-wisconsin-rapids/
 https://shelterdayout.com/listings/southampton-animal-shelter-foundation-southampton-animal-shelter-hampton-bays/
 https://shelterdayout.com/listings/southampton-county-animal-control-shelter-courtland/
@@ -4093,6 +4100,7 @@ https://shelterdayout.com/listings/the-ten-lives-club-blasdell/
 https://shelterdayout.com/listings/the-village-animal-shelter-the-village/
 https://shelterdayout.com/listings/the-whisker-society-oconomowoc/
 https://shelterdayout.com/listings/thomas-j-o-connor-animal-control-and-adoption-center-springfield/
+https://shelterdayout.com/listings/thomaston-animal-control-thomaston/
 https://shelterdayout.com/listings/thomasville-humane-thomasville/
 https://shelterdayout.com/listings/thompson-river-animal-care-shelter-tracs-thompson-falls/
 https://shelterdayout.com/listings/thumb-animal-shelter-elkton/
