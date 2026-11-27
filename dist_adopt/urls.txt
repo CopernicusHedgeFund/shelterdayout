@@ -1402,6 +1402,7 @@ https://shelteradoption.com/shelters/conecuh-county-animal-shelter-evergreen/
 https://shelteradoption.com/shelters/connecticut-humane-society-newington/
 https://shelteradoption.com/shelters/connecticut-humane-society-waterford-waterford/
 https://shelteradoption.com/shelters/connecticut-humane-society-wilton-wilton/
+https://shelteradoption.com/shelters/conour-animal-shelter-upper-rio-grande-animal-society-monte-vista/
 https://shelteradoption.com/shelters/conroe-animal-shelter-conroe/
 https://shelteradoption.com/shelters/constellation-cat-cafe-lansing/
 https://shelteradoption.com/shelters/contented-critters-ely/
@@ -1708,8 +1709,10 @@ https://shelteradoption.com/shelters/forsyth-county-animal-shelter-cumming/
 https://shelteradoption.com/shelters/forsyth-county-animal-shelter-winston-salem/
 https://shelteradoption.com/shelters/forsyth-humane-society-winston-salem/
 https://shelteradoption.com/shelters/fort-bend-county-animal-services-rosenberg/
+https://shelteradoption.com/shelters/fort-collins-cat-rescue-and-spay-neuter-clinic-fort-collins/
 https://shelteradoption.com/shelters/fort-defiance-humane-society-defiance/
 https://shelteradoption.com/shelters/fort-leavenworth-stray-facility-fort-leavenworth/
+https://shelteradoption.com/shelters/fort-morgan-animal-shelter-fort-morgan/
 https://shelteradoption.com/shelters/fort-pierce-animal-adoption-center-city-of-fort-pierce-fort-pierce/
 https://shelteradoption.com/shelters/fort-smith-animal-haven-fort-smith/
 https://shelteradoption.com/shelters/fort-valley-animal-control-fort-valley/
@@ -3156,6 +3159,7 @@ https://shelteradoption.com/shelters/paragould-animal-shelter-city-dog-pound-par
 https://shelteradoption.com/shelters/paris-animal-control-shelter-paris/
 https://shelteradoption.com/shelters/paris-animal-welfare-society-paws-paris/
 https://shelteradoption.com/shelters/paris-henry-county-animal-shelter-paris/
+https://shelteradoption.com/shelters/park-county-animal-control-shelter-fairplay/
 https://shelteradoption.com/shelters/park-county-animal-shelter-cody/
 https://shelteradoption.com/shelters/parkville-animal-shelter-friends-of-parkville-animal-shelter-parkville/
 https://shelteradoption.com/shelters/parma-animal-shelter-parma/
@@ -4199,6 +4203,7 @@ https://shelteradoption.com/shelters/westfield-animal-control-and-shelter-westfi
 https://shelteradoption.com/shelters/westmoreland-county-animal-shelter-montross/
 https://shelteradoption.com/shelters/weston-county-humane-society-newcastle/
 https://shelteradoption.com/shelters/westport-animal-control-westport/
+https://shelteradoption.com/shelters/wet-mountain-animal-welfare-westcliffe/
 https://shelteradoption.com/shelters/wet-nose-rescue-le-mars/
 https://shelteradoption.com/shelters/wetzel-county-animal-shelter-new-martinsville/
 https://shelteradoption.com/shelters/wexford-county-animal-shelter-cadillac/

@@ -1411,6 +1411,7 @@ https://shelterdayout.com/listings/conecuh-county-animal-shelter-evergreen/
 https://shelterdayout.com/listings/connecticut-humane-society-newington/
 https://shelterdayout.com/listings/connecticut-humane-society-waterford-waterford/
 https://shelterdayout.com/listings/connecticut-humane-society-wilton-wilton/
+https://shelterdayout.com/listings/conour-animal-shelter-upper-rio-grande-animal-society-monte-vista/
 https://shelterdayout.com/listings/conroe-animal-shelter-conroe/
 https://shelterdayout.com/listings/constellation-cat-cafe-lansing/
 https://shelterdayout.com/listings/contented-critters-ely/
@@ -1717,8 +1718,10 @@ https://shelterdayout.com/listings/forsyth-county-animal-shelter-cumming/
 https://shelterdayout.com/listings/forsyth-county-animal-shelter-winston-salem/
 https://shelterdayout.com/listings/forsyth-humane-society-winston-salem/
 https://shelterdayout.com/listings/fort-bend-county-animal-services-rosenberg/
+https://shelterdayout.com/listings/fort-collins-cat-rescue-and-spay-neuter-clinic-fort-collins/
 https://shelterdayout.com/listings/fort-defiance-humane-society-defiance/
 https://shelterdayout.com/listings/fort-leavenworth-stray-facility-fort-leavenworth/
+https://shelterdayout.com/listings/fort-morgan-animal-shelter-fort-morgan/
 https://shelterdayout.com/listings/fort-pierce-animal-adoption-center-city-of-fort-pierce-fort-pierce/
 https://shelterdayout.com/listings/fort-smith-animal-haven-fort-smith/
 https://shelterdayout.com/listings/fort-valley-animal-control-fort-valley/
@@ -3165,6 +3168,7 @@ https://shelterdayout.com/listings/paragould-animal-shelter-city-dog-pound-parag
 https://shelterdayout.com/listings/paris-animal-control-shelter-paris/
 https://shelterdayout.com/listings/paris-animal-welfare-society-paws-paris/
 https://shelterdayout.com/listings/paris-henry-county-animal-shelter-paris/
+https://shelterdayout.com/listings/park-county-animal-control-shelter-fairplay/
 https://shelterdayout.com/listings/park-county-animal-shelter-cody/
 https://shelterdayout.com/listings/parkville-animal-shelter-friends-of-parkville-animal-shelter-parkville/
 https://shelterdayout.com/listings/parma-animal-shelter-parma/
@@ -4208,6 +4212,7 @@ https://shelterdayout.com/listings/westfield-animal-control-and-shelter-westfiel
 https://shelterdayout.com/listings/westmoreland-county-animal-shelter-montross/
 https://shelterdayout.com/listings/weston-county-humane-society-newcastle/
 https://shelterdayout.com/listings/westport-animal-control-westport/
+https://shelterdayout.com/listings/wet-mountain-animal-welfare-westcliffe/
 https://shelterdayout.com/listings/wet-nose-rescue-le-mars/
 https://shelterdayout.com/listings/wetzel-county-animal-shelter-new-martinsville/
 https://shelterdayout.com/listings/wexford-county-animal-shelter-cadillac/
