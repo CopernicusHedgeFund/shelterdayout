@@ -72,6 +72,7 @@ https://shelteradoption.com/cities/brighton-ma/
 https://shelteradoption.com/cities/brockton-ma/
 https://shelteradoption.com/cities/brooklyn-ny/
 https://shelteradoption.com/cities/brooksville-fl/
+https://shelteradoption.com/cities/brunswick-ga/
 https://shelteradoption.com/cities/bryan-oh/
 https://shelteradoption.com/cities/bryan-tx/
 https://shelteradoption.com/cities/bryson-city-nc/
@@ -1238,6 +1239,7 @@ https://shelteradoption.com/shelters/city-of-ballinger-animal-control-ballinger/
 https://shelteradoption.com/shelters/city-of-baytown-animal-services-baytown/
 https://shelteradoption.com/shelters/city-of-bellaire-pound-bellaire/
 https://shelteradoption.com/shelters/city-of-beverly-animal-services-beverly/
+https://shelteradoption.com/shelters/city-of-blakely-animal-shelter-blakely/
 https://shelteradoption.com/shelters/city-of-bloomington-animal-care-and-control-animal-shelter-bloomington/
 https://shelteradoption.com/shelters/city-of-boerne-animal-shelter-boerne/
 https://shelteradoption.com/shelters/city-of-bonham-animal-shelter-bonham/
@@ -1418,6 +1420,7 @@ https://shelteradoption.com/shelters/columbia-greene-humane-society-spca-hudson/
 https://shelteradoption.com/shelters/columbia-humane-society-st-helens/
 https://shelteradoption.com/shelters/columbiana-county-dog-pound-and-adoption-center-lisbon/
 https://shelteradoption.com/shelters/columbiana-county-humane-society-salem/
+https://shelteradoption.com/shelters/columbus-animal-care-and-control-center-columbus/
 https://shelteradoption.com/shelters/columbus-county-sheriff-s-office-animal-protective-services-whiteville/
 https://shelteradoption.com/shelters/columbus-humane-hilliard/
 https://shelteradoption.com/shelters/columbus-lowndes-humane-society-columbus/
@@ -1766,7 +1769,6 @@ https://shelteradoption.com/shelters/fort-defiance-humane-society-defiance/
 https://shelteradoption.com/shelters/fort-leavenworth-stray-facility-fort-leavenworth/
 https://shelteradoption.com/shelters/fort-pierce-animal-adoption-center-city-of-fort-pierce-fort-pierce/
 https://shelteradoption.com/shelters/fort-smith-animal-haven-fort-smith/
-https://shelteradoption.com/shelters/fort-valley-animal-control-fort-valley/
 https://shelteradoption.com/shelters/fort-wayne-animal-care-and-control-fort-wayne/
 https://shelteradoption.com/shelters/fort-worth-animal-care-and-control-fort-worth/
 https://shelteradoption.com/shelters/fox-valley-humane-association-appleton/
@@ -2314,6 +2316,7 @@ https://shelteradoption.com/shelters/humane-society-of-somerset-county-somerset/
 https://shelteradoption.com/shelters/humane-society-of-sonoma-county-healdsburg-healdsburg/
 https://shelteradoption.com/shelters/humane-society-of-sonoma-county-santa-rosa-santa-rosa/
 https://shelteradoption.com/shelters/humane-society-of-south-central-michigan-battle-creek/
+https://shelteradoption.com/shelters/humane-society-of-south-coastal-georgia-brunswick/
 https://shelteradoption.com/shelters/humane-society-of-south-mississippi-gulfport/
 https://shelteradoption.com/shelters/humane-society-of-southeast-texas-beaumont/
 https://shelteradoption.com/shelters/humane-society-of-southern-arizona-tucson/
@@ -4018,7 +4021,6 @@ https://shelteradoption.com/shelters/suwannee-county-animal-services-mcalpin/
 https://shelteradoption.com/shelters/suwannee-valley-humane-society-madison/
 https://shelteradoption.com/shelters/swain-county-animal-services-bryson-city/
 https://shelteradoption.com/shelters/sweet-mercies-rescue-ranch-glen-rose/
-https://shelteradoption.com/shelters/sweet-onion-animal-protection-society-vidalia/
 https://shelteradoption.com/shelters/sweetwater-animal-control-sweetwater/
 https://shelteradoption.com/shelters/switzerland-county-animal-control-florence/
 https://shelteradoption.com/shelters/sylacauga-animal-shelter-sylacauga/

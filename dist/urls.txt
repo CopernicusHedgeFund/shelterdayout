@@ -1264,6 +1264,7 @@ https://shelterdayout.com/listings/city-of-ballinger-animal-control-ballinger/
 https://shelterdayout.com/listings/city-of-baytown-animal-services-baytown/
 https://shelterdayout.com/listings/city-of-bellaire-pound-bellaire/
 https://shelterdayout.com/listings/city-of-beverly-animal-services-beverly/
+https://shelterdayout.com/listings/city-of-blakely-animal-shelter-blakely/
 https://shelterdayout.com/listings/city-of-bloomington-animal-care-and-control-animal-shelter-bloomington/
 https://shelterdayout.com/listings/city-of-boerne-animal-shelter-boerne/
 https://shelterdayout.com/listings/city-of-bonham-animal-shelter-bonham/
@@ -1444,6 +1445,7 @@ https://shelterdayout.com/listings/columbia-greene-humane-society-spca-hudson/
 https://shelterdayout.com/listings/columbia-humane-society-st-helens/
 https://shelterdayout.com/listings/columbiana-county-dog-pound-and-adoption-center-lisbon/
 https://shelterdayout.com/listings/columbiana-county-humane-society-salem/
+https://shelterdayout.com/listings/columbus-animal-care-and-control-center-columbus/
 https://shelterdayout.com/listings/columbus-county-sheriff-s-office-animal-protective-services-whiteville/
 https://shelterdayout.com/listings/columbus-humane-hilliard/
 https://shelterdayout.com/listings/columbus-lowndes-humane-society-columbus/
@@ -1792,7 +1794,6 @@ https://shelterdayout.com/listings/fort-defiance-humane-society-defiance/
 https://shelterdayout.com/listings/fort-leavenworth-stray-facility-fort-leavenworth/
 https://shelterdayout.com/listings/fort-pierce-animal-adoption-center-city-of-fort-pierce-fort-pierce/
 https://shelterdayout.com/listings/fort-smith-animal-haven-fort-smith/
-https://shelterdayout.com/listings/fort-valley-animal-control-fort-valley/
 https://shelterdayout.com/listings/fort-wayne-animal-care-and-control-fort-wayne/
 https://shelterdayout.com/listings/fort-worth-animal-care-and-control-fort-worth/
 https://shelterdayout.com/listings/fox-valley-humane-association-appleton/
@@ -2340,6 +2341,7 @@ https://shelterdayout.com/listings/humane-society-of-somerset-county-somerset/
 https://shelterdayout.com/listings/humane-society-of-sonoma-county-healdsburg-healdsburg/
 https://shelterdayout.com/listings/humane-society-of-sonoma-county-santa-rosa-santa-rosa/
 https://shelterdayout.com/listings/humane-society-of-south-central-michigan-battle-creek/
+https://shelterdayout.com/listings/humane-society-of-south-coastal-georgia-brunswick/
 https://shelterdayout.com/listings/humane-society-of-south-mississippi-gulfport/
 https://shelterdayout.com/listings/humane-society-of-southeast-texas-beaumont/
 https://shelterdayout.com/listings/humane-society-of-southern-arizona-tucson/
@@ -4044,7 +4046,6 @@ https://shelterdayout.com/listings/suwannee-county-animal-services-mcalpin/
 https://shelterdayout.com/listings/suwannee-valley-humane-society-madison/
 https://shelterdayout.com/listings/swain-county-animal-services-bryson-city/
 https://shelterdayout.com/listings/sweet-mercies-rescue-ranch-glen-rose/
-https://shelterdayout.com/listings/sweet-onion-animal-protection-society-vidalia/
 https://shelterdayout.com/listings/sweetwater-animal-control-sweetwater/
 https://shelterdayout.com/listings/switzerland-county-animal-control-florence/
 https://shelterdayout.com/listings/sylacauga-animal-shelter-sylacauga/
