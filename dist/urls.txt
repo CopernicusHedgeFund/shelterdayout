@@ -141,6 +141,7 @@ https://shelterdayout.com/cities/dawsonville-ga/
 https://shelterdayout.com/cities/dayton-oh/
 https://shelterdayout.com/cities/daytona-beach-fl/
 https://shelterdayout.com/cities/dearborn-mi/
+https://shelterdayout.com/cities/decatur-ga/
 https://shelterdayout.com/cities/dekalb-il/
 https://shelterdayout.com/cities/delaware-oh/
 https://shelterdayout.com/cities/delta-co/
@@ -263,6 +264,7 @@ https://shelterdayout.com/cities/kansas-city-mo/
 https://shelterdayout.com/cities/katy-tx/
 https://shelterdayout.com/cities/keaau-hi/
 https://shelterdayout.com/cities/keller-tx/
+https://shelterdayout.com/cities/kennesaw-ga/
 https://shelterdayout.com/cities/king-william-va/
 https://shelterdayout.com/cities/kingman-az/
 https://shelterdayout.com/cities/knoxville-tn/
