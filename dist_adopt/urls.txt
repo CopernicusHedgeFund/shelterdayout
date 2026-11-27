@@ -358,6 +358,7 @@ https://shelteradoption.com/cities/phoenix-az/
 https://shelteradoption.com/cities/pinedale-wy/
 https://shelteradoption.com/cities/pittsburgh-pa/
 https://shelteradoption.com/cities/plano-tx/
+https://shelteradoption.com/cities/pocatello-id/
 https://shelteradoption.com/cities/pomona-ny/
 https://shelteradoption.com/cities/pontiac-il/
 https://shelteradoption.com/cities/pontiac-mi/
@@ -856,6 +857,7 @@ https://shelteradoption.com/shelters/baltimore-animal-rescue-and-care-shelter-ba
 https://shelteradoption.com/shelters/baltimore-county-animal-services-baldwin/
 https://shelteradoption.com/shelters/baltimore-humane-society-reisterstown/
 https://shelteradoption.com/shelters/bangor-humane-society-bangor/
+https://shelteradoption.com/shelters/bannock-humane-society-pocatello/
 https://shelteradoption.com/shelters/barb-s-precious-rescue-and-adoption-center-palatine/
 https://shelteradoption.com/shelters/barbour-county-animal-shelter-belington/
 https://shelteradoption.com/shelters/barc-anderson-county-humane-society-palestine/
@@ -1280,6 +1282,7 @@ https://shelteradoption.com/shelters/city-of-bogalusa-animal-shelter-animal-cont
 https://shelteradoption.com/shelters/city-of-bonham-animal-shelter-bonham/
 https://shelteradoption.com/shelters/city-of-boston-animal-care-and-control-shelter-roslindale-boston/
 https://shelteradoption.com/shelters/city-of-buffalo-animal-shelter-buffalo/
+https://shelteradoption.com/shelters/city-of-burley-animal-shelter-burley/
 https://shelteradoption.com/shelters/city-of-canadian-animal-control-canadian/
 https://shelteradoption.com/shelters/city-of-carrizo-springs-animal-control-carrizo-springs/
 https://shelteradoption.com/shelters/city-of-castroville-animal-shelter-castroville/
@@ -2954,6 +2957,7 @@ https://shelteradoption.com/shelters/mercer-county-animal-shelter-princeton/
 https://shelteradoption.com/shelters/mercer-county-dog-pound-saint-henry/
 https://shelteradoption.com/shelters/meriden-animal-control-meriden/
 https://shelteradoption.com/shelters/meriden-humane-society-meriden/
+https://shelteradoption.com/shelters/meridian-valley-humane-society-meridian/
 https://shelteradoption.com/shelters/meriwether-county-animal-shelter-greenville/
 https://shelteradoption.com/shelters/merrimack-river-feline-rescue-society-salisbury/
 https://shelteradoption.com/shelters/mesa-county-animal-services-whitewater/
@@ -3402,6 +3406,7 @@ https://shelteradoption.com/shelters/pawsitivitea-cny-cafe-and-cat-lounge-syracu
 https://shelteradoption.com/shelters/pawspartners-center-a-pal-jackson/
 https://shelteradoption.com/shelters/pawswatch-community-cat-center-warwick/
 https://shelteradoption.com/shelters/pawtucket-animal-shelter-pawtucket/
+https://shelteradoption.com/shelters/payette-impound-facility-city-of-payette-animal-control-payette/
 https://shelteradoption.com/shelters/peaceable-kingdom-whitehall/
 https://shelteradoption.com/shelters/peaceful-animal-adoption-shelter-vinita/
 https://shelteradoption.com/shelters/pecos-animal-shelter-pecos-animal-control-pecos/
@@ -3444,6 +3449,7 @@ https://shelteradoption.com/shelters/pet-allies-show-low/
 https://shelteradoption.com/shelters/pet-angel-adoption-and-rescue-frankenmuth/
 https://shelteradoption.com/shelters/pet-central-helps-normal/
 https://shelteradoption.com/shelters/pet-circle-regional-animal-center-waco/
+https://shelteradoption.com/shelters/pet-haven-cat-adoption-center-nampa/
 https://shelteradoption.com/shelters/pet-helpers-charleston/
 https://shelteradoption.com/shelters/pet-network-humane-society-incline-village/
 https://shelteradoption.com/shelters/pet-orphans-of-southern-california-van-nuys/

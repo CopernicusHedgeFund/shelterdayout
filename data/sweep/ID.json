@@ -246,12 +246,12 @@
   "state": "ID",
   "city": "Ponderay",
   "org": "Better Together Animal Alliance",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://bettertogetheranimalalliance.org/",
-  "notes": "Formerly Panhandle Animal Shelter.",
+  "program": "Hounds on the Town",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Dog outings, an hour or an afternoon",
+  "url": "https://bettertogetheranimalalliance.org/hounds-on-the-town/",
+  "notes": "Call at least a day ahead to take an adoptable dog out for an hour or an afternoon, Monday to Saturday, then fill out a report card.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@BTAnimalAlliance.org",
@@ -278,14 +278,14 @@
   "state": "ID",
   "city": "Idaho Falls",
   "org": "Snake River Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.snakeriveranimalshelter.org/home/",
-  "notes": "",
+  "program": "Doggy Day Break",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.snakeriveranimalshelter.org/wp-content/uploads/Doggy-Day-Break-Dater-Manual_Draft.pdf",
+  "notes": "Volunteers 18 and older sign an agreement and take a shelter dog out for a few hours or a day, on public outings or at home.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "director@snakeriveranimalshelter.org",
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(208) 523-4219"
@@ -304,7 +304,16 @@
   "email_program": "",
   "email_main": "Information@humanesocietyofthepalouse.org",
   "source_list": "shelter website",
-  "phone": "(208) 883-1166"
+  "phone": "(208) 883-1166",
+  "events": [
+   {
+    "date": "2026-12-04",
+    "end": "2026-12-05",
+    "title": "Pet Pictures with Santa",
+    "url": "https://www.humanesocietyofthepalouse.org/events",
+    "place": "Moscow Pets are People Too"
+   }
+  ]
  },
  {
   "state": "ID",
@@ -477,5 +486,115 @@
   "email_main": "hias@custertel.net",
   "source_list": "shelter website",
   "phone": "(208) 879-6500"
+ },
+ {
+  "state": "ID",
+  "city": "Nampa",
+  "org": "Pet Haven Cat Adoption Center",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://pethavencats.org/",
+  "notes": "No-kill cat shelter and adoption center, open Tuesday to Saturday 12pm to 6pm; moving to a new building at 3202 12th Ave Rd, Nampa.",
+  "checked": "November 2026",
+  "phone": "(208) 466-1298",
+  "email_program": "",
+  "email_main": "contact@pethavencats.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "ID",
+  "city": "Meridian",
+  "org": "Meridian Valley Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.meridianvalleyhumanesociety.org/",
+  "notes": "Dog shelter for owner-relinquished dogs, with its own facility and adoption program.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "ID",
+  "city": "Payette",
+  "org": "Payette Impound Facility (City of Payette Animal Control)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://cityofpayette.com/?SEC=71BED3CE-0487-4135-BD58-CD70C47F1136",
+  "notes": "Stray dogs are held at least three days, then become available for adoption or go to rescues.",
+  "checked": "November 2026",
+  "phone": "(208) 642-6026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "government page",
+  "events": []
+ },
+ {
+  "state": "ID",
+  "city": "Burley",
+  "org": "City of Burley Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://burleyidaho.org/150/Animal-Control",
+  "notes": "City animal shelter at 2020 Parke Avenue, run by Burley Animal Control.",
+  "checked": "November 2026",
+  "phone": "(208) 878-2258",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "government page",
+  "events": []
+ },
+ {
+  "state": "ID",
+  "city": "Pocatello",
+  "org": "Bannock Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.bannockhumanesociety.org/",
+  "notes": "Foster-based humane society with its own building at 850 Barton Road, where it holds an adoption day the 2nd Saturday of each month, 12 to 4pm.",
+  "checked": "November 2026",
+  "phone": "(208) 232-0371",
+  "email_program": "",
+  "email_main": "bhs.idaho@gmail.com",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Adoption Day",
+    "url": "https://www.bannockhumanesociety.org/about-the-bannock-humane-society/",
+    "place": "850 Barton Road, Pocatello"
+   },
+   {
+    "date": "2027-01-09",
+    "title": "Adoption Day",
+    "url": "https://www.bannockhumanesociety.org/about-the-bannock-humane-society/",
+    "place": "850 Barton Road, Pocatello"
+   },
+   {
+    "date": "2027-02-13",
+    "title": "Adoption Day",
+    "url": "https://www.bannockhumanesociety.org/about-the-bannock-humane-society/",
+    "place": "850 Barton Road, Pocatello"
+   },
+   {
+    "date": "2027-03-13",
+    "title": "Adoption Day",
+    "url": "https://www.bannockhumanesociety.org/about-the-bannock-humane-society/",
+    "place": "850 Barton Road, Pocatello"
+   }
+  ]
  }
 ]
