@@ -264,6 +264,7 @@ https://shelteradoption.com/cities/medina-oh/
 https://shelteradoption.com/cities/memphis-tn/
 https://shelteradoption.com/cities/meriden-ct/
 https://shelteradoption.com/cities/metropolis-il/
+https://shelteradoption.com/cities/michigan-city-in/
 https://shelteradoption.com/cities/middletown-ny/
 https://shelteradoption.com/cities/midland-mi/
 https://shelteradoption.com/cities/milwaukee-wi/
@@ -1530,6 +1531,7 @@ https://shelteradoption.com/shelters/duxbury-animal-control-and-shelter-duxbury/
 https://shelteradoption.com/shelters/eagle-county-animal-services-eagle/
 https://shelteradoption.com/shelters/east-bay-spca-oakland-adoption-center-oakland/
 https://shelteradoption.com/shelters/east-bay-spca-tri-valley-adoption-center-dublin/
+https://shelteradoption.com/shelters/east-chicago-animal-control-east-chicago/
 https://shelteradoption.com/shelters/east-county-animal-shelter-alameda-county-dublin/
 https://shelteradoption.com/shelters/east-hampton-animal-control-east-hampton/
 https://shelteradoption.com/shelters/east-haven-animal-control-east-haven/
@@ -2756,6 +2758,7 @@ https://shelteradoption.com/shelters/miami-dade-animal-services-doral/
 https://shelteradoption.com/shelters/michiana-humane-society-michigan-city/
 https://shelteradoption.com/shelters/michigan-animal-rescue-league-pontiac/
 https://shelteradoption.com/shelters/michigan-anti-cruelty-society-detroit/
+https://shelteradoption.com/shelters/michigan-city-animal-control-michigan-city/
 https://shelteradoption.com/shelters/michigan-humane-berman-center-for-animal-care-westland/
 https://shelteradoption.com/shelters/michigan-humane-mackey-center-for-animal-care-detroit/
 https://shelteradoption.com/shelters/michigan-humane-sterling-heights-adoption-center-inside-petco-sterling-heights/
@@ -3261,6 +3264,7 @@ https://shelteradoption.com/shelters/pope-memorial-spca-of-concord-merrimack-cou
 https://shelteradoption.com/shelters/port-huron-police-department-animal-shelter-port-huron/
 https://shelteradoption.com/shelters/port-lavaca-animal-control-shelter-port-lavaca/
 https://shelteradoption.com/shelters/port-neches-animal-control-shelter-port-neches/
+https://shelteradoption.com/shelters/portage-animal-control-portage/
 https://shelteradoption.com/shelters/portage-animal-protective-league-ravenna/
 https://shelteradoption.com/shelters/portage-county-dog-warden-ravenna/
 https://shelteradoption.com/shelters/porter-county-animal-shelter-valparaiso/

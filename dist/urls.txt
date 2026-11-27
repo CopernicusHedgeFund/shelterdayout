@@ -1551,6 +1551,7 @@ https://shelterdayout.com/listings/duxbury-animal-control-and-shelter-duxbury/
 https://shelterdayout.com/listings/eagle-county-animal-services-eagle/
 https://shelterdayout.com/listings/east-bay-spca-oakland-adoption-center-oakland/
 https://shelterdayout.com/listings/east-bay-spca-tri-valley-adoption-center-dublin/
+https://shelterdayout.com/listings/east-chicago-animal-control-east-chicago/
 https://shelterdayout.com/listings/east-county-animal-shelter-alameda-county-dublin/
 https://shelterdayout.com/listings/east-hampton-animal-control-east-hampton/
 https://shelterdayout.com/listings/east-haven-animal-control-east-haven/
@@ -2777,6 +2778,7 @@ https://shelterdayout.com/listings/miami-dade-animal-services-doral/
 https://shelterdayout.com/listings/michiana-humane-society-michigan-city/
 https://shelterdayout.com/listings/michigan-animal-rescue-league-pontiac/
 https://shelterdayout.com/listings/michigan-anti-cruelty-society-detroit/
+https://shelterdayout.com/listings/michigan-city-animal-control-michigan-city/
 https://shelterdayout.com/listings/michigan-humane-berman-center-for-animal-care-westland/
 https://shelterdayout.com/listings/michigan-humane-mackey-center-for-animal-care-detroit/
 https://shelterdayout.com/listings/michigan-humane-sterling-heights-adoption-center-inside-petco-sterling-heights/
@@ -3282,6 +3284,7 @@ https://shelterdayout.com/listings/pope-memorial-spca-of-concord-merrimack-count
 https://shelterdayout.com/listings/port-huron-police-department-animal-shelter-port-huron/
 https://shelterdayout.com/listings/port-lavaca-animal-control-shelter-port-lavaca/
 https://shelterdayout.com/listings/port-neches-animal-control-shelter-port-neches/
+https://shelterdayout.com/listings/portage-animal-control-portage/
 https://shelterdayout.com/listings/portage-animal-protective-league-ravenna/
 https://shelterdayout.com/listings/portage-county-dog-warden-ravenna/
 https://shelterdayout.com/listings/porter-county-animal-shelter-valparaiso/
