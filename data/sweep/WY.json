@@ -27,7 +27,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "luckysplace307@gmail.com",
-  "phone": "+1-307-883-7387",
+  "phone": "(307) 883-7387",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8795950354"
  },
@@ -43,8 +43,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1 307 360 6000",
+  "email_main": "happyendingsanimalrescue23@gmail.com",
+  "phone": "(307) 360-6000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12952197204"
  },
@@ -61,7 +61,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(307) 872-0500",
+  "phone": "(307) 872-0570",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/156839832"
  },
@@ -95,7 +95,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-307-686-5249",
+  "phone": "(307) 686-5249",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/265497964"
  },
@@ -107,7 +107,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.torringtonwy.gov/208/Waggin-Tails",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -130,7 +130,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dogncat2019@gmail.com",
-  "phone": "+13076747694",
+  "phone": "(307) 674-7694",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/873358611"
  },
@@ -164,7 +164,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info.chswyo@gmail.com",
-  "phone": "",
+  "phone": "(307) 265-5439",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1233847785"
  },
@@ -193,12 +193,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.casperwy.gov/residents/animal_control",
+  "url": "https://www.casperwy.gov/community/metro_animal_services/index.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "metroanimalshelter@casperwy.gov",
+  "source_list": "shelter website",
+  "phone": "(307) 235-8398"
  },
  {
   "state": "WY",
@@ -214,7 +215,7 @@
   "email_program": "",
   "email_main": "animalcontroldivision@cityoflaramie.org",
   "source_list": "shelter website",
-  "phone": "(307) 721-5200"
+  "phone": "(307) 721-5385"
  },
  {
   "state": "WY",
@@ -224,12 +225,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.rswy.net/department/division.php?fDD=1-31",
+  "url": "https://rswy.net/departments/animal_control/index.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "acap@rswy.net",
+  "source_list": "shelter website",
+  "phone": "(307) 352-1455"
  },
  {
   "state": "WY",
@@ -252,13 +254,13 @@
   "city": "Jackson",
   "org": "Animal Adoption Center",
   "program": "Short-term foster (a night or two)",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Overnight",
   "url": "https://animaladoptioncenter.org/get-involved/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "The center sometimes needs fosters to take a dog home for just a night or two; apply with the online foster application and the center supplies food, treats, toys, a bed and a crate (questions: 307-739-1881).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "adopt@animaladoptioncenter.org",
   "email_main": "adopt@animaladoptioncenter.org",
   "source_list": "shelter website",
   "phone": "(307) 739-1881"
@@ -303,7 +305,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://evanstonwy.org/335/Animal-Control",
+  "url": "https://www.evanstonwy.org/260/Evanston-Animal-Control-and-Shelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -351,11 +353,11 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://conversecountyanimalshelter.org",
+  "url": "https://conversecountyanimalshelter.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "laramiepeakhumanesociety@gmail.com",
   "source_list": "shelter website",
   "phone": "(307) 358-6475"
  },
@@ -371,7 +373,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "SFASbuffalowyoming@gmail.com",
   "source_list": "shelter website",
   "phone": "(307) 684-1738"
  },
@@ -383,7 +385,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.pawsforliferiverton.org",
+  "url": "https://www.rivertonwy.gov/departments/police/animal_control.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -437,5 +439,22 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "WY",
+  "city": "Pinedale",
+  "org": "Town of Pinedale Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.townofpinedale.us/animals-code",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(307) 367-4136",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
