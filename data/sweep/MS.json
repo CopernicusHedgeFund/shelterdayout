@@ -349,22 +349,6 @@
  },
  {
   "state": "MS",
-  "city": "McComb",
-  "org": "McComb Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "125 E Michigan Ave, McComb. Official Facebook page.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/mccomb.shelter/"
- },
- {
-  "state": "MS",
   "city": "Marion",
   "org": "Lauderdale County Animal Control Shelter",
   "program": "No day-out program yet",
@@ -379,6 +363,22 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": []
+ },
+ {
+  "state": "MS",
+  "city": "McComb",
+  "org": "McComb Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "",
+  "notes": "125 E Michigan Ave, McComb. Official Facebook page.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "url_social": "https://www.facebook.com/mccomb.shelter/"
  },
  {
   "state": "MS",
@@ -513,6 +513,23 @@
   "phone": "",
   "source_list": "shelter website",
   "osm": "node/5033405679"
+ },
+ {
+  "state": "MS",
+  "city": "Senatobia",
+  "org": "Senatobia / Tate County Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cityofsenatobiams.gov/faq-items/there-is-a-stray-dog-in-my-yard-who-do-i-call/",
+  "notes": "City and county animal shelter listed by the City of Senatobia.",
+  "checked": "November 2026",
+  "phone": "(662) 562-0070",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "government page",
+  "events": []
  },
  {
   "state": "MS",
