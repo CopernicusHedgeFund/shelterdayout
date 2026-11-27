@@ -48,6 +48,7 @@ https://shelterdayout.com/cities/bayside-ny/
 https://shelterdayout.com/cities/baytown-tx/
 https://shelterdayout.com/cities/beaumont-tx/
 https://shelterdayout.com/cities/bedford-nh/
+https://shelterdayout.com/cities/beeville-tx/
 https://shelterdayout.com/cities/belle-chasse-la/
 https://shelterdayout.com/cities/bemidji-mn/
 https://shelterdayout.com/cities/bend-or/
@@ -158,6 +159,7 @@ https://shelterdayout.com/cities/fallston-md/
 https://shelterdayout.com/cities/fernandina-beach-fl/
 https://shelterdayout.com/cities/flagstaff-az/
 https://shelterdayout.com/cities/flushing-ny/
+https://shelterdayout.com/cities/forney-tx/
 https://shelterdayout.com/cities/fort-lauderdale-fl/
 https://shelterdayout.com/cities/fort-walton-beach-fl/
 https://shelterdayout.com/cities/fort-wayne-in/
@@ -246,6 +248,7 @@ https://shelterdayout.com/cities/los-angeles-ca/
 https://shelterdayout.com/cities/louisville-ky/
 https://shelterdayout.com/cities/lovingston-va/
 https://shelterdayout.com/cities/lubbock-tx/
+https://shelterdayout.com/cities/lufkin-tx/
 https://shelterdayout.com/cities/lynchburg-va/
 https://shelterdayout.com/cities/lynnwood-wa/
 https://shelterdayout.com/cities/madera-ca/
@@ -291,6 +294,7 @@ https://shelterdayout.com/cities/munster-in/
 https://shelterdayout.com/cities/murray-ky/
 https://shelterdayout.com/cities/murray-ut/
 https://shelterdayout.com/cities/myerstown-pa/
+https://shelterdayout.com/cities/nacogdoches-tx/
 https://shelterdayout.com/cities/nampa-id/
 https://shelterdayout.com/cities/naples-fl/
 https://shelterdayout.com/cities/nashville-tn/
@@ -328,6 +332,7 @@ https://shelterdayout.com/cities/palmer-ak/
 https://shelterdayout.com/cities/palo-alto-ca/
 https://shelterdayout.com/cities/pasadena-ca/
 https://shelterdayout.com/cities/peachtree-city-ga/
+https://shelterdayout.com/cities/pearland-tx/
 https://shelterdayout.com/cities/pequot-lakes-mn/
 https://shelterdayout.com/cities/philadelphia-pa/
 https://shelterdayout.com/cities/phoenix-az/
