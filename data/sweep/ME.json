@@ -13,7 +13,7 @@
   "email_program": "foster@arlgp.org",
   "email_main": "",
   "source_list": "existing list",
-  "phone": "(207) 887-1280"
+  "phone": "(207) 854-9771"
  },
  {
   "state": "ME",
@@ -26,21 +26,41 @@
   "url": "https://animalwelfaresociety.org/volunteer/foster-volunteers/#dog-date",
   "notes": "Fill out the online Dog Date 'dating profile'; once approved as a short-term foster you are matched with a dog for an outing (walk, lunch, hike, beach, store). Runs 7 days a week depending on dog availability, usually not on weekends 10am-4pm; schedule a few days ahead at (207) 985-3244 ext. 125.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@animalwelfaresociety.org",
   "email_main": "info@animalwelfaresociety.org",
   "source_list": "existing list",
-  "phone": "(207) 985-3244"
+  "phone": "(207) 985-3244",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Adoption Event at East Coast Cannabis (kittens, 10am-2pm)",
+    "url": "https://animalwelfaresociety.org/event/adoption-event-at-east-coast-cannabis-in-eliot/",
+    "place": "East Coast Cannabis, 290 Harold L. Dow Highway, Eliot, ME"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Adoption Event at PetSmart Biddeford (dogs, 10am-2pm)",
+    "url": "https://animalwelfaresociety.org/event/adoption-event-at-petsmart-in-biddeford/",
+    "place": "PetSmart, 208 Mariner Way, Biddeford, ME"
+   },
+   {
+    "date": "2026-12-16",
+    "title": "A Very Merry AWS Open House (2-5pm, RSVP requested)",
+    "url": "https://animalwelfaresociety.org/event/a-very-merry-aws-open-house/",
+    "place": "Animal Welfare Society, 46 Holland Road, West Kennebunk, ME"
+   }
+  ]
  },
  {
   "state": "ME",
   "city": "Brunswick",
   "org": "Midcoast Humane",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs, cats and small animals",
-  "offers": "",
-  "url": "https://midcoasthumane.org/",
-  "notes": "5 Industrial Parkway, Brunswick. 'Doggy Day Out' (reported in local news) is not described on its own volunteer or foster pages as of Nov 2026; only a volunteer Jog-A-Dog program.",
+  "program": "Jog-A-Dog",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Running buddy",
+  "url": "https://midcoasthumane.org/volunteer/",
+  "notes": "Volunteer runners of any distance or speed apply, attend an in-person meeting and training at the Brunswick shelter, then sign up to take energetic shelter dogs out for runs (Brunswick Campus only). 5 Industrial Parkway, Brunswick.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -77,7 +97,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "existing list",
-  "phone": "+1-207-594-2200"
+  "phone": "(207) 594-2200"
  },
  {
   "state": "ME",
@@ -87,7 +107,7 @@
   "status": "Paused",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.bangorhumane.org/",
+  "url": "https://bangorhumane.org/?p=248",
   "notes": "On hold per its page ('working on re-opening it soon'). When running: community members stop by during open hours with photo ID and paperwork; dogs back by 4:30pm; max two dogs out per day.",
   "checked": "November 2026",
   "email_program": "",
@@ -136,7 +156,7 @@
   "animals": "Dogs",
   "offers": "Day trip, sleepover",
   "url": "https://gahumane.org/what-we-do/behavior-and-enrichment/",
-  "notes": "Behavior & Enrichment page says GAHS aims to implement Doggie Day Trips and Slumber Parties 'in 2025 and beyond'; no rules or sign-up shown, so may not be running. 55 Strawberry Ave, Lewiston.",
+  "notes": "Behavior & Enrichment page still says GAHS aims to implement Doggie Day Trips and Slumber Parties 'in 2025 and beyond' with no rules or sign-up, so may not be running; its events page does list a Thanksgiving Holiday Foster (Nov 28-30). 55 Strawberry Ave, Lewiston.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@gahumane.org",
@@ -145,7 +165,8 @@
    {
     "date": "2026-12-12",
     "title": "Holiday Open House (11am-3pm)",
-    "url": "https://gahumane.org/news-events/"
+    "url": "https://gahumane.org/event/holiday-open-house-4/",
+    "place": "Greater Androscoggin Humane Society, 55 Strawberry Ave, Lewiston, ME"
    }
   ],
   "phone": "(207) 783-2311"
@@ -215,18 +236,19 @@
  },
  {
   "state": "ME",
-  "city": "Norway",
+  "city": "South Paris",
   "org": "Responsible Pet Care of Oxford Hills",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.maine.gov/dacf/ahw/animal_welfare/shelters.shtml",
-  "notes": "Listed in Norway on the Maine DACF shelter list; own website not found in this pass.",
-  "checked": "",
+  "url": "https://www.responsiblepetcare.org/",
+  "notes": "No-kill shelter and adoption center for cats and dogs at 9 Swallow Road, South Paris (open Fri-Sun 12-4; dogs by appointment).",
+  "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "existing list"
+  "source_list": "existing list",
+  "phone": "(207) 743-8679"
  },
  {
   "state": "ME",
@@ -236,13 +258,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.spcahancockcounty.org/",
-  "notes": "141 Bar Harbor Road, Trenton; (207) 667-8088. Website taken from its Adopt-a-Pet listing; site itself could not be fetched to check for programs.",
+  "url": "https://www.spcahancockcounty.org/",
+  "notes": "141 Bar Harbor Road (Route 3), Trenton. Volunteers walk dogs on the shelter's private trail system; no off-site outing program described.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@spcahancockcounty.org",
   "source_list": "Maine DACF licensed shelter list",
-  "source": "https://www.adoptapet.com/shelter/80981-spca-of-hancock-county-trenton-maine"
+  "source": "https://www.adoptapet.com/shelter/80981-spca-of-hancock-county-trenton-maine",
+  "phone": "(207) 667-8088"
  },
  {
   "state": "ME",
