@@ -705,7 +705,7 @@ https://shelterdayout.com/listings/animal-humane-society-saint-paul-saint-paul/
 https://shelterdayout.com/listings/animal-humane-society-woodbury-woodbury/
 https://shelterdayout.com/listings/animal-orphanage-old-town/
 https://shelterdayout.com/listings/animal-orphanage-voorhees/
-https://shelterdayout.com/listings/animal-outreach-of-cape-may-county-rio-grande/
+https://shelterdayout.com/listings/animal-outreach-of-cape-may-county-west-cape-may/
 https://shelterdayout.com/listings/animal-protection-center-of-southeastern-massachusetts-brockton/
 https://shelterdayout.com/listings/animal-protection-society-friday-harbor-aps-fh-friday-harbor/
 https://shelterdayout.com/listings/animal-protection-society-of-caswell-county-yanceyville/
@@ -1407,7 +1407,6 @@ https://shelterdayout.com/listings/clinton-county-dog-warden-wilmington/
 https://shelterdayout.com/listings/clinton-county-humane-society-breese/
 https://shelterdayout.com/listings/clinton-county-spca-lock-haven/
 https://shelterdayout.com/listings/clinton-humane-society-clinton/
-https://shelterdayout.com/listings/closter-animal-welfare-society-claws-closter/
 https://shelterdayout.com/listings/clover-s-cat-club-normal/
 https://shelterdayout.com/listings/clovis-animal-shelter-city-of-clovis-animal-control-clovis/
 https://shelterdayout.com/listings/coachella-valley-animal-campus-riverside-county-dept-of-animal-services-thousand-palms/
@@ -2169,7 +2168,6 @@ https://shelterdayout.com/listings/howard-county-animal-control-and-adoption-cen
 https://shelterdayout.com/listings/hsnt-keller-regional-adoption-center-regional-animal-adoption-center-keller/
 https://shelterdayout.com/listings/huachuca-city-animal-shelter-huachuca-city/
 https://shelterdayout.com/listings/hub-city-humane-society-hattiesburg/
-https://shelterdayout.com/listings/hudson-county-animal-league-hcal-bayonne/
 https://shelterdayout.com/listings/hudson-valley-animal-rescue-and-sanctuary-hvars-poughkeepsie/
 https://shelterdayout.com/listings/hudson-valley-humane-society-pomona/
 https://shelterdayout.com/listings/hudson-valley-spca-goshen-goshen/
@@ -3012,7 +3010,6 @@ https://shelterdayout.com/listings/montgomery-county-spca-amsterdam/
 https://shelterdayout.com/listings/montgomery-county-spca-conshohocken/
 https://shelterdayout.com/listings/montgomery-county-spca-perkiomenville-branch-perkiomenville/
 https://shelterdayout.com/listings/montgomery-humane-society-montgomery/
-https://shelterdayout.com/listings/montgomery-township-animal-shelter-belle-mead/
 https://shelterdayout.com/listings/montville-animal-shelter-montville/
 https://shelterdayout.com/listings/montville-regional-animal-control-montville-dog-pound-uncasville/
 https://shelterdayout.com/listings/moore-animal-welfare-and-adoption-center-moore/
@@ -3121,7 +3118,7 @@ https://shelterdayout.com/listings/niagara-spca-niagara-county-spca-niagara-fall
 https://shelterdayout.com/listings/nicholas-co-animal-shelter-summersville/
 https://shelterdayout.com/listings/nine-lives-foundation-redwood-city/
 https://shelterdayout.com/listings/nixa-animal-control-nixa/
-https://shelterdayout.com/listings/nj-humane-society-newark/
+https://shelterdayout.com/listings/nj-humane-society-west-new-york/
 https://shelterdayout.com/listings/noah-project-muskegon/
 https://shelterdayout.com/listings/noah-s-ark-animal-sanctuary-rockford/
 https://shelterdayout.com/listings/noah-s-ark-animal-shelter-carlsbad/
@@ -3214,7 +3211,7 @@ https://shelterdayout.com/listings/olympic-peninsula-humane-society-kitty-city-s
 https://shelterdayout.com/listings/one-dog-at-a-time-lewistown/
 https://shelterdayout.com/listings/one-more-dog-rescue-loomis/
 https://shelterdayout.com/listings/one-of-a-kind-pet-rescue-akron/
-https://shelterdayout.com/listings/one-step-closer-animal-rescue-o-s-c-a-r-andover/
+https://shelterdayout.com/listings/one-step-closer-animal-rescue-o-s-c-a-r-sparta/
 https://shelterdayout.com/listings/one-tail-at-a-time-chicago/
 https://shelterdayout.com/listings/oneida-county-humane-society-rhinelander/
 https://shelterdayout.com/listings/onslow-county-animal-services-jacksonville/

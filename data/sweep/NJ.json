@@ -41,7 +41,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "patchcatinfo@yahoo.com",
   "phone": "(973) 835-7202",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/4940878505",
@@ -94,7 +94,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@twp.woodbridge.nj.us",
-  "phone": "(732) 634-4450",
+  "phone": "(732) 855-0600 ext. 5007",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8419209917"
  },
@@ -120,11 +120,11 @@
   "city": "Montclair",
   "org": "Catfe Montclair",
   "program": "Cat lounge visits",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "Cat visits",
-  "url": "https://www.catfemontclair.com",
-  "notes": "Cat cafe at 356 Bloomfield Ave where visitors can meet adoptable rescued cats; check the site for visit booking and which rescue the cats come from.",
+  "offers": "Cat lounge visits",
+  "url": "https://www.catfemontclair.com/visit-us/catlounge",
+  "notes": "Book a 30-minute (ages 7+, $15) or 60-minute (ages 12+, $30) visit online to spend time with adoptable cats from rescue partner Homeless Tails at 356 Bloomfield Ave; waivers and socks are required.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "meow@catfemontclair.com",
@@ -145,7 +145,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-973-470-5936",
+  "phone": "(973) 470-5936",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/468795098"
  },
@@ -161,8 +161,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "(973) 365-5500",
+  "email_main": "animalshelter@cityofpassaicnj.gov",
+  "phone": "(973) 365-5669",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/474675557",
   "url_social": "https://www.petfinder.com/shelters/nj36.html"
@@ -192,7 +192,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://waynetownship.com/animal-shelter.html",
+  "url": "https://waynetownship.com/health-home-page/animal-shelter-main/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -248,7 +248,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-201-348-3213",
+  "phone": "(201) 348-3213",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/653339414"
  },
@@ -300,7 +300,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "gcas@co.gloucester.nj.us",
-  "phone": "(856) 218-4101",
+  "phone": "(856) 881-2828",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/854071512"
  },
@@ -352,7 +352,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "save@savehomelessanimals.org",
-  "phone": "+1-609-309-5214",
+  "phone": "(609) 309-5214",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/966347787"
  },
@@ -420,7 +420,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(973) 744-1400 ext. 5313",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1126095023"
  },
@@ -436,8 +436,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "(908) 688-2800",
+  "email_main": "animalshelter@uniontownship.com",
+  "phone": "(908) 851-5230",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1189971762",
   "url_social": "https://www.petfinder.com/shelters/NJ268.html"
@@ -455,7 +455,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "eas@edisonnj.org",
-  "phone": "(732) 287-0900",
+  "phone": "(732) 248-7278",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1450326770"
  },
@@ -488,7 +488,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "shelter@bergencountynj.gov",
   "source_list": "shelter website",
   "phone": "(201) 229-4600"
  },
@@ -564,8 +564,8 @@
   "status": "Open to public",
   "animals": "Cats",
   "offers": "Cat visits",
-  "url": "https://www.tabbysplace.org/",
-  "notes": "Cage-free cat sanctuary open to the public seven days a week, 12-5pm, to meet adoptable cats.",
+  "url": "https://www.tabbysplace.org/visit_us/",
+  "notes": "Cage-free cat sanctuary open to the public daily 12-5pm (closed some holidays) for walk-in or booked 30-minute visits with adoptable cats.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -602,11 +602,43 @@
   "email_program": "",
   "email_main": "info@animalalliancenj.org",
   "source_list": "shelter website",
-  "phone": "(609) 818-1952"
+  "phone": "(609) 818-1952",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Adoption Day at Rosedale Mills / Pennington Farmers Market",
+    "url": "https://www.animalalliancenj.org/new-events/rosedalemills-ymxsz-6996c-f6d6c-5z2s8-n4w4b-63fyk",
+    "place": "Rosedale Town & Country, 101 NJ-31, Pennington, NJ"
+   },
+   {
+    "date": "2026-11-29",
+    "title": "Adoption Day at Tractor Supply Co.",
+    "url": "https://www.animalalliancenj.org/new-events/9a32xg3xk4gw3ex",
+    "place": "Tractor Supply Co, 144 US-202, Ringoes, NJ"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Adoption Day at PetSmart Flemington",
+    "url": "https://www.animalalliancenj.org/new-events/petsmart2023-kzggs-wm69d-w8y8n-a37p6-637yh-6cnk6-47c3x-92klb-nrnxd-7gpey-ba6rc-whmzt-rb9pl-aslll-m2rs9-cz8gg-tnj7f-rlcgn-r8rpm",
+    "place": "PetSmart, 132 Route 31, Flemington, NJ"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Adoption Day at Rosedale Mills / Pennington Farmers Market",
+    "url": "https://www.animalalliancenj.org/new-events/rosedalemills-ymxsz-6996c-f6d6c-5z2s8-n4w4b-m8yr9",
+    "place": "Rosedale Town & Country, 101 NJ-31, Pennington, NJ"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Adoption Day at Lowe's Flemington",
+    "url": "https://www.animalalliancenj.org/new-events/lowes2023-x3kdg-ex9es-lm678-b2f7h-t8g26-nzsd5-ze3bk-3b6d6-g6t46-6a83e-c4s8c-2pkwg",
+    "place": "Lowe's, 150 NJ-31, Flemington, NJ"
+   }
+  ]
  },
  {
   "state": "NJ",
-  "city": "Newark",
+  "city": "West New York",
   "org": "NJ Humane Society",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -650,7 +682,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(908) 689-1783"
+  "phone": "(908) 859-3060"
  },
  {
   "state": "NJ",
@@ -664,7 +696,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "newark@ahsppz.org",
   "source_list": "shelter website",
   "phone": "(973) 824-7080"
  },
@@ -702,17 +734,17 @@
  },
  {
   "state": "NJ",
-  "city": "Andover",
+  "city": "Sparta",
   "org": "One Step Closer Animal Rescue (O.S.C.A.R.)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://oscaranimalrescue.org/",
+  "url": "https://www.oscaranimalrescue.com/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "OSCARRescue@yahoo.com",
   "source_list": "shelter website",
   "phone": "(973) 810-2853"
  },
@@ -818,14 +850,14 @@
   "state": "NJ",
   "city": "North Branch",
   "org": "St. Hubert's Animal Welfare Center - North Branch",
-  "program": "Field Trips",
-  "status": "Needs check",
+  "program": "Field Trips for Dogs",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://www.sthuberts.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Day trips",
+  "url": "https://www.sthuberts.org/field-trips",
+  "notes": "Adults 18+ book a field-trip appointment (daily 10am-1:30pm, scheduled two weeks at a time) to take a shelter dog out for a few hours on leash.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "fieldtrips@sthuberts.org",
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(973) 377-2295"
@@ -859,9 +891,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "healthdept@westorange.org",
   "source_list": "shelter website",
-  "phone": "(973) 325-4100"
+  "phone": "(973) 325-4128"
  },
  {
   "state": "NJ",
@@ -875,9 +907,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol-coe@elizabethnj.org",
   "source_list": "shelter website",
-  "phone": "(908) 820-4000"
+  "phone": "(908) 820-4242"
  },
  {
   "state": "NJ",
@@ -920,11 +952,11 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://ahscares.org/",
+  "url": "https://ahscares.org/tinton-falls-shelter/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "TintonFallsAHS@ahsppz.org",
   "source_list": "shelter website",
   "phone": "(732) 922-0100"
  },
@@ -936,11 +968,11 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://ahscares.org/",
+  "url": "https://ahscares.org/ahs-popcorn-park-shelter/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "office@ahsppz.org",
   "source_list": "shelter website",
   "phone": "(609) 693-1900"
  },
@@ -973,7 +1005,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "nocaf@oceancountyhealth.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(732) 657-8086"
  },
  {
   "state": "NJ",
@@ -988,7 +1021,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "socaf@oceancountyhealth.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(609) 978-0127"
  },
  {
   "state": "NJ",
@@ -1034,7 +1068,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(609) 799-1263"
  },
  {
   "state": "NJ",
@@ -1139,13 +1174,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.oldbridge.com/",
+  "url": "https://www.oldbridge.com/page/animal-control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@oldbridge.com",
   "source_list": "shelter website",
-  "phone": "(732) 721-5600"
+  "phone": "(732) 607-4801"
  },
  {
   "state": "NJ",
@@ -1159,7 +1194,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info.easelnj@gmail.com",
   "source_list": "shelter website",
   "events": [
    {
@@ -1195,22 +1230,6 @@
  },
  {
   "state": "NJ",
-  "city": "Closter",
-  "org": "Closter Animal Welfare Society (CLAWS)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.clawsadopt.org/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "NJ",
   "city": "Vineland",
   "org": "South Jersey Regional Animal Shelter (Cumberland County SPCA)",
   "program": "No day-out program yet",
@@ -1238,7 +1257,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@aonj.org",
   "source_list": "shelter website"
  },
  {
@@ -1254,7 +1273,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "aac@bvspca.org",
   "source_list": "shelter website"
  },
  {
@@ -1263,26 +1282,10 @@
   "org": "The Pet Adoption League",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "url": "https://petadoptionleague8.godaddysites.com/",
   "phone": "(973) 584-0095",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "NJ",
-  "city": "Bayonne",
-  "org": "Hudson County Animal League (HCAL)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Cats",
-  "offers": "",
-  "url": "https://www.hcalnj.org/",
-  "phone": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -1302,12 +1305,12 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@sammyshope.org",
   "source_list": "shelter website"
  },
  {
   "state": "NJ",
-  "city": "Rio Grande",
+  "city": "West Cape May",
   "org": "Animal Outreach of Cape May County",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -1318,23 +1321,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "NJ",
-  "city": "Belle Mead",
-  "org": "Montgomery Township Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.montgomerynj.gov/animal/page/adoptable-animals",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_main": "info@aocmc.org",
   "source_list": "shelter website"
  },
  {

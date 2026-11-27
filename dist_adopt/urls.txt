@@ -302,7 +302,6 @@ https://shelteradoption.com/cities/nesbit-ms/
 https://shelteradoption.com/cities/new-castle-de/
 https://shelteradoption.com/cities/new-iberia-la/
 https://shelteradoption.com/cities/new-york-ny/
-https://shelteradoption.com/cities/newark-nj/
 https://shelteradoption.com/cities/newberg-or/
 https://shelteradoption.com/cities/newington-ct/
 https://shelteradoption.com/cities/newnan-ga/
@@ -682,7 +681,7 @@ https://shelteradoption.com/shelters/animal-humane-society-saint-paul-saint-paul
 https://shelteradoption.com/shelters/animal-humane-society-woodbury-woodbury/
 https://shelteradoption.com/shelters/animal-orphanage-old-town/
 https://shelteradoption.com/shelters/animal-orphanage-voorhees/
-https://shelteradoption.com/shelters/animal-outreach-of-cape-may-county-rio-grande/
+https://shelteradoption.com/shelters/animal-outreach-of-cape-may-county-west-cape-may/
 https://shelteradoption.com/shelters/animal-protection-center-of-southeastern-massachusetts-brockton/
 https://shelteradoption.com/shelters/animal-protection-society-friday-harbor-aps-fh-friday-harbor/
 https://shelteradoption.com/shelters/animal-protection-society-of-caswell-county-yanceyville/
@@ -1384,7 +1383,6 @@ https://shelteradoption.com/shelters/clinton-county-dog-warden-wilmington/
 https://shelteradoption.com/shelters/clinton-county-humane-society-breese/
 https://shelteradoption.com/shelters/clinton-county-spca-lock-haven/
 https://shelteradoption.com/shelters/clinton-humane-society-clinton/
-https://shelteradoption.com/shelters/closter-animal-welfare-society-claws-closter/
 https://shelteradoption.com/shelters/clover-s-cat-club-normal/
 https://shelteradoption.com/shelters/clovis-animal-shelter-city-of-clovis-animal-control-clovis/
 https://shelteradoption.com/shelters/coachella-valley-animal-campus-riverside-county-dept-of-animal-services-thousand-palms/
@@ -2146,7 +2144,6 @@ https://shelteradoption.com/shelters/howard-county-animal-control-and-adoption-c
 https://shelteradoption.com/shelters/hsnt-keller-regional-adoption-center-regional-animal-adoption-center-keller/
 https://shelteradoption.com/shelters/huachuca-city-animal-shelter-huachuca-city/
 https://shelteradoption.com/shelters/hub-city-humane-society-hattiesburg/
-https://shelteradoption.com/shelters/hudson-county-animal-league-hcal-bayonne/
 https://shelteradoption.com/shelters/hudson-valley-animal-rescue-and-sanctuary-hvars-poughkeepsie/
 https://shelteradoption.com/shelters/hudson-valley-humane-society-pomona/
 https://shelteradoption.com/shelters/hudson-valley-spca-goshen-goshen/
@@ -2989,7 +2986,6 @@ https://shelteradoption.com/shelters/montgomery-county-spca-amsterdam/
 https://shelteradoption.com/shelters/montgomery-county-spca-conshohocken/
 https://shelteradoption.com/shelters/montgomery-county-spca-perkiomenville-branch-perkiomenville/
 https://shelteradoption.com/shelters/montgomery-humane-society-montgomery/
-https://shelteradoption.com/shelters/montgomery-township-animal-shelter-belle-mead/
 https://shelteradoption.com/shelters/montville-animal-shelter-montville/
 https://shelteradoption.com/shelters/montville-regional-animal-control-montville-dog-pound-uncasville/
 https://shelteradoption.com/shelters/moore-animal-welfare-and-adoption-center-moore/
@@ -3098,7 +3094,7 @@ https://shelteradoption.com/shelters/niagara-spca-niagara-county-spca-niagara-fa
 https://shelteradoption.com/shelters/nicholas-co-animal-shelter-summersville/
 https://shelteradoption.com/shelters/nine-lives-foundation-redwood-city/
 https://shelteradoption.com/shelters/nixa-animal-control-nixa/
-https://shelteradoption.com/shelters/nj-humane-society-newark/
+https://shelteradoption.com/shelters/nj-humane-society-west-new-york/
 https://shelteradoption.com/shelters/noah-project-muskegon/
 https://shelteradoption.com/shelters/noah-s-ark-animal-sanctuary-rockford/
 https://shelteradoption.com/shelters/noah-s-ark-animal-shelter-carlsbad/
@@ -3191,7 +3187,7 @@ https://shelteradoption.com/shelters/olympic-peninsula-humane-society-kitty-city
 https://shelteradoption.com/shelters/one-dog-at-a-time-lewistown/
 https://shelteradoption.com/shelters/one-more-dog-rescue-loomis/
 https://shelteradoption.com/shelters/one-of-a-kind-pet-rescue-akron/
-https://shelteradoption.com/shelters/one-step-closer-animal-rescue-o-s-c-a-r-andover/
+https://shelteradoption.com/shelters/one-step-closer-animal-rescue-o-s-c-a-r-sparta/
 https://shelteradoption.com/shelters/one-tail-at-a-time-chicago/
 https://shelteradoption.com/shelters/oneida-county-humane-society-rhinelander/
 https://shelteradoption.com/shelters/onslow-county-animal-services-jacksonville/
