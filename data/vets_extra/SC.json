@@ -1288,5 +1288,20 @@
   "lon": null,
   "src": "https://www.trussvet.com/cary-fenton/",
   "checked": "November 2026"
+ },
+ {
+  "state": "SC",
+  "name": "Palmetto Animal Hospital (Williamston)",
+  "city": "Williamston",
+  "street": "10 Roberts Blvd",
+  "zip": "29697",
+  "phone": "(864) 847-7678",
+  "website": "https://palmettoah.com/contact/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://palmettoah.com/contact/",
+  "checked": "November 2026"
  }
 ]
