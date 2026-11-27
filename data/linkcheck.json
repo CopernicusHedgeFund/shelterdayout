@@ -1,0 +1,3564 @@
+{
+ "bad": {
+  "http://catoctinveterinaryclinic.com/": {
+   "code": 500,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/maryland/index.html",
+    "dist_adopt/find-a-vet/maryland/index.html",
+    "vets/MD.json"
+   ]
+  },
+  "http://countryridgevet.com": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/michigan/index.html",
+    "dist_adopt/find-a-vet/michigan/index.html",
+    "vets/MI.json"
+   ]
+  },
+  "http://dogandcatveterinarian.com/": {
+   "code": 500,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/kentucky/index.html",
+    "dist_adopt/find-a-vet/kentucky/index.html",
+    "vets/KY.json"
+   ]
+  },
+  "http://indianspringsanimalclinic.com/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/alabama/index.html",
+    "dist_adopt/find-a-vet/alabama/index.html",
+    "vets/AL.json"
+   ]
+  },
+  "http://okemosanimal.com": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/michigan/index.html",
+    "dist_adopt/find-a-vet/michigan/index.html",
+    "vets/MI.json"
+   ]
+  },
+  "http://onelovevet/location_yorkville": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "http://pointecoupeeanimalshelter.org": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/listings/pointe-coupee-animal-shelter-new-roads/index.html",
+    "dist_adopt/shelters/pointe-coupee-animal-shelter-new-roads/index.html"
+   ]
+  },
+  "http://poshpetsrescue.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/posh-pets-rescue-city-of-long-beach-animal-shelter-long-beach/index.html",
+    "dist_adopt/shelters/posh-pets-rescue-city-of-long-beach-animal-shelter-long-beach/index.html"
+   ]
+  },
+  "http://westhillsanimalclinic.com/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "http://www.animalcentral.net/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/colorado/index.html",
+    "dist_adopt/find-a-vet/colorado/index.html",
+    "vets/CO.json"
+   ]
+  },
+  "http://www.arlingtonheightsveterinaryhospital.vetsuite.com": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/indiana/index.html",
+    "dist_adopt/find-a-vet/indiana/index.html",
+    "vets/IN.json"
+   ]
+  },
+  "http://www.brightsideanimals.org/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "http://www.catdoctor98.com": {
+   "code": 444,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/wisconsin/index.html",
+    "dist_adopt/find-a-vet/wisconsin/index.html",
+    "vets/WI.json"
+   ]
+  },
+  "http://www.clairmontanimalhospital.net/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/georgia/index.html",
+    "dist_adopt/find-a-vet/georgia/index.html",
+    "vets/GA.json"
+   ]
+  },
+  "http://www.companionpetclinics.com/": {
+   "code": null,
+   "err": "URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "http://www.humanecamden.org": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-camden-county-kingsland/index.html",
+    "dist_adopt/shelters/humane-society-of-camden-county-kingsland/index.html"
+   ]
+  },
+  "http://www.kanabvet.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/utah/index.html",
+    "dist_adopt/find-a-vet/utah/index.html",
+    "vets/UT.json"
+   ]
+  },
+  "http://www.madisonroadvet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/wisconsin/index.html",
+    "dist_adopt/find-a-vet/wisconsin/index.html",
+    "vets/WI.json"
+   ]
+  },
+  "http://www.nappaneeveterinaryhospital.vetsuite.com/Templates/boxedwhite.aspx": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/indiana/index.html",
+    "dist_adopt/find-a-vet/indiana/index.html",
+    "vets/IN.json"
+   ]
+  },
+  "http://www.patapscovalleyvet.com/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/maryland/index.html",
+    "dist_adopt/find-a-vet/maryland/index.html",
+    "vets/MD.json"
+   ]
+  },
+  "http://www.pawspueblo.org": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/paws-for-life-animal-welfare-and-protection-society-pueblo/index.html",
+    "dist_adopt/shelters/paws-for-life-animal-welfare-and-protection-society-pueblo/index.html"
+   ]
+  },
+  "http://www.safehavensmallbreedrescue.org/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/safehaven-small-breed-rescue-tionesta/index.html",
+    "dist_adopt/shelters/safehaven-small-breed-rescue-tionesta/index.html"
+   ]
+  },
+  "http://www.sanjoseanimalhospital.com/": {
+   "code": null,
+   "err": "URLError: [Errno 104] Connection reset by peer",
+   "where": [
+    "dist/find-a-vet/california/index.html",
+    "dist_adopt/find-a-vet/california/index.html",
+    "vets/CA.json"
+   ]
+  },
+  "http://www.shasnwia.com/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/safe-haven-animal-shelter-of-nw-iowa-pocahontas/index.html",
+    "dist_adopt/shelters/safe-haven-animal-shelter-of-nw-iowa-pocahontas/index.html"
+   ]
+  },
+  "http://www.wpranimalshelter.com/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/west-plains-regional-animal-shelter-west-plains/index.html",
+    "dist_adopt/shelters/west-plains-regional-animal-shelter-west-plains/index.html"
+   ]
+  },
+  "https://abrivet.com/": {
+   "code": null,
+   "err": "URLError: [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/new-jersey/index.html",
+    "dist_adopt/find-a-vet/new-jersey/index.html",
+    "vets/NJ.json"
+   ]
+  },
+  "https://accomack.prod-as.govaccess.org/government/constitutional-officers/sheriff/divisions/animal-control-facility": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/eastern-shore-regional-animal-control-facility-melfa/index.html",
+    "dist_adopt/shelters/eastern-shore-regional-animal-control-facility-melfa/index.html"
+   ]
+  },
+  "https://acctphilly.org/event/clear-the-crates/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/acct-philly-philadelphia/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/acct-philly-philadelphia/index.html"
+   ]
+  },
+  "https://acctphilly.org/event/empty-the-shelters-holiday-hope/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/acct-philly-philadelphia/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/acct-philly-philadelphia/index.html"
+   ]
+  },
+  "https://acctphilly.org/event/king-of-prussia-petsmart-same-day-adoption-event-6/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/acct-philly-philadelphia/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/acct-philly-philadelphia/index.html"
+   ]
+  },
+  "https://acctphilly.org/philly-pupventures/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/acct-philly-philadelphia/index.html",
+    "dist_adopt/shelters/acct-philly-philadelphia/index.html"
+   ]
+  },
+  "https://adoptapet.com/shelter/75720-heart-of-the-catskills-humane-society-delhi-new-york; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6569": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/shelter/75720-heart-of-the-catskills-humane-society-delhi-new-york; https://apps",
+   "where": [
+    "dist/listings/heart-of-the-catskills-humane-society-delhi/index.html"
+   ]
+  },
+  "https://adoptapet.com/shelter/84496; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6579": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/shelter/84496; https://apps.agriculture.ny.gov/MunicipalShelterReports/Municipal",
+   "where": [
+    "dist/listings/hornell-area-humane-society-hornell/index.html"
+   ]
+  },
+  "https://adoptapet.com/shelter/91683-delaware-valley-humane-society-sidney-new-york; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6519": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/shelter/91683-delaware-valley-humane-society-sidney-new-york; https://apps.agric",
+   "where": [
+    "dist/listings/delaware-valley-humane-society-sidney/index.html"
+   ]
+  },
+  "https://ahscares.org/ahs-popcorn-park-shelter/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/associated-humane-societies-forked-river-popcorn-park-forked-river/index.html",
+    "dist_adopt/shelters/associated-humane-societies-forked-river-popcorn-park-forked-river/index.html"
+   ]
+  },
+  "https://ahscares.org/tinton-falls-shelter/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/associated-humane-societies-tinton-falls-tinton-falls/index.html",
+    "dist_adopt/shelters/associated-humane-societies-tinton-falls-tinton-falls/index.html"
+   ]
+  },
+  "https://akaulacatgarden.org/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/aka-ula-cat-garden-kualapuu/index.html",
+    "dist_adopt/shelters/aka-ula-cat-garden-kualapuu/index.html"
+   ]
+  },
+  "https://alexandriaanimals.org/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/vola-lawson-animal-shelter-alexandria/index.html",
+    "dist_adopt/shelters/vola-lawson-animal-shelter-alexandria/index.html"
+   ]
+  },
+  "https://allcreaturesvettn.com/manchester": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/tennessee/index.html",
+    "dist_adopt/find-a-vet/tennessee/index.html",
+    "vets/TN.json"
+   ]
+  },
+  "https://alliedveterinaryspecialists.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://alliedveterinaryspecialists.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://altaviewvets.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/california/index.html",
+    "dist_adopt/find-a-vet/california/index.html",
+    "vets/CA.json"
+   ]
+  },
+  "https://amadorequine.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/california/index.html",
+    "dist_adopt/find-a-vet/california/index.html",
+    "vets/CA.json"
+   ]
+  },
+  "https://amandafoundation.org/adoptions": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/the-amanda-foundation-adoption-center-beverly-hills/index.html",
+    "dist_adopt/shelters/the-amanda-foundation-adoption-center-beverly-hills/index.html"
+   ]
+  },
+  "https://americanvethospital.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/california/index.html",
+    "dist_adopt/find-a-vet/california/index.html",
+    "vets/CA.json"
+   ]
+  },
+  "https://anahuac.us/departments/animal-care-and-control/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/city-of-anahuac-animal-shelter-anahuac/index.html",
+    "dist_adopt/shelters/city-of-anahuac-animal-shelter-anahuac/index.html"
+   ]
+  },
+  "https://animalarkmn.org/bookbuddy/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-ark-hastings/index.html",
+    "dist_adopt/shelters/animal-ark-hastings/index.html"
+   ]
+  },
+  "https://animalclinicvet.com/": {
+   "code": 523,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/kansas/index.html",
+    "dist_adopt/find-a-vet/kansas/index.html",
+    "vets/KS.json"
+   ]
+  },
+  "https://animalwelfarefriends.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-welfare-friends-monticello/index.html",
+    "dist_adopt/shelters/animal-welfare-friends-monticello/index.html"
+   ]
+  },
+  "https://apamo.org/event/big-dog-energy-tuesdays/all/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-protective-association-of-missouri-apa-adoption-center-st-louis/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/animal-protective-association-of-missouri-apa-adoption-center-st-louis/index.html"
+   ]
+  },
+  "https://apamo.org/event/black-friday-weekend/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-protective-association-of-missouri-apa-adoption-center-st-louis/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/animal-protective-association-of-missouri-apa-adoption-center-st-louis/index.html"
+   ]
+  },
+  "https://apamo.org/event/doggie-dates/2026-07-31/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-protective-association-of-missouri-apa-adoption-center-st-louis/index.html",
+    "dist_adopt/shelters/animal-protective-association-of-missouri-apa-adoption-center-st-louis/index.html"
+   ]
+  },
+  "https://aperc.com/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/georgia/index.html",
+    "dist_adopt/find-a-vet/georgia/index.html",
+    "vets/GA.json"
+   ]
+  },
+  "https://appj.org/?p=273924": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/acadia-parish-animal-control-crowley/index.html",
+    "dist_adopt/shelters/acadia-parish-animal-control-crowley/index.html"
+   ]
+  },
+  "https://applevalley.org/services/animal-services/shelter-services": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/apple-valley-animal-services-shelter-apple-valley/index.html",
+    "dist_adopt/shelters/apple-valley-animal-services-shelter-apple-valley/index.html"
+   ]
+  },
+  "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6644": {
+   "code": 500,
+   "err": null,
+   "where": [
+    "dist/listings/north-country-animal-control-center-malone/index.html",
+    "dist_adopt/shelters/north-country-animal-control-center-malone/index.html"
+   ]
+  },
+  "https://arbucklevetclinic.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/oklahoma/index.html",
+    "dist_adopt/find-a-vet/oklahoma/index.html",
+    "vets/OK.json"
+   ]
+  },
+  "https://arkanimalcare.org/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "https://assisi.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/assisi-animal-foundation-crystal-lake/index.html",
+    "dist_adopt/shelters/assisi-animal-foundation-crystal-lake/index.html"
+   ]
+  },
+  "https://auburnvalleyhs.org/cat-cafe/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/auburn-valley-humane-society-auburn/index.html",
+    "dist_adopt/shelters/auburn-valley-humane-society-auburn/index.html"
+   ]
+  },
+  "https://augusta-redesign.prod.govaccess.org/government/departments-and-offices/animal-control": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/shenandoah-valley-animal-services-center-staunton-augusta-waynesboro-lyndhurst/index.html",
+    "dist_adopt/shelters/shenandoah-valley-animal-services-center-staunton-augusta-waynesboro-lyndhurst/index.html"
+   ]
+  },
+  "https://awsomanimals.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-welfare-society-of-monroe-awsom-stroudsburg/index.html",
+    "dist_adopt/shelters/animal-welfare-society-of-monroe-awsom-stroudsburg/index.html"
+   ]
+  },
+  "https://bahspets.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/belleville-area-humane-society-belleville/index.html",
+    "dist_adopt/shelters/belleville-area-humane-society-belleville/index.html"
+   ]
+  },
+  "https://bakersfieldspca.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/bakersfield-spca-bakersfield/index.html",
+    "dist_adopt/shelters/bakersfield-spca-bakersfield/index.html"
+   ]
+  },
+  "https://bcfanimalrefuge.org/": {
+   "code": 503,
+   "err": null,
+   "where": [
+    "dist/listings/blue-chip-farm-animal-refuge-dallas/index.html",
+    "dist_adopt/shelters/blue-chip-farm-animal-refuge-dallas/index.html"
+   ]
+  },
+  "https://bcfanimalrefuge.org/event-blog/": {
+   "code": 503,
+   "err": null,
+   "where": [
+    "dist/listings/blue-chip-farm-animal-refuge-dallas/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/blue-chip-farm-animal-refuge-dallas/index.html"
+   ]
+  },
+  "https://bchsnu.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/brown-county-humane-society-new-ulm/index.html",
+    "dist_adopt/shelters/brown-county-humane-society-new-ulm/index.html"
+   ]
+  },
+  "https://belchertownveterinaryhospital.com/": {
+   "code": 522,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/massachusetts/index.html",
+    "dist_adopt/find-a-vet/massachusetts/index.html",
+    "vets/MA.json"
+   ]
+  },
+  "https://bensonaz.gov/departments/animal_control.php": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/benson-animal-shelter-benson/index.html",
+    "dist_adopt/shelters/benson-animal-shelter-benson/index.html"
+   ]
+  },
+  "https://blueridgeanimalleague.org/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/virginia/index.html",
+    "dist_adopt/find-a-vet/virginia/index.html",
+    "vets/VA.json"
+   ]
+  },
+  "https://bmtwest.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/texas/index.html",
+    "dist_adopt/find-a-vet/texas/index.html",
+    "vets/TX.json"
+   ]
+  },
+  "https://branford-ct.gov/departments/animal-shelter/adoption": {
+   "code": null,
+   "err": "URLError: [Errno 104] Connection reset by peer",
+   "where": [
+    "dist/listings/dan-cosgrove-animal-shelter-branford/index.html",
+    "dist_adopt/shelters/dan-cosgrove-animal-shelter-branford/index.html"
+   ]
+  },
+  "https://brightsideanimals.org/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/brightside-animal-center-redmond/index.html",
+    "dist_adopt/shelters/brightside-animal-center-redmond/index.html"
+   ]
+  },
+  "https://brownstownanimal.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://buckroadanimalhospital.com/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://capitaldistrict.ethosvet.com/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "https://caringhandshs.org/volunteer/adventure-tails/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/caring-hands-humane-society-newton/index.html",
+    "dist_adopt/shelters/caring-hands-humane-society-newton/index.html"
+   ]
+  },
+  "https://carrollcovetservices.com/": {
+   "code": 526,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/missouri/index.html",
+    "dist_adopt/find-a-vet/missouri/index.html",
+    "vets/MO.json"
+   ]
+  },
+  "https://catsangels.org/adoptions/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/cats-angels-inc-spca-fernandina-beach/index.html",
+    "dist_adopt/shelters/cats-angels-inc-spca-fernandina-beach/index.html"
+   ]
+  },
+  "https://catsontheweb.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/pat-brody-shelter-for-cats-lunenburg/index.html",
+    "dist_adopt/shelters/pat-brody-shelter-for-cats-lunenburg/index.html"
+   ]
+  },
+  "https://ccfoa.info/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/carbon-county-friends-of-animals-jim-thorpe/index.html",
+    "dist_adopt/shelters/carbon-county-friends-of-animals-jim-thorpe/index.html"
+   ]
+  },
+  "https://ccgov.org/government/animal-services": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/cecil-county-animal-services-chesapeake-city/index.html",
+    "dist_adopt/shelters/cecil-county-animal-services-chesapeake-city/index.html"
+   ]
+  },
+  "https://chicagocaninerescue.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/chicago-canine-rescue-chicago/index.html",
+    "dist_adopt/shelters/chicago-canine-rescue-chicago/index.html"
+   ]
+  },
+  "https://chicagoequine.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/illinois/index.html",
+    "dist_adopt/find-a-vet/illinois/index.html",
+    "vets/IL.json"
+   ]
+  },
+  "https://chqhumane.org/getinvolved/expawditions/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/chautauqua-county-humane-society-jamestown/index.html",
+    "dist_adopt/shelters/chautauqua-county-humane-society-jamestown/index.html"
+   ]
+  },
+  "https://citycatclinic.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/minnesota/index.html",
+    "dist_adopt/find-a-vet/minnesota/index.html",
+    "vets/MN.json"
+   ]
+  },
+  "https://cityofhernando-redesign.prod.govaccess.org/departments/animal-shelter": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/city-of-hernando-animal-shelter-nesbit/index.html",
+    "dist_adopt/shelters/city-of-hernando-animal-shelter-nesbit/index.html"
+   ]
+  },
+  "https://cityofneedles.com/departments/animal-shelter-control/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/needles-animal-shelter-city-of-needles-animal-shelter-and-control-needles/index.html",
+    "dist_adopt/shelters/needles-animal-shelter-city-of-needles-animal-shelter-and-control-needles/index.html"
+   ]
+  },
+  "https://cityofpampa.org/node/74": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/pampa-animal-services-pampa/index.html",
+    "dist_adopt/shelters/pampa-animal-services-pampa/index.html"
+   ]
+  },
+  "https://cityofpowell.com/resources/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/powell-animal-shelter-city-of-powell-powell/index.html",
+    "dist_adopt/shelters/powell-animal-shelter-city-of-powell-powell/index.html"
+   ]
+  },
+  "https://cityofseymour.org/?p=8111": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/city-of-seymour-animal-shelter-seymour/index.html",
+    "dist_adopt/shelters/city-of-seymour-animal-shelter-seymour/index.html"
+   ]
+  },
+  "https://cityoftuscumbia.org/animal-control/": {
+   "code": 511,
+   "err": null,
+   "where": [
+    "dist/listings/colbert-county-animal-shelter-tuscumbia/index.html",
+    "dist_adopt/shelters/colbert-county-animal-shelter-tuscumbia/index.html"
+   ]
+  },
+  "https://cityofvidor.gov/depts/animal-control": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/vidor-animal-control-shelter-vidor/index.html",
+    "dist_adopt/shelters/vidor-animal-control-shelter-vidor/index.html"
+   ]
+  },
+  "https://cleburnecountyanimalshelter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/cleburne-county-animal-shelter-heflin/index.html",
+    "dist_adopt/shelters/cleburne-county-animal-shelter-heflin/index.html"
+   ]
+  },
+  "https://clinics.petvet.vippetcare.com/petvet-wellness-center-00987cd7b907": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/virginia/index.html",
+    "dist_adopt/find-a-vet/virginia/index.html",
+    "vets/VA.json"
+   ]
+  },
+  "https://clintoncounty.ky.gov/Pages/Services.aspx": {
+   "code": null,
+   "err": "URLError: [Errno -5] No address associated with hostname",
+   "where": [
+    "dist/listings/tri-county-animal-shelter-albany/index.html",
+    "dist_adopt/shelters/tri-county-animal-shelter-albany/index.html"
+   ]
+  },
+  "https://cnyspca.org/ruff-day-out/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/central-new-york-spca-cnyspca-syracuse/index.html",
+    "dist_adopt/shelters/central-new-york-spca-cnyspca-syracuse/index.html"
+   ]
+  },
+  "https://columbusga.gov/animalcontrol/About-the-ACC": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/columbus-animal-care-and-control-center-columbus/index.html",
+    "dist_adopt/shelters/columbus-animal-care-and-control-center-columbus/index.html"
+   ]
+  },
+  "https://countyofbranch.com/departments/animal-shelter/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/branch-county-animal-shelter-coldwater/index.html",
+    "dist_adopt/shelters/branch-county-animal-shelter-coldwater/index.html"
+   ]
+  },
+  "https://crystalfallsvet.com": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/texas/index.html",
+    "dist_adopt/find-a-vet/texas/index.html",
+    "vets/TX.json"
+   ]
+  },
+  "https://dirksfund.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/dirk-s-fund-pacific/index.html",
+    "dist_adopt/shelters/dirk-s-fund-pacific/index.html"
+   ]
+  },
+  "https://docpac.net/get-involved/volunteer/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/dorothy-h-o-connor-pet-adoption-center-docpac-victoria/index.html",
+    "dist_adopt/shelters/dorothy-h-o-connor-pet-adoption-center-docpac-victoria/index.html"
+   ]
+  },
+  "https://docsue.org/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/georgia/index.html",
+    "dist_adopt/find-a-vet/georgia/index.html",
+    "vets/GA.json"
+   ]
+  },
+  "https://dorchesterpaws.org/event/adoption-event-at-azalea-petsmart-3/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/dorchester-paws-summerville/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/dorchester-paws-summerville/index.html"
+   ]
+  },
+  "https://dorchesterpaws.org/event/campers-and-companions-x-dorchester-paws-adoption-event/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/dorchester-paws-summerville/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/dorchester-paws-summerville/index.html"
+   ]
+  },
+  "https://dorchesterpaws.org/event/love-is-blind-adoption-event/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/dorchester-paws-summerville/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/dorchester-paws-summerville/index.html"
+   ]
+  },
+  "https://dorchesterpaws.org/our-events/#doggie-date": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/dorchester-paws-summerville/index.html",
+    "dist_adopt/shelters/dorchester-paws-summerville/index.html"
+   ]
+  },
+  "https://duboiscountyanimalhospital.com/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/indiana/index.html",
+    "dist_adopt/find-a-vet/indiana/index.html",
+    "vets/IN.json"
+   ]
+  },
+  "https://dullesanimalemergency.com/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/virginia/index.html",
+    "dist_adopt/find-a-vet/virginia/index.html",
+    "vets/VA.json"
+   ]
+  },
+  "https://eastsidevethosp.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://edgewateranimalshelter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/edgewater-animal-shelter-edgewater/index.html",
+    "dist_adopt/shelters/edgewater-animal-shelter-edgewater/index.html"
+   ]
+  },
+  "https://emmetcountyanimalshelter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/emmet-county-animal-shelter-estherville/index.html",
+    "dist_adopt/shelters/emmet-county-animal-shelter-estherville/index.html"
+   ]
+  },
+  "https://evccatonsville.com": {
+   "code": null,
+   "err": "URLError: [Errno 104] Connection reset by peer",
+   "where": [
+    "dist/find-a-vet/maryland/index.html",
+    "dist_adopt/find-a-vet/maryland/index.html",
+    "vets/MD.json"
+   ]
+  },
+  "https://evergreenholisticvet.com": {
+   "code": 500,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/washington/index.html",
+    "dist_adopt/find-a-vet/washington/index.html",
+    "vets/WA.json"
+   ]
+  },
+  "https://familypetcaresugarland.com/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/texas/index.html",
+    "dist_adopt/find-a-vet/texas/index.html",
+    "vets/TX.json"
+   ]
+  },
+  "https://felinesandcanines.org/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/listings/felines-and-canines-chicago/index.html",
+    "dist_adopt/shelters/felines-and-canines-chicago/index.html"
+   ]
+  },
+  "https://ffhumane.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/furry-friends-humane-jupiter/index.html",
+    "dist_adopt/shelters/furry-friends-humane-jupiter/index.html"
+   ]
+  },
+  "https://fmtn.org/173/Farmington-Regional-Animal-Shelter": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/farmington-regional-animal-shelter-farmington/index.html",
+    "dist_adopt/shelters/farmington-regional-animal-shelter-farmington/index.html"
+   ]
+  },
+  "https://furkids.org/about-us/location-and-hours/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/furkids-cat-adoption-center-east-cobb-marietta/index.html",
+    "dist/listings/furkids-johns-creek-cat-adoption-and-community-resource-center-johns-creek/index.html",
+    "dist/listings/furkids-peachtree-corners-cat-adoption-and-community-resource-center-peachtree-corners/index.html",
+    "dist_adopt/shelters/furkids-cat-adoption-center-east-cobb-marietta/index.html",
+    "dist_adopt/shelters/furkids-johns-creek-cat-adoption-and-community-resource-center-johns-creek/index.html"
+   ]
+  },
+  "https://furkids.org/event/cat-kitten-adoptions-petsmart-woodstock-2/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html"
+   ]
+  },
+  "https://furkids.org/event/cat-kitten-adoptions-petsmart-woodstock/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html"
+   ]
+  },
+  "https://furkids.org/event/dog-adoptions-petco-milton/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html"
+   ]
+  },
+  "https://furkids.org/event/dog-adoptions-petsmart-peachtree-corners/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html"
+   ]
+  },
+  "https://furkids.org/furkids-field-trips-a-doggies-day-out": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html",
+    "dist_adopt/shelters/furkids-headquarters-sutherlin-dog-shelter-and-felker-cat-shelter-cumming/index.html"
+   ]
+  },
+  "https://furrypets.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/lincoln-county-humane-society-merrill/index.html",
+    "dist_adopt/shelters/lincoln-county-humane-society-merrill/index.html"
+   ]
+  },
+  "https://gahumane.org/event/holiday-open-house-4/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/greater-androscoggin-humane-society-lewiston/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/greater-androscoggin-humane-society-lewiston/index.html"
+   ]
+  },
+  "https://gahumane.org/what-we-do/behavior-and-enrichment/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/greater-androscoggin-humane-society-lewiston/index.html",
+    "dist_adopt/shelters/greater-androscoggin-humane-society-lewiston/index.html"
+   ]
+  },
+  "https://gcva.us/county-services/animal-shelter": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/greene-county-animal-shelter-ruckersville/index.html",
+    "dist_adopt/shelters/greene-county-animal-shelter-ruckersville/index.html"
+   ]
+  },
+  "https://georgetown.org/?p=1083": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/listings/city-of-georgetown-animal-shelter-georgetown/index.html",
+    "dist_adopt/shelters/city-of-georgetown-animal-shelter-georgetown/index.html"
+   ]
+  },
+  "https://gladwincounty-mi.gov/departments/animal-shelter-control/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/gladwin-county-animal-control-shelter-gladwin/index.html",
+    "dist_adopt/shelters/gladwin-county-animal-control-shelter-gladwin/index.html"
+   ]
+  },
+  "https://grandavevet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/minnesota/index.html",
+    "dist_adopt/find-a-vet/minnesota/index.html",
+    "vets/MN.json"
+   ]
+  },
+  "https://greeceny.gov/departments/animal-services/animal-services-faqs/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/town-of-greece-animal-services-greece/index.html",
+    "dist_adopt/shelters/town-of-greece-animal-services-greece/index.html"
+   ]
+  },
+  "https://greenglenequinehospital.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://guntersvilleal.org/departments/animal-control/": {
+   "code": null,
+   "err": "TimeoutError: The read operation timed out",
+   "where": [
+    "dist/listings/guntersville-animal-shelter-guntersville-animal-control-guntersville/index.html",
+    "dist_adopt/shelters/guntersville-animal-shelter-guntersville-animal-control-guntersville/index.html"
+   ]
+  },
+  "https://habitatboise.com/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/idaho/index.html",
+    "dist_adopt/find-a-vet/idaho/index.html",
+    "vets/ID.json"
+   ]
+  },
+  "https://harborcityanimal.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://hcanimalshelter.com/about-us": {
+   "code": 500,
+   "err": null,
+   "where": [
+    "dist/listings/harrison-county-animal-control-and-shelter-corydon/index.html",
+    "dist_adopt/shelters/harrison-county-animal-control-and-shelter-corydon/index.html"
+   ]
+  },
+  "https://hchswaverly.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humphreys-county-humane-society-waverly/index.html",
+    "dist_adopt/shelters/humphreys-county-humane-society-waverly/index.html"
+   ]
+  },
+  "https://hcwanimalshelter.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/huntington-cabell-wayne-animal-control-shelter-huntington/index.html",
+    "dist_adopt/shelters/huntington-cabell-wayne-animal-control-shelter-huntington/index.html"
+   ]
+  },
+  "https://healingartsanimalcare.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "https://healingartsanimalcare.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "https://healthypetsspayneuter.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/south-carolina/index.html",
+    "dist_adopt/find-a-vet/south-carolina/index.html",
+    "vets/SC.json"
+   ]
+  },
+  "https://heartofid.org": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/heart-of-idaho-animal-sanctuary-challis/index.html",
+    "dist_adopt/shelters/heart-of-idaho-animal-sanctuary-challis/index.html"
+   ]
+  },
+  "https://heidisvillage.org": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/heidi-s-village-phoenix/index.html",
+    "dist_adopt/shelters/heidi-s-village-phoenix/index.html"
+   ]
+  },
+  "https://helpingpawswi.org/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/helpingpaws-pet-rescue-washburn/index.html",
+    "dist_adopt/shelters/helpingpaws-pet-rescue-washburn/index.html"
+   ]
+  },
+  "https://hillcountryhumanesociety.org/": {
+   "code": 521,
+   "err": null,
+   "where": [
+    "dist/listings/hill-country-humane-society-buchanan-dam/index.html",
+    "dist_adopt/shelters/hill-country-humane-society-buchanan-dam/index.html"
+   ]
+  },
+  "https://howardcountyvet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/missouri/index.html",
+    "dist_adopt/find-a-vet/missouri/index.html",
+    "vets/MO.json"
+   ]
+  },
+  "https://hsdcpets.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-douglas-county-superior/index.html",
+    "dist_adopt/shelters/humane-society-of-douglas-county-superior/index.html"
+   ]
+  },
+  "https://hslwr.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/the-humane-society-at-lakewood-ranch-myakka-city/index.html",
+    "dist_adopt/shelters/the-humane-society-at-lakewood-ranch-myakka-city/index.html"
+   ]
+  },
+  "https://hsrcwv.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-raleigh-county-beckley/index.html",
+    "dist_adopt/shelters/humane-society-of-raleigh-county-beckley/index.html"
+   ]
+  },
+  "https://hsspca.org/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/humane-society-of-sumter-county-lake-panasoffkee/index.html",
+    "dist_adopt/shelters/humane-society-of-sumter-county-lake-panasoffkee/index.html"
+   ]
+  },
+  "https://hstc1.org/Home-for-the-Holidays": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/humane-society-of-the-treasure-coast-palm-city/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/humane-society-of-the-treasure-coast-palm-city/index.html"
+   ]
+  },
+  "https://humane.org/events/companion-meadow-adoption-event/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/suncoast-humane-society-englewood/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/suncoast-humane-society-englewood/index.html"
+   ]
+  },
+  "https://humane.org/events/n-venice-pet-supermarket-adoption-event-4/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/suncoast-humane-society-englewood/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/suncoast-humane-society-englewood/index.html"
+   ]
+  },
+  "https://humane.org/events/s-venice-pet-supermarket-adoption-event-3/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/suncoast-humane-society-englewood/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/suncoast-humane-society-englewood/index.html"
+   ]
+  },
+  "https://humane.org/events/s-venice-pet-supermarket-adoption-event-4/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/suncoast-humane-society-englewood/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/suncoast-humane-society-englewood/index.html"
+   ]
+  },
+  "https://humane.org/events/venice-petco-adoption-event-3/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/suncoast-humane-society-englewood/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/suncoast-humane-society-englewood/index.html"
+   ]
+  },
+  "https://humane.org/foster-care-program/#doggy-day-out": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/suncoast-humane-society-englewood/index.html",
+    "dist_adopt/shelters/suncoast-humane-society-englewood/index.html"
+   ]
+  },
+  "https://humanemanatee.org/schedule/dog-adoptions/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-manatee-county-bradenton/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/humane-society-of-manatee-county-bradenton/index.html"
+   ]
+  },
+  "https://humanemanatee.org/shelter/sleepover-program/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-manatee-county-bradenton/index.html",
+    "dist_adopt/shelters/humane-society-of-manatee-county-bradenton/index.html"
+   ]
+  },
+  "https://humanesocietyoferiecounty.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/humane-society-of-erie-county-sandusky/index.html",
+    "dist_adopt/shelters/humane-society-of-erie-county-sandusky/index.html"
+   ]
+  },
+  "https://humanesocietyofwa.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-west-alabama-northport/index.html",
+    "dist_adopt/shelters/humane-society-of-west-alabama-northport/index.html"
+   ]
+  },
+  "https://humanewalton.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/humane-society-of-walton-county-monroe/index.html",
+    "dist_adopt/shelters/humane-society-of-walton-county-monroe/index.html"
+   ]
+  },
+  "https://iosco.net/about/county-contacts/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/iosco-county-animal-shelter-tawas-city/index.html",
+    "dist_adopt/shelters/iosco-county-animal-shelter-tawas-city/index.html"
+   ]
+  },
+  "https://iowaagriculture.gov/node/15058": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/montgomery-county-animal-rescue-red-oak/index.html",
+    "dist_adopt/shelters/montgomery-county-animal-rescue-red-oak/index.html"
+   ]
+  },
+  "https://jacksonms.gov/locations/jackson-police-animal-control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/jackson-friends-of-the-animal-shelter-city-of-jackson-animal-shelter-jackson/index.html",
+    "dist_adopt/shelters/jackson-friends-of-the-animal-shelter-city-of-jackson-animal-shelter-jackson/index.html"
+   ]
+  },
+  "https://jodaviesscountyil.gov/departments/animal_control/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/jo-daviess-county-animal-control-galena/index.html",
+    "dist_adopt/shelters/jo-daviess-county-animal-control-galena/index.html"
+   ]
+  },
+  "https://joshuatreenokillshelter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/joshua-tree-no-kill-animal-shelter-joshua-tree/index.html",
+    "dist_adopt/shelters/joshua-tree-no-kill-animal-shelter-joshua-tree/index.html"
+   ]
+  },
+  "https://keywoodanimalclinic.com/": {
+   "code": 503,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/virginia/index.html",
+    "dist_adopt/find-a-vet/virginia/index.html",
+    "vets/VA.json"
+   ]
+  },
+  "https://kindnessanimalhospital.com/": {
+   "code": null,
+   "err": "URLError: [Errno 104] Connection reset by peer",
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://kinnelonvolunteeranimalshelter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/kinnelon-volunteer-animal-shelter-kinnelon/index.html",
+    "dist_adopt/shelters/kinnelon-volunteer-animal-shelter-kinnelon/index.html"
+   ]
+  },
+  "https://kittyrescuenh.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/monadnock-kitty-rescue-and-adoption-jaffrey/index.html",
+    "dist_adopt/shelters/monadnock-kitty-rescue-and-adoption-jaffrey/index.html"
+   ]
+  },
+  "https://kylepetvet.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/texas/index.html",
+    "dist_adopt/find-a-vet/texas/index.html",
+    "vets/TX.json"
+   ]
+  },
+  "https://lakecountyhumanesociety.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/lake-county-humane-society-two-harbors/index.html",
+    "dist_adopt/shelters/lake-county-humane-society-two-harbors/index.html"
+   ]
+  },
+  "https://lakewissotaanimalhospital.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/wisconsin/index.html",
+    "dist_adopt/find-a-vet/wisconsin/index.html",
+    "vets/WI.json"
+   ]
+  },
+  "https://lapazcountyanimalcontrol.com/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/listings/la-paz-county-animal-control-parker/index.html",
+    "dist_adopt/shelters/la-paz-county-animal-control-parker/index.html"
+   ]
+  },
+  "https://lassencounty.org/living/animals": {
+   "code": null,
+   "err": "URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)",
+   "where": [
+    "dist/listings/lassen-county-animal-shelter-susanville/index.html",
+    "dist_adopt/shelters/lassen-county-animal-shelter-susanville/index.html"
+   ]
+  },
+  "https://lawrencecountyal.org/animal-shelter/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/lawrence-county-animal-shelter-moulton/index.html",
+    "dist_adopt/shelters/lawrence-county-animal-shelter-moulton/index.html"
+   ]
+  },
+  "https://lcshelter.org/volunteer/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/lewis-clark-animal-shelter-lewiston/index.html",
+    "dist_adopt/shelters/lewis-clark-animal-shelter-lewiston/index.html"
+   ]
+  },
+  "https://longmonthumane.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/longmont-humane-society-longmont/index.html",
+    "dist_adopt/shelters/longmont-humane-society-longmont/index.html"
+   ]
+  },
+  "https://longwoodvetcenter.com/": {
+   "code": null,
+   "err": "TimeoutError: The read operation timed out",
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://losbanos.org/city-government/departments/police/code-enforcement/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/los-banos-animal-shelter-los-banos/index.html",
+    "dist_adopt/shelters/los-banos-animal-shelter-los-banos/index.html"
+   ]
+  },
+  "https://lowellhumanesociety.org/get-involved/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/lowell-humane-society-lowell/index.html",
+    "dist_adopt/shelters/lowell-humane-society-lowell/index.html"
+   ]
+  },
+  "https://madisoncountyky.gov/animal/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/madison-county-animal-shelter-berea/index.html",
+    "dist_adopt/shelters/madison-county-animal-shelter-berea/index.html"
+   ]
+  },
+  "https://marinhumane.org/get-help/marin-animal-services/temporary-petaluma-animal-services/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/petaluma-animal-services-petaluma/index.html",
+    "dist_adopt/shelters/petaluma-animal-services-petaluma/index.html"
+   ]
+  },
+  "https://marionvet.net/": {
+   "code": 500,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/ohio/index.html",
+    "dist_adopt/find-a-vet/ohio/index.html",
+    "vets/OH.json"
+   ]
+  },
+  "https://mc-aac.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/maclean-cameron-animal-adoption-center-great-falls/index.html",
+    "dist_adopt/shelters/maclean-cameron-animal-adoption-center-great-falls/index.html"
+   ]
+  },
+  "https://mcdowellcountycommission.com/county-directory/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/mcdowell-county-humane-society-welch/index.html",
+    "dist_adopt/shelters/mcdowell-county-humane-society-welch/index.html"
+   ]
+  },
+  "https://mercercountyohio.org/?p=229": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/mercer-county-dog-pound-saint-henry/index.html",
+    "dist_adopt/shelters/mercer-county-dog-pound-saint-henry/index.html"
+   ]
+  },
+  "https://metcalfecountyanimals.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/metcalfe-county-animal-shelter-edmonton/index.html",
+    "dist_adopt/shelters/metcalfe-county-animal-shelter-edmonton/index.html"
+   ]
+  },
+  "https://michianapets.org/get-involved/fetch-some-fun/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/michiana-humane-society-michigan-city/index.html",
+    "dist_adopt/shelters/michiana-humane-society-michigan-city/index.html"
+   ]
+  },
+  "https://milivcounty.gov/animal-shelter/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/livingston-county-animal-shelter-howell/index.html",
+    "dist_adopt/shelters/livingston-county-animal-shelter-howell/index.html"
+   ]
+  },
+  "https://monocounty.ca.gov/animal/contact/animal-control-contact-information": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/bridgeport-animal-shelter-mono-county-animal-services-bridgeport/index.html",
+    "dist/listings/mono-county-animal-services-whitmore-shelter-crowley-lake/index.html",
+    "dist_adopt/shelters/bridgeport-animal-shelter-mono-county-animal-services-bridgeport/index.html",
+    "dist_adopt/shelters/mono-county-animal-services-whitmore-shelter-crowley-lake/index.html"
+   ]
+  },
+  "https://montgomerycounty.ky.gov/departments-and-agencies-overview/montgomery-county-animal-shelter/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/montgomery-county-animal-shelter-mount-sterling/index.html",
+    "dist_adopt/shelters/montgomery-county-animal-shelter-mount-sterling/index.html"
+   ]
+  },
+  "https://mountainshumanesociety.org/": {
+   "code": null,
+   "err": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mountainshu",
+   "where": [
+    "dist/listings/mountains-humane-society-pet-rescue-lake-arrowhead/index.html",
+    "dist_adopt/shelters/mountains-humane-society-pet-rescue-lake-arrowhead/index.html"
+   ]
+  },
+  "https://mountvernonvethospital.com/": {
+   "code": null,
+   "err": "URLError: [Errno 111] Connection refused",
+   "where": [
+    "dist/find-a-vet/washington/index.html",
+    "dist_adopt/find-a-vet/washington/index.html",
+    "vets/WA.json"
+   ]
+  },
+  "https://naamansanimalhospital.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/delaware/index.html",
+    "dist_adopt/find-a-vet/delaware/index.html",
+    "vets/DE.json"
+   ]
+  },
+  "https://noahsark.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/noah-s-ark-animal-foundation-fairfield/index.html",
+    "dist_adopt/shelters/noah-s-ark-animal-foundation-fairfield/index.html"
+   ]
+  },
+  "https://noahsarktx.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/noah-s-ark-s-p-c-a-noah-s-ark-animal-shelter-gainesville/index.html",
+    "dist_adopt/shelters/noah-s-ark-s-p-c-a-noah-s-ark-animal-shelter-gainesville/index.html"
+   ]
+  },
+  "https://nvsatlanta.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/georgia/index.html",
+    "dist_adopt/find-a-vet/georgia/index.html",
+    "vets/GA.json"
+   ]
+  },
+  "https://nwkasgoodland.webs.com/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/northwest-kansas-animal-shelter-goodland/index.html",
+    "dist_adopt/shelters/northwest-kansas-animal-shelter-goodland/index.html"
+   ]
+  },
+  "https://oahuspca.org/Doggy-Day-Trips": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/oahu-spca-wahiawa/index.html",
+    "dist_adopt/shelters/oahu-spca-wahiawa/index.html"
+   ]
+  },
+  "https://osceolaarkansas.com/index.php/en/city-services/anm-shelter/21-city-of-osceola-animal-shelter": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/city-of-osceola-animal-shelter-osceola/index.html",
+    "dist_adopt/shelters/city-of-osceola-animal-shelter-osceola/index.html"
+   ]
+  },
+  "https://pahoa.vet": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/hawaii/index.html",
+    "dist_adopt/find-a-vet/hawaii/index.html",
+    "vets/HI.json"
+   ]
+  },
+  "https://pdsvet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/washington/index.html",
+    "dist_adopt/find-a-vet/washington/index.html",
+    "vets/WA.json"
+   ]
+  },
+  "https://peggyadams.org/events/black-furiday-adoption-event/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/peggy-adams-animal-rescue-league-west-palm-beach/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/peggy-adams-animal-rescue-league-west-palm-beach/index.html"
+   ]
+  },
+  "https://peopleforpets.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/people-for-pets-spencer/index.html",
+    "dist_adopt/shelters/people-for-pets-spencer/index.html"
+   ]
+  },
+  "https://perrycountyil.gov/perry-county-animal-control/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/perry-county-animal-control-pinckneyville/index.html",
+    "dist_adopt/shelters/perry-county-animal-control-pinckneyville/index.html"
+   ]
+  },
+  "https://pethelpers.org/doggy-day-out/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/pet-helpers-charleston/index.html",
+    "dist_adopt/shelters/pet-helpers-charleston/index.html"
+   ]
+  },
+  "https://pethoodga.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/georgia/index.html",
+    "dist_adopt/find-a-vet/georgia/index.html",
+    "vets/GA.json"
+   ]
+  },
+  "https://petmedicurgentcare.com/locations/portsmouth-nh": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/new-hampshire/index.html",
+    "dist_adopt/find-a-vet/new-hampshire/index.html",
+    "vets/NH.json"
+   ]
+  },
+  "https://providenceac.org/rover-all-over/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/providence-animal-center-media/index.html",
+    "dist_adopt/shelters/providence-animal-center-media/index.html"
+   ]
+  },
+  "https://rchsvt.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/rutland-county-humane-society-pittsford/index.html",
+    "dist_adopt/shelters/rutland-county-humane-society-pittsford/index.html"
+   ]
+  },
+  "https://rockportfultonhumanesociety.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-rockport-fulton-rockport/index.html",
+    "dist_adopt/shelters/humane-society-of-rockport-fulton-rockport/index.html"
+   ]
+  },
+  "https://routthumane.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/routt-county-humane-society-steamboat-springs/index.html",
+    "dist_adopt/shelters/routt-county-humane-society-steamboat-springs/index.html"
+   ]
+  },
+  "https://routthumane.org/event/holiday-adopt-a-thon-2026/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/routt-county-humane-society-steamboat-springs/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/routt-county-humane-society-steamboat-springs/index.html"
+   ]
+  },
+  "https://rpanimalshelter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/rohnert-park-animal-shelter-rohnert-park/index.html",
+    "dist_adopt/shelters/rohnert-park-animal-shelter-rohnert-park/index.html"
+   ]
+  },
+  "https://rraeh.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/north-dakota/index.html",
+    "dist_adopt/find-a-vet/north-dakota/index.html",
+    "vets/ND.json"
+   ]
+  },
+  "https://rvspca.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/roanoke-valley-spca-roanoke/index.html",
+    "dist_adopt/shelters/roanoke-valley-spca-roanoke/index.html"
+   ]
+  },
+  "https://sandlakevet.com/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/michigan/index.html",
+    "dist_adopt/find-a-vet/michigan/index.html",
+    "vets/MI.json"
+   ]
+  },
+  "https://sapulpaok.gov/vnews/display.v/SEC/Departments|Animal Shelter": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/vnews/display.v/SEC/Departments|Animal Shelter' (found at least ' ')",
+   "where": [
+    "dist/listings/sapulpa-animal-shelter-sapulpa/index.html",
+    "dist_adopt/shelters/sapulpa-animal-shelter-sapulpa/index.html"
+   ]
+  },
+  "https://savedme.org/": {
+   "code": null,
+   "err": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'savedme.org",
+   "where": [
+    "dist/listings/saved-me-philadelphia/index.html",
+    "dist_adopt/shelters/saved-me-philadelphia/index.html"
+   ]
+  },
+  "https://saves.ethosvet.com/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/new-hampshire/index.html",
+    "dist_adopt/find-a-vet/new-hampshire/index.html",
+    "vets/NH.json"
+   ]
+  },
+  "https://savinggracenc.org/calendar/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/saving-grace-animals-for-adoption-wake-forest/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/saving-grace-animals-for-adoption-wake-forest/index.html"
+   ]
+  },
+  "https://savinggracenc.org/sleepover/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/saving-grace-animals-for-adoption-wake-forest/index.html",
+    "dist_adopt/shelters/saving-grace-animals-for-adoption-wake-forest/index.html"
+   ]
+  },
+  "https://sbhumane.org/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/santa-barbara-humane-santa-barbara-campus-santa-barbara/index.html",
+    "dist/listings/santa-barbara-humane-santa-maria-campus-santa-maria/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/santa-barbara-humane-santa-barbara-campus-santa-barbara/index.html",
+    "dist_adopt/shelters/santa-barbara-humane-santa-maria-campus-santa-maria/index.html"
+   ]
+  },
+  "https://sbhumane.org/clinic/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/california/index.html",
+    "dist_adopt/find-a-vet/california/index.html",
+    "vets/CA.json"
+   ]
+  },
+  "https://shannonanimalhospital.com/": {
+   "code": 522,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/texas/index.html",
+    "dist_adopt/find-a-vet/texas/index.html",
+    "vets/TX.json"
+   ]
+  },
+  "https://sheltonwa.gov/government/departments/community_development/animal_control.php": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/shelton-animal-shelter-shelton/index.html",
+    "dist_adopt/shelters/shelton-animal-shelter-shelton/index.html"
+   ]
+  },
+  "https://sjras.org/": {
+   "code": null,
+   "err": "URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)",
+   "where": [
+    "dist/listings/south-jersey-regional-animal-shelter-cumberland-county-spca-vineland/index.html",
+    "dist_adopt/shelters/south-jersey-regional-animal-shelter-cumberland-county-spca-vineland/index.html"
+   ]
+  },
+  "https://smithcounty.prod.govaccess.org/government/departments/animal-shelter": {
+   "code": null,
+   "err": "URLError: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)",
+   "where": [
+    "dist/listings/smith-county-animal-shelter-tyler/index.html",
+    "dist_adopt/shelters/smith-county-animal-shelter-tyler/index.html"
+   ]
+  },
+  "https://spayaz.com/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://spayneutercenter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/texas/index.html",
+    "dist_adopt/find-a-vet/texas/index.html",
+    "vets/TX.json"
+   ]
+  },
+  "https://spcasc.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/santa-cruz-spca-santa-cruz/index.html",
+    "dist_adopt/shelters/santa-cruz-spca-santa-cruz/index.html"
+   ]
+  },
+  "https://spcasuncoast.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/spca-suncoast-new-port-richey/index.html",
+    "dist_adopt/shelters/spca-suncoast-new-port-richey/index.html"
+   ]
+  },
+  "https://spokanimal.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/spokanimal-spokane/index.html",
+    "dist_adopt/shelters/spokanimal-spokane/index.html"
+   ]
+  },
+  "https://sullivanspca.org": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/sullivan-county-spca-rock-hill/index.html",
+    "dist_adopt/shelters/sullivan-county-spca-rock-hill/index.html"
+   ]
+  },
+  "https://swanseama.gov/residents/animal_control/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/town-of-swansea-animal-shelter-swansea/index.html",
+    "dist_adopt/shelters/town-of-swansea-animal-shelter-swansea/index.html"
+   ]
+  },
+  "https://tails-a-wagging.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/washington/index.html",
+    "dist_adopt/find-a-vet/washington/index.html",
+    "vets/WA.json"
+   ]
+  },
+  "https://tazewellcountyva.org/departments/animal-shelter": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/tazewell-county-animal-shelter-bluefield/index.html",
+    "dist_adopt/shelters/tazewell-county-animal-shelter-bluefield/index.html"
+   ]
+  },
+  "https://theanimalhavenct.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/the-animal-haven-north-haven/index.html",
+    "dist_adopt/shelters/the-animal-haven-north-haven/index.html"
+   ]
+  },
+  "https://theanimalhavenct.org/open-houses/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/the-animal-haven-north-haven/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/the-animal-haven-north-haven/index.html"
+   ]
+  },
+  "https://thecatconnection.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/the-cat-connection-brighton/index.html",
+    "dist_adopt/shelters/the-cat-connection-brighton/index.html"
+   ]
+  },
+  "https://thecatsmeowcatclinic.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://thomson-mcduffie.com/citycounty/mcduffie-county-departments/animal-shelter": {
+   "code": null,
+   "err": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thomson-mcd",
+   "where": [
+    "dist/listings/mcduffie-county-animal-shelter-thomson/index.html",
+    "dist_adopt/shelters/mcduffie-county-animal-shelter-thomson/index.html"
+   ]
+  },
+  "https://tillamookanimalshelter.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/tillamook-animal-shelter-tillamook/index.html",
+    "dist_adopt/shelters/tillamook-animal-shelter-tillamook/index.html"
+   ]
+  },
+  "https://toledoanimalrescue.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/toledo-animal-rescue-toledo/index.html",
+    "dist_adopt/shelters/toledo-animal-rescue-toledo/index.html"
+   ]
+  },
+  "https://tollandct.gov/node/1546": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/listings/tolland-animal-control-tolland/index.html",
+    "dist_adopt/shelters/tolland-animal-control-tolland/index.html"
+   ]
+  },
+  "https://townofcantonct.gov/animal-control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/canton-animal-control-canton/index.html",
+    "dist_adopt/shelters/canton-animal-control-canton/index.html"
+   ]
+  },
+  "https://townofveteranny.gov/animal-control-service; https://www.adoptapet.com/shelter/242160": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/animal-control-service; https://www.adoptapet.com/shelter/242160' (found at leas",
+   "where": [
+    "dist/listings/southern-tier-animal-control-elmira/index.html"
+   ]
+  },
+  "https://tricountyanimalrescue.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/tri-county-animal-rescue-boca-raton/index.html",
+    "dist_adopt/shelters/tri-county-animal-rescue-boca-raton/index.html"
+   ]
+  },
+  "https://tschs.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/toccoa-stephens-county-humane-shelter-toccoa/index.html",
+    "dist_adopt/shelters/toccoa-stephens-county-humane-shelter-toccoa/index.html"
+   ]
+  },
+  "https://tuolumnecountysheriff.com/divisions/animal-control/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/tuolumne-county-animal-control-jamestown/index.html",
+    "dist_adopt/shelters/tuolumne-county-animal-control-jamestown/index.html"
+   ]
+  },
+  "https://tx-cleveland.civicplus.com/177/Animal-Control": {
+   "code": null,
+   "err": "URLError: [Errno -5] No address associated with hostname",
+   "where": [
+    "dist/listings/city-of-cleveland-animal-control-shelter-cleveland/index.html",
+    "dist_adopt/shelters/city-of-cleveland-animal-control-shelter-cleveland/index.html"
+   ]
+  },
+  "https://uplandca.gov/animal-shelter": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/upland-animal-services-shelter-upland/index.html",
+    "dist_adopt/shelters/upland-animal-services-shelter-upland/index.html"
+   ]
+  },
+  "https://uvveterinaryservices.com/": {
+   "code": 503,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/new-hampshire/index.html",
+    "dist_adopt/find-a-vet/new-hampshire/index.html",
+    "vets/NH.json"
+   ]
+  },
+  "https://valleyriverhumanesociety.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/valley-river-humane-society-marble/index.html",
+    "dist_adopt/shelters/valley-river-humane-society-marble/index.html"
+   ]
+  },
+  "https://valleyverdevets.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/arizona/index.html",
+    "dist_adopt/find-a-vet/arizona/index.html",
+    "vets/AZ.json"
+   ]
+  },
+  "https://verdevalleyhumane.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/verde-valley-humane-society-cottonwood/index.html",
+    "dist_adopt/shelters/verde-valley-humane-society-cottonwood/index.html"
+   ]
+  },
+  "https://vetbehaviormn.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/minnesota/index.html",
+    "dist_adopt/find-a-vet/minnesota/index.html",
+    "vets/MN.json"
+   ]
+  },
+  "https://vetlongislandcityny.com/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "https://vinsonanimalhospital.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/maryland/index.html",
+    "dist_adopt/find-a-vet/maryland/index.html",
+    "vets/MD.json"
+   ]
+  },
+  "https://waynetownship.com/health-home-page/animal-shelter-main/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/alan-purcell-wayne-animal-shelter-wayne/index.html",
+    "dist_adopt/shelters/alan-purcell-wayne-animal-shelter-wayne/index.html"
+   ]
+  },
+  "https://wcghs.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/west-columbia-gorge-humane-society-washougal/index.html",
+    "dist_adopt/shelters/west-columbia-gorge-humane-society-washougal/index.html"
+   ]
+  },
+  "https://wcghs.org/event/petco-adoption-event-3/2026-12-05/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/west-columbia-gorge-humane-society-washougal/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/west-columbia-gorge-humane-society-washougal/index.html"
+   ]
+  },
+  "https://wcghs.org/event/petco-adoption-event-3/2027-01-02/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/west-columbia-gorge-humane-society-washougal/index.html",
+    "dist_adopt/events/2027-01/index.html",
+    "dist_adopt/shelters/west-columbia-gorge-humane-society-washougal/index.html"
+   ]
+  },
+  "https://wcghs.org/event/petco-adoption-event-3/2027-02-06/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/west-columbia-gorge-humane-society-washougal/index.html",
+    "dist_adopt/events/2027-02/index.html",
+    "dist_adopt/shelters/west-columbia-gorge-humane-society-washougal/index.html"
+   ]
+  },
+  "https://wcghs.org/event/petco-adoption-event-3/2027-03-06/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/west-columbia-gorge-humane-society-washougal/index.html",
+    "dist_adopt/events/2027-03/index.html",
+    "dist_adopt/shelters/west-columbia-gorge-humane-society-washougal/index.html"
+   ]
+  },
+  "https://windwardanimalhospital.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/georgia/index.html",
+    "dist_adopt/find-a-vet/georgia/index.html",
+    "vets/GA.json"
+   ]
+  },
+  "https://wiregrasspetrescue.org/pet-foster-programs/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/wiregrass-pet-rescue-and-adoption-center-dothan/index.html",
+    "dist_adopt/shelters/wiregrass-pet-rescue-and-adoption-center-dothan/index.html"
+   ]
+  },
+  "https://wonderdogrescue.org/Adopt/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/wonder-dog-rescue-san-francisco/index.html",
+    "dist_adopt/shelters/wonder-dog-rescue-san-francisco/index.html"
+   ]
+  },
+  "https://wrentham.gov/government/departments/animal_control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/wrentham-animal-control-wrentham/index.html",
+    "dist_adopt/shelters/wrentham-animal-control-wrentham/index.html"
+   ]
+  },
+  "https://www.adoptapet.com/adoption_rescue/83178; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6543": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/adoption_rescue/83178; https://apps.agriculture.ny.gov/MunicipalShelterReports/M",
+   "where": [
+    "dist/listings/finger-lakes-spca-bath-bath/index.html"
+   ]
+  },
+  "https://www.adoptapet.com/shelter/66768-chenango-county-spca-norwich-new-york; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6493": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/shelter/66768-chenango-county-spca-norwich-new-york; https://apps.agriculture.ny",
+   "where": [
+    "dist/listings/chenango-county-spca-norwich/index.html"
+   ]
+  },
+  "https://www.afv.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-friends-of-the-valleys-wildomar/index.html",
+    "dist_adopt/shelters/animal-friends-of-the-valleys-wildomar/index.html"
+   ]
+  },
+  "https://www.afv.org/event-calendar/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-friends-of-the-valleys-wildomar/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/animal-friends-of-the-valleys-wildomar/index.html"
+   ]
+  },
+  "https://www.ahscares.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/associated-humane-societies-newark-newark/index.html",
+    "dist_adopt/shelters/associated-humane-societies-newark-newark/index.html"
+   ]
+  },
+  "https://www.alaskaspca.org/adoption-center": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/alaska-spca-anchorage/index.html",
+    "dist_adopt/shelters/alaska-spca-anchorage/index.html"
+   ]
+  },
+  "https://www.allaboutanimalsmaconrescue.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/all-about-animals-rescue-macon/index.html",
+    "dist_adopt/shelters/all-about-animals-rescue-macon/index.html"
+   ]
+  },
+  "https://www.almosthomeiowa.org/": {
+   "code": null,
+   "err": "URLError: [Errno -5] No address associated with hostname",
+   "where": [
+    "dist/listings/almost-home-humane-society-of-north-central-iowa-fort-dodge/index.html",
+    "dist_adopt/shelters/almost-home-humane-society-of-north-central-iowa-fort-dodge/index.html"
+   ]
+  },
+  "https://www.almosthomeshelter.org": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/listings/almost-home-shelter-and-rescue-van-buren/index.html",
+    "dist_adopt/shelters/almost-home-shelter-and-rescue-van-buren/index.html"
+   ]
+  },
+  "https://www.amoryshelter.com/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/listings/amory-humane-society-amory/index.html",
+    "dist_adopt/shelters/amory-humane-society-amory/index.html"
+   ]
+  },
+  "https://www.animalaidpdx.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist/listings/animal-aid-portland/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "dist_adopt/shelters/animal-aid-portland/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "https://www.animalaidsociety.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-aid-society-hampton/index.html",
+    "dist_adopt/shelters/animal-aid-society-hampton/index.html"
+   ]
+  },
+  "https://www.animaleyecareva.com/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/virginia/index.html",
+    "dist_adopt/find-a-vet/virginia/index.html",
+    "vets/VA.json"
+   ]
+  },
+  "https://www.apetclinicofkent.com/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/washington/index.html",
+    "dist_adopt/find-a-vet/washington/index.html",
+    "vets/WA.json"
+   ]
+  },
+  "https://www.applelakevet.com/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/minnesota/index.html",
+    "dist_adopt/find-a-vet/minnesota/index.html",
+    "vets/MN.json"
+   ]
+  },
+  "https://www.apsofdurham.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/animal-protection-society-of-durham-durham/index.html",
+    "dist_adopt/shelters/animal-protection-society-of-durham-durham/index.html"
+   ]
+  },
+  "https://www.artmuseumvet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://www.ausablevalleyanimalshelter.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/ausable-valley-animal-shelter-animal-shelter-of-crawford-county-grayling/index.html",
+    "dist_adopt/shelters/ausable-valley-animal-shelter-animal-shelter-of-crawford-county-grayling/index.html"
+   ]
+  },
+  "https://www.beaconfalls-ct.org/node/28": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/beacon-falls-animal-control-beacon-falls/index.html",
+    "dist_adopt/shelters/beacon-falls-animal-control-beacon-falls/index.html"
+   ]
+  },
+  "https://www.beevilletx.gov/departments/AnimalControl/Volunteering": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/beeville-animal-control-shelter-beeville/index.html",
+    "dist_adopt/shelters/beeville-animal-control-shelter-beeville/index.html"
+   ]
+  },
+  "https://www.bigbeehs.org/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/bigbee-humane-society-demopolis/index.html",
+    "dist_adopt/shelters/bigbee-humane-society-demopolis/index.html"
+   ]
+  },
+  "https://www.bloomingtonmn.gov/pd/animal-shelter": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/bloomington-animal-shelter-bloomington-animal-control-bloomington/index.html",
+    "dist_adopt/shelters/bloomington-animal-shelter-bloomington-animal-control-bloomington/index.html"
+   ]
+  },
+  "https://www.bwar.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/brother-wolf-animal-rescue-asheville/index.html",
+    "dist_adopt/shelters/brother-wolf-animal-rescue-asheville/index.html"
+   ]
+  },
+  "https://www.catonsvillecatclinic.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/maryland/index.html",
+    "dist_adopt/find-a-vet/maryland/index.html",
+    "vets/MD.json"
+   ]
+  },
+  "https://www.catskillvetservices.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "https://www.centrecountypaws.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/centre-county-paws-state-college/index.html",
+    "dist_adopt/shelters/centre-county-paws-state-college/index.html"
+   ]
+  },
+  "https://www.chadronfriendsofpets.org/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/friends-of-pets-chadron-chadron/index.html",
+    "dist_adopt/shelters/friends-of-pets-chadron-chadron/index.html"
+   ]
+  },
+  "https://www.champaignohiosheriff.com/champaign-county-dog-warden": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/champaign-county-dog-warden-urbana/index.html",
+    "dist_adopt/shelters/champaign-county-dog-warden-urbana/index.html"
+   ]
+  },
+  "https://www.co.coles.il.us/foia/offices.html": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/coles-county-animal-shelter-charleston/index.html",
+    "dist_adopt/shelters/coles-county-animal-shelter-charleston/index.html"
+   ]
+  },
+  "https://www.coastalvetvb.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/virginia/index.html",
+    "dist_adopt/find-a-vet/virginia/index.html",
+    "vets/VA.json"
+   ]
+  },
+  "https://www.columbianacountyhumanesociety.com/adoption/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/columbiana-county-humane-society-salem/index.html",
+    "dist_adopt/shelters/columbiana-county-humane-society-salem/index.html"
+   ]
+  },
+  "https://www.coweta.ga.us/departments-services/departments-a-e/animal-services/doggie-day-out": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/coweta-county-animal-services-newnan/index.html",
+    "dist_adopt/shelters/coweta-county-animal-services-newnan/index.html"
+   ]
+  },
+  "https://www.daviessky.org/dogs-day-out/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/daviess-county-animal-care-and-control-owensboro/index.html",
+    "dist_adopt/shelters/daviess-county-animal-care-and-control-owensboro/index.html"
+   ]
+  },
+  "https://www.denbighanimalhospital.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/virginia/index.html",
+    "dist_adopt/find-a-vet/virginia/index.html",
+    "vets/VA.json"
+   ]
+  },
+  "https://www.dillinghamak.us/publicsafety/page/animals-shelteredadopt-pet": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/city-of-dillingham-animal-shelter-dillingham/index.html",
+    "dist_adopt/shelters/city-of-dillingham-animal-shelter-dillingham/index.html"
+   ]
+  },
+  "https://www.drdomotor.net/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/california/index.html",
+    "dist_adopt/find-a-vet/california/index.html",
+    "vets/CA.json"
+   ]
+  },
+  "https://www.drkellysvet.com/tucson-clinic/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/arizona/index.html",
+    "dist_adopt/find-a-vet/arizona/index.html",
+    "vets/AZ.json"
+   ]
+  },
+  "https://www.eastwindsor-ct.gov/node/651": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/east-windsor-animal-control-east-windsor/index.html",
+    "dist_adopt/shelters/east-windsor-animal-control-east-windsor/index.html"
+   ]
+  },
+  "https://www.elmorespca.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/elmore-spca-peru/index.html",
+    "dist_adopt/shelters/elmore-spca-peru/index.html"
+   ]
+  },
+  "https://www.ennistx.gov/Animal-Welfare/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/ennis-animal-control-ennis/index.html",
+    "dist_adopt/shelters/ennis-animal-control-ennis/index.html"
+   ]
+  },
+  "https://www.facebook.com/Hendricks-Veterinary-Clinic-158291449640/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/minnesota/index.html",
+    "dist_adopt/find-a-vet/minnesota/index.html",
+    "vets/MN.json"
+   ]
+  },
+  "https://www.facebook.com/OroValleyPetClinic": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/arizona/index.html",
+    "dist_adopt/find-a-vet/arizona/index.html",
+    "vets/AZ.json"
+   ]
+  },
+  "https://www.facebook.com/Parajon-Animal-Clinic-452648924756303/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://www.facebook.com/PenquisAnimalWelfareSanctuary/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/penquis-animal-welfare-sanctuary-paws-milo/index.html"
+   ]
+  },
+  "https://www.facebook.com/SouthEuclidHumaneSociety/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/south-euclid-humane-society-south-euclid/index.html"
+   ]
+  },
+  "https://www.facebook.com/Teddysrescue/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/teddy-s-rescue-findlay/index.html"
+   ]
+  },
+  "https://www.facebook.com/WillistonNDPDPound": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/williston-police-department-animal-control-williston/index.html"
+   ]
+  },
+  "https://www.facebook.com/advancedveterinarysurgeryandrehabilitationcenter/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/arkansas/index.html",
+    "dist_adopt/find-a-vet/arkansas/index.html",
+    "vets/AR.json"
+   ]
+  },
+  "https://www.facebook.com/antrimcountyanimalcontrol": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/antrim-county-animal-control-bellaire/index.html"
+   ]
+  },
+  "https://www.facebook.com/crstwwas": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/wakp-wa-t-animal-shelter-and-clinic-cheyenne-river-sioux-tribe-eagle-butte/index.html"
+   ]
+  },
+  "https://www.facebook.com/hsrwc": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/humane-society-of-richland-wilkin-counties-wahpeton/index.html"
+   ]
+  },
+  "https://www.facebook.com/oswegoanimalshelter": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/oswego-city-animal-shelter-city-of-oswego-animal-control-oswego/index.html"
+   ]
+  },
+  "https://www.facebook.com/p/Farmington-Veterinary-Clinic-100049282676510/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/new-mexico/index.html",
+    "dist_adopt/find-a-vet/new-mexico/index.html",
+    "vets/NM.json"
+   ]
+  },
+  "https://www.facebook.com/pages/All-Creatures-Great-Small-Vet-Clinic/161099247243551": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/wyoming/index.html",
+    "dist_adopt/find-a-vet/wyoming/index.html",
+    "vets/WY.json"
+   ]
+  },
+  "https://www.facebook.com/pages/Blue-Cross-Animal-Clinic/660861717388747": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/new-mexico/index.html",
+    "dist_adopt/find-a-vet/new-mexico/index.html",
+    "vets/NM.json"
+   ]
+  },
+  "https://www.facebook.com/pages/Paulding-County-Dog-Kennel/272091246262848": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/paulding-county-dog-kennel-paulding/index.html"
+   ]
+  },
+  "https://www.facebook.com/pages/Pocomoke-Animal-Hospital-Inc/408261845892618": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/maryland/index.html",
+    "dist_adopt/find-a-vet/maryland/index.html",
+    "vets/MD.json"
+   ]
+  },
+  "https://www.facebook.com/pages/category/Hospital/Blanchard-Animal-Hospital-312376892206835/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/oklahoma/index.html",
+    "dist_adopt/find-a-vet/oklahoma/index.html",
+    "vets/OK.json"
+   ]
+  },
+  "https://www.facebook.com/profile.php?id=100064943131710": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/seneca-county-dog-warden-tiffin/index.html"
+   ]
+  },
+  "https://www.facebook.com/rhvet/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "https://www.facebook.com/steveltsvetclinic": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/ohio/index.html",
+    "dist_adopt/find-a-vet/ohio/index.html",
+    "vets/OH.json"
+   ]
+  },
+  "https://www.facebook.com/svaspets/": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/souris-valley-animal-shelter-minot/index.html"
+   ]
+  },
+  "https://www.fatherjohns.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/father-john-s-animal-house-lafayette/index.html",
+    "dist_adopt/shelters/father-john-s-animal-house-lafayette/index.html"
+   ]
+  },
+  "https://www.fourpawsvetcenter.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/washington/index.html",
+    "dist_adopt/find-a-vet/washington/index.html",
+    "vets/WA.json"
+   ]
+  },
+  "https://www.gabbysark.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/gabby-s-sanctuary-ark-desoto/index.html",
+    "dist_adopt/shelters/gabby-s-sanctuary-ark-desoto/index.html"
+   ]
+  },
+  "https://www.gdrrny.org/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/grateful-doggies-rescue-retreat-middletown/index.html",
+    "dist_adopt/shelters/grateful-doggies-rescue-retreat-middletown/index.html"
+   ]
+  },
+  "https://www.giddingspolice-tx.us/animal-shelter": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/lehman-animal-shelter-giddings-giddings/index.html",
+    "dist_adopt/shelters/lehman-animal-shelter-giddings-giddings/index.html"
+   ]
+  },
+  "https://www.greenfieldin.org/government/animal-control": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/greenfield-hancock-county-animal-management-greenfield/index.html",
+    "dist_adopt/shelters/greenfield-hancock-county-animal-management-greenfield/index.html"
+   ]
+  },
+  "https://www.haddam.org/node/4073": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/haddam-dog-pound-haddam-animal-control-higganum/index.html",
+    "dist_adopt/shelters/haddam-dog-pound-haddam-animal-control-higganum/index.html"
+   ]
+  },
+  "https://www.hardeecountyfl.gov/departments/animal-control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/hardee-county-animal-control-wauchula/index.html",
+    "dist_adopt/shelters/hardee-county-animal-control-wauchula/index.html"
+   ]
+  },
+  "https://www.honnas.vet": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/texas/index.html",
+    "dist_adopt/find-a-vet/texas/index.html",
+    "vets/TX.json"
+   ]
+  },
+  "https://www.hopkintonri.gov/animal-control/pages/animal-adoptions": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/hopkinton-animal-shelter-hopkinton/index.html",
+    "dist_adopt/shelters/hopkinton-animal-shelter-hopkinton/index.html"
+   ]
+  },
+  "https://www.hsccvt.org/Foster": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/humane-society-of-chittenden-county-south-burlington/index.html",
+    "dist_adopt/shelters/humane-society-of-chittenden-county-south-burlington/index.html"
+   ]
+  },
+  "https://www.hstc1.org/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/listings/humane-society-of-the-treasure-coast-palm-city/index.html",
+    "dist_adopt/shelters/humane-society-of-the-treasure-coast-palm-city/index.html"
+   ]
+  },
+  "https://www.humane.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/suncoast-humane-society-englewood/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/shelters/suncoast-humane-society-englewood/index.html"
+   ]
+  },
+  "https://www.humanesocietyofvaldosta.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-valdosta-lowndes-county-valdosta/index.html",
+    "dist_adopt/shelters/humane-society-of-valdosta-lowndes-county-valdosta/index.html"
+   ]
+  },
+  "https://www.humanesocietyofwa.org/contact": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/humane-society-of-west-alabama-northport/index.html"
+   ]
+  },
+  "https://www.jacobsonvet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/nebraska/index.html",
+    "dist_adopt/find-a-vet/nebraska/index.html",
+    "vets/NE.json"
+   ]
+  },
+  "https://www.jerseyshoreanimalcenter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/jersey-shore-animal-center-brick/index.html",
+    "dist_adopt/shelters/jersey-shore-animal-center-brick/index.html"
+   ]
+  },
+  "https://www.karnescountyhumane.org/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/karnes-county-humane-organization-kenedy/index.html",
+    "dist_adopt/shelters/karnes-county-humane-organization-kenedy/index.html"
+   ]
+  },
+  "https://www.kishvet.vetsuite.com": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://www.lapawanimalhospital.com/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "https://www.ledyardct.org/81/Lost-Found": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/ledyard-animal-control-ledyard/index.html",
+    "dist_adopt/shelters/ledyard-animal-control-ledyard/index.html"
+   ]
+  },
+  "https://www.leicesterma.org/print/9673": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/leicester-animal-control-leicester/index.html",
+    "dist_adopt/shelters/leicester-animal-control-leicester/index.html"
+   ]
+  },
+  "https://www.lincolncityanimalclinic.com/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/oregon/index.html",
+    "dist_adopt/find-a-vet/oregon/index.html",
+    "vets/OR.json"
+   ]
+  },
+  "https://www.lockhart-tx.org/page/animal_services_home": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/lockhart-animal-shelter-lockhart/index.html",
+    "dist_adopt/shelters/lockhart-animal-shelter-lockhart/index.html"
+   ]
+  },
+  "https://www.lrvc.net/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/minnesota/index.html",
+    "dist_adopt/find-a-vet/minnesota/index.html",
+    "vets/MN.json"
+   ]
+  },
+  "https://www.managingpetpain.com": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "https://www.marinhumane.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/marin-humane-novato/index.html",
+    "dist_adopt/shelters/marin-humane-novato/index.html"
+   ]
+  },
+  "https://www.marioncountyga.org/by-department/animal-control-services/": {
+   "code": 500,
+   "err": null,
+   "where": [
+    "dist/listings/marion-county-animal-control-services-buena-vista/index.html",
+    "dist_adopt/shelters/marion-county-animal-control-services-buena-vista/index.html"
+   ]
+  },
+  "https://www.mastersonanimalclinic.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/kentucky/index.html",
+    "dist_adopt/find-a-vet/kentucky/index.html",
+    "vets/KY.json"
+   ]
+  },
+  "https://www.medinaco.org/dog-shelter/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/medina-county-dog-warden-and-shelter-medina/index.html",
+    "dist_adopt/shelters/medina-county-dog-warden-and-shelter-medina/index.html"
+   ]
+  },
+  "https://www.milfordma.gov/print/12": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/milford-animal-control-and-dog-kennel-milford/index.html",
+    "dist_adopt/shelters/milford-animal-control-and-dog-kennel-milford/index.html"
+   ]
+  },
+  "https://www.mybigspring.com/162/Adopting-From-the-Shelter": {
+   "code": null,
+   "err": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mybigsp",
+   "where": [
+    "dist/listings/big-spring-animal-services-shelter-big-spring/index.html",
+    "dist_adopt/shelters/big-spring-animal-services-shelter-big-spring/index.html"
+   ]
+  },
+  "https://www.myvetcoble.com/": {
+   "code": null,
+   "err": "URLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/illinois/index.html",
+    "dist_adopt/find-a-vet/illinois/index.html",
+    "vets/IL.json"
+   ]
+  },
+  "https://www.naplescatalliance.org/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/listings/naples-cat-alliance-naples/index.html",
+    "dist_adopt/shelters/naples-cat-alliance-naples/index.html"
+   ]
+  },
+  "https://www.nebraskavetservices.com/": {
+   "code": null,
+   "err": "URLError: [Errno 101] Network is unreachable",
+   "where": [
+    "dist/find-a-vet/nebraska/index.html",
+    "dist_adopt/find-a-vet/nebraska/index.html",
+    "vets/NE.json"
+   ]
+  },
+  "https://www.newmanvets.com/": {
+   "code": null,
+   "err": "URLError: [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://www.northshorehumanesociety.org/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/listings/northshore-humane-society-covington/index.html",
+    "dist_adopt/shelters/northshore-humane-society-covington/index.html"
+   ]
+  },
+  "https://www.orlandtownandcountryhumane.org/": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/town-and-country-humane-society-orland/index.html",
+    "dist_adopt/shelters/town-and-country-humane-society-orland/index.html"
+   ]
+  },
+  "https://www.oxford-ct.gov/print/17886": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/oxford-animal-control-oxford/index.html",
+    "dist_adopt/shelters/oxford-animal-control-oxford/index.html"
+   ]
+  },
+  "https://www.parksanimalhospital.com/": {
+   "code": 503,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/illinois/index.html",
+    "dist_adopt/find-a-vet/illinois/index.html",
+    "vets/IL.json"
+   ]
+  },
+  "https://www.parkway-animal-hospital.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/michigan/index.html",
+    "dist_adopt/find-a-vet/michigan/index.html",
+    "vets/MI.json"
+   ]
+  },
+  "https://www.paws4you.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/paws4you-rescue-miami/index.html",
+    "dist_adopt/shelters/paws4you-rescue-miami/index.html"
+   ]
+  },
+  "https://www.paws4you.org/events/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/paws4you-rescue-miami/index.html",
+    "dist_adopt/events/2026-11/index.html",
+    "dist_adopt/events/2026-12/index.html",
+    "dist_adopt/shelters/paws4you-rescue-miami/index.html"
+   ]
+  },
+  "https://www.pawsadoption.org/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/listings/p-a-w-s-animal-adoption-center-camden/index.html",
+    "dist_adopt/shelters/p-a-w-s-animal-adoption-center-camden/index.html"
+   ]
+  },
+  "https://www.pawshs.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/paws-humane-society-rockford/index.html",
+    "dist_adopt/shelters/paws-humane-society-rockford/index.html"
+   ]
+  },
+  "https://www.peggyadams.org/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/listings/peggy-adams-animal-rescue-league-west-palm-beach/index.html",
+    "dist_adopt/shelters/peggy-adams-animal-rescue-league-west-palm-beach/index.html"
+   ]
+  },
+  "https://www.pembroke-ma.gov/node/31": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/town-of-pembroke-animal-care-and-control-pembroke/index.html",
+    "dist_adopt/shelters/town-of-pembroke-animal-care-and-control-pembroke/index.html"
+   ]
+  },
+  "https://www.penrynpet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/california/index.html",
+    "dist_adopt/find-a-vet/california/index.html",
+    "vets/CA.json"
+   ]
+  },
+  "https://www.petfinder.com/member/us/ny/montour-falls/humane-society-of-schuyler-county-ny633; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/19036": {
+   "code": null,
+   "err": "InvalidURL: URL can't contain control characters. '/member/us/ny/montour-falls/humane-society-of-schuyler-county-ny633; https://apps",
+   "where": [
+    "dist/listings/humane-society-of-schuyler-county-montour-falls/index.html"
+   ]
+  },
+  "https://www.petsadoption.org/index.php/services/field-trips-for-shelter-dogs": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/mary-s-roberts-pet-adoption-center-riverside/index.html",
+    "dist_adopt/shelters/mary-s-roberts-pet-adoption-center-riverside/index.html"
+   ]
+  },
+  "https://www.phillipsvet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/ohio/index.html",
+    "dist_adopt/find-a-vet/ohio/index.html",
+    "vets/OH.json"
+   ]
+  },
+  "https://www.pixieproject.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/the-pixie-project-portland/index.html",
+    "dist_adopt/shelters/the-pixie-project-portland/index.html"
+   ]
+  },
+  "https://www.plainvillect.com/animal-control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/plainville-animal-control-plainville/index.html",
+    "dist_adopt/shelters/plainville-animal-control-plainville/index.html"
+   ]
+  },
+  "https://www.pleasantscountyhumanesociety.org/": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/pleasants-county-humane-society-st-marys/index.html",
+    "dist_adopt/shelters/pleasants-county-humane-society-st-marys/index.html"
+   ]
+  },
+  "https://www.polkcountyor.gov/sheriff/doganimal-control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/polk-county-dog-control-polk-county-sheriff-s-office-dallas/index.html",
+    "dist_adopt/shelters/polk-county-dog-control-polk-county-sheriff-s-office-dallas/index.html"
+   ]
+  },
+  "https://www.postfallspolice.com/services-view/canine-control-center-dog-adoptions/": {
+   "code": null,
+   "err": "URLError: [Errno 104] Connection reset by peer",
+   "where": [
+    "dist/listings/post-falls-police-canine-control-center-post-falls/index.html",
+    "dist_adopt/shelters/post-falls-police-canine-control-center-post-falls/index.html"
+   ]
+  },
+  "https://www.radfordva.gov/338/Animal-Control": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/radford-police-animal-shelter-radford/index.html",
+    "dist_adopt/shelters/radford-police-animal-shelter-radford/index.html"
+   ]
+  },
+  "https://www.ramonahumanesociety.org": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/listings/ramona-humane-society-san-jacinto/index.html",
+    "dist_adopt/shelters/ramona-humane-society-san-jacinto/index.html"
+   ]
+  },
+  "https://www.raymore.com/government/city-departments/police/animal-control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/raymore-animal-control-raymore/index.html",
+    "dist_adopt/shelters/raymore-animal-control-raymore/index.html"
+   ]
+  },
+  "https://www.rescueandrelax.com/visit/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/rescue-and-relax-edgewood/index.html",
+    "dist_adopt/shelters/rescue-and-relax-edgewood/index.html"
+   ]
+  },
+  "https://www.ruidosoanimalclinic.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/new-mexico/index.html",
+    "dist_adopt/find-a-vet/new-mexico/index.html",
+    "vets/NM.json"
+   ]
+  },
+  "https://www.sageranimalhospital.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/massachusetts/index.html",
+    "dist_adopt/find-a-vet/massachusetts/index.html",
+    "vets/MA.json"
+   ]
+  },
+  "https://www.sealypolice.com/animalcontrol.html": {
+   "code": null,
+   "err": "URLError: [Errno -2] Name or service not known",
+   "where": [
+    "dist/listings/sealy-animal-control-center-sealy/index.html",
+    "dist_adopt/shelters/sealy-animal-control-center-sealy/index.html"
+   ]
+  },
+  "https://www.secondchancepetsponsors.org": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/second-chance-pet-rescue-humane-society-of-grove-grove/index.html",
+    "dist_adopt/shelters/second-chance-pet-rescue-humane-society-of-grove-grove/index.html"
+   ]
+  },
+  "https://www.sedrovet.com/": {
+   "code": null,
+   "err": "URLError: timed out",
+   "where": [
+    "dist/find-a-vet/washington/index.html",
+    "dist_adopt/find-a-vet/washington/index.html",
+    "vets/WA.json"
+   ]
+  },
+  "https://www.shinertexas.gov/animal-services": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/shiner-animal-shelter-shiner/index.html",
+    "dist_adopt/shelters/shiner-animal-shelter-shiner/index.html"
+   ]
+  },
+  "https://www.simsbury-ct.gov/node/2492": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/simsbury-animal-control-simsbury/index.html",
+    "dist_adopt/shelters/simsbury-animal-control-simsbury/index.html"
+   ]
+  },
+  "https://www.sioux-city.org/Home/Components/FacilityDirectory/FacilityDirectory/1219/37": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/sioux-city-animal-adoption-and-rescue-center-sioux-city/index.html",
+    "dist_adopt/shelters/sioux-city-animal-adoption-and-rescue-center-sioux-city/index.html"
+   ]
+  },
+  "https://www.snakeriveranimalshelter.org/home/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/snake-river-animal-shelter-idaho-falls/index.html",
+    "dist_adopt/shelters/snake-river-animal-shelter-idaho-falls/index.html"
+   ]
+  },
+  "https://www.spcahancockcounty.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/spca-of-hancock-county-trenton/index.html",
+    "dist_adopt/shelters/spca-of-hancock-county-trenton/index.html"
+   ]
+  },
+  "https://www.sqspca.org/support/": {
+   "code": 520,
+   "err": null,
+   "where": [
+    "dist/listings/susquehanna-spca-cooperstown/index.html",
+    "dist_adopt/shelters/susquehanna-spca-cooperstown/index.html"
+   ]
+  },
+  "https://www.ssvhvero.com/": {
+   "code": null,
+   "err": "URLError: [Errno -3] Temporary failure in name resolution",
+   "where": [
+    "dist/find-a-vet/florida/index.html",
+    "dist_adopt/find-a-vet/florida/index.html",
+    "vets/FL.json"
+   ]
+  },
+  "https://www.stparisohio.org/business-directory/wpbdp_category/animal-care": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/champaign-county-dog-warden-urbana/index.html"
+   ]
+  },
+  "https://www.strayrescue.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/stray-rescue-of-st-louis-st-louis/index.html",
+    "dist_adopt/shelters/stray-rescue-of-st-louis-st-louis/index.html"
+   ]
+  },
+  "https://www.talbothumane.org/dog-day-out/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/talbot-humane-easton/index.html",
+    "dist_adopt/shelters/talbot-humane-easton/index.html"
+   ]
+  },
+  "https://www.tbeah.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://www.thecathospitalofmedia.com/": {
+   "code": 502,
+   "err": null,
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://www.thenoahcenter.org/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/the-noah-center-northwest-organization-for-animal-help-stanwood/index.html",
+    "dist_adopt/shelters/the-noah-center-northwest-organization-for-animal-help-stanwood/index.html"
+   ]
+  },
+  "https://www.townofsharon.net/node/1993": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/town-of-sharon-animal-control-sharon/index.html",
+    "dist_adopt/shelters/town-of-sharon-animal-control-sharon/index.html"
+   ]
+  },
+  "https://www.townofwinchendon.com/node/95": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/winchendon-templeton-regional-animal-control-shelter-templeton/index.html",
+    "dist_adopt/shelters/winchendon-templeton-regional-animal-control-shelter-templeton/index.html"
+   ]
+  },
+  "https://www.trentonga.gov/animal-control": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/trenton-dade-animal-center-trenton/index.html",
+    "dist_adopt/shelters/trenton-dade-animal-center-trenton/index.html"
+   ]
+  },
+  "https://www.trinitycounty.org/543/Animal-Shelter": {
+   "code": 400,
+   "err": null,
+   "where": [
+    "dist/listings/trinity-county-animal-shelter-weaverville/index.html",
+    "dist_adopt/shelters/trinity-county-animal-shelter-weaverville/index.html"
+   ]
+  },
+  "https://www.tyngvet.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/massachusetts/index.html",
+    "dist_adopt/find-a-vet/massachusetts/index.html",
+    "vets/MA.json"
+   ]
+  },
+  "https://www.uvsonline.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "https://www.uxbridge-ma.gov/animal-control/pages/animals-available-adoption": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/uxbridge-animal-control-uxbridge/index.html",
+    "dist_adopt/shelters/uxbridge-animal-control-uxbridge/index.html"
+   ]
+  },
+  "https://www.vhvetgroup.com": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/new-york/index.html",
+    "dist_adopt/find-a-vet/new-york/index.html",
+    "vets/NY.json"
+   ]
+  },
+  "https://www.warminsterhorshamvet.com/": {
+   "code": null,
+   "err": "URLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)",
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://www.waycrossga.gov/animal-control.php": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/waycross-animal-services-waycross/index.html",
+    "dist_adopt/shelters/waycross-animal-services-waycross/index.html"
+   ]
+  },
+  "https://www.weymouth.ma.us/node/65043": {
+   "code": 404,
+   "err": null,
+   "where": [
+    "dist/listings/town-of-weymouth-police-animal-control-weymouth/index.html",
+    "dist_adopt/shelters/town-of-weymouth-police-animal-control-weymouth/index.html"
+   ]
+  },
+  "https://www.whitelandsah.com/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/find-a-vet/pennsylvania/index.html",
+    "dist_adopt/find-a-vet/pennsylvania/index.html",
+    "vets/PA.json"
+   ]
+  },
+  "https://www.williamsoncountyil.gov/departments/animal-control/": {
+   "code": null,
+   "err": "RemoteDisconnected: Remote end closed connection without response",
+   "where": [
+    "dist/listings/williamson-county-animal-control-marion/index.html",
+    "dist_adopt/shelters/williamson-county-animal-control-marion/index.html"
+   ]
+  }
+ },
+ "bad_count": 425,
+ "checked": 20803,
+ "generated": "2026-11-27T13:01Z"
+}
