@@ -738,7 +738,7 @@ def build_forms(rows=None):
 <label for="email">Work email (where requests should go)</label><input id="email" name="email" type="email" required maxlength="200">
 <label for="phone">Phone (optional)</label><input id="phone" name="phone" maxlength="40">
 <label for="message">Program details or changes</label><textarea id="message" name="message" maxlength="4000" placeholder="Program name, what people can do, rules, sign-up link"></textarea>
-<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I work for or volunteer with this organization and can speak for it, and I agree to the <a href="/terms/">Terms</a> and <a href="/privacy/">Privacy policy</a>.</label>""",
+<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> <span>I work for or volunteer with this organization and can speak for it, and I agree to the <a href="/terms/">Terms</a> and <a href="/privacy/">Privacy policy</a>.</span></label>""",
               "shelter")
 
     form_page("/suggest/", "Suggest a shelter or report a problem",
@@ -766,7 +766,7 @@ def build_forms(rows=None):
 <label for="when">Preferred date(s)</label><input id="when" name="when" maxlength="200" placeholder="e.g. Saturday Dec 6, morning">
 <label for="kind">Type of outing</label><select id="kind" name="kind"><option>Day trip</option><option>Hike or walk</option><option>Sleepover or staycation</option><option>Visit</option></select>
 <label for="message">Anything the shelter should know?</label><textarea id="message" name="message" maxlength="3000" placeholder="Your plans for the day, experience with dogs or cats, other pets or kids at home"></textarea>
-<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> I'm 18 or older, I understand the shelter decides whether to approve the outing and sets its own rules, and I agree to the <a href="/terms/">Terms</a> and <a href="/privacy/">Privacy policy</a>, including sending my details to this shelter.</label>
+<label style="display:flex;gap:8px;align-items:flex-start;font-size:.9rem"><input type="checkbox" name="confirm" value="yes" required style="width:auto;margin-top:4px"> <span>I'm 18 or older, I understand the shelter decides whether to approve the outing and sets its own rules, and I agree to the <a href="/terms/">Terms</a> and <a href="/privacy/">Privacy policy</a>, including sending my details to this shelter.</span></label>
 <p style="margin-top:16px"><button class="btn" type="submit">Send request</button></p>
 <p class="fine">Your request goes to the shelter you picked (right away if it runs a program, or in our monthly note if it doesn't), with a copy kept by {BRAND} so we can help if something goes wrong. See our <a href="/privacy/">privacy policy</a>.</p>
 </form>
