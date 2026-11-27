@@ -1553,6 +1553,7 @@ https://shelterdayout.com/listings/devore-animal-shelter-san-bernardino-county-a
 https://shelterdayout.com/listings/dewitt-county-animal-control-clinton/
 https://shelterdayout.com/listings/dexter-animal-shelter-dexter/
 https://shelterdayout.com/listings/dickenson-county-animal-control-shelter-clintwood/
+https://shelterdayout.com/listings/dighton-animal-control-and-shelter-dighton/
 https://shelterdayout.com/listings/dillon-animal-shelter-city-of-dillon-animal-department-dillon/
 https://shelterdayout.com/listings/dinwiddie-county-animal-shelter-dinwiddie/
 https://shelterdayout.com/listings/dirk-s-fund-pacific/
@@ -1575,6 +1576,7 @@ https://shelterdayout.com/listings/douglas-county-animal-control-and-shelter-tus
 https://shelterdayout.com/listings/douglas-county-animal-services-douglasville/
 https://shelterdayout.com/listings/douglas-county-animal-services-gardnerville/
 https://shelterdayout.com/listings/downriver-central-animal-control-southgate/
+https://shelterdayout.com/listings/dracut-animal-control-dracut/
 https://shelterdayout.com/listings/draper-city-animal-shelter-draper/
 https://shelterdayout.com/listings/drews-crew-wild-at-heart-animal-rescue-youngwood/
 https://shelterdayout.com/listings/driftless-humane-society-viroqua/
@@ -1750,6 +1752,7 @@ https://shelterdayout.com/listings/fort-valley-animal-control-fort-valley/
 https://shelterdayout.com/listings/fort-wayne-animal-care-and-control-fort-wayne/
 https://shelterdayout.com/listings/fort-worth-animal-care-and-control-fort-worth/
 https://shelterdayout.com/listings/fox-valley-humane-association-appleton/
+https://shelterdayout.com/listings/foxborough-animal-control-foxborough/
 https://shelterdayout.com/listings/frances-halbrook-hensley-animal-shelter-lexington/
 https://shelterdayout.com/listings/francisvale-home-for-smaller-animals-wayne/
 https://shelterdayout.com/listings/franklin-county-animal-control-benton/
@@ -2729,6 +2732,7 @@ https://shelterdayout.com/listings/luce-county-animal-shelter-newberry/
 https://shelterdayout.com/listings/lucky-paws-adoption-center-city-of-albuquerque-animal-welfare-albuquerque/
 https://shelterdayout.com/listings/lucky-paws-of-madison-county-winterset/
 https://shelterdayout.com/listings/lucy-mackenzie-humane-society-west-windsor/
+https://shelterdayout.com/listings/ludlow-animal-control-ludlow/
 https://shelterdayout.com/listings/luling-animal-control-and-luling-animal-welfare-society-luling/
 https://shelterdayout.com/listings/lumpkin-county-animal-shelter-dahlonega/
 https://shelterdayout.com/listings/luna-cat-cafe-with-cny-cat-coalition-syracuse/
@@ -3929,6 +3933,7 @@ https://shelterdayout.com/listings/stokes-county-animal-control-germanton/
 https://shelterdayout.com/listings/stone-county-humane-society-mountain-view/
 https://shelterdayout.com/listings/stonington-animal-control-pawcatuck/
 https://shelterdayout.com/listings/story-county-animal-shelter-nevada/
+https://shelterdayout.com/listings/stoughton-animal-control-stoughton/
 https://shelterdayout.com/listings/stratford-animal-control-stratford/
 https://shelterdayout.com/listings/stray-animals-matter-s-a-m-marionville/
 https://shelterdayout.com/listings/stray-haven-humane-society-and-spca-waverly/
@@ -4003,6 +4008,7 @@ https://shelterdayout.com/listings/tenth-life-cat-rescue-st-louis/
 https://shelterdayout.com/listings/terre-haute-humane-society-terre-haute/
 https://shelterdayout.com/listings/terrebonne-parish-animal-shelter-gray/
 https://shelterdayout.com/listings/terrell-animal-shelter-and-adoption-center-terrell/
+https://shelterdayout.com/listings/tewksbury-animal-control-tewksbury/
 https://shelterdayout.com/listings/texarkana-animal-care-and-adoption-center-texarkana/
 https://shelterdayout.com/listings/texas-humane-heroes-leander/
 https://shelterdayout.com/listings/the-a-r-k-humane-society-ltd-lacon/
@@ -4101,10 +4107,13 @@ https://shelterdayout.com/listings/town-of-newburgh-animal-control-and-shelter-n
 https://shelterdayout.com/listings/town-of-north-hempstead-animal-shelter-port-washington/
 https://shelterdayout.com/listings/town-of-owego-dog-shelter-town-of-owego-dog-control-owego/
 https://shelterdayout.com/listings/town-of-oyster-bay-animal-shelter-syosset/
+https://shelterdayout.com/listings/town-of-pembroke-animal-care-and-control-pembroke/
 https://shelterdayout.com/listings/town-of-rangely-animal-shelter-rangely/
 https://shelterdayout.com/listings/town-of-schroeppel-dog-shelter-phoenix/
+https://shelterdayout.com/listings/town-of-sharon-animal-control-sharon/
 https://shelterdayout.com/listings/town-of-smithtown-animal-shelter-smithtown/
 https://shelterdayout.com/listings/town-of-swansea-animal-shelter-swansea/
+https://shelterdayout.com/listings/town-of-weymouth-police-animal-control-weymouth/
 https://shelterdayout.com/listings/town-of-windham-animal-control-willimantic/
 https://shelterdayout.com/listings/town-of-windsor-animal-control-windsor-animal-shelter-windsor/
 https://shelterdayout.com/listings/township-of-union-animal-shelter-union/
@@ -4377,6 +4386,7 @@ https://shelterdayout.com/listings/worcester-animal-rescue-league-worcester/
 https://shelterdayout.com/listings/worcester-county-animal-control-snow-hill/
 https://shelterdayout.com/listings/worcester-county-humane-society-berlin/
 https://shelterdayout.com/listings/worlds-largest-cat-tree-leetonia/
+https://shelterdayout.com/listings/wrentham-animal-control-wrentham/
 https://shelterdayout.com/listings/wright-way-rescue-morton-grove/
 https://shelterdayout.com/listings/wyandot-county-dog-shelter-upper-sandusky/
 https://shelterdayout.com/listings/wyandot-county-humane-society-upper-sandusky/

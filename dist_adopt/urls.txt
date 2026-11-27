@@ -1547,6 +1547,7 @@ https://shelteradoption.com/shelters/devore-animal-shelter-san-bernardino-county
 https://shelteradoption.com/shelters/dewitt-county-animal-control-clinton/
 https://shelteradoption.com/shelters/dexter-animal-shelter-dexter/
 https://shelteradoption.com/shelters/dickenson-county-animal-control-shelter-clintwood/
+https://shelteradoption.com/shelters/dighton-animal-control-and-shelter-dighton/
 https://shelteradoption.com/shelters/dillon-animal-shelter-city-of-dillon-animal-department-dillon/
 https://shelteradoption.com/shelters/dinwiddie-county-animal-shelter-dinwiddie/
 https://shelteradoption.com/shelters/dirk-s-fund-pacific/
@@ -1569,6 +1570,7 @@ https://shelteradoption.com/shelters/douglas-county-animal-control-and-shelter-t
 https://shelteradoption.com/shelters/douglas-county-animal-services-douglasville/
 https://shelteradoption.com/shelters/douglas-county-animal-services-gardnerville/
 https://shelteradoption.com/shelters/downriver-central-animal-control-southgate/
+https://shelteradoption.com/shelters/dracut-animal-control-dracut/
 https://shelteradoption.com/shelters/draper-city-animal-shelter-draper/
 https://shelteradoption.com/shelters/drews-crew-wild-at-heart-animal-rescue-youngwood/
 https://shelteradoption.com/shelters/driftless-humane-society-viroqua/
@@ -1744,6 +1746,7 @@ https://shelteradoption.com/shelters/fort-valley-animal-control-fort-valley/
 https://shelteradoption.com/shelters/fort-wayne-animal-care-and-control-fort-wayne/
 https://shelteradoption.com/shelters/fort-worth-animal-care-and-control-fort-worth/
 https://shelteradoption.com/shelters/fox-valley-humane-association-appleton/
+https://shelteradoption.com/shelters/foxborough-animal-control-foxborough/
 https://shelteradoption.com/shelters/frances-halbrook-hensley-animal-shelter-lexington/
 https://shelteradoption.com/shelters/francisvale-home-for-smaller-animals-wayne/
 https://shelteradoption.com/shelters/franklin-county-animal-control-benton/
@@ -2723,6 +2726,7 @@ https://shelteradoption.com/shelters/luce-county-animal-shelter-newberry/
 https://shelteradoption.com/shelters/lucky-paws-adoption-center-city-of-albuquerque-animal-welfare-albuquerque/
 https://shelteradoption.com/shelters/lucky-paws-of-madison-county-winterset/
 https://shelteradoption.com/shelters/lucy-mackenzie-humane-society-west-windsor/
+https://shelteradoption.com/shelters/ludlow-animal-control-ludlow/
 https://shelteradoption.com/shelters/luling-animal-control-and-luling-animal-welfare-society-luling/
 https://shelteradoption.com/shelters/lumpkin-county-animal-shelter-dahlonega/
 https://shelteradoption.com/shelters/luna-cat-cafe-with-cny-cat-coalition-syracuse/
@@ -3923,6 +3927,7 @@ https://shelteradoption.com/shelters/stokes-county-animal-control-germanton/
 https://shelteradoption.com/shelters/stone-county-humane-society-mountain-view/
 https://shelteradoption.com/shelters/stonington-animal-control-pawcatuck/
 https://shelteradoption.com/shelters/story-county-animal-shelter-nevada/
+https://shelteradoption.com/shelters/stoughton-animal-control-stoughton/
 https://shelteradoption.com/shelters/stratford-animal-control-stratford/
 https://shelteradoption.com/shelters/stray-animals-matter-s-a-m-marionville/
 https://shelteradoption.com/shelters/stray-haven-humane-society-and-spca-waverly/
@@ -3997,6 +4002,7 @@ https://shelteradoption.com/shelters/tenth-life-cat-rescue-st-louis/
 https://shelteradoption.com/shelters/terre-haute-humane-society-terre-haute/
 https://shelteradoption.com/shelters/terrebonne-parish-animal-shelter-gray/
 https://shelteradoption.com/shelters/terrell-animal-shelter-and-adoption-center-terrell/
+https://shelteradoption.com/shelters/tewksbury-animal-control-tewksbury/
 https://shelteradoption.com/shelters/texarkana-animal-care-and-adoption-center-texarkana/
 https://shelteradoption.com/shelters/texas-humane-heroes-leander/
 https://shelteradoption.com/shelters/the-a-r-k-humane-society-ltd-lacon/
@@ -4095,10 +4101,13 @@ https://shelteradoption.com/shelters/town-of-newburgh-animal-control-and-shelter
 https://shelteradoption.com/shelters/town-of-north-hempstead-animal-shelter-port-washington/
 https://shelteradoption.com/shelters/town-of-owego-dog-shelter-town-of-owego-dog-control-owego/
 https://shelteradoption.com/shelters/town-of-oyster-bay-animal-shelter-syosset/
+https://shelteradoption.com/shelters/town-of-pembroke-animal-care-and-control-pembroke/
 https://shelteradoption.com/shelters/town-of-rangely-animal-shelter-rangely/
 https://shelteradoption.com/shelters/town-of-schroeppel-dog-shelter-phoenix/
+https://shelteradoption.com/shelters/town-of-sharon-animal-control-sharon/
 https://shelteradoption.com/shelters/town-of-smithtown-animal-shelter-smithtown/
 https://shelteradoption.com/shelters/town-of-swansea-animal-shelter-swansea/
+https://shelteradoption.com/shelters/town-of-weymouth-police-animal-control-weymouth/
 https://shelteradoption.com/shelters/town-of-windham-animal-control-willimantic/
 https://shelteradoption.com/shelters/town-of-windsor-animal-control-windsor-animal-shelter-windsor/
 https://shelteradoption.com/shelters/township-of-union-animal-shelter-union/
@@ -4371,6 +4380,7 @@ https://shelteradoption.com/shelters/worcester-animal-rescue-league-worcester/
 https://shelteradoption.com/shelters/worcester-county-animal-control-snow-hill/
 https://shelteradoption.com/shelters/worcester-county-humane-society-berlin/
 https://shelteradoption.com/shelters/worlds-largest-cat-tree-leetonia/
+https://shelteradoption.com/shelters/wrentham-animal-control-wrentham/
 https://shelteradoption.com/shelters/wright-way-rescue-morton-grove/
 https://shelteradoption.com/shelters/wyandot-county-dog-shelter-upper-sandusky/
 https://shelteradoption.com/shelters/wyandot-county-humane-society-upper-sandusky/
