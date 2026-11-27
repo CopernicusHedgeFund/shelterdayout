@@ -620,6 +620,7 @@ https://shelteradoption.com/shelters/amarillo-spca-amarillo/
 https://shelteradoption.com/shelters/amazing-grace-animal-rescue-saginaw/
 https://shelteradoption.com/shelters/amelia-county-animal-shelter-amelia/
 https://shelteradoption.com/shelters/ames-animal-shelter-ames/
+https://shelteradoption.com/shelters/amory-humane-society-amory/
 https://shelteradoption.com/shelters/anchorage-animal-care-and-control-anchorage/
 https://shelteradoption.com/shelters/andalusia-animal-shelter-andalusia/
 https://shelteradoption.com/shelters/anderson-county-animal-services-lawrenceburg/
@@ -1422,6 +1423,7 @@ https://shelteradoption.com/shelters/conway-animal-services-conway/
 https://shelteradoption.com/shelters/conway-area-humane-society-conway/
 https://shelteradoption.com/shelters/cookeville-putnam-county-animal-shelter-cookeville/
 https://shelteradoption.com/shelters/coos-county-animal-shelter-coos-bay/
+https://shelteradoption.com/shelters/copiah-animal-shelter-crystal-springs/
 https://shelteradoption.com/shelters/coppell-animal-services-coppell/
 https://shelteradoption.com/shelters/copper-country-humane-society-houghton/
 https://shelteradoption.com/shelters/copperas-cove-animal-shelter-copperas-cove/
@@ -2567,6 +2569,7 @@ https://shelteradoption.com/shelters/last-chance-ranch-quakertown/
 https://shelteradoption.com/shelters/last-hope-animal-rescue-cedar-rapids/
 https://shelteradoption.com/shelters/last-hope-animal-rescue-wantagh-adoption-center-wantagh/
 https://shelteradoption.com/shelters/lathrop-animal-services-lathrop-animal-center-lathrop/
+https://shelteradoption.com/shelters/lauderdale-county-animal-control-shelter-meridian/
 https://shelteradoption.com/shelters/laurel-county-animal-shelter-london/
 https://shelteradoption.com/shelters/laurens-county-animal-care-laurens/
 https://shelteradoption.com/shelters/laurens-county-animal-control-dublin/
@@ -4084,6 +4087,7 @@ https://shelteradoption.com/shelters/tulare-county-animal-services-visalia/
 https://shelteradoption.com/shelters/tullahoma-animal-shelter-tullahoma/
 https://shelteradoption.com/shelters/tulsa-animal-services-tulsa/
 https://shelteradoption.com/shelters/tulsa-spca-tulsa/
+https://shelteradoption.com/shelters/tunica-humane-society-tunica/
 https://shelteradoption.com/shelters/tuolumne-county-animal-control-jamestown/
 https://shelteradoption.com/shelters/tupelo-lee-humane-society-tupelo/
 https://shelteradoption.com/shelters/turlock-animal-services-turlock/
@@ -4108,6 +4112,7 @@ https://shelteradoption.com/shelters/union-county-animal-shelter-monroe/
 https://shelteradoption.com/shelters/union-county-dog-warden-marysville/
 https://shelteradoption.com/shelters/union-county-humane-society-marysville/
 https://shelteradoption.com/shelters/union-county-humane-society-maynardville/
+https://shelteradoption.com/shelters/union-county-humane-society-new-albany/
 https://shelteradoption.com/shelters/universal-city-animal-care-and-control-universal-city/
 https://shelteradoption.com/shelters/unleashed-pet-rescue-mission/
 https://shelteradoption.com/shelters/upland-animal-services-shelter-upland/

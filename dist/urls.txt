@@ -628,6 +628,7 @@ https://shelterdayout.com/listings/amarillo-spca-amarillo/
 https://shelterdayout.com/listings/amazing-grace-animal-rescue-saginaw/
 https://shelterdayout.com/listings/amelia-county-animal-shelter-amelia/
 https://shelterdayout.com/listings/ames-animal-shelter-ames/
+https://shelterdayout.com/listings/amory-humane-society-amory/
 https://shelterdayout.com/listings/anchorage-animal-care-and-control-anchorage/
 https://shelterdayout.com/listings/andalusia-animal-shelter-andalusia/
 https://shelterdayout.com/listings/anderson-county-animal-services-lawrenceburg/
@@ -1430,6 +1431,7 @@ https://shelterdayout.com/listings/conway-animal-services-conway/
 https://shelterdayout.com/listings/conway-area-humane-society-conway/
 https://shelterdayout.com/listings/cookeville-putnam-county-animal-shelter-cookeville/
 https://shelterdayout.com/listings/coos-county-animal-shelter-coos-bay/
+https://shelterdayout.com/listings/copiah-animal-shelter-crystal-springs/
 https://shelterdayout.com/listings/coppell-animal-services-coppell/
 https://shelterdayout.com/listings/copper-country-humane-society-houghton/
 https://shelterdayout.com/listings/copperas-cove-animal-shelter-copperas-cove/
@@ -2575,6 +2577,7 @@ https://shelterdayout.com/listings/last-chance-ranch-quakertown/
 https://shelterdayout.com/listings/last-hope-animal-rescue-cedar-rapids/
 https://shelterdayout.com/listings/last-hope-animal-rescue-wantagh-adoption-center-wantagh/
 https://shelterdayout.com/listings/lathrop-animal-services-lathrop-animal-center-lathrop/
+https://shelterdayout.com/listings/lauderdale-county-animal-control-shelter-meridian/
 https://shelterdayout.com/listings/laurel-county-animal-shelter-london/
 https://shelterdayout.com/listings/laurens-county-animal-care-laurens/
 https://shelterdayout.com/listings/laurens-county-animal-control-dublin/
@@ -4092,6 +4095,7 @@ https://shelterdayout.com/listings/tulare-county-animal-services-visalia/
 https://shelterdayout.com/listings/tullahoma-animal-shelter-tullahoma/
 https://shelterdayout.com/listings/tulsa-animal-services-tulsa/
 https://shelterdayout.com/listings/tulsa-spca-tulsa/
+https://shelterdayout.com/listings/tunica-humane-society-tunica/
 https://shelterdayout.com/listings/tuolumne-county-animal-control-jamestown/
 https://shelterdayout.com/listings/tupelo-lee-humane-society-tupelo/
 https://shelterdayout.com/listings/turlock-animal-services-turlock/
@@ -4116,6 +4120,7 @@ https://shelterdayout.com/listings/union-county-animal-shelter-monroe/
 https://shelterdayout.com/listings/union-county-dog-warden-marysville/
 https://shelterdayout.com/listings/union-county-humane-society-marysville/
 https://shelterdayout.com/listings/union-county-humane-society-maynardville/
+https://shelterdayout.com/listings/union-county-humane-society-new-albany/
 https://shelterdayout.com/listings/universal-city-animal-care-and-control-universal-city/
 https://shelterdayout.com/listings/unleashed-pet-rescue-mission/
 https://shelterdayout.com/listings/upland-animal-services-shelter-upland/
