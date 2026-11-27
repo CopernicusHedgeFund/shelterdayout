@@ -718,5 +718,37 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(541) 460-6420"
+ },
+ {
+  "state": "OR",
+  "city": "Dallas",
+  "org": "Polk County Dog Control (Polk County Sheriff's Office)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.polkcountyor.gov/sheriff/doganimal-control",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "OR",
+  "city": "Enterprise",
+  "org": "Wallowa County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.wallowacountyhumanesociety.org/adoptions",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]

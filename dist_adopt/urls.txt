@@ -3350,6 +3350,7 @@ https://shelteradoption.com/shelters/plymouth-animal-shelter-plymouth/
 https://shelteradoption.com/shelters/pocatello-animal-services-pocatello/
 https://shelteradoption.com/shelters/pointe-coupee-animal-shelter-new-roads/
 https://shelteradoption.com/shelters/polk-county-animal-control-cedartown/
+https://shelteradoption.com/shelters/polk-county-dog-control-polk-county-sheriff-s-office-dallas/
 https://shelteradoption.com/shelters/polk-county-humane-society-bolivar/
 https://shelteradoption.com/shelters/polk-county-sheriff-s-office-animal-control-winter-haven/
 https://shelteradoption.com/shelters/pope-county-humane-society-glenwood/
@@ -4157,6 +4158,7 @@ https://shelteradoption.com/shelters/walker-county-animal-shelter-chickamauga/
 https://shelteradoption.com/shelters/waller-animal-shelter-and-rescue-waller/
 https://shelteradoption.com/shelters/wallingford-animal-control-wallingford/
 https://shelteradoption.com/shelters/wallis-annenberg-petspace-playa-vista-los-angeles/
+https://shelteradoption.com/shelters/wallowa-county-humane-society-enterprise/
 https://shelteradoption.com/shelters/walton-county-animal-control-monroe/
 https://shelteradoption.com/shelters/walton-county-animal-shelter-walton-county-sheriff-s-office-animal-services-defuniak-springs/
 https://shelteradoption.com/shelters/wanderers-rest-humane-association-canastota/

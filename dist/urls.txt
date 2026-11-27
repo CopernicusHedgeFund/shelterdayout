@@ -3358,6 +3358,7 @@ https://shelterdayout.com/listings/plymouth-animal-shelter-plymouth/
 https://shelterdayout.com/listings/pocatello-animal-services-pocatello/
 https://shelterdayout.com/listings/pointe-coupee-animal-shelter-new-roads/
 https://shelterdayout.com/listings/polk-county-animal-control-cedartown/
+https://shelterdayout.com/listings/polk-county-dog-control-polk-county-sheriff-s-office-dallas/
 https://shelterdayout.com/listings/polk-county-humane-society-bolivar/
 https://shelterdayout.com/listings/polk-county-sheriff-s-office-animal-control-winter-haven/
 https://shelterdayout.com/listings/pope-county-humane-society-glenwood/
@@ -4165,6 +4166,7 @@ https://shelterdayout.com/listings/walker-county-animal-shelter-chickamauga/
 https://shelterdayout.com/listings/waller-animal-shelter-and-rescue-waller/
 https://shelterdayout.com/listings/wallingford-animal-control-wallingford/
 https://shelterdayout.com/listings/wallis-annenberg-petspace-playa-vista-los-angeles/
+https://shelterdayout.com/listings/wallowa-county-humane-society-enterprise/
 https://shelterdayout.com/listings/walton-county-animal-control-monroe/
 https://shelterdayout.com/listings/walton-county-animal-shelter-walton-county-sheriff-s-office-animal-services-defuniak-springs/
 https://shelterdayout.com/listings/wanderers-rest-humane-association-canastota/
