@@ -1,5 +1,9 @@
 # Round 5: final national deep sweep (instructions for one cloud run)
 
+Also used by the QUARTERLY full sweeps (March, June, September, December). If your trigger message says "quarterly", follow
+everything below the same way, but write "quarterly" instead of "round 5" in commit messages, set "checked" to the current
+month and year, and add events through the end of the second month after the current one.
+
 ShelterDayOut.com and ShelterAdoption.com are free shelter directories run by Charity Good for Philip "Ward" McKinley III.
 This is the last big national pass and the foundation for both sites, so be thorough. Your trigger message names your
 SCOPE (states, sometimes a city range). Work in the cloud without asking questions.
@@ -20,7 +24,7 @@ For each entry, open its own site with WebFetch: the listed page, then up to 4 m
 2. **Adoption events.** Add every upcoming event from the shelter's own site through March 31, 2027 to "events": [{"date":"YYYY-MM-DD","end":"YYYY-MM-DD" (optional),"title":"...","url":"...","place":"..."}]: adoption days, open houses, fee-waived or reduced-fee specials, holiday adoption events, mobile adoption stops. Future dates only; drop past ones; no duplicates.
 3. **Fill gaps from the same pages:** missing "phone" (main public line, written "(555) 555-5555", never fax, clinic or a staff direct line), missing "email_main" (public email on their own site), a wrong name or city, or a "url" that has clearly moved to a new official address.
 4. If the official site says the shelter has closed for good, remove the entry. Remove entries that turn out not to be shelters (vets, boarding, foster-only rescues with no facility, wildlife or farm sanctuaries).
-5. Set "checked": "November 2026" on every entry you open.
+5. Set "checked" to the current month and year (e.g. "November 2026") on every entry you open.
 
 ## Pass B: find shelters still missing
 Then list which counties and cities in your scope already have entries and search the rest: "<county> County animal shelter <state>", "<county> County humane society", "animal shelter <city>" for every city over ~10,000 people, and the state's licensed-shelter list if one exists. Add every shelter that houses adoptable dogs and/or cats (county/city shelters, animal services and animal control, dog wardens, humane societies, SPCAs, nonprofit shelters with a physical adoption facility), no duplicates by name+city, confirmed on its own website or a government page. New entry:
