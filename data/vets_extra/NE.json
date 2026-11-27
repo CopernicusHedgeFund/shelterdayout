@@ -28,5 +28,20 @@
   "lon": null,
   "src": "https://www.banfield.com/locations/veterinarians/ne/omaha/wmp",
   "checked": "November 2026"
+ },
+ {
+  "state": "NE",
+  "name": "VEG Omaha",
+  "city": "Omaha",
+  "street": "13110 Birch Dr, Suite 180",
+  "zip": "68164",
+  "phone": "(402) 205-7271",
+  "website": "https://www.veg.com/locations/nebraska",
+  "emergency": "yes",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.veg.com/locations/nebraska",
+  "checked": "November 2026"
  }
 ]
