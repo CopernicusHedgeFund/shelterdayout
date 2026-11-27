@@ -1,3 +1,5 @@
+# Bulk copying or scraping of this site is not allowed without written permission: https://shelteradoption.com/terms/#no-scraping
+# Search engines that follow these rules are welcome.
 User-agent: *
 Allow: /
 Disallow: /api/

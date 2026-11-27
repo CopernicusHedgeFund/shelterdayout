@@ -299,7 +299,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Ready to adopt? <a href="https://shelteradoption.com/" rel="noopener">ShelterAdoption</a>, our sister site, lists every shelter near you plus upcoming adoption events.</p>
 <p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License. Distances use <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> city data (CC BY 4.0).</p>
-<p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
+<p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good. All rights reserved. Scraping or copying this site's content is not allowed; see <a href="/terms/#no-scraping">Terms</a>.</p>
 </div></footer>
 <script>(function(){{try{{var d={{p:location.pathname,r:document.referrer,w:innerWidth}},s=function(e){{d.e=e;var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon('/api/hit.php',new Blob([b],{{type:'application/json'}}));else fetch('/api/hit.php',{{method:'POST',body:b,keepalive:true}});}};s(0);var once=function(){{s(1);['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{removeEventListener(t,once,true)}})}};['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{addEventListener(t,once,{{capture:true,passive:true}})}})}}catch(e){{}}}})();</script>
 </body>
@@ -835,7 +835,12 @@ def legal_terms(brand, kind, contact, sdo="https://shelterdayout.com"):
 <h2>Names and trademarks</h2>
 <p>Shelter names, logos and trademarks belong to their owners and are used only to identify each organization. Corrections and removal requests are welcome through the {corr} or by email.</p>
 <h2>Acceptable use</h2>
-<p>Don't submit false information, impersonate a shelter or another person, spam shelters through our forms, try to disrupt or break into the site, or copy the site's content in bulk by automated means.</p>
+<p>Don't submit false information, impersonate a shelter or another person, spam shelters through our forms, or try to disrupt or break into the site.</p>
+<h2 id="no-scraping">No scraping or copying</h2>
+<p>{brand}'s directory, including its selection and arrangement of listings, its descriptions and summaries, its program and event research, its guides, reports and graphics, is the work of {LEGAL_ORG}. You may use the site to find shelters and programs for yourself, and you may quote an individual fact or a figure from our reports with credit and a link to the page.</p>
+<p>Without our written permission you may not: (a) use any robot, spider, scraper, script, crawler, headless or automated browser, AI agent or similar tool, or any manual process, to copy, download, extract or collect pages, listings or data from the site in bulk; (b) disguise such a tool as an ordinary browser, rotate network addresses or otherwise get around the site's technical limits or blocks; (c) republish, mirror, frame or redistribute the site or a substantial part of it; or (d) use material from the site to build, update or supply another directory, database, list, app, product or service, or to train or improve any artificial intelligence or machine-learning model.</p>
+<p>Search engines and other crawlers that identify themselves truthfully and follow the site's <a href="/robots.txt">robots.txt</a> file may index its public pages so people can find them. To ask for permission or a data license, email <a href="mailto:{contact}">{contact}</a>.</p>
+<p>Breaking this section ends your permission to use the site. We may block access and pursue every remedy available under the law, including court orders, damages and recovery of our costs and attorneys' fees where the law allows. Information that comes from OpenStreetMap or GeoNames remains available under its own license, and this section doesn't limit any rights you have under those licenses.</p>
 <h2>Links to other sites</h2>
 <p>We link to shelters' and other organizations' websites for your convenience. We don't control those sites and aren't responsible for their content, policies or practices.</p>
 <h2>No warranties</h2>
@@ -1280,7 +1285,7 @@ def build_assets(rows, optins):
         shutil.copy(f, DIST / "assets" / "email" / f.name)
     (DIST / "favicon.svg").write_text(
         LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
-    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /forms/\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
+    (DIST / "robots.txt").write_text(f"# Bulk copying or scraping of this site is not allowed without written permission: {SITE}/terms/#no-scraping\n# Search engines that follow these rules are welcome.\nUser-agent: *\nAllow: /\nDisallow: /forms/\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
     today = date.today().isoformat()
     urls = ["/", "/cats/", "/how-it-works/", "/for-shelters/", "/suggest/", "/about/", "/terms/", "/privacy/"]
     urls += sorted({f"/states/{slugify(v)}/" for v in STATES.values()})

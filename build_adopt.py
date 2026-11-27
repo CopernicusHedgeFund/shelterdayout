@@ -103,7 +103,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <p>{BRAND} is a free directory of animal shelters. We don't place animals or handle adoptions; each shelter runs its own adoption process. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Not ready to adopt? <a href="{SDO}/" rel="noopener">ShelterDayOut</a>, our sister site, lists shelters that let you take a dog out for the day.</p>
 <p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License. Distances use <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> city data (CC BY 4.0).</p>
-<p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good</p>
+<p>{BRAND} is a program of <a href="https://charitygood.org" rel="noopener">Charity Good</a>. &copy; {date.today().year} Charity Good. All rights reserved. Scraping or copying this site's content is not allowed; see <a href="/terms/#no-scraping">Terms</a>.</p>
 </div></footer>
 <script>(function(){{try{{var d={{p:location.pathname,r:document.referrer,w:innerWidth}},s=function(e){{d.e=e;var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon('/api/hit.php',new Blob([b],{{type:'application/json'}}));else fetch('/api/hit.php',{{method:'POST',body:b,keepalive:true}});}};s(0);var once=function(){{s(1);['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{removeEventListener(t,once,true)}})}};['scroll','click','touchstart','keydown','mousemove'].forEach(function(t){{addEventListener(t,once,{{capture:true,passive:true}})}})}}catch(e){{}}}})();</script>
 </body>
@@ -602,7 +602,7 @@ def build_assets():
     for f in (ROOT / "src" / "art_adopt").glob("*.svg"):
         shutil.copy(f, DIST / "assets" / "art" / f.name)
     (DIST / "favicon.svg").write_text(LOGO.replace('<svg ', '<svg xmlns="http://www.w3.org/2000/svg" '))
-    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
+    (DIST / "robots.txt").write_text(f"# Bulk copying or scraping of this site is not allowed without written permission: {SITE}/terms/#no-scraping\n# Search engines that follow these rules are welcome.\nUser-agent: *\nAllow: /\nDisallow: /api/\nSitemap: {SITE}/sitemap.xml\n")
     (DIST / ".htaccess").write_text(
         "ErrorDocument 404 /404.html\nOptions -Indexes\n"
         "<IfModule mod_rewrite.c>\nRewriteEngine On\nRewriteCond %{HTTPS} off\nRewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]\n"

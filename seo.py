@@ -174,7 +174,7 @@ def build_report(m, rows):
                      "name": "Shelter dog day-out programs in the United States",
                      "description": f"Counts of animal shelters and shelter dog day-out, field trip, sleepover and hiking programs by U.S. state, from {m.BRAND}'s directory, {month}.",
                      "url": m.SITE + "/report/", "dateModified": date.today().isoformat(), "isAccessibleForFree": True,
-                     "license": "https://creativecommons.org/licenses/by/4.0/",
+                     "license": m.SITE + "/terms/#no-scraping",
                      "creator": {"@type": "Organization", "name": m.BRAND, "url": m.SITE + "/", "parentOrganization": {"@type": "NGO", "name": "Charity Good", "url": "https://charitygood.org"}},
                      "spatialCoverage": "United States", "variableMeasured": ["shelters listed", "day-out programs", "open to public", "volunteers only"],
                      "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": m.SITE + "/report/programs-by-state.csv"}]})
@@ -196,11 +196,11 @@ def build_report(m, rows):
 <div style="overflow-x:auto"><table class="facts-table" style="width:100%;border-collapse:collapse">
 <thead><tr><th align="left">State</th><th align="left">Shelters listed</th><th align="left">Programs</th><th align="left">Open to public</th><th align="left">Share with a program</th></tr></thead>
 <tbody>{trs}</tbody></table></div>
-<p><a class="btn alt" href="/report/programs-by-state.csv">Download the data (CSV)</a></p>
+<p><a class="btn alt" href="/report/programs-by-state.csv">Download the state totals (CSV)</a></p>
 <h2>How we count</h2>
 <p>We build the directory from shelters' own websites and public government pages, and re-check listings every month. A shelter counts as having a program when its own site describes a day-out, field trip, sleepover, hiking or similar outing program. Shelters we haven't found a program for are still listed, and visitors can ask them to start one. New this month? See <a href="/new-programs/">new programs</a>.</p>
 <h2>Using this data</h2>
-<p>You're welcome to quote these numbers or use the CSV (CC BY 4.0). Please credit "{m.BRAND} (Charity Good)" with a link to this page. Press questions: <a href="mailto:{m.CONTACT}">{m.CONTACT}</a>.</p>"""
+<p>You're welcome to quote these figures in articles and research. Please credit "{m.BRAND} (Charity Good)" with a link to this page. The CSV is provided for citing these state totals; copying or republishing the directory itself isn't allowed (see our <a href="/terms/#no-scraping">Terms</a>). Press questions: <a href="mailto:{m.CONTACT}">{m.CONTACT}</a>.</p>"""
     m.write("/report/", m.page(f"Shelter Dog Day-Out Programs in the U.S.: {month} Report | {m.BRAND}",
         f"{len(progs):,} shelter dog day-out, field trip and sleepover programs across {len(rows):,} U.S. animal shelters: exact counts by state and type, updated monthly.",
         body, "/report/", f'<script type="application/ld+json">{ld}</script>' + m.crumbs_ld([("Home", "/"), ("Report", "/report/")])))
