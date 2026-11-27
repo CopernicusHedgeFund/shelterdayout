@@ -260,6 +260,7 @@ https://shelterdayout.com/cities/lawrence-ks/
 https://shelterdayout.com/cities/lawrenceville-ga/
 https://shelterdayout.com/cities/league-city-tx/
 https://shelterdayout.com/cities/leesburg-va/
+https://shelterdayout.com/cities/lewisburg-wv/
 https://shelterdayout.com/cities/lewiston-me/
 https://shelterdayout.com/cities/lexington-ky/
 https://shelterdayout.com/cities/lihue-hi/
@@ -363,6 +364,7 @@ https://shelterdayout.com/cities/palm-harbor-fl/
 https://shelterdayout.com/cities/palm-springs-ca/
 https://shelterdayout.com/cities/palmer-ak/
 https://shelterdayout.com/cities/palo-alto-ca/
+https://shelterdayout.com/cities/parkersburg-wv/
 https://shelterdayout.com/cities/pasadena-ca/
 https://shelterdayout.com/cities/peachtree-city-ga/
 https://shelterdayout.com/cities/pearland-tx/
@@ -706,7 +708,6 @@ https://shelterdayout.com/listings/animal-care-league-oak-park/
 https://shelterdayout.com/listings/animal-care-of-davis-county-fruit-heights/
 https://shelterdayout.com/listings/animal-care-shelter-for-kent-county-humane-society-of-kent-county-chestertown/
 https://shelterdayout.com/listings/animal-charity-of-ohio-boardman/
-https://shelterdayout.com/listings/animal-control-monongalia-county-dog-pound-westover/
 https://shelterdayout.com/listings/animal-control-shelter-greenville/
 https://shelterdayout.com/listings/animal-defense-league-of-texas-nacogdoches-campus-san-antonio/
 https://shelterdayout.com/listings/animal-defense-league-of-texas-paul-jolly-center-for-pet-adoptions-san-antonio/
@@ -1763,9 +1764,9 @@ https://shelterdayout.com/listings/fawn-s-family-cat-rescue-and-lounge-bountiful
 https://shelterdayout.com/listings/faxon-animal-care-and-adoption-center-animal-rescue-league-of-fall-river-fall-river/
 https://shelterdayout.com/listings/fayette-county-animal-shelter-connersville/
 https://shelterdayout.com/listings/fayette-county-animal-shelter-fayette/
+https://shelterdayout.com/listings/fayette-county-animal-shelter-fayetteville/
 https://shelterdayout.com/listings/fayette-county-animal-shelter-friends-of-fayette-county-animal-shelter-somerville/
 https://shelterdayout.com/listings/fayette-county-animal-shelter-peachtree-city/
-https://shelterdayout.com/listings/fayette-county-humane-society-fayette-county-animal-control-center-fayetteville/
 https://shelterdayout.com/listings/fayette-friends-of-animals-uniontown/
 https://shelterdayout.com/listings/fayette-regional-humane-society-washington-court-house/
 https://shelterdayout.com/listings/fayetteville-animal-protection-society-fayetteville/
@@ -3024,6 +3025,7 @@ https://shelterdayout.com/listings/mondak-animal-rescue-williston/
 https://shelterdayout.com/listings/monett-animal-control-shelter-monett/
 https://shelterdayout.com/listings/monmouth-county-spca-eatontown/
 https://shelterdayout.com/listings/mono-county-animal-services-whitmore-shelter-crowley-lake/
+https://shelterdayout.com/listings/monongalia-county-canine-adoption-center-westover/
 https://shelterdayout.com/listings/monroe-animal-control-monroe/
 https://shelterdayout.com/listings/monroe-county-animal-control-waterloo/
 https://shelterdayout.com/listings/monroe-county-animal-services-forsyth/
@@ -3154,7 +3156,7 @@ https://shelterdayout.com/listings/newton-county-animal-services-covington/
 https://shelterdayout.com/listings/newton-county-animal-shelter-morocco/
 https://shelterdayout.com/listings/newtown-animal-care-and-control-silverlieb-animal-care-and-control-center-newtown/
 https://shelterdayout.com/listings/niagara-spca-niagara-county-spca-niagara-falls/
-https://shelterdayout.com/listings/nicholas-co-animal-shelter-summersville/
+https://shelterdayout.com/listings/nicholas-county-animal-shelter-summersville/
 https://shelterdayout.com/listings/nine-lives-foundation-redwood-city/
 https://shelterdayout.com/listings/nixa-animal-control-nixa/
 https://shelterdayout.com/listings/nj-humane-society-west-new-york/
@@ -3564,7 +3566,7 @@ https://shelterdayout.com/listings/purrmaid-cafe-and-adoption-center-camarillo/
 https://shelterdayout.com/listings/putnam-county-animal-control-hennepin/
 https://shelterdayout.com/listings/putnam-county-animal-services-eatonton/
 https://shelterdayout.com/listings/putnam-county-animal-services-palatka/
-https://shelterdayout.com/listings/putnam-county-animal-shelter-winfield/
+https://shelterdayout.com/listings/putnam-county-animal-shelter-red-house/
 https://shelterdayout.com/listings/putnam-county-dog-shelter-ottawa/
 https://shelterdayout.com/listings/putnam-humane-society-carmel/
 https://shelterdayout.com/listings/quad-city-animal-welfare-center-milan/
