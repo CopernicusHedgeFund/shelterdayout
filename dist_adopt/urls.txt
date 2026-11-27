@@ -1179,6 +1179,7 @@ https://shelteradoption.com/shelters/chequamegon-humane-association-ashland/
 https://shelteradoption.com/shelters/cherokee-county-animal-shelter-and-rescue-gaffney/
 https://shelteradoption.com/shelters/cherokee-county-animal-shelter-canton/
 https://shelteradoption.com/shelters/cherokee-county-animal-shelter-centre/
+https://shelteradoption.com/shelters/cherokee-village-animal-control-cherokee-village/
 https://shelteradoption.com/shelters/cherryland-humane-society-traverse-city/
 https://shelteradoption.com/shelters/chesapeake-animal-services-chesapeake/
 https://shelteradoption.com/shelters/chesapeake-humane-society-chesapeake/
@@ -2018,6 +2019,7 @@ https://shelteradoption.com/shelters/heartland-pet-connection-hastings/
 https://shelteradoption.com/shelters/hearts-alive-village-cat-caf-las-vegas/
 https://shelteradoption.com/shelters/hearts-alive-village-dog-den-las-vegas/
 https://shelteradoption.com/shelters/hearts-to-homes-humane-society-nashville/
+https://shelteradoption.com/shelters/heber-springs-humane-society-virginia-l-harrison-animal-shelter-heber-springs/
 https://shelteradoption.com/shelters/heidi-s-village-tempe-junction/
 https://shelteradoption.com/shelters/helen-o-krause-animal-foundation-dillsburg/
 https://shelteradoption.com/shelters/helen-woodward-animal-center-rancho-santa-fe/
@@ -2743,6 +2745,7 @@ https://shelteradoption.com/shelters/madison-heights-animal-shelter-madison-heig
 https://shelteradoption.com/shelters/madison-oglethorpe-animal-shelter-danielsville/
 https://shelteradoption.com/shelters/mahoning-county-dog-warden-youngstown/
 https://shelteradoption.com/shelters/main-line-animal-rescue-pennsylvania-spca-phoenixville/
+https://shelteradoption.com/shelters/malvern-animal-shelter-malvern/
 https://shelteradoption.com/shelters/manatee-county-cat-town-bradenton/
 https://shelteradoption.com/shelters/manchester-animal-control-manchester/
 https://shelteradoption.com/shelters/manchester-animal-shelter-manchester/
@@ -3009,6 +3012,7 @@ https://shelteradoption.com/shelters/nebraska-humane-society-omaha/
 https://shelteradoption.com/shelters/neccog-animal-services-northeastern-ct-council-of-governments-regional-animal-shelter-dayville/
 https://shelteradoption.com/shelters/nederland-animal-shelter-nederland/
 https://shelteradoption.com/shelters/needles-animal-shelter-city-of-needles-animal-shelter-and-control-needles/
+https://shelteradoption.com/shelters/needy-paws-animal-shelter-clarksville/
 https://shelteradoption.com/shelters/neenah-animal-shelter-neenah/
 https://shelteradoption.com/shelters/nelson-county-animal-shelter-bardstown/
 https://shelteradoption.com/shelters/nelson-spca-lovingston/
@@ -3235,6 +3239,7 @@ https://shelteradoption.com/shelters/paws-and-claws-animal-adoption-and-care-cen
 https://shelteradoption.com/shelters/paws-and-claws-animal-rescue-of-quay-county-tucumcari/
 https://shelteradoption.com/shelters/paws-and-claws-cat-rescue-evanston/
 https://shelteradoption.com/shelters/paws-and-claws-humane-society-rochester/
+https://shelteradoption.com/shelters/paws-and-claws-pet-shelter-madison-county-huntsville/
 https://shelteradoption.com/shelters/paws-and-more-animal-shelter-washington-county-humane-society-washington/
 https://shelteradoption.com/shelters/paws-and-whiskers-cat-shelter-toledo/
 https://shelteradoption.com/shelters/paws-animal-rescue-pierre/
@@ -3369,6 +3374,7 @@ https://shelteradoption.com/shelters/pleasants-county-humane-society-st-marys/
 https://shelteradoption.com/shelters/plumas-animal-welfare-society-paws-quincy/
 https://shelteradoption.com/shelters/plumas-county-animal-services-shelter-quincy/
 https://shelteradoption.com/shelters/plymouth-animal-shelter-plymouth/
+https://shelteradoption.com/shelters/pocahontas-animal-control-pocahontas/
 https://shelteradoption.com/shelters/pocatello-animal-services-pocatello/
 https://shelteradoption.com/shelters/pointe-coupee-animal-shelter-new-roads/
 https://shelteradoption.com/shelters/polk-county-animal-control-cedartown/
