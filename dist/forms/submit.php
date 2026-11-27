@@ -111,6 +111,7 @@ if ($form === 'request') {
         . "Your listing: " . $page . "\n"
         . "Your adoption page: https://shelteradoption.com/shelters/" . $listing . "/\n"
         . "Update your listing or change where requests go: https://shelterdayout.com/for-shelters/?listing=" . $listing . "\n"
+        . "Free badge for your website: https://shelterdayout.com/for-shelters/badge/?listing=" . $listing . "\n"
         . "To stop receiving requests, reply STOP.\n\n"
         . "ShelterDayOut.com - https://shelterdayout.com\n"
         . "A free program of Charity Good (charitygood.org). Sister site: ShelterAdoption.com - https://shelteradoption.com\n"
@@ -128,7 +129,8 @@ if ($form === 'request') {
         'note' => "Want requests to go to a different email, or need to update your program details? Update your listing at https://shelterdayout.com/for-shelters/?listing=" . $listing . ". To stop receiving requests, reply STOP.",
         'footer_links' => [['ShelterDayOut.com', 'https://shelterdayout.com'], ['Your listing', $page],
                            ['Your adoption page', 'https://shelteradoption.com/shelters/' . $listing . '/'],
-                           ['Update listing', 'https://shelterdayout.com/for-shelters/?listing=' . $listing]],
+                           ['Update listing', 'https://shelterdayout.com/for-shelters/?listing=' . $listing],
+                           ['Free website badge', 'https://shelterdayout.com/for-shelters/badge/?listing=' . $listing]],
     ]);
     $ok = sdo_mail(implode(', ', $to), 'New outing request from ShelterDayOut.com: ' . $name, $body, $html, $name . ' <' . $email . '>', SITE_EMAIL);
     log_row($PRIVATE, [$stamp, 'request', $listing, implode(' ', $to), $name, $email, $fields['phone'] ?? '', $fields['when'] ?? '', $ok ? 'sent' : 'FAILED']);

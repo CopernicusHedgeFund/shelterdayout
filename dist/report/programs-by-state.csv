@@ -1,0 +1,52 @@
+state,state_name,shelters_listed,day_out_programs,open_to_public,volunteers_only,share_with_program
+AL,Alabama,76,11,5,2,14.47%
+AK,Alaska,17,3,1,0,17.65%
+AZ,Arizona,49,10,6,1,20.41%
+AR,Arkansas,63,3,2,0,4.76%
+CA,California,276,54,27,10,19.57%
+CO,Colorado,53,6,4,1,11.32%
+CT,Connecticut,60,4,3,0,6.67%
+DE,Delaware,9,8,6,2,88.89%
+DC,District of Columbia,4,4,4,0,100.00%
+FL,Florida,133,41,28,9,30.83%
+GA,Georgia,149,18,9,3,12.08%
+HI,Hawaii,11,9,8,1,81.82%
+ID,Idaho,30,3,0,1,10.00%
+IL,Illinois,107,16,8,3,14.95%
+IN,Indiana,106,19,10,3,17.92%
+IA,Iowa,58,1,1,0,1.72%
+KS,Kansas,43,5,2,0,11.63%
+KY,Kentucky,93,6,3,1,6.45%
+LA,Louisiana,50,3,1,0,6.00%
+ME,Maine,28,7,2,1,25.00%
+MD,Maryland,36,11,6,2,30.56%
+MA,Massachusetts,72,1,0,1,1.39%
+MI,Michigan,178,19,11,3,10.67%
+MN,Minnesota,52,8,4,2,15.38%
+MS,Mississippi,31,1,0,0,3.23%
+MO,Missouri,84,11,5,2,13.10%
+MT,Montana,27,4,2,1,14.81%
+NE,Nebraska,16,2,0,0,12.50%
+NV,Nevada,31,10,8,1,32.26%
+NH,New Hampshire,23,6,0,6,26.09%
+NJ,New Jersey,80,6,2,0,7.50%
+NM,New Mexico,40,4,3,0,10.00%
+NY,New York,160,28,19,1,17.50%
+NC,North Carolina,114,21,7,2,18.42%
+ND,North Dakota,11,1,0,1,9.09%
+OH,Ohio,124,14,8,0,11.29%
+OK,Oklahoma,56,4,0,0,7.14%
+OR,Oregon,45,7,4,0,15.56%
+PA,Pennsylvania,115,12,5,1,10.43%
+RI,Rhode Island,33,2,0,0,6.06%
+SC,South Carolina,61,12,7,3,19.67%
+SD,South Dakota,13,3,3,0,23.08%
+TN,Tennessee,73,11,6,1,15.07%
+TX,Texas,249,53,27,9,21.29%
+UT,Utah,35,7,3,4,20.00%
+VT,Vermont,13,0,0,0,0.00%
+VA,Virginia,126,21,15,3,16.67%
+WA,Washington,71,12,4,3,16.90%
+WV,West Virginia,44,1,0,0,2.27%
+WI,Wisconsin,80,17,8,4,21.25%
+WY,Wyoming,26,5,1,2,19.23%

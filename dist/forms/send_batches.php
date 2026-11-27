@@ -60,7 +60,8 @@ foreach ($by as $slug => $reqs) {
         . "To stop these monthly notes, reply STOP.\n\n"
         . "Lead source: ShelterDayOut.com\n"
         . "Your listing: " . $page . "\n"
-        . "Your adoption page: https://shelteradoption.com/shelters/" . $slug . "/\n\n"
+        . "Your adoption page: https://shelteradoption.com/shelters/" . $slug . "/\n"
+        . "Free badge for your website: https://shelterdayout.com/for-shelters/badge/?listing=" . $slug . "\n\n"
         . "ShelterDayOut.com - https://shelterdayout.com\n"
         . "A free program of Charity Good (charitygood.org). Sister site: ShelterAdoption.com - https://shelteradoption.com\n"
         . "Charity Good, 121 South Tejon Street, Suite 900, Colorado Springs, CO 80903\n";
@@ -81,7 +82,8 @@ foreach ($by as $slug => $reqs) {
                       ['Tell us about your program', 'https://shelterdayout.com/for-shelters/?listing=' . $slug]],
         'note' => "Shelters report that dogs who go on field trips are adopted more often, and a program can be simple to run. ASPCApro's guide: https://www.aspcapro.org/node/104645 To stop these monthly notes, reply STOP.",
         'footer_links' => [['ShelterDayOut.com', 'https://shelterdayout.com'], ['Your listing', $page],
-                           ['Your adoption page', 'https://shelteradoption.com/shelters/' . $slug . '/']],
+                           ['Your adoption page', 'https://shelteradoption.com/shelters/' . $slug . '/'],
+                           ['Free website badge', 'https://shelterdayout.com/for-shelters/badge/?listing=' . $slug]],
     ]);
     $ok = sdo_mail(implode(', ', $to), $n . ($n === 1 ? ' person wants' : ' people want') . ' to take your dogs out (via ShelterDayOut.com)', $body, $html);
     if ($ok) { $sent[] = "$org: $n -> " . implode(' ', $to); foreach ($reqs as $r) { $r['sent'] = gmdate('Y-m-d'); @file_put_contents($PRIVATE . '/sent_requests.jsonl', json_encode($r) . "\n", FILE_APPEND); } }

@@ -11,6 +11,9 @@ import re
 import shutil
 from datetime import date, datetime
 from pathlib import Path
+from urllib.parse import quote
+import sys
+import seo
 
 ROOT = Path(__file__).parent
 DIST = ROOT / "dist"
@@ -251,8 +254,13 @@ def badge(status):
     return f'<span class="badge {cls}">{esc(STATUS_LABEL[status])}</span>'
 
 
+OG = {}
+
+
 def page(title, desc, body, path, extra_head="", canonical=True):
     url = SITE + path
+    if canonical:
+        OG[path] = seo.og_title(title, BRAND)
     can = f'<link rel="canonical" href="{url}">' if canonical else ""
     return f"""<!doctype html>
 <html lang="en">
@@ -267,7 +275,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <meta property="og:url" content="{url}">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{BRAND}">
-<meta property="og:image" content="{SITE}/assets/og.png">
+<meta property="og:image" content="{SITE}/og.php?p={quote(path, safe='/')}">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -287,7 +295,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <footer class="site"><div class="wrap">
 <div class="logo">{LOGO}<span>Shelter<b>DayOut</b></span></div>
 <p><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/doggy-day-out/">Doggy day out</a><a href="/foster-a-dog-for-a-day/">Foster a dog for a day</a><a href="/volunteer-at-an-animal-shelter/">Volunteer at a shelter</a><a href="/cities/">Browse by city</a><a href="/events/">Adoption events</a></p>
-<p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
+<p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/report/">National report</a><a href="/new-programs/">New programs</a><a href="/for-shelters/badge/">Website badge</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Ready to adopt? <a href="https://shelteradoption.com/" rel="noopener">ShelterAdoption</a>, our sister site, lists every shelter near you plus upcoming adoption events.</p>
 <p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License. Distances use <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> city data (CC BY 4.0).</p>
@@ -613,7 +621,7 @@ def build_listings(rows):
 {f'<p class="animal">Source: <a href="{esc(r["source"])}" rel="noopener nofollow" target="_blank">news coverage of this program</a></p>' if r.get("source") else ""}
 <p class="animal">Thinking of adopting? <a href="https://shelteradoption.com/shelters/{r['slug']}/" rel="noopener">See {esc(name)} on ShelterAdoption</a> for its adoptable pets and adoption events.</p>
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
-<p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests.</p>"""
+<p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests, and add our <a href="/for-shelters/badge/?listing={r['slug']}">free website badge</a>.</p>"""
         write(f"/listings/{r['slug']}/", page(
             (f"{name} ({r['city']}, {r['state']}): Request a Dog Day Out | {BRAND}" if r["status"] == NOPROG
              else f"{r['program']} at {name}, {r['city']}, {r['state']}: Take a Shelter Dog Out | {BRAND}"),
@@ -1309,6 +1317,13 @@ def main():
     build_cities(progs)
     build_guides(progs)
     build_vets()
+    me = sys.modules[__name__]
+    seo.build_new_programs(me, progs)
+    seo.build_report(me, rows)
+    seo.build_badge_page(me, "/for-shelters/badge/", '<a href="/">Home</a> / <a href="/for-shelters/">For shelters</a> / Website badge',
+        "/listings/", "Find us on", "ShelterDayOut", "#ff7a59", "A free ShelterDayOut badge for your website",
+        "Listed on ShelterDayOut? Add this badge to your shelter's website so visitors can find your day-out program, send outing requests and see your listing.")
+    seo.write_og(DIST, OG, BRAND, "shelterdayout.com", "#ff7a59")
     build_sitemap()
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"Built {len(progs)} programs + {len(rows)-len(progs)} other shelters, {n} pages into {DIST}")

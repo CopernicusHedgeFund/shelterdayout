@@ -7,6 +7,9 @@ import re
 import shutil
 from datetime import date, datetime
 from pathlib import Path
+from urllib.parse import quote
+import sys
+import seo
 
 import build as sdo
 from build import esc, slugify, STATES, NOPROG, upcoming, fmt_date, ev_when, coords, contact_html, faq_block
@@ -54,8 +57,13 @@ def logo_html():
     return f'{LOGO}<span>Shelter<b>Adoption</b></span>'
 
 
+OG = {}
+
+
 def page(title, desc, body, path, extra_head="", canonical=True):
     url = SITE + path
+    if canonical:
+        OG[path] = seo.og_title(title, BRAND)
     can = f'<link rel="canonical" href="{url}">' if canonical else ""
     return f"""<!doctype html>
 <html lang="en">
@@ -70,7 +78,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <meta property="og:url" content="{url}">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{BRAND}">
-<meta property="og:image" content="{SITE}/assets/og.png">
+<meta property="og:image" content="{SITE}/og.php?p={quote(path, safe='/')}">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -89,8 +97,9 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <footer class="site"><div class="wrap">
 <div class="logo">{logo_html()}</div>
 <p><a href="/how-to-adopt-a-dog/">How to adopt a dog</a><a href="/how-to-adopt-a-cat/">How to adopt a cat</a><a href="/adoption-checklist/">Adoption checklist</a><a href="/adoption-fees/">Adoption fees</a><a href="/fee-waived-adoption-events/">Fee-waived events</a><a href="/cities/">Browse by city</a></p>
+<p><a href="/questions-to-ask-before-adopting/">Questions to ask</a><a href="/first-week-with-a-rescue-dog/">First week home</a><a href="/adopting-a-senior-dog/">Senior dogs</a><a href="/fostering-vs-adopting/">Fostering vs adopting</a><a href="/adopting-a-dog-with-kids/">Adopting with kids</a></p>
 <p><a href="/puppy-adoption/">Puppy adoption</a><a href="/kitten-adoption/">Kitten adoption</a><a href="/rescue-dogs-near-me/">Rescue dogs</a><a href="/humane-society-near-me/">Humane societies</a><a href="/animal-control-near-me/">Animal control</a></p>
-<p><a href="/about/">About</a><a href="/events/">Adoption events</a><a href="{SDO}/suggest/" rel="noopener">Suggest a shelter</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
+<p><a href="/about/">About</a><a href="/events/">Adoption events</a><a href="{SDO}/suggest/" rel="noopener">Suggest a shelter</a><a href="/badge/">Website badge</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory of animal shelters. We don't place animals or handle adoptions; each shelter runs its own adoption process. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Not ready to adopt? <a href="{SDO}/" rel="noopener">ShelterDayOut</a>, our sister site, lists shelters that let you take a dog out for the day.</p>
 <p class="fine">Some shelter locations: &copy; <a href="https://www.openstreetmap.org/copyright" rel="noopener">OpenStreetMap contributors</a>, available under the Open Database License. Distances use <a href="https://www.geonames.org/" rel="noopener">GeoNames</a> city data (CC BY 4.0).</p>
@@ -320,7 +329,7 @@ def build_shelters(rows):
 <h2>How adoption usually works here</h2>
 <p>Browse the animals on the shelter's website, then visit or apply. Most shelters ask for a photo ID, a short application and a meet-and-greet, and the fee usually covers spay or neuter, vaccines and a microchip. Read our <a href="/adoption-checklist/">adoption checklist</a> before you go.</p>
 <div class="note">{BRAND} isn't affiliated with this shelter and doesn't handle adoptions. Hours, fees and requirements are set by the shelter and can change, so confirm before you visit.</div>
-<p class="animal">Something out of date? <a href="{SDO}/suggest/?type=report&amp;listing={r['slug']}" rel="noopener">Report a problem</a>.</p>"""
+<p class="animal">Something out of date? <a href="{SDO}/suggest/?type=report&amp;listing={r['slug']}" rel="noopener">Report a problem</a>. Work at this shelter? Add our <a href="/badge/?listing={r['slug']}">free website badge</a>.</p>"""
         write(path, page(f"{r['org']} ({r['city']}, {r['state']}): Adopt a Dog, Puppy or Cat | {BRAND}",
             f"Adopt {animals_phrase(r)} from {r['org']} in {r['city']}, {r['state_name']}. See adoptable pets, contact details{', upcoming adoption events' if evs else ''} and how to adopt.",
             body, path, "".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld)
@@ -352,6 +361,33 @@ document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!
 {f'<p><label class="animal" for="evst">Show state: </label><select id="evst"><option value="">All states</option>{opts}</select></p>' if allev else ""}
 {groups or '<p>No upcoming events listed right now. Check back soon: we update monthly.</p>'}
 {js if allev else ""}"""
+    months = sorted({d[:7] for d, _, _ in allev})
+    mname = lambda m: datetime.strptime(m, "%Y-%m").strftime("%B %Y")
+    for mo in months:
+        mev = [x for x in allev if x[0][:7] == mo]
+        items, cur = "", None
+        for d, r, e in sorted(mev, key=lambda x: (STATES[x[1]["state"]], x[0])):
+            if r["state"] != cur:
+                items += ("</ul>" if cur else "") + f'<h2>{STATES[r["state"]]}</h2><ul class="evlist">'
+                cur = r["state"]
+            items += (f'<li><b>{ev_when(e)}</b> &middot; <a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> ({esc(r["city"])}): '
+                      f'{f"<a href=\"{esc(e["url"])}\" rel=\"noopener nofollow\" target=\"_blank\">{esc(e["title"])}</a>" if e.get("url") else esc(e["title"])}'
+                      f'{(" · " + esc(e["place"])) if e.get("place") else ""}</li>')
+        items += "</ul>" if cur else ""
+        others = " · ".join(f'<a href="/events/{o}/">{mname(o)}</a>' for o in months if o != mo)
+        p = f"/events/{mo}/"
+        mld = "".join(f'<script type="application/ld+json">{json.dumps(event_ld(r, e))}</script>' for _, r, e in mev[:300])
+        body = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/events/">Adoption events</a> / {mname(mo)}</div>
+<h1>Pet adoption events in {mname(mo)}</h1>
+<p class="lede">{len(mev):,} adoption day{"s" if len(mev) != 1 else ""}, open houses and fee-waived events at animal shelters in {mname(mo)}, by state. Dates come from each shelter's own website; confirm with the shelter before you go.</p>
+{items}
+{f"<p>Other months: {others}</p>" if others else ""}
+<p>Planning to adopt? Read <a href="/questions-to-ask-before-adopting/">questions to ask before adopting</a> and the <a href="/adoption-checklist/">adoption checklist</a>.</p>"""
+        write(p, page(f"Pet Adoption Events in {mname(mo)}: {len(mev):,} Dates Nationwide | {BRAND}",
+            f"Dog and cat adoption events in {mname(mo)}: {len(mev):,} adoption days, open houses and fee-waived events at shelters nationwide, listed by state.",
+            body, p, mld + crumbs_ld([("Home", "/"), ("Adoption events", "/events/"), (mname(mo), p)])))
+    if months:
+        groups = '<p>By month: ' + " · ".join(f'<a href="/events/{o}/">{mname(o)}</a>' for o in months) + '</p>' + groups
     write("/events/", page(f"Pet Adoption Events Near Me: {len(allev):,} Upcoming Dates | {BRAND}",
         f"Dog and pet adoption events near you: adoption days, open houses and fee-waived events at animal shelters nationwide. {len(allev):,} dates, updated monthly.",
         body, "/events/", ld + crumbs_ld([("Home", "/"), ("Adoption events", "/events/")])))
@@ -422,12 +458,55 @@ GUIDES = {
 <p>Paying for those services separately would usually cost far more than the adoption fee.</p>
 <h2>Why fees differ</h2><p>Puppies and kittens often cost more than adults; seniors often cost less. City and county shelters may charge less than private humane societies. Some shelters add a local license fee.</p>
 <h2>How to adopt for less</h2><p>Many shelters run <a href="/fee-waived-adoption-events/">fee-waived or reduced-fee events</a>, especially when they're full or around holidays. Our <a href="/events/">adoption events calendar</a> lists the ones we've found.</p>"""),
+    "/questions-to-ask-before-adopting/": ("Questions to Ask Before Adopting a Dog or Cat From a Shelter", "The questions to ask a shelter before you adopt a dog or cat: history, health, behavior, fees, return policies and what to expect at home.",
+        "Questions to ask before adopting", """
+<p class="lede">Shelter staff and volunteers often know an animal well. A few good questions will tell you far more than a profile online.</p>
+<h2>About their history</h2><ul><li>How did they come to the shelter: stray, surrendered or transferred?</li><li>If surrendered, what reason did the family give?</li><li>How long have they been here?</li><li>Have they been adopted and returned before? Why?</li></ul>
+<h2>About health</h2><ul><li>Are they spayed or neutered, vaccinated and microchipped?</li><li>Any known medical conditions, medications or special diet?</li><li>When were they last seen by a vet? Can I get copies of their records?</li><li>Does the shelter offer a free first vet visit with a partner clinic?</li></ul>
+<h2>About behavior</h2><ul><li>How do they do with children, other dogs and cats?</li><li>Are they house-trained or litter-trained?</li><li>How do they handle being alone, car rides, strangers and being handled?</li><li>What's their energy level, and how much exercise do they need?</li><li>Have they been in a foster home? What did the foster say?</li></ul>
+<h2>About the adoption</h2><ul><li>What does the fee include?</li><li>Can my dog meet them first? Can the whole household visit?</li><li>Is there a trial period, foster-to-adopt option or return policy?</li><li>Who can I call with questions after I take them home?</li></ul>
+<h2>Want more time together first?</h2><p>Many shelters let you take a dog out for the day or for a sleepover before you decide. <a href="SDO/">Find a dog day out program</a>. Then use our <a href="/adoption-checklist/">adoption checklist</a> to get ready.</p>"""),
+    "/first-week-with-a-rescue-dog/": ("Your First Week With a Rescue Dog: A Day-by-Day Guide", "What to expect in your first week with a newly adopted shelter dog, and how to help them settle in: routines, decompression, house training and the first vet visit.",
+        "Your first week with a rescue dog", """
+<p class="lede">Most newly adopted dogs need time to decompress. A calm, predictable first week helps them trust you faster.</p>
+<h2>Before they come home</h2><p>Set up a quiet spot with a bed or crate, water and a few toys. Block off anything you don't want chewed. Have food ready, ideally what the shelter has been feeding. See the <a href="/adoption-checklist/">adoption checklist</a>.</p>
+<h2>Day 1</h2><p>Go straight home, take them out to the bathroom spot on a leash, then let them explore one or two rooms. Keep visitors away and the house quiet. Some dogs sleep a lot; some don't eat much at first. Both are common.</p>
+<h2>Days 2 and 3</h2><p>Start a routine: meals, walks and bathroom breaks at the same times each day. Keep walks short and on leash, away from dog parks and crowds. Reward calm behavior and going potty outside.</p>
+<h2>Days 4 to 7</h2><p>If they're settling, add short training sessions (sit, name, come), a little alone time so they learn you come back, and a few new places. Introduce other pets slowly and supervised.</p>
+<h2>The first vet visit</h2><p>Book a check-up in the first week or two and bring the shelter's records. Some shelters include a free first visit with a partner vet. <a href="/find-a-vet/">Find a vet near you</a>.</p>
+<h2>When to ask for help</h2><p>Call the shelter if you're worried about growling, snapping, not eating for more than a day or two, or anything else. Most shelters would rather help early, and many have free behavior help lines for adopters.</p>
+<h2>The 3-3-3 pattern</h2><p>Many trainers describe about 3 days to decompress, 3 weeks to learn the routine and 3 months to feel at home. Every dog is different, so go at their pace.</p>"""),
+    "/adopting-a-senior-dog/": ("Adopting a Senior Dog: What to Know Before You Bring One Home", "Why adopting a senior dog from a shelter can be a great fit, what to ask about health and care, and how to find older dogs and senior adoption discounts.",
+        "Adopting a senior dog", """
+<p class="lede">Older dogs often wait longest at shelters, yet many make calm, easy companions. Here's what to know.</p>
+<h2>Why adopt an older dog?</h2><ul><li>Their size, energy and personality are already known.</li><li>Many are house-trained and know basic manners.</li><li>They usually need less exercise than a young dog.</li><li>Some shelters reduce or waive fees for seniors.</li></ul>
+<h2>What counts as senior?</h2><p>It depends on size: large breeds are often considered seniors from about 6 or 7 years old, small dogs later. Ask the shelter how they estimate age.</p>
+<h2>Questions to ask</h2><ul><li>Any known health conditions, medications or dental issues?</li><li>Can I see recent vet records or bloodwork?</li><li>How are their mobility, eyesight and hearing?</li><li>Does the shelter have a senior-for-senior or hospice foster program?</li></ul>
+<h2>Budget for care</h2><p>Plan for regular check-ups, possible dental work and medications. Ask local vets about senior wellness plans. <a href="/find-a-vet/">Find a vet near you</a>.</p>
+<h2>Making home comfortable</h2><p>A thick bed, rugs on slippery floors, a ramp or steps for the couch or car, and short, regular walks go a long way.</p>
+<h2>Where to find senior dogs</h2><p><a href="/#find">Search shelters near you</a> and look at each shelter's adoptable dogs page; many let you filter by age. Watch our <a href="/events/">adoption events calendar</a> for reduced-fee events.</p>"""),
+    "/fostering-vs-adopting/": ("Fostering vs. Adopting a Shelter Pet: Which Is Right for You?", "The difference between fostering and adopting a shelter dog or cat: commitment, costs, what shelters provide, and short-term options like day outs and sleepovers.",
+        "Fostering vs. adopting", """
+<p class="lede">Not ready for a lifetime commitment? Fostering, day outs and sleepovers let you help a shelter animal right now.</p>
+<h2>Adopting</h2><p>You become the animal's permanent family and take on all care and costs. You pay an adoption fee, which usually covers spay or neuter, vaccines and a microchip. See <a href="/how-to-adopt-a-dog/">how to adopt a dog</a>.</p>
+<h2>Fostering</h2><p>You care for a shelter animal at home for a set time, from a few days to a few months, until they're adopted. The shelter usually still owns the animal and often provides food, supplies and vet care. Ask your local shelter about their foster program; most have an application and a short orientation.</p>
+<h2>Shorter options</h2><ul><li><b>Day outs and field trips:</b> take a shelter dog out for a few hours.</li><li><b>Sleepovers:</b> host a dog for a night or a weekend.</li><li><b>Foster-to-adopt:</b> some shelters let you foster first and adopt if it's a fit.</li></ul>
+<p><a href="SDO/">Find day out and sleepover programs near you</a>.</p>
+<h2>Which fits you?</h2><p>If you travel often, rent with restrictions or aren't sure about a long-term pet, fostering or day outs are a great way to help and learn. If you're ready for the long haul, adopt. Either way, you open up space at the shelter for another animal.</p>"""),
+    "/adopting-a-dog-with-kids/": ("Adopting a Dog With Kids: How to Choose and Prepare", "How families with children can choose the right shelter dog, what to ask the shelter, how to introduce kids and dogs, and house rules that keep everyone safe.",
+        "Adopting a dog with kids", """
+<p class="lede">The right shelter dog can be a wonderful family member. A little planning makes the match safer and happier for everyone.</p>
+<h2>Choosing a dog</h2><ul><li>Ask staff which dogs have lived with or met children, and how it went.</li><li>Look for a dog who's relaxed with handling, noise and busy rooms.</li><li>Consider energy level: a calm adult dog can be easier with young kids than a puppy.</li><li>Ask about foster notes; fosters often know how a dog does at home with kids.</li></ul>
+<h2>Bring the family</h2><p>Many shelters ask that everyone in the household meet the dog before adopting. Keep the first meeting calm: let the dog approach, and have kids stand still and offer a hand to sniff.</p>
+<h2>House rules for kids</h2><ul><li>Leave the dog alone while eating, sleeping or chewing.</li><li>No hugging, climbing on or chasing the dog.</li><li>Always ask an adult before playing.</li><li>Give the dog a safe space, like a crate or bed, that kids stay out of.</li></ul>
+<h2>Supervise early on</h2><p>Watch kids and the dog together for the first weeks, especially with young children. Learn the signs a dog needs space: lip licking, yawning, turning away, stiffening or growling.</p>
+<h2>Next steps</h2><p>Read <a href="/questions-to-ask-before-adopting/">questions to ask before adopting</a> and our guide to <a href="/first-week-with-a-rescue-dog/">your first week with a rescue dog</a>.</p>"""),
 }
 
 
 def build_guides():
     for path, (title, desc, h1, html_) in GUIDES.items():
-        ic = {"/how-to-adopt-a-dog/": "puppy", "/how-to-adopt-a-cat/": "kitten", "/adoption-checklist/": "checklist", "/adoption-fees/": "home"}.get(path, "home")
+        ic = {"/how-to-adopt-a-dog/": "puppy", "/how-to-adopt-a-cat/": "kitten", "/adoption-checklist/": "checklist", "/adoption-fees/": "home", "/questions-to-ask-before-adopting/": "checklist", "/first-week-with-a-rescue-dog/": "puppy", "/adopting-a-senior-dog/": "puppy", "/fostering-vs-adopting/": "home", "/adopting-a-dog-with-kids/": "puppy"}.get(path, "home")
         body = f'<div class="crumbs"><a href="/">Home</a> / {esc(h1)}</div><img class="guide-ic" src="/assets/art/{ic}.svg" alt="" width="72" height="72"><h1>{esc(h1)}</h1><div class="prose">{html_.replace("SDO/", SDO + "/")}</div><p><a class="btn" href="/#find">Find a shelter near you</a></p>'
         write(path, page(f"{title} | {BRAND}", desc, body, path, crumbs_ld([("Home", "/"), (h1, path)])))
 
@@ -551,6 +630,10 @@ def main(rows=None):
     build_keyword_pages(rows)
     build_static(rows)
     sdo.build_vets(DIST, page, write, BRAND, crumbs_ld, f"{SDO}/suggest/")
+    me = sys.modules[__name__]
+    seo.build_badge_page(me, "/badge/", '<a href="/">Home</a> / Website badge', "/shelters/", "Adopt from us on", "ShelterAdoption", "#2a9d8f",
+        "A free ShelterAdoption badge for your website", "Listed on ShelterAdoption? Add this badge to your shelter's website so people can find your adoption events, hours and adoptable pets in one place.")
+    seo.write_og(DIST, OG, BRAND, "shelteradoption.com", "#2a9d8f")
     build_sitemap()
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"ShelterAdoption: {len(rows)} shelters, {len(evs)} events, {n} pages into {DIST}")

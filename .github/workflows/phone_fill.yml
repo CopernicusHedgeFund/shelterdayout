@@ -37,7 +37,7 @@ jobs:
           git config user.name shelterdayout-bot && git config user.email hello@shelterdayout.com
           for i in 1 2 3 4; do
             python3 build.py | tail -2
-            git add data/sweep data/phone_fill_report.json dist dist_adopt
+            git add data/sweep data/phone_fill_report.json data/program_history.json dist dist_adopt
             git diff --cached --quiet && break
             N=$(python3 -c "import json;print(len(json.load(open('data/phone_fill_report.json'))['filled']))")
             git commit -qm "Phones: +$N from shelters' own websites (automatic fill)"
