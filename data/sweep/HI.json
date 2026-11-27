@@ -73,7 +73,15 @@
     "email_main": "Info@OahuSPCA.org",
     "phone": "(808) 754-1519",
     "source_list": "shelter website",
-    "events": []
+    "events": [
+      {
+        "date": "2026-11-28",
+        "end": "2027-03-27",
+        "title": "Petco Pearl City Adoption Event (every Saturday, 10am-2pm)",
+        "url": "https://oahuspca.org/Events/details/552/Petco-Pearl-City-Adoption-Event",
+        "place": "Petco Pearl City, 1134 Kuala St, Pearl City"
+      }
+    ]
   },
   {
     "state": "HI",
