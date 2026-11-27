@@ -844,8 +844,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "",
-  "events": []
+  "events": [],
+  "phone": ""
  },
  {
   "state": "MN",
@@ -947,7 +947,14 @@
   "email_main": "info@lacrescentanimalrescue.com",
   "source_list": "shelter website",
   "phone": "(507) 895-2066",
-  "events": []
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Holiday Open House",
+    "url": "https://www.lacrescentanimalrescue.com/fundraising",
+    "place": "La Crescent Animal Rescue (location not stated; shelter at 523 S. Chestnut St., La Crescent)"
+   }
+  ]
  },
  {
   "state": "MN",
@@ -963,24 +970,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "",
-  "events": []
- },
- {
-  "state": "MN",
-  "city": "Owatonna",
-  "org": "Steele County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.steelecountyhumanesociety.net/shelter",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website",
+  "phone": "(507) 644-3853",
   "events": []
  },
  {
