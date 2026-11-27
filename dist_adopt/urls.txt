@@ -456,6 +456,7 @@ https://shelteradoption.com/cities/wantagh-ny/
 https://shelteradoption.com/cities/warren-mi/
 https://shelteradoption.com/cities/warwick-ri/
 https://shelteradoption.com/cities/washington-dc/
+https://shelteradoption.com/cities/waterford-ct/
 https://shelteradoption.com/cities/watonga-ok/
 https://shelteradoption.com/cities/waycross-ga/
 https://shelteradoption.com/cities/west-palm-beach-fl/
@@ -849,6 +850,7 @@ https://shelteradoption.com/shelters/bayou-animal-services-dickinson/
 https://shelteradoption.com/shelters/baypath-humane-society-of-hopkinton-hopkinton/
 https://shelteradoption.com/shelters/baywater-animal-rescue-cambridge/
 https://shelteradoption.com/shelters/beacon-animal-rescue-ocean-view/
+https://shelteradoption.com/shelters/beacon-falls-animal-control-beacon-falls/
 https://shelteradoption.com/shelters/beadle-county-humane-society-huron/
 https://shelteradoption.com/shelters/beatrice-humane-society-beatrice/
 https://shelteradoption.com/shelters/beaufort-county-animal-control-washington/
@@ -1076,6 +1078,7 @@ https://shelteradoption.com/shelters/candy-s-cats-inc-apopka/
 https://shelteradoption.com/shelters/canine-adoption-and-rescue-league-c-a-r-l-santa-paula/
 https://shelteradoption.com/shelters/canine-rescue-of-central-pennsylvania-dillsburg/
 https://shelteradoption.com/shelters/cannonsville-critters-stanton/
+https://shelteradoption.com/shelters/canton-animal-control-canton/
 https://shelteradoption.com/shelters/canton-animal-shelter-canton/
 https://shelteradoption.com/shelters/canyon-lake-animal-shelter-society-canyon-lake/
 https://shelteradoption.com/shelters/cape-ann-animal-aid-gloucester/
@@ -1188,6 +1191,7 @@ https://shelteradoption.com/shelters/cherokee-village-animal-control-cherokee-vi
 https://shelteradoption.com/shelters/cherryland-humane-society-traverse-city/
 https://shelteradoption.com/shelters/chesapeake-animal-services-chesapeake/
 https://shelteradoption.com/shelters/chesapeake-humane-society-chesapeake/
+https://shelteradoption.com/shelters/cheshire-animal-control-cheshire/
 https://shelteradoption.com/shelters/chester-county-animal-shelter-chester/
 https://shelteradoption.com/shelters/chesterfield-county-animal-services-chesterfield-court-house/
 https://shelteradoption.com/shelters/chesterfield-county-animal-shelter-chesterfield/
@@ -1877,6 +1881,7 @@ https://shelteradoption.com/shelters/gordon-county-animal-control-calhoun/
 https://shelteradoption.com/shelters/gracie-s-project-amarillo/
 https://shelteradoption.com/shelters/grady-county-animal-control-cairo/
 https://shelteradoption.com/shelters/graham-county-animal-control-safford/
+https://shelteradoption.com/shelters/granby-animal-control-granby/
 https://shelteradoption.com/shelters/grand-county-animal-shelter-granby/
 https://shelteradoption.com/shelters/grand-rivers-humane-society-grand-junction/
 https://shelteradoption.com/shelters/grand-strand-humane-society-myrtle-beach/
@@ -3054,6 +3059,7 @@ https://shelteradoption.com/shelters/nevada-humane-society-reno/
 https://shelteradoption.com/shelters/nevada-spca-las-vegas/
 https://shelteradoption.com/shelters/never-forgotten-animal-society-pahrump/
 https://shelteradoption.com/shelters/new-albany-animal-shelter-new-albany/
+https://shelteradoption.com/shelters/new-canaan-animal-control-new-canaan/
 https://shelteradoption.com/shelters/new-castle-henry-county-animal-shelter-new-castle/
 https://shelteradoption.com/shelters/new-chances-humane-society-blue-earth/
 https://shelteradoption.com/shelters/new-hampshire-humane-society-laconia/
@@ -3464,6 +3470,7 @@ https://shelteradoption.com/shelters/prince-george-s-county-animal-services-faci
 https://shelteradoption.com/shelters/prince-william-county-animal-shelter-independent-hill/
 https://shelteradoption.com/shelters/project-hope-humane-society-metropolis/
 https://shelteradoption.com/shelters/promoting-animal-welfare-society-paws-muskogee/
+https://shelteradoption.com/shelters/prospect-animal-control-prospect/
 https://shelteradoption.com/shelters/providence-animal-center-media/
 https://shelteradoption.com/shelters/providence-animal-control-providence/
 https://shelteradoption.com/shelters/providence-animal-rescue-league-providence/
@@ -3757,6 +3764,7 @@ https://shelteradoption.com/shelters/seneca-county-dog-warden-tiffin/
 https://shelteradoption.com/shelters/sequoia-humane-society-eureka/
 https://shelteradoption.com/shelters/sevier-county-animal-shelter-sevier-animal-care-center-sevierville/
 https://shelteradoption.com/shelters/seward-animal-shelter-seward/
+https://shelteradoption.com/shelters/seymour-animal-control-seymour/
 https://shelteradoption.com/shelters/shafter-animal-shelter-shafter/
 https://shelteradoption.com/shelters/shari-d-coleman-animal-services-and-adoption-center-pearland/
 https://shelteradoption.com/shelters/sharp-safe-haven-animal-rescue-program-benton/
@@ -4277,6 +4285,7 @@ https://shelteradoption.com/shelters/washoe-county-regional-animal-services-reno
 https://shelteradoption.com/shelters/watauga-animal-services-center-watauga/
 https://shelteradoption.com/shelters/watauga-humane-society-boone/
 https://shelteradoption.com/shelters/waterbury-animal-control-waterbury/
+https://shelteradoption.com/shelters/waterford-animal-control-waterford/
 https://shelteradoption.com/shelters/watertown-animal-control-watertown/
 https://shelteradoption.com/shelters/watertown-humane-society-watertown/
 https://shelteradoption.com/shelters/watonga-community-cat-foundation-watonga/
