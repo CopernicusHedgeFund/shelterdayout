@@ -25,6 +25,7 @@ def write_og(dist, ogmap, brand, domain, accent):
     php = (ROOT / "src" / "og" / "og.php").read_text()
     php = php.replace("'__BRAND__'", json.dumps(brand)).replace("'__DOMAIN__'", json.dumps(domain)).replace("'__ACCENT__'", json.dumps(accent))
     (dist / "og.php").write_text(php)
+    (dist / "BingSiteAuth.xml").write_text(BING_AUTH)
 
 
 # ---------- website badge ----------
@@ -203,3 +204,6 @@ def build_report(m, rows):
     m.write("/report/", m.page(f"Shelter Dog Day-Out Programs in the U.S.: {month} Report | {m.BRAND}",
         f"{len(progs):,} shelter dog day-out, field trip and sleepover programs across {len(rows):,} U.S. animal shelters: exact counts by state and type, updated monthly.",
         body, "/report/", f'<script type="application/ld+json">{ld}</script>' + m.crumbs_ld([("Home", "/"), ("Report", "/report/")])))
+
+
+BING_AUTH = '<?xml version="1.0"?>\n<users>\n\t<user>112FE28D876C615348E72ECA77A3A442</user>\n</users>\n'
