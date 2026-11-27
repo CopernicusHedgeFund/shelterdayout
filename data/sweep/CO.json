@@ -982,5 +982,21 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "CO",
+  "city": "Walsenburg",
+  "org": "Los Huerfanos Animal Welfare Association",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.lhawa.org/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]
