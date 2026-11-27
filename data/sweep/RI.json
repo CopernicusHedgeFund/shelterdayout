@@ -535,5 +535,37 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(401) 294-1115"
+ },
+ {
+  "state": "RI",
+  "city": "Tiverton",
+  "org": "Tiverton Animal Control Division (Tiverton Animal Shelter)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.tiverton.ri.gov/310/Animal-Control-Division",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "RI",
+  "city": "Narragansett",
+  "org": "Narragansett Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://narragansettri.gov/index.aspx?nid=273",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]
