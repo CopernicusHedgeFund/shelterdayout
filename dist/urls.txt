@@ -115,6 +115,7 @@ https://shelterdayout.com/cities/columbus-ga/
 https://shelterdayout.com/cities/columbus-in/
 https://shelterdayout.com/cities/columbus-oh/
 https://shelterdayout.com/cities/conroe-tx/
+https://shelterdayout.com/cities/conway-nh/
 https://shelterdayout.com/cities/conway-sc/
 https://shelterdayout.com/cities/cooperstown-ny/
 https://shelterdayout.com/cities/corpus-christi-tx/
@@ -283,7 +284,6 @@ https://shelterdayout.com/cities/madera-ca/
 https://shelterdayout.com/cities/madison-al/
 https://shelterdayout.com/cities/madison-nj/
 https://shelterdayout.com/cities/madison-wi/
-https://shelterdayout.com/cities/manchester-nh/
 https://shelterdayout.com/cities/mandan-nd/
 https://shelterdayout.com/cities/mankato-mn/
 https://shelterdayout.com/cities/mansfield-tx/
