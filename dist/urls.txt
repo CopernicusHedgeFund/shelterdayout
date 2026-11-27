@@ -125,6 +125,7 @@ https://shelterdayout.com/cities/dekalb-il/
 https://shelterdayout.com/cities/delaware-oh/
 https://shelterdayout.com/cities/delta-co/
 https://shelterdayout.com/cities/denver-co/
+https://shelterdayout.com/cities/derwood-md/
 https://shelterdayout.com/cities/des-moines-ia/
 https://shelterdayout.com/cities/detroit-mi/
 https://shelterdayout.com/cities/dickinson-tx/
@@ -364,6 +365,7 @@ https://shelterdayout.com/cities/poughkeepsie-ny/
 https://shelterdayout.com/cities/prineville-or/
 https://shelterdayout.com/cities/pullman-wa/
 https://shelterdayout.com/cities/puunene-hi/
+https://shelterdayout.com/cities/queenstown-md/
 https://shelterdayout.com/cities/quincy-il/
 https://shelterdayout.com/cities/red-bluff-ca/
 https://shelterdayout.com/cities/redwood-city-ca/
