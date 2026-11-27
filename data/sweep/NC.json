@@ -11,7 +11,8 @@
   "notes": "Sign a dog out for a few hours or the day as a temporary foster. Bring a valid photo ID and sign a foster contract and waiver; no dog parks or contact with unfamiliar animals.",
   "checked": "November 2026",
   "email_program": "reparker@harnett.org",
-  "email_main": ""
+  "email_main": "animalservices@harnett.org",
+  "phone": "(910) 814-2952"
  },
  {
   "state": "NC",
@@ -25,8 +26,9 @@
   "notes": "Become a shelter volunteer, finish orientation and Dog's Day Out training, then staff pair you with a dog for a few hours or a day. Shelter is at 980 Guilford College Rd.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source": "https://cardinalpine.com/local/things-to-do/nc-shelters-where-you-can-take-a-dog-on-a-day-trip/"
+  "email_main": "GCASInfo@guilfordcountync.gov",
+  "source": "https://cardinalpine.com/local/things-to-do/nc-shelters-where-you-can-take-a-dog-on-a-day-trip/",
+  "phone": "(336) 641-3400"
  },
  {
   "state": "NC",
@@ -42,7 +44,7 @@
   "email_program": "",
   "email_main": "pittshelter@pittcountync.gov",
   "source": "http://www.reflector.com/features/local/pet-news/article_71d974de-90af-4cb9-876e-5673c077112e.html",
-  "phone": "(252) 902-1726"
+  "phone": "(252) 902-1725"
  },
  {
   "state": "NC",
@@ -51,12 +53,12 @@
   "program": "Trail Buddies",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Outings, hikes, staycations, sleepovers",
+  "offers": "Day outings, sleepovers/staycations up to 7 days",
   "url": "https://www.mitchellcountyanimalrescue.org/trailbuddies",
-  "notes": "Outings, hikes, walks, staycations or week-long sleepovers.",
+  "notes": "Sign up via the matchmaking form for a Wednesday or Saturday pickup; supplies are provided and the adoption fee is waived if you adopt or refer an adopter.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@mitchellcountyanimalrescue.org",
   "source": "https://wlos.com/news/local/mitchell-county-animal-rescue-dogs-trail-buddies-volunteer-program-shelter-community-members-outings-hikes-walks-staycations-field-trip-older-larger-mix-breed-adopters-adoption-fee-treats-toys-towell-water-bowl-travel",
   "phone": "(828) 765-6952"
  },
@@ -72,7 +74,8 @@
   "notes": "No appointment or application. Bring ID, sign a waiver. Daycations 11am-5pm weekdays and 9am-3pm weekends, only when no adopters are waiting. Staycations up to 10 days. Open to anyone, any county.",
   "checked": "November 2026",
   "email_program": "ACCfosters@charlottenc.gov",
-  "email_main": ""
+  "email_main": "",
+  "phone": "(704) 336-7600"
  },
  {
   "state": "NC",
@@ -110,13 +113,13 @@
   "program": "Dog Day Out / Paws Across Alamance",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip, hike",
+  "offers": "Day trip, hike, overnight/weekend sleepover",
   "url": "https://www.burlingtonnc.gov/2186/Dog-Day-Out",
   "notes": "Free; book online Monday-Saturday. Return dogs by 4:30pm weekdays or 3pm Saturdays; no dog parks.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@burlingtonnc.gov",
-  "phone": ""
+  "phone": "(336) 578-0343"
  },
  {
   "state": "NC",
@@ -160,27 +163,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@apscaswell.org",
   "phone": "(336) 694-4921",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/6140738927"
- },
- {
-  "state": "NC",
-  "city": "Marshall",
-  "org": "Friends of Madison County Animals",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://fomca.org/",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "(828) 649-9798",
-  "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/6439976190"
  },
  {
   "state": "NC",
@@ -195,7 +181,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "davidsonanimalshelter@gmail.com",
-  "phone": "+1-336-357-0805",
+  "phone": "(336) 357-0805",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/6791504880"
  },
@@ -203,12 +189,12 @@
   "state": "NC",
   "city": "Newton",
   "org": "Humane Society of Catawba County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.catawbahumane.org/",
-  "notes": "",
+  "program": "Out for a Day / Weekend Get Away",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips, weekend sleepovers",
+  "url": "https://catawbahumane.org/get-involved/foster/",
+  "notes": "Approved fosters (21+, via the online foster application) can take a shelter dog out for a few hours or a day during business hours, or home for a weekend.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@catawbahumane.org",
@@ -229,7 +215,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-828-456-5338",
+  "phone": "(828) 456-5338",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7221111329"
  },
@@ -241,12 +227,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://beaufortcountync.gov/Directory.aspx?DID=21",
+  "url": "https://beaufortcountync.gov/244/Animal-Services",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+12529464517",
+  "phone": "(252) 946-4517",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7978217321"
  },
@@ -263,7 +249,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+18286526643",
+  "phone": "(828) 652-4000",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9670127549"
  },
@@ -280,7 +266,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+18288372304",
+  "phone": "(828) 837-2304",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9902025377"
  },
@@ -292,12 +278,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.cabarruscounty.us/Services/Animal-Services/Adopt-an-Animal",
+  "url": "https://www.cabarruslaw.us/Division-Listing/Animal-Services/Adopt-a-Pet",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@cabarruscounty.us",
-  "phone": "+1-704-920-3288",
+  "phone": "(704) 920-3288",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9905272954"
  },
@@ -331,7 +317,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+19102591484",
+  "phone": "(910) 259-1484",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/10719266149"
  },
@@ -347,8 +333,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+19105928493",
+  "email_main": "animalshelter@sampsoncountync.gov",
+  "phone": "(910) 592-8493",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/10719266162"
  },
@@ -361,10 +347,10 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.bwar.org/",
-  "notes": "",
+  "notes": "No sheltering facility during rebuild; animals are in foster homes and the Asheville clinic serves fosters only.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@bwar.org",
   "phone": "(828) 505-3440",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/11181502441"
@@ -407,7 +393,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-704-228-1934",
+  "phone": "(704) 228-1934",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13515484801"
  },
@@ -441,7 +427,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "spca@spcawake.org",
-  "phone": "+1-919-772-2326",
+  "phone": "(919) 772-2326",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/233193639"
  },
@@ -457,7 +443,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ucadopt@unioncountync.gov",
   "phone": "(704) 283-2308",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/596250821"
@@ -467,15 +453,15 @@
   "city": "Burnsville",
   "org": "Yancey County Humane Society",
   "program": "Dog Day Afternoon Program",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip, weekend getaway",
+  "offers": "Day trips, weekend getaways, group trail hikes",
   "url": "https://yanceyhumanesociety.org/volunteer/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Approved volunteers can give a shelter dog a day out or weekend getaway, and join Tails on Trails walks and hikes on Wednesdays and Sundays.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "(828) 682-1200",
+  "email_main": "info@yanceyhumanesociety.com",
+  "phone": "(828) 682-9510",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/617892815"
  },
@@ -483,33 +469,53 @@
   "state": "NC",
   "city": "Wake Forest",
   "org": "Saving Grace Animals for Adoption",
-  "program": "Puppy sleepover",
-  "status": "Needs check",
-  "animals": "Dogs and cats",
-  "offers": "Sleepover",
-  "url": "https://savinggracenc.org/",
-  "notes": "Has offered holiday-weekend puppy sleepovers; check the website for current dates.",
+  "program": "Weekend Sleepover",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Weekend sleepovers, group hikes",
+  "url": "https://savinggracenc.org/sleepover/",
+  "notes": "Anyone living within about an hour of Wake Forest can sign up online to host a shelter dog from Friday pickup to Sunday or Monday return.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "host@savinggracenc.org",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/639854768"
+  "osm": "way/639854768",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Fun-Sized Saturdays: small-dog adoption appointments",
+    "url": "https://savinggracenc.org/calendar/",
+    "place": "Saving Grace, 13400 Old Creedmoor Rd, Wake Forest, NC"
+   },
+   {
+    "date": "2026-12-04",
+    "title": "Fun-Sized Fridays: small-dog adoption appointments",
+    "url": "https://savinggracenc.org/calendar/",
+    "place": "Saving Grace, 13400 Old Creedmoor Rd, Wake Forest, NC"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Fun-Sized Saturdays: small-dog adoption appointments",
+    "url": "https://savinggracenc.org/calendar/",
+    "place": "Saving Grace, 13400 Old Creedmoor Rd, Wake Forest, NC"
+   }
+  ]
  },
  {
   "state": "NC",
   "city": "Boone",
   "org": "Watauga Humane Society",
   "program": "Doggie's Day Out",
-  "status": "Needs check",
-  "animals": "Dogs and cats",
+  "status": "Volunteers only",
+  "animals": "Dogs",
   "offers": "Day trip, hiking",
   "url": "https://wataugahumane.org/blog/posts/100",
-  "notes": "Take a shelter dog out on the trail for the day; contact the shelter for current sign-up details.",
+  "notes": "Trained volunteers take adoptable dogs offsite for hikes, park visits or drives after handling training.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "+1 828-264-7865",
+  "email_program": "volunteer@wataugahumane.org",
+  "email_main": "information@wataugahumane.org",
+  "phone": "(828) 264-7865",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/743552301"
  },
@@ -521,12 +527,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://alleghanycounty-nc.gov/public-works/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(336) 372-8053",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/747443892"
  },
@@ -552,15 +558,15 @@
   "city": "Asheville",
   "org": "Buncombe County Animal Shelter",
   "program": "Dog Day Out",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.ashevillehumane.org/get-help/bcas/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "url": "https://www.ashevillehumane.org/get-involved/dog-day-out/",
+  "notes": "Community members book a GivePulse shift, pick up a dog at the Asheville Humane Adoption Center and take it on a day trip within an hour of the shelter; sleepovers can be arranged with the adoptions team.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 828 250 6430",
+  "phone": "(828) 250-6430",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/943676272"
  },
@@ -589,12 +595,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.co.surry.nc.us/sheriff_office/animal_control.php",
   "notes": "County shelter at 172 County Home Road, Dobson. No separate shelter website found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(336) 401-8481",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1059296546",
   "url_social": "https://www.facebook.com/SurryCountyAC/"
@@ -625,11 +631,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.jacksonnc.org/414/Animal-Shelter",
-  "notes": "463 Airport Road, Sylva. Run by Jackson County Health Department.",
+  "notes": "84 Green Energy Park Rd., Sylva. Run by Jackson County.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(828) 586-4055",
+  "phone": "(828) 586-6138",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1409388577"
  },
@@ -647,7 +653,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(828) 538-4005"
  },
  {
   "state": "NC",
@@ -695,7 +701,7 @@
   "email_program": "",
   "email_main": "animalcontrol@ashecountygov.com",
   "source_list": "shelter website",
-  "phone": "(336) 846-5501"
+  "phone": "(336) 846-5966"
  },
  {
   "state": "NC",
@@ -711,7 +717,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(336) 651-7300"
+  "phone": "(336) 903-7688"
  },
  {
   "state": "NC",
@@ -727,7 +733,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(828) 757-1300"
+  "phone": "(828) 572-4535"
  },
  {
   "state": "NC",
@@ -741,13 +747,13 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animal.shelter@clevelandcounty.com",
   "source_list": "shelter website",
   "phone": "(704) 481-9884"
  },
  {
   "state": "NC",
-  "city": "Dallas",
+  "city": "Gastonia",
   "org": "Gaston County Animal Care and Enforcement",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -759,7 +765,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(704) 866-3000"
+  "phone": "(704) 922-8677"
  },
  {
   "state": "NC",
@@ -774,18 +780,19 @@
   "checked": "November 2026",
   "email_program": "melia.ervin@lincolncountync.gov",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(704) 736-4125"
  },
  {
   "state": "NC",
   "city": "Newton",
   "org": "Catawba County Animal Services",
-  "program": "Day trips and slumber parties",
-  "status": "Needs check",
+  "program": "Pet-cations",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
-  "offers": "Day trip (1 hour to all day), sleepover",
+  "offers": "Day trips (1 hour to all day), slumber parties, weekend stays",
   "url": "https://catawbacountync.gov/county-services/emergency-services/animal-services/foster-a-pet/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Approved foster parents age 18+ can take select dogs and cats out for day trips, slumber parties or weekend stays, then return them with a report card.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@catawbacountync.gov",
@@ -811,12 +818,12 @@
   "state": "NC",
   "city": "Statesville",
   "org": "Iredell County Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://iredellcountync.gov/149/AnimalServices-Control",
-  "notes": "",
+  "program": "Doggy Day Out and Weekend Getaway",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips, weekend sleepovers",
+  "url": "https://www.iredellcountync.gov/793/Foster-Program",
+  "notes": "Approved fosters can pick up a dog in the morning and return it before closing, or take one home for the weekend with supplies provided.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -836,7 +843,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@humanecharlotte.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(704) 377-0534"
  },
  {
   "state": "NC",
@@ -866,7 +874,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@co.stokes.nc.us",
   "source_list": "shelter website",
   "phone": "(336) 994-2788"
  },
@@ -899,7 +907,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@forsyth.cc",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(336) 703-2480"
  },
  {
   "state": "NC",
@@ -915,11 +924,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(336) 751-6238"
+  "phone": "(336) 750-7655"
  },
  {
   "state": "NC",
-  "city": "Asheboro",
+  "city": "Randleman",
   "org": "Randolph County Animal Services",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -929,8 +938,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "rcaspets@RandolphCountyNC.gov",
+  "source_list": "shelter website",
+  "phone": "(336) 683-8235"
  },
  {
   "state": "NC",
@@ -945,7 +955,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 947-2858"
  },
  {
   "state": "NC",
@@ -993,7 +1004,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(910) 875-8751"
+  "phone": "(910) 875-4148"
  },
  {
   "state": "NC",
@@ -1041,7 +1052,7 @@
   "email_program": "",
   "email_main": "info@columbussheriff.com",
   "source_list": "shelter website",
-  "phone": "(910) 642-6551"
+  "phone": "(910) 641-3945"
  },
  {
   "state": "NC",
@@ -1056,7 +1067,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalprotection@robesoncountysonc.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(910) 865-2200"
  },
  {
   "state": "NC",
@@ -1388,7 +1400,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(828) 649-3190"
  },
  {
   "state": "NC",
@@ -1402,9 +1415,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "rutherfordanimalcontrol@heartofthefoothills.org",
   "source_list": "shelter website",
-  "phone": "(828) 287-6025"
+  "phone": "(828) 980-0016"
  },
  {
   "state": "NC",
@@ -1435,18 +1448,18 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(910) 572-3067"
+  "phone": "(910) 576-0037"
  },
  {
   "state": "NC",
   "city": "Salisbury",
   "org": "Rowan County Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.rowancountync.gov/2062/Cat-Resources",
-  "notes": "",
+  "program": "Doggie Day Out",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.rowancountync.gov/2032/Foster-Programs",
+  "notes": "Adults 18+ with photo ID pick up a staff-selected dog Monday-Friday between 11 AM and 3 PM for walks and enrichment within Rowan County, returning it by 3:30 PM the same day.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1481,7 +1494,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(919) 693-6749"
  },
  {
   "state": "NC",
@@ -1643,7 +1657,7 @@
  },
  {
   "state": "NC",
-  "city": "Ahoskie",
+  "city": "Winton",
   "org": "PAWS of Hertford County",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -1653,7 +1667,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "pawshc@gmail.com",
   "source_list": "shelter website",
   "phone": "(252) 642-7297"
  },
@@ -1686,7 +1700,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(919) 872-7233"
  },
  {
   "state": "NC",

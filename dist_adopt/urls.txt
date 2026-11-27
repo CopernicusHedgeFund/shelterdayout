@@ -268,7 +268,6 @@ https://shelteradoption.com/cities/marietta-ga/
 https://shelteradoption.com/cities/marion-ky/
 https://shelteradoption.com/cities/marion-oh/
 https://shelteradoption.com/cities/mariposa-ca/
-https://shelteradoption.com/cities/marshall-nc/
 https://shelteradoption.com/cities/marshall-tx/
 https://shelteradoption.com/cities/martinsville-va/
 https://shelteradoption.com/cities/marysville-oh/
@@ -1812,7 +1811,6 @@ https://shelteradoption.com/shelters/friends-of-cats-el-cajon/
 https://shelteradoption.com/shelters/friends-of-companion-animals-monroe/
 https://shelteradoption.com/shelters/friends-of-homeless-animals-aldie/
 https://shelteradoption.com/shelters/friends-of-linden-animal-shelter-linden-animal-shelter-linden/
-https://shelteradoption.com/shelters/friends-of-madison-county-animals-marshall/
 https://shelteradoption.com/shelters/friends-of-pets-chadron-chadron/
 https://shelteradoption.com/shelters/friends-of-rescue-animals-rowlett/
 https://shelteradoption.com/shelters/friends-of-strays-st-petersburg/
@@ -1851,7 +1849,7 @@ https://shelteradoption.com/shelters/gardner-animal-control-facility-gardner/
 https://shelteradoption.com/shelters/garland-animal-shelter-garland/
 https://shelteradoption.com/shelters/garrard-county-animal-shelter-lancaster/
 https://shelteradoption.com/shelters/garrett-county-animal-shelter-oakland/
-https://shelteradoption.com/shelters/gaston-county-animal-care-and-enforcement-dallas/
+https://shelteradoption.com/shelters/gaston-county-animal-care-and-enforcement-gastonia/
 https://shelteradoption.com/shelters/gateway-humane-society-falls-creek/
 https://shelteradoption.com/shelters/gateway-pet-guardians-east-st-louis/
 https://shelteradoption.com/shelters/gbhs-jasper-animal-care-and-control-jasper/
@@ -2066,6 +2064,7 @@ https://shelteradoption.com/shelters/hearts-alive-village-cat-caf-las-vegas/
 https://shelteradoption.com/shelters/hearts-alive-village-dog-den-las-vegas/
 https://shelteradoption.com/shelters/hearts-to-homes-humane-society-nashville/
 https://shelteradoption.com/shelters/heber-springs-humane-society-virginia-l-harrison-animal-shelter-heber-springs/
+https://shelteradoption.com/shelters/heber-valley-animal-shelter-heber-city/
 https://shelteradoption.com/shelters/heidi-s-village-phoenix/
 https://shelteradoption.com/shelters/helen-o-krause-animal-foundation-dillsburg/
 https://shelteradoption.com/shelters/helen-woodward-animal-center-rancho-santa-fe/
@@ -3329,7 +3328,7 @@ https://shelteradoption.com/shelters/paws-of-coronado-coronado-animal-care-facil
 https://shelteradoption.com/shelters/paws-of-dearborn-county-humane-center-lawrenceburg/
 https://shelteradoption.com/shelters/paws-of-franklin-county-mount-vernon/
 https://shelteradoption.com/shelters/paws-of-grays-harbor-aberdeen/
-https://shelteradoption.com/shelters/paws-of-hertford-county-ahoskie/
+https://shelteradoption.com/shelters/paws-of-hertford-county-winton/
 https://shelteradoption.com/shelters/paws-of-love-monticello/
 https://shelteradoption.com/shelters/paws-of-nome-nome/
 https://shelteradoption.com/shelters/paws-pet-animal-welfare-society-norwalk/
@@ -3535,7 +3534,7 @@ https://shelteradoption.com/shelters/rancho-coastal-humane-society-encinitas/
 https://shelteradoption.com/shelters/rancho-cucamonga-animal-center-rancho-cucamonga/
 https://shelteradoption.com/shelters/randolph-animal-control-randolph/
 https://shelteradoption.com/shelters/randolph-county-animal-control-sparta/
-https://shelteradoption.com/shelters/randolph-county-animal-services-asheboro/
+https://shelteradoption.com/shelters/randolph-county-animal-services-randleman/
 https://shelteradoption.com/shelters/randolph-county-animal-shelter-wedowee/
 https://shelteradoption.com/shelters/randolph-county-humane-society-elkins/
 https://shelteradoption.com/shelters/randolph-county-humane-society-moberly/
@@ -4306,7 +4305,6 @@ https://shelteradoption.com/shelters/warrick-county-animal-control-boonville/
 https://shelteradoption.com/shelters/warrick-humane-society-newburgh/
 https://shelteradoption.com/shelters/warwick-animal-shelter-warwick/
 https://shelteradoption.com/shelters/warwick-valley-humane-society-warwick/
-https://shelteradoption.com/shelters/wasatch-county-animal-services-heber-city/
 https://shelteradoption.com/shelters/wasco-animal-shelter-city-of-wasco-animal-services-wasco/
 https://shelteradoption.com/shelters/washburn-county-area-humane-society-spooner/
 https://shelteradoption.com/shelters/washington-area-humane-society-eighty-four/
