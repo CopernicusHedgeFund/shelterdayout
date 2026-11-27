@@ -1983,12 +1983,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://humanerescue.org/",
-  "notes": "Nonprofit shelter at 7200 Mobley Rd, Brooksville. Adoptions Thu-Sun 11am-5pm (closed Wed); in-person interview required.",
+  "notes": "Nonprofit shelter at 7200 Mobley Rd, Brooksville. Adoptions Thu-Sun 11am-5pm (closed Wed); in-person interview required. Volunteer roles include K9 Companion (on-site dog walking) and fostering; no day-out program described.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(352) 796-2711"
+  "phone": "(352) 796-2711",
+  "events": []
  },
  {
   "state": "FL",
@@ -2015,12 +2016,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.sarasotasheriff.org/programs_and_amp_services/animal_services/index.php",
-  "notes": "Shelter at 6010 Cattleridge Blvd, Sarasota; south county office at 4531 Annex Rd, Venice.",
+  "notes": "Animal Services shelter at 8451 Bee Ridge Road, Sarasota. Adoptions Mon-Fri 9am-4:30pm, Sat 10am-4:30pm, Sun noon-3pm; volunteers (18+) socialize animals and a foster program exists, but no day-out program is described.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@sarasotasheriff.org",
   "source_list": "shelter website",
-  "phone": "(941) 861-9500"
+  "phone": "(941) 861-9500",
+  "events": []
  },
  {
   "state": "FL",
@@ -2036,7 +2038,8 @@
   "email_program": "",
   "email_main": "info@hssc.org",
   "source_list": "shelter website",
-  "phone": "(941) 955-4131"
+  "phone": "(941) 955-4131",
+  "events": []
  },
  {
   "state": "FL",
@@ -2056,7 +2059,8 @@
    {
     "date": "2026-12-03",
     "title": "Holiday Open House (RSVP required)",
-    "url": "https://catdepot.harnessgiving.org/events/4238"
+    "url": "https://catdepot.harnessgiving.org/events/4238",
+    "place": "Cat Depot, 2542 17th St, Sarasota"
    }
   ],
   "phone": "(941) 366-2404"
@@ -2067,15 +2071,16 @@
   "org": "St. Francis Animal Rescue of Venice",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "url": "https://www.sfarvenice.org/",
-  "notes": "Adoption site at 1925 S. Tamiami Trail, Venice.",
+  "notes": "Cat and kitten rescue with adoption site at 1925 S. Tamiami Trail, Venice; open Mon-Sat 10am-5pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "sfarvenice@gmail.com",
   "source_list": "shelter website",
-  "phone": "(941) 492-6200"
+  "phone": "(941) 492-6200",
+  "events": []
  },
  {
   "state": "FL",
@@ -2086,12 +2091,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.awlshelter.org/",
-  "notes": "3519 Drance St., Port Charlotte; contracted shelter for Charlotte County (county Animal Control does not run its own adoption shelter).",
+  "notes": "3519 Drance St., Port Charlotte, open 7 days 11am-5pm; contracted shelter for Charlotte County (county Animal Control does not run its own adoption shelter). Adoptable dogs can be met at Peace River Botanical & Sculpture Gardens on Tail Waggin' Tuesdays.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(941) 625-6720"
+  "phone": "(941) 625-6720",
+  "events": []
  },
  {
   "state": "FL",
@@ -2106,7 +2112,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "DL-DAS-Ops@Collier.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2190,7 +2197,8 @@
   "email_program": "",
   "email_main": "Animalcontrol@okeesheriff.com",
   "source_list": "shelter website",
-  "phone": "(863) 357-3225"
+  "phone": "(863) 357-3225",
+  "events": []
  },
  {
   "state": "FL",
@@ -2222,7 +2230,8 @@
   "email_program": "",
   "email_main": "info@fkspca.org",
   "source_list": "shelter website",
-  "phone": "(305) 294-4857"
+  "phone": "(305) 294-4857",
+  "events": []
  },
  {
   "state": "FL",
@@ -2238,7 +2247,8 @@
   "email_program": "",
   "email_main": "info@fkspca.org",
   "source_list": "shelter website",
-  "phone": "(305) 743-4800"
+  "phone": "(305) 743-4800",
+  "events": []
  },
  {
   "state": "FL",
@@ -2273,7 +2283,8 @@
    {
     "date": "2026-11-27",
     "title": "Black Furrday adoption event",
-    "url": "https://humanebroward.com/events/"
+    "url": "https://humanebroward.com/event/black-furrday-2026/",
+    "place": "Humane Society of Broward County, 2070 Griffin Road, Fort Lauderdale"
    }
   ],
   "phone": "(954) 989-3977"
@@ -2321,7 +2332,7 @@
   "notes": "Rescue Retreat at 8717 SW 134th St, Miami (open by appointment and for events). Approved applicants with an appointment can take a pet home at events. No day-out program found.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@paws4you.org",
   "source_list": "shelter website",
   "events": [
    {
@@ -2333,7 +2344,8 @@
    {
     "date": "2026-12-05",
     "title": "Monthly Adoption Open House",
-    "url": "https://www.paws4you.org/events/"
+    "url": "https://www.paws4you.org/events/",
+    "place": "PAWS4you Rescue Retreat, 8717 SW 134th St, Miami"
    },
    {
     "date": "2026-12-06",
@@ -2359,7 +2371,8 @@
     "url": "https://www.paws4you.org/events/",
     "place": "PetSmart Kendall, 14025 SW 88th St, Miami"
    }
-  ]
+  ],
+  "phone": "(305) 253-1092"
  },
  {
   "state": "FL",
@@ -2375,7 +2388,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "admin@jeffersonhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2387,11 +2401,12 @@
   "offers": "Day trip",
   "url": "https://www.forgottenpets.org/volunteer/",
   "phone": "(850) 670-8417",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Visitors or local residents can check out a shelter dog for a day or more and take it to dog-friendly places like the beach or a restaurant.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "fcadoptioncenter@fairpoint.net",
+  "email_main": "fcadoptioncenter@fairpoint.net",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2407,7 +2422,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@thehsmc.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2423,7 +2439,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hsspca.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2439,7 +2456,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2455,7 +2473,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@caloosahumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2471,7 +2490,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "heather.orina@clewiston-fl.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2487,7 +2507,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2503,7 +2524,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@naplescatalliance.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2519,7 +2541,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hslwr.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2534,8 +2557,34 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@satchelslastresort.org",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Meet and Greet adoption event: Mercato, Venice",
+    "url": "https://satchelslastresort.org/event/meet-and-greet-mercato-venice-2/",
+    "place": "Mercato, Venice"
+   },
+   {
+    "date": "2026-12-02",
+    "title": "Meet and Greet adoption event: Phillippi Farmhouse Market",
+    "url": "https://satchelslastresort.org/event/meet-and-greet-phillipi-farmhouse-market-sarasota-22/",
+    "place": "Phillippi Market, 5500 S Tamiami Trail, Sarasota"
+   },
+   {
+    "date": "2026-12-16",
+    "title": "Meet and Greet adoption event: Phillippi Farmhouse Market",
+    "url": "https://satchelslastresort.org/event/meet-and-greet-phillipi-farmhouse-market-sarasota-23/",
+    "place": "Phillippi Market, 5500 S Tamiami Trail, Sarasota"
+   },
+   {
+    "date": "2026-12-30",
+    "title": "Meet and Greet adoption event: Phillippi Farmhouse Market",
+    "url": "https://satchelslastresort.org/event/meet-and-greet-phillipi-farmhouse-market-sarasota-24/",
+    "place": "Phillippi Market, 5500 S Tamiami Trail, Sarasota"
+   }
+  ]
  },
  {
   "state": "FL",
