@@ -209,6 +209,7 @@ https://shelteradoption.com/cities/guthrie-ok/
 https://shelteradoption.com/cities/hammond-la/
 https://shelteradoption.com/cities/hampton-va/
 https://shelteradoption.com/cities/harlingen-tx/
+https://shelteradoption.com/cities/harrisonburg-va/
 https://shelteradoption.com/cities/hartselle-al/
 https://shelteradoption.com/cities/hattiesburg-ms/
 https://shelteradoption.com/cities/heath-oh/
@@ -1162,6 +1163,7 @@ https://shelteradoption.com/shelters/caring-hands-humane-society-newton/
 https://shelteradoption.com/shelters/caring-paws-rescue-storm-lake/
 https://shelteradoption.com/shelters/carl-w-nelson-animal-shelter-mauston/
 https://shelteradoption.com/shelters/carlisle-county-animal-shelter-bardwell/
+https://shelteradoption.com/shelters/caroline-county-animal-shelter-sheriff-s-office-animal-control-milford/
 https://shelteradoption.com/shelters/caroline-county-humane-society-ridgely/
 https://shelteradoption.com/shelters/carrie-a-seaman-animal-shelter-casas-provincetown/
 https://shelteradoption.com/shelters/carroll-county-animal-control-mount-carroll/
@@ -1188,6 +1190,7 @@ https://shelteradoption.com/shelters/cat-depot-sarasota/
 https://shelteradoption.com/shelters/cat-guardians-lombard/
 https://shelteradoption.com/shelters/cat-haven-baton-rouge/
 https://shelteradoption.com/shelters/cat-haven-lounge-katy/
+https://shelteradoption.com/shelters/cat-s-cradle-of-the-shenandoah-valley-harrisonburg/
 https://shelteradoption.com/shelters/cat-town-cafe-and-adoption-center-oakland/
 https://shelteradoption.com/shelters/cat-welfare-association-columbus/
 https://shelteradoption.com/shelters/catawba-county-animal-services-newton/

@@ -67,18 +67,92 @@
   "state": "VA",
   "city": "Falls Church",
   "org": "Lost Dog and Cat Rescue Foundation",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.lostdogrescue.org/",
-  "notes": "",
+  "program": "Dogventures",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Outings, hikes, overnight stays (up to 48 hours)",
+  "url": "https://www.lostdogrescue.org/volunteer/volunteer-with-dogs/dogventures/",
+  "notes": "Volunteers 18+ who finish online training and an in-person orientation book a dog from the Rescue Care Center at least 24 hours ahead for an outing, hike or overnight; no dog parks.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "dogventure@lostdogrescue.org",
   "email_main": "",
   "phone": "(703) 295-3647",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/11758589091"
+  "osm": "node/11758589091",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "7 Corners PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/7-corners-petsmart-adoption-event-2026-11-28/",
+    "place": "7 Corners PetSmart, 6100-A Arlington Blvd, Falls Church"
+   },
+   {
+    "date": "2026-11-29",
+    "title": "Sterling PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/sterling-petsmart-dog-adoption-event-2026-11-29/",
+    "place": "Sterling PetSmart"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "7 Corners PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/7-corners-petsmart-adoption-event-2026-12-05/",
+    "place": "7 Corners PetSmart, 6100-A Arlington Blvd, Falls Church"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Fair Lakes PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/fair-lakes-petsmart-adoption-event-2026-12-05/",
+    "place": "Fair Lakes PetSmart"
+   },
+   {
+    "date": "2026-12-06",
+    "title": "Tysons Corner PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/tysons-corner-petsmart-adoption-event-2026-12-06/",
+    "place": "Tysons Corner PetSmart"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "7 Corners PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/7-corners-petsmart-adoption-event-2026-12-12/",
+    "place": "7 Corners PetSmart, 6100-A Arlington Blvd, Falls Church"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Fair Lakes PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/fair-lakes-petsmart-adoption-event-2026-12-12/",
+    "place": "Fair Lakes PetSmart"
+   },
+   {
+    "date": "2026-12-13",
+    "title": "Sterling PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/sterling-petsmart-dog-adoption-event-2026-12-13/",
+    "place": "Sterling PetSmart"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "7 Corners PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/7-corners-petsmart-adoption-event-2026-12-19/",
+    "place": "7 Corners PetSmart, 6100-A Arlington Blvd, Falls Church"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Fair Lakes PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/fair-lakes-petsmart-adoption-event-2026-12-19/",
+    "place": "Fair Lakes PetSmart"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "7 Corners PetSmart Cat Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/7-corners-petsmart-cat-adoption-event-2026-12-19/",
+    "place": "7 Corners PetSmart, 6100-A Arlington Blvd, Falls Church"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "7 Corners PetSmart Dog Adoption Event",
+    "url": "https://www.lostdogrescue.org/event/7-corners-petsmart-adoption-event-2026-12-26/",
+    "place": "7 Corners PetSmart, 6100-A Arlington Blvd, Falls Church"
+   }
+  ]
  },
  {
   "state": "VA",
@@ -1254,7 +1328,15 @@
   "email_program": "",
   "email_main": "exec@spcamhc.org",
   "source_list": "shelter website",
-  "phone": "(276) 638-7297"
+  "phone": "(276) 638-7297",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Mega Adoption Event",
+    "url": "https://spcamhc.org/news-events/event-calendar.html/event/2026/12/12/mega-adoption-event/583552",
+    "place": ""
+   }
+  ]
  },
  {
   "state": "VA",
@@ -1674,17 +1756,26 @@
   "state": "VA",
   "city": "Richmond",
   "org": "Richmond Animal League",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Operation Silent Night holiday foster",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.ral.org/",
-  "notes": "",
+  "offers": "Holiday foster (Dec 18 to Jan 3)",
+  "url": "https://www.ral.org/operationsilentnight",
+  "notes": "Each December RAL sends shelter pets home with holiday fosters: pick-ups start Dec 18 and pets return from Jan 3; see the Operation Silent Night page to sign up.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@ral.org",
   "source_list": "shelter website",
-  "phone": "(804) 379-0046"
+  "phone": "(804) 379-0046",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "end": "2026-12-20",
+    "title": "Operation Silent Night (reduced adoption fees, extended hours)",
+    "url": "https://www.ral.org/operationsilentnight",
+    "place": "Richmond Animal League, 11401 International Dr, Richmond"
+   }
+  ]
  },
  {
   "state": "VA",
@@ -2049,7 +2140,15 @@
   "email_program": "",
   "email_main": "staff@rockbridgespca.net",
   "source_list": "shelter website",
-  "phone": "(540) 463-5123"
+  "phone": "(540) 463-5123",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Christmas Open House / Pet Photos",
+    "url": "https://rockbridgespca.net/event/christmas-open-house-pet-photos/",
+    "place": "Rockbridge SPCA, 10 Animal Place, Lexington"
+   }
+  ]
  },
  {
   "state": "VA",
@@ -2118,13 +2217,13 @@
   "state": "VA",
   "city": "Fairfax Station",
   "org": "Homeward Trails Animal Rescue Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.homewardtrails.com/help-out/adoption-center/",
+  "program": "Tails Out!",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Field trips, hikes, drives, sleepovers",
+  "url": "https://www.homewardtrails.org/help-out/tails-out-2/",
   "phone": "",
-  "notes": "",
+  "notes": "Trained volunteers sign up through the Tails Out sign-up and agreement to take Adoption Center dogs on outings or home for a few hours to a few days.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -2265,5 +2364,39 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": []
+ },
+ {
+  "state": "VA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(804) 633-5400",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Milford",
+  "org": "Caroline County Animal Shelter (Sheriff's Office Animal Control)",
+  "url": "https://co.caroline.va.us/405/Animal-Control"
+ },
+ {
+  "state": "VA",
+  "program": "Coffee & Cats",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat cafe visits (30 minutes)",
+  "notes": "Book a 30-minute visit in a private room with adoptable foster kittens at the downtown center (122 South Main Street), up to 3 people, $20; ages 7-17 need an adult.",
+  "checked": "November 2026",
+  "phone": "(540) 433-1135",
+  "email_program": "",
+  "email_main": "catscradle@catscradleva.org",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Harrisonburg",
+  "org": "Cat's Cradle of the Shenandoah Valley",
+  "url": "https://www.catscradleva.org/coffee-cats"
  }
 ]

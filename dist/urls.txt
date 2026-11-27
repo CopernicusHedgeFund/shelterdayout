@@ -182,10 +182,12 @@ https://shelterdayout.com/cities/evansville-in/
 https://shelterdayout.com/cities/everett-wa/
 https://shelterdayout.com/cities/ewa-beach-hi/
 https://shelterdayout.com/cities/fairbanks-ak/
+https://shelterdayout.com/cities/fairfax-station-va/
 https://shelterdayout.com/cities/fairhope-al/
 https://shelterdayout.com/cities/fairmont-wv/
 https://shelterdayout.com/cities/fairport-ny/
 https://shelterdayout.com/cities/fallon-nv/
+https://shelterdayout.com/cities/falls-church-va/
 https://shelterdayout.com/cities/fallston-md/
 https://shelterdayout.com/cities/farmington-hills-mi/
 https://shelterdayout.com/cities/fayetteville-ar/
@@ -228,6 +230,7 @@ https://shelterdayout.com/cities/hardinsburg-ky/
 https://shelterdayout.com/cities/harker-heights-tx/
 https://shelterdayout.com/cities/harlingen-tx/
 https://shelterdayout.com/cities/harrisburg-pa/
+https://shelterdayout.com/cities/harrisonburg-va/
 https://shelterdayout.com/cities/hartsville-sc/
 https://shelterdayout.com/cities/hastings-mn/
 https://shelterdayout.com/cities/hattiesburg-ms/
@@ -1225,6 +1228,7 @@ https://shelterdayout.com/listings/caring-hands-humane-society-newton/
 https://shelterdayout.com/listings/caring-paws-rescue-storm-lake/
 https://shelterdayout.com/listings/carl-w-nelson-animal-shelter-mauston/
 https://shelterdayout.com/listings/carlisle-county-animal-shelter-bardwell/
+https://shelterdayout.com/listings/caroline-county-animal-shelter-sheriff-s-office-animal-control-milford/
 https://shelterdayout.com/listings/caroline-county-humane-society-ridgely/
 https://shelterdayout.com/listings/carrie-a-seaman-animal-shelter-casas-provincetown/
 https://shelterdayout.com/listings/carroll-county-animal-control-mount-carroll/
@@ -1251,6 +1255,7 @@ https://shelterdayout.com/listings/cat-depot-sarasota/
 https://shelterdayout.com/listings/cat-guardians-lombard/
 https://shelterdayout.com/listings/cat-haven-baton-rouge/
 https://shelterdayout.com/listings/cat-haven-lounge-katy/
+https://shelterdayout.com/listings/cat-s-cradle-of-the-shenandoah-valley-harrisonburg/
 https://shelterdayout.com/listings/cat-town-cafe-and-adoption-center-oakland/
 https://shelterdayout.com/listings/cat-welfare-association-columbus/
 https://shelterdayout.com/listings/catawba-county-animal-services-newton/
