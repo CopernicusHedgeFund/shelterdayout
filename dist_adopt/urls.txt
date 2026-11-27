@@ -3831,7 +3831,6 @@ https://shelteradoption.com/shelters/shiawassee-county-animal-control-and-care-s
 https://shelteradoption.com/shelters/shiawassee-county-humane-society-owosso/
 https://shelteradoption.com/shelters/shiner-animal-shelter-shiner/
 https://shelteradoption.com/shelters/sicsa-pet-adoption-and-wellness-center-dayton/
-https://shelteradoption.com/shelters/sierra-county-animal-shelter-truth-or-consequences/
 https://shelteradoption.com/shelters/sikeston-paws-sikeston/
 https://shelteradoption.com/shelters/silicon-valley-animal-control-authority-svaca-santa-clara/
 https://shelteradoption.com/shelters/siloam-springs-animal-services-siloam-springs/
@@ -4209,6 +4208,7 @@ https://shelteradoption.com/shelters/true-companions-animal-shelter-and-clinic-f
 https://shelteradoption.com/shelters/true-friends-animal-welfare-center-montrose/
 https://shelteradoption.com/shelters/trumbull-animal-control-shelter-trumbull-animal-group-trumbull/
 https://shelteradoption.com/shelters/trumbull-county-dog-warden-warren/
+https://shelteradoption.com/shelters/truth-or-consequences-animal-shelter-truth-or-consequences/
 https://shelteradoption.com/shelters/tucker-county-animal-shelter-parsons/
 https://shelteradoption.com/shelters/tulare-animal-services-city-of-tulare-tulare/
 https://shelteradoption.com/shelters/tulare-county-animal-services-visalia/
