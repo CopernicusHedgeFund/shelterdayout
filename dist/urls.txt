@@ -26,6 +26,7 @@ https://shelterdayout.com/cities/albany-ga/
 https://shelterdayout.com/cities/albany-or/
 https://shelterdayout.com/cities/albuquerque-nm/
 https://shelterdayout.com/cities/allentown-pa/
+https://shelterdayout.com/cities/alpena-mi/
 https://shelterdayout.com/cities/amarillo-tx/
 https://shelterdayout.com/cities/anchorage-ak/
 https://shelterdayout.com/cities/anderson-sc/
@@ -244,6 +245,7 @@ https://shelterdayout.com/cities/incline-village-nv/
 https://shelterdayout.com/cities/
 https://shelterdayout.com/cities/indianapolis-in/
 https://shelterdayout.com/cities/inverness-fl/
+https://shelterdayout.com/cities/ironwood-mi/
 https://shelterdayout.com/cities/irving-tx/
 https://shelterdayout.com/cities/ithaca-ny/
 https://shelterdayout.com/cities/jackson-wy/
@@ -506,6 +508,7 @@ https://shelterdayout.com/cities/toledo-oh/
 https://shelterdayout.com/cities/tombstone-az/
 https://shelterdayout.com/cities/topeka-ks/
 https://shelterdayout.com/cities/tracy-ca/
+https://shelterdayout.com/cities/traverse-city-mi/
 https://shelterdayout.com/cities/troutdale-or/
 https://shelterdayout.com/cities/troy-al/
 https://shelterdayout.com/cities/troy-va/

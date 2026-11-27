@@ -684,6 +684,12 @@
     "title": "Open House (holiday treats, photos with St. Nick; adoption applications taken)",
     "url": "https://www.parpets.org/fundraisers.html",
     "place": "Paradise Animal Rescue, 2266 N Lapeer Rd, Lapeer, MI"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Christmas Open House with adoptions and Santa pet photos, 10am-2pm",
+    "url": "https://www.parpets.org/fundraisers.html",
+    "place": "Paradise Animal Rescue, 2266 N Lapeer Rd, Lapeer"
    }
   ]
  },
@@ -1575,6 +1581,13 @@
     "title": "Empty The Shelters: Holiday Hope",
     "url": "https://www.greaterhillsdalehumanesociety.org/events",
     "place": "Greater Hillsdale Humane Society, 3881 S. Tripp Rd., Osseo"
+   },
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Empty The Shelters: Holiday Hope (BISSELL) reduced fees: dogs 6 months+ $60, cats and kittens $35",
+    "url": "https://www.greaterhillsdalehumanesociety.org/event-details/empty-the-shelters-holiday-hope",
+    "place": "Greater Hillsdale Humane Society, 3881 Tripp Rd, Osseo"
    }
   ]
  },
@@ -2381,14 +2394,14 @@
   "state": "MI",
   "city": "Traverse City",
   "org": "Great Lakes Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Dog walks and field trip outings",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "",
-  "url": "https://greatlakeshs.com/",
-  "notes": "",
+  "offers": "Field trip outings",
+  "url": "https://greatlakeshs.com/about-us/",
+  "notes": "Great Lakes Humane Society invites volunteers to take a shelter dog for a walk or a field trip outing; contact the shelter (231-846-8293) to volunteer.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "greatlakeshumane@gmail.com",
   "email_main": "",
   "source": "https://www.petfinder.com/shelters/MI817.html",
   "source_list": "shelter website"
@@ -2619,14 +2632,14 @@
   "state": "MI",
   "city": "Alpena",
   "org": "Huron Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Temporary foster",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://huronhumanesocietyinc.org/",
-  "notes": "",
+  "offers": "Short-term foster (a few days, week by week)",
+  "url": "https://huronhumanesocietyinc.org/foster-homes/",
+  "notes": "Community members can host an adoptable dog or cat at home on a week-by-week basis to give it a few days' break from shelter life; call the shelter (989-356-4794) to arrange.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "hhsalpena@gmail.com",
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(989) 356-4794",
@@ -2755,14 +2768,14 @@
   "state": "MI",
   "city": "Ironwood",
   "org": "HOPE Animal Shelter (Help Orphaned Pets Everywhere)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://hopeanimalshelter.org/",
-  "notes": "",
+  "program": "Afternoon dog outings",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Afternoon outings",
+  "url": "https://hopeanimalshelter.org/news-events/",
+  "notes": "HOPE is looking for volunteers to walk dogs or take them on afternoon outings; contact the shelter (906-932-1511) to sign up.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "myhopeanimalshelter@gmail.com",
   "email_main": "myhopeanimalshelter@gmail.com",
   "source_list": "shelter website",
   "phone": "(906) 932-1511",
@@ -2936,7 +2949,14 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Home for the Holidays Adoption Event, 10am-2pm",
+    "url": "https://www.iheartdogs.org/",
+    "place": "I Heart Dogs shelter, 22415 Groesbeck Hwy, Warren"
+   }
+  ]
  },
  {
   "state": "MI",
