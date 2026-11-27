@@ -1449,12 +1449,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.taylorcountygov.com/departments/animal_control/animal_adoptions.php",
-  "notes": "County shelter (TCAC) in Perry; dogs, cats, occasionally pocket pets. Call (850) 838-3500 before visiting.",
+  "notes": "County shelter (TCAC), 302 W. Maurice Linton Rd, Perry; dogs, cats, occasionally pocket pets. Call (850) 838-3525 before visiting.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "acofficer@taylorcountygov.com",
   "source_list": "shelter website",
-  "phone": "(850) 838-3525"
+  "phone": "(850) 838-3525",
+  "events": []
  },
  {
   "state": "FL",
@@ -1470,7 +1471,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(386) 208-0072"
+  "phone": "(386) 208-0072",
+  "events": []
  },
  {
   "state": "FL",
@@ -1486,7 +1488,8 @@
   "email_program": "",
   "email_main": "mtaylor@cityofliveoak.org",
   "source_list": "shelter website",
-  "phone": "(386) 362-2222"
+  "phone": "(386) 362-2222",
+  "events": []
  },
  {
   "state": "FL",
@@ -1502,7 +1505,8 @@
   "email_program": "",
   "email_main": "animalservices@levycounty.org",
   "source_list": "shelter website",
-  "phone": "(352) 486-5138"
+  "phone": "(352) 486-5138",
+  "events": []
  },
  {
   "state": "FL",
@@ -1518,7 +1522,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(386) 496-2180"
+  "phone": "(386) 496-2180",
+  "events": []
  },
  {
   "state": "FL",
@@ -1534,7 +1539,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(904) 964-9200"
+  "phone": "(904) 964-9200",
+  "events": []
  },
  {
   "state": "FL",
@@ -1550,7 +1556,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(850) 973-6495"
+  "phone": "(850) 973-6495",
+  "events": []
  },
  {
   "state": "FL",
@@ -1566,7 +1573,8 @@
   "email_program": "",
   "email_main": "suwanneevalley@embarqmail.com",
   "source_list": "shelter website",
-  "phone": "(850) 971-9904"
+  "phone": "(850) 971-9904",
+  "events": []
  },
  {
   "state": "FL",
@@ -1582,7 +1590,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(386) 855-1323"
+  "phone": "(386) 855-1323",
+  "events": []
  },
  {
   "state": "FL",
@@ -1598,7 +1607,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(352) 498-1224"
+  "phone": "(352) 498-1224",
+  "events": []
  },
  {
   "state": "FL",
@@ -1612,9 +1622,10 @@
   "notes": "County animal services/kennel serving Gilchrist County and Trenton under interlocal agreement; Animal Control Office (352) 463-4084. No county web page with adoption details found; call ahead.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "AnimalControl@gilchrist.fl.us",
   "source_list": "shelter website",
-  "phone": "(352) 463-4084"
+  "phone": "(352) 463-4084",
+  "events": []
  },
  {
   "state": "FL",
@@ -1630,7 +1641,27 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(904) 530-6150"
+  "phone": "(904) 530-6150",
+  "events": [
+   {
+    "date": "2026-12-02",
+    "title": "Pet Supermarket Photos with Santa (sponsored dog adoption event)",
+    "url": "https://www.nassaucountyfl.com/Calendar.aspx?EID=3288",
+    "place": "Pet Supermarket, 1416 Sadler Rd, Fernandina Beach"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart Adoption Event",
+    "url": "https://www.nassaucountyfl.com/Calendar.aspx?EID=3274",
+    "place": "PetSmart, 13141 City Station Dr #1, Jacksonville"
+   },
+   {
+    "date": "2027-01-16",
+    "title": "PetSmart Adoption Event",
+    "url": "https://www.nassaucountyfl.com/Calendar.aspx?EID=3275",
+    "place": "PetSmart, 13141 City Station Dr #1, Jacksonville"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -1670,7 +1701,8 @@
   "email_program": "",
   "email_main": "info@safeanimalshelter.com",
   "source_list": "shelter website",
-  "phone": "(904) 375-9122"
+  "phone": "(904) 375-9122",
+  "events": []
  },
  {
   "state": "FL",
@@ -1686,7 +1718,8 @@
   "email_program": "info@thekittenrescue.org",
   "email_main": "info@thekittenrescue.org",
   "source_list": "shelter website",
-  "phone": "(904) 547-2940"
+  "phone": "(904) 547-2940",
+  "events": []
  },
  {
   "state": "FL",
@@ -1702,7 +1735,8 @@
   "email_program": "leigh.sweet@citruscounty.gov",
   "email_main": "colleen.yarbrough@citruscounty.gov",
   "source_list": "shelter website",
-  "phone": "(352) 746-8406"
+  "phone": "(352) 746-8400",
+  "events": []
  },
  {
   "state": "FL",
@@ -1718,7 +1752,8 @@
   "email_program": "",
   "email_main": "humanelake@gmail.com",
   "source_list": "shelter website",
-  "phone": "(352) 589-7400"
+  "phone": "(352) 589-7400",
+  "events": []
  },
  {
   "state": "FL",
@@ -1769,7 +1804,8 @@
   "email_program": "",
   "email_main": "info@petrescuebyjudy.com",
   "source_list": "shelter website",
-  "phone": "(407) 302-4497"
+  "phone": "(407) 302-4497",
+  "events": []
  },
  {
   "state": "FL",
@@ -1784,7 +1820,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(407) 760-2052",
+  "events": []
  },
  {
   "state": "FL",
@@ -1824,7 +1862,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(321) 636-3343 ext. 214"
+  "phone": "(321) 636-3343 ext. 214",
+  "events": []
  },
  {
   "state": "FL",
@@ -1840,7 +1879,8 @@
   "email_program": "",
   "email_main": "ContactAnimalServices@hernandosheriff.org",
   "source_list": "shelter website",
-  "phone": "(352) 796-5062"
+  "phone": "(352) 796-5062",
+  "events": []
  },
  {
   "state": "FL",
@@ -1850,20 +1890,13 @@
   "status": "Open to public",
   "animals": "Dogs and cats",
   "offers": "Holiday foster up to 30 days, Nov 1-Dec 30",
-  "url": "https://pinellas.gov/news/animal-services-invites-community-to-bring-a-little-joy-home-for-the-holidays/",
-  "notes": "Community members can foster a shelter dog or cat for up to 30 days over the holidays (Nov. 1-Dec. 30, 2026); Animal Services provides supplies. Fosters can start the adoption process at any time. Call (727) 582-2600, option 8.",
+  "url": "https://pinellas.gov/programs/holiday-home/",
+  "notes": "Community members can foster any adoptable shelter dog or cat for up to 30 days between Nov. 1 and Dec. 30, 2026, by visiting the shelter at 12450 Ulmerton Rd, Largo, picking an animal and finalizing in the lobby with photo ID; supplies are provided and fosters can adopt at any time (call (727) 582-2600, option 8).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": [
-   {
-    "date": "2026-11-01",
-    "end": "2026-12-30",
-    "title": "Home for the Holidays: foster a shelter dog or cat for up to 30 days over the holidays (can adopt any time)",
-    "url": "https://pinellas.gov/news/animal-services-invites-community-to-bring-a-little-joy-home-for-the-holidays/"
-   }
-  ],
+  "events": [],
   "phone": "(727) 582-2600"
  },
  {
