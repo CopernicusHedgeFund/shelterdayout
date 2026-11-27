@@ -26,7 +26,8 @@
   "notes": "$15 per visit, stay as long as you like (space permitting). 3929 Tennyson St. Cats are adoptable through Denver Cat Rescue.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "",
+  "phone": ""
  },
  {
   "state": "CO",
@@ -41,7 +42,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(720) 726-4552",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/366396006"
  },
@@ -92,7 +93,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hsppr.org",
-  "phone": "(719) 302-8798",
+  "phone": "(719) 473-1741",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12093873377"
  },
@@ -185,7 +186,8 @@
     "date": "2026-12-17",
     "end": "2026-12-23",
     "title": "Hill's Sponsored Adoption Event: $17 adoptions for dogs and cats over 1 year",
-    "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/"
+    "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/",
+    "place": "NOCO Humane campuses (Loveland, Evans, Greeley)"
    }
   ]
  },
@@ -202,7 +204,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(303) 739-7000",
+  "phone": "(303) 326-8280",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/318915497"
  },
@@ -276,9 +278,11 @@
     "date": "2026-12-17",
     "end": "2026-12-23",
     "title": "Hill's Sponsored Adoption Event: $17 adoptions for dogs and cats over 1 year",
-    "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/"
+    "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/",
+    "place": "NOCO Humane campuses (Larimer, Weld, Greeley Adoption Campus)"
    }
-  ]
+  ],
+  "phone": "(970) 506-9550"
  },
  {
   "state": "CO",
@@ -299,7 +303,8 @@
     "date": "2026-12-17",
     "end": "2026-12-23",
     "title": "Hill's Sponsored Adoption Event: $17 adoptions for dogs and cats over 1 year",
-    "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/"
+    "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/",
+    "place": "NOCO Humane campuses (Larimer, Weld, Greeley Adoption Campus)"
    }
   ],
   "phone": "(970) 775-5887"
@@ -318,7 +323,7 @@
   "email_program": "",
   "email_main": "pueblo@hsppr.org",
   "source_list": "shelter website",
-  "phone": "(719) 302-8798"
+  "phone": "(719) 544-3005"
  },
  {
   "state": "CO",
@@ -345,10 +350,10 @@
   "offers": "",
   "notes": "",
   "animals": "Cats",
-  "url": "http://www.catcaresociety.org/",
+  "url": "https://www.catcaresociety.org/",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@catcaresociety.org",
   "source_list": "shelter website",
   "phone": "(303) 239-9680"
  },
@@ -380,7 +385,7 @@
   "url": "https://www.clearcreekcounty.us/815/Animal-Shelter",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "shelter@clearcreeksheriff.us",
   "source_list": "shelter website",
   "phone": "(303) 679-2477"
  },
@@ -393,10 +398,10 @@
   "offers": "",
   "notes": "",
   "animals": "Dogs and cats",
-  "url": "https://fremonthumane.com/",
+  "url": "https://www.fremonthumane.com/",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@fremonthumane.com",
   "source_list": "shelter website",
   "phone": "(719) 275-0663"
  },
@@ -412,7 +417,7 @@
   "url": "https://savinganimalstoday.org/",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@savinganimalstoday.org",
   "source_list": "shelter website",
   "phone": "(970) 484-8516"
  },
@@ -428,7 +433,7 @@
   "url": "https://savinganimalstoday.org/",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@savinganimalstoday.org",
   "source_list": "shelter website",
   "phone": "(970) 484-8516"
  },
@@ -465,7 +470,8 @@
     "url": "https://secondchancehumane.org/events/adoption-event-at-the-hydrant",
     "place": "The Hydrant Doggie Playcare, 1848 E Main St, Montrose"
    }
-  ]
+  ],
+  "phone": "(970) 626-2273"
  },
  {
   "state": "CO",
@@ -559,7 +565,8 @@
   "notes": "Established volunteers (at least 3 months of regular volunteering) can take dogs on field trips in La Plata County such as downtown walks, drives, hikes or business visits. Requires own transportation, a valid driver's license, insurance and a Buddy Day Pass from staff; no off-leash or water activities.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": ""
+  "email_main": "info@lpchumanesociety.org",
+  "phone": "(970) 259-2847"
  },
  {
   "state": "CO",
@@ -590,7 +597,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 668-3230"
  },
  {
   "state": "CO",
@@ -627,7 +635,7 @@
     "date": "2026-11-15",
     "end": "2026-12-31",
     "title": "Holiday Adopt-A-Thon 2026",
-    "url": "https://routthumane.org/rchs-events/",
+    "url": "https://routthumane.org/event/holiday-adopt-a-thon-2026/",
     "place": "760 Critter Court, Steamboat Springs"
    }
   ],
@@ -639,15 +647,23 @@
   "org": "Second Chance Humane Society (Delta Animal Resource Center)",
   "program": "Dogs Day Out",
   "status": "Needs check",
-  "offers": "Day trip",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Dog hikes",
+  "notes": "Second Chance's own site describes Dogs Day Out as taking an available shelter dog on a hike in the Ridgway/Ouray area (contact the shelter to start); it is not stated whether Delta center dogs are included.",
   "animals": "Dogs",
-  "url": "https://secondchancehumane.org/contact-animal-resources-delta",
+  "url": "https://secondchancehumane.org/get-involved/dogs-day-out",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "delta@adoptmountainpets.org",
   "source_list": "shelter website",
-  "phone": "(970) 874-7907"
+  "phone": "(970) 874-7907",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Adoption Event at The Hydrant! (Second Chance Delta staff open house)",
+    "url": "https://secondchancehumane.org/events/adoption-event-at-the-hydrant",
+    "place": "The Hydrant Doggie Playcare, 1848 East Main Street, Montrose"
+   }
+  ]
  },
  {
   "state": "CO",
@@ -663,7 +679,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 249-9110"
+  "phone": "(970) 240-1487"
  },
  {
   "state": "CO",
@@ -726,7 +742,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(970) 731-4771"
  },
  {
   "state": "CO",
@@ -742,7 +759,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 565-8441"
+  "phone": "(970) 565-4910"
  },
  {
   "state": "CO",
@@ -789,7 +806,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "CO",
@@ -804,8 +822,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info.lchs@gmail.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CO",
@@ -816,12 +835,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://humanecolorado.org/locations/san-luis-valley-animal-center/",
-  "phone": "(303) 751-5772",
+  "phone": "(719) 212-6500",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@humanecolorado.org",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CO",
@@ -869,23 +889,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CO",
-  "city": "Grand Junction",
-  "org": "Grand Rivers Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://grandrivershumane.com/",
-  "phone": "(970) 257-0070",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CO",
@@ -901,23 +906,25 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CO",
   "city": "Fort Morgan",
-  "org": "Fort Morgan Animal Shelter",
+  "org": "Woofs & Whiskers Animal Shelter (Fort Morgan)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.cityoffortmorgan.com/466/Animal-Control",
-  "phone": "",
+  "url": "https://www.cityoffortmorgan.com/1015/Woofs-Whiskers-Animal-Shelter",
+  "phone": "(970) 467-3634",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CO",
@@ -928,12 +935,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.parkcountyco.gov/142/Animal-Control",
-  "phone": "",
+  "phone": "(719) 836-4121",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CO",
@@ -944,28 +952,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.urgasconouranimalshelter.org/",
-  "phone": "",
+  "phone": "(719) 852-3366",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CO",
-  "city": "Westcliffe",
-  "org": "Wet Mountain Animal Welfare",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.wetmountainanimalwelfare.org/animal-services",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CO",
@@ -976,22 +969,6 @@
   "animals": "Cats",
   "offers": "",
   "url": "http://fortcollinscatrescue.weebly.com/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CO",
-  "city": "Walsenburg",
-  "org": "Los Huerfanos Animal Welfare Association",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.lhawa.org/",
   "phone": "",
   "notes": "",
   "checked": "November 2026",

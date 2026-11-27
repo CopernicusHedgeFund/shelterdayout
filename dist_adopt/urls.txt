@@ -184,7 +184,6 @@ https://shelteradoption.com/cities/georgetown-tx/
 https://shelteradoption.com/cities/gloucester-va/
 https://shelteradoption.com/cities/goleta-ca/
 https://shelteradoption.com/cities/gonzales-tx/
-https://shelteradoption.com/cities/grand-junction-co/
 https://shelteradoption.com/cities/grand-rapids-mi/
 https://shelteradoption.com/cities/granite-city-il/
 https://shelteradoption.com/cities/grants-pass-or/
@@ -1765,7 +1764,6 @@ https://shelteradoption.com/shelters/fort-bend-county-animal-services-rosenberg/
 https://shelteradoption.com/shelters/fort-collins-cat-rescue-and-spay-neuter-clinic-fort-collins/
 https://shelteradoption.com/shelters/fort-defiance-humane-society-defiance/
 https://shelteradoption.com/shelters/fort-leavenworth-stray-facility-fort-leavenworth/
-https://shelteradoption.com/shelters/fort-morgan-animal-shelter-fort-morgan/
 https://shelteradoption.com/shelters/fort-pierce-animal-adoption-center-city-of-fort-pierce-fort-pierce/
 https://shelteradoption.com/shelters/fort-smith-animal-haven-fort-smith/
 https://shelteradoption.com/shelters/fort-valley-animal-control-fort-valley/
@@ -1896,7 +1894,6 @@ https://shelteradoption.com/shelters/grady-county-animal-control-cairo/
 https://shelteradoption.com/shelters/graham-county-animal-control-safford/
 https://shelteradoption.com/shelters/granby-animal-control-granby/
 https://shelteradoption.com/shelters/grand-county-animal-shelter-granby/
-https://shelteradoption.com/shelters/grand-rivers-humane-society-grand-junction/
 https://shelteradoption.com/shelters/grand-strand-humane-society-myrtle-beach/
 https://shelteradoption.com/shelters/grand-traverse-county-animal-control-traverse-city/
 https://shelteradoption.com/shelters/grandview-animal-control-grandview-police-department-grandview/
@@ -2742,7 +2739,6 @@ https://shelteradoption.com/shelters/lorain-county-dog-kennel-elyria/
 https://shelteradoption.com/shelters/lordsburg-animal-shelter-lordsburg/
 https://shelteradoption.com/shelters/los-alamos-county-animal-shelter-los-alamos/
 https://shelteradoption.com/shelters/los-banos-animal-shelter-los-banos/
-https://shelteradoption.com/shelters/los-huerfanos-animal-welfare-association-walsenburg/
 https://shelteradoption.com/shelters/lost-dog-and-cat-rescue-foundation-falls-church/
 https://shelteradoption.com/shelters/lost-our-home-pet-rescue-tempe/
 https://shelteradoption.com/shelters/loudon-county-animal-shelter-loudon/
@@ -4371,7 +4367,6 @@ https://shelteradoption.com/shelters/westfield-animal-control-and-shelter-westfi
 https://shelteradoption.com/shelters/westmoreland-county-animal-shelter-montross/
 https://shelteradoption.com/shelters/weston-county-humane-society-newcastle/
 https://shelteradoption.com/shelters/westport-animal-control-westport/
-https://shelteradoption.com/shelters/wet-mountain-animal-welfare-westcliffe/
 https://shelteradoption.com/shelters/wet-nose-rescue-le-mars/
 https://shelteradoption.com/shelters/wethersfield-animal-control-wethersfield/
 https://shelteradoption.com/shelters/wetzel-county-animal-shelter-new-martinsville/
@@ -4441,6 +4436,7 @@ https://shelteradoption.com/shelters/woodford-humane-society-versailles/
 https://shelteradoption.com/shelters/woodhaven-and-trenton-animal-shelter-woodhaven/
 https://shelteradoption.com/shelters/woods-humane-society-north-county-atascadero/
 https://shelteradoption.com/shelters/woods-humane-society-san-luis-obispo-san-luis-obispo/
+https://shelteradoption.com/shelters/woofs-and-whiskers-animal-shelter-fort-morgan-fort-morgan/
 https://shelteradoption.com/shelters/woonsocket-animal-control-shelter-woonsocket/
 https://shelteradoption.com/shelters/worcester-animal-rescue-league-worcester/
 https://shelteradoption.com/shelters/worcester-county-animal-control-snow-hill/

@@ -1790,7 +1790,6 @@ https://shelterdayout.com/listings/fort-bend-county-animal-services-rosenberg/
 https://shelterdayout.com/listings/fort-collins-cat-rescue-and-spay-neuter-clinic-fort-collins/
 https://shelterdayout.com/listings/fort-defiance-humane-society-defiance/
 https://shelterdayout.com/listings/fort-leavenworth-stray-facility-fort-leavenworth/
-https://shelterdayout.com/listings/fort-morgan-animal-shelter-fort-morgan/
 https://shelterdayout.com/listings/fort-pierce-animal-adoption-center-city-of-fort-pierce-fort-pierce/
 https://shelterdayout.com/listings/fort-smith-animal-haven-fort-smith/
 https://shelterdayout.com/listings/fort-valley-animal-control-fort-valley/
@@ -1921,7 +1920,6 @@ https://shelterdayout.com/listings/grady-county-animal-control-cairo/
 https://shelterdayout.com/listings/graham-county-animal-control-safford/
 https://shelterdayout.com/listings/granby-animal-control-granby/
 https://shelterdayout.com/listings/grand-county-animal-shelter-granby/
-https://shelterdayout.com/listings/grand-rivers-humane-society-grand-junction/
 https://shelterdayout.com/listings/grand-strand-humane-society-myrtle-beach/
 https://shelterdayout.com/listings/grand-traverse-county-animal-control-traverse-city/
 https://shelterdayout.com/listings/grandview-animal-control-grandview-police-department-grandview/
@@ -2767,7 +2765,6 @@ https://shelterdayout.com/listings/lorain-county-dog-kennel-elyria/
 https://shelterdayout.com/listings/lordsburg-animal-shelter-lordsburg/
 https://shelterdayout.com/listings/los-alamos-county-animal-shelter-los-alamos/
 https://shelterdayout.com/listings/los-banos-animal-shelter-los-banos/
-https://shelterdayout.com/listings/los-huerfanos-animal-welfare-association-walsenburg/
 https://shelterdayout.com/listings/lost-dog-and-cat-rescue-foundation-falls-church/
 https://shelterdayout.com/listings/lost-our-home-pet-rescue-tempe/
 https://shelterdayout.com/listings/loudon-county-animal-shelter-loudon/
@@ -4396,7 +4393,6 @@ https://shelterdayout.com/listings/westfield-animal-control-and-shelter-westfiel
 https://shelterdayout.com/listings/westmoreland-county-animal-shelter-montross/
 https://shelterdayout.com/listings/weston-county-humane-society-newcastle/
 https://shelterdayout.com/listings/westport-animal-control-westport/
-https://shelterdayout.com/listings/wet-mountain-animal-welfare-westcliffe/
 https://shelterdayout.com/listings/wet-nose-rescue-le-mars/
 https://shelterdayout.com/listings/wethersfield-animal-control-wethersfield/
 https://shelterdayout.com/listings/wetzel-county-animal-shelter-new-martinsville/
@@ -4466,6 +4462,7 @@ https://shelterdayout.com/listings/woodford-humane-society-versailles/
 https://shelterdayout.com/listings/woodhaven-and-trenton-animal-shelter-woodhaven/
 https://shelterdayout.com/listings/woods-humane-society-north-county-atascadero/
 https://shelterdayout.com/listings/woods-humane-society-san-luis-obispo-san-luis-obispo/
+https://shelterdayout.com/listings/woofs-and-whiskers-animal-shelter-fort-morgan-fort-morgan/
 https://shelterdayout.com/listings/woonsocket-animal-control-shelter-woonsocket/
 https://shelterdayout.com/listings/worcester-animal-rescue-league-worcester/
 https://shelterdayout.com/listings/worcester-county-animal-control-snow-hill/
