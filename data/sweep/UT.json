@@ -27,7 +27,15 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(435) 792-3920"
+  "phone": "(435) 792-3920",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Santa Paws (Santa photos with shelter pets available for adoption)",
+    "url": "https://cachehumane.org/event/santa-paws/",
+    "place": "Cache Humane Society, 2370 W 200 N, Logan"
+   }
+  ]
  },
  {
   "state": "UT",
@@ -168,7 +176,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.nuvasa.org",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -488,14 +496,14 @@
   "state": "UT",
   "city": "Salt Lake City",
   "org": "Second Chance for Homeless Pets",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://utahpetadoptions.org/",
-  "notes": "",
+  "program": "Short-term Foster Field Trips",
+  "status": "Paused",
+  "animals": "Dogs",
+  "offers": "Field trips, weekend fosters",
+  "url": "https://www.utahpetadoptions.org/short-term-foster-field-trips",
+  "notes": "Volunteers 21+ take a dog off site for an outing of up to an hour or foster for a weekend; the page says the program is paused to new participants while the shelter changes volunteer software.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "info@utahpetadoptions.org",
   "email_main": "info@utahpetadoptions.org",
   "source_list": "shelter website",
   "phone": "(801) 590-8999"
@@ -696,16 +704,33 @@
   "state": "UT",
   "city": "Park City",
   "org": "Nuzzles & Co Pet Rescue and Adoption",
+  "program": "Sleepovers & Field Trips",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Field trips, sleepovers",
+  "url": "https://www.nuzzlesandco.org/foster",
+  "phone": "(435) 608-1424",
+  "notes": "Call to arrange picking up a dog for a field trip of an hour to a full day, or a sleepover with the dog back by noon the next day.",
+  "checked": "November 2026",
+  "email_program": "foster@nuzzlesandco.org",
+  "email_main": "contact@nuzzlesandco.org",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "UT",
+  "city": "Hurricane",
+  "org": "Hurricane Animal Shelter (City of Hurricane)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.nuzzlesandco.org/",
-  "phone": "(435) 608-1424",
-  "notes": "",
+  "url": "https://www.cityofhurricane.com/159/Animal-Control-Shelter",
+  "notes": "Adoptions by appointment only.",
   "checked": "November 2026",
+  "phone": "(435) 635-8314",
   "email_program": "",
-  "email_main": "contact@nuzzlesandco.org",
-  "source_list": "shelter website"
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
