@@ -13,5 +13,35 @@
   "lon": null,
   "src": "https://potterleague.org/services",
   "checked": "November 2026"
+ },
+ {
+  "state": "RI",
+  "name": "Veterinary Urgent Care Center - East Providence",
+  "city": "East Providence",
+  "street": "73 Highland Ave.",
+  "zip": "02914",
+  "phone": "(401) 354-1099",
+  "website": "https://www.veturgentcare.com/locations/index",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.veturgentcare.com/locations/index",
+  "checked": "November 2026"
+ },
+ {
+  "state": "RI",
+  "name": "Veterinary Urgent Care Center - Narragansett",
+  "city": "Narragansett",
+  "street": "91 Point Judith Road Unit D5",
+  "zip": "02882",
+  "phone": "(401) 244-8298",
+  "website": "https://www.veturgentcare.com/locations/index",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.veturgentcare.com/locations/index",
+  "checked": "November 2026"
  }
 ]
