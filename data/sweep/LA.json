@@ -7,44 +7,75 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.cityofalexandriala.com/animal-shelter-housing-pets-for-evacuees/",
   "notes": "City of Alexandria shelter, 200 Shelter Road. Phone 318-441-6700. Toby's House adoption center (516 Fairfield Ave) planned next door.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/AlexandriaforAnimals"
+  "url_social": "https://www.facebook.com/AlexandriaforAnimals",
+  "phone": "(318) 441-6700",
+  "events": []
  },
  {
   "state": "LA",
   "city": "Baton Rouge",
   "org": "Cat Haven",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Cat Haven's Cat Café",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "",
-  "url": "https://www.cathaven.org/",
-  "notes": "11130 N. Harrells Ferry Rd. Walk-in adoptions Mon-Sat 12-6pm, Sun 12-4pm. New adoption center with cat cafe announced as coming soon.",
+  "offers": "Cat café visits with adoptable cats",
+  "url": "https://www.cathaven.org/cafe",
+  "notes": "Visitors book 50-minute sessions ($15) in the cat lounge to spend time with adoptable cats; walk-ins welcome when space allows. New adoption center at 530 Shadows Lane opens 11/29/2026; café opens 12/7/2026.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "catcafe@cathaven.org",
   "email_main": "info@cathaven.org",
   "source_list": "shelter website",
-  "phone": "(225) 636-2680"
+  "phone": "(225) 636-2680",
+  "events": [
+   {
+    "date": "2026-11-29",
+    "title": "New adoption center opens",
+    "url": "https://www.cathaven.org/",
+    "place": "530 Shadows Lane, Baton Rouge"
+   },
+   {
+    "date": "2026-12-07",
+    "title": "Cat Café grand opening",
+    "url": "https://www.cathaven.org/cafe",
+    "place": "530 Shadows Lane, Baton Rouge"
+   }
+  ]
  },
  {
   "state": "LA",
   "city": "Baton Rouge",
   "org": "Companion Animal Alliance",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.caabr.org/",
-  "notes": "2550 Gourrier Ave. East Baton Rouge Parish shelter.",
+  "program": "Date-A-Dog",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips, sleepover extensions",
+  "url": "https://www.caabr.org/dateadog",
+  "notes": "Adults 18+ with photo ID (public or volunteers) stop by during set hours, watch a short orientation and take an adoptable dog out for the day, returning by 5 PM; $5 suggested donation.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteers@caabr.org",
   "email_main": "inquiries@caabr.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-29",
+    "title": "Adoption Event PetSmart",
+    "url": "https://www.caabr.org/calendar",
+    "place": "PetSmart, 10527 South Mall Dr., Baton Rouge"
+   },
+   {
+    "date": "2026-12-01",
+    "title": "$10 Tuesday (reduced adoption fees)",
+    "url": "https://www.caabr.org/calendar",
+    "place": "Companion Animal Alliance, 2550 Gourrier Ave."
+   }
+  ],
+  "phone": ""
  },
  {
   "state": "LA",
@@ -53,41 +84,43 @@
   "program": "Doggy Day Out",
   "status": "Needs check",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://www.louisianaspca.org/about-us/contact/",
-  "notes": "455 F. Edward Hebert Blvd. Parish shelter operated by the Louisiana SPCA in partnership with Plaquemines Parish (parish animal control: animal_control@ppgov.net). Phone 504-934-6931.",
+  "offers": "Day trips",
+  "url": "https://www.louisianaspca.org/doggy-day-out/",
+  "notes": "Louisiana SPCA's Doggy Day Out lets adults 18+ with their own air-conditioned car sign up via a BetterImpact form and take a staff-selected shelter dog out for at least 2 hours; the program page does not say whether it runs from the Plaquemines campus (455 F. Edward Hebert Blvd., campus email plaqueminescampus@laspca.org).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@laspca.org",
   "source_list": "shelter website",
-  "phone": "(504) 368-5191"
+  "phone": "(504) 934-6931",
+  "events": []
  },
  {
   "state": "LA",
   "city": "Bossier City",
   "org": "Bossier City Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://bossiercity.org/353/Pet-Adoption",
-  "notes": "3217 Old Shed Road. Adoptions Mon-Sat; also 2nd Sunday of each month.",
+  "program": "Home for the Howl-idays",
+  "status": "Needs check",
+  "animals": "Dogs and puppies",
+  "offers": "Holiday foster (about 5 days)",
+  "url": "https://www.bossiercity.org/DocumentCenter/View/1744/Home-for-the-Howl-iday-Foster-Specifics",
+  "notes": "Holiday foster where people take an adoptable dog home over Thanksgiving with food, collar, leash and toy provided; the linked flyer gives Nov 27-Dec 2 dates from a past year, so the current run needs confirming.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Animalservices@bossiercity.org",
   "source_list": "shelter website",
-  "phone": "(318) 741-8499"
+  "phone": "(318) 741-8499",
+  "events": []
  },
  {
   "state": "LA",
   "city": "Carencro",
   "org": "Acadiana Animal Aid",
-  "program": "Field Trips and Group Walks",
-  "status": "Needs check",
+  "program": "Field Trips and Group Walks; Doggy Day Out Foster Program",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip, group walks",
+  "offers": "Day trips, group walks",
   "url": "https://acadianaanimalaid.org/volunteer/",
-  "notes": "142 Le Medicin Rd. No-kill shelter. Hours Mon-Fri 10am-5pm, Sat 10am-1pm.",
+  "notes": "142 Le Medicin Rd, no-kill shelter (Mon-Fri 10am-5pm, Sat 10am-1pm); registered volunteers join off-site group walks and approved fosters take a dog on an afternoon outing (park, coffee shop, movie at home).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -96,7 +129,8 @@
    {
     "date": "2026-12-12",
     "title": "Holiday Pawty (open house, holiday market and adoption event), 10am-2pm",
-    "url": "https://www.acadianaanimalaid.org/"
+    "url": "https://acadianaanimalaid.org/holidaypawty/",
+    "place": "142 Le Medicin Rd, Carencro"
    }
   ],
   "phone": "(337) 896-1553"
@@ -110,12 +144,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.grantso.org/animalcontrol",
-  "phone": "",
-  "notes": "",
+  "phone": "(318) 321-0424",
+  "notes": "205 Cypress St, Colfax. Office Mon-Fri 8am-4:30pm. Foster program for dogs awaiting transport; no day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "animalcontrol@grantso.org",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "LA",
@@ -130,7 +165,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "avoyellesanimalwelfaresociety@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(318) 876-2068",
+  "events": []
  },
  {
   "state": "LA",
@@ -145,7 +182,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": ""
  },
  {
   "state": "LA",
@@ -161,7 +200,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(337) 788-8800"
+  "phone": "(337) 788-8800",
+  "events": []
  },
  {
   "state": "LA",
@@ -177,7 +217,8 @@
   "email_program": "",
   "email_main": "animalcontrol@cityofdenhamsprings.com",
   "source_list": "shelter website",
-  "phone": "(225) 665-8121"
+  "phone": "(225) 664-4472",
+  "events": []
  },
  {
   "state": "LA",
@@ -193,7 +234,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/concordiapawsrescue"
+  "url_social": "https://www.facebook.com/concordiapawsrescue",
+  "phone": "",
+  "events": []
  },
  {
   "state": "LA",
@@ -209,7 +252,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/pages/category/Animal-Shelter/St-Mary-Parish-Animal-Shelter-1391048811127654/"
+  "url_social": "https://www.facebook.com/pages/category/Animal-Shelter/St-Mary-Parish-Animal-Shelter-1391048811127654/",
+  "events": [],
+  "phone": ""
  },
  {
   "state": "LA",
@@ -219,13 +264,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "23046 Yacc Rd. Website and contact details still to be confirmed on the shelter's own site.",
+  "url": "https://www.wpgov.org/214/Animal-Shelter",
+  "notes": "23046 YACC Rd. Parish-run shelter; open Mon, Tue, Thu, Fri 10am-4pm, closed to the public Wednesdays for spay/neuter.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "washingtonparishanimalshelter@gmail.com",
   "source_list": "shelter website",
-  "url_social": "https://facebook.com/washingtonparishanimalshelter"
+  "url_social": "https://facebook.com/washingtonparishanimalshelter",
+  "phone": "(985) 205-2023",
+  "events": []
  },
  {
   "state": "LA",
@@ -241,7 +288,8 @@
   "email_program": "",
   "email_main": "animalshelter@tpcg.org",
   "source_list": "shelter website",
-  "phone": "(985) 873-6709"
+  "phone": "(985) 873-6709",
+  "events": []
  },
  {
   "state": "LA",
@@ -257,7 +305,8 @@
   "email_program": "",
   "email_main": "stopcruelty33@gmail.com",
   "source_list": "shelter website",
-  "phone": "(985) 419-9900"
+  "phone": "(985) 419-9900",
+  "events": []
  },
  {
   "state": "LA",
@@ -268,12 +317,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://tangipahoa.org/government/animal-services",
-  "notes": "15487 Club Deluxe Rd. Adoptions Mon-Fri 10am-4pm.",
+  "notes": "15487 Club Deluxe Rd. Adoptions Mon-Fri 10am-4pm. No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(985) 543-0215"
+  "phone": "(985) 543-0215",
+  "events": []
  },
  {
   "state": "LA",
@@ -289,7 +339,8 @@
   "email_program": "",
   "email_main": "jpaws@JeffParish.net",
   "source_list": "shelter website",
-  "phone": "(504) 349-5111"
+  "phone": "(504) 349-5111",
+  "events": []
  },
  {
   "state": "LA",
@@ -300,12 +351,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.godspawsrs.org/",
-  "notes": "570 Harvey Bradford Rd. Website and contact details still to be confirmed on the shelter's own site.",
+  "notes": "570 Harvey Bradford Rd. Dog shelter for LaSalle Parish; open Mon-Fri 2-4pm, text the phone number for an appointment before arriving.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "gods.paws7076@gmail.com",
   "source_list": "shelter website",
-  "phone": "(318) 623-3549"
+  "phone": "(318) 623-3549",
+  "events": []
  },
  {
   "state": "LA",
@@ -321,7 +373,8 @@
   "email_program": "",
   "email_main": "animalshelter@stjohn-la.gov",
   "source_list": "shelter website",
-  "phone": "(985) 651-7387"
+  "phone": "(985) 651-7387",
+  "events": []
  },
  {
   "state": "LA",
@@ -337,7 +390,8 @@
   "email_program": "",
   "email_main": "animalshelter@sttammany.gov",
   "source_list": "shelter website",
-  "phone": "(985) 898-2700"
+  "phone": "(985) 898-2700",
+  "events": []
  },
  {
   "state": "LA",
@@ -348,12 +402,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.lafayettela.gov/lascc",
-  "notes": "Lafayette Consolidated Government shelter.",
+  "notes": "Lafayette Consolidated Government shelter. Shelter hours Mon-Fri 8am-5pm. Offers bottle-feeder, short-term transport (2-4 weeks) and 2-week foster-to-adopt fostering; no day-out program.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "LASCC@lafayettela.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(337) 291-5644",
+  "events": []
  },
  {
   "state": "LA",
@@ -368,7 +423,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@calcasieu.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(337) 721-3730",
+  "events": []
  },
  {
   "state": "LA",
@@ -379,13 +436,14 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.hobohotelforcats.com/",
-  "notes": "",
+  "notes": "650 E. School Street. Cat shelter open Mon-Fri 10am-5pm, Sat-Sun 1-5pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hobohotelinc@gmail.com",
-  "phone": "+1-337-439-2428",
+  "phone": "(337) 439-2428",
   "source_list": "shelter website",
-  "osm": "way/1451707486"
+  "osm": "way/1451707486",
+  "events": []
  },
  {
   "state": "LA",
@@ -396,11 +454,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://livingstonparishla.gov/animal-shelter",
-  "notes": "13525 Hwy 190 (Florida Blvd), Livingston, next to the parish fairgrounds. Adoption fee $70 cash. Phone 225-686-7798.",
+  "notes": "13525 Hwy 190 (Florida Blvd), Livingston, next to the parish fairgrounds. Public hours Mon-Thu 10am-4pm; call ahead. Adoption fee $60.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(225) 686-7798",
+  "events": []
  },
  {
   "state": "LA",
@@ -415,7 +475,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(985) 783-5010",
+  "events": []
  },
  {
   "state": "LA",
@@ -426,12 +488,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "http://sabinehumanesociety.com",
-  "notes": "520 McDonald Drive. Website and contact details still to be confirmed on the shelter's own site.",
+  "notes": "520 McDonald Drive, Many. Open Mon-Fri 7am-3pm; intakes 7am-12pm. No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(318) 315-2874"
+  "phone": "(318) 256-2275",
+  "events": []
  },
  {
   "state": "LA",
@@ -446,7 +509,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(318) 525-3999",
+  "events": []
  },
  {
   "state": "LA",
@@ -456,12 +521,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.bayoudogs.org",
-  "notes": "920 Freight Drive. Website and contact details still to be confirmed on the shelter's own site.",
+  "url": "https://humanesocietyofmonroe.org/",
+  "notes": "920 Freight Drive. Nonprofit adoption center open Tue-Sat 10am-3pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "volunteerinfohsacm@yahoo.com",
+  "source_list": "shelter website",
+  "phone": "(318) 387-9553",
+  "events": []
  },
  {
   "state": "LA",
@@ -472,12 +539,13 @@
   "animals": "Cats",
   "offers": "",
   "url": "http://www.rivercitiescats.org",
-  "notes": "5302 DeSiard St. Open Tue-Sat 12-6pm. Website and contact details still to be confirmed on the shelter's own site.",
+  "notes": "5302 DeSiard St. Cat surrenders by phone only. Own site is largely out of date (latest events listed are from 2014); address and hours not shown there.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(318) 343-3031"
+  "phone": "(318) 343-3031",
+  "events": []
  },
  {
   "state": "LA",
@@ -493,7 +561,8 @@
   "email_program": "",
   "email_main": "leroywoods@assumptionla.com",
   "source_list": "shelter website",
-  "phone": "(985) 369-7669"
+  "phone": "(985) 369-7669",
+  "events": []
  },
  {
   "state": "LA",
@@ -503,13 +572,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "450 Fairgrounds Road. Website and contact details still to be confirmed on the shelter's own site.",
+  "url": "https://www.natchitochesla.gov/government/city-departments/animal-control/",
+  "notes": "City of Natchitoches Animal Control. Office Mon-Fri 8am-4pm; adoptions Mon-Fri 8am-3pm; stray drop-off Tue and Fri 8am-noon (city residents). No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/NatchitochesAnimalControl"
+  "url_social": "https://www.facebook.com/NatchitochesAnimalControl",
+  "phone": "",
+  "events": []
  },
  {
   "state": "LA",
@@ -520,12 +591,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.angelpawsiberia.com/",
-  "notes": "1314 Troy Road. Website and contact details still to be confirmed on the shelter's own site.",
+  "notes": "1314 Troy Rd. Adoptions by appointment with approved application; visiting Mon-Fri 8am-noon, Sat 8-11am.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(337) 365-1923"
+  "phone": "(337) 365-1923",
+  "events": []
  },
  {
   "state": "LA",
@@ -536,11 +608,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://iberiaparishgovernment.com/animal-control/",
-  "notes": "Iberia Parish Rabies and Animal Control, 2017 Seaway Access Rd. Adoptions weekdays 1-6pm, Sat 1-3pm.",
+  "notes": "Iberia Parish Rabies and Animal Control, 2017 Seaway Access Rd. Adoptions weekdays 1-6pm, Sat 1-3pm (site header says 12-3pm); site lists two different phone numbers (337-364-6311 and 337-361-6311), so phone left blank.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aistre@iberiagov.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "",
+  "events": []
  },
  {
   "state": "LA",
@@ -585,7 +659,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "",
+  "events": []
  },
  {
   "state": "LA",
@@ -595,12 +671,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "255 Hanger Rd. Website and contact details still to be confirmed on the shelter's own site.",
+  "url": "https://stlandrypg.org/news/animal-control-fully-operational/",
+  "notes": "255 Hanger Rd. Parish government lists (337) 948-6184 for animal control services (2020 notice); no dedicated shelter page on the parish site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(337) 948-6184",
+  "events": []
  },
  {
   "state": "LA",
@@ -616,7 +694,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(225) 687-5881"
+  "phone": "(225) 687-5881",
+  "events": []
  },
  {
   "state": "LA",
@@ -632,7 +711,8 @@
   "email_program": "",
   "email_main": "animalcontrol@wbrcouncil.org",
   "source_list": "shelter website",
-  "phone": "(225) 336-2428"
+  "phone": "(225) 336-2428",
+  "events": []
  },
  {
   "state": "LA",
@@ -649,7 +729,8 @@
   "email_main": "",
   "phone": "",
   "source_list": "shelter website",
-  "osm": "node/4720536088"
+  "osm": "node/4720536088",
+  "events": []
  },
  {
   "state": "LA",
@@ -664,9 +745,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-318-251-8685",
+  "phone": "(318) 251-8685",
   "source_list": "shelter website",
-  "osm": "way/1494514002"
+  "osm": "way/1494514002",
+  "events": []
  },
  {
   "state": "LA",
@@ -682,7 +764,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(318) 226-6624"
+  "phone": "(318) 226-6624",
+  "events": []
  },
  {
   "state": "LA",
@@ -693,13 +776,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://myslidell.com/government/slidell-police-department/animal-control/",
-  "notes": "2700 Terrace Ave. City shelter supported by the Animal Assistance League of Slidell. Website and contact details still to be confirmed on the shelter's own site.",
+  "notes": "2700 Terrace Ave. City shelter (Slidell Police Animal Control) supported by the Animal Assistance League of Slidell. Adoptions Mon-Fri 10am-3:30pm, Sat 10am-2pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "AnimalControl@slidellpd.com",
   "phone": "(985) 646-4267",
   "source_list": "shelter website",
-  "osm": "way/798218155"
+  "osm": "way/798218155",
+  "events": []
  },
  {
   "state": "LA",
@@ -715,7 +799,8 @@
   "email_program": "",
   "email_main": "carahousela@gmail.com",
   "source_list": "shelter website",
-  "phone": "(225) 675-0400"
+  "phone": "(225) 675-0400",
+  "events": []
  },
  {
   "state": "LA",
@@ -726,12 +811,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://wfahs.org/",
-  "notes": "9946 W Feliciana Parkway. Website and contact details still to be confirmed on the shelter's own site.",
+  "notes": "9946 W Feliciana Parkway. Open by appointment only, Mon-Sat 9am-3:30pm, Sun 9am-2pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "wfahsociety@gmail.com",
   "source_list": "shelter website",
-  "phone": "(225) 635-5801"
+  "phone": "(225) 635-5801",
+  "events": []
  },
  {
   "state": "LA",
@@ -747,7 +833,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(337) 394-2200"
+  "phone": "(337) 394-2200",
+  "events": []
  },
  {
   "state": "LA",
@@ -758,12 +845,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.lafourchegov.org/animal-shelter/",
-  "notes": "934 Highway 3185.",
+  "notes": "934 Highway 3185. Open Mon-Wed 10am-4pm, Thu 10am-6pm. Stray foster option; no day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "lpas@lafourchegov.org",
   "source_list": "shelter website",
-  "phone": "(985) 446-3532"
+  "phone": "(985) 446-3532",
+  "events": []
  },
  {
   "state": "LA",
@@ -779,7 +867,8 @@
   "email_program": "",
   "email_main": "animalcontrol@sbpg.net",
   "source_list": "shelter website",
-  "phone": "(504) 278-4200"
+  "phone": "(504) 278-4200",
+  "events": []
  },
  {
   "state": "LA",
@@ -789,14 +878,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://walker.la.us/animal-control",
+  "notes": "13740 Ball Park Road. City-run shelter open Mon-Thu 8am-4pm; adoptable animals posted on its Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(225) 791-3482",
   "source_list": "shelter website",
-  "osm": "node/8185100923"
+  "osm": "node/8185100923",
+  "events": []
  },
  {
   "state": "LA",
@@ -812,7 +902,8 @@
   "email_program": "",
   "email_main": "OPAS@oppj.org",
   "source_list": "shelter website",
-  "phone": "(318) 327-1340"
+  "phone": "(318) 325-0756",
+  "events": []
  },
  {
   "state": "LA",
@@ -828,6 +919,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/cityofwinnfieldanimalshelter/"
+  "url_social": "https://www.facebook.com/cityofwinnfieldanimalshelter/",
+  "phone": "",
+  "events": []
  }
 ]

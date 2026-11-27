@@ -47,6 +47,7 @@ https://shelterdayout.com/cities/baldwin-md/
 https://shelterdayout.com/cities/baltimore-md/
 https://shelterdayout.com/cities/bangor-me/
 https://shelterdayout.com/cities/bartlesville-ok/
+https://shelterdayout.com/cities/baton-rouge-la/
 https://shelterdayout.com/cities/battle-creek-mi/
 https://shelterdayout.com/cities/bayside-ny/
 https://shelterdayout.com/cities/baytown-tx/
@@ -62,6 +63,7 @@ https://shelterdayout.com/cities/blackwood-nj/
 https://shelterdayout.com/cities/bloomington-in/
 https://shelterdayout.com/cities/blue-ridge-ga/
 https://shelterdayout.com/cities/boone-nc/
+https://shelterdayout.com/cities/bossier-city-la/
 https://shelterdayout.com/cities/bountiful-ut/
 https://shelterdayout.com/cities/bradenton-fl/
 https://shelterdayout.com/cities/branson-mo/
