@@ -733,5 +733,35 @@
   "lon": null,
   "src": "https://stores.petco.com/ia/clive/vet-hospital-clive-ia-617.html",
   "checked": "November 2026"
+ },
+ {
+  "state": "IA",
+  "name": "Carlisle Veterinary Clinic",
+  "city": "Carlisle",
+  "street": "2810 Front Line Rd.",
+  "zip": "50047",
+  "phone": "(515) 989-4075",
+  "website": "https://carlisleveterinaryclinic.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://carlisleveterinaryclinic.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "IA",
+  "name": "Heart of Ankeny Animal Hospital",
+  "city": "Ankeny",
+  "street": "701 SW Ordnance Rd",
+  "zip": "50023",
+  "phone": "(515) 635-0095",
+  "website": "https://www.heartofankeny.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.heartofankeny.com/",
+  "checked": "November 2026"
  }
 ]

@@ -223,5 +223,20 @@
   "lon": null,
   "src": "https://www.nh-veterinaryclinic.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "SD",
+  "name": "Cook Veterinary Clinic",
+  "city": "Rapid City",
+  "street": "1727 E Anamosa St., Suite 100",
+  "zip": "57703",
+  "phone": "(605) 399-2665",
+  "website": "https://www.rapidcityvetclinic.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.rapidcityvetclinic.com/vet-services/",
+  "checked": "November 2026"
  }
 ]

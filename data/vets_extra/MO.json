@@ -1168,5 +1168,50 @@
   "lon": null,
   "src": "https://www.animalhousevetstl.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "MO",
+  "name": "Clarkson-Wilson Veterinary Clinic",
+  "city": "Chesterfield",
+  "street": "32 Clarkson Wilson Center",
+  "zip": "63017",
+  "phone": "(636) 530-1808",
+  "website": "https://clarksonwilsonvet.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://clarksonwilsonvet.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "MO",
+  "name": "Tails of KC Animal Hospital",
+  "city": "Kansas City",
+  "street": "6430 N Cosby Ave",
+  "zip": "64151",
+  "phone": "(816) 760-2662",
+  "website": "https://tailsofkc.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://tailsofkc.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "MO",
+  "name": "Animal Clinic of Platte County",
+  "city": "Parkville",
+  "street": "10123 NW 45 Highway",
+  "zip": "64152",
+  "phone": "(816) 741-8338",
+  "website": "https://www.animalclinicofplattecounty.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.animalclinicofplattecounty.com/",
+  "checked": "November 2026"
  }
 ]

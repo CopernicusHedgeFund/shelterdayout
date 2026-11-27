@@ -1138,5 +1138,35 @@
   "lon": null,
   "src": "https://stores.petco.com/mn/apple-valley/vet-hospital-applevalley-mn-612.html",
   "checked": "November 2026"
+ },
+ {
+  "state": "MN",
+  "name": "Chafin Vet",
+  "city": "Apple Valley",
+  "street": "15420 English Ave.",
+  "zip": "55124",
+  "phone": "(952) 495-6880",
+  "website": "https://chafinvet.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://chafinvet.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "MN",
+  "name": "East Valley Animal Clinic",
+  "city": "Apple Valley",
+  "street": "5049 Upper 141st Street West",
+  "zip": "55124",
+  "phone": "(952) 423-6800",
+  "website": "https://eastvalleyanimalclinic.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://eastvalleyanimalclinic.com/our-location/",
+  "checked": "November 2026"
  }
 ]
