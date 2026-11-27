@@ -1086,7 +1086,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://joshuatreenokillshelter.org/",
-  "notes": "re-check.",
+  "notes": "Volunteers walk and socialize dogs and cats at the shelter; no day-out, sleepover or short-term foster program is listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "office@jtnks.org",
@@ -1117,7 +1117,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.countyofmonterey.gov/government/departments-a-h/health/monterey-county-animal-services/local-rescue-groups-listing",
-  "notes": "Listed by Monterey County as a no-kill safe-house facility in South County;",
+  "notes": "Listed by Monterey County as a no-kill safe-house facility in South County; the county page gives no phone, email or address.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1296,11 +1296,6 @@
   "source_list": "shelter website",
   "events": [
    {
-    "date": "2026-11-26",
-    "title": "$15 Adoptions (final day of Nov 9-26 promotion)",
-    "url": "https://bestfriends.org/los-angeles"
-   },
-   {
     "date": "2026-12-11",
     "title": "Holiday Foster Open House",
     "url": "https://bestfriends.org/los-angeles"
@@ -1316,7 +1311,7 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.laanimalservices.com/adventure-buddy-day",
-  "notes": "LA Animal Services and Best Friends ran an Adventure Buddy Day (last held Aug 23, 2025) letting the public take eligible dogs out for the day; pick up 9-11am, first come first served, or pre-register by emailing the foster form to ani.foster@lacity.org. No 2026 date was announced on the LAAS site.",
+  "notes": "LA Animal Services and Best Friends ran an Adventure Buddy Day (last held Aug 23, 2025) letting the public take eligible dogs out for the day; pick up 9-11am, first come first served, or pre-register by emailing the foster form to ani.foster@lacity.org. No upcoming date was announced on the LAAS site as of November 2026.",
   "checked": "November 2026",
   "email_program": "ani.foster@lacity.org",
   "email_main": "",
@@ -1367,8 +1362,9 @@
   "notes": "Halfway Home Kennel, 2106 S. Sepulveda Blvd., West LA; also St. Bonnie's Sanctuary in Canyon Country.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@langefoundation.org",
+  "source_list": "shelter website",
+  "phone": "(310) 473-5585"
  },
  {
   "state": "CA",
@@ -1383,7 +1379,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(310) 836-5427"
  },
  {
   "state": "CA",
@@ -1413,7 +1410,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(760) 935-4734"
  },
  {
   "state": "CA",
@@ -3586,7 +3584,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "cafmail88@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(707) 296-4629"
  },
  {
   "state": "CA",
@@ -3852,7 +3851,7 @@
   "notes": "Adoptions by appointment only.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "guestservices@placerspca.org",
   "source_list": "shelter website",
   "phone": "(916) 782-7722"
  },
@@ -3869,7 +3868,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(559) 621-2489"
  },
  {
   "state": "CA",
@@ -4136,7 +4136,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(760) 932-7407"
  },
  {
   "state": "CA",
@@ -4337,8 +4338,8 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://locator.lacounty.gov/lac/Location/3173642/glendale-humane-society",
-  "phone": "",
+  "url": "https://www.glendalehumane.org",
+  "phone": "(818) 242-1128",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -4354,24 +4355,8 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://folsom.ca.us/government/police/serving-our-community/animal-services",
-  "phone": "",
+  "phone": "(916) 355-7231",
   "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CA",
-  "city": "Indio",
-  "org": "City of Indio Animal Services - Animal Care Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://indio.org/departments/city-manager/animal-services",
-  "phone": "",
-  "notes": "facility details need a follow-up check.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -4418,11 +4403,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://amandafoundation.org/adoptions",
-  "phone": "",
+  "phone": "(310) 278-2935",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@AmandaFoundation.org",
   "source_list": "shelter website"
  },
  {
@@ -4434,11 +4419,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://bakersfieldspca.org/",
-  "phone": "",
+  "phone": "(661) 323-8353",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@bakersfieldspca.org",
   "source_list": "shelter website"
  },
  {
@@ -4450,7 +4435,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.sequoiahumane.org/",
-  "phone": "",
+  "phone": "(707) 442-1782",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -4466,11 +4451,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://mountainshumanesociety.wordpress.com/",
-  "phone": "",
+  "phone": "(909) 337-6422",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@mhsrescue.org",
   "source_list": "shelter website"
  },
  {
