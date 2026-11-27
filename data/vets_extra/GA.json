@@ -2068,5 +2068,50 @@
   "lon": null,
   "src": "https://www.westgeorgiaspayneuter.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "GA",
+  "name": "Cedar Creek Animal Hospital",
+  "city": "Cedartown",
+  "street": "691 N Cave Spring St",
+  "zip": "30125",
+  "phone": "(770) 748-7165",
+  "website": "https://www.cedarcreekah.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.cedarcreekah.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "GA",
+  "name": "Polk Veterinary Care",
+  "city": "Cedartown",
+  "street": "725 N Main St",
+  "zip": "30125",
+  "phone": "(770) 748-0173",
+  "website": "http://www.polkvetcare.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "http://www.polkvetcare.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "GA",
+  "name": "Cave Spring Animal Hospital",
+  "city": "Cave Spring",
+  "street": "19 Alabama St",
+  "zip": "30124",
+  "phone": "(706) 381-2500",
+  "website": "https://cavespringah.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://cavespringah.com/",
+  "checked": "November 2026"
  }
 ]
