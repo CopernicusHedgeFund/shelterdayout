@@ -276,7 +276,6 @@ https://shelteradoption.com/cities/meriden-ct/
 https://shelteradoption.com/cities/metropolis-il/
 https://shelteradoption.com/cities/michigan-city-in/
 https://shelteradoption.com/cities/middletown-ny/
-https://shelteradoption.com/cities/midland-mi/
 https://shelteradoption.com/cities/midland-tx/
 https://shelteradoption.com/cities/milwaukee-wi/
 https://shelteradoption.com/cities/mineola-tx/
@@ -809,6 +808,7 @@ https://shelteradoption.com/shelters/austin-animal-shelter-austin/
 https://shelteradoption.com/shelters/austin-humane-society-austin/
 https://shelteradoption.com/shelters/austin-pets-alive-austin/
 https://shelteradoption.com/shelters/avery-humane-society-newland/
+https://shelteradoption.com/shelters/avocato-catf-and-adoption-center-farmington-hills/
 https://shelteradoption.com/shelters/avon-animal-control-avon/
 https://shelteradoption.com/shelters/avoyelles-animal-welfare-society-cottonport/
 https://shelteradoption.com/shelters/ayres-memorial-animal-shelter-sprakers/
@@ -1944,6 +1944,7 @@ https://shelteradoption.com/shelters/gridley-animal-shelter-gridley-police-dept-
 https://shelteradoption.com/shelters/griffin-pond-animal-shelter-humane-society-of-lackawanna-county-clarks-summit/
 https://shelteradoption.com/shelters/griswold-animal-control-griswold/
 https://shelteradoption.com/shelters/grosse-ile-animal-shelter-grosse-ile/
+https://shelteradoption.com/shelters/grosse-pointe-animal-adoption-society-harper-woods/
 https://shelteradoption.com/shelters/groves-animal-shelter-groves/
 https://shelteradoption.com/shelters/grundy-county-animal-control-morris/
 https://shelteradoption.com/shelters/guadalupe-county-animal-services-and-adoption-center-seguin/
@@ -2923,7 +2924,6 @@ https://shelteradoption.com/shelters/middlesex-county-animal-shelter-saluda/
 https://shelteradoption.com/shelters/middletown-animal-control-middletown/
 https://shelteradoption.com/shelters/middletown-humane-society-middletown/
 https://shelteradoption.com/shelters/midland-animal-services-midland/
-https://shelteradoption.com/shelters/midland-county-animal-control-midland/
 https://shelteradoption.com/shelters/midlands-humane-society-council-bluffs/
 https://shelteradoption.com/shelters/midlothian-animal-services-midlothian/
 https://shelteradoption.com/shelters/midwest-city-animal-welfare-midwest-city/

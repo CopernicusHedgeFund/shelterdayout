@@ -163,6 +163,7 @@ https://shelterdayout.com/cities/fairhope-al/
 https://shelterdayout.com/cities/fairmont-wv/
 https://shelterdayout.com/cities/fairport-ny/
 https://shelterdayout.com/cities/fallston-md/
+https://shelterdayout.com/cities/farmington-hills-mi/
 https://shelterdayout.com/cities/fernandina-beach-fl/
 https://shelterdayout.com/cities/flagstaff-az/
 https://shelterdayout.com/cities/flushing-ny/
@@ -236,6 +237,8 @@ https://shelterdayout.com/cities/lafayette-in/
 https://shelterdayout.com/cities/lakeland-fl/
 https://shelterdayout.com/cities/lana-i-city-hi/
 https://shelterdayout.com/cities/lander-wy/
+https://shelterdayout.com/cities/lansing-mi/
+https://shelterdayout.com/cities/lapeer-mi/
 https://shelterdayout.com/cities/laredo-tx/
 https://shelterdayout.com/cities/largo-fl/
 https://shelterdayout.com/cities/las-vegas-nv/
@@ -273,6 +276,7 @@ https://shelterdayout.com/cities/marshall-va/
 https://shelterdayout.com/cities/martinsville-va/
 https://shelterdayout.com/cities/marysville-oh/
 https://shelterdayout.com/cities/maryville-mo/
+https://shelterdayout.com/cities/mason-mi/
 https://shelterdayout.com/cities/matteson-il/
 https://shelterdayout.com/cities/maumee-oh/
 https://shelterdayout.com/cities/mccall-id/
@@ -333,6 +337,7 @@ https://shelterdayout.com/cities/orlando-fl/
 https://shelterdayout.com/cities/osage-beach-mo/
 https://shelterdayout.com/cities/osawatomie-ks/
 https://shelterdayout.com/cities/oshkosh-wi/
+https://shelterdayout.com/cities/osseo-mi/
 https://shelterdayout.com/cities/oxnard-ca/
 https://shelterdayout.com/cities/pahrump-nv/
 https://shelterdayout.com/cities/palm-harbor-fl/
@@ -821,6 +826,7 @@ https://shelterdayout.com/listings/austin-animal-shelter-austin/
 https://shelterdayout.com/listings/austin-humane-society-austin/
 https://shelterdayout.com/listings/austin-pets-alive-austin/
 https://shelterdayout.com/listings/avery-humane-society-newland/
+https://shelterdayout.com/listings/avocato-catf-and-adoption-center-farmington-hills/
 https://shelterdayout.com/listings/avon-animal-control-avon/
 https://shelterdayout.com/listings/avoyelles-animal-welfare-society-cottonport/
 https://shelterdayout.com/listings/ayres-memorial-animal-shelter-sprakers/
@@ -1956,6 +1962,7 @@ https://shelterdayout.com/listings/gridley-animal-shelter-gridley-police-dept-gr
 https://shelterdayout.com/listings/griffin-pond-animal-shelter-humane-society-of-lackawanna-county-clarks-summit/
 https://shelterdayout.com/listings/griswold-animal-control-griswold/
 https://shelterdayout.com/listings/grosse-ile-animal-shelter-grosse-ile/
+https://shelterdayout.com/listings/grosse-pointe-animal-adoption-society-harper-woods/
 https://shelterdayout.com/listings/groves-animal-shelter-groves/
 https://shelterdayout.com/listings/grundy-county-animal-control-morris/
 https://shelterdayout.com/listings/guadalupe-county-animal-services-and-adoption-center-seguin/
@@ -2935,7 +2942,6 @@ https://shelterdayout.com/listings/middlesex-county-animal-shelter-saluda/
 https://shelterdayout.com/listings/middletown-animal-control-middletown/
 https://shelterdayout.com/listings/middletown-humane-society-middletown/
 https://shelterdayout.com/listings/midland-animal-services-midland/
-https://shelterdayout.com/listings/midland-county-animal-control-midland/
 https://shelterdayout.com/listings/midlands-humane-society-council-bluffs/
 https://shelterdayout.com/listings/midlothian-animal-services-midlothian/
 https://shelterdayout.com/listings/midwest-city-animal-welfare-midwest-city/

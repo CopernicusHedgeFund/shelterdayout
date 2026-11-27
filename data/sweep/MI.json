@@ -16,9 +16,9 @@
   "events": [
    {
     "date": "2026-11-27",
-    "title": "Fur-Free Friday adoption events (PetSmart Woodhaven and PetSmart Dearborn), 10am-2pm",
-    "url": "https://www.metrodetroitanimals.org/event/doggy-day-out",
-    "place": "PetSmart Woodhaven / PetSmart Dearborn"
+    "title": "Fur-Free (Black) Friday adoption events, same-day cat and kitten adoptions, 10am-2pm",
+    "url": "https://www.metrodetroitanimals.org/event/petsmart-woodhaven-and-petsmart-dearborn-fur-free-black-friday-adoption-events/",
+    "place": "PetSmart Woodhaven (23470 Allen Rd, Woodhaven) / PetSmart Dearborn (5650 Mercury Dr, Dearborn)"
    }
   ],
   "phone": "(313) 943-2697"
@@ -83,12 +83,12 @@
   "state": "MI",
   "city": "Detroit",
   "org": "Detroit Animal Care and Control",
-  "program": "Detroit Dogventures",
+  "program": "Detroit Dogventures; Slumber Parties",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Day trips, sleepovers",
   "url": "https://www.friendsofdacc.org/shelter-breaks",
-  "notes": "Day trips for Detroit Animal Care and Control dogs, run with the Friends of Detroit Animal Care & Control: sign up on the Friends page to take a shelter dog out for the day. Check the page for current sign-up times.",
+  "notes": "Run with Friends of DACC: pick up an adoptable dog at the shelter (1431 E Ferry St) any day 10:30am-3pm and return by 5:30pm, no sign-up needed (18+ with ID), harness, leash and goody bag provided; Slumber Parties are 1-2 night short-term foster stays chosen at the shelter the same day.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -104,7 +104,7 @@
   "animals": "Dogs",
   "offers": "Day trip (a few hours)",
   "url": "https://macsshelter.org/volunteering",
-  "notes": "13569 Joseph Campau Ave, Detroit. Own site could not be fetched; confirmed via Adopt-a-Pet listing.",
+  "notes": "13569 Joseph Campau Ave, Detroit. Own site could not be fetched (Nov 2026); program not confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -120,12 +120,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.oakgov.com/community/pet-adoption",
-  "notes": "Building 42E, Pontiac (county campus).",
+  "url": "https://www.oaklandcountymi.gov/community/pet-adoption",
+  "notes": "Building 42E, Pontiac (county campus). Pet Adoption Center open Mon-Fri by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "petadoption@oakgov.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(248) 858-1070"
  },
  {
   "state": "MI",
@@ -509,7 +510,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.stclaircounty.org/Offices/4",
-  "notes": "3378 Griswold Rd, Port Huron. Adoptions Mon-Fri 10:30am-3:30pm by appointment; fees from $75 cats, $120 dogs.",
+  "notes": "3378 Griswold Rd, Port Huron. Adoptions Mon-Fri 10:30am-3pm (closed Sat-Sun); online adoption application; fees from $75 cats, $120 dogs.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -525,11 +526,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "http://bluewaterareahs.org/",
-  "notes": "Listed on MDARD licensed animal shelter list (6266 Lapeer Rd, Clyde; 810-987-4357). Own website not verified.",
+  "notes": "6266 Lapeer Rd, Clyde. Open Tue-Fri 9:30am-4:30pm, Sat 9:30am-3pm; closed Sun-Mon. Own site appears not updated since 2022.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(810) 987-4357"
  },
  {
   "state": "MI",
@@ -555,7 +557,7 @@
   "animals": "Dogs and cats",
   "offers": "Hike or walk",
   "url": "https://lenhumanesoc.org/become-a-running-buddy/",
-  "notes": "Volunteers 17+ run with athletic shelter dogs; sign up online, orientation before first run. Free. Also takes in Lenawee County strays.",
+  "notes": "Volunteers 17+ run with high-energy shelter dogs that need to run; sign up online, shelter calls within 2 business days to schedule orientation before first run. Also takes in Lenawee County strays.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@lenhumanesoc.org",
@@ -576,14 +578,15 @@
   "org": "Tecumseh Police Department Animal Shelter",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Dogs",
   "offers": "",
   "url": "https://www.mytecumseh.org/government/police_department/lost_dogs.php",
-  "notes": "Listed on MDARD licensed animal shelter list (601 Cummins, Tecumseh; 517-423-7494). No own page verified.",
+  "notes": "Small police kennel at 601 Cummins St holds stray dogs up to three days; does not house cats or other animals. Contact police for lost dogs.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(517) 423-7494"
  },
  {
   "state": "MI",
@@ -608,27 +611,37 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.lapeercountymi.gov/departments/animal_control/animal_adoption/index.php",
-  "notes": "Lapeer County Animal Shelter, 2396 W Genesee St, Lapeer; 810-667-0236 (MDARD list). Own page not verified.",
+  "url": "https://www.lapeercountymi.gov/departments/animal_control/index.php",
+  "notes": "2396 W Genesee St, Lapeer. Adoptions by appointment only (apply online; no walk-ins). Office Mon 9-4, Tue 9-5, Wed 10-4, Thu 9-5, Fri 9-4.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(810) 667-0236"
  },
  {
   "state": "MI",
   "city": "Lapeer",
   "org": "Paradise Animal Rescue",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Weekend Getaway (foster)",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "Listed on MDARD licensed animal shelter list (2266 N Lapeer Rd, Lapeer; 810-969-4455). Own site not verified.",
+  "offers": "Weekend foster",
+  "url": "https://www.parpets.org/foster.html",
+  "notes": "Foster page lists Short Term and Weekend Getaway foster programs without details; submit a foster application. Rescue at 2266 N Lapeer Rd open Sat 10am-1pm, other days by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(810) 969-4455",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Open House (holiday treats, photos with St. Nick; adoption applications taken)",
+    "url": "https://www.parpets.org/fundraisers.html",
+    "place": "Paradise Animal Rescue, 2266 N Lapeer Rd, Lapeer, MI"
+   }
+  ]
  },
  {
   "state": "MI",
@@ -669,11 +682,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://geneseehumane.org/",
-  "notes": "Listed on MDARD licensed animal shelter list (G-3325 S Dort Hwy, Burton; 810-744-0511). Own site not verified.",
+  "notes": "G-3325 S Dort Hwy, Burton. Volunteer Bark Buddy dog walkers on site; no off-site program listed.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@geneseehumane.org",
+  "source_list": "shelter website",
+  "phone": "(810) 744-0511"
  },
  {
   "state": "MI",
@@ -996,12 +1010,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.allegancounty.org/departments/animal-shelter",
-  "notes": "Listed on MDARD registered-shelter list; own website not yet verified.",
+  "notes": "2293 33rd St., Allegan. Volunteer and foster program run with partner Wishbone Pet Rescue Alliance (dog walking on site, transport, fostering); no day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(269) 686-5112"
  },
  {
   "state": "MI",
@@ -1043,7 +1058,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.wishbonepetrescue.org/",
+  "url": "https://wishbonepetrescue.org/",
   "notes": "Operates Wishbone House cat adoption center. Listed on MDARD registered-shelter list; own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
@@ -1060,12 +1075,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.icas.pet/",
-  "notes": "Listed on MDARD registered-shelter list; own website not yet verified.",
+  "notes": "3853 Sparrow Dr., Ionia. County page: https://ioniacounty.org/public-safety/animal-control/",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ICAS@ioniacounty.org",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(616) 527-9040"
  },
  {
   "state": "MI",
@@ -1091,13 +1107,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.montcalm.us/160/Animal-Control",
-  "notes": "Listed on MDARD registered-shelter list; own website not yet verified.",
+  "url": "https://www.montcalmcountymi.gov/160/Animal-Control",
+  "notes": "154 W. Quarterline St., Stanton. From Nov 2, 2026 open Mon 1-3pm, Tue-Thu 10am-3pm, Fri 10am-1pm; dog surrenders and cat intakes by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 831-7302"
  },
  {
   "state": "MI",
@@ -1172,12 +1189,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.newaygocountymi.gov/departments/animal-shelter/adoptions/",
-  "notes": "Listed on MDARD registered-shelter list; own website not yet verified.",
+  "notes": "78 N. Webster St., White Cloud. Open Mon-Fri 8am-2pm; appointments available.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@newaygocountymi.gov",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 689-7020"
  },
  {
   "state": "MI",
@@ -1436,7 +1454,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(269) 966-3311"
+  "phone": "(269) 963-6582"
  },
  {
   "state": "MI",
@@ -1462,11 +1480,11 @@
   "status": "No program yet",
   "animals": "Cats",
   "offers": "",
-  "url": "http://www.companioncats.com",
-  "notes": "Volunteer-run cat shelter at 29 Hoag St., Battle Creek.",
+  "url": "https://www.companioncats.com/",
+  "notes": "Volunteer-run cat shelter at 29 Hoag St., Battle Creek; onsite adoptions Saturdays 11am-3pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "companioncats@yahoo.com",
   "source": "https://www.adoptapet.com/shelter/95664",
   "source_list": "shelter website",
   "phone": "(269) 569-4152"
@@ -1475,18 +1493,26 @@
   "state": "MI",
   "city": "Osseo",
   "org": "Greater Hillsdale Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.greaterhillsdalehumanesociety.org",
-  "notes": "3881 S. Tripp Rd., Osseo.",
+  "program": "Happy Hour",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.greaterhillsdalehumanesociety.org/happy-hour",
+  "notes": "Adults 18+ with valid ID book a time online and take an approved shelter dog out for the day, Tuesday-Friday 10am-3pm (harness and leash at all times, one dog per car, back by 3pm; no puppies).",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "greaterhhs@gmail.com",
+  "email_main": "greaterhhs@gmail.com",
   "source": "https://www.adoptapet.com/shelter/71194",
   "source_list": "shelter website",
-  "phone": "(517) 523-2308"
+  "phone": "(517) 523-2308",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "title": "Empty The Shelters: Holiday Hope",
+    "url": "https://www.greaterhillsdalehumanesociety.org/events",
+    "place": "Greater Hillsdale Humane Society, 3881 S. Tripp Rd., Osseo"
+   }
+  ]
  },
  {
   "state": "MI",
@@ -1496,13 +1522,39 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.co.jackson.mi.us/579/Animal-Shelter",
+  "url": "https://www.jacksoncountyanimalshelter.org/",
   "notes": "3370 Spring Arbor Rd., Jackson.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@mijackson.org",
   "source_list": "shelter website",
-  "phone": "(517) 788-4464"
+  "phone": "(517) 788-4464",
+  "events": [
+   {
+    "date": "2026-12-03",
+    "title": "Yappy Hour: 50% off adoption fees (3-5 PM)",
+    "url": "https://www.jacksoncountyanimalshelter.org/",
+    "place": "Jackson County Animal Shelter, 3370 Spring Arbor Rd., Jackson"
+   },
+   {
+    "date": "2027-01-07",
+    "title": "Yappy Hour: 50% off adoption fees (3-5 PM)",
+    "url": "https://www.jacksoncountyanimalshelter.org/",
+    "place": "Jackson County Animal Shelter, 3370 Spring Arbor Rd., Jackson"
+   },
+   {
+    "date": "2027-02-04",
+    "title": "Yappy Hour: 50% off adoption fees (3-5 PM)",
+    "url": "https://www.jacksoncountyanimalshelter.org/",
+    "place": "Jackson County Animal Shelter, 3370 Spring Arbor Rd., Jackson"
+   },
+   {
+    "date": "2027-03-04",
+    "title": "Yappy Hour: 50% off adoption fees (3-5 PM)",
+    "url": "https://www.jacksoncountyanimalshelter.org/",
+    "place": "Jackson County Animal Shelter, 3370 Spring Arbor Rd., Jackson"
+   }
+  ]
  },
  {
   "state": "MI",
@@ -1512,11 +1564,11 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.chspets.org",
+  "url": "https://www.chspets.org/",
   "notes": "1515 Carmen Dr., Jackson.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adopt@chspets.org",
   "source": "https://adoptapet.com/shelter/77529",
   "source_list": "shelter website",
   "phone": "(517) 787-7387"
@@ -1534,33 +1586,35 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(517) 543-5755 ext. 1"
  },
  {
   "state": "MI",
   "city": "Mason",
   "org": "Ingham County Animal Control & Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.ingham.org/departments_and_officials/animal_control/index.php",
-  "notes": "MDARD-licensed county shelter in Mason; own page not checked.",
+  "program": "Ultimutt Sniffari",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Walks off-site",
+  "url": "https://ac.ingham.org/how_do_i/volunteer.php",
+  "notes": "Fear Free certified volunteer dog walkers (18+, after online course and handling training) take a shelter dog for a walk around downtown Mason. County shelter at 600 Buhl St., Mason.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "rmartel@ingham.org",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(517) 676-8370"
  },
  {
   "state": "MI",
   "city": "Lansing",
   "org": "Capital Area Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://cahs-lansing.org",
-  "notes": "MDARD-licensed; facility on W. Grand River Ave. (Clinton County side of Lansing).",
+  "program": "Adult dog field trips",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Afternoon outings, weekend stays",
+  "url": "https://adoptlansing.org/foster/",
+  "notes": "Approved fosters can take an adult dog out for a shelter break for an afternoon or a weekend (opt in on the foster application). Shelter at 7095 W. Grand River Ave., Lansing; site moved to adoptlansing.org.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1576,11 +1630,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.clinton-county.org/295/Animal-Control",
-  "notes": "MDARD-licensed county shelter in St. Johns; own page not checked.",
+  "notes": "County animal control and shelter at 1337 E. Townsend Rd., St. Johns; handles adoptions.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "aco@clinton-county.org",
+  "source_list": "shelter website",
+  "phone": "(989) 224-5116"
  },
  {
   "state": "MI",
@@ -1917,12 +1972,12 @@
   "state": "MI",
   "city": "Mt. Pleasant",
   "org": "Humane Animal Treatment Society (HATS)",
-  "program": "Park Pals",
-  "status": "Needs check",
-  "animals": "Dogs and cats",
-  "offers": "Hike or walk",
-  "url": "https://www.hatsweb.org",
-  "notes": "Volunteers take a shelter dog to a local park to walk or run; teens/adults, children with an adult. Listed on volunteer directory; confirm on HATS site.",
+  "program": "Park Pals; Slumber Buddies",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Park outings, weekend sleepovers",
+  "url": "https://www.hatsweb.org/volunteer",
+  "notes": "Approved volunteers with their own car take a shelter dog to a park or trail for a walk or run (Tue-Sat, 10am or 2pm shifts), and Slumber Buddies host a dog at home for at least a weekend with HATS supplying food, crate and toys.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1935,16 +1990,17 @@
   "city": "Mt. Pleasant",
   "org": "Karma Kat Cafe & Rescue",
   "program": "Cat cafe visits",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "Visit",
-  "url": "https://karmakatcafe.com",
-  "notes": "Cat lounge with adoptable cats; $10/hour reservation fee (per local tourism listing).",
+  "offers": "Cat lounge visits",
+  "url": "https://www.karmakatcafe.com/reservations",
+  "notes": "State-licensed shelter's cat lounge with adoptable cats: book a visit online (walk-ins when space allows), $10 or less per person, stay as long as you like, waiver required.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source": "https://meetmtp.com/?p=22400",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 773-2399"
  },
  {
   "state": "MI",
@@ -1960,7 +2016,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 796-2683"
  },
  {
   "state": "MI",
@@ -1974,9 +2031,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@osceolacountymi.gov",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 832-5790"
  },
  {
   "state": "MI",
@@ -1992,7 +2050,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 745-3079"
  },
  {
   "state": "MI",
@@ -2006,9 +2065,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@masoncountymi.gov",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 843-8644"
  },
  {
   "state": "MI",
@@ -2024,7 +2084,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 343-7387"
  },
  {
   "state": "MI",
@@ -2040,7 +2101,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 362-3170"
  },
  {
   "state": "MI",
@@ -2056,7 +2118,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 366-0260"
  },
  {
   "state": "MI",
@@ -2070,9 +2133,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@mhspets.org",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 839-3800"
  },
  {
   "state": "MI",
@@ -2088,7 +2152,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 779-9530"
  },
  {
   "state": "MI",
@@ -2120,7 +2185,8 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.michigan.gov/mdard/licensing/animal/shelter/animal-shelters-list",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(231) 723-7387"
  },
  {
   "state": "MI",
@@ -2163,7 +2229,7 @@
   "animals": "Dogs and cats",
   "offers": "Day trip",
   "url": "https://ltbhs.org/snoutnabout",
-  "notes": "Field trip program: shelter dogs go on outings into the community with a volunteer (started 2021). To take a dog on an outing, call 231-347-2396 or stop by 1300 W. Conway Rd. Cost/age rules not stated.",
+  "notes": "Field trip program (since 2021) where shelter dogs go on community outings with a volunteer; to take a dog out, call 231-347-2396 or visit 1300 W. Conway Rd. (Mon-Sat 10-5); eligibility, length and cost not stated.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -2425,7 +2491,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(231) 238-8221"
+  "phone": "(231) 238-8221",
+  "events": []
  },
  {
   "state": "MI",
@@ -2440,7 +2507,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 348-4117",
+  "events": []
  },
  {
   "state": "MI",
@@ -2455,7 +2524,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 736-7387",
+  "events": []
  },
  {
   "state": "MI",
@@ -2466,11 +2537,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://alpenacounty.org/387/Animal-Control",
-  "notes": "",
+  "notes": "Shelter at 625 S 11th Ave (Alpena County Fairgrounds); call to meet adoptable animals by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 884-2248",
+  "events": []
  },
  {
   "state": "MI",
@@ -2485,7 +2558,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(989) 356-4794",
+  "events": []
  },
  {
   "state": "MI",
@@ -2500,7 +2575,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "contactus@cchumanesociety.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(906) 487-9560",
+  "events": []
  },
  {
   "state": "MI",
@@ -2515,7 +2592,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(906) 643-7646",
+  "events": []
  },
  {
   "state": "MI",
@@ -2530,7 +2609,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@upaws.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(906) 475-6661",
+  "events": []
  },
  {
   "state": "MI",
@@ -2545,7 +2626,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(906) 387-4131",
+  "events": []
  },
  {
   "state": "MI",
@@ -2561,7 +2644,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(906) 632-2519",
+  "events": []
  },
  {
   "state": "MI",
@@ -2576,7 +2660,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(906) 789-0230",
+  "events": []
  },
  {
   "state": "MI",
@@ -2591,7 +2677,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(906) 774-1005",
+  "events": []
  },
  {
   "state": "MI",
@@ -2607,7 +2695,8 @@
   "email_program": "",
   "email_main": "myhopeanimalshelter@gmail.com",
   "source_list": "shelter website",
-  "phone": "(906) 932-1511"
+  "phone": "(906) 932-1511",
+  "events": []
  },
  {
   "state": "MI",
@@ -2623,7 +2712,8 @@
   "email_program": "",
   "email_main": "northwoodsanimalshelter@gmail.com",
   "source_list": "shelter website",
-  "phone": "(906) 265-7387"
+  "phone": "(906) 265-7387",
+  "events": []
  },
  {
   "state": "MI",
@@ -2639,7 +2729,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(906) 293-6622"
+  "phone": "(906) 293-6622",
+  "events": []
  },
  {
   "state": "MI",
@@ -2655,7 +2746,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(906) 485-1091"
+  "phone": "(906) 485-1091",
+  "events": []
  },
  {
   "state": "MI",
@@ -2671,7 +2763,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(906) 864-7297"
+  "phone": "(906) 864-7297",
+  "events": []
  },
  {
   "state": "MI",
@@ -2687,7 +2780,8 @@
   "email_program": "",
   "email_main": "ocappaws@gmail.com",
   "source_list": "shelter website",
-  "phone": "(906) 884-2500"
+  "phone": "(906) 884-2500",
+  "events": []
  },
  {
   "state": "MI",
@@ -2703,7 +2797,8 @@
   "email_program": "",
   "email_main": "shelter@upebas.org",
   "source_list": "shelter website",
-  "phone": "(906) 341-1000"
+  "phone": "(906) 341-1000",
+  "events": []
  },
  {
   "state": "MI",
@@ -2714,12 +2809,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.livonia.gov/396/Animal-Control",
-  "phone": "",
-  "notes": "",
+  "phone": "(734) 466-2655",
+  "notes": "City Animal Control handles strays; city page refers shelter/adoption questions to Michigan Humane (Westland).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2730,28 +2826,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.mecostacounty.org/government/animalcontrol.php",
-  "phone": "",
+  "phone": "(231) 796-2221",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "MI",
-  "city": "Midland",
-  "org": "Midland County Animal Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "http://co.midland.mi.us/animal-control",
-  "phone": "(989) 832-6856",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2766,8 +2847,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "clinic@allaboutanimalsrescue.org",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2778,12 +2860,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.iheartdogs.org/",
-  "phone": "",
+  "phone": "(248) 496-4379",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2799,7 +2882,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2815,7 +2899,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2830,8 +2915,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "SHAnimal@sterlingheights.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2847,7 +2933,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2863,7 +2950,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MI",
@@ -2874,11 +2962,46 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://detroitdogrescue.com/",
-  "phone": "",
+  "phone": "(248) 520-0259",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "MI",
+  "city": "Harper Woods",
+  "org": "Grosse Pointe Animal Adoption Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.gpaas.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(313) 884-1551",
+  "email_program": "",
+  "email_main": "GPAAS@WOWWAY.BIZ",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "MI",
+  "city": "Farmington Hills",
+  "org": "Avocato Catfé & Adoption Center",
+  "program": "Cat lounge",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "url": "https://avocato.org/",
+  "notes": "Visitors can book time in the cat lounge with adoptable cats for $15 per adult per hour ($10 per child), and walk-ins are welcome when space allows.",
+  "checked": "November 2026",
+  "phone": "(248) 482-8271",
+  "email_program": "",
+  "email_main": "AvocatoCatfe@gmail.com",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
