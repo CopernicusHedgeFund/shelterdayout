@@ -26,6 +26,7 @@ for root,host in sites.items():
             for m in re.finditer(r'(?:href|src)="([^"]+)"',t):
                 u=m.group(1)
                 if u.startswith(('mailto:','tel:','#','javascript:','data:')): continue
+                if "'+" in u: continue  # built inside a script
                 if u.startswith('/') and not u.startswith('//'):
                     if not exists(root,u): bad[(host,u)].append(page)
                 else:

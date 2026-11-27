@@ -189,6 +189,16 @@ SEARCH_JS = """<script>
 </script>"""
 
 
+def state_search(code, name):
+    return f"""<form class="search" id="sform" action="" method="get" role="search">
+<div class="row"><div style="flex:1"><label for="q">Search {esc(name)} by city or shelter</label><input type="text" id="q" name="q" enterkeyhint="search" placeholder="Type a city or shelter name"></div>
+<input type="hidden" id="f-state" value="{code}"><button type="submit" class="btn sbtn" style="align-self:flex-end">Search</button></div>
+</form>
+<p class="count" id="count" aria-live="polite"></p>
+<div class="note" id="nores" hidden></div>
+<script>window.SDO_STATES={json.dumps(STATES)};</script>"""
+
+
 def search_form(states_present):
     opts = "".join(f'<option value="{k}">{v}</option>' for k, v in sorted(STATES.items(), key=lambda kv: kv[1]) if k in states_present)
     return f"""<form class="search" id="sform" action="" method="get" role="search">
@@ -248,7 +258,7 @@ def build_home(rows):
 <section id="find">
 <h2>Find a shelter</h2>
 {search_form(STATES.keys())}
-<ul class="slist" id="res" data-src="/assets/home-list.json?v={hashlib.md5(lst.encode()).hexdigest()[:10]}"><li>Loading shelters&hellip;</li></ul>
+<ul class="slist" id="res" data-src="/assets/home-list.json?v={hashlib.md5(lst.encode()).hexdigest()[:10]}"></ul>
 <p class="animal">Type a city, county or shelter name, or pick a state, to see matching shelters. Or browse by state below.</p>
 <noscript><p><a href="#states">Browse every shelter by state</a></p></noscript>
 </section>
@@ -300,13 +310,15 @@ def build_states(rows):
 <p class="lede">{len(lst):,} animal shelter{"s" if len(lst) != 1 else ""}, humane societies and SPCAs in {name}{(" including " + ", ".join(esc(c) for c in cities[:5])) if cities else ""}. Each links to its own adoptable dogs and cats.</p>
 {f'<h2>Upcoming adoption events in {name}</h2><ul class="evlist">{ev_html}</ul>' if ev_html else ""}
 <h2>Shelters</h2>
-{('<ul class="slist">' + "".join(shelter_li(r, False) for r in lst) + "</ul>") if lst else f'<p>We don\'t have shelters listed in {name} yet. <a href="{SDO}/suggest/">Suggest one</a>.</p>'}
+{state_search(s, name) if lst else ""}
+{('<ul class="slist" id="res">' + "".join(shelter_li(r, False) for r in lst) + "</ul>") if lst else f'<p>We don\'t have shelters listed in {name} yet. <a href="{SDO}/suggest/">Suggest one</a>.</p>'}
 {f'<p class="animal" style="margin-top:14px">{len(progs)} of these shelters let you take a dog out for the day before adopting. <a href="{SDO}/states/{slugify(name)}/" rel="noopener">See dog day out programs in {name}</a>.</p>' if progs else ""}
 <img class="paws" src="/assets/art/paws.svg" alt="" width="600" height="40">
 <h2>Questions about adopting in {name}</h2>
 {sfaq_html}
 <p class="citylinks"><a href="/puppy-adoption/#{s}">Puppy adoption in {name}</a> <a href="/kitten-adoption/#{s}">Kitten adoption in {name}</a> <a href="/humane-society-near-me/#{s}">Humane societies in {name}</a> <a href="/animal-control-near-me/#{s}">Animal control in {name}</a></p>
-<div class="note">Shelters update their adoptable animals daily on their own websites. Confirm hours and requirements with the shelter before you visit.</div>"""
+<div class="note">Shelters update their adoptable animals daily on their own websites. Confirm hours and requirements with the shelter before you visit.</div>
+{(sdo.NEAR_JS + SEARCH_JS) if lst else ""}"""
         write(path, page(f"Animal Shelters & Humane Societies in {name}: Adopt a Dog, Puppy or Cat | {BRAND}",
             f"Adopt a dog, puppy, cat or kitten in {name}: {len(lst):,} animal shelters, humane societies and SPCAs{(' in ' + ', '.join(cities[:4]) + ' and more') if cities else ''}, plus upcoming adoption events.",
             body, path, crumbs_ld([("Home", "/"), (name, path)]) + sfaq_ld + (f'<script type="application/ld+json">{ilist}</script>' if lst else "")))

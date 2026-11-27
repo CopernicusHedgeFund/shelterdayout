@@ -441,12 +441,13 @@ FILTER_JS = """<script>
 </script>"""
 
 
-def filters(with_state=True, states_present=()):
+def filters(with_state=True, states_present=(), state_code=""):
     state_sel = ""
     if with_state:
         opts = "".join(f'<option value="{k}">{v}</option>' for k, v in STATES.items() if k in states_present)
         state_sel = f'<div><label for="f-state">State</label><select id="f-state" name="state"><option value="">All states</option>{opts}</select></div>'
-    search_box = '<div style="flex:1"><label for="q">City, shelter or program</label><input type="text" id="q" name="q" enterkeyhint="search" placeholder="e.g. Austin, Pasadena Humane, sleepover"></div>' if with_state else ""
+    search_box = ('<div style="flex:1"><label for="q">City, shelter or program</label><input type="text" id="q" name="q" enterkeyhint="search" placeholder="e.g. Austin, Pasadena Humane, sleepover"></div>' if with_state
+                  else f'<div style="flex:1"><label for="q">City or shelter</label><input type="text" id="q" name="q" enterkeyhint="search" placeholder="Type a city or shelter name"></div>' + (f'<input type="hidden" id="f-state" value="{state_code}">' if state_code else ""))
     return f"""<form class="search" id="sform" action="" method="get" role="search">
 <div class="row">
 {search_box}
@@ -615,7 +616,7 @@ def build_states(rows):
         body = f"""<div class="crumbs"><a href="/">Home</a> / {name}</div>
 <h1>Take a shelter dog out for the day in {name}</h1>
 <p class="lede">Want to rent or borrow a dog in {name}? These shelters let you take an adoptable dog on a day trip, hike or sleepover for free. {len(lst)} shelter programs in {name}, {open_n} of them open to the public. Cities include {esc(', '.join(cities[:8]))}{'' if len(cities) <= 8 else ' and more'}.</p>
-{filters(False)}
+{filters(False, state_code=s)}
 {table(lst, show_state=False)}
 <p class="animal" style="margin-top:12px">Don't see your shelter? <a href="/suggest/">Suggest one</a>. Shelter staff can <a href="/for-shelters/">claim a listing</a>.</p>
 {np_html}
