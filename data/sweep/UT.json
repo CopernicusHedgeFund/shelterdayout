@@ -105,7 +105,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal@westjordan.utah.gov",
-  "phone": "",
+  "phone": "(801) 282-3951",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/2484178635"
  },
@@ -147,16 +147,16 @@
   "state": "UT",
   "city": "Fruit Heights",
   "org": "Animal Care of Davis County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.daviscountyutah.gov/animalcare/adoption-information",
-  "notes": "",
+  "program": "Sniffabout & Weekend Wag",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Outings, weekend fosters",
+  "url": "https://www.daviscountyutah.gov/animalcare/foster",
+  "notes": "The foster page offers two short-term 'test drive' options, Sniffabout and Weekend Wag, that need no commitment, application or appointment, with details in PDFs linked from that page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-801-444-2200",
+  "phone": "(801) 444-2200",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14191852601"
  },
@@ -173,7 +173,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(801) 785-3442",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/32920057"
  },
@@ -248,7 +248,8 @@
    {
     "date": "2026-12-19",
     "title": "Holiday Open House",
-    "url": "https://bestfriends.org/salt-lake-city/events"
+    "url": "https://bestfriends.org/salt-lake-city/events",
+    "place": "Best Friends Pet Adoption Center, Salt Lake City"
    }
   ]
  },
@@ -260,12 +261,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.enochcityut.gov/animal-control.html",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(435) 590-0104",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/478779342"
  },
@@ -311,7 +312,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://ivinsutah.gov/document-category/animal-shelter-control/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -402,7 +403,7 @@
   "email_program": "",
   "email_main": "animalservices@draperutah.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(801) 576-6344"
  },
  {
   "state": "UT",
@@ -434,7 +435,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(435) 623-0822"
  },
  {
   "state": "UT",
@@ -448,7 +449,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalservices@sslc.gov",
   "source_list": "shelter website",
   "phone": "(801) 483-6024"
  },
@@ -523,12 +524,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.royutah.gov/departments/police_/animal_services/index.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(801) 774-1000"
  },
  {
   "state": "UT",
@@ -538,27 +540,29 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.tooelecity.gov/services/animal_shelter/adoptions.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "animalshelter@tooelecity.gov",
+  "source_list": "shelter website",
+  "phone": "(435) 882-4607"
  },
  {
   "state": "UT",
   "city": "Heber City",
-  "org": "Wasatch County Animal Services",
+  "org": "Heber Valley Animal Shelter",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.wasatchsheriff.gov/animalshelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(435) 654-5727"
  },
  {
   "state": "UT",
@@ -568,12 +572,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://summitcountyutah.gov/354/Animal-Control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "animalcontrol@summitcountyutah.gov",
+  "source_list": "shelter website",
+  "phone": "(435) 336-3985"
  },
  {
   "state": "UT",
@@ -583,8 +588,8 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.bcutah.org/brigham-city-animal-control.htm",
-  "phone": "",
+  "url": "https://bcutah.gov/o/brighamcity/page/animal-control",
+  "phone": "(435) 723-1231",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -600,7 +605,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://uintah-shelter.edan.io/",
-  "phone": "",
+  "phone": "(435) 781-7297",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -616,11 +621,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cedarcity.org/animalservices",
-  "phone": "",
+  "phone": "(435) 586-2960",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ccanimalshelter@cedarcityut.gov",
   "source_list": "shelter website"
  },
  {
@@ -632,7 +637,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.moabcity.gov/155/Animal-Shelter",
-  "phone": "",
+  "phone": "(435) 259-0199",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -648,11 +653,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.rooseveltcity.gov/150/Animal-Shelter",
-  "phone": "",
+  "phone": "(435) 725-3649",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@rooseveltcity.com",
   "source_list": "shelter website"
  },
  {
@@ -663,12 +668,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.fillmorecity.org/animalcontrol.html",
-  "phone": "",
+  "url": "https://fillmoreutah.gov/pages/animal-control",
+  "phone": "(435) 743-5233",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "clerk@fillmoreutah.gov",
   "source_list": "shelter website"
  },
  {
@@ -680,7 +685,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.beaver.utah.gov/407/Animal-Control",
-  "phone": "",
+  "phone": "(435) 438-6435",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -696,11 +701,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.nuzzlesandco.org/",
-  "phone": "",
+  "phone": "(435) 608-1424",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "contact@nuzzlesandco.org",
   "source_list": "shelter website"
  }
 ]
