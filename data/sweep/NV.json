@@ -523,5 +523,22 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "NV",
+  "city": "Virginia City",
+  "org": "Storey County Animal Control (Sheriff's Office kennels)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://storeycounty.org/314/Animal-Control",
+  "notes": "The Sheriff's Office keeps animals in kennels at 911 State Route 341 until the owner is found or a suitable home can be found.",
+  "checked": "November 2026",
+  "phone": "(775) 847-0959",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "government page",
+  "events": []
  }
 ]
