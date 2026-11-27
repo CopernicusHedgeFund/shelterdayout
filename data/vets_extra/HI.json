@@ -88,5 +88,20 @@
   "lon": null,
   "src": "https://vcahospitals.com/university-hi/hospital",
   "checked": "November 2026"
+ },
+ {
+  "state": "HI",
+  "name": "Vetco Total Care Animal Hospital - Kaneohe",
+  "city": "Kaneohe",
+  "street": "46-023 Kamehameha Hwy",
+  "zip": "96744",
+  "phone": "(808) 466-6950",
+  "website": "https://stores.petco.com/hi/kaneohe/vet-hospital-kaneohe-hi-1182.html",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://stores.petco.com/hi/kaneohe/vet-hospital-kaneohe-hi-1182.html",
+  "checked": "November 2026"
  }
 ]

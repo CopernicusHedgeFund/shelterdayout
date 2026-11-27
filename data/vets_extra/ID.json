@@ -28,5 +28,35 @@
   "lon": null,
   "src": "https://vcahospitals.com/find-a-hospital/location-directory",
   "checked": "November 2026"
+ },
+ {
+  "state": "ID",
+  "name": "Banfield Pet Hospital - Meridian",
+  "city": "Meridian",
+  "street": "1220 N Eagle Rd",
+  "zip": "83642",
+  "phone": "(208) 898-8823",
+  "website": "https://www.banfield.com/locations/veterinarians/id/meridian/mer",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.banfield.com/locations/hospitals-by-state",
+  "checked": "November 2026"
+ },
+ {
+  "state": "ID",
+  "name": "Banfield Pet Hospital - Boise",
+  "city": "Boise",
+  "street": "130 N Milwaukie St",
+  "zip": "83704",
+  "phone": "(208) 321-2621",
+  "website": "https://www.banfield.com/locations/veterinarians/id/boise/boi",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.banfield.com/locations/hospitals-by-state",
+  "checked": "November 2026"
  }
 ]
