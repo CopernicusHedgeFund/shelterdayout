@@ -10,6 +10,11 @@ Follow every rule, data permission and save step in tools/sweep_round5.md, with 
 - Your trigger message names your SCOPE (states, sometimes a city letter range). For a city range, add or edit only
   entries whose "city" starts with a letter in that range.
 
+## IMPORTANT: no helper agents
+Do ALL the work yourself in this one session. Do NOT use the Agent/Task tool or start subagents, background agents or
+parallel workers: their web fetches ask Ward for approval on his phone, one prompt per website. Use WebFetch and
+WebSearch directly from this session only.
+
 ## Pass B (deeper than round 5): find shelters still missing
 1. Build the list of every county in your scope (use the state's government county list) and every city over 5,000 people.
    Mark which already have an entry (match on city and county seat).

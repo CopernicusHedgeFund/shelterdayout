@@ -9,6 +9,7 @@ This is the last big national pass and the foundation for both sites, so be thor
 SCOPE (states, sometimes a city range). Work in the cloud without asking questions.
 
 ## Rules for this run
+- No helper agents: do all work in this one session; never use the Agent/Task tool or subagents (their web fetches ask Ward for approval on his phone).
 - Finish inside this one session. Do NOT schedule any follow-up or continuation tasks (no send_later, no create_trigger).
 - Pace web requests (other runs share the limits): on an error or 429, wait 2 minutes and retry; after 5 failures in a row, save what you have and stop.
 - Never send email.

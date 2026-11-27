@@ -1,5 +1,7 @@
 # Vet sweep (instructions for one cloud run)
 
+**No helper agents:** do all work in this one session; never use the Agent/Task tool or subagents (their web fetches ask Ward for approval).
+
 ShelterDayOut.com and ShelterAdoption.com (free directories run by Charity Good for Philip "Ward" McKinley III) both have a
 "Find a vet" section. It lists 9,587 clinics from OpenStreetMap, but the US has roughly three times that many. Your job: add
 every missing veterinary clinic in your SCOPE (named in your trigger message). Work in the cloud without asking questions.
