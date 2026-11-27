@@ -20,6 +20,7 @@ https://shelteradoption.com/questions-to-ask-before-adopting/
 https://shelteradoption.com/rescue-dogs-near-me/
 https://shelteradoption.com/terms/
 https://shelteradoption.com/cities/aberdeen-wa/
+https://shelteradoption.com/cities/agoura-hills-ca/
 https://shelteradoption.com/cities/aiken-sc/
 https://shelteradoption.com/cities/akron-oh/
 https://shelteradoption.com/cities/alameda-ca/
@@ -188,6 +189,7 @@ https://shelteradoption.com/cities/gonzales-tx/
 https://shelteradoption.com/cities/grand-rapids-mi/
 https://shelteradoption.com/cities/granite-city-il/
 https://shelteradoption.com/cities/grants-pass-or/
+https://shelteradoption.com/cities/grass-valley-ca/
 https://shelteradoption.com/cities/great-falls-mt/
 https://shelteradoption.com/cities/green-bay-wi/
 https://shelteradoption.com/cities/greenfield-in/
@@ -1084,6 +1086,7 @@ https://shelteradoption.com/shelters/cameron-animal-shelter-city-of-cameron-anim
 https://shelteradoption.com/shelters/cameron-county-animal-shelter-san-benito/
 https://shelteradoption.com/shelters/cameron-county-spca-emporium/
 https://shelteradoption.com/shelters/camp-papillon-pet-adoption-and-rescue-stroudsburg/
+https://shelteradoption.com/shelters/camp-pendleton-animal-shelter-mcb-camp-pendleton-camp-pendleton/
 https://shelteradoption.com/shelters/campbell-county-animal-care-and-control-facility-rustburg/
 https://shelteradoption.com/shelters/campbell-county-animal-services-melbourne/
 https://shelteradoption.com/shelters/candy-s-cats-inc-apopka/
@@ -1631,6 +1634,7 @@ https://shelteradoption.com/shelters/eastern-pa-animal-alliance-brodheadsville/
 https://shelteradoption.com/shelters/eastern-shore-regional-animal-control-facility-melfa/
 https://shelteradoption.com/shelters/eastshore-humane-association-chilton/
 https://shelteradoption.com/shelters/eastside-pacc-adoption-center-epac-tucson/
+https://shelteradoption.com/shelters/eastwood-ranch-foundation-rescue-and-adoption-center-the-ranch-agoura-hills/
 https://shelteradoption.com/shelters/easy-s-dog-shelter-tracy-city/
 https://shelteradoption.com/shelters/eaton-county-animal-control-charlotte/
 https://shelteradoption.com/shelters/eau-claire-community-humane-association-eau-claire/
@@ -1711,6 +1715,7 @@ https://shelteradoption.com/shelters/fannin-county-animal-control-blue-ridge/
 https://shelteradoption.com/shelters/farmers-branch-animal-adoption-center-farmers-branch/
 https://shelteradoption.com/shelters/farmington-pet-adoption-center-farmington/
 https://shelteradoption.com/shelters/farmington-regional-animal-shelter-farmington/
+https://shelteradoption.com/shelters/fat-kitty-city-humane-society-el-dorado-hills/
 https://shelteradoption.com/shelters/father-john-s-animal-house-lafayette/
 https://shelteradoption.com/shelters/faulkner-county-animal-shelter-greenbrier/
 https://shelteradoption.com/shelters/fauquier-spca-casanova/
@@ -1731,6 +1736,7 @@ https://shelteradoption.com/shelters/feline-friends-olympia/
 https://shelteradoption.com/shelters/feline-rescue-inc-saint-paul/
 https://shelteradoption.com/shelters/felines-and-canines-chicago/
 https://shelteradoption.com/shelters/felius-cat-cafe-and-rescue-omaha/
+https://shelteradoption.com/shelters/fieldhaven-feline-center-lincoln/
 https://shelteradoption.com/shelters/fillmore-city-animal-control-fillmore/
 https://shelteradoption.com/shelters/finding-furever-friends-formerly-humane-society-of-independence-county-batesville/
 https://shelteradoption.com/shelters/finger-lakes-spca-bath-bath/
@@ -1913,6 +1919,7 @@ https://shelteradoption.com/shelters/grant-county-humane-society-lancaster/
 https://shelteradoption.com/shelters/grant-parish-sheriff-s-office-animal-care-and-control-colfax/
 https://shelteradoption.com/shelters/granville-county-animal-shelter-oxford/
 https://shelteradoption.com/shelters/grapevine-animal-services-grapevine/
+https://shelteradoption.com/shelters/grass-valley-animal-shelter-city-of-grass-valley-animal-control-grass-valley/
 https://shelteradoption.com/shelters/grateful-doggies-rescue-retreat-middletown/
 https://shelteradoption.com/shelters/gratiot-county-animal-control-ithaca/
 https://shelteradoption.com/shelters/great-lakes-dog-rescue-metamora/
@@ -2494,6 +2501,7 @@ https://shelteradoption.com/shelters/josephine-county-animal-shelter-grants-pass
 https://shelteradoption.com/shelters/joshua-tree-no-kill-animal-shelter-joshua-tree/
 https://shelteradoption.com/shelters/journey-home-animal-care-center-formerly-rifle-animal-shelter-rifle/
 https://shelteradoption.com/shelters/joybound-people-and-pets-walnut-creek/
+https://shelteradoption.com/shelters/joybound-thrift-store-cat-lounge-and-adoption-center-concord/
 https://shelteradoption.com/shelters/julia-s-jungle-spokane-valley/
 https://shelteradoption.com/shelters/junction-city-geary-county-animal-shelter-junction-city/
 https://shelteradoption.com/shelters/juneau-animal-rescue-juneau/
@@ -3496,6 +3504,8 @@ https://shelteradoption.com/shelters/precious-paws-humane-society-of-chisholm-ch
 https://shelteradoption.com/shelters/precious-paws-rescue-north-tonawanda/
 https://shelteradoption.com/shelters/preston-county-animal-shelter-kingwood/
 https://shelteradoption.com/shelters/priceless-pet-rescue-costa-mesa-costa-mesa/
+https://shelteradoption.com/shelters/priceless-pet-rescue-the-orphanage-chino-hills-chino-hills/
+https://shelteradoption.com/shelters/priceless-pet-rescue-the-orphanage-city-of-industry-city-of-industry/
 https://shelteradoption.com/shelters/priest-river-animal-rescue-priest-river/
 https://shelteradoption.com/shelters/prince-edward-county-animal-control-farmville/
 https://shelteradoption.com/shelters/prince-george-county-animal-services-and-adoption-center-disputanta/
