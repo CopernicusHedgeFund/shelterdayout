@@ -421,5 +421,21 @@
   "email_main": "westoncopaws@gmail.com",
   "source_list": "shelter website",
   "url_social": "https://www.adoptapet.com/shelter/275068"
+ },
+ {
+  "state": "WY",
+  "city": "Powell",
+  "org": "Powell Animal Shelter (City of Powell)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cityofpowell.com/resources/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]
