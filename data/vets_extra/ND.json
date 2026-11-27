@@ -223,5 +223,20 @@
   "lon": null,
   "src": "https://www.dakotaveterinaryhospital.com/contact-us.html",
   "checked": "November 2026"
+ },
+ {
+  "state": "ND",
+  "name": "Minn-Kota PAAWS Spay/Neuter Clinic",
+  "city": "Fargo",
+  "street": "1517 32nd Avenue",
+  "zip": "58103",
+  "phone": "(701) 356-0523",
+  "website": "https://minnkotapaaws.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://minnkotapaaws.org/",
+  "checked": "November 2026"
  }
 ]

@@ -553,5 +553,35 @@
   "lon": null,
   "src": "https://strohbehnvetclinic.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "IA",
+  "name": "Iowa Humane Alliance Regional Spay/Neuter Clinic",
+  "city": "Cedar Rapids",
+  "street": "6540 6th St SW",
+  "zip": "52404",
+  "phone": "(319) 363-1225",
+  "website": "https://iowahumanealliance.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://iowahumanealliance.org/contact-us",
+  "checked": "November 2026"
+ },
+ {
+  "state": "IA",
+  "name": "ARL Afford-a-Care East",
+  "city": "Des Moines",
+  "street": "1258 E 14th St",
+  "zip": "",
+  "phone": "(515) 263-9260",
+  "website": "https://arl-affordacare.com/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://arl-affordacare.com/new-home/locations/",
+  "checked": "November 2026"
  }
 ]

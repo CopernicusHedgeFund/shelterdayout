@@ -778,5 +778,50 @@
   "lon": null,
   "src": "https://archanimalhospitalwest.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "MO",
+  "name": "APA Wellness Clinic",
+  "city": "Brentwood",
+  "street": "1705 S Hanley Rd.",
+  "zip": "63144",
+  "phone": "(314) 645-4611",
+  "website": "https://apamo.org/wellness/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://apamo.org/wellness/pet-partners/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "MO",
+  "name": "St. Louis Animal Emergency Clinic",
+  "city": "Kirkwood",
+  "street": "9937 Big Bend Road",
+  "zip": "63122",
+  "phone": "(314) 822-7600",
+  "website": "https://www.stlouisanimalemergencyclinic.org/",
+  "emergency": "yes",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.stlouisanimalemergencyclinic.org/site/contact-animal-hospital-st-louis-vet",
+  "checked": "November 2026"
+ },
+ {
+  "state": "MO",
+  "name": "Emergency Veterinary Clinic of SW Missouri",
+  "city": "Springfield",
+  "street": "400 S. Glenstone",
+  "zip": "65802",
+  "phone": "(417) 890-1600",
+  "website": "https://evcspringfield.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://evcspringfield.com/",
+  "checked": "November 2026"
  }
 ]
