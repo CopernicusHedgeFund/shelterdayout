@@ -1,22 +1,6 @@
 [
  {
   "state": "CA",
-  "city": "Acton",
-  "org": "D.E.L.T.A. Rescue Super Sanctuary",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://deltarescue.org/super-sanctuary/",
-  "notes": "program and details need a follow-up check.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(661) 269-4010"
- },
- {
-  "state": "CA",
   "city": "Agoura Hills",
   "org": "LA County DACC - Agoura Animal Care Center",
   "program": "No day-out program yet",
@@ -34,15 +18,15 @@
   "state": "CA",
   "city": "Alameda",
   "org": "Alameda Animal Shelter (Friends of the Alameda Animal Shelter)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.alamedaanimalshelter.org/",
-  "notes": "",
+  "program": "Spa Days / Long Weekend foster",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day outings, weekend sleepovers",
+  "url": "https://www.alamedaanimalshelter.org/volunteer/foster/",
+  "notes": "Registered FAAS fosters (watch the orientation video and complete the Foster Registration Form) can take a shelter dog out for a spa day or home for a long weekend.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@alamedaanimalshelter.org",
   "source_list": "shelter website",
   "phone": "(510) 337-8565"
  },
@@ -58,7 +42,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@icraeastbay.org",
   "source_list": "shelter website",
   "phone": "(510) 869-2584"
  },
@@ -151,7 +135,7 @@
   "url": "https://www.placer.ca.gov/fosterpets",
   "notes": "Ages 18+. No online booking: fill out a short application at the front counter during kennel hours (Mon-Sat 10am-4:30pm). Trips must stay within Placer County and dogs return by 4:30pm.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "doggydayout@placer.ca.gov",
   "email_main": "",
   "source_list": "shelter website"
  },
@@ -183,7 +167,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "baldwinpark@animalcare.lacounty.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(626) 962-3577"
  },
  {
   "state": "CA",
@@ -213,7 +198,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalservices@berkeleyca.gov",
   "source_list": "shelter website",
   "phone": "(510) 981-6600"
  },
@@ -226,7 +211,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://berkeleyhumane.org/",
-  "notes": "",
+  "notes": "Adoption Center at 2700 Ninth St. is closed for construction of the new BAARC; adoptions run by appointment, at its thrift shops and at Pet Food Express North Oakland.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -247,7 +232,15 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart Charities Adoption Event",
+    "url": "https://animalcare.sbcounty.gov/event/petsmart-charities-adoption-event-8/",
+    "place": "PetSmart, Fontana"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -278,7 +271,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(760) 921-7857"
  },
  {
   "state": "CA",
@@ -304,7 +298,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.burbankanimalshelter.org/",
+  "url": "https://www.burbankca.gov/web/parks-recreation/burbank-animal-shelter-homepage",
   "notes": "program and details need a follow-up check.",
   "checked": "November 2026",
   "email_program": "",
@@ -326,7 +320,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(650) 340-7022"
+  "phone": "(650) 340-7022",
+  "events": []
  },
  {
   "state": "CA",
@@ -337,12 +332,13 @@
   "animals": "Cats",
   "offers": "Visit",
   "url": "https://www.purrmaidcatcafe.com/",
-  "notes": "Visit the adoptable cats by reservation, Wednesday to Sunday 11am-5pm.",
+  "notes": "Visit the adoptable cats Wednesday to Sunday 11am-5pm for $6 per person per half hour; call ahead since walk-ins are not guaranteed a spot.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "purrmaidcatcafe@gmail.com",
   "source_list": "shelter website",
-  "phone": "(805) 419-6116"
+  "phone": "(805) 419-6116",
+  "events": []
  },
  {
   "state": "CA",
@@ -358,7 +354,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(805) 388-4341"
+  "phone": "(805) 388-4341",
+  "events": []
  },
  {
   "state": "CA",
@@ -368,12 +365,14 @@
   "status": "Needs check",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.sandiegocounty.gov/content/sdc/das/shelter-locations.html",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "url": "https://www.sandiegocounty.gov/content/sdc/das/adopt/Foster.html",
+  "notes": "County site says Dog Day Out runs only from the Bonita shelter, which closed October 14, 2026, so it is not offered at the North (Carlsbad) shelter and its current status needs confirming.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "DAS_Placement@sdcounty.ca.gov",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(619) 767-2675"
  },
  {
   "state": "CA",
@@ -388,7 +387,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "castaic@animalcare.lacounty.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CA",
@@ -404,7 +404,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(888) 452-7381"
+  "phone": "(888) 452-7381",
+  "events": []
  },
  {
   "state": "CA",
@@ -415,12 +416,13 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://buttehumane.org/volunteer-2/",
-  "notes": "13391 Garner Ln. Adoption center plus vet clinic; no outing or sleepover program listed.",
+  "notes": "Volunteers take a dog for a day away from the shelter after scheduling a mentor walk with the Volunteer & Intern Coordinator.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@buttehumane.org",
   "source_list": "shelter website",
-  "phone": "(530) 343-7917"
+  "phone": "(530) 343-7917",
+  "events": []
  },
  {
   "state": "CA",
@@ -436,7 +438,8 @@
   "email_program": "",
   "email_main": "chicoanimalshelter@yahoo.com",
   "source_list": "shelter website",
-  "phone": "(530) 894-5630"
+  "phone": "(530) 894-5630",
+  "events": []
  },
  {
   "state": "CA",
@@ -450,8 +453,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "animalcare@chulavistaca.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CA",
@@ -466,7 +470,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(530) 458-0168"
  },
  {
   "state": "CA",
@@ -481,7 +487,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(951) 279-3618"
  },
  {
   "state": "CA",
@@ -495,7 +502,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@pricelesspetrescue.org",
   "source_list": "shelter website",
   "phone": "(909) 203-3695"
  },
@@ -521,7 +528,7 @@
     "place": "Fontana PetSmart, 15042 Summit Ave., Fontana"
    }
   ],
-  "phone": ""
+  "phone": "(800) 472-5609"
  },
  {
   "state": "CA",
@@ -563,7 +570,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.seaaca.org/",
-  "notes": "program and details need a follow-up check.",
+  "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -574,16 +581,26 @@
   "state": "CA",
   "city": "Dublin",
   "org": "East Bay SPCA – Tri-Valley Adoption Center",
-  "program": "Field Trips",
-  "status": "Needs check",
+  "program": "Dog Field Trips and Dog Sleepovers",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://eastbayspca.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Day trips, sleepovers",
+  "url": "https://eastbayspca.org/how-to-help/become-volunteer-foster/foster",
+  "notes": "Registered East Bay SPCA fosters can take a dog out on a field trip in an \"Adopt Me\" bandanna or host a dog for a sleepover to give it a break from the shelter.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "foster@eastbayspca.org",
+  "email_main": "customercare@eastbayspca.org",
+  "source_list": "shelter website",
+  "phone": "(925) 479-9670",
+  "events": [
+   {
+    "date": "2026-11-25",
+    "end": "2026-11-29",
+    "title": "Fall In Love: Waived Adoption Fees for Pets 6 Months+",
+    "url": "https://eastbayspca.org/about/events/fall-in-love-waived-adoption-fees-for-pets-6-months",
+    "place": "Dublin Adoption Center, 4651 Gleason Drive, Dublin (also Oakland)"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -629,9 +646,65 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "hello@imperialcountyhumane.org",
   "source_list": "shelter website",
-  "phone": "(760) 352-1911"
+  "phone": "(760) 352-1911",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "PetSmart Adoption Event (cats and kittens)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "PetSmart, 2180 N. Imperial Ave, El Centro"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Petco Adoption Event (dogs and puppies)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "Petco, 532 E. Danenberg Dr., El Centro"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "El Centro Christmas Parade and Festival (dog and puppy adoptions)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "Downtown El Centro / Bucklin Park"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Petco Adoption Event (cats and kittens)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "Petco, 532 E. Danenberg Dr., El Centro"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Christmas in a Small Town adoption event (dogs and puppies)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "Downtown Imperial"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "PetSmart Adoption Event (cats and kittens)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "PetSmart, 2180 N. Imperial Ave, El Centro"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Border Tactical Adoption Event",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "Border Tactical, 925 N. Imperial Ave, El Centro"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "Petco Adoption Event (cats and kittens)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "Petco, 532 E. Danenberg Dr., El Centro"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "PetSmart Adoption Event (dogs and puppies)",
+    "url": "https://www.imperialcountyhumane.org/upcoming-events",
+    "place": "PetSmart, 2180 N. Imperial Ave, El Centro"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -676,7 +749,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@rchumanesociety.org",
   "source_list": "shelter website",
   "phone": "(760) 753-6413"
  },
@@ -704,27 +777,29 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://solanocounty.com/depts/sheriff/animalcare/gi.asp",
+  "url": "https://www.solanocounty.gov/government/sheriff-coroner/animal-care-services/general-information",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(707) 784-1356"
  },
  {
   "state": "CA",
   "city": "Fort Bragg",
   "org": "Mendocino Coast Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.mendocinohumane.org/",
-  "notes": "needs official URL.",
+  "program": "Borrow-A-Buddy",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day outings",
+  "url": "https://www.mendocinohumane.org/borrow-a-buddy",
+  "notes": "Visitors and locals apply online in advance, then pick up a staff-matched shelter dog with a leash, supplies and an Adopt Me vest for a local outing and report back with photos afterward.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(707) 964-7729"
  },
  {
   "state": "CA",
@@ -740,22 +815,6 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
- },
- {
-  "state": "CA",
-  "city": "Fresno",
-  "org": "Animal Rescue of Fresno",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://fresnotnr.org/",
-  "notes": "The URL points to a TNR group; check whether it has an adoption facility open to the public, and drop it if not.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(559) 248-1744"
  },
  {
   "state": "CA",
@@ -800,9 +859,10 @@
   "notes": "confirm it has a public facility.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "coldnosesrescuesb@gmail.com",
   "source_list": "shelter website",
-  "phone": "(805) 964-2446"
+  "phone": "(805) 964-2446",
+  "events": []
  },
  {
   "state": "CA",
@@ -818,7 +878,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(530) 471-5041"
+  "phone": "(530) 471-5041",
+  "events": []
  },
  {
   "state": "CA",
@@ -834,7 +895,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(530) 846-4825",
+  "events": []
  },
  {
   "state": "CA",
@@ -850,7 +912,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(323) 730-5300"
+  "phone": "(323) 730-5300",
+  "events": []
  },
  {
   "state": "CA",
@@ -864,9 +927,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animal.services@Hayward-ca.gov",
   "source_list": "shelter website",
-  "phone": "(510) 293-7200"
+  "phone": "(510) 293-7200",
+  "events": []
  },
  {
   "state": "CA",
@@ -881,7 +945,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(707) 431-3386"
  },
  {
   "state": "CA",
@@ -897,7 +963,22 @@
   "email_program": "",
   "email_main": "rescue@cityofhesperia.us",
   "source_list": "shelter website",
-  "phone": "(760) 947-1700"
+  "phone": "(760) 947-1700",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Thanksgiving Special: half-off adoption fees",
+    "url": "https://www.hesperiaca.gov/80/Animal-Services",
+    "place": "Hesperia Animal Shelter, 11011 Santa Fe Ave E, Hesperia"
+   },
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-23",
+    "title": "Fill the Firetruck Holiday Toy Drive: $10 adoption with a new toy donation",
+    "url": "https://www.hesperiaca.gov/80/Animal-Services",
+    "place": "Hesperia Animal Shelter, 11011 Santa Fe Ave E, Hesperia"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -913,7 +994,8 @@
   "email_program": "",
   "email_main": "shelter@hollister.ca.gov",
   "source_list": "shelter website",
-  "phone": "(831) 636-4320"
+  "phone": "(831) 636-4320",
+  "events": []
  },
  {
   "state": "CA",
@@ -929,7 +1011,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(714) 536-8480"
+  "phone": "(714) 536-8480",
+  "events": []
  },
  {
   "state": "CA",
@@ -945,7 +1028,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(951) 659-1122"
+  "phone": "(951) 659-1122",
+  "events": []
  },
  {
   "state": "CA",

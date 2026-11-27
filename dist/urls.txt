@@ -21,6 +21,7 @@ https://shelterdayout.com/cities/aberdeen-wa/
 https://shelterdayout.com/cities/ada-ok/
 https://shelterdayout.com/cities/adrian-mi/
 https://shelterdayout.com/cities/aiken-sc/
+https://shelterdayout.com/cities/alameda-ca/
 https://shelterdayout.com/cities/albany-ga/
 https://shelterdayout.com/cities/albany-or/
 https://shelterdayout.com/cities/albuquerque-nm/
@@ -180,6 +181,7 @@ https://shelterdayout.com/cities/fernandina-beach-fl/
 https://shelterdayout.com/cities/flagstaff-az/
 https://shelterdayout.com/cities/flushing-ny/
 https://shelterdayout.com/cities/forney-tx/
+https://shelterdayout.com/cities/fort-bragg-ca/
 https://shelterdayout.com/cities/fort-lauderdale-fl/
 https://shelterdayout.com/cities/fort-walton-beach-fl/
 https://shelterdayout.com/cities/fort-wayne-in/
@@ -762,7 +764,6 @@ https://shelterdayout.com/listings/animal-rescue-league-of-marshalltown-marshall
 https://shelterdayout.com/listings/animal-rescue-league-of-nh-bedford/
 https://shelterdayout.com/listings/animal-rescue-network-of-new-england-arnne-pelham/
 https://shelterdayout.com/listings/animal-rescue-of-carroll-carroll/
-https://shelterdayout.com/listings/animal-rescue-of-fresno-fresno/
 https://shelterdayout.com/listings/animal-rescue-project-kalamazoo/
 https://shelterdayout.com/listings/animal-rescue-rhode-island-peace-dale/
 https://shelterdayout.com/listings/animal-resource-center-cortland/
@@ -1562,7 +1563,6 @@ https://shelterdayout.com/listings/currituck-county-animal-services-and-control-
 https://shelterdayout.com/listings/cushing-animal-welfare-cushing/
 https://shelterdayout.com/listings/custer-county-friends-for-life-animal-society-clinton/
 https://shelterdayout.com/listings/cuyahoga-county-animal-shelter-valley-view/
-https://shelterdayout.com/listings/d-e-l-t-a-rescue-super-sanctuary-acton/
 https://shelterdayout.com/listings/daingerfield-animal-shelter-daingerfield/
 https://shelterdayout.com/listings/dakin-humane-society-springfield/
 https://shelterdayout.com/listings/dalhart-animal-control-shelter-dalhart/
