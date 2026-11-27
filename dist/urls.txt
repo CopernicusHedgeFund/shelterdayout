@@ -938,6 +938,7 @@ https://shelterdayout.com/listings/bond-county-animal-control-greenville/
 https://shelterdayout.com/listings/bonnie-l-hays-animal-shelter-washington-county-animal-services-hillsboro/
 https://shelterdayout.com/listings/boone-area-humane-society-boone/
 https://shelterdayout.com/listings/boone-county-animal-services-belvidere/
+https://shelterdayout.com/listings/boone-county-animal-shelter-madison/
 https://shelterdayout.com/listings/boonville-animal-control-and-shelter-boonville/
 https://shelterdayout.com/listings/borderland-humane-society-international-falls/
 https://shelterdayout.com/listings/bosley-s-place-smyrna/
@@ -1801,6 +1802,7 @@ https://shelterdayout.com/listings/gilchrist-county-animal-services-bell/
 https://shelterdayout.com/listings/giles-county-animal-shelter-pearisburg/
 https://shelterdayout.com/listings/giles-county-animal-shelter-pulaski/
 https://shelterdayout.com/listings/gilmer-county-animal-shelter-ellijay/
+https://shelterdayout.com/listings/gilmer-county-animal-shelter-glenville/
 https://shelterdayout.com/listings/glacial-lakes-humane-society-watertown/
 https://shelterdayout.com/listings/glades-county-animal-control-moore-haven/
 https://shelterdayout.com/listings/gladstone-animal-shelter-gladstone/
@@ -1910,6 +1912,7 @@ https://shelterdayout.com/listings/hamilton-county-animal-advocates-the-cat-hut-
 https://shelterdayout.com/listings/hamilton-county-sheriff-s-office-animal-control-jennings/
 https://shelterdayout.com/listings/hamilton-township-animal-shelter-and-adoption-center-hamilton/
 https://shelterdayout.com/listings/hammond-animal-control-hammond/
+https://shelterdayout.com/listings/hampshire-county-animal-shelter-augusta/
 https://shelterdayout.com/listings/hampton-county-animal-shelter-varnville/
 https://shelterdayout.com/listings/hancock-county-animal-shelter-hawesville/
 https://shelterdayout.com/listings/hancock-county-animal-shelter-kiln/
@@ -1933,6 +1936,7 @@ https://shelterdayout.com/listings/hardee-county-animal-control-wauchula/
 https://shelterdayout.com/listings/hardin-county-animal-services-savannah/
 https://shelterdayout.com/listings/hardin-county-animal-shelter-elizabethtown/
 https://shelterdayout.com/listings/hardin-county-dog-warden-kenton/
+https://shelterdayout.com/listings/hardy-county-dog-shelter-moorefield/
 https://shelterdayout.com/listings/harker-heights-pet-adoption-center-harker-heights/
 https://shelterdayout.com/listings/harlan-county-animal-shelter-harlan-county-friends-of-the-shelter-baxter/
 https://shelterdayout.com/listings/harlingen-animal-shelter-city-of-harlingen-animal-services-harlingen/
@@ -2627,6 +2631,7 @@ https://shelterdayout.com/listings/lodi-animal-services-lodi/
 https://shelterdayout.com/listings/logan-county-animal-control-lincoln/
 https://shelterdayout.com/listings/logan-county-animal-shelter-dog-warden-bellefontaine/
 https://shelterdayout.com/listings/logan-county-animal-shelter-russellville/
+https://shelterdayout.com/listings/logan-county-dog-pound-logan/
 https://shelterdayout.com/listings/logan-county-humane-society-russellville/
 https://shelterdayout.com/listings/logan-county-humane-society-sterling/
 https://shelterdayout.com/listings/lollypop-farm-humane-society-of-greater-rochester-fairport/
@@ -2831,6 +2836,7 @@ https://shelterdayout.com/listings/mineola-animal-shelter-mineola/
 https://shelterdayout.com/listings/mineral-county-animal-shelter-sheriff-s-animal-control-hawthorne/
 https://shelterdayout.com/listings/mineral-county-humane-society-keyser/
 https://shelterdayout.com/listings/mineral-wells-animal-shelter-mineral-wells/
+https://shelterdayout.com/listings/mingo-county-s-o-s-animal-shelter-williamson/
 https://shelterdayout.com/listings/minidoka-joint-powers-animal-shelter-rupert/
 https://shelterdayout.com/listings/minneapolis-animal-care-and-control-minneapolis/
 https://shelterdayout.com/listings/miss-winkles-pet-adoption-center-clovis-animal-services-clovis/

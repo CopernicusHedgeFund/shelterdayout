@@ -928,6 +928,7 @@ https://shelteradoption.com/shelters/bond-county-animal-control-greenville/
 https://shelteradoption.com/shelters/bonnie-l-hays-animal-shelter-washington-county-animal-services-hillsboro/
 https://shelteradoption.com/shelters/boone-area-humane-society-boone/
 https://shelteradoption.com/shelters/boone-county-animal-services-belvidere/
+https://shelteradoption.com/shelters/boone-county-animal-shelter-madison/
 https://shelteradoption.com/shelters/boonville-animal-control-and-shelter-boonville/
 https://shelteradoption.com/shelters/borderland-humane-society-international-falls/
 https://shelteradoption.com/shelters/bosley-s-place-smyrna/
@@ -1791,6 +1792,7 @@ https://shelteradoption.com/shelters/gilchrist-county-animal-services-bell/
 https://shelteradoption.com/shelters/giles-county-animal-shelter-pearisburg/
 https://shelteradoption.com/shelters/giles-county-animal-shelter-pulaski/
 https://shelteradoption.com/shelters/gilmer-county-animal-shelter-ellijay/
+https://shelteradoption.com/shelters/gilmer-county-animal-shelter-glenville/
 https://shelteradoption.com/shelters/glacial-lakes-humane-society-watertown/
 https://shelteradoption.com/shelters/glades-county-animal-control-moore-haven/
 https://shelteradoption.com/shelters/gladstone-animal-shelter-gladstone/
@@ -1900,6 +1902,7 @@ https://shelteradoption.com/shelters/hamilton-county-animal-advocates-the-cat-hu
 https://shelteradoption.com/shelters/hamilton-county-sheriff-s-office-animal-control-jennings/
 https://shelteradoption.com/shelters/hamilton-township-animal-shelter-and-adoption-center-hamilton/
 https://shelteradoption.com/shelters/hammond-animal-control-hammond/
+https://shelteradoption.com/shelters/hampshire-county-animal-shelter-augusta/
 https://shelteradoption.com/shelters/hampton-county-animal-shelter-varnville/
 https://shelteradoption.com/shelters/hancock-county-animal-shelter-hawesville/
 https://shelteradoption.com/shelters/hancock-county-animal-shelter-kiln/
@@ -1923,6 +1926,7 @@ https://shelteradoption.com/shelters/hardee-county-animal-control-wauchula/
 https://shelteradoption.com/shelters/hardin-county-animal-services-savannah/
 https://shelteradoption.com/shelters/hardin-county-animal-shelter-elizabethtown/
 https://shelteradoption.com/shelters/hardin-county-dog-warden-kenton/
+https://shelteradoption.com/shelters/hardy-county-dog-shelter-moorefield/
 https://shelteradoption.com/shelters/harker-heights-pet-adoption-center-harker-heights/
 https://shelteradoption.com/shelters/harlan-county-animal-shelter-harlan-county-friends-of-the-shelter-baxter/
 https://shelteradoption.com/shelters/harlingen-animal-shelter-city-of-harlingen-animal-services-harlingen/
@@ -2617,6 +2621,7 @@ https://shelteradoption.com/shelters/lodi-animal-services-lodi/
 https://shelteradoption.com/shelters/logan-county-animal-control-lincoln/
 https://shelteradoption.com/shelters/logan-county-animal-shelter-dog-warden-bellefontaine/
 https://shelteradoption.com/shelters/logan-county-animal-shelter-russellville/
+https://shelteradoption.com/shelters/logan-county-dog-pound-logan/
 https://shelteradoption.com/shelters/logan-county-humane-society-russellville/
 https://shelteradoption.com/shelters/logan-county-humane-society-sterling/
 https://shelteradoption.com/shelters/lollypop-farm-humane-society-of-greater-rochester-fairport/
@@ -2821,6 +2826,7 @@ https://shelteradoption.com/shelters/mineola-animal-shelter-mineola/
 https://shelteradoption.com/shelters/mineral-county-animal-shelter-sheriff-s-animal-control-hawthorne/
 https://shelteradoption.com/shelters/mineral-county-humane-society-keyser/
 https://shelteradoption.com/shelters/mineral-wells-animal-shelter-mineral-wells/
+https://shelteradoption.com/shelters/mingo-county-s-o-s-animal-shelter-williamson/
 https://shelteradoption.com/shelters/minidoka-joint-powers-animal-shelter-rupert/
 https://shelteradoption.com/shelters/minneapolis-animal-care-and-control-minneapolis/
 https://shelteradoption.com/shelters/miss-winkles-pet-adoption-center-clovis-animal-services-clovis/
