@@ -1783,8 +1783,8 @@ https://shelterdayout.com/listings/forever-paws-animal-shelter-fall-river/
 https://shelterdayout.com/listings/forget-me-not-animal-shelter-of-ferry-county-republic/
 https://shelterdayout.com/listings/forney-animal-shelter-forney/
 https://shelterdayout.com/listings/forrest-city-area-humane-society-forrest-city/
-https://shelterdayout.com/listings/forsyth-county-animal-shelter-cumming/
 https://shelterdayout.com/listings/forsyth-county-animal-shelter-winston-salem/
+https://shelterdayout.com/listings/forsyth-county-pet-resource-center-cumming/
 https://shelterdayout.com/listings/forsyth-humane-society-winston-salem/
 https://shelterdayout.com/listings/fort-bend-county-animal-services-rosenberg/
 https://shelterdayout.com/listings/fort-collins-cat-rescue-and-spay-neuter-clinic-fort-collins/
@@ -2069,7 +2069,7 @@ https://shelterdayout.com/listings/hazel-y-clark-patrick-county-public-animal-sh
 https://shelterdayout.com/listings/hazleton-animal-shelter-hazleton/
 https://shelterdayout.com/listings/headin-home-pet-rescue-holland/
 https://shelterdayout.com/listings/headwaters-animal-shelter-park-rapids/
-https://shelterdayout.com/listings/heard-county-animal-control-franklin/
+https://shelterdayout.com/listings/heard-county-animal-control-center-franklin/
 https://shelterdayout.com/listings/heart-of-idaho-animal-sanctuary-challis/
 https://shelterdayout.com/listings/heart-of-mn-animal-shelter-hutchinson/
 https://shelterdayout.com/listings/heart-of-montana-animal-shelter-and-canine-center-lewistown/
@@ -3285,7 +3285,6 @@ https://shelterdayout.com/listings/pampa-animal-services-pampa/
 https://shelterdayout.com/listings/panhandle-animal-welfare-society-paws-fort-walton-beach/
 https://shelterdayout.com/listings/panhandle-humane-society-terrytown/
 https://shelterdayout.com/listings/panora-p-e-t-s-panora/
-https://shelterdayout.com/listings/papayago-rescue-house-woodstock/
 https://shelterdayout.com/listings/paradise-animal-rescue-lapeer/
 https://shelterdayout.com/listings/paradise-animal-shelter-town-of-paradise-paradise/
 https://shelterdayout.com/listings/paragould-animal-shelter-city-dog-pound-paragould/
@@ -3904,7 +3903,7 @@ https://shelterdayout.com/listings/southern-tier-animal-control-elmira/
 https://shelterdayout.com/listings/southern-west-virginia-animal-league-princeton/
 https://shelterdayout.com/listings/southold-town-animal-shelter-north-fork-animal-welfare-league-peconic/
 https://shelterdayout.com/listings/southside-spca-meherrin/
-https://shelterdayout.com/listings/spalding-county-animal-shelter-griffin/
+https://shelterdayout.com/listings/spalding-county-animal-care-and-control-griffin/
 https://shelterdayout.com/listings/spar-saving-pets-at-risk-shawnee/
 https://shelterdayout.com/listings/spartanburg-county-pet-resource-center-spartanburg/
 https://shelterdayout.com/listings/spartanburg-humane-society-spartanburg/

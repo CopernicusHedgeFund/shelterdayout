@@ -1757,8 +1757,8 @@ https://shelteradoption.com/shelters/forever-paws-animal-shelter-fall-river/
 https://shelteradoption.com/shelters/forget-me-not-animal-shelter-of-ferry-county-republic/
 https://shelteradoption.com/shelters/forney-animal-shelter-forney/
 https://shelteradoption.com/shelters/forrest-city-area-humane-society-forrest-city/
-https://shelteradoption.com/shelters/forsyth-county-animal-shelter-cumming/
 https://shelteradoption.com/shelters/forsyth-county-animal-shelter-winston-salem/
+https://shelteradoption.com/shelters/forsyth-county-pet-resource-center-cumming/
 https://shelteradoption.com/shelters/forsyth-humane-society-winston-salem/
 https://shelteradoption.com/shelters/fort-bend-county-animal-services-rosenberg/
 https://shelteradoption.com/shelters/fort-collins-cat-rescue-and-spay-neuter-clinic-fort-collins/
@@ -2043,7 +2043,7 @@ https://shelteradoption.com/shelters/hazel-y-clark-patrick-county-public-animal-
 https://shelteradoption.com/shelters/hazleton-animal-shelter-hazleton/
 https://shelteradoption.com/shelters/headin-home-pet-rescue-holland/
 https://shelteradoption.com/shelters/headwaters-animal-shelter-park-rapids/
-https://shelteradoption.com/shelters/heard-county-animal-control-franklin/
+https://shelteradoption.com/shelters/heard-county-animal-control-center-franklin/
 https://shelteradoption.com/shelters/heart-of-idaho-animal-sanctuary-challis/
 https://shelteradoption.com/shelters/heart-of-mn-animal-shelter-hutchinson/
 https://shelteradoption.com/shelters/heart-of-montana-animal-shelter-and-canine-center-lewistown/
@@ -3259,7 +3259,6 @@ https://shelteradoption.com/shelters/pampa-animal-services-pampa/
 https://shelteradoption.com/shelters/panhandle-animal-welfare-society-paws-fort-walton-beach/
 https://shelteradoption.com/shelters/panhandle-humane-society-terrytown/
 https://shelteradoption.com/shelters/panora-p-e-t-s-panora/
-https://shelteradoption.com/shelters/papayago-rescue-house-woodstock/
 https://shelteradoption.com/shelters/paradise-animal-rescue-lapeer/
 https://shelteradoption.com/shelters/paradise-animal-shelter-town-of-paradise-paradise/
 https://shelteradoption.com/shelters/paragould-animal-shelter-city-dog-pound-paragould/
@@ -3878,7 +3877,7 @@ https://shelteradoption.com/shelters/southern-tier-animal-control-elmira/
 https://shelteradoption.com/shelters/southern-west-virginia-animal-league-princeton/
 https://shelteradoption.com/shelters/southold-town-animal-shelter-north-fork-animal-welfare-league-peconic/
 https://shelteradoption.com/shelters/southside-spca-meherrin/
-https://shelteradoption.com/shelters/spalding-county-animal-shelter-griffin/
+https://shelteradoption.com/shelters/spalding-county-animal-care-and-control-griffin/
 https://shelteradoption.com/shelters/spar-saving-pets-at-risk-shawnee/
 https://shelteradoption.com/shelters/spartanburg-county-pet-resource-center-spartanburg/
 https://shelteradoption.com/shelters/spartanburg-humane-society-spartanburg/

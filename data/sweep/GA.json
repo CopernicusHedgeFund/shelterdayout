@@ -7,13 +7,13 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip, weekend, longer stays",
-  "url": "https://www.carrollcountyga.gov/709/Come-Over-Rover",
+  "url": "https://carrollcountyga.gov/709/Come-Over-Rover",
   "notes": "Carroll County's Dog Day Out program. Pickup Mon-Fri 9am-3pm and Sat 9am-2pm; day outings return by 3pm weekdays / 2pm Saturdays, extensions by calling the shelter, and weekend trips and longer stays are encouraged. Download and bring the signed Come Over Rover release waiver.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(770) 214-3590"
  },
  {
   "state": "GA",
@@ -28,7 +28,106 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lifelineanimal.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-12-07",
+    "title": "Black Furday - Free Pet Adoptions",
+    "url": "https://lifelineanimal.org/lifeline-events/black-furday-free-pet-adoptions/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2026-12-04",
+    "title": "Free Dog Friday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/free-dog-fridays-at-lifeline-animal-project/2026-12-04/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Leashes & Lattes Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/leashes-lattes-2025-2026-12-05/",
+    "place": "Taproom Coffee, 1963 Hosea L Williams Dr SE, Atlanta"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Petco Edgewood Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/petco-edgewood-dog-adoption-event-2024/2026-12-05/",
+    "place": "Petco Edgewood, 1267 Caroline St NE, Atlanta"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Petco Sandy Springs Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/petco-sandy-springs-dog-adoption-event/",
+    "place": "Petco Sandy Springs, 5938 Roswell Rd, Sandy Springs"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Ponce City Market Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/ponce-city-market-dog-adoption-event/",
+    "place": "The Shed at Ponce City Market, 675 Ponce De Leon Ave, Atlanta"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Taproom Winter Market Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/taproom-winter-market-dog-adoption-event/",
+    "place": "Taproom Coffee, 1963 Hosea L Williams Dr SE, Atlanta"
+   },
+   {
+    "date": "2026-12-13",
+    "title": "Pet Supplies Plus (Buford) Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/pet-supplies-plus-buford-dog-adoption-event/",
+    "place": "Pet Supplies Plus, 3280 Hamilton Mill Rd, Buford"
+   },
+   {
+    "date": "2026-12-13",
+    "title": "Ponce City Market Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/ponce-city-market-dog-adoption-event-2/",
+    "place": "The Shed at Ponce City Market, 675 Ponce De Leon Ave, Atlanta"
+   },
+   {
+    "date": "2026-12-18",
+    "title": "Free Dog Friday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/free-dog-fridays-at-lifeline-animal-project/2026-12-18/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2026-12-25",
+    "title": "Free Dog Friday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/free-dog-fridays-at-lifeline-animal-project/2026-12-25/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2027-01-02",
+    "title": "Leashes & Lattes Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/leashes-lattes-2025/2027-01-02/",
+    "place": "Taproom Coffee, 1963 Hosea L Williams Dr SE, Atlanta"
+   },
+   {
+    "date": "2027-01-02",
+    "title": "Petco Edgewood Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/petco-edgewood-dog-adoption-event-2024/2027-01-02/",
+    "place": "Petco Edgewood, 1267 Caroline St NE, Atlanta"
+   },
+   {
+    "date": "2027-01-02",
+    "title": "Petco Sandy Springs Dog Adoption Event",
+    "url": "https://lifelineanimal.org/lifeline-events/petco-sandy-springs-dog-adoption-event/2027-01-02/",
+    "place": "Petco Sandy Springs, 5938 Roswell Rd, Sandy Springs"
+   },
+   {
+    "date": "2027-01-05",
+    "title": "Take 'Em Home Tuesday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/take-em-home-tuesday-at-lifeline-animal-project/2027-01-05/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2027-01-12",
+    "title": "Take 'Em Home Tuesday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/take-em-home-tuesday-at-lifeline-animal-project/2027-01-12/",
+    "place": "All LifeLine shelters"
+   }
+  ]
  },
  {
   "state": "GA",
@@ -77,7 +176,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "helpanimals@ourpalsplace.org",
-  "phone": "+1-678-361-7623",
+  "phone": "(678) 361-7623",
   "source_list": "shelter website",
   "osm": "node/7608047303"
  },
@@ -111,26 +210,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@bosleysplace.com",
-  "phone": "+1 404-565-4025",
+  "phone": "(404) 565-4025",
   "source_list": "shelter website",
   "osm": "node/10619435286"
- },
- {
-  "state": "GA",
-  "city": "Woodstock",
-  "org": "Papayago Rescue House",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://papayagorescuehouse.org/",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "phone": "+1 470-308-2011",
-  "source_list": "shelter website",
-  "osm": "node/10817221574"
  },
  {
   "state": "GA",
@@ -179,9 +261,48 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@fultonanimalservices.com",
-  "phone": "",
+  "phone": "(404) 613-0358",
   "source_list": "shelter website",
-  "osm": "node/13228178496"
+  "osm": "node/13228178496",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-12-07",
+    "title": "Black Furday - Free Pet Adoptions",
+    "url": "https://lifelineanimal.org/lifeline-events/black-furday-free-pet-adoptions/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2026-12-04",
+    "title": "Free Dog Friday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/free-dog-fridays-at-lifeline-animal-project/2026-12-04/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2026-12-18",
+    "title": "Free Dog Friday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/free-dog-fridays-at-lifeline-animal-project/2026-12-18/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2026-12-25",
+    "title": "Free Dog Friday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/free-dog-fridays-at-lifeline-animal-project/2026-12-25/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2027-01-05",
+    "title": "Take 'Em Home Tuesday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/take-em-home-tuesday-at-lifeline-animal-project/2027-01-05/",
+    "place": "All LifeLine shelters"
+   },
+   {
+    "date": "2027-01-12",
+    "title": "Take 'Em Home Tuesday (free dog adoptions)",
+    "url": "https://lifelineanimal.org/lifeline-events/take-em-home-tuesday-at-lifeline-animal-project/2027-01-12/",
+    "place": "All LifeLine shelters"
+   }
+  ]
  },
  {
   "state": "GA",
@@ -195,8 +316,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-770-499-2287",
+  "email_main": "info@goodmews.org",
+  "phone": "(770) 499-2287",
   "source_list": "shelter website",
   "osm": "way/284701423"
  },
@@ -212,8 +333,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "Animal.Services@cobbcounty.gov",
+  "phone": "(770) 499-4136",
   "source_list": "shelter website",
   "osm": "way/295295206"
  },
@@ -230,7 +351,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalWelfare@GwinnettCounty.com",
-  "phone": "+1-770-339-3200",
+  "phone": "(770) 339-3200",
   "source_list": "shelter website",
   "osm": "way/364440309"
  },
@@ -247,7 +368,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-404-875-5331",
+  "phone": "(404) 875-5331",
   "source_list": "shelter website",
   "osm": "way/364553299"
  },
@@ -259,12 +380,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://royalanimalrefuge.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(678) 978-5890",
   "source_list": "shelter website",
   "osm": "way/369312003"
  },
@@ -280,15 +401,15 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-770-383-3338",
+  "email_main": "info@EtowahValleyHumane.org",
+  "phone": "(770) 383-3338",
   "source_list": "shelter website",
   "osm": "way/420654694"
  },
  {
   "state": "GA",
   "city": "Cumming",
-  "org": "Forsyth County Animal Shelter",
+  "org": "Forsyth County Pet Resource Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
@@ -298,7 +419,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-678-965-7185",
+  "phone": "(678) 965-7185",
   "source_list": "shelter website",
   "osm": "way/527595067"
  },
@@ -315,7 +436,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 770-272-6888",
+  "phone": "(770) 272-6888",
   "source_list": "shelter website",
   "osm": "way/755218133"
  },
@@ -344,12 +465,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.claytonpolice.com/organization/support-operations-command/support-services-division/animal-control/",
+  "url": "https://www.claytonpolice.com/support-operations-command-2/animal-control/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(770) 347-0210",
   "source_list": "shelter website",
   "osm": "way/968164363"
  },
@@ -378,12 +499,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://atlantahumane.org/who-we-are/our-locations/",
+  "url": "https://atlantahumane.org/who-we-are/our-locations/atlanta-animal-center/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(404) 875-5331",
   "source_list": "shelter website",
   "osm": "way/1090404878"
  },
@@ -417,7 +538,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@buttscounty.org",
-  "phone": "(770) 775-8200",
+  "phone": "(770) 775-8011",
   "source_list": "shelter website",
   "osm": "way/1430312478"
  },
@@ -429,13 +550,13 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.coweta.ga.us/294/Doggie-Day-Out",
-  "notes": "Residents take shelter dogs on outings (park, neighborhood stroll, pet-friendly cafe) and fill out a Doggie Report Card afterward. Ages, hours and sign-up steps are in the Participant Manual PDF on the county site; shelter is at 91 Selt Road, Newnan.",
+  "url": "https://www.coweta.ga.us/departments-services/departments-a-e/animal-services/doggie-day-out",
+  "notes": "Potential adopters and volunteers take a shelter dog out for a park visit, neighborhood stroll or pet-friendly cafe and fill out a Doggie Report Card afterward; sign-up steps are in the Participant Manual on the county site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(770) 254-3735"
  },
  {
   "state": "GA",
@@ -450,18 +571,19 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(770) 345-7270"
  },
  {
   "state": "GA",
   "city": "Douglasville",
   "org": "Douglas County Animal Services",
-  "program": "Rent A Dog / Doggy Day Out (reported)",
-  "status": "Needs check",
+  "program": "Doggy Day Out",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.douglascountyga.gov/973/Volunteer",
-  "notes": "A 2026 county meeting described new Rent A Dog and doggy-day-out trial programs for would-be adopters; details not yet confirmed on the county website, so call the shelter before visiting.",
+  "notes": "Come in with a photo ID during Doggy Day Out hours (Tue-Sun 1-5pm), pick a pre-approved dog with no appointment, and take it out for a few hours or the whole day.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -480,8 +602,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "newtonac@co.newton.ga.us",
+  "source_list": "shelter website",
+  "phone": "(770) 786-9514"
  },
  {
   "state": "GA",
@@ -511,24 +634,25 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "Info@humanewalton.org",
   "source_list": "shelter website",
   "phone": "(770) 800-7387"
  },
  {
   "state": "GA",
   "city": "Griffin",
-  "org": "Spalding County Animal Shelter",
+  "org": "Spalding County Animal Care & Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.spaldingcounty.com/quality-of-life/spalding-county-animal-shelter/animal-shelter-contact/",
+  "url": "https://www.spaldingcounty.com/departments-services/animal-care-control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "animalcontrol@spaldingcounty.com",
+  "source_list": "shelter website",
+  "phone": "(770) 467-4772"
  },
  {
   "state": "GA",
@@ -570,12 +694,38 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://furkids.org/furkids-field-trips-a-doggies-day-out/",
+  "url": "https://furkids.org/furkids-field-trips-a-doggies-day-out",
   "notes": "Ages 18+ with a valid driver's license. Public trips Sundays, Mondays and Wednesdays; pickup at 9:30, 10:00 or 10:30am, return by 5pm. Register for the opportunity on Furkids' VolunteerHub and sign the waiver.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Cat & Kitten Adoptions - PetSmart Woodstock",
+    "url": "https://furkids.org/event/cat-kitten-adoptions-petsmart-woodstock/",
+    "place": "PetSmart Woodstock, 142 Woodstock Square Ave, Woodstock, GA"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Dog Adoptions - Petco Milton",
+    "url": "https://furkids.org/event/dog-adoptions-petco-milton/",
+    "place": "Petco, Milton, GA"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Cat & Kitten Adoptions - PetSmart Woodstock",
+    "url": "https://furkids.org/event/cat-kitten-adoptions-petsmart-woodstock-2/",
+    "place": "PetSmart Woodstock, 142 Woodstock Square Ave, Woodstock, GA"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Dog Adoptions - PetSmart Peachtree Corners",
+    "url": "https://furkids.org/event/dog-adoptions-petsmart-peachtree-corners/",
+    "place": "PetSmart Peachtree Corners, 6050 Peachtree Pkwy, Norcross, GA"
+   }
+  ]
  },
  {
   "state": "GA",
@@ -616,12 +766,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://atlantahumane.org/who-we-are/our-locations/",
+  "url": "https://atlantahumane.org/who-we-are/our-locations/marietta/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(404) 875-5331"
  },
  {
   "state": "GA",
@@ -631,13 +782,21 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://humanesocietyofnortheastgeorgia.org/volunteer/foster-3/expawditions/",
-  "notes": "Ages 18+ (ages 8-17 with a guardian). Pick up any day after 9:30am, return by 4pm; driver's license copy and signed agreement required. Email Foster@HSNEGA.org to sign up.",
+  "url": "https://humanesocietyofnortheastgeorgia.org/expawditions/",
+  "notes": "Pick up a dog any day after 9:30am and return it by 4pm for a hike, park walk or dog-friendly outing; adults 18+ (ages 8-17 with a guardian) need a driver's license copy and signed agreement on file, and sign up by emailing Foster@HSNEGA.org.",
   "checked": "November 2026",
   "email_program": "Foster@HSNEGA.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(770) 532-6617"
+  "phone": "(770) 532-6617",
+  "events": [
+   {
+    "date": "2026-12-09",
+    "title": "Adoption Event @ The Branch Social",
+    "url": "https://humanesocietyofnortheastgeorgia.org/event/adoption-event-the-branch-social/",
+    "place": "The Branch Social, 5603 Main Street, Suite D, Flowery Branch, GA"
+   }
+  ]
  },
  {
   "state": "GA",
@@ -652,7 +811,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "wcanimalshelter@walkerga.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 375-2100"
  },
  {
   "state": "GA",
@@ -666,8 +826,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-706-865-4135",
+  "email_main": "smithgallhumanesociety@windstream.net",
+  "phone": "(706) 865-4135",
   "source_list": "shelter website",
   "osm": "node/2780575405"
  },
@@ -679,12 +839,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://cityoftoccoa.com/node/2842",
+  "url": "https://tschs.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "(706) 886-8451",
+  "email_main": "info@tschs.org",
+  "phone": "(706) 282-3275",
   "source_list": "shelter website",
   "osm": "node/3474128210"
  },
@@ -696,7 +856,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.whitecountyga.gov/public-safety/page/animal-control-services",
+  "url": "https://www.whitecountyga.gov/331/Animal-Control-Services",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -713,12 +873,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.whitfieldcountyga.com/as/animalshelter.htm",
+  "url": "https://whitfieldcountyga.com/government/departments/animal_shelter.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-706-278-2018",
+  "phone": "(706) 278-2018",
   "source_list": "shelter website",
   "osm": "node/9146512736"
  },
@@ -735,7 +895,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-706-635-2166",
+  "phone": "(706) 635-2166",
   "source_list": "shelter website",
   "osm": "way/426849022"
  },
@@ -743,12 +903,12 @@
   "state": "GA",
   "city": "Athens",
   "org": "Athens Area Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "http://www.athenshumanesociety.org",
-  "notes": "",
+  "program": "Doggy Day Out",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://athenshumanesociety.org/get-involved/volunteer/",
+  "notes": "Take one of the shelter's adoptable dogs out for a few hours after submitting the Doggy Day Out application, then share photos and a feedback form to help the dog get adopted.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adopt@athenshumanesociety.org",
@@ -764,12 +924,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.pickenscountyga.gov/397/Animal-Shelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(706) 253-8983",
   "source_list": "shelter website",
   "osm": "way/1013191746"
  },
@@ -786,24 +946,24 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "elbertonanimalshelter@elberton.net",
-  "phone": "",
+  "phone": "(706) 988-6227",
   "source_list": "shelter website",
   "osm": "way/1303590576"
  },
  {
   "state": "GA",
   "city": "Franklin",
-  "org": "Heard County Animal Control",
+  "org": "Heard County Animal Control Center",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.heardcountyga.com/animalHome.html",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hcanimalcontrol@heardcountyga.com",
-  "phone": "",
+  "phone": "(706) 675-3570",
   "source_list": "shelter website",
   "osm": "way/420416982"
  },
@@ -820,7 +980,8 @@
   "checked": "November 2026",
   "email_program": "animalservicesvolunteer@accgov.com",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 613-3540"
  },
  {
   "state": "GA",
@@ -830,7 +991,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.trentonga.gov/Animal-Control",
+  "url": "https://www.trentonga.gov/animal-control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -850,7 +1011,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 935-2454"
  },
  {
   "state": "GA",
@@ -860,7 +1022,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://hsnwga.org/",
+  "url": "https://hsnwga.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -898,22 +1060,32 @@
   "email_program": "",
   "email_main": "animalcontrol@fannincountyga.org",
   "source_list": "shelter website",
-  "phone": "(706) 632-2203"
+  "phone": "(706) 632-3845"
  },
  {
   "state": "GA",
   "city": "Blue Ridge",
   "org": "Humane Society of Blue Ridge",
   "program": "Shelter Dog Day Out",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://www.humanesocietyofblueridge.org/get-involved",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Day trips, overnight PJ Party",
+  "url": "https://www.humanesocietyofblueridge.org/shelter-dog-day-out",
+  "notes": "Community members fill out a short form to be matched with an adoptable dog for a day out or an overnight PJ Party, and the shelter provides food, supplies and instructions.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "info@humanesocietyofblueridge.org",
   "email_main": "info@humanesocietyofblueridge.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 632-4357",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Empty the Shelters: Holiday Hope (BISSELL reduced-fee adoptions)",
+    "url": "https://www.humanesocietyofblueridge.org/events",
+    "place": "HSBR Adoption Center, 171 Mineral Springs Rd, Blue Ridge"
+   }
+  ]
  },
  {
   "state": "GA",
@@ -928,7 +1100,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelterdirector@mtnshelter.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 781-3843"
  },
  {
   "state": "GA",
@@ -953,7 +1126,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://rabunpaws4life.com",
+  "url": "https://rabunpaws4life.com/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -969,13 +1142,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://habershamga.com/animal-control.cfm",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/HcaccShelter/"
+  "url_social": "https://www.facebook.com/HcaccShelter/",
+  "phone": "(706) 839-0195"
  },
  {
   "state": "GA",
@@ -1001,8 +1175,8 @@
   "status": "Needs check",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://dawsoncountyhumanesociety.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "url": "https://dawsoncountyhumanesociety.org/get-involved/dog-day-out/",
+  "notes": "Dog Day Out lets people spend a day or take a hike with an adoptable dog, but the page gives no eligibility or scheduling details, so call the shelter to arrange.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@dawsoncountyhumanesociety.org",
@@ -1049,12 +1223,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.chattoogacounty.gov/193/Animal-Control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "AnimalControl@ChattoogaCounty.gov",
+  "source_list": "shelter website",
+  "phone": "(706) 857-0679"
  },
  {
   "state": "GA",
@@ -1064,12 +1239,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://floydcountyga.gov/node/2843",
+  "url": "https://www.floydcountyga.gov/animal_control/index.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 236-4545"
  },
  {
   "state": "GA",
@@ -1079,11 +1255,11 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.polkga.org/animal-control",
+  "url": "https://www.polkga.org/public_safety/animal_control/index.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "polkanimalcontrol@polkga.org",
   "source_list": "shelter website"
  },
  {
@@ -1122,16 +1298,44 @@
   "city": "Gainesville",
   "org": "Hall County Animal Shelter",
   "program": "Doggie Day Out",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Day trips, Weekend Warriors 4-day fosters",
   "url": "https://www.hallcounty.org/283/Fostering",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Approved fosters living in or near Hall County can take a spayed or neutered adoptable dog out from 9 a.m. to 4 p.m. for the day, or home Friday to Tuesday under Weekend Warriors.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(678) 450-1587"
+  "phone": "(678) 450-1587",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Black Furiday Weekend Special (waived adoption fees)",
+    "url": "https://www.hallcounty.org/1120/Events",
+    "place": "Hall County Animal Shelter, 1688 Barber Rd, Gainesville"
+   },
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "BISSELL Empty the Shelters",
+    "url": "https://www.hallcounty.org/1120/Events",
+    "place": "Hall County Animal Shelter, 1688 Barber Rd, Gainesville"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart Adopt Joy adoption event",
+    "url": "https://www.hallcounty.org/1120/Events",
+    "place": "PetSmart (store not specified)"
+   },
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-31",
+    "title": "Santa Paws",
+    "url": "https://www.hallcounty.org/1120/Events",
+    "place": "Hall County Animal Shelter, 1688 Barber Rd, Gainesville"
+   }
+  ]
  },
  {
   "state": "GA",
@@ -1141,12 +1345,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://hartcountyga.gov/animalshelt.html",
+  "url": "https://www.negas.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "negas@alltel.net",
-  "source_list": "shelter website"
+  "email_main": "administration@negas.org",
+  "source_list": "shelter website",
+  "phone": "(706) 356-5363"
  },
  {
   "state": "GA",
@@ -1162,7 +1367,21 @@
   "email_program": "",
   "email_main": "hartcohumane@gmail.com",
   "source_list": "shelter website",
-  "phone": "(706) 436-0965"
+  "phone": "(706) 436-0965",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Adopt Joy PetSmart adoption event",
+    "url": "https://harthumane.org/events/",
+    "place": "PetSmart Anderson, 3523 Clemson Blvd, Anderson SC and PetSmart Seneca, 253 Applewood Center Pl, Seneca SC"
+   },
+   {
+    "date": "2027-01-16",
+    "title": "Adopt Joy PetSmart adoption event",
+    "url": "https://harthumane.org/events/",
+    "place": "PetSmart Anderson, 3523 Clemson Blvd, Anderson SC and PetSmart Seneca, 253 Applewood Center Pl, Seneca SC"
+   }
+  ]
  },
  {
   "state": "GA",
@@ -1172,12 +1391,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.jacksoncountygov.com/156/Animal-Control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 367-5480"
  },
  {
   "state": "GA",
@@ -1208,7 +1428,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(706) 769-3956"
  },
  {
   "state": "GA",
@@ -1955,12 +2176,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://mcintoshcountyga.com/158/Animal-Services",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(912) 437-4242"
  },
  {
   "state": "GA",
@@ -2017,7 +2239,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.waycrossga.gov/animal-control.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -2032,12 +2254,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://cityofdouglasga.gov/85",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(912) 389-3448"
  },
  {
   "state": "GA",
