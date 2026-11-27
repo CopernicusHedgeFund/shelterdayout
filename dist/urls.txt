@@ -18,6 +18,7 @@ https://shelterdayout.com/suggest/
 https://shelterdayout.com/terms/
 https://shelterdayout.com/volunteer-at-an-animal-shelter/
 https://shelterdayout.com/cities/aberdeen-wa/
+https://shelterdayout.com/cities/ada-ok/
 https://shelterdayout.com/cities/adrian-mi/
 https://shelterdayout.com/cities/aiken-sc/
 https://shelterdayout.com/cities/albany-ga/
@@ -44,6 +45,7 @@ https://shelterdayout.com/cities/azle-tx/
 https://shelterdayout.com/cities/baldwin-md/
 https://shelterdayout.com/cities/baltimore-md/
 https://shelterdayout.com/cities/bangor-me/
+https://shelterdayout.com/cities/bartlesville-ok/
 https://shelterdayout.com/cities/battle-creek-mi/
 https://shelterdayout.com/cities/bayside-ny/
 https://shelterdayout.com/cities/baytown-tx/
@@ -166,6 +168,7 @@ https://shelterdayout.com/cities/fairmont-wv/
 https://shelterdayout.com/cities/fairport-ny/
 https://shelterdayout.com/cities/fallston-md/
 https://shelterdayout.com/cities/farmington-hills-mi/
+https://shelterdayout.com/cities/fayetteville-ar/
 https://shelterdayout.com/cities/fernandina-beach-fl/
 https://shelterdayout.com/cities/flagstaff-az/
 https://shelterdayout.com/cities/flushing-ny/
@@ -192,6 +195,7 @@ https://shelterdayout.com/cities/greensboro-nc/
 https://shelterdayout.com/cities/greenville-nc/
 https://shelterdayout.com/cities/greenville-sc/
 https://shelterdayout.com/cities/gulfport-ms/
+https://shelterdayout.com/cities/guthrie-ok/
 https://shelterdayout.com/cities/hagerstown-md/
 https://shelterdayout.com/cities/hailey-id/
 https://shelterdayout.com/cities/hamilton-mt/
@@ -337,6 +341,7 @@ https://shelterdayout.com/cities/oakland-ca/
 https://shelterdayout.com/cities/oceanside-ca/
 https://shelterdayout.com/cities/oconomowoc-wi/
 https://shelterdayout.com/cities/ojai-ca/
+https://shelterdayout.com/cities/oklahoma-city-ok/
 https://shelterdayout.com/cities/old-saybrook-ct/
 https://shelterdayout.com/cities/omaha-ne/
 https://shelterdayout.com/cities/onalaska-wi/
@@ -2273,7 +2278,6 @@ https://shelterdayout.com/listings/humane-society-of-greater-dayton-dayton/
 https://shelterdayout.com/listings/humane-society-of-greater-kansas-city-kansas-city/
 https://shelterdayout.com/listings/humane-society-of-greater-miami-north-miami-beach/
 https://shelterdayout.com/listings/humane-society-of-greene-county-waynesburg/
-https://shelterdayout.com/listings/humane-society-of-grove-and-grand-lake-grove/
 https://shelterdayout.com/listings/humane-society-of-harrisburg-area-harrisburg/
 https://shelterdayout.com/listings/humane-society-of-harrison-county-shinnston/
 https://shelterdayout.com/listings/humane-society-of-henderson-county-henderson/
@@ -3221,7 +3225,6 @@ https://shelterdayout.com/listings/ok-humane-society-adoption-center-oklahoma-ci
 https://shelterdayout.com/listings/okanogan-regional-humane-animal-foster-care-cat-shelter-okanogan/
 https://shelterdayout.com/listings/okeechobee-county-sheriff-s-office-animal-control-okeechobee/
 https://shelterdayout.com/listings/oklahoma-city-animal-welfare-okc-animal-shelter-oklahoma-city/
-https://shelterdayout.com/listings/okmulgee-county-humane-society-okmulgee/
 https://shelterdayout.com/listings/oktibbeha-county-humane-society-starkville/
 https://shelterdayout.com/listings/olathe-animal-shelter-olathe/
 https://shelterdayout.com/listings/old-bridge-animal-shelter-old-bridge/
@@ -3813,6 +3816,7 @@ https://shelterdayout.com/listings/second-chance-cats-of-west-michigan-grand-rap
 https://shelterdayout.com/listings/second-chance-for-homeless-pets-salt-lake-city/
 https://shelterdayout.com/listings/second-chance-humane-society-delta-animal-resource-center-delta/
 https://shelterdayout.com/listings/second-chance-humane-society-ridgway-animal-resource-center-ridgway/
+https://shelterdayout.com/listings/second-chance-pet-rescue-humane-society-of-grove-grove/
 https://shelterdayout.com/listings/second-chance-shelter-boaz/
 https://shelterdayout.com/listings/second-chance-spca-plano/
 https://shelterdayout.com/listings/second-hand-purrs-milwaukee/
@@ -3917,7 +3921,6 @@ https://shelterdayout.com/listings/southern-west-virginia-animal-league-princeto
 https://shelterdayout.com/listings/southold-town-animal-shelter-north-fork-animal-welfare-league-peconic/
 https://shelterdayout.com/listings/southside-spca-meherrin/
 https://shelterdayout.com/listings/spalding-county-animal-care-and-control-griffin/
-https://shelterdayout.com/listings/spar-saving-pets-at-risk-shawnee/
 https://shelterdayout.com/listings/spartanburg-county-pet-resource-center-spartanburg/
 https://shelterdayout.com/listings/spartanburg-humane-society-spartanburg/
 https://shelterdayout.com/listings/spca-albrecht-center-for-animal-welfare-aiken/

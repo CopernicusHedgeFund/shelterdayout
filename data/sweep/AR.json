@@ -76,7 +76,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(501) 882-8104"
  },
  {
   "state": "AR",
@@ -172,7 +173,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.cityofblytheville.gov/public-safety/humane-society",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -272,9 +273,9 @@
   "notes": "City shelter. Official website/details still to be confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalservices@centertonar.us",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(479) 795-0078"
  },
  {
   "state": "AR",
@@ -285,7 +286,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cherokeevillage.gov/cherokee-village-arkansas-animal-control.html",
-  "phone": "",
+  "phone": "(870) 994-4445",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -301,11 +302,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.needypawsanimalshelter.org/",
-  "phone": "",
+  "phone": "(479) 754-4200",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@needypawsanimalshelter.org",
   "source_list": "shelter website"
  },
  {
@@ -335,8 +336,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-501-450-6160",
+  "email_main": "awu@conwayarkansas.gov",
+  "phone": "(501) 450-6160",
   "source_list": "shelter website",
   "osm": "way/1296209706"
  },
@@ -360,12 +361,12 @@
   "state": "AR",
   "city": "Eureka Springs",
   "org": "Good Shepherd Humane Society",
-  "program": "Pawjama Program (sleepovers)",
-  "status": "Needs check",
+  "program": "Pawjama Program and Doggie Field Trip",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Overnight and weekend stays",
+  "offers": "Sleepovers, weekend fostering, day field trips",
   "url": "https://www.goodshepherd-hs.org/foster-programs",
-  "notes": "Carroll County shelter at 6486 Hwy 62 W.",
+  "notes": "Sign up via the online foster application or by calling the shelter to host a dog for one or a few nights (Pawjama, any day of the week) or take a dog out for a day of walks, hikes or time at home (Doggie Field Trip).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptioncenter@goodshepherd-hs.org",
@@ -376,16 +377,16 @@
   "state": "AR",
   "city": "Fayetteville",
   "org": "Fayetteville Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.fayetteville-ar.gov/525/Animal-Services",
-  "notes": "",
+  "program": "Hounds Around Town",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips (hikes, trail walks)",
+  "url": "https://www.fayetteville-ar.gov/602/Get-Involved",
+  "notes": "Volunteers 18+ who complete orientation, quiz, application and hands-on training can check out a dog for the day to take on a hike or trail walk.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1 479 444 3456",
+  "email_main": "animal_services@fayetteville-ar.gov",
+  "phone": "(479) 444-3456",
   "source_list": "shelter website",
   "osm": "way/479200817"
  },
@@ -401,7 +402,7 @@
   "notes": "County shelter. Phone 479-695-3450. Adopters 18+ for cats, 21+ for dogs.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ashelter@washingtoncountyar.gov",
   "source_list": "shelter website",
   "phone": "(479) 695-3450"
  },
@@ -680,12 +681,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.littlerock.gov/departments/animal-services/",
+  "url": "https://www.littlerock.gov/for-residents/animal-services/",
   "notes": "City shelter. program check incomplete.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(501) 376-3067"
  },
  {
   "state": "AR",
@@ -716,7 +718,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(870) 234-7297"
  },
  {
   "state": "AR",
@@ -727,7 +730,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.malvernar.gov/222/Animal-Shelter",
-  "phone": "",
+  "phone": "(501) 304-0000",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -742,12 +745,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.marionar.org/page/animal-control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+18707395412",
+  "phone": "(870) 739-5412",
   "source_list": "shelter website",
   "osm": "way/1419286194",
   "url_social": "http://facebook.com/cityofmarionanimalshelter"
@@ -760,7 +763,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.maumelle.org",
+  "url": "https://www.maumelle.gov/148/Animal-Services",
   "notes": "City animal shelter. Phone 501-851-6219.",
   "checked": "November 2026",
   "email_program": "",
@@ -840,11 +843,11 @@
   "animals": "Dogs",
   "offers": "Day trip (a few hours or a day)",
   "url": "https://nlr.ar.gov/departments/animal-services/foster-information/",
-  "notes": "City shelter at 1 Championship Drive. Mobile adoption events announced on the NLR Adoptables Facebook group.",
+  "notes": "Take an adoptable dog out of the shelter for a few hours or a day; the dog remains shelter property, no dog parks, return at the agreed time, and share photos/notes to help it get adopted.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@nlr.ar.gov",
-  "phone": "",
+  "phone": "(501) 791-8577",
   "source_list": "shelter website",
   "osm": "node/6260026207"
  },
@@ -856,7 +859,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://osceolaarkansas.com/index.php/en/city-services/anm-shelter/21-city-of-osceola-animal-shelter",
   "notes": "City shelter at 2501 W. Semmes Avenue. Facebook page not readable at check time.",
   "checked": "November 2026",
   "email_program": "",
@@ -926,7 +929,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(870) 543-5136"
  },
  {
   "state": "AR",
@@ -937,7 +940,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityofpocahontasar.gov/animal-control-1",
-  "phone": "",
+  "phone": "(870) 892-1390",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -1021,8 +1024,9 @@
   "notes": "City shelter page found;",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "sherwoodpaws@gmail.com",
+  "source_list": "shelter website",
+  "phone": "(501) 834-2287"
  },
  {
   "state": "AR",
@@ -1032,12 +1036,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.siloamsprings.gov/149/Animal-Shelter",
   "notes": "City shelter; Official city page not confirmed at check time. Official website/details still to be confirmed on the shelter's own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(479) 524-6535"
  },
  {
   "state": "AR",
@@ -1113,7 +1118,7 @@
   "notes": "City shelter at 1494 AR-367. Mon-Fri 8am-5pm. Phone 501-843-2340.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "wardanimalshelter@cityofward.com",
   "source_list": "shelter website",
   "phone": "(501) 843-2340"
  },

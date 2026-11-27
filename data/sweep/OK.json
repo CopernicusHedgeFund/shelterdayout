@@ -3,16 +3,16 @@
   "state": "OK",
   "city": "Ada",
   "org": "Pontotoc Animal Welfare Society (PAWS Ada)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.adoptpaws.net/",
-  "phone": "",
-  "notes": "",
+  "program": "Paws Pals",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Outings with an assigned dog",
+  "url": "https://www.adoptpaws.net/single-project",
+  "phone": "(580) 332-5233",
+  "notes": "Approved volunteers are paired with one shelter dog and spend at least 4 hours a month with it, for example taking it for walks or to pet-friendly stores, and promote it on social media.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "pawsnada@yahoo.com",
   "source_list": "shelter website"
  },
  {
@@ -52,16 +52,16 @@
   "state": "OK",
   "city": "Bartlesville",
   "org": "Washington County SPCA",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.wcspca.org/",
-  "phone": "",
-  "notes": "",
+  "program": "Doggie Day Out",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips, weekend outings",
+  "url": "https://www.wcspca.org/doggie-day-out",
+  "phone": "(918) 336-1577",
+  "notes": "Volunteers 18+ with a valid driver's license call or visit to pick a dog, take it out for the day or a weekend with shelter-provided supplies, and return it at the agreed time with feedback.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "info@wcspca.org",
+  "email_main": "info@wcspca.org",
   "source_list": "shelter website"
  },
  {
@@ -72,7 +72,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.cityofbethany.org/government/city_departments/police_department/animal_welfare.php",
+  "url": "https://cityofbethany.org/departments/animal_welfare/index.php",
   "notes": "City shelter at 5100 N College, Bethany. Public hours 9:30am-2:30pm. Phone 405-789-3431.",
   "checked": "November 2026",
   "email_program": "",
@@ -93,7 +93,7 @@
   "email_program": "",
   "email_main": "animalcontrol@cityofblanchard.us",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(405) 485-9392"
  },
  {
   "state": "OK",
@@ -108,7 +108,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(918) 259-8311",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/2570927976"
  },
@@ -136,13 +136,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.chickasha.gov/148/Animal-Control",
   "notes": "City shelter at 203 N. Genevieve, Chickasha. Tue-Sat 1-4pm, by appointment; phone 405-222-6093.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/ChickashaAnimalShelter"
+  "url_social": "https://www.facebook.com/ChickashaAnimalShelter",
+  "phone": "(405) 222-6093"
  },
  {
   "state": "OK",
@@ -153,11 +154,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://claremore.com/animal-welfare/animal-resources/",
-  "phone": "",
+  "phone": "(918) 341-1260",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "Animalcontrol@claremore.com",
   "source_list": "shelter website"
  },
  {
@@ -221,7 +222,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-580-369-3333",
+  "phone": "(580) 369-3333",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/966330647"
  },
@@ -264,7 +265,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.edmondok.com/animalservices",
+  "url": "https://www.edmondok.gov/558/Edmond-Animal-Services",
   "notes": "2424 Old Timbers Dr, Edmond. Phone 405-216-7615.",
   "checked": "November 2026",
   "email_program": "",
@@ -287,7 +288,7 @@
   "email_program": "",
   "email_main": "police@elrenook.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(405) 262-6941"
  },
  {
   "state": "OK",
@@ -314,11 +315,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://enidspca.org/",
-  "phone": "",
+  "phone": "(580) 233-1325",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@enidspca.org",
   "source_list": "shelter website"
  },
  {
@@ -329,13 +330,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.glenpoolonline.com/149/Animal-Control",
   "notes": "14536 S Elwood Ave, Glenpool. Facebook-only presence found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/GlenpoolAnimalControl/"
+  "url_social": "https://www.facebook.com/GlenpoolAnimalControl/",
+  "phone": "(918) 322-8110"
  },
  {
   "state": "OK",
@@ -345,17 +347,18 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.cityofgroveok.gov/police/page/animal-control",
+  "url": "https://www.cityofgroveok.gov/1262/Animal-Control",
   "notes": "130 E. O'Daniel Pkwy, Grove. Visit the shelter to adopt; adoption line 918-786-6967.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(918) 786-6967"
  },
  {
   "state": "OK",
   "city": "Grove",
-  "org": "Humane Society of Grove and Grand Lake",
+  "org": "Second Chance Pet Rescue (Humane Society of Grove)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
@@ -365,21 +368,22 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "doitforthepets@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(918) 786-7630"
  },
  {
   "state": "OK",
   "city": "Guthrie",
   "org": "Free to Live Animal Sanctuary",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "http://freetoliveok.org/",
-  "notes": "No-kill nonprofit sanctuary for dogs and cats, established in 1984. It adopts animals out. Visits by appointment Tue-Sat 10am-3pm. Phone 405-282-8617.",
+  "program": "Buddy Program",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Walks, outings with long-stay dogs",
+  "url": "https://freetoliveok.org/buddyprogram/",
+  "notes": "Volunteers sign up to be matched with a long-stay dog for regular walks around the property or an 'afternoon adventure'; the site doesn't say whether dogs leave the property.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "info@freetoliveok.org",
+  "email_main": "info@freetoliveok.org",
   "source_list": "shelter website",
   "phone": "(405) 282-8617"
  },
@@ -443,7 +447,7 @@
   "notes": "City page found in search; could not be fetched to verify details.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@jenksok.org",
   "source_list": "shelter website",
   "phone": "(918) 299-5883"
  },
@@ -471,13 +475,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://cityofmadill.com/directory/madill-animal-shelter/",
   "notes": "No-kill city shelter at 815 S 3rd St, Madill. Adoption $25 plus a $10 refundable spay/neuter deposit.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "gmwilson.cityofmadill@gmail.com",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/profile.php?id=100006843196959"
+  "url_social": "https://www.facebook.com/profile.php?id=100006843196959",
+  "phone": "(580) 872-4660"
  },
  {
   "state": "OK",
@@ -505,7 +510,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.mariettaok.city/node/1681",
+  "url": "https://www.mariettaok.city/police/page/animal-control",
   "notes": "City animal control facility at 700 S. Highway 77, Marietta. The city page links to animals available from the facility. Phone 580-276-9371.",
   "checked": "November 2026",
   "email_program": "",
@@ -522,11 +527,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://pittsburg.okcounties.org/offices/animal-shelter",
-  "phone": "",
+  "phone": "(918) 423-7803",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "shelter@pittsburgcountyok.gov",
   "source_list": "shelter website"
  },
  {
@@ -538,7 +543,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.miamiok.gov/Facilities/Facility/Details/Animal-Shelter-39",
-  "phone": "",
+  "phone": "(918) 541-2275",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -686,23 +691,24 @@
   "notes": "Shelter and adoption center at 901 Navajo Lane, Nowata. Open Mon-Fri 9am-5pm. Phone 918-977-0709.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "helpdesk@nowataok.gov",
-  "source_list": "shelter website"
+  "email_main": "Animals@NowataOK.gov",
+  "source_list": "shelter website",
+  "phone": "(918) 977-0709"
  },
  {
   "state": "OK",
   "city": "Oklahoma City",
   "org": "OK Humane Society Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://okhumane.org/",
-  "notes": "",
+  "program": "Foster Field Trip",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Walks with foster dogs",
+  "url": "https://okhumane.org/volunteer/",
+  "notes": "OK Humane's volunteer page invites people to sign up to take a foster dog on a walk, with no details on requirements or sign-up.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 405 286 1229",
+  "phone": "(405) 286-1229",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1309514291"
  },
@@ -722,22 +728,6 @@
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/496249323",
   "phone": "(405) 297-3100"
- },
- {
-  "state": "OK",
-  "city": "Okmulgee",
-  "org": "Okmulgee County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.okcohumane.org/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
  },
  {
   "state": "OK",
@@ -764,11 +754,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://protectadoptlove.org/",
-  "phone": "",
+  "phone": "(405) 238-1303",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@cityofpaulsvalley.com",
   "source_list": "shelter website"
  },
  {
@@ -780,7 +770,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cityofpawnee.org/animalcontrol",
-  "phone": "",
+  "phone": "(918) 762-3166",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -796,11 +786,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.nokhs.com/",
-  "phone": "",
+  "phone": "(580) 767-8877",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adopt@nokhs.com",
   "source_list": "shelter website"
  },
  {
@@ -815,7 +805,7 @@
   "notes": "326 Industrial Blvd, Poteau. Phone 918-649-0986. Open weekdays and Saturday.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "poteaupets95@gmail.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1234788081",
   "phone": "(918) 649-0986"
@@ -845,11 +835,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.sallisawok.org/135/Animal-Welfare",
-  "phone": "",
+  "phone": "(918) 775-4126",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@sallisawok.org",
   "source_list": "shelter website"
  },
  {
@@ -881,23 +871,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "sapulpaanimalshelter@outlook.com",
-  "source_list": "shelter website"
- },
- {
-  "state": "OK",
-  "city": "Shawnee",
-  "org": "SPAR - Saving Pets At Risk",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://sparpets.org/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(918) 227-2722"
  },
  {
   "state": "OK",
@@ -908,7 +883,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.shawneeok.org/government/animal_welfare/",
-  "phone": "",
+  "phone": "(405) 878-1531",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -928,7 +903,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "skiatookaco@cityofskiatook.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(918) 396-2424"
  },
  {
   "state": "OK",
@@ -939,11 +915,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://hspets.org/",
-  "phone": "",
+  "phone": "(405) 377-1701",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "shelter@hspets.org",
   "source_list": "shelter website"
  },
  {
@@ -954,12 +930,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://stillwaterok.gov/591/Animal-Welfare",
-  "phone": "",
+  "url": "https://stillwaterok.gov/180/Animal-Welfare",
+  "phone": "(405) 372-0334",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalwelfare@stillwaterok.gov",
   "source_list": "shelter website"
  },
  {
@@ -986,8 +962,8 @@
   "status": "Needs check",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://cityoftahlequah.com/492/Animal-Control",
-  "notes": "1150 Woodard Ave., Tahlequah. Mon-Fri 8am-5pm; call 918-456-1241 to adopt. $50 adoption/release fee; sterilization agreement required. The page links a 'Doggie Dates' item with no details shown.",
+  "url": "https://www.cityoftahlequah.com/699/Doggie-Dates",
+  "notes": "1150 Woodard Ave., Tahlequah. Mon-Fri 8am-5pm; call 918-456-1241 to adopt. $50 adoption/release fee. The city has a 'Doggie Dates' page, but it shows only a flyer image with no readable details; call Animal Control to confirm how it works.",
   "checked": "November 2026",
   "email_program": "vgreen@tahlequah.gov",
   "email_main": "vgreen@tahlequah.gov",
@@ -1006,7 +982,7 @@
   "notes": "State-licensed shelter in Tahlequah. Visits by appointment; phone 918-457-7997. Facebook: https://www.facebook.com/HumaneSocietyOfCherokeeCounty.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "humanecherokeecounty@gmail.com",
   "source_list": "shelter website"
  },
  {
@@ -1040,12 +1016,6 @@
   "email_main": "",
   "source": "https://www.kjrh.com/news/local-news/dog-day-out-humane-society-of-tulsa-starts-new-program-to-help-dogs-in-shelter",
   "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Adoptions at PetSmart - BA",
-    "url": "https://www.tulsapets.org/event-details/adoptions-at-petsmart-ba-3",
-    "place": "PetSmart - Broken Arrow"
-   },
    {
     "date": "2026-11-28",
     "title": "Adoptions at PetSmart - Tulsa Hills",
@@ -1160,7 +1130,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "http://www.streetcatstulsa.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -1177,12 +1147,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://cityoftulsa.org/taw",
+  "url": "https://www.cityoftulsa.org/TAS/",
   "notes": "Shelter at 3031 N Erie Ave; open 2-6 p.m. daily. No day-out program; offers short-term fostering and guided group tours by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Tulsa311@cityoftulsa.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(918) 596-8010"
  },
  {
   "state": "OK",
