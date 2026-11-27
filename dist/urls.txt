@@ -274,6 +274,7 @@ https://shelterdayout.com/cities/mandan-nd/
 https://shelterdayout.com/cities/mankato-mn/
 https://shelterdayout.com/cities/mansfield-tx/
 https://shelterdayout.com/cities/marathon-fl/
+https://shelterdayout.com/cities/marion-in/
 https://shelterdayout.com/cities/marshall-va/
 https://shelterdayout.com/cities/martinsville-va/
 https://shelterdayout.com/cities/marysville-oh/
@@ -2093,7 +2094,6 @@ https://shelterdayout.com/listings/henderson-animal-center-henderson/
 https://shelterdayout.com/listings/henderson-animal-protection-services-henderson/
 https://shelterdayout.com/listings/henderson-county-animal-services-hendersonville/
 https://shelterdayout.com/listings/hendricks-county-animal-shelter-danville/
-https://shelterdayout.com/listings/hendricks-county-humane-society-danville/
 https://shelterdayout.com/listings/henrico-county-police-animal-protection-unit-and-shelter-glen-allen/
 https://shelterdayout.com/listings/henry-county-animal-care-and-control-mcdonough/
 https://shelterdayout.com/listings/henry-county-animal-control-cambridge/

@@ -809,10 +809,11 @@
   "notes": "Shelter at 0104 W SR 10, North Judson.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "schs1990@outlook.com",
   "source_list": "shelter website",
   "city": "North Judson",
-  "org": "Starke County Humane Society"
+  "org": "Starke County Humane Society",
+  "phone": "(574) 896-5060"
  },
  {
   "state": "IN",
@@ -843,7 +844,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "city": "Morocco",
-  "org": "Newton County Animal Shelter"
+  "org": "Newton County Animal Shelter",
+  "phone": "(219) 285-2187"
  },
  {
   "state": "IN",
@@ -916,14 +918,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://blufftonindiana.net/208/Animal-Shelter",
-  "notes": "City/county shelter at 1613 W Cherry St; visits by appointment.",
+  "notes": "City/county shelter at 1613 W Cherry St; visits by appointment (Mon-Thu 9am-5:30pm, Fri 10am-5:30pm).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal@blufftonindiana.gov",
   "source_list": "shelter website",
   "city": "Bluffton",
   "org": "Bluffton-Wells County Animal Shelter",
-  "phone": "(260) 824-1520"
+  "phone": "(260) 824-6063"
  },
  {
   "state": "IN",
@@ -955,9 +957,15 @@
   "source_list": "shelter website",
   "events": [
    {
+    "date": "2026-12-17",
+    "title": "101 Dalmatians movie night with adoptable animals (CCHS fundraiser)",
+    "url": "https://www.casscountyhumanesociety.org/events",
+    "place": "Historic State Theatre, 317 E Market St, Logansport"
+   },
+   {
     "date": "2026-12-18",
     "end": "2026-12-20",
-    "title": "Cat Cafe & Pop-up Thrift Store",
+    "title": "Holiday Cat Cafe & Pop-up Thrift Store (adoptable cats on site)",
     "url": "https://www.casscountyhumanesociety.org/events",
     "place": "McHale Complex at Riverside Park, 1212 Riverside Dr, Logansport"
    }
@@ -968,18 +976,19 @@
  },
  {
   "state": "IN",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
+  "program": "Walk-A-Dog",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Dog walks on the Cardinal Greenway",
   "url": "https://marionhumane.com/",
-  "notes": "Shelter at 505 S Miller Ave, Marion.",
+  "notes": "Visitors ask a staff member during open hours (about 1-6pm, not Wed/Sun) to take a shelter dog for a walk on the nearby Cardinal Greenway; under-16s need a guardian.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "marionhumane@gmail.com",
   "source_list": "shelter website",
   "city": "Marion",
-  "org": "Marion-Grant County Humane Society"
+  "org": "Marion-Grant County Humane Society",
+  "phone": "(765) 618-9293"
  },
  {
   "state": "IN",
@@ -1029,22 +1038,6 @@
  },
  {
   "state": "IN",
-  "city": "Danville",
-  "org": "Hendricks County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.hendrickshumane.org/",
-  "notes": "3033 E Main St, Danville. No set hours; call the office.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "info@hendrickshumane.org",
-  "source_list": "shelter website",
-  "phone": "(317) 745-3338"
- },
- {
-  "state": "IN",
   "city": "Whitestown",
   "org": "Humane Society for Boone County",
   "program": "No day-out program yet",
@@ -1052,10 +1045,10 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://hsforbc.org/",
-  "notes": "5366 S Indianapolis Rd, Whitestown; serves Boone County incl. Lebanon. Emails on contact page are obfuscated.",
+  "notes": "5366 S Indianapolis Rd, Whitestown; serves Boone County incl. Lebanon. By appointment only.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@hsforbc.org",
   "source_list": "shelter website",
   "phone": "(877) 473-6722"
  },
@@ -1201,11 +1194,11 @@
   "city": "Greenfield",
   "org": "Hancock County Humane Society",
   "program": "Cat café lounge",
-  "status": "Open to public",
+  "status": "Needs check",
   "animals": "Cats",
   "offers": "Cat lounge visits (reservation)",
   "url": "https://www.hancockcountyhumanesociety.org/",
-  "notes": "Cat shelter at 214 E Main St, Greenfield; adoptions by appointment.",
+  "notes": "Cat lounge/café visits are no longer mentioned anywhere on the shelter's site (home, contact, adoption, news pages checked Nov 2026); cats now meet adopters by appointment only, Tue 5:30-7pm and Sat 11am-1:30pm, at 214 E Main St, Greenfield.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hancockcountyhumanesociety@gmail.com",
@@ -1268,11 +1261,12 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.humanesociety4greaterlafayette.org/doggy-day-out",
-  "notes": "Ages 16+ with a valid driver's license; apply online or in person and you can participate without waiting for approval. Outings Tue-Sun 12-5 from the shelter at 3150 Sagamore Pkwy S (formerly Almost Home Humane Society).",
+  "notes": "Ages 16+ with a valid driver's license; apply online or in person and you can participate without waiting for approval. Outings Tue-Sun 12-5 from the shelter at 3150 Sagamore Pkwy S.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@hs4gl.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(765) 607-1230"
  },
  {
   "state": "IN",
@@ -1427,7 +1421,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.jcas39.com/",
-  "notes": "County shelter, 2727 Hannah Drive, Madison.",
+  "notes": "County shelter, 2727 Hannah Drive, Madison; Tue-Thu 12-5, Sat 12-4 (per Jefferson County gov directory). jcas39.com itself not fetchable.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.shelter39@jeffersoncounty.in.gov",
@@ -1505,7 +1499,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.vincennes.org/department/animal-control",
-  "notes": "City shelter (Pet Port), 1128 River Road, Vincennes; Mon-Sat 9-4. Since May 2026 accepts only city-limit animals.",
+  "notes": "City shelter (Pet Port), 1128 River Road, Vincennes; Mon-Sat 9-4. Since May 2026 accepts only city-limit animals. City page shows 812-882-8826 for shelter (old listed 812-882-7285 is City Hall); events posted only on Facebook.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "lreagan@vincennes.in.gov",
@@ -1521,11 +1515,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://gibsoncounty-in.gov/animal-services-home/",
-  "notes": "County-owned shelter, 3840 S 175 E, Princeton; Tue-Sat 10-4. Page says Emmy Corp. contract ended Aug 24, 2026; interim directors handle adoptions.",
+  "notes": "County-owned shelter, 3840 S 175 E, Princeton; Tue-Sat 10-4. Emmy Corp. contract ended Aug 24, 2026; interim directors handled adoptions and page says Audra King takes over as Director. Annual open house in October; no upcoming adoption events listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "gcasanimalservices@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(812) 664-7369"
  },
  {
   "state": "IN",
