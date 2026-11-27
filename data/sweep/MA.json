@@ -1396,5 +1396,53 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Framingham",
+  "org": "Framingham Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://framinghamma.gov/77",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Lawrence",
+  "org": "City of Lawrence Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://cityoflawrence.com/209/Animal-Control",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "MA",
+  "city": "Leicester",
+  "org": "Leicester Animal Control",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.leicesterma.org/print/9673",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]

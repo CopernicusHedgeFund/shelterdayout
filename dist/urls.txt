@@ -1281,6 +1281,7 @@ https://shelterdayout.com/listings/city-of-kenai-animal-shelter-kenai/
 https://shelterdayout.com/listings/city-of-kennett-animal-services-kennett/
 https://shelterdayout.com/listings/city-of-lagrange-animal-shelter-lagrange/
 https://shelterdayout.com/listings/city-of-las-vegas-animal-care-center-las-vegas/
+https://shelterdayout.com/listings/city-of-lawrence-animal-control-lawrence/
 https://shelterdayout.com/listings/city-of-levelland-animal-shelter-levelland/
 https://shelterdayout.com/listings/city-of-live-oak-animal-control-live-oak/
 https://shelterdayout.com/listings/city-of-llano-animal-control-llano/
@@ -1753,6 +1754,7 @@ https://shelterdayout.com/listings/fort-wayne-animal-care-and-control-fort-wayne
 https://shelterdayout.com/listings/fort-worth-animal-care-and-control-fort-worth/
 https://shelterdayout.com/listings/fox-valley-humane-association-appleton/
 https://shelterdayout.com/listings/foxborough-animal-control-foxborough/
+https://shelterdayout.com/listings/framingham-animal-control-framingham/
 https://shelterdayout.com/listings/frances-halbrook-hensley-animal-shelter-lexington/
 https://shelterdayout.com/listings/francisvale-home-for-smaller-animals-wayne/
 https://shelterdayout.com/listings/franklin-county-animal-control-benton/
@@ -2637,6 +2639,7 @@ https://shelterdayout.com/listings/lee-s-summit-animal-shelter-lee-s-summit/
 https://shelterdayout.com/listings/leflore-county-humane-society-greenwood/
 https://shelterdayout.com/listings/lehigh-valley-humane-society-allentown/
 https://shelterdayout.com/listings/lehman-animal-shelter-giddings-giddings/
+https://shelterdayout.com/listings/leicester-animal-control-leicester/
 https://shelterdayout.com/listings/leitchfield-animal-shelter-leitchfield/
 https://shelterdayout.com/listings/lemhi-county-humane-society-salmon-animal-shelter-salmon/
 https://shelterdayout.com/listings/lenawee-humane-society-adrian/

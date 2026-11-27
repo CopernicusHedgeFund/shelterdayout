@@ -1275,6 +1275,7 @@ https://shelteradoption.com/shelters/city-of-kenai-animal-shelter-kenai/
 https://shelteradoption.com/shelters/city-of-kennett-animal-services-kennett/
 https://shelteradoption.com/shelters/city-of-lagrange-animal-shelter-lagrange/
 https://shelteradoption.com/shelters/city-of-las-vegas-animal-care-center-las-vegas/
+https://shelteradoption.com/shelters/city-of-lawrence-animal-control-lawrence/
 https://shelteradoption.com/shelters/city-of-levelland-animal-shelter-levelland/
 https://shelteradoption.com/shelters/city-of-live-oak-animal-control-live-oak/
 https://shelteradoption.com/shelters/city-of-llano-animal-control-llano/
@@ -1747,6 +1748,7 @@ https://shelteradoption.com/shelters/fort-wayne-animal-care-and-control-fort-way
 https://shelteradoption.com/shelters/fort-worth-animal-care-and-control-fort-worth/
 https://shelteradoption.com/shelters/fox-valley-humane-association-appleton/
 https://shelteradoption.com/shelters/foxborough-animal-control-foxborough/
+https://shelteradoption.com/shelters/framingham-animal-control-framingham/
 https://shelteradoption.com/shelters/frances-halbrook-hensley-animal-shelter-lexington/
 https://shelteradoption.com/shelters/francisvale-home-for-smaller-animals-wayne/
 https://shelteradoption.com/shelters/franklin-county-animal-control-benton/
@@ -2631,6 +2633,7 @@ https://shelteradoption.com/shelters/lee-s-summit-animal-shelter-lee-s-summit/
 https://shelteradoption.com/shelters/leflore-county-humane-society-greenwood/
 https://shelteradoption.com/shelters/lehigh-valley-humane-society-allentown/
 https://shelteradoption.com/shelters/lehman-animal-shelter-giddings-giddings/
+https://shelteradoption.com/shelters/leicester-animal-control-leicester/
 https://shelteradoption.com/shelters/leitchfield-animal-shelter-leitchfield/
 https://shelteradoption.com/shelters/lemhi-county-humane-society-salmon-animal-shelter-salmon/
 https://shelteradoption.com/shelters/lenawee-humane-society-adrian/
