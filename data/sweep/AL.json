@@ -48,7 +48,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Animals@HuntsvilleAL.gov",
-  "phone": "",
+  "phone": "(256) 883-3782",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/478940823",
   "source": "https://www.huntsvilleal.gov/government/departments/animal-services-department"
@@ -95,13 +95,14 @@
   "status": "Needs check",
   "animals": "Cats",
   "offers": "Cat lounge visit",
-  "url": "",
+  "url": "https://cityoftuscumbia.org/animal-control/",
   "notes": "A news feature says a Cat Cafe next to the shelter lets visitors sit and play with adoptable cats. Contact the shelter at 5010 Missouri St to confirm hours.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "directory + news",
-  "source": "https://www.adoptapet.com/shelter/73437"
+  "source": "https://www.adoptapet.com/shelter/73437",
+  "phone": "(256) 381-4073"
  },
  {
   "state": "AL",
@@ -115,7 +116,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@ghhs.org",
   "source_list": "shelter website",
   "source": "https://hvilleblast.com/find-your-new-4-legged-family-member-shelters",
   "phone": "(256) 881-8081"
@@ -145,7 +146,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://limestonecounty-al.gov/departments/public-services/animal-control/",
+  "url": "https://www.limestonecounty-al.gov/Departments/Animal-Care-Control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -166,7 +167,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(256) 341-4790"
  },
  {
   "state": "AL",
@@ -198,7 +200,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "news",
-  "source": "https://hartselleenquirer.com/?p=179886"
+  "source": "https://hartselleenquirer.com/?p=179886",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -214,7 +217,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "directory",
-  "source": "https://www.adoptapet.com/shelter/85804"
+  "source": "https://www.adoptapet.com/shelter/85804",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -229,7 +233,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@marshallal.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -245,7 +250,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "directory",
-  "source": "https://www.nokillnetwork.org/d/Alabama/Second-Chance-Shelter-(Boaz)~2066/"
+  "source": "https://www.nokillnetwork.org/d/Alabama/Second-Chance-Shelter-(Boaz)~2066/",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -261,7 +267,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "government page",
-  "source": "https://dekalbcountysheriff.org/press_view.php?id=810"
+  "source": "https://dekalbcountysheriff.org/press_view.php?id=810",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -293,7 +300,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "directory",
-  "source": "https://www.petcurious.com/humane-society-pet-rescue-and-adoption-center-gadsden-alabama"
+  "source": "https://www.petcurious.com/humane-society-pet-rescue-and-adoption-center-gadsden-alabama",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -309,7 +317,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "directory",
-  "source": "https://adoptapet.com/shelter/218897-etowah-county-animal-shelter-piedmont-alabama"
+  "source": "https://adoptapet.com/shelter/218897-etowah-county-animal-shelter-piedmont-alabama",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -324,7 +333,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -340,7 +350,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "news",
-  "source": "https://www.cullmantribune.com/2025/06/18/get-involved-cullman-county-animal-shelter/"
+  "source": "https://www.cullmantribune.com/2025/06/18/get-involved-cullman-county-animal-shelter/",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -356,7 +367,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "directory",
-  "source": "https://www.petfinder.com/member/us/al/fayette/fayette-county-alabama-animal-shelter-al534"
+  "source": "https://www.petfinder.com/member/us/al/fayette/fayette-county-alabama-animal-shelter-al534",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -532,10 +544,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "kittykathaven1@gmail.com",
   "source_list": "directory + alabamaanimaladvocates.com",
   "source": "https://adoptapet.com/adoption_rescue/96933-kitty-kat-haven-rescue-hoover-alabama",
-  "phone": "(205) 302-8883"
+  "phone": "(205) 302-8883",
+  "events": []
  },
  {
   "state": "AL",
@@ -551,7 +564,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(256) 241-2929"
+  "phone": "(256) 241-2929",
+  "events": []
  },
  {
   "state": "AL",
@@ -565,10 +579,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "calhouncountyhumane@gmail.com",
   "source_list": "directory",
   "source": "https://adoptapet.com/adoption_rescue/75280-calhoun-county-humane-society-inc-anniston-alabama",
-  "phone": "(256) 405-6680"
+  "phone": "(256) 405-6680",
+  "events": []
  },
  {
   "state": "AL",
@@ -585,7 +600,8 @@
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-talladega.html",
-  "phone": "(256) 391-4142"
+  "phone": "(256) 391-4142",
+  "events": []
  },
  {
   "state": "AL",
@@ -602,7 +618,8 @@
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-talladega.html",
-  "phone": "(256) 362-8186"
+  "phone": "(256) 362-5856",
+  "events": []
  },
  {
   "state": "AL",
@@ -616,10 +633,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ClayCountyAnimalShelter@gmail.com",
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-clay.html",
-  "phone": "(256) 354-1453"
+  "phone": "(256) 354-1453",
+  "events": []
  },
  {
   "state": "AL",
@@ -633,10 +651,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "randolphanimal@centurytel.net",
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-randolph.html",
-  "phone": "(256) 357-0101"
+  "phone": "(256) 357-0101",
+  "events": []
  },
  {
   "state": "AL",
@@ -646,14 +665,15 @@
   "status": "Needs check",
   "animals": "Dogs",
   "offers": "Day trip, longer foster",
-  "url": "https://www.chatthumanesociety.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "url": "https://www.chatthumanesociety.org/foster-an-animal",
+  "notes": "The shelter's homepage foster section says you can take a dog for a day to the park or foster for a week or month; the foster page gives no details on day trips, so contact the shelter (fosters must be 19+).",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "chatthumanesociety@gmail.com",
+  "email_main": "admin@chatthumanesociety.org",
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-chambers.html",
-  "phone": "(334) 756-9377"
+  "phone": "(334) 756-9377",
+  "events": []
  },
  {
   "state": "AL",
@@ -669,7 +689,9 @@
   "email_program": "",
   "email_main": "info@humanesocietyofwa.org",
   "source_list": "shelter website",
-  "source": "https://www.humanesocietyofwa.org/contact"
+  "source": "https://www.humanesocietyofwa.org/contact",
+  "phone": "(205) 554-0011",
+  "events": []
  },
  {
   "state": "AL",
@@ -685,7 +707,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "alabamaanimaladvocates.com",
-  "source": "https://alabamaanimaladvocates.com/al-bibb.html"
+  "source": "https://alabamaanimaladvocates.com/al-bibb.html",
+  "phone": "",
+  "events": []
  },
  {
   "state": "AL",
@@ -699,9 +723,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "cbollack@chiltoncounty.org",
+  "email_main": "animalcontrol@chiltoncounty.org",
   "source_list": "shelter website",
-  "phone": "(205) 755-1551"
+  "phone": "(205) 287-0502",
+  "events": []
  },
  {
   "state": "AL",
@@ -709,16 +734,17 @@
   "org": "CARE Humane Society",
   "program": "Doggy Date Program",
   "status": "Volunteers only",
-  "animals": "Dogs",
-  "offers": "Day trip",
+  "animals": "Dogs and cats",
+  "offers": "Day trips, home visits, weekend sleepovers",
   "url": "https://carehumane.org/doggy-date",
-  "notes": "Registered volunteers who finish orientation, a dog-walking orientation and 3 hours of shadowing can take an approved dog out for a daytime date within Auburn/Opelika. Pickups 8am-4pm Tue-Sun, 8am-2pm Mon.",
+  "notes": "Registered volunteers who finish orientation, a dog-walking orientation and 3 hours of shadowing can take an approved dog out on a Doggy Date anywhere within Auburn/Opelika (pickups 8am-4pm Tue-Sun, 8am-2pm Mon); separately, approved fosters can take an adult dog or cat home Friday/Saturday to Sunday/Monday through the Weekend Warriors program.",
   "checked": "November 2026",
   "email_program": "care1140@carehumane.org",
   "email_main": "care1140@carehumane.org",
-  "phone": "+1 334-821-3222",
+  "phone": "(334) 821-3222",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/575794020"
+  "osm": "way/575794020",
+  "events": []
  },
  {
   "state": "AL",
@@ -734,7 +760,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(334) 409-0622"
+  "phone": "(334) 409-0622",
+  "events": []
  },
  {
   "state": "AL",
@@ -750,7 +777,8 @@
   "email_program": "",
   "email_main": "hselco@bellsouth.net",
   "source_list": "shelter website",
-  "phone": "(334) 567-3377"
+  "phone": "(334) 567-3377",
+  "events": []
  },
  {
   "state": "AL",
@@ -766,7 +794,8 @@
   "email_program": "",
   "email_main": "prattvilleautaugahumane@gmail.com",
   "source_list": "shelter website",
-  "phone": "(334) 358-2882"
+  "phone": "(334) 358-2882",
+  "events": []
  },
  {
   "state": "AL",
@@ -780,8 +809,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "AnimalControl@phenixcityal.gov",
+  "source_list": "shelter website",
+  "phone": "(334) 291-4847"
  },
  {
   "state": "AL",
@@ -847,7 +877,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "news report",
-  "source": "https://selmatimesjournal.com/?p=289491"
+  "source": "https://selmatimesjournal.com/?p=289491",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -863,7 +894,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "news report",
-  "source": "https://www.westalabamawatchman.com/bigbee-humane-society-continues-the-fight-to-save-animals/"
+  "source": "https://www.westalabamawatchman.com/bigbee-humane-society-continues-the-fight-to-save-animals/",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -879,7 +911,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "Auburn University Rural Studio flyer",
-  "source": "https://webhome.auburn.edu/~kam0003/HCASgeneralflyer.pdf"
+  "source": "https://webhome.auburn.edu/~kam0003/HCASgeneralflyer.pdf",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -894,7 +927,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 738-7387"
  },
  {
   "state": "AL",
@@ -959,7 +993,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(251) 456-5399",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1293731574"
  },
@@ -1147,7 +1181,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "adoptapet listing",
-  "source": "https://www.adoptapet.com/shelter/88279"
+  "source": "https://www.adoptapet.com/shelter/88279",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -1163,7 +1198,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "adoptapet listing",
-  "source": "https://www.adoptapet.com/shelter/100170-clarke-county-animal-shelter-grove-hill-alabama"
+  "source": "https://www.adoptapet.com/shelter/100170-clarke-county-animal-shelter-grove-hill-alabama",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -1179,7 +1215,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "news",
-  "source": "https://brewtonstandard.com/?p=144320"
+  "source": "https://brewtonstandard.com/?p=144320",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -1190,12 +1227,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityofatmore.gov/157/Animal-Control",
-  "notes": "206 Cindebran Dr., Atmore; no website (Facebook only).",
+  "notes": "206 Cindebran Dr., Atmore; run with Poarch Creek Indians animal control (city Animal Control page).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "atmorepcianimalshelter@gmail.com",
   "source_list": "news",
-  "source": "https://www.atmoreadvance.com/?p=184173"
+  "source": "https://www.atmoreadvance.com/?p=184173",
+  "phone": "(251) 368-0859"
  },
  {
   "state": "AL",
@@ -1226,7 +1264,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "sosshelter1981@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -1241,7 +1280,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pikeanimalshelter@troyal.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(334) 674-2422"
  },
  {
   "state": "AL",
@@ -1257,7 +1297,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "adoptapet listing",
-  "source": "https://www.adoptapet.com/shelter/193272-southern-souls-animal-league-eufaula-alabama"
+  "source": "https://www.adoptapet.com/shelter/193272-southern-souls-animal-league-eufaula-alabama",
+  "phone": ""
  },
  {
   "state": "AL",
@@ -1273,7 +1314,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(334) 774-4633"
  },
  {
   "state": "AL",
@@ -1289,7 +1330,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(334) 615-3000"
+  "phone": "(334) 615-4620",
+  "events": []
  },
  {
   "state": "AL",
@@ -1300,12 +1342,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cleburnecountyanimalshelter.org/",
-  "phone": "",
-  "notes": "",
+  "phone": "(256) 201-0026",
+  "notes": "Nonprofit shelter founded 2022; site says the shelter facility is under construction (mail: PO Box 1104, Heflin).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "AL",
@@ -1317,27 +1360,12 @@
   "offers": "",
   "url": "https://lawrencecountyal.org/animal-shelter/",
   "phone": "",
-  "notes": "",
+  "notes": "County shelter at 238 Parker Road, Moulton; Mon-Fri business hours.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "AL",
-  "city": "Auburn",
-  "org": "Lee County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://lchs.typepad.com/home/adoption/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "shelter@ac.lawrencecountyal.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "AL",
@@ -1349,27 +1377,12 @@
   "offers": "",
   "url": "https://animaladoption.org/",
   "phone": "",
-  "notes": "",
+  "notes": "Center at 2808 Crescent Ave., Homewood; open Saturdays 12-4:30, adoptions by appointment.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "AL",
-  "city": "Huntsville",
-  "org": "Madison County Animal Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.madisoncountyal.gov/services/animal-control",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "aaas2808@gmail.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "AL",
@@ -1379,29 +1392,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.madisonthecity.com/departments/police/animal-control/",
+  "url": "",
   "phone": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "AL",
-  "city": "Foley",
-  "org": "Safe Harbor Animal Coalition",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://safeharboranimalcoalition.org/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "AL",
@@ -1412,12 +1410,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://guntersvilleal.org/departments/animal-control/",
-  "phone": "",
-  "notes": "",
+  "phone": "(256) 571-7571",
+  "notes": "City animal control officer; lost/seized pets and adoptions handled through Guntersville Animal Hospital (256) 582-3184.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "AL",
@@ -1428,12 +1427,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.odchs.org/",
-  "phone": "",
-  "notes": "",
+  "phone": "(334) 774-7387",
+  "notes": "Shelter on Bivins Drive off Dale County Road 30 near Ozark; open 8 am-noon daily.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "AL",
@@ -1445,10 +1445,11 @@
   "offers": "",
   "url": "https://arkinc.org/",
   "phone": "",
-  "notes": "",
+  "notes": "Shelter at 139 Bo Cole Rd., Huntsville; open Tue-Sat 11 am-3 pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  }
 ]

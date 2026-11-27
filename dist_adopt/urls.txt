@@ -40,7 +40,6 @@ https://shelteradoption.com/cities/atchison-ks/
 https://shelteradoption.com/cities/athens-al/
 https://shelteradoption.com/cities/athens-ga/
 https://shelteradoption.com/cities/atlanta-ga/
-https://shelteradoption.com/cities/auburn-al/
 https://shelteradoption.com/cities/auburn-ca/
 https://shelteradoption.com/cities/augusta-ga/
 https://shelteradoption.com/cities/austin-tx/
@@ -2663,7 +2662,6 @@ https://shelteradoption.com/shelters/lee-county-animal-services-sanford/
 https://shelteradoption.com/shelters/lee-county-animal-shelter-bishopville/
 https://shelteradoption.com/shelters/lee-county-animal-shelter-leesburg/
 https://shelteradoption.com/shelters/lee-county-domestic-animal-services-fort-myers/
-https://shelteradoption.com/shelters/lee-county-humane-society-auburn/
 https://shelteradoption.com/shelters/lee-s-summit-animal-shelter-lee-s-summit/
 https://shelteradoption.com/shelters/leflore-county-humane-society-greenwood/
 https://shelteradoption.com/shelters/lehigh-valley-humane-society-allentown/
@@ -2789,7 +2787,6 @@ https://shelteradoption.com/shelters/madison-animal-shelter-city-of-madison-anim
 https://shelteradoption.com/shelters/madison-animal-shelter-madison-animal-control-madison/
 https://shelteradoption.com/shelters/madison-city-animal-control-madison/
 https://shelteradoption.com/shelters/madison-county-animal-care-and-control-edwardsville/
-https://shelteradoption.com/shelters/madison-county-animal-control-huntsville/
 https://shelteradoption.com/shelters/madison-county-animal-shelter-berea/
 https://shelteradoption.com/shelters/madison-county-animal-shelter-marshall/
 https://shelteradoption.com/shelters/madison-county-animal-shelter-rochelle/
@@ -3651,7 +3648,6 @@ https://shelteradoption.com/shelters/sabine-animal-shelter-sabine-humane-society
 https://shelteradoption.com/shelters/sachse-animal-shelter-sachse/
 https://shelteradoption.com/shelters/sacramento-spca-sacramento/
 https://shelteradoption.com/shelters/safe-animal-shelter-middleburg/
-https://shelteradoption.com/shelters/safe-harbor-animal-coalition-foley/
 https://shelteradoption.com/shelters/safe-haven-animal-rescue-and-kennels-abbeville/
 https://shelteradoption.com/shelters/safe-haven-animal-shelter-of-nw-iowa-pocahontas/
 https://shelteradoption.com/shelters/safe-haven-for-cats-raleigh/
