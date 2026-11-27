@@ -262,6 +262,7 @@ OG = {}
 
 
 def page(title, desc, body, path, extra_head="", canonical=True):
+    title = seo.fit_title(title, BRAND); desc = seo.fit_desc(desc)
     url = SITE + path
     if canonical:
         OG[path] = seo.og_title(title, BRAND)
@@ -679,7 +680,7 @@ def build_listings(rows):
 <p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests, and add our <a href="/for-shelters/badge/?listing={r['slug']}">free website badge</a>.</p>"""
         write(f"/listings/{r['slug']}/", page(
             (f"{name} ({r['city']}, {r['state']}): Request a Dog Day Out | {BRAND}" if r["status"] == NOPROG
-             else f"{r['program']} at {name}, {r['city']}, {r['state']}: Take a Shelter Dog Out | {BRAND}"),
+             else f"{name} ({r['city']}, {r['state']}): Dog Day Out Program | {BRAND}"),
             (f"{name} in {r['city']}, {r['state_name']} doesn't list a dog day out program yet. Ask them for one: we pass requests to the shelter every month."
              if r["status"] == NOPROG else
              f"Take a shelter dog out with {name} in {r['city']}, {r['state_name']}: {r['offers']}. Free. Rules, hours and how to sign up."),
@@ -1067,7 +1068,7 @@ def build_cities(progs):
 {table(lst, show_state=False)}
 <p class="animal" style="margin-top:12px">More nearby: see every program in <a href="/states/{slugify(sname)}/">{sname}</a>. New to this? Read <a href="/how-it-works/">how shelter dog day trips work</a>.</p>"""
         write(f"/cities/{slug}/", page(
-            f"Rent or Borrow a Dog in {city}, {st}: Shelter Dog Day Out Programs | {BRAND}",
+            f"Borrow a Shelter Dog in {city}, {st}: Day Out Programs | {BRAND}",
             f"Borrow a shelter dog for the day in {city}, {sname}, free: {len(lst)} program{'s' if len(lst) != 1 else ''} for {', '.join(types)}. Rules, hours and sign-up links.",
             body, f"/cities/{slug}/", crumbs_ld([("Home", "/"), (sname, f"/states/{slugify(sname)}/"), (city, f"/cities/{slug}/")])))
     groups = ""

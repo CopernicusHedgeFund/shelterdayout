@@ -244,3 +244,17 @@ def add_tracer(html, site, path):
         return html
     k = html.find(">", j)
     return html[:k + 1] + tracer(site, path) + html[k + 1:]
+
+def fit_title(title, brand):
+    """Keep titles inside what Google shows (~60 characters): drop the brand suffix when it would push past that."""
+    suf = " | " + brand
+    if len(title) > 60 and title.endswith(suf):
+        title = title[: -len(suf)]
+    return title
+
+
+def fit_desc(desc, n=158):
+    if len(desc) <= n:
+        return desc
+    cut = desc[:n].rsplit(" ", 1)[0].rstrip(",;:-")
+    return cut + "…"

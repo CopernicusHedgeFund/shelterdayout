@@ -63,6 +63,7 @@ OG = {}
 
 
 def page(title, desc, body, path, extra_head="", canonical=True):
+    title = seo.fit_title(title, BRAND); desc = seo.fit_desc(desc)
     url = SITE + path
     if canonical:
         OG[path] = seo.og_title(title, BRAND)
@@ -321,7 +322,7 @@ def build_states(rows):
 <p class="citylinks"><a href="/puppy-adoption/#{s}">Puppy adoption in {name}</a> <a href="/kitten-adoption/#{s}">Kitten adoption in {name}</a> <a href="/humane-society-near-me/#{s}">Humane societies in {name}</a> <a href="/animal-control-near-me/#{s}">Animal control in {name}</a></p>
 <div class="note">Shelters update their adoptable animals daily on their own websites. Confirm hours and requirements with the shelter before you visit.</div>
 {(sdo.NEAR_JS + SEARCH_JS) if lst else ""}"""
-        write(path, page(f"Animal Shelters & Humane Societies in {name}: Adopt a Dog, Puppy or Cat | {BRAND}",
+        write(path, page(f"Animal Shelters in {name}: Adopt a Dog, Puppy or Cat | {BRAND}",
             f"Adopt a dog, puppy, cat or kitten in {name}: {len(lst):,} animal shelters, humane societies and SPCAs{(' in ' + ', '.join(cities[:4]) + ' and more') if cities else ''}, plus upcoming adoption events.",
             body, path, crumbs_ld([("Home", "/"), (name, path)]) + sfaq_ld + (f'<script type="application/ld+json">{ilist}</script>' if lst else "")))
 
@@ -357,7 +358,7 @@ def build_shelters(rows):
 <p>Browse the animals on the shelter's website, then visit or apply. Most shelters ask for a photo ID, a short application and a meet-and-greet, and the fee usually covers spay or neuter, vaccines and a microchip. Read our <a href="/adoption-checklist/">adoption checklist</a> before you go.</p>
 <div class="note">{BRAND} isn't affiliated with this shelter and doesn't handle adoptions. Hours, fees and requirements are set by the shelter and can change, so confirm before you visit.</div>
 <p class="animal">Something out of date? <a href="{SDO}/suggest/?type=report&amp;listing={r['slug']}" rel="noopener">Report a problem</a>. Work at this shelter? Add our <a href="/badge/?listing={r['slug']}">free website badge</a>.</p>"""
-        write(path, page(f"{r['org']} ({r['city']}, {r['state']}): Adopt a Dog, Puppy or Cat | {BRAND}",
+        write(path, page(f"{r['org']} ({r['city']}, {r['state']}): Adopt Dogs & Cats | {BRAND}",
             f"Adopt {animals_phrase(r)} from {r['org']} in {r['city']}, {r['state_name']}. See adoptable pets, contact details{', upcoming adoption events' if evs else ''} and how to adopt.",
             body, path, "".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld)
             + crumbs_ld([("Home", "/"), (r["state_name"], f"/states/{r['state_slug']}/"), (r["org"], path)])))
@@ -444,7 +445,7 @@ def build_cities(rows):
 <p class="lede">{len(lst)} shelters and humane societies in {esc(c)}, {STATES[st]} where you can adopt a dog or cat.</p>
 <ul class="slist">{"".join(shelter_li(r, False) for r in sorted(lst, key=lambda r: r["org"]))}</ul>
 <p class="animal" style="margin-top:14px">More nearby: <a href="/states/{slugify(STATES[st])}/">all shelters in {STATES[st]}</a>.</p>"""
-        write(path, page(f"Animal Shelters Near {c}, {st}: Dog, Puppy & Cat Adoption | {BRAND}",
+        write(path, page(f"Animal Shelters Near {c}, {st}: Adopt a Dog or Cat | {BRAND}",
             f"{len(lst)} animal shelters in {c}, {STATES[st]}: adopt a dog or cat, see adoptable pets and upcoming adoption events.",
             body, path, crumbs_ld([("Home", "/"), (STATES[st], f"/states/{slugify(STATES[st])}/"), (c, path)])))
     links = " ".join(f'<a href="/cities/{slugify(c + " " + st)}/">{esc(c)}, {st}</a>' for (c, st) in sorted(keep, key=lambda k: (STATES[k[1]], k[0])))
