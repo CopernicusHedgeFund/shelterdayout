@@ -1230,6 +1230,7 @@ https://shelteradoption.com/shelters/city-of-bakersfield-animal-care-center-cbac
 https://shelteradoption.com/shelters/city-of-ballinger-animal-control-ballinger/
 https://shelteradoption.com/shelters/city-of-baytown-animal-services-baytown/
 https://shelteradoption.com/shelters/city-of-bellaire-pound-bellaire/
+https://shelteradoption.com/shelters/city-of-beverly-animal-services-beverly/
 https://shelteradoption.com/shelters/city-of-bloomington-animal-care-and-control-animal-shelter-bloomington/
 https://shelteradoption.com/shelters/city-of-boerne-animal-shelter-boerne/
 https://shelteradoption.com/shelters/city-of-bonham-animal-shelter-bonham/
@@ -4215,6 +4216,7 @@ https://shelteradoption.com/shelters/upper-peninsula-animal-welfare-shelter-upaw
 https://shelteradoption.com/shelters/upper-valley-humane-society-enfield/
 https://shelteradoption.com/shelters/upson-county-animal-shelter-thomaston/
 https://shelteradoption.com/shelters/utah-animal-adoption-center-sandy/
+https://shelteradoption.com/shelters/uxbridge-animal-control-uxbridge/
 https://shelteradoption.com/shelters/valencia-county-animal-shelter-los-lunas/
 https://shelteradoption.com/shelters/valley-cat-haven-fort-kent/
 https://shelteradoption.com/shelters/valley-humane-society-pleasanton/
