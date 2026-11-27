@@ -558,7 +558,8 @@
   "email_main": "info@humanesocietyofpasco.org",
   "phone": "(727) 856-6762",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/497256551"
+  "osm": "way/497256551",
+  "events": []
  },
  {
   "state": "FL",
@@ -575,7 +576,8 @@
   "email_main": "adopt@hstb.org",
   "phone": "(813) 876-7138",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/524345111"
+  "osm": "way/524345111",
+  "events": []
  },
  {
   "state": "FL",
@@ -609,7 +611,8 @@
   "email_main": "",
   "phone": "(850) 891-2950",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/624529633"
+  "osm": "way/624529633",
+  "events": []
  },
  {
   "state": "FL",
@@ -623,7 +626,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "shelter@saveourcatsandkittens.com",
   "phone": "(850) 863-5756",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/692353473",
@@ -651,7 +654,15 @@
   "email_main": "saveadog@bdrr.org",
   "phone": "(561) 791-6465",
   "source_list": "shelter website",
-  "osm": "way/714199318"
+  "osm": "way/714199318",
+  "events": [
+   {
+    "date": "2026-12-17",
+    "title": "BZB Barn Pop Up (shopping/fundraiser with adoptable dogs)",
+    "url": "https://www.bdrr.org/event-details/bzb-barn-pop-up",
+    "place": "968 C Rd, Loxahatchee"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -668,7 +679,8 @@
   "email_main": "adoptions@mymanatee.org",
   "phone": "(941) 742-5824",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/895996141"
+  "osm": "way/895996141",
+  "events": []
  },
  {
   "state": "FL",
@@ -685,7 +697,8 @@
   "email_main": "animalcontrol@cityoflynnhaven.com",
   "phone": "(850) 265-4699",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1074636521"
+  "osm": "way/1074636521",
+  "events": []
  },
  {
   "state": "FL",
@@ -745,6 +758,18 @@
     "title": "Paws and Pose - Monthly Yoga with Shelter Pets",
     "url": "https://gulfcoasthumanesociety.org/event/paws-and-pose-monthly-yoga-with-shelter-pets-2-2-2-2/2027-01-24/",
     "place": "GCHS, 2010 Arcadia Street, Fort Myers"
+   },
+   {
+    "date": "2027-02-28",
+    "title": "Paws and Pose - Monthly Yoga with Shelter Pets",
+    "url": "https://gulfcoasthumanesociety.org/event/paws-and-pose-monthly-yoga-with-shelter-pets-2-2-2-2/2027-02-28/",
+    "place": "GCHS, 2010 Arcadia Street, Fort Myers"
+   },
+   {
+    "date": "2027-03-21",
+    "title": "Paws and Pose - Monthly Yoga with Shelter Pets",
+    "url": "https://gulfcoasthumanesociety.org/event/paws-and-pose-monthly-yoga-with-shelter-pets-3/2027-03-21/",
+    "place": "GCHS, 2010 Arcadia Street, Fort Myers"
    }
   ]
  },
@@ -763,7 +788,8 @@
   "email_main": "adoptions@mymanatee.org",
   "phone": "(941) 742-5933",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "relation/14615602"
+  "osm": "relation/14615602",
+  "events": []
  },
  {
   "state": "FL",
@@ -779,7 +805,8 @@
   "email_program": "",
   "email_main": "animalshelter@myescambia.com",
   "source_list": "shelter website",
-  "phone": "(850) 595-3075"
+  "phone": "(850) 595-3075",
+  "events": []
  },
  {
   "state": "FL",
@@ -795,7 +822,8 @@
   "email_program": "",
   "email_main": "bcac@baycountyfl.gov",
   "source_list": "shelter website",
-  "phone": "(850) 767-3333"
+  "phone": "(850) 767-3333",
+  "events": []
  },
  {
   "state": "FL",
@@ -811,7 +839,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(850) 892-8758"
+  "phone": "(850) 892-8758",
+  "events": []
  },
  {
   "state": "FL",
@@ -827,7 +856,8 @@
   "email_program": "ACARoutreach@alachuacounty.us",
   "email_main": "ACARoutreach@alachuacounty.us",
   "source_list": "shelter website",
-  "phone": "(352) 264-6870"
+  "phone": "(352) 264-6870",
+  "events": []
  },
  {
   "state": "FL",
@@ -867,7 +897,8 @@
   "email_program": "",
   "email_main": "info@lakecityhumane.org",
   "source_list": "shelter website",
-  "phone": "(386) 752-3191"
+  "phone": "(386) 752-3191",
+  "events": []
  },
  {
   "state": "FL",
@@ -882,7 +913,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrolmail@claycountygov.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -898,7 +930,8 @@
   "email_program": "",
   "email_main": "pstudivant@sjcfl.us",
   "source_list": "shelter website",
-  "phone": "(904) 209-6190"
+  "phone": "(904) 209-6190",
+  "events": []
  },
  {
   "state": "FL",
@@ -914,7 +947,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(386) 329-0396"
+  "phone": "(386) 329-0396",
+  "events": []
  },
  {
   "state": "FL",
@@ -930,7 +964,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(904) 259-6786"
+  "phone": "(904) 259-6786",
+  "events": []
  },
  {
   "state": "FL",
@@ -946,7 +981,8 @@
   "email_program": "",
   "email_main": "Info@FlaglerHumaneSociety.org",
   "source_list": "shelter website",
-  "phone": "(386) 445-1814"
+  "phone": "(386) 445-1814",
+  "events": []
  },
  {
   "state": "FL",
@@ -962,14 +998,7 @@
   "email_program": "AnimalServices@ocfl.net",
   "email_main": "AnimalServices@ocfl.net",
   "source_list": "shelter website",
-  "events": [
-   {
-    "date": "2026-11-26",
-    "end": "2026-11-30",
-    "title": "Fall in Love promo: all adoptions $30 (Sept-Nov; excludes puppies/kittens under 4 months)",
-    "url": "https://orangecountyanimalservicesfl.net/Adopt/PromosEvents.aspx"
-   }
-  ],
+  "events": [],
   "phone": "(407) 836-3111"
  },
  {
