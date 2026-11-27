@@ -1,6 +1,8 @@
 # Round 6: discovery sweep (instructions for one cloud run)
 
 
+**Tools:** WebSearch and WebFetch are approved for this run: use them freely, directly, as often as the job needs. Nobody needs to approve anything.
+
 **Stay in the foreground until the job is finished.** Do every step yourself in this one session. Never start background work: no Agent/Task tool, no subagents, no `run_in_background` commands, no Monitor, no sleeping until later. Do not end your reply (and so the session) until your whole scope is checked, saved and pushed. If you end early, everything still running is killed and nothing is saved. If the scope is too big, save and push every ~25 entries and keep going.
 
 Round 5 already opened every listed shelter's site (each has "checked": "November 2026"). Round 6 hunts for what is
@@ -12,11 +14,6 @@ Follow every rule, data permission and save step in tools/sweep_round5.md, with 
   except: for every NEW shelter you add, check it fully as in Pass A.
 - Your trigger message names your SCOPE (states, sometimes a city letter range). For a city range, add or edit only
   entries whose "city" starts with a letter in that range.
-
-## IMPORTANT: no helper agents
-Do ALL the work yourself in this one session. Do NOT use the Agent/Task tool or start subagents, background agents or
-parallel workers: their web fetches ask Ward for approval on his phone, one prompt per website. Use WebFetch and
-WebSearch directly from this session only.
 
 ## Pass B (deeper than round 5): find shelters still missing
 1. Build the list of every county in your scope (use the state's government county list) and every city over 5,000 people.

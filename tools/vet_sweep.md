@@ -1,9 +1,10 @@
 # Vet sweep (instructions for one cloud run)
 
 
+**Tools:** WebSearch and WebFetch are approved for this run: use them freely, directly, as often as the job needs. Nobody needs to approve anything.
+
 **Stay in the foreground until the job is finished.** Do every step yourself in this one session. Never start background work: no Agent/Task tool, no subagents, no `run_in_background` commands, no Monitor, no sleeping until later. Do not end your reply (and so the session) until your whole scope is checked, saved and pushed. If you end early, everything still running is killed and nothing is saved. If the scope is too big, save and push every ~25 entries and keep going.
 
-**No helper agents:** do all work in this one session; never use the Agent/Task tool or subagents (their web fetches ask Ward for approval).
 
 ShelterDayOut.com and ShelterAdoption.com (free directories run by Charity Good for Philip "Ward" McKinley III) both have a
 "Find a vet" section. It lists 9,587 clinics from OpenStreetMap, but the US has roughly three times that many. Your job: add

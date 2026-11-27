@@ -1,6 +1,8 @@
 # Round 5: final national deep sweep (instructions for one cloud run)
 
 
+**Tools:** WebSearch and WebFetch are approved for this run: use them freely, directly, as often as the job needs. Nobody needs to approve anything.
+
 **Stay in the foreground until the job is finished.** Do every step yourself in this one session. Never start background work: no Agent/Task tool, no subagents, no `run_in_background` commands, no Monitor, no sleeping until later. Do not end your reply (and so the session) until your whole scope is checked, saved and pushed. If you end early, everything still running is killed and nothing is saved. If the scope is too big, save and push every ~25 entries and keep going.
 
 Also used by the QUARTERLY full sweeps (March, June, September, December). If your trigger message says "quarterly", follow
@@ -12,7 +14,6 @@ This is the last big national pass and the foundation for both sites, so be thor
 SCOPE (states, sometimes a city range). Work in the cloud without asking questions.
 
 ## Rules for this run
-- No helper agents: do all work in this one session; never use the Agent/Task tool or subagents (their web fetches ask Ward for approval on his phone).
 - Finish inside this one session. Do NOT schedule any follow-up or continuation tasks (no send_later, no create_trigger).
 - Pace web requests (other runs share the limits): on an error or 429, wait 2 minutes and retry; after 5 failures in a row, save what you have and stop.
 - Never send email.
