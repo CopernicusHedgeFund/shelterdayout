@@ -11,7 +11,7 @@ DC,District of Columbia,4,4,4,0,100.00%
 FL,Florida,143,41,28,9,28.67%
 GA,Georgia,149,19,12,4,12.75%
 HI,Hawaii,12,9,8,1,75.00%
-ID,Idaho,30,3,0,1,10.00%
+ID,Idaho,29,3,0,2,10.34%
 IL,Illinois,160,18,13,3,11.25%
 IN,Indiana,108,20,11,3,18.52%
 IA,Iowa,69,6,4,1,8.70%
@@ -27,7 +27,7 @@ MS,Mississippi,36,3,2,0,8.33%
 MO,Missouri,88,11,8,1,12.50%
 MT,Montana,28,4,2,1,14.29%
 NE,Nebraska,25,2,2,0,8.00%
-NV,Nevada,32,10,8,1,31.25%
+NV,Nevada,31,13,9,3,41.94%
 NH,New Hampshire,23,6,0,6,26.09%
 NJ,New Jersey,82,6,4,0,7.32%
 NM,New Mexico,46,4,3,0,8.70%
@@ -49,4 +49,4 @@ VA,Virginia,136,24,15,6,17.65%
 WA,Washington,77,12,4,2,15.58%
 WV,West Virginia,49,4,1,0,8.16%
 WI,Wisconsin,80,17,9,4,21.25%
-WY,Wyoming,27,5,1,2,18.52%
+WY,Wyoming,28,5,2,2,17.86%

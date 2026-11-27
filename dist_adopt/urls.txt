@@ -251,6 +251,7 @@ https://shelteradoption.com/cities/leander-tx/
 https://shelteradoption.com/cities/lebanon-oh/
 https://shelteradoption.com/cities/lewisburg-tn/
 https://shelteradoption.com/cities/lexington-ky/
+https://shelteradoption.com/cities/libby-mt/
 https://shelteradoption.com/cities/lima-oh/
 https://shelteradoption.com/cities/little-rock-ar/
 https://shelteradoption.com/cities/lodi-ca/
@@ -345,6 +346,7 @@ https://shelteradoption.com/cities/paragould-ar/
 https://shelteradoption.com/cities/pensacola-fl/
 https://shelteradoption.com/cities/philadelphia-pa/
 https://shelteradoption.com/cities/phoenix-az/
+https://shelteradoption.com/cities/pinedale-wy/
 https://shelteradoption.com/cities/pittsburgh-pa/
 https://shelteradoption.com/cities/plano-tx/
 https://shelteradoption.com/cities/pomona-ny/
@@ -852,7 +854,6 @@ https://shelteradoption.com/shelters/bartlett-animal-shelter-bartlett/
 https://shelteradoption.com/shelters/bartow-county-animal-control-cartersville/
 https://shelteradoption.com/shelters/bastrop-county-animal-services-bastrop/
 https://shelteradoption.com/shelters/bath-county-animal-shelter-hot-springs/
-https://shelteradoption.com/shelters/battle-mountain-humane-society-battle-mountain/
 https://shelteradoption.com/shelters/battle-mountain-humane-society-hot-springs/
 https://shelteradoption.com/shelters/baxter-county-animal-control-mountain-home/
 https://shelteradoption.com/shelters/bay-area-pet-adoptions-san-leon/
@@ -1345,7 +1346,6 @@ https://shelteradoption.com/shelters/city-of-selma-animal-services-center-selma/
 https://shelteradoption.com/shelters/city-of-seymour-animal-shelter-seymour/
 https://shelteradoption.com/shelters/city-of-shasta-lake-animal-control-shelter-shasta-lake/
 https://shelteradoption.com/shelters/city-of-shawneetown-animal-control-shawneetown/
-https://shelteradoption.com/shelters/city-of-sidney-animal-control-sidney/
 https://shelteradoption.com/shelters/city-of-st-louis-animal-care-and-control-animal-care-center-st-louis/
 https://shelteradoption.com/shelters/city-of-stilwell-animal-control-shelter-stilwell/
 https://shelteradoption.com/shelters/city-of-tahlequah-animal-control-tahlequah/
@@ -2069,7 +2069,7 @@ https://shelteradoption.com/shelters/heartland-humane-society-ottumwa/
 https://shelteradoption.com/shelters/heartland-humane-society-yankton/
 https://shelteradoption.com/shelters/heartland-pet-connection-hastings/
 https://shelteradoption.com/shelters/hearts-alive-village-cat-caf-las-vegas/
-https://shelteradoption.com/shelters/hearts-alive-village-dog-den-las-vegas/
+https://shelteradoption.com/shelters/hearts-alive-village-joseph-mayo-rehabilitation-retreat-las-vegas/
 https://shelteradoption.com/shelters/hearts-to-homes-humane-society-nashville/
 https://shelteradoption.com/shelters/heber-springs-humane-society-virginia-l-harrison-animal-shelter-heber-springs/
 https://shelteradoption.com/shelters/heber-valley-animal-shelter-heber-city/
@@ -2575,6 +2575,7 @@ https://shelteradoption.com/shelters/kodiak-animal-shelter-humane-society-of-kod
 https://shelteradoption.com/shelters/kokomo-humane-society-kokomo/
 https://shelteradoption.com/shelters/kokoro-cat-cafe-flushing-flushing/
 https://shelteradoption.com/shelters/kokoro-cat-cafe-lower-east-side-new-york/
+https://shelteradoption.com/shelters/kootenai-pets-for-life-libby/
 https://shelteradoption.com/shelters/kossuth-county-tails-of-hope-algona/
 https://shelteradoption.com/shelters/kurth-memorial-animal-services-lufkin/
 https://shelteradoption.com/shelters/kzoo-cat-cafe-and-rescue-kalamazoo/
@@ -2611,7 +2612,6 @@ https://shelteradoption.com/shelters/lake-county-humane-society-two-harbors/
 https://shelteradoption.com/shelters/lake-county-sheriff-s-animal-control-and-adoption-center-crown-point/
 https://shelteradoption.com/shelters/lake-dallas-animal-services-lake-dallas/
 https://shelteradoption.com/shelters/lake-humane-society-and-adoption-center-mentor/
-https://shelteradoption.com/shelters/lake-lowell-animal-rescue-nampa/
 https://shelteradoption.com/shelters/lake-martin-humane-society-alexander-city/
 https://shelteradoption.com/shelters/lake-of-the-woods-humane-society-baudette/
 https://shelteradoption.com/shelters/lake-worth-animal-shelter-lake-worth/
@@ -3031,7 +3031,7 @@ https://shelteradoption.com/shelters/mostly-mutts-animal-rescue-kennesaw/
 https://shelteradoption.com/shelters/moultrie-county-animal-control-sullivan/
 https://shelteradoption.com/shelters/mount-pleasant-animal-shelter-mount-pleasant/
 https://shelteradoption.com/shelters/mountain-grove-animal-shelter-city-animal-control-mountain-grove/
-https://shelteradoption.com/shelters/mountain-home-animal-shelter-mountain-home/
+https://shelteradoption.com/shelters/mountain-home-animal-control-center-mountain-home/
 https://shelteradoption.com/shelters/mountain-humane-hailey/
 https://shelteradoption.com/shelters/mountain-shelter-humane-society-blairsville/
 https://shelteradoption.com/shelters/mountainair-animal-shelter-mountainair/
@@ -4173,6 +4173,7 @@ https://shelteradoption.com/shelters/town-of-north-hempstead-animal-shelter-port
 https://shelteradoption.com/shelters/town-of-owego-dog-shelter-town-of-owego-dog-control-owego/
 https://shelteradoption.com/shelters/town-of-oyster-bay-animal-shelter-syosset/
 https://shelteradoption.com/shelters/town-of-pembroke-animal-care-and-control-pembroke/
+https://shelteradoption.com/shelters/town-of-pinedale-animal-control-pinedale/
 https://shelteradoption.com/shelters/town-of-rangely-animal-shelter-rangely/
 https://shelteradoption.com/shelters/town-of-schroeppel-dog-shelter-phoenix/
 https://shelteradoption.com/shelters/town-of-sharon-animal-control-sharon/

@@ -172,6 +172,7 @@ https://shelterdayout.com/cities/ewa-beach-hi/
 https://shelterdayout.com/cities/fairhope-al/
 https://shelterdayout.com/cities/fairmont-wv/
 https://shelterdayout.com/cities/fairport-ny/
+https://shelterdayout.com/cities/fallon-nv/
 https://shelterdayout.com/cities/fallston-md/
 https://shelterdayout.com/cities/farmington-hills-mi/
 https://shelterdayout.com/cities/fayetteville-ar/
@@ -224,6 +225,7 @@ https://shelterdayout.com/cities/holualoa-hi/
 https://shelterdayout.com/cities/honolulu-hi/
 https://shelterdayout.com/cities/houston-tx/
 https://shelterdayout.com/cities/huntsville-al/
+https://shelterdayout.com/cities/incline-village-nv/
 https://shelterdayout.com/cities/
 https://shelterdayout.com/cities/indianapolis-in/
 https://shelterdayout.com/cities/inverness-fl/
@@ -263,6 +265,7 @@ https://shelterdayout.com/cities/lawrenceville-ga/
 https://shelterdayout.com/cities/league-city-tx/
 https://shelterdayout.com/cities/leesburg-va/
 https://shelterdayout.com/cities/lewisburg-wv/
+https://shelterdayout.com/cities/lewiston-id/
 https://shelterdayout.com/cities/lewiston-me/
 https://shelterdayout.com/cities/lexington-ky/
 https://shelterdayout.com/cities/lihue-hi/
@@ -326,7 +329,6 @@ https://shelterdayout.com/cities/murray-ky/
 https://shelterdayout.com/cities/murray-ut/
 https://shelterdayout.com/cities/myerstown-pa/
 https://shelterdayout.com/cities/nacogdoches-tx/
-https://shelterdayout.com/cities/nampa-id/
 https://shelterdayout.com/cities/naples-fl/
 https://shelterdayout.com/cities/nashville-tn/
 https://shelterdayout.com/cities/new-castle-de/
@@ -897,7 +899,6 @@ https://shelterdayout.com/listings/bartlett-animal-shelter-bartlett/
 https://shelterdayout.com/listings/bartow-county-animal-control-cartersville/
 https://shelterdayout.com/listings/bastrop-county-animal-services-bastrop/
 https://shelterdayout.com/listings/bath-county-animal-shelter-hot-springs/
-https://shelterdayout.com/listings/battle-mountain-humane-society-battle-mountain/
 https://shelterdayout.com/listings/battle-mountain-humane-society-hot-springs/
 https://shelterdayout.com/listings/baxter-county-animal-control-mountain-home/
 https://shelterdayout.com/listings/bay-area-pet-adoptions-san-leon/
@@ -1390,7 +1391,6 @@ https://shelterdayout.com/listings/city-of-selma-animal-services-center-selma/
 https://shelterdayout.com/listings/city-of-seymour-animal-shelter-seymour/
 https://shelterdayout.com/listings/city-of-shasta-lake-animal-control-shelter-shasta-lake/
 https://shelterdayout.com/listings/city-of-shawneetown-animal-control-shawneetown/
-https://shelterdayout.com/listings/city-of-sidney-animal-control-sidney/
 https://shelterdayout.com/listings/city-of-st-louis-animal-care-and-control-animal-care-center-st-louis/
 https://shelterdayout.com/listings/city-of-stilwell-animal-control-shelter-stilwell/
 https://shelterdayout.com/listings/city-of-tahlequah-animal-control-tahlequah/
@@ -2114,7 +2114,7 @@ https://shelterdayout.com/listings/heartland-humane-society-ottumwa/
 https://shelterdayout.com/listings/heartland-humane-society-yankton/
 https://shelterdayout.com/listings/heartland-pet-connection-hastings/
 https://shelterdayout.com/listings/hearts-alive-village-cat-caf-las-vegas/
-https://shelterdayout.com/listings/hearts-alive-village-dog-den-las-vegas/
+https://shelterdayout.com/listings/hearts-alive-village-joseph-mayo-rehabilitation-retreat-las-vegas/
 https://shelterdayout.com/listings/hearts-to-homes-humane-society-nashville/
 https://shelterdayout.com/listings/heber-springs-humane-society-virginia-l-harrison-animal-shelter-heber-springs/
 https://shelterdayout.com/listings/heber-valley-animal-shelter-heber-city/
@@ -2620,6 +2620,7 @@ https://shelterdayout.com/listings/kodiak-animal-shelter-humane-society-of-kodia
 https://shelterdayout.com/listings/kokomo-humane-society-kokomo/
 https://shelterdayout.com/listings/kokoro-cat-cafe-flushing-flushing/
 https://shelterdayout.com/listings/kokoro-cat-cafe-lower-east-side-new-york/
+https://shelterdayout.com/listings/kootenai-pets-for-life-libby/
 https://shelterdayout.com/listings/kossuth-county-tails-of-hope-algona/
 https://shelterdayout.com/listings/kurth-memorial-animal-services-lufkin/
 https://shelterdayout.com/listings/kzoo-cat-cafe-and-rescue-kalamazoo/
@@ -2656,7 +2657,6 @@ https://shelterdayout.com/listings/lake-county-humane-society-two-harbors/
 https://shelterdayout.com/listings/lake-county-sheriff-s-animal-control-and-adoption-center-crown-point/
 https://shelterdayout.com/listings/lake-dallas-animal-services-lake-dallas/
 https://shelterdayout.com/listings/lake-humane-society-and-adoption-center-mentor/
-https://shelterdayout.com/listings/lake-lowell-animal-rescue-nampa/
 https://shelterdayout.com/listings/lake-martin-humane-society-alexander-city/
 https://shelterdayout.com/listings/lake-of-the-woods-humane-society-baudette/
 https://shelterdayout.com/listings/lake-worth-animal-shelter-lake-worth/
@@ -3076,7 +3076,7 @@ https://shelterdayout.com/listings/mostly-mutts-animal-rescue-kennesaw/
 https://shelterdayout.com/listings/moultrie-county-animal-control-sullivan/
 https://shelterdayout.com/listings/mount-pleasant-animal-shelter-mount-pleasant/
 https://shelterdayout.com/listings/mountain-grove-animal-shelter-city-animal-control-mountain-grove/
-https://shelterdayout.com/listings/mountain-home-animal-shelter-mountain-home/
+https://shelterdayout.com/listings/mountain-home-animal-control-center-mountain-home/
 https://shelterdayout.com/listings/mountain-humane-hailey/
 https://shelterdayout.com/listings/mountain-shelter-humane-society-blairsville/
 https://shelterdayout.com/listings/mountainair-animal-shelter-mountainair/
@@ -4218,6 +4218,7 @@ https://shelterdayout.com/listings/town-of-north-hempstead-animal-shelter-port-w
 https://shelterdayout.com/listings/town-of-owego-dog-shelter-town-of-owego-dog-control-owego/
 https://shelterdayout.com/listings/town-of-oyster-bay-animal-shelter-syosset/
 https://shelterdayout.com/listings/town-of-pembroke-animal-care-and-control-pembroke/
+https://shelterdayout.com/listings/town-of-pinedale-animal-control-pinedale/
 https://shelterdayout.com/listings/town-of-rangely-animal-shelter-rangely/
 https://shelterdayout.com/listings/town-of-schroeppel-dog-shelter-phoenix/
 https://shelterdayout.com/listings/town-of-sharon-animal-control-sharon/
