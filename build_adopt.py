@@ -179,7 +179,7 @@ SEARCH_JS = """<script>
   var c=items.map(function(li){var l=li.dataset.ll;var a=li.querySelector('a');var m=li.querySelector('.meta');return {name:a.textContent,url:a.getAttribute('href'),loc:m?m.textContent.split(' \u00b7 ')[0]:'',ll:l?l.split(',').map(Number):null};});
   window.sdoNear(t,s,c,function(pl,list){
    if(!pl||!list.length){box.innerHTML='<p><b>No shelters match &ldquo;'+esc(t)+'&rdquo;'+(s?' in '+esc(SN[s]||s):'')+'.</b> Try a nearby city or county name'+(s?', or <a href="/states/'+esc((SN[s]||'').toLowerCase().replace(/[^a-z0-9]+/g,'-'))+'/">see every shelter in '+esc(SN[s]||s)+'</a>':'')+'.</p>';return;}
-   box.innerHTML='<p><b>Nearest shelters to '+esc(pl.name)+', '+esc(pl.st)+':</b></p><ul>'+list.map(function(x){return '<li><a href="'+x.url+'">'+esc(x.name)+'</a> ('+esc(x.loc)+') &middot; about '+x.mi+' miles</li>';}).join('')+'</ul>';});}
+   box.innerHTML=window.sdoAlts(pl,t)+'<p><b>Nearest shelters to '+esc(pl.name)+', '+esc(pl.st)+':</b></p><ul>'+list.map(function(x){return '<li><a href="'+x.url+'">'+esc(x.name)+'</a> ('+esc(x.loc)+') &middot; about '+x.mi+' miles</li>';}).join('')+'</ul>';});}
  q.addEventListener('input',run);if(st)st.addEventListener('change',run);
  f.addEventListener('submit',function(e){e.preventDefault();run();q.blur();res.scrollIntoView({behavior:'smooth',block:'start'});});
  var u=new URLSearchParams(location.search);if(u.get('q'))q.value=u.get('q');if(u.get('state')&&st)st.value=u.get('state').toUpperCase();
