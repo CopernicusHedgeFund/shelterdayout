@@ -12,7 +12,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@homewardboundanimals.org",
-  "phone": "+1 802 388 1100",
+  "phone": "(802) 388-1100",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7164785791"
  },
@@ -20,16 +20,16 @@
   "state": "VT",
   "city": "South Burlington",
   "org": "Humane Society of Chittenden County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://hsccvt.org/",
-  "notes": "",
+  "program": "Short-term / weekend dog foster",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Weekend foster",
+  "url": "https://www.hsccvt.org/Foster",
+  "notes": "The shelter sometimes needs short-term or weekend foster homes for dogs; apply through the dog foster application even if you can't commit long-term.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@hsccvt.org",
   "email_main": "bestfriends@hsccvt.org",
-  "phone": "+1 802-862-0135",
+  "phone": "(802) 862-0135",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/460159787",
   "events": [
@@ -71,7 +71,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@spfldhumane.org",
-  "phone": "+1 802 885 3997",
+  "phone": "(802) 885-3997",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1130534259"
  },
@@ -89,7 +89,7 @@
   "email_program": "",
   "email_main": "adoptions@rchsvt.org",
   "source_list": "shelter website",
-  "phone": "(802) 483-6700"
+  "phone": "(802) 483-6700 ext. 201"
  },
  {
   "state": "VT",
@@ -168,7 +168,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lucymac.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(802) 484-5829"
  },
  {
   "state": "VT",
@@ -182,7 +183,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "customerservice@ncal.com",
   "source_list": "shelter website",
   "phone": "(802) 888-5065"
  },
