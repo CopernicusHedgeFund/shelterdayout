@@ -29,7 +29,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+18148358331",
+  "phone": "(814) 835-8331",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/809371979"
  },
@@ -62,8 +62,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1 814 724 5115",
+  "email_main": "cchsshelter@windstream.net",
+  "phone": "(814) 724-5115",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1123763371"
  },
@@ -232,10 +232,10 @@
   "org": "Humane Animal Rescue of Pittsburgh",
   "program": "Barks & Rec",
   "status": "Open to public",
-  "animals": "Dogs and cats",
+  "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://humaneanimalrescue.org/barks-and-rec/",
-  "notes": "Field trips with adoptable dogs; anyone 10+ can join (adult volunteer holds leash). Apply online; review takes about 6-8 weeks, then trip is scheduled. Pickup no earlier than 10am, return by 3pm. Shelters: East Side (6926 Hamilton Ave) and North Side (1101 Western Ave). Phone 412-345-7300.",
+  "notes": "Anyone 10 or older can apply online after watching a short video, and once approved (about 6-8 weeks) takes an adoptable dog on a few-hour field trip between 10am pickup and 3pm return, with the applicant holding the leash.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -512,8 +512,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-814-362-8850",
+  "email_main": "mckeancountyspca@gmail.com",
+  "phone": "(814) 362-8850",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1511782634"
  },
@@ -525,12 +525,12 @@
   "status": "No program yet",
   "animals": "Cats",
   "offers": "",
-  "url": "",
-  "notes": "Official site not confirmed (listed on the PA Dept. of Agriculture shelter list).",
+  "url": "https://www.kittenscoop.org/",
+  "notes": "Official site kittenscoop.org lists 323 Oakland Ave, Greensburg, PA 15601; TNVR-focused cat rescue.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "kittenscoop@gmail.com",
-  "phone": "+1 724 519 9687",
+  "phone": "(724) 221-7530",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1127601967"
  },
@@ -538,12 +538,12 @@
   "state": "PA",
   "city": "Edgewood",
   "org": "Rescue and Relax",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Cat Lounge",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "",
-  "url": "https://www.rescueandrelax.com/",
-  "notes": "",
+  "offers": "Cat lounge visits",
+  "url": "https://www.rescueandrelax.com/visit/",
+  "notes": "Drop in during public hours (Fri-Sun, 3-8 pm) at 104-106 E Swissvale Ave to hang out with 14-18 resident adoptable cats on a pay-what-you-can basis, no reservation needed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@rescueandrelax.com",
@@ -564,7 +564,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(717) 764-6109"
  },
  {
   "state": "PA",
@@ -597,7 +598,7 @@
   "email_program": "",
   "email_main": "info@centralpahumane.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1-814-942-5402",
+  "phone": "(814) 942-5402",
   "osm": "way/297398441"
  },
  {
@@ -612,7 +613,7 @@
   "notes": "PDA licensed shelter list: 33 Mill Hill Rd, Lock Haven.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ccspca@comcast.net",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(570) 748-4756",
   "osm": "way/637888348"
@@ -629,7 +630,7 @@
   "notes": "PDA licensed shelter list: 1401 Trout Road, State College.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "mail@centrecountypaws.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(814) 237-8722",
   "osm": "way/681511027"
@@ -646,7 +647,7 @@
   "notes": "PDA licensed shelter list: 2451 General Potter Hwy, Centre Hall.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@petscomefirst.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(814) 364-1725",
   "osm": "way/753589609"
@@ -665,7 +666,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "+1 717-762-9091",
+  "phone": "(717) 762-9091",
   "osm": "way/1141628723"
  },
  {
@@ -695,7 +696,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 725 Gee Road, Tioga (Tioga Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "secondchanceas@yahoo.com",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(570) 376-3646"
  },
@@ -711,7 +712,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 275 21st St, Clearfield. Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "clearfieldcountyspca@gmail.com",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(814) 765-2220"
  },
@@ -743,8 +744,9 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 182 Bohn Road, Bedford. Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "PA Dept. of Agriculture shelter list"
+  "email_main": "bchs@bchsonline.org",
+  "source_list": "PA Dept. of Agriculture shelter list",
+  "phone": "(814) 623-8968"
  },
  {
   "state": "PA",
@@ -774,7 +776,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 5051 Letterkenny Road W, Chambersburg (Franklin Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "cvasbusiness@cvas-pets.org",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(717) 263-5791"
  },
@@ -790,7 +792,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 2715 Warm Spring Road, Chambersburg. Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@justice-rescue.com",
   "source_list": "PA Dept. of Agriculture shelter list"
  },
  {
@@ -805,25 +807,9 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 225 Meadow Woods Dr, Lewistown (Mifflin Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptodaat@gmail.com",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(888) 509-2011"
- },
- {
-  "state": "PA",
-  "city": "Lewistown",
-  "org": "Rescue Our Furry Friends",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://roffrescue.org/",
-  "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 120 Hoss Dr, Lewistown (Mifflin Co.). Own website not yet verified.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "PA Dept. of Agriculture shelter list",
-  "phone": "(877) 933-7633"
  },
  {
   "state": "PA",
@@ -837,7 +823,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 379 Sugar Run Road, Millerstown (Perry Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "perrycountyanimalrescue@yahoo.com",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(717) 589-3005"
  },
@@ -853,7 +839,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 1216 Brandt Road, Mechanicsburg (Cumberland Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@speranzarescue.org",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(717) 609-6020"
  },
@@ -869,7 +855,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 11 Goldenville Rd, Gettysburg. Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "contactus@adamscountyspca.org",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(717) 334-8876"
  },
@@ -885,7 +871,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 2 Heritage Farm Dr, New Freedom (York Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "office@animalrescueinc.org",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(717) 993-3232"
  },
@@ -901,7 +887,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 85 Brittany Ln, Dillsburg (York Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@crcpa.org",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(717) 232-1644"
  },
@@ -923,7 +909,7 @@
  },
  {
   "state": "PA",
-  "city": "York",
+  "city": "Windsor",
   "org": "2nd Chance 4 Life Rescue",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -933,7 +919,7 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 737 Taylor Rd (PDA list), York Co.. Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "2ndChance4LifeRescue@gmail.com",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(717) 208-4446"
  },
@@ -949,25 +935,9 @@
   "notes": "Take an adoptable dog on an outing. Pick-ups Tue-Fri 11am-3pm, Sat-Sun 11am-2pm; dogs back one hour before closing (6pm weekdays, 5pm weekends). Dogs wear Adopt Me vest/harness; matched by leash-handling comfort; report card afterward. No Skip Days during on-site events. Page refers to volunteers; age/ID/booking not stated. 7790 Grayson Road, Harrisburg; (717) 564-3320.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "frontdesk@humanesocietyhbg.org",
   "source_list": "shelter website",
   "phone": "(717) 564-3320"
- },
- {
-  "state": "PA",
-  "city": "Middletown",
-  "org": "Castaway Critters",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.castawaycritters.org",
-  "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 600 Schoolhouse Rd, Middletown (Dauphin Co.). Own website not yet verified.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "PA Dept. of Agriculture shelter list",
-  "phone": "(717) 831-5010"
  },
  {
   "state": "PA",
@@ -997,24 +967,26 @@
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 685 Cherry Street, Milton (Northumberland Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "PA Dept. of Agriculture shelter list"
+  "email_main": "4pawssakepa@gmail.com",
+  "source_list": "PA Dept. of Agriculture shelter list",
+  "phone": "(570) 238-0364"
  },
  {
   "state": "PA",
   "city": "Sunbury",
-  "org": "Haven to Home Rescue",
+  "org": "Haven to Home Canine Rescue",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Dogs",
   "offers": "",
   "url": "https://www.haventohome.org/",
   "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 102 Rushmore Lane, Sunbury (Northumberland Co.). Own website not yet verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "haventohome@gmail.com",
   "source_list": "PA Dept. of Agriculture shelter list",
-  "phone": "(570) 884-5067"
+  "phone": "(570) 884-5067",
+  "events": []
  },
  {
   "state": "PA",
@@ -1041,10 +1013,10 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.pspca.org/danville",
-  "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 2801 Bloom Rd, Danville (Montour Co.). Own website not yet verified.",
+  "notes": "Danville Center at 1467 Bloom Rd, Danville; shelter and adoptions open daily 12-6 pm with no appointment needed (per pspca.org).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "danville@pspca.org",
   "source_list": "PA Dept. of Agriculture shelter list",
   "phone": "(570) 275-0340"
  },
@@ -1057,7 +1029,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://nokillarc.org/",
-  "notes": "Listed on PA Dept. of Agriculture licensed shelter list: 80 Hogs Back Rd, Millville (Columbia Co.). Own website not yet verified.",
+  "notes": "No-kill shelter at 80 Hogs Back Rd, Millville (mailing PO Box 439, Bloomsburg); adoption starts with a pre-approval form on its website.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1073,7 +1045,7 @@
   "animals": "Dogs",
   "offers": "Day trip (1 hour to all day)",
   "url": "https://bvspca.org/shelter-skip-day",
-  "notes": "Open to the public at the West Chester, Plymouth Meeting and Lancaster, PA campuses; no registration or training needed. Choose a dog on arrival. Pick-up Tue-Fri 12-4 pm, Sat-Sun 11 am-2 pm; return same day one hour before closing. Dog wears Adopt Me vest and harness; fill out a report card.",
+  "notes": "Open to the public with no registration or training: pick a dog at a participating campus (West Chester, Plymouth Meeting or Lancaster in PA, plus Delaware and DC sites) Tue-Fri 12-4 pm or Sat-Sun 11 am-2 pm and return it the same day one hour before closing.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1094,11 +1066,6 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Furday - 50% off adoption fees",
-    "url": "https://acctphilly.org/event/black-furday-50-off-adoption-fees/"
-   },
    {
     "date": "2026-11-25",
     "end": "2026-11-30",
@@ -1144,10 +1111,10 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://bradfordcountyhumane.com/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "Shelter in Ulster (PO Box 179) open Mon-Fri 10:30 am-4:30 pm and Sat 10 am-4 pm; volunteers walk dogs and socialize cats on site.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "bradfordchs@cableracer.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/544992131",
   "phone": "(570) 888-2114"
@@ -1161,13 +1128,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.truefriendsawc.com/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "No-kill adoption shelter at 16332 SR 706, Montrose, serving Susquehanna and Wyoming Counties.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/397374201",
-  "phone": ""
+  "phone": "(570) 278-1228"
  },
  {
   "state": "PA",
@@ -1194,7 +1161,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.griffinpondanimalshelter.com/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "Shelter at 967 Griffin Pond Road, Clarks Summit; visiting 12-3 pm daily except Tuesdays, dog areas 18+.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1204,17 +1171,26 @@
  {
   "state": "PA",
   "city": "Dallas",
-  "org": "Blue Chip Animal Refuge",
+  "org": "Blue Chip Farm Animal Refuge",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked. Official site not confirmed (listed on the PA Dept. of Agriculture shelter list).",
+  "url": "https://bcfanimalrefuge.org/",
+  "notes": "No-kill shelter for dogs, cats and rabbits at 974 Lockville Rd, Dallas; not open to walk-ins, so apply online and staff schedule a visit.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "bluechipfarm2023@gmail.com",
+  "source_list": "shelter website",
+  "phone": "(570) 333-5265",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Adoption Event",
+    "url": "https://bcfanimalrefuge.org/event-blog/",
+    "place": "Green Dog Barkery"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -1242,7 +1218,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.spcaluzernecounty.org/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "524 E Main St, Wilkes-Barre. No day-out program on own site; volunteering is on-site only.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1254,14 +1230,14 @@
   "city": "Shohola",
   "org": "Pike County Humane Society",
   "program": "Day or weekend foster",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip, weekend",
   "url": "https://pikecountyhumanesociety.org/how-you-can-help/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "Approved foster applicants (Foster Form on the site) can take a dog out just for the day or for a weekend; the shelter contacts you when help is needed.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "pikecountyhs@gmail.com",
+  "email_main": "pikecountyhs@gmail.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7731679424",
   "phone": "(570) 296-7654"
@@ -1275,7 +1251,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://awsomanimals.org/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "3129 Godfrey Ridge Drive, Stroudsburg; open daily 11am-4pm. No day-out program on own site (dog walking is on-site volunteering).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1298,7 +1274,7 @@
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/5940764444",
-  "phone": ""
+  "phone": "(570) 801-6166"
  },
  {
   "state": "PA",
@@ -1308,12 +1284,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked. Official site not confirmed (listed on the PA Dept. of Agriculture shelter list).",
+  "url": "https://www.carboncountypa.gov/services/animal_shelter_k9.php",
+  "notes": "County-run shelter at 63 Broad Street, Nesquehoning. No day-out program or adoption events listed on the county page.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "cck9@ptd.net",
+  "source_list": "shelter website",
+  "phone": "(570) 325-4828"
  },
  {
   "state": "PA",
@@ -1324,7 +1301,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.hillsidespca.com/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "51 SPCA Road, Pottsville; visitation and adoptions 11am-3pm daily. No day-out program on own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1340,7 +1317,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.rsmspca.org/",
-  "notes": "Confirmed on the PA Dept. of Agriculture licensed shelter list; own website could not be loaded during this check, so day-out program and events are unchecked.",
+  "notes": "Pine Grove, serving Schuylkill County. No day-out program on own site; regular fostering only.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1413,7 +1390,7 @@
   "email_main": "info@thesanctuarypa.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1362746642",
-  "phone": "+14842855445"
+  "phone": "(484) 285-5445"
  },
  {
   "state": "PA",
@@ -1424,13 +1401,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://humanepa.org/partners/freedom-center-for-animal-life-saving/",
-  "notes": "Listed by PA Dept. of Agriculture as Humane Society of Berks Co, Reading. Shelter site could not be loaded during this check; program and events unchecked.",
+  "notes": "Freedom Center for Animal Life-Saving, 1801 N. 11th Street, Reading. No day-out program found on own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptreading@humanepa.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/946169898",
-  "phone": "+1 610-921-2348"
+  "phone": "(610) 921-2348"
  },
  {
   "state": "PA",
@@ -1440,12 +1417,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.pspca.org/locations",
-  "notes": "848 S. Prince Street.",
+  "url": "https://pspca.org/locations/lancaster/",
+  "notes": "848 S. Prince Street; adoptions open daily 12-6pm, walk-ins welcome. No day-out program listed for this location.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "lancaster@pspca.org",
+  "source_list": "shelter website",
+  "phone": "(717) 917-6979"
  },
  {
   "state": "PA",
@@ -1465,17 +1443,17 @@
  },
  {
   "state": "PA",
-  "city": "Phoenixville",
+  "city": "Chester Springs",
   "org": "Main Line Animal Rescue (Pennsylvania SPCA)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.mlar.org/",
-  "notes": "1149 Pike Springs Road (Chester Springs area). Adoptions: adoptions.mainline@pspca.org.",
+  "url": "https://pspca.org/locations/mlar/",
+  "notes": "1149 Pike Springs Road, Chester Springs; adoptions open daily 10:30am-5:30pm, no appointment needed. No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "info@mlar.org",
+  "email_main": "mlaroffice@pspca.org",
   "source_list": "shelter website",
   "phone": "(610) 933-0606"
  },
@@ -1526,7 +1504,7 @@
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/7341765278",
-  "phone": "(610) 825-0111"
+  "phone": "(610) 754-7822"
  },
  {
   "state": "PA",
@@ -1542,7 +1520,16 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(215) 794-7425"
+  "phone": "(215) 794-7425",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-12-31",
+    "title": "Half off adult pet adoptions (Black Friday through New Year's Eve)",
+    "url": "http://buckscountyspca.org/pets",
+    "place": "Lahaska Animal Care Center, 1665 Street Road, New Hope"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -1558,7 +1545,16 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(215) 794-7425"
+  "phone": "(267) 347-4674",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-12-31",
+    "title": "Half off adult pet adoptions (Black Friday through New Year's Eve)",
+    "url": "http://buckscountyspca.org/pets",
+    "place": "Quakertown Animal Care Center, 60 Reservoir Road, Quakertown"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -1569,10 +1565,10 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.womensanimalcenter.org/",
-  "notes": "3839 Richlieu Road; 215-750-5252. Listed by PA Dept. of Agriculture as Women's Humane Society.",
+  "notes": "3839 Richlieu Road; shelter/adoptions 215-750-3100 (veterinary hospital 215-750-5252). Listed by PA Dept. of Agriculture as Women's Humane Society.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "helpline@womensanimalcenter.org",
   "source_list": "shelter website",
   "phone": "(215) 750-3100"
  },
@@ -1580,16 +1576,17 @@
   "state": "PA",
   "city": "Philadelphia",
   "org": "Pennsylvania SPCA",
-  "program": "Short-term foster",
+  "program": "Couch Potato Program",
   "status": "Needs check",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.pspca.org/foster-short-term",
-  "notes": "The Pennsylvania SPCA's website has a short-term foster page for taking an animal home for a brief stay; see the page for current details.",
+  "animals": "Dogs",
+  "offers": "Short home stays (a few days)",
+  "url": "https://pspca.org/foster/",
+  "notes": "The Couch Potato Program places a shelter dog in a home for just a few days so staff can learn its personality for better adoption matches; sign up via the foster application and ask foster@pspca.org about eligibility.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "foster@pspca.org",
+  "email_main": "info@pspca.org",
+  "source_list": "shelter website",
+  "phone": "(215) 426-6300"
  },
  {
   "state": "PA",
@@ -1611,16 +1608,25 @@
   "state": "PA",
   "city": "Philadelphia",
   "org": "PAWS (Philadelphia Animal Welfare Society)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://phillypaws.org/",
-  "notes": "Old City Adoption Center, 100 N. 2nd St; satellite at PetSmart Broad & Washington.",
+  "program": "Dog shelter breaks (short-term foster)",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips, short home stays",
+  "url": "https://phillypaws.org/foster/",
+  "notes": "PAWS fosters can take a long-stay dog out for a day trip or home for a few days to give it a break from the shelter; email foster@phillypaws.org to set it up.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@phillypaws.org",
   "email_main": "adoptions@phillypaws.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(215) 238-9901",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Adoption Event with Pet Supplies Plus",
+    "url": "https://phillypaws.org/events/adoption-event-with-pets-supplies-plus-2-2-2-2/",
+    "place": "Pet Supplies Plus, 2475 Aramingo Ave., Philadelphia"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -1665,13 +1671,13 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.ngap.org/index.html",
-  "notes": "Greyhound adoption kennel; website could not be loaded during this check, so facility, program and events are unverified.",
+  "notes": "Greyhound adoption and boarding kennel at 10901 Dutton Road, Northeast Philadelphia; site shows no current events or day-out program and appears not recently updated.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/543770916",
-  "phone": ""
+  "phone": "(215) 331-7918"
  },
  {
   "state": "PA",
@@ -1683,7 +1689,7 @@
   "offers": "",
   "url": "https://cameroncountyspca.wixsite.com/camcospca",
   "phone": "(814) 486-0101",
-  "notes": "",
+  "notes": "678 South Mountain Rd, Emporium.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1695,11 +1701,11 @@
   "org": "Carbon County Friends of Animals",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "url": "https://ccfoa.info/",
   "phone": "(570) 325-9400",
-  "notes": "",
+  "notes": "Cat shelter at 77 W 13th St, Jim Thorpe; visiting hours noon-3:30 pm daily.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1718,7 +1724,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "keepingthefaithshelter@gmail.com",
   "source_list": "shelter website"
  },
  {
@@ -1746,11 +1752,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://humanepa.org/abouthpa/locations-contact/",
-  "phone": "",
+  "phone": "(717) 393-6551",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptlancaster@humanepa.org",
   "source_list": "shelter website"
  },
  {

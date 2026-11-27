@@ -245,7 +245,6 @@ https://shelteradoption.com/cities/lawrenceville-il/
 https://shelteradoption.com/cities/leander-tx/
 https://shelteradoption.com/cities/lebanon-oh/
 https://shelteradoption.com/cities/lewisburg-tn/
-https://shelteradoption.com/cities/lewistown-pa/
 https://shelteradoption.com/cities/lexington-ky/
 https://shelteradoption.com/cities/lima-oh/
 https://shelteradoption.com/cities/little-rock-ar/
@@ -478,7 +477,6 @@ https://shelteradoption.com/cities/winchester-va/
 https://shelteradoption.com/cities/winston-salem-nc/
 https://shelteradoption.com/cities/winter-haven-fl/
 https://shelteradoption.com/cities/wooster-oh/
-https://shelteradoption.com/cities/york-pa/
 https://shelteradoption.com/cities/youngwood-pa/
 https://shelteradoption.com/cities/yreka-ca/
 https://shelteradoption.com/cities/yukon-ok/
@@ -543,7 +541,7 @@ https://shelteradoption.com/find-a-vet/washington/
 https://shelteradoption.com/find-a-vet/west-virginia/
 https://shelteradoption.com/find-a-vet/wisconsin/
 https://shelteradoption.com/find-a-vet/wyoming/
-https://shelteradoption.com/shelters/2nd-chance-4-life-rescue-york/
+https://shelteradoption.com/shelters/2nd-chance-4-life-rescue-windsor/
 https://shelteradoption.com/shelters/4-paws-animal-control-shakopee/
 https://shelteradoption.com/shelters/4-paws-farm-hempstead/
 https://shelteradoption.com/shelters/4-paws-sake-pa-milton/
@@ -944,7 +942,7 @@ https://shelteradoption.com/shelters/bloomfield-township-animal-shelter-bloomfie
 https://shelteradoption.com/shelters/bloomington-animal-shelter-bloomington-animal-control-bloomington/
 https://shelteradoption.com/shelters/blount-county-animal-adoption-center-cleveland/
 https://shelteradoption.com/shelters/blount-county-animal-center-maryville/
-https://shelteradoption.com/shelters/blue-chip-animal-refuge-dallas/
+https://shelteradoption.com/shelters/blue-chip-farm-animal-refuge-dallas/
 https://shelteradoption.com/shelters/blue-earth-nicollet-county-humane-society-mankato/
 https://shelteradoption.com/shelters/blue-mountain-humane-association-la-grande/
 https://shelteradoption.com/shelters/blue-mountain-humane-society-walla-walla/
@@ -1125,7 +1123,6 @@ https://shelteradoption.com/shelters/casper-humane-society-casper/
 https://shelteradoption.com/shelters/cass-county-animal-control-cassopolis/
 https://shelteradoption.com/shelters/cass-county-animal-control-virginia/
 https://shelteradoption.com/shelters/cass-county-humane-society-logansport/
-https://shelteradoption.com/shelters/castaway-critters-middletown/
 https://shelteradoption.com/shelters/cat-adoption-team-sherwood/
 https://shelteradoption.com/shelters/cat-angels-pet-adoptions-cary/
 https://shelteradoption.com/shelters/cat-care-society-lakewood/
@@ -2026,7 +2023,7 @@ https://shelteradoption.com/shelters/hartsville-trousdale-county-animal-shelter-
 https://shelteradoption.com/shelters/harvest-hills-animal-shelter-fryeburg/
 https://shelteradoption.com/shelters/haven-humane-society-anderson/
 https://shelteradoption.com/shelters/haven-of-the-ozarks-animal-sanctuary-washburn/
-https://shelteradoption.com/shelters/haven-to-home-rescue-sunbury/
+https://shelteradoption.com/shelters/haven-to-home-canine-rescue-sunbury/
 https://shelteradoption.com/shelters/havre-animal-shelter-havre/
 https://shelteradoption.com/shelters/hawaii-island-humane-society-animal-community-center-in-kona-holualoa/
 https://shelteradoption.com/shelters/hawaii-island-humane-society-keaau-shelter-keaau/
@@ -2793,7 +2790,7 @@ https://shelteradoption.com/shelters/madison-greene-humane-society-ruckersville/
 https://shelteradoption.com/shelters/madison-heights-animal-shelter-madison-heights/
 https://shelteradoption.com/shelters/madison-oglethorpe-animal-shelter-danielsville/
 https://shelteradoption.com/shelters/mahoning-county-dog-warden-youngstown/
-https://shelteradoption.com/shelters/main-line-animal-rescue-pennsylvania-spca-phoenixville/
+https://shelteradoption.com/shelters/main-line-animal-rescue-pennsylvania-spca-chester-springs/
 https://shelteradoption.com/shelters/malvern-animal-shelter-malvern/
 https://shelteradoption.com/shelters/manatee-county-cat-town-bradenton/
 https://shelteradoption.com/shelters/manchester-animal-control-manchester/
@@ -3553,7 +3550,6 @@ https://shelteradoption.com/shelters/regional-center-for-animal-care-and-protect
 https://shelteradoption.com/shelters/rehoboth-animal-shelter-rehoboth/
 https://shelteradoption.com/shelters/republic-animal-control-center-republic/
 https://shelteradoption.com/shelters/rescue-and-relax-edgewood/
-https://shelteradoption.com/shelters/rescue-our-furry-friends-lewistown/
 https://shelteradoption.com/shelters/rescue-ranch-adoption-center-yreka/
 https://shelteradoption.com/shelters/rescue-village-geauga-humane-society-russell-township/
 https://shelteradoption.com/shelters/rescued-treasures-cat-cafe-by-palnv-las-vegas/

@@ -145,6 +145,7 @@ https://shelterdayout.com/cities/easton-md/
 https://shelterdayout.com/cities/eastpoint-fl/
 https://shelterdayout.com/cities/eatontown-nj/
 https://shelterdayout.com/cities/eau-claire-wi/
+https://shelterdayout.com/cities/edgewood-pa/
 https://shelterdayout.com/cities/edinburg-tx/
 https://shelterdayout.com/cities/edwardsville-il/
 https://shelterdayout.com/cities/el-cajon-ca/
@@ -552,7 +553,7 @@ https://shelterdayout.com/find-a-vet/washington/
 https://shelterdayout.com/find-a-vet/west-virginia/
 https://shelterdayout.com/find-a-vet/wisconsin/
 https://shelterdayout.com/find-a-vet/wyoming/
-https://shelterdayout.com/listings/2nd-chance-4-life-rescue-york/
+https://shelterdayout.com/listings/2nd-chance-4-life-rescue-windsor/
 https://shelterdayout.com/listings/4-paws-animal-control-shakopee/
 https://shelterdayout.com/listings/4-paws-farm-hempstead/
 https://shelterdayout.com/listings/4-paws-sake-pa-milton/
@@ -953,7 +954,7 @@ https://shelterdayout.com/listings/bloomfield-township-animal-shelter-bloomfield
 https://shelterdayout.com/listings/bloomington-animal-shelter-bloomington-animal-control-bloomington/
 https://shelterdayout.com/listings/blount-county-animal-adoption-center-cleveland/
 https://shelterdayout.com/listings/blount-county-animal-center-maryville/
-https://shelterdayout.com/listings/blue-chip-animal-refuge-dallas/
+https://shelterdayout.com/listings/blue-chip-farm-animal-refuge-dallas/
 https://shelterdayout.com/listings/blue-earth-nicollet-county-humane-society-mankato/
 https://shelterdayout.com/listings/blue-mountain-humane-association-la-grande/
 https://shelterdayout.com/listings/blue-mountain-humane-society-walla-walla/
@@ -1134,7 +1135,6 @@ https://shelterdayout.com/listings/casper-humane-society-casper/
 https://shelterdayout.com/listings/cass-county-animal-control-cassopolis/
 https://shelterdayout.com/listings/cass-county-animal-control-virginia/
 https://shelterdayout.com/listings/cass-county-humane-society-logansport/
-https://shelterdayout.com/listings/castaway-critters-middletown/
 https://shelterdayout.com/listings/cat-adoption-team-sherwood/
 https://shelterdayout.com/listings/cat-angels-pet-adoptions-cary/
 https://shelterdayout.com/listings/cat-care-society-lakewood/
@@ -2035,7 +2035,7 @@ https://shelterdayout.com/listings/hartsville-trousdale-county-animal-shelter-ha
 https://shelterdayout.com/listings/harvest-hills-animal-shelter-fryeburg/
 https://shelterdayout.com/listings/haven-humane-society-anderson/
 https://shelterdayout.com/listings/haven-of-the-ozarks-animal-sanctuary-washburn/
-https://shelterdayout.com/listings/haven-to-home-rescue-sunbury/
+https://shelterdayout.com/listings/haven-to-home-canine-rescue-sunbury/
 https://shelterdayout.com/listings/havre-animal-shelter-havre/
 https://shelterdayout.com/listings/hawaii-island-humane-society-animal-community-center-in-kona-holualoa/
 https://shelterdayout.com/listings/hawaii-island-humane-society-keaau-shelter-keaau/
@@ -2802,7 +2802,7 @@ https://shelterdayout.com/listings/madison-greene-humane-society-ruckersville/
 https://shelterdayout.com/listings/madison-heights-animal-shelter-madison-heights/
 https://shelterdayout.com/listings/madison-oglethorpe-animal-shelter-danielsville/
 https://shelterdayout.com/listings/mahoning-county-dog-warden-youngstown/
-https://shelterdayout.com/listings/main-line-animal-rescue-pennsylvania-spca-phoenixville/
+https://shelterdayout.com/listings/main-line-animal-rescue-pennsylvania-spca-chester-springs/
 https://shelterdayout.com/listings/malvern-animal-shelter-malvern/
 https://shelterdayout.com/listings/manatee-county-cat-town-bradenton/
 https://shelterdayout.com/listings/manchester-animal-control-manchester/
@@ -3562,7 +3562,6 @@ https://shelterdayout.com/listings/regional-center-for-animal-care-and-protectio
 https://shelterdayout.com/listings/rehoboth-animal-shelter-rehoboth/
 https://shelterdayout.com/listings/republic-animal-control-center-republic/
 https://shelterdayout.com/listings/rescue-and-relax-edgewood/
-https://shelterdayout.com/listings/rescue-our-furry-friends-lewistown/
 https://shelterdayout.com/listings/rescue-ranch-adoption-center-yreka/
 https://shelterdayout.com/listings/rescue-village-geauga-humane-society-russell-township/
 https://shelterdayout.com/listings/rescued-treasures-cat-cafe-by-palnv-las-vegas/
