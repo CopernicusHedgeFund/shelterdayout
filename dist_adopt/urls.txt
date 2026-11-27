@@ -394,6 +394,7 @@ https://shelteradoption.com/cities/sumter-sc/
 https://shelteradoption.com/cities/syracuse-ny/
 https://shelteradoption.com/cities/tahlequah-ok/
 https://shelteradoption.com/cities/tampa-fl/
+https://shelteradoption.com/cities/thousand-oaks-ca/
 https://shelteradoption.com/cities/thousand-palms-ca/
 https://shelteradoption.com/cities/tiffin-oh/
 https://shelteradoption.com/cities/toledo-oh/
@@ -746,6 +747,7 @@ https://shelteradoption.com/shelters/b-a-r-k-s-byram-animal-rescue-kindness-squa
 https://shelteradoption.com/shelters/b-and-r-bunkhouse-adoptables-barks-and-rec-municipal-shelter-north-syracuse/
 https://shelteradoption.com/shelters/bainbridge-decatur-county-humane-society-bainbridge/
 https://shelteradoption.com/shelters/baker-county-animal-control-macclenny/
+https://shelteradoption.com/shelters/bakersfield-spca-bakersfield/
 https://shelteradoption.com/shelters/balch-springs-animal-services-and-adoption-center-balch-springs/
 https://shelteradoption.com/shelters/baldwin-county-animal-control-milledgeville/
 https://shelteradoption.com/shelters/baldwin-county-animal-shelter-summerdale/
@@ -1623,6 +1625,7 @@ https://shelteradoption.com/shelters/free-to-live-animal-sanctuary-guthrie/
 https://shelteradoption.com/shelters/freeman-fritts-animal-shelter-kerrville/
 https://shelteradoption.com/shelters/fremont-cat-lounge-fremont/
 https://shelteradoption.com/shelters/fresno-animal-center-city-of-fresno-fresno/
+https://shelteradoption.com/shelters/fresno-bully-rescue-sanger/
 https://shelteradoption.com/shelters/fresno-humane-animal-services-fresno-county-animal-shelter-fresno/
 https://shelteradoption.com/shelters/fried-s-cat-shelter-trail-creek/
 https://shelteradoption.com/shelters/friends-for-animals-of-metro-detroit-dearborn/
@@ -1688,6 +1691,7 @@ https://shelteradoption.com/shelters/gladstone-animal-shelter-gladstone/
 https://shelteradoption.com/shelters/gladwin-county-animal-control-shelter-gladwin/
 https://shelteradoption.com/shelters/glastonbury-animal-control-dog-pound-glastonbury/
 https://shelteradoption.com/shelters/glendale-humane-society-glendale/
+https://shelteradoption.com/shelters/glenn-county-animal-control-sheriff-s-office-willows/
 https://shelteradoption.com/shelters/glenpool-animal-control-and-shelter-glenpool/
 https://shelteradoption.com/shelters/glocester-animal-control-shelter-chepachet/
 https://shelteradoption.com/shelters/gloucester-county-animal-control-shelter-gloucester/
@@ -2721,6 +2725,7 @@ https://shelteradoption.com/shelters/mountain-home-animal-shelter-mountain-home/
 https://shelteradoption.com/shelters/mountain-humane-hailey/
 https://shelteradoption.com/shelters/mountain-shelter-humane-society-blairsville/
 https://shelteradoption.com/shelters/mountainair-animal-shelter-mountainair/
+https://shelteradoption.com/shelters/mountains-humane-society-pet-rescue-lake-arrowhead/
 https://shelteradoption.com/shelters/mower-county-humane-society-austin/
 https://shelteradoption.com/shelters/mspca-angell-boston-adoption-center-boston/
 https://shelteradoption.com/shelters/mspca-angell-northeast-animal-shelter-salem/
@@ -3406,6 +3411,7 @@ https://shelteradoption.com/shelters/seguin-animal-services-seguin/
 https://shelteradoption.com/shelters/selma-animal-shelter-selma/
 https://shelteradoption.com/shelters/seminole-county-animal-services-sanford/
 https://shelteradoption.com/shelters/seneca-county-dog-warden-tiffin/
+https://shelteradoption.com/shelters/sequoia-humane-society-eureka/
 https://shelteradoption.com/shelters/sevier-county-animal-shelter-sevier-animal-care-center-sevierville/
 https://shelteradoption.com/shelters/seward-animal-shelter-seward/
 https://shelteradoption.com/shelters/shafter-animal-shelter-shafter/
@@ -3414,6 +3420,7 @@ https://shelteradoption.com/shelters/shawano-county-humane-society-shawano/
 https://shelteradoption.com/shelters/shelby-county-animal-control-and-shelter-shelbyville/
 https://shelteradoption.com/shelters/shelby-humane-columbiana/
 https://shelteradoption.com/shelters/shelbyville-shelby-county-animal-shelter-shelbyville/
+https://shelteradoption.com/shelters/shelter-hope-pet-shop-thousand-oaks/
 https://shelteradoption.com/shelters/shelter-jones-county-laurel/
 https://shelteradoption.com/shelters/shelter-to-home-wyandotte/
 https://shelteradoption.com/shelters/shelton-animal-control-shelton/
