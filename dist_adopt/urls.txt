@@ -341,6 +341,7 @@ https://shelteradoption.com/cities/rochester-ny/
 https://shelteradoption.com/cities/rock-falls-il/
 https://shelteradoption.com/cities/rock-springs-wy/
 https://shelteradoption.com/cities/rockford-il/
+https://shelteradoption.com/cities/rockport-tx/
 https://shelteradoption.com/cities/rocky-mount-va/
 https://shelteradoption.com/cities/rogers-ar/
 https://shelteradoption.com/cities/rome-ny/
@@ -707,6 +708,7 @@ https://shelteradoption.com/shelters/appalachian-animal-rescue-center-macon-coun
 https://shelteradoption.com/shelters/appalachian-highlands-humane-society-johnson-city/
 https://shelteradoption.com/shelters/apple-valley-animal-services-shelter-apple-valley/
 https://shelteradoption.com/shelters/appomattox-county-animal-shelter-appomattox/
+https://shelteradoption.com/shelters/aransas-county-animal-control-shelter-rockport/
 https://shelteradoption.com/shelters/ardmore-animal-care-inc-ardmore/
 https://shelteradoption.com/shelters/arenac-county-animal-control-standish/
 https://shelteradoption.com/shelters/arf-hamptons-animal-rescue-fund-of-the-hamptons-east-hampton/
@@ -791,6 +793,7 @@ https://shelteradoption.com/shelters/bath-county-animal-shelter-hot-springs/
 https://shelteradoption.com/shelters/battle-mountain-humane-society-battle-mountain/
 https://shelteradoption.com/shelters/battle-mountain-humane-society-hot-springs/
 https://shelteradoption.com/shelters/baxter-county-animal-control-mountain-home/
+https://shelteradoption.com/shelters/bay-area-pet-adoptions-san-leon/
 https://shelteradoption.com/shelters/bay-city-matagorda-county-animal-impound-bay-city/
 https://shelteradoption.com/shelters/bay-county-animal-services-and-adoption-center-bay-city/
 https://shelteradoption.com/shelters/bay-county-animal-services-panama-city/
@@ -899,6 +902,7 @@ https://shelteradoption.com/shelters/bosley-s-place-smyrna/
 https://shelteradoption.com/shelters/bosque-animal-rescue-kennels-bark-clifton/
 https://shelteradoption.com/shelters/bossier-city-animal-services-bossier-city/
 https://shelteradoption.com/shelters/boulder-city-animal-control-and-shelter-boulder-city/
+https://shelteradoption.com/shelters/bowie-animal-shelter-bowie/
 https://shelteradoption.com/shelters/bowling-green-warren-county-humane-society-bowling-green/
 https://shelteradoption.com/shelters/boyd-county-animal-control-and-shelter-ashland/
 https://shelteradoption.com/shelters/bracken-county-animal-shelter-brooksville/
@@ -1151,6 +1155,7 @@ https://shelteradoption.com/shelters/city-of-albuquerque-animal-welfare-departme
 https://shelteradoption.com/shelters/city-of-alice-animal-control-alice/
 https://shelteradoption.com/shelters/city-of-alma-animal-control-alma/
 https://shelteradoption.com/shelters/city-of-altus-animal-control-altus/
+https://shelteradoption.com/shelters/city-of-anahuac-animal-shelter-anahuac/
 https://shelteradoption.com/shelters/city-of-andrews-animal-services-andrews/
 https://shelteradoption.com/shelters/city-of-bakersfield-animal-care-center-cbacc-bakersfield/
 https://shelteradoption.com/shelters/city-of-ballinger-animal-control-ballinger/
@@ -1922,6 +1927,7 @@ https://shelteradoption.com/shelters/henry-county-dog-shelter-mcclure/
 https://shelteradoption.com/shelters/henry-county-humane-society-geneseo-geneseo/
 https://shelteradoption.com/shelters/henry-county-humane-society-napoleon/
 https://shelteradoption.com/shelters/henry-trimble-animal-shelter-sulphur/
+https://shelteradoption.com/shelters/hereford-animal-shelter-hereford/
 https://shelteradoption.com/shelters/heritage-humane-society-williamsburg/
 https://shelteradoption.com/shelters/herkimer-county-humane-society-mohawk/
 https://shelteradoption.com/shelters/hernando-county-sheriff-s-office-animal-services-brooksville/
@@ -2115,6 +2121,7 @@ https://shelteradoption.com/shelters/humane-society-of-portage-county-plover/
 https://shelteradoption.com/shelters/humane-society-of-pulaski-county-little-rock/
 https://shelteradoption.com/shelters/humane-society-of-raleigh-county-beckley/
 https://shelteradoption.com/shelters/humane-society-of-richland-wilkin-counties-wahpeton/
+https://shelteradoption.com/shelters/humane-society-of-rockport-fulton-rockport/
 https://shelteradoption.com/shelters/humane-society-of-rome-rome/
 https://shelteradoption.com/shelters/humane-society-of-saline-county-bauxite/
 https://shelteradoption.com/shelters/humane-society-of-san-bernardino-valley-san-bernardino/
@@ -2419,6 +2426,7 @@ https://shelteradoption.com/shelters/lange-foundation-los-angeles/
 https://shelteradoption.com/shelters/langlade-county-humane-society-antigo/
 https://shelteradoption.com/shelters/lapeer-county-animal-control-lapeer/
 https://shelteradoption.com/shelters/laramie-animal-shelter-laramie/
+https://shelteradoption.com/shelters/laras-house-shelter-limestone-animal-rescue-adoption-shelter-mexia/
 https://shelteradoption.com/shelters/laredo-animal-care-services-laredo/
 https://shelteradoption.com/shelters/lassen-county-animal-shelter-susanville/
 https://shelteradoption.com/shelters/last-chance-ranch-quakertown/
@@ -2737,6 +2745,7 @@ https://shelteradoption.com/shelters/monroe-county-animal-shelter-sparta/
 https://shelteradoption.com/shelters/monroe-dog-pound-woodsfield/
 https://shelteradoption.com/shelters/monroe-spca-dundee/
 https://shelteradoption.com/shelters/monroeville-animal-shelter-monroeville/
+https://shelteradoption.com/shelters/mont-belvieu-animal-shelter-mont-belvieu/
 https://shelteradoption.com/shelters/montcalm-county-animal-control-shelter-stanton/
 https://shelteradoption.com/shelters/montclair-township-animal-shelter-montclair/
 https://shelteradoption.com/shelters/monterey-county-animal-services-hitchcock-road-animal-services-salinas/
@@ -3673,6 +3682,7 @@ https://shelteradoption.com/shelters/sugar-land-animal-shelter-sugar-land/
 https://shelteradoption.com/shelters/sullivan-county-animal-shelter-blountville/
 https://shelteradoption.com/shelters/sullivan-county-humane-society-claremont/
 https://shelteradoption.com/shelters/sullivan-county-spca-rock-hill/
+https://shelteradoption.com/shelters/sulphur-springs-animal-shelter-sulphur-springs/
 https://shelteradoption.com/shelters/summers-county-humane-society-animal-control-and-welfare-project-hinton/
 https://shelteradoption.com/shelters/summit-county-animal-control-akron/
 https://shelteradoption.com/shelters/summit-county-animal-control-and-shelter-frisco/
