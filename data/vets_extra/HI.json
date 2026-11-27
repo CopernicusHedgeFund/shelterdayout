@@ -103,5 +103,20 @@
   "lon": null,
   "src": "https://stores.petco.com/hi/kaneohe/vet-hospital-kaneohe-hi-1182.html",
   "checked": "November 2026"
+ },
+ {
+  "state": "HI",
+  "name": "Hawaiian Humane Society Community Spay/Neuter Center - Kosasa Family Campus",
+  "city": "Ewa Beach",
+  "street": "91-1945 Fort Weaver Road",
+  "zip": "96706",
+  "phone": "(808) 356-2255",
+  "website": "https://hawaiianhumane.org/spay-neuter-owned-pets",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://hawaiianhumane.org/spay-neuter-owned-pets",
+  "checked": "November 2026"
  }
 ]
