@@ -67,14 +67,21 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://parmashelter.org/",
-  "notes": "'Home for the Holidays' cat adoption special began Nov 22, 2026 (no end date posted).",
+  "notes": "6260 State Road, Parma. Open 5-7 pm daily plus 10 am-12 pm Sat-Sun. 'Home for the Holidays' adult-cat special ($25) began Nov 22, 2026 (no end date posted).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@parmashelter.org",
   "phone": "(440) 885-8014",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13760725272",
-  "events": []
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Home for the Holidays cat adoption special: adult cat fees $25 (began Nov 22; no end date posted)",
+    "url": "https://parmashelter.org/",
+    "place": "Parma Animal Shelter, 6260 State Road, Parma"
+   }
+  ]
  },
  {
   "state": "OH",
@@ -1528,24 +1535,26 @@
   "email_main": "info@sicsa.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(937) 294-6505",
-  "osm": "way/889910305"
+  "osm": "way/889910305",
+  "events": []
  },
  {
   "state": "OH",
   "city": "Cincinnati",
   "org": "SPCA Cincinnati",
   "program": "Paw Pass Adventures",
-  "status": "Needs check",
-  "animals": "Dogs",
-  "offers": "Day trip, sleepover",
-  "url": "https://www.spcacincinnati.org/",
-  "notes": "Pairs community members with shelter dogs for an afternoon or an overnight stay. Details only in a flyer image on the homepage; check rules/booking. Sharonville shelter at 11900 Conrey Rd, Cincinnati 45249; second site SPCA Simmonds Farm, Cleves.",
+  "status": "Open to public",
+  "animals": "Dogs (1 year and older)",
+  "offers": "Day pass (1-6 hours), overnight pass",
+  "url": "https://www.spcacincinnati.org/home",
+  "notes": "Paw Pass Adventures let you take a shelter dog out for 1-6 hours or overnight (lunch, hiking, shopping or home; no dog parks), 7 days a week, booked by texting the Foster Department at least 24 hours ahead.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@spcacincinnati.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(513) 541-6100",
-  "osm": "way/32946331"
+  "osm": "way/32946331",
+  "events": []
  },
  {
   "state": "OH",
@@ -1579,14 +1588,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://clermontcountyohio.gov/animalshelter/",
-  "notes": "County dog warden/shelter. Adoption hours Tue 12-4, Wed-Thu 12-7, Fri-Sat 12-4, or by appointment.",
+  "url": "https://clermontcountyohio.gov/animal-shelter",
+  "notes": "Public no-kill kennel at 4025 Filager Rd, Batavia 45103. Hours Tue-Fri 12-4, Sat 11:30-4; closed Sun, Mon and holidays. Adoption email kennel@clermontcountyohio.gov.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dogwarden@clermontcountyohio.gov",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(513) 732-8854",
-  "osm": "way/741805938"
+  "osm": "way/741805938",
+  "events": []
  },
  {
   "state": "OH",
@@ -1603,7 +1613,8 @@
   "email_main": "adoptions@hsoac.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(937) 831-5753",
-  "osm": "way/1306233028"
+  "osm": "way/1306233028",
+  "events": []
  },
  {
   "state": "OH",
@@ -1620,7 +1631,8 @@
   "email_main": "Mailbox@OhioPetSanctuary.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(513) 388-9998",
-  "osm": "way/1313345508"
+  "osm": "way/1313345508",
+  "events": []
  },
  {
   "state": "OH",
@@ -1637,7 +1649,8 @@
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(513) 541-7387",
-  "osm": "node/14206536696"
+  "osm": "node/14206536696",
+  "events": []
  },
  {
   "state": "OH",
@@ -1654,7 +1667,8 @@
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(513) 541-7387",
-  "osm": "node/14206536697"
+  "osm": "node/14206536697",
+  "events": []
  },
  {
   "state": "OH",
@@ -1671,7 +1685,8 @@
   "email_main": "info@LFAW.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "phone": "(513) 735-2299",
-  "osm": "way/1285742660"
+  "osm": "way/1285742660",
+  "events": []
  },
  {
   "state": "OH",
@@ -1687,7 +1702,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(937) 898-4457"
+  "phone": "(937) 898-4457",
+  "events": []
  },
  {
   "state": "OH",
@@ -1703,7 +1719,8 @@
   "url": "https://www.lakewoodoh.gov/accordions/animal-control/",
   "source_list": "shelter website",
   "city": "Lakewood",
-  "org": "Lakewood Animal Shelter"
+  "org": "Lakewood Animal Shelter",
+  "events": []
  },
  {
   "state": "OH",
@@ -1719,7 +1736,8 @@
   "url": "https://northroyalton.gov/departments/animal_control/adopt_a_pet_photos_and_information_.php",
   "source_list": "shelter website",
   "city": "North Royalton",
-  "org": "North Royalton Animal Control"
+  "org": "North Royalton Animal Control",
+  "events": []
  },
  {
   "state": "OH",
@@ -1735,7 +1753,8 @@
   "url": "https://stayawhilecatshelter.org/",
   "source_list": "shelter website",
   "city": "North Royalton",
-  "org": "Stay-A-While Cat Shelter"
+  "org": "Stay-A-While Cat Shelter",
+  "events": []
  },
  {
   "state": "OH",
@@ -1752,7 +1771,8 @@
   "source_list": "shelter website",
   "city": "South Euclid",
   "org": "South Euclid Humane Society",
-  "source": "https://www.facebook.com/SouthEuclidHumaneSociety/"
+  "source": "https://www.facebook.com/SouthEuclidHumaneSociety/",
+  "events": []
  },
  {
   "state": "OH",
@@ -1768,7 +1788,8 @@
   "url": "https://www.purrfectcompanions.org/",
   "source_list": "shelter website",
   "city": "Lakewood",
-  "org": "Purr-fect Companions Cat Sanctuary"
+  "org": "Purr-fect Companions Cat Sanctuary",
+  "events": []
  },
  {
   "state": "OH",
@@ -1776,15 +1797,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "notes": "City shelter at 15700 Bagley Rd. Open Tue/Thu/Fri 4-7 pm, Sat 12-3 pm; submit adoption application first. Fees: cats $75-100, dogs $75-200 ($25 off for veterans and 60+).",
+  "notes": "City shelter at 7375 Engle Rd (south of Bagley Rd). Open Tue/Thu/Fri 4-7 pm, Sat 12-3 pm; submit adoption application first. Fees: cats $75-100, dogs $75-200 ($25 off for veterans and 60+).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(440) 234-8811",
+  "phone": "(440) 239-6333",
   "url": "https://middleburgheights.com/middleburg-heights-animal-shelter/animal-shelter-adoption/",
   "source_list": "shelter website",
   "city": "Middleburg Heights",
-  "org": "Middleburg Heights Animal Shelter"
+  "org": "Middleburg Heights Animal Shelter",
+  "events": []
  },
  {
   "state": "OH",
@@ -1800,7 +1822,8 @@
   "url": "https://www.awlrescueme.com/",
   "source_list": "shelter website",
   "city": "Vienna",
-  "org": "Animal Welfare League of Trumbull County"
+  "org": "Animal Welfare League of Trumbull County",
+  "events": []
  },
  {
   "state": "OH",
@@ -1816,7 +1839,8 @@
   "url": "https://www.arc4animals.org/",
   "source_list": "shelter website",
   "city": "Cortland",
-  "org": "Animal Resource Center"
+  "org": "Animal Resource Center",
+  "events": []
  },
  {
   "state": "OH",
@@ -1832,7 +1856,8 @@
   "url": "https://www.animalcharityofohio.org/",
   "source_list": "shelter website",
   "city": "Boardman",
-  "org": "Animal Charity of Ohio"
+  "org": "Animal Charity of Ohio",
+  "events": []
  },
  {
   "state": "OH",
@@ -1848,7 +1873,8 @@
   "url": "https://www.kentohio.gov/living-here/animal-services/kennel-and-adoptions/",
   "source_list": "shelter website",
   "city": "Kent",
-  "org": "Kent Animal Control Kennel"
+  "org": "Kent Animal Control Kennel",
+  "events": []
  },
  {
   "state": "OH",
@@ -1864,7 +1890,8 @@
   "url": "https://www.medinacountyspca.com/",
   "source_list": "shelter website",
   "city": "Seville",
-  "org": "Medina County SPCA"
+  "org": "Medina County SPCA",
+  "events": []
  },
  {
   "state": "OH",
@@ -1880,7 +1907,8 @@
   "url": "https://www.kittenkrazy.org/",
   "source_list": "shelter website",
   "city": "Medina",
-  "org": "Kitten Krazy Cat Shelter and Adoption Center"
+  "org": "Kitten Krazy Cat Shelter and Adoption Center",
+  "events": []
  },
  {
   "state": "OH",
@@ -1896,7 +1924,8 @@
   "url": "http://www.oasisanimalshelter.net/",
   "source_list": "shelter website",
   "city": "Oberlin",
-  "org": "OASIS Animal Shelter"
+  "org": "OASIS Animal Shelter",
+  "events": []
  },
  {
   "state": "OH",
@@ -1912,7 +1941,8 @@
   "url": "https://www.wchs.org/",
   "source_list": "shelter website",
   "city": "Wooster",
-  "org": "Wayne County Humane Society"
+  "org": "Wayne County Humane Society",
+  "events": []
  },
  {
   "state": "OH",
@@ -1928,7 +1958,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mvsap@att.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -1944,7 +1975,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@toledoanimalrescue.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -1960,7 +1992,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "HSOCpets@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -1976,7 +2009,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -1992,7 +2026,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hsec.1911@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2008,7 +2043,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2024,7 +2060,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "humanehuroncounty@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2041,7 +2078,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://www.facebook.com/profile.php?id=100064943131710"
+  "source": "https://www.facebook.com/profile.php?id=100064943131710",
+  "events": []
  },
  {
   "state": "OH",
@@ -2057,7 +2095,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dwarden@fultoncountyoh.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2073,7 +2112,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "kathryn.barney@henrycountysheriff.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2089,7 +2129,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "allencountyohdogwarden@allencountyohio.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2105,7 +2146,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2121,7 +2163,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2138,7 +2181,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://www.peakofohio.com/events/grand-opening-celebration-of-the-logan-county-animal-shelter"
+  "source": "https://www.peakofohio.com/events/grand-opening-celebration-of-the-logan-county-animal-shelter",
+  "events": []
  },
  {
   "state": "OH",
@@ -2155,7 +2199,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://www.stparisohio.org/business-directory/wpbdp_category/animal-care"
+  "source": "https://www.stparisohio.org/business-directory/wpbdp_category/animal-care",
+  "events": []
  },
  {
   "state": "OH",
@@ -2171,7 +2216,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2182,28 +2228,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://bchsohio.org/",
-  "phone": "",
-  "notes": "Runs the Brown County animal shelter and dog warden/animal control services.",
+  "phone": "(937) 378-3457",
+  "notes": "100 Veterans Blvd, Georgetown. County animal shelter run with the Brown County Humane Society, which also handles dog warden/animal control services. Open Mon-Wed and Fri-Sat 9-6, Thu 12-8; closed Sun.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "OH",
-  "city": "Hamilton",
-  "org": "Butler County Dog Warden & Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs",
-  "offers": "",
-  "url": "https://www.butlersheriff.org/k-9",
-  "phone": "",
-  "notes": "Sheriff's Office K-9/Dog Warden division with county dog shelter.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2219,7 +2250,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2229,13 +2261,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "phone": "",
-  "notes": "County dog warden shelter; official web page not confirmed.",
+  "url": "https://commissioners.crawford-co.org/dog-warden/",
+  "phone": "(419) 562-4993",
+  "notes": "County dog warden; office in the county administration building, 112 E. Mansfield St., Bucyrus.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2251,7 +2284,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2267,7 +2301,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2277,13 +2312,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "phone": "",
-  "notes": "County dog warden shelter; official web page not confirmed.",
+  "url": "https://galliacountyoh.gov/?p=1124",
+  "phone": "(740) 441-0207",
+  "notes": "County canine shelter at 186 Shawnee Lane; open Mon-Sat 10am-1pm, other times by appointment.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "dogwarden@gallianet.net",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2299,7 +2335,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2315,7 +2352,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2331,7 +2369,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2347,7 +2386,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2363,7 +2403,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2379,7 +2420,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2395,7 +2437,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2411,7 +2454,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2427,7 +2471,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2443,7 +2488,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2453,13 +2499,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
-  "phone": "",
-  "notes": "County dog warden shelter; official web page not confirmed.",
+  "url": "https://www.morgancounty-oh.gov/dog_pound.html",
+  "phone": "(740) 624-8921",
+  "notes": "County dog pound (listed on the county site as Morgan County Dog Pound).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2475,7 +2522,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2486,12 +2534,13 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://perrycountyohio.gov/services/perry-county-ohio-dog-shelter/",
-  "phone": "",
+  "phone": "(740) 342-3795",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "peshelter@perrycountyohio.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2502,12 +2551,13 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://pickawaycountyohio.gov/offices/dog-shelter/index.html",
-  "phone": "",
+  "phone": "(740) 474-3741",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "dogshelter@pickawaycountyohio.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2523,7 +2573,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2539,7 +2590,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2555,7 +2607,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2571,7 +2624,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2587,7 +2641,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2603,7 +2658,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2619,7 +2675,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2635,7 +2692,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2651,7 +2709,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2667,7 +2726,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2683,7 +2743,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2699,7 +2760,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2715,7 +2777,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2731,7 +2794,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2742,12 +2806,13 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.unioncountyohio.gov/dog-warden",
-  "phone": "",
+  "phone": "(937) 642-3900",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "dogwarden@unioncountyohio.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2763,7 +2828,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "OH",
@@ -2779,6 +2845,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  }
 ]
