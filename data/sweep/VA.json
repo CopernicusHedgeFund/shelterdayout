@@ -11,7 +11,8 @@
   "notes": "Adults 18+ comfortable handling dogs; no volunteer training needed. Reserve a slot at richmondspca.as.me/dogsdayout (limited); staff pick the dog. Keep the dog leashed, no dog parks or contact with other animals. No fee listed.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "info@richmondspca.org"
+  "email_main": "info@richmondspca.org",
+  "phone": "(804) 521-1300"
  },
  {
   "state": "VA",
@@ -19,13 +20,13 @@
   "org": "Chesapeake Animal Services",
   "program": "Snout & About",
   "status": "Open to public",
-  "animals": "Dogs and cats",
-  "offers": "Day trip",
+  "animals": "Dogs",
+  "offers": "Day trips",
   "url": "https://www.cityofchesapeake.net/807/Snout-About-Program",
-  "notes": "existing details kept.",
+  "notes": "On Saturdays (weather and volunteers permitting) anyone can walk in, first come first served, between 9 and 11 a.m. to take a pre-matched shelter dog out for the day, returning it by 1 p.m.; no registration needed.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "outreach@cityofchesapeake.net",
+  "email_main": "animalservices@cityofchesapeake.net",
   "phone": "(757) 382-2489"
  },
  {
@@ -75,7 +76,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(703) 295-3647",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/11758589091"
  },
@@ -109,7 +110,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 276 236 8501",
+  "phone": "(276) 236-8501",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13595772601"
  },
@@ -125,8 +126,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-540-984-8955",
+  "email_main": "animalshelter@shenandoahcountyva.us",
+  "phone": "(540) 984-8955",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14191638218"
  },
@@ -142,7 +143,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "a3padvocates@gmail.com",
   "phone": "(571) 931-0796",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14214338686"
@@ -160,7 +161,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "foha_info@foha.org",
-  "phone": "+1-703-385-0224",
+  "phone": "(703) 385-0224",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/14263662918"
  },
@@ -211,7 +212,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-804-598-5672",
+  "phone": "(804) 598-5672",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/224902559"
  },
@@ -269,8 +270,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "(757) 933-8900",
+  "email_main": "adoptions@peninsulaspca.org",
+  "phone": "(757) 595-1399",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/304316982"
  },
@@ -279,7 +280,7 @@
   "city": "Williamsburg",
   "org": "Heritage Humane Society",
   "program": "Fido Field Trips",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
   "offers": "Day trip (a few hours)",
   "url": "https://heritagehumane.org/transforming-shelter-dogs-lives-beyond-the-kennels/",
@@ -294,14 +295,14 @@
    {
     "date": "2026-12-12",
     "title": "2nd Saturdays at Nautical Dog (adoption event)",
-    "url": "https://heritagehumane.org/events/category/adoption/",
+    "url": "https://heritagehumane.org/event/2nd-saturdays-at-nautical-dog-79/",
     "place": "Nautical Dog, 5102-B Main St, Williamsburg"
    },
    {
     "date": "2026-12-19",
     "title": "Adopt Me Saturdays at Williamsburg Jewelers",
-    "url": "https://heritagehumane.org/events/category/adoption/",
-    "place": "Williamsburg Jewelers"
+    "url": "https://heritagehumane.org/event/adopt-me-saturdays-at-williamsburg-jewelers-27/",
+    "place": "Williamsburg Jewelers, 2023 Richmond Rd Suite E, Williamsburg"
    }
   ]
  },
@@ -309,16 +310,16 @@
   "state": "VA",
   "city": "Virginia Beach",
   "org": "Virginia Beach Animal Care and Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://vbacac.com",
-  "notes": "",
+  "program": "Shelter Buddy (dog field trips)",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Dog field trips",
+  "url": "https://vbacac.com/volunteer/shelter-buddy",
+  "notes": "Shelter Buddies (18+, sign up in person at the shelter with ID during open hours) can help with dog walks, play groups and dog field trips; the site gives no further details on how field trips work.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "vbpdac@vbgov.com",
   "email_main": "vbpdac@vbgov.com",
-  "phone": "+17573854444",
+  "phone": "(757) 385-4444",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/402393733"
  },
@@ -351,8 +352,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1-540-775-2120",
+  "email_main": "animalcontrol@co.kinggeorge.state.va.us",
+  "phone": "(540) 775-2120",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/544363927"
  },
@@ -386,7 +387,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-540-672-1124",
+  "phone": "(540) 672-1124",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/620906821"
  },
@@ -409,18 +410,18 @@
  },
  {
   "state": "VA",
-  "city": "Providence Forge",
+  "city": "Quinton",
   "org": "New Kent County Animal Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.newkent-va.us/92/Animal-Protection",
+  "url": "https://www.newkent-va.us/436/Animal-Protection",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(804) 966-9500",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/692502928"
  },
@@ -445,14 +446,14 @@
   "state": "VA",
   "city": "Winchester",
   "org": "Winchester Area SPCA",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://winchesterspca.org/",
-  "notes": "",
+  "program": "Adventure Tails",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Field trips",
+  "url": "https://winchesterspca.org/volunteer/",
+  "notes": "Approved, Fear Free certified volunteers who have read the Adventure Tails manual and signed a release take shelter dogs out on short field trips for exercise and socialization.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteercoordinator@winchesterspca.org",
   "email_main": "",
   "phone": "(540) 662-8616",
   "source_list": "OpenStreetMap contributors (ODbL)",
@@ -471,7 +472,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-540-731-3688",
+  "phone": "(540) 731-3688",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/749613865"
  },
@@ -488,7 +489,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(540) 582-7115",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/751298618"
  },
@@ -505,7 +506,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 434 432 1989",
+  "phone": "(434) 432-1989",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/776906735"
  },
@@ -522,7 +523,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(540) 667-9192",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/825455623"
  },
@@ -539,7 +540,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 703-777-0406",
+  "phone": "(703) 777-0406",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/903474583"
  },
@@ -549,10 +550,10 @@
   "org": "Middleburg Humane Foundation",
   "program": "Snout N' About",
   "status": "Volunteers only",
-  "animals": "Dogs and cats",
-  "offers": "Day trip, sleepover",
+  "animals": "Dogs",
+  "offers": "Field trips, weekend sleepovers",
   "url": "https://www.middleburghumane.org/snoutnabout",
-  "notes": "Volunteers and fosters take a shelter dog out for a hike, an afternoon at home or a weekend sleepover. Sign up through the volunteer form linked on the program page.",
+  "notes": "Volunteers and busy fosters take an MHF dog out for a hike, an afternoon on the couch at home or a weekend sleepover; sign up through the Snout N' About volunteer form linked on the program page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -572,8 +573,8 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "animalservices@isleofwight.gov",
+  "phone": "(757) 365-6318",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1034939175"
  },
@@ -590,7 +591,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-804-443-0726",
+  "phone": "(804) 443-0726",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1058923739"
  },
@@ -641,7 +642,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "office@fspca.org",
-  "phone": "+14345910123",
+  "phone": "(434) 591-0123",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1207897779"
  },
@@ -658,7 +659,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "publicsafety@campbellcountyva.gov",
-  "phone": "+1-434-821-4416",
+  "phone": "(434) 821-4416",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1320079259"
  },
@@ -774,7 +775,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 839-7221"
  },
  {
   "state": "VA",
@@ -790,7 +792,34 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(540) 434-5270"
+  "phone": "(540) 434-5270",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2027-03-30",
+    "title": "PetSmart Cat Adoptions (weekly, Tue/Thu 5-7:30pm and Sat 10:30am-12pm)",
+    "url": "https://rhspca.org/events-calendar/",
+    "place": "PetSmart, 1671 E Market St, Harrisonburg"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart Adopt Joy Dog Adoptions",
+    "url": "https://rhspca.org/events-calendar/petsmart-adopt-joy-dog-adoptions-3/2026-12-05/",
+    "place": "PetSmart, 1671 E Market St, Harrisonburg"
+   },
+   {
+    "date": "2026-12-16",
+    "title": "Pump24 Kitten Adoption Event",
+    "url": "https://rhspca.org/events-calendar/pump24-kitten-adoption-event/",
+    "place": "Pump24 Harrisonburg, 1645 Reservoir St Ste 150, Harrisonburg"
+   },
+   {
+    "date": "2027-01-16",
+    "title": "PetSmart Adopt Joy Dog Adoptions",
+    "url": "https://rhspca.org/events-calendar/petsmart-adopt-joy-dog-adoptions-3/2027-01-16/",
+    "place": "PetSmart, 1671 E Market St, Harrisonburg"
+   }
+  ]
  },
  {
   "state": "VA",
@@ -827,10 +856,10 @@
   "state": "VA",
   "city": "Richmond",
   "org": "Richmond Animal Care and Control",
-  "program": "Virtual Foster Program (outings) / Casual Friday Foster",
+  "program": "Virtual Foster Program (outings) / Casual Friday Foster / Thanksgiving Foster",
   "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Day trip (outings around RVA); one-day business foster",
+  "offers": "Day trip (outings around RVA); one-day business foster; Thanksgiving holiday foster",
   "url": "https://rva.gov/node/148",
   "notes": "Virtual fosters can visit their pet during adoption hours and schedule outings around RVA through the Virtual Foster Coordinator (haley.childress2@rva.gov). Casual Friday Foster lets local businesses foster a dog or cat for one day (robin.young@rva.gov).",
   "checked": "November 2026",
@@ -852,7 +881,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(804) 727-8807"
  },
  {
   "state": "VA",
@@ -890,12 +920,12 @@
   "state": "VA",
   "city": "King William",
   "org": "Regional Animal Shelter (King William & King and Queen counties)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Foster Program (occasional sleepovers)",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.kwc.gov/155/Animal-Shelter",
-  "notes": "",
+  "offers": "Sleepover (short-term foster)",
+  "url": "https://www.kwc.gov/524/Foster-Program",
+  "notes": "The foster page says fosters can offer an occasional sleepover or a longer stay; apply with a foster profile on Doobert, and the shelter supplies everything. Details of short sleepovers are not given.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@kwc.gov",
@@ -963,7 +993,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(434) 645-8696"
+  "phone": "(434) 292-1099"
  },
  {
   "state": "VA",
@@ -1003,7 +1033,7 @@
   "org": "Norfolk Animal Care Center",
   "program": "NACC Pack Adventures",
   "status": "Open to public",
-  "animals": "Dogs and cats",
+  "animals": "Dogs",
   "offers": "Day trip (checkout 11am, return by 4pm)",
   "url": "https://norfolk.gov/5039/NACC-Pack-Adventures",
   "notes": "18+. Walk in any day during adventure hours, 7 days a week; sign a waiver, review rules, staff copy your ID. No fee mentioned. Not run when above 90F or below 48F, with thunderstorms, or during severe weather alerts. Dogs not guaranteed every day. 5585 Sabre Road.",
@@ -1027,7 +1057,7 @@
   "email_program": "beachbuddies@vbspca.com",
   "email_main": "info@vbspca.com",
   "source_list": "shelter website",
-  "phone": "(757) 427-0071"
+  "phone": "(757) 427-0070"
  },
  {
   "state": "VA",
@@ -1037,12 +1067,13 @@
   "status": "Volunteers only",
   "animals": "Dogs and cats",
   "offers": "Day trip",
-  "url": "https://www.nnva.gov/2311/Peninsula-Regional-Animal-Shelter",
+  "url": "https://www.nnva.gov/2338/Volunteer-Foster",
   "notes": "Listed as an out-of-shelter volunteer opportunity; register as a PRAS volunteer (waiver required). Serves Newport News, Hampton, Poquoson and York County. 5843 Jefferson Ave, 757-933-8900.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "pras-volunteer@nnva.gov",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(757) 933-8900"
  },
  {
   "state": "VA",
@@ -1145,10 +1176,10 @@
   "org": "Lynchburg Humane Society",
   "program": "Petcation",
   "status": "Open to public",
-  "animals": "Dogs",
+  "animals": "Dogs and cats",
   "offers": "Day trip (1 hour to full day), Sleepover (1-2 nights)",
   "url": "https://sites.google.com/lynchburghumane.org/lhsfosterportal/foster-resources/foster-type/petcation-program",
-  "notes": "Open to the public, ages 18+; no need to be a foster or volunteer. Sign up in person at the shelter (1211 Old Graves Mill Rd), pick a pet and take the supplied backpack, or email the adoption team. No cost mentioned. The page says 'pets'; check whether cats can go too.",
+  "notes": "Open to the public, ages 18+, no need to be a foster or volunteer: take an adoptable dog or cat on a day trip (1 hour to a full day) or a 1-2 night slumber party; email the adoption team to get approved, then come in, pick a pet and take the supplied backpack or tote. No cost mentioned.",
   "checked": "November 2026",
   "email_program": "adoption@lynchburghumane.org",
   "email_main": "contact@lynchburghumane.org",
@@ -1174,7 +1205,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(540) 586-7690"
  },
  {
   "state": "VA",
@@ -1430,7 +1462,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(276) 223-4500"
+  "phone": "(276) 228-6003"
  },
  {
   "state": "VA",
@@ -1557,7 +1589,7 @@
   "email_program": "",
   "email_main": "animal_control@wisecounty.org",
   "source_list": "shelter website",
-  "phone": "(276) 328-2321"
+  "phone": "(276) 679-6750"
  },
  {
   "state": "VA",
@@ -1603,7 +1635,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@pagecounty.virginia.gov",
   "source_list": "shelter website",
   "phone": "(540) 778-2101"
  },
@@ -1646,12 +1678,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.ral.org/field-trips",
+  "url": "https://www.ral.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@ral.org",
+  "source_list": "shelter website",
+  "phone": "(804) 379-0046"
  },
  {
   "state": "VA",
@@ -2096,5 +2129,141 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "VA",
+  "city": "Alexandria",
+  "org": "King Street Cats",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.kingstreetcats.org/info/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(703) 231-7199",
+  "email_program": "",
+  "email_main": "contact@kingstreetcats.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "VA",
+  "city": "Fairfax",
+  "org": "Humane Society of Fairfax County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, cats, rabbits, small animals, birds, horses",
+  "offers": "",
+  "url": "https://hsfc.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(703) 385-7387",
+  "email_program": "",
+  "email_main": "pets@hsfc.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "VA",
+  "city": "Staunton",
+  "org": "Augusta Regional SPCA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs, cats, rabbits",
+  "offers": "",
+  "url": "https://arspca.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(540) 885-7722",
+  "email_program": "",
+  "email_main": "spca@arspca.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "VA",
+  "city": "Hampton",
+  "org": "Animal Aid Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.animalaidsociety.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(757) 865-0511",
+  "email_program": "",
+  "email_main": "contact@animalaidsociety.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "VA",
+  "city": "Chase City",
+  "org": "Mecklenburg County Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://mecklenburgva.com/159/Animal-Control",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(434) 738-6191",
+  "email_program": "",
+  "email_main": "mcva.animalcontrol@mecklenburgva.com",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "VA",
+  "city": "Emporia",
+  "org": "City of Emporia Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.ci.emporia.va.us/157/Animal-Control",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(434) 634-7320",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "VA",
+  "city": "Ashland",
+  "org": "Hanover Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.hanoverhumanesociety.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(804) 798-8248",
+  "email_program": "",
+  "email_main": "info@hanoverhumanesociety.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "VA",
+  "city": "Hopewell",
+  "org": "Hopewell Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://thehopewellhumanesociety.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
