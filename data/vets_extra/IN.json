@@ -568,5 +568,20 @@
   "lon": null,
   "src": "https://crossroadsanimalhospital.org/",
   "checked": "November 2026"
+ },
+ {
+  "state": "IN",
+  "name": "Devonshire Veterinary Clinic",
+  "city": "Anderson",
+  "street": "5030 S Scatterfield Rd",
+  "zip": "46013",
+  "phone": "(765) 644-3628",
+  "website": "https://devonshirevetclinic.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://devonshirevetclinic.com/",
+  "checked": "November 2026"
  }
 ]
