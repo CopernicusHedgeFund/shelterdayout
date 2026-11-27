@@ -60,7 +60,8 @@
   "email_program": "info@humanecny.org",
   "email_main": "info@humanecny.org",
   "source": "https://dailyorange.com/2026/10/who-let-the-dogs-out-humanecny/",
-  "phone": "(315) 457-8762"
+  "phone": "(315) 457-8762",
+  "events": []
  },
  {
   "state": "NY",
@@ -75,7 +76,16 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lollypop.org",
-  "phone": "(585) 223-1330"
+  "phone": "(585) 223-1330",
+  "events": [
+   {
+    "date": "2026-11-01",
+    "end": "2026-11-30",
+    "title": "Adopt-a-Senior Pet Month: adoption fees waived for cats and dogs 6+",
+    "url": "https://www.lollypop.org/event/november-is-adopt-a-senior-pet-month-2/",
+    "place": "Lollypop Farm, 99 Victor Road, Fairport"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -113,7 +123,8 @@
   "email_program": "",
   "email_main": "meow@catcafebk.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(347) 946-2286"
+  "phone": "(347) 946-2286",
+  "events": []
  },
  {
   "state": "NY",
@@ -129,7 +140,8 @@
   "email_program": "",
   "email_main": "warwickhumane@yahoo.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(845) 986-2473"
+  "phone": "(845) 986-2473",
+  "events": []
  },
  {
   "state": "NY",
@@ -145,7 +157,8 @@
   "email_program": "",
   "email_main": "info@animalhaven.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(212) 274-8511"
+  "phone": "(212) 274-8511",
+  "events": []
  },
  {
   "state": "NY",
@@ -160,7 +173,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@mightymutts.org",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": []
  },
  {
   "state": "NY",
@@ -177,7 +191,8 @@
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "source": "https://adoptapet.com/shelter/91683-delaware-valley-humane-society-sidney-new-york; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6519",
-  "phone": "(607) 563-7780"
+  "phone": "(607) 563-7780",
+  "events": []
  },
  {
   "state": "NY",
@@ -192,7 +207,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": []
  },
  {
   "state": "NY",
@@ -208,7 +224,8 @@
   "email_program": "",
   "email_main": "animalservices@cityofrochester.gov",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(585) 428-7274"
+  "phone": "(585) 428-7274",
+  "events": []
  },
  {
   "state": "NY",
@@ -223,7 +240,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@nyanimalrescue.org",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": []
  },
  {
   "state": "NY",
@@ -239,7 +257,8 @@
   "email_program": "",
   "email_main": "lazycatloungeandcafe@gmail.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(585) 425-4202"
+  "phone": "(585) 425-4202",
+  "events": []
  },
  {
   "state": "NY",
@@ -278,7 +297,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": []
  },
  {
   "state": "NY",
@@ -323,7 +343,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@amaanimalrescue.org",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": []
  },
  {
   "state": "NY",
@@ -339,7 +360,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(315) 265-3199"
+  "phone": "(315) 265-3199",
+  "events": []
  },
  {
   "state": "NY",
@@ -355,7 +377,8 @@
   "email_program": "zaks@yourspca.org",
   "email_main": "yourspca@yourspca.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(716) 875-7360"
+  "phone": "(716) 875-7360",
+  "events": []
  },
  {
   "state": "NY",
@@ -372,7 +395,8 @@
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "source": "https://www.facebook.com/oswegoanimalshelter",
-  "phone": "(315) 343-1803"
+  "phone": "(315) 343-1803",
+  "events": []
  },
  {
   "state": "NY",
@@ -388,7 +412,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(845) 331-5377"
+  "phone": "(845) 331-5377",
+  "events": []
  },
  {
   "state": "NY",
@@ -404,7 +429,8 @@
   "email_program": "",
   "email_main": "Contact@SaugertiesAnimalShelter.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(845) 679-0339"
+  "phone": "(845) 679-0339",
+  "events": []
  },
  {
   "state": "NY",
@@ -419,7 +445,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": []
  },
  {
   "state": "NY",
@@ -435,7 +462,8 @@
   "email_program": "",
   "email_main": "info@kentanimalshelter.com",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(631) 727-5731"
+  "phone": "(631) 727-5731",
+  "events": []
  },
  {
   "state": "NY",
@@ -2160,18 +2188,20 @@
  {
   "state": "NY",
   "city": "Oneonta",
-  "org": "Super Heroes Humane Society (Super Heroes In Ripped Jeans, Inc.)",
+  "org": "Super Heroes Humane Society",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter",
-  "notes": "Shelter at 160 Pony Farm Rd, Oneonta (Otsego County). Its own site has not been checked yet.",
+  "url": "https://superheroeshs.org/",
+  "notes": "Shelter at 160 Pony Farm Rd, Oneonta (Otsego County), open Wed-Sun 12-5 pm; also uses foster homes. No day-out program found.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@superheroeshs.org",
   "source_list": "shelter website",
-  "source": "https://adoptapet.com/animal-shelters/new-york/oneida"
+  "source": "https://adoptapet.com/animal-shelters/new-york/oneida",
+  "phone": "(607) 441-3227",
+  "events": []
  },
  {
   "state": "NY",
@@ -2181,29 +2211,40 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter",
-  "notes": "Shelter at 1232 Route 5S, Amsterdam. Its own site has not been checked yet.",
+  "url": "https://www.mc-spca.com/",
+  "notes": "Shelter at 1232 NY State Hwy 5S, Amsterdam, open Wed-Sun 12-4 pm by appointment. No day-out program found (foster care is multi-week).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@mc-spca.org",
   "source_list": "shelter website",
-  "source": "https://www.adoptapet.com/animal-shelters/new-york/oneida?page=2"
+  "source": "https://www.adoptapet.com/animal-shelters/new-york/oneida?page=2",
+  "phone": "(518) 842-8050",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Meet Santa's Helpers Holiday Adoption Event (with Mountain Rottie Rescue and Petey's Legacy), 10am-1pm",
+    "url": "https://www.mc-spca.com/get-involved",
+    "place": "ViaPort Rotterdam, 93 W Campbell Rd, Schenectady, NY"
+   }
+  ]
  },
  {
   "state": "NY",
   "city": "Sprakers",
   "org": "Ayres Memorial Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter",
-  "notes": "Shelter at 133 Hill Top Rd, Sprakers (Montgomery County). Its own site has not been checked yet.",
+  "program": "Shelter Buddy",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Dog outings",
+  "url": "https://www.ayresanimalshelter.org/volunteer",
+  "notes": "Each shelter dog is paired with a dedicated volunteer Shelter Buddy who takes it out about twice a month for roughly an hour; apply through the volunteer application.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "volunteer.ayresshelter@gmail.com",
+  "email_main": "adopt.ayresshelter@gmail.com",
   "source_list": "shelter website",
-  "source": "https://www.adoptapet.com/animal-shelters/new-york/oneida?page=2"
+  "source": "https://www.adoptapet.com/animal-shelters/new-york/oneida?page=2",
+  "phone": "(518) 673-5670",
+  "events": []
  },
  {
   "state": "NY",
@@ -2213,12 +2254,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter",
-  "notes": "Shelter at 304 Howes Cave Rd, Howes Cave (Schoharie County). Its own site has not been checked yet.",
+  "url": "https://schoharieanimalshelter.org/",
+  "notes": "Shelter at 304 Howes Cave Rd, Howes Cave; the only shelter in Schoharie County taking both cats and dogs. No day-out program found.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "assv@midtel.net",
+  "source_list": "shelter website",
+  "phone": "(518) 296-8390",
+  "events": []
  },
  {
   "state": "NY",
@@ -2233,7 +2276,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pawsitivecafe@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -2249,7 +2293,8 @@
   "email_program": "",
   "email_main": "GreeceAnimalControl@greeceny.gov",
   "source_list": "shelter website",
-  "phone": "(585) 581-4025"
+  "phone": "(585) 581-4025",
+  "events": []
  },
  {
   "state": "NY",
@@ -2264,7 +2309,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -2281,7 +2327,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.adoptapet.com/shelter/86675",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "NY",
@@ -2298,7 +2345,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.adoptapet.com/shelter/89540",
-  "phone": "(607) 724-3709"
+  "phone": "(607) 724-3709",
+  "events": []
  },
  {
   "state": "NY",
@@ -2314,7 +2362,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6551"
+  "source": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6551",
+  "events": []
  },
  {
   "state": "NY",
@@ -2331,7 +2380,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.adoptapet.com/shelter/68621",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "NY",
@@ -2348,7 +2398,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.adoptapet.com/shelter/93087",
-  "phone": "(607) 792-1101 ext. 101"
+  "phone": "(607) 792-1101 ext. 101",
+  "events": []
  },
  {
   "state": "NY",
@@ -2365,7 +2416,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.petfinder.com/member/us/ny/owego/town-of-owego-dog-control-ny1610",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "NY",
@@ -2382,7 +2434,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.adoptapet.com/shelter/86159",
-  "phone": "(607) 732-1827"
+  "phone": "(607) 732-1827",
+  "events": []
  },
  {
   "state": "NY",
@@ -2398,7 +2451,8 @@
   "email_program": "",
   "email_main": "adetota@cityofelmira.net",
   "source_list": "shelter website",
-  "phone": "(607) 737-5767"
+  "phone": "(607) 737-5767",
+  "events": []
  },
  {
   "state": "NY",
@@ -2415,7 +2469,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://townofveteranny.gov/animal-control-service; https://www.adoptapet.com/shelter/242160",
-  "phone": "(607) 333-0563"
+  "phone": "(607) 333-0563",
+  "events": []
  },
  {
   "state": "NY",
@@ -2432,7 +2487,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.adoptapet.com/adoption_rescue/83178; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6543",
-  "phone": "(607) 776-3039"
+  "phone": "(607) 776-3039",
+  "events": []
  },
  {
   "state": "NY",
@@ -2449,7 +2505,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://adoptapet.com/shelter/84496; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6579",
-  "phone": "(607) 324-1270"
+  "phone": "(607) 324-1270",
+  "events": []
  },
  {
   "state": "NY",
@@ -2466,7 +2523,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.petfinder.com/member/us/ny/montour-falls/humane-society-of-schuyler-county-ny633; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/19036",
-  "phone": "(607) 210-2600"
+  "phone": "(607) 210-2600",
+  "events": []
  },
  {
   "state": "NY",
@@ -2482,7 +2540,8 @@
   "email_program": "",
   "email_main": "info@spcaonline.com",
   "source_list": "shelter website",
-  "phone": "(607) 257-1822"
+  "phone": "(607) 257-1822",
+  "events": []
  },
  {
   "state": "NY",
@@ -2499,7 +2558,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://cornellsun.com/article/2026/04/alley-cat-cafe-a-home-away-from-home",
-  "phone": "(607) 319-5006"
+  "phone": "(607) 319-5006",
+  "events": []
  },
  {
   "state": "NY",
@@ -2516,7 +2576,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.adoptapet.com/shelter/66768-chenango-county-spca-norwich-new-york; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6493",
-  "phone": "(607) 334-9724"
+  "phone": "(607) 334-9724",
+  "events": []
  },
  {
   "state": "NY",
@@ -2532,7 +2593,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "source": "https://adoptapet.com/shelter/75720-heart-of-the-catskills-humane-society-delhi-new-york; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6569"
+  "source": "https://adoptapet.com/shelter/75720-heart-of-the-catskills-humane-society-delhi-new-york; https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6569",
+  "events": []
  },
  {
   "state": "NY",
@@ -2547,7 +2609,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -2911,6 +2974,40 @@
   "phone": "",
   "notes": "Own website not found.",
   "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "NY",
+  "city": "Accord",
+  "org": "Rondout Valley Animals for Adoption",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://apps.agriculture.ny.gov/PetRescueLicenseListing/PetRescue/Reports/176419",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "NY",
+  "city": "Glens Falls",
+  "org": "North Shore Animal League America - Adirondack Region Cat Adoption Center",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.animalleague.org/adirondack-region-adoption-center/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(518) 409-8105",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",

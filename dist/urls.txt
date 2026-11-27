@@ -409,6 +409,7 @@ https://shelterdayout.com/cities/sioux-falls-sd/
 https://shelterdayout.com/cities/slinger-wi/
 https://shelterdayout.com/cities/south-elgin-il/
 https://shelterdayout.com/cities/spokane-valley-wa/
+https://shelterdayout.com/cities/sprakers-ny/
 https://shelterdayout.com/cities/spruce-pine-nc/
 https://shelterdayout.com/cities/st-augustine-fl/
 https://shelterdayout.com/cities/st-louis-mo/
@@ -3132,6 +3133,7 @@ https://shelterdayout.com/listings/north-little-rock-animal-shelter-north-little
 https://shelterdayout.com/listings/north-platte-animal-shelter-north-platte/
 https://shelterdayout.com/listings/north-richland-hills-animal-adoption-and-rescue-center-north-richland-hills/
 https://shelterdayout.com/listings/north-royalton-animal-control-north-royalton/
+https://shelterdayout.com/listings/north-shore-animal-league-america-adirondack-region-cat-adoption-center-glens-falls/
 https://shelterdayout.com/listings/north-shore-animal-league-america-port-washington/
 https://shelterdayout.com/listings/north-smithfield-animal-shelter-north-smithfield/
 https://shelterdayout.com/listings/north-stonington-animal-control-north-stonington/
@@ -3617,6 +3619,7 @@ https://shelterdayout.com/listings/roice-hurst-humane-society-grand-junction/
 https://shelterdayout.com/listings/rolla-animal-shelter-rolla/
 https://shelterdayout.com/listings/romulus-animal-shelter-romulus/
 https://shelterdayout.com/listings/ron-and-sherrie-lou-noel-boone-county-animal-shelter-burlington/
+https://shelterdayout.com/listings/rondout-valley-animals-for-adoption-accord/
 https://shelterdayout.com/listings/roosevelt-animal-shelter-roosevelt/
 https://shelterdayout.com/listings/roscommon-county-animal-shelter-prudenville/
 https://shelterdayout.com/listings/rosenberg-animal-control-and-shelter-rosenberg/
@@ -4009,7 +4012,7 @@ https://shelterdayout.com/listings/suncoast-animal-league-palm-harbor/
 https://shelterdayout.com/listings/suncoast-humane-society-englewood/
 https://shelterdayout.com/listings/sunnyside-animal-control-sunnyside-police-department-sunnyside/
 https://shelterdayout.com/listings/sunnyvale-animal-shelter-sunnyvale/
-https://shelterdayout.com/listings/super-heroes-humane-society-super-heroes-in-ripped-jeans-inc-oneonta/
+https://shelterdayout.com/listings/super-heroes-humane-society-oneonta/
 https://shelterdayout.com/listings/surfcat-cafe-and-adoptions-oxnard/
 https://shelterdayout.com/listings/surry-county-animal-control-dobson/
 https://shelterdayout.com/listings/surry-county-animal-shelter-surry/

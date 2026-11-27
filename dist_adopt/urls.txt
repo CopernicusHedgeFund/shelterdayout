@@ -3125,6 +3125,7 @@ https://shelteradoption.com/shelters/north-little-rock-animal-shelter-north-litt
 https://shelteradoption.com/shelters/north-platte-animal-shelter-north-platte/
 https://shelteradoption.com/shelters/north-richland-hills-animal-adoption-and-rescue-center-north-richland-hills/
 https://shelteradoption.com/shelters/north-royalton-animal-control-north-royalton/
+https://shelteradoption.com/shelters/north-shore-animal-league-america-adirondack-region-cat-adoption-center-glens-falls/
 https://shelteradoption.com/shelters/north-shore-animal-league-america-port-washington/
 https://shelteradoption.com/shelters/north-smithfield-animal-shelter-north-smithfield/
 https://shelteradoption.com/shelters/north-stonington-animal-control-north-stonington/
@@ -3610,6 +3611,7 @@ https://shelteradoption.com/shelters/roice-hurst-humane-society-grand-junction/
 https://shelteradoption.com/shelters/rolla-animal-shelter-rolla/
 https://shelteradoption.com/shelters/romulus-animal-shelter-romulus/
 https://shelteradoption.com/shelters/ron-and-sherrie-lou-noel-boone-county-animal-shelter-burlington/
+https://shelteradoption.com/shelters/rondout-valley-animals-for-adoption-accord/
 https://shelteradoption.com/shelters/roosevelt-animal-shelter-roosevelt/
 https://shelteradoption.com/shelters/roscommon-county-animal-shelter-prudenville/
 https://shelteradoption.com/shelters/rosenberg-animal-control-and-shelter-rosenberg/
@@ -4002,7 +4004,7 @@ https://shelteradoption.com/shelters/suncoast-animal-league-palm-harbor/
 https://shelteradoption.com/shelters/suncoast-humane-society-englewood/
 https://shelteradoption.com/shelters/sunnyside-animal-control-sunnyside-police-department-sunnyside/
 https://shelteradoption.com/shelters/sunnyvale-animal-shelter-sunnyvale/
-https://shelteradoption.com/shelters/super-heroes-humane-society-super-heroes-in-ripped-jeans-inc-oneonta/
+https://shelteradoption.com/shelters/super-heroes-humane-society-oneonta/
 https://shelteradoption.com/shelters/surfcat-cafe-and-adoptions-oxnard/
 https://shelteradoption.com/shelters/surry-county-animal-control-dobson/
 https://shelteradoption.com/shelters/surry-county-animal-shelter-surry/
