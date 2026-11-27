@@ -840,6 +840,7 @@ https://shelterdayout.com/listings/bartholomew-county-humane-society-columbus/
 https://shelterdayout.com/listings/bartlett-animal-shelter-bartlett/
 https://shelterdayout.com/listings/bartow-county-animal-control-cartersville/
 https://shelterdayout.com/listings/bastrop-county-animal-services-bastrop/
+https://shelterdayout.com/listings/batesburg-leesville-animal-services-batesburg-leesville/
 https://shelterdayout.com/listings/bath-county-animal-shelter-hot-springs/
 https://shelterdayout.com/listings/battle-mountain-humane-society-battle-mountain/
 https://shelterdayout.com/listings/battle-mountain-humane-society-hot-springs/
@@ -2421,6 +2422,7 @@ https://shelterdayout.com/listings/jacksonville-humane-society-jacksonville/
 https://shelterdayout.com/listings/james-river-humane-society-jamestown/
 https://shelterdayout.com/listings/jasper-county-animal-control-monticello/
 https://shelterdayout.com/listings/jasper-county-animal-control-newton/
+https://shelterdayout.com/listings/jasper-county-animal-services-ridgeland/
 https://shelterdayout.com/listings/jasper-county-animal-shelter-rensselaer/
 https://shelterdayout.com/listings/jayne-h-boswell-animal-shelter-florence/
 https://shelterdayout.com/listings/jeanette-hunt-animal-shelter-blair/
