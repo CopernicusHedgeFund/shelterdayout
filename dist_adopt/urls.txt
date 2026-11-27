@@ -137,6 +137,7 @@ https://shelteradoption.com/cities/dublin-ga/
 https://shelteradoption.com/cities/dunkirk-ny/
 https://shelteradoption.com/cities/duxbury-ma/
 https://shelteradoption.com/cities/east-falmouth-ma/
+https://shelteradoption.com/cities/east-hartford-ct/
 https://shelteradoption.com/cities/east-northport-ny/
 https://shelteradoption.com/cities/eaton-oh/
 https://shelteradoption.com/cities/edwardsville-il/
@@ -486,6 +487,7 @@ https://shelteradoption.com/cities/williston-nd/
 https://shelteradoption.com/cities/wilmington-oh/
 https://shelteradoption.com/cities/wilson-nc/
 https://shelteradoption.com/cities/winchester-va/
+https://shelteradoption.com/cities/windsor-ct/
 https://shelteradoption.com/cities/winston-salem-nc/
 https://shelteradoption.com/cities/winter-haven-fl/
 https://shelteradoption.com/cities/wooster-oh/
@@ -1456,6 +1458,7 @@ https://shelteradoption.com/shelters/companions-animal-center-hayden/
 https://shelteradoption.com/shelters/concho-valley-paws-humane-society-of-tom-green-county-san-angelo/
 https://shelteradoption.com/shelters/concordia-paws-ferriday/
 https://shelteradoption.com/shelters/conecuh-county-animal-shelter-evergreen/
+https://shelteradoption.com/shelters/connecticut-cat-connection-windsor/
 https://shelteradoption.com/shelters/connecticut-humane-society-newington/
 https://shelteradoption.com/shelters/connecticut-humane-society-waterford-waterford/
 https://shelteradoption.com/shelters/connecticut-humane-society-wilton-wilton/
@@ -3134,6 +3137,7 @@ https://shelteradoption.com/shelters/nicholas-county-animal-shelter-summersville
 https://shelteradoption.com/shelters/nine-lives-foundation-redwood-city/
 https://shelteradoption.com/shelters/nixa-animal-control-nixa/
 https://shelteradoption.com/shelters/nj-humane-society-west-new-york/
+https://shelteradoption.com/shelters/no-paws-left-behind-north-adams/
 https://shelteradoption.com/shelters/noah-project-muskegon/
 https://shelteradoption.com/shelters/noah-s-ark-animal-foundation-fairfield/
 https://shelteradoption.com/shelters/noah-s-ark-animal-sanctuary-rockford/
@@ -3529,6 +3533,7 @@ https://shelteradoption.com/shelters/prince-william-county-animal-shelter-indepe
 https://shelteradoption.com/shelters/project-hope-humane-society-metropolis/
 https://shelteradoption.com/shelters/promoting-animal-welfare-society-paws-muskogee/
 https://shelteradoption.com/shelters/prospect-animal-control-prospect/
+https://shelteradoption.com/shelters/protectors-of-animals-east-hartford/
 https://shelteradoption.com/shelters/proud-animal-lovers-shelter-pals-parsons/
 https://shelteradoption.com/shelters/providence-animal-center-media/
 https://shelteradoption.com/shelters/providence-animal-control-providence/

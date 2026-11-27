@@ -1605,5 +1605,39 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "CT",
+  "city": "East Hartford",
+  "org": "Protectors of Animals",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats and dogs",
+  "offers": "",
+  "url": "https://poainc.org/",
+  "notes": "Nonprofit with a cat shelter in East Hartford; dogs are housed in private kennels in the Hartford area. Adoptions by appointment only (cat appointments Saturdays).",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "CT",
+  "city": "Windsor",
+  "org": "Connecticut Cat Connection",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.ctcatconnection.org/",
+  "notes": "Volunteer-run, cat-only no-kill shelter at 40 Stevens Mill Rd, Windsor. Open to visitors Sat-Sun 12-3 PM and Tue-Wed 5-6:30 PM; apply online before visiting. Contact via web form.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]

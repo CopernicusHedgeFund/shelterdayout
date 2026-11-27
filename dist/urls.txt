@@ -422,6 +422,7 @@ https://shelterdayout.com/cities/royse-city-tx/
 https://shelterdayout.com/cities/sacramento-ca/
 https://shelterdayout.com/cities/saginaw-mi/
 https://shelterdayout.com/cities/saint-cloud-mn/
+https://shelterdayout.com/cities/salem-ma/
 https://shelterdayout.com/cities/salinas-ca/
 https://shelterdayout.com/cities/salisbury-md/
 https://shelterdayout.com/cities/salisbury-nc/
@@ -1503,6 +1504,7 @@ https://shelterdayout.com/listings/companions-animal-center-hayden/
 https://shelterdayout.com/listings/concho-valley-paws-humane-society-of-tom-green-county-san-angelo/
 https://shelterdayout.com/listings/concordia-paws-ferriday/
 https://shelterdayout.com/listings/conecuh-county-animal-shelter-evergreen/
+https://shelterdayout.com/listings/connecticut-cat-connection-windsor/
 https://shelterdayout.com/listings/connecticut-humane-society-newington/
 https://shelterdayout.com/listings/connecticut-humane-society-waterford-waterford/
 https://shelterdayout.com/listings/connecticut-humane-society-wilton-wilton/
@@ -3181,6 +3183,7 @@ https://shelterdayout.com/listings/nicholas-county-animal-shelter-summersville/
 https://shelterdayout.com/listings/nine-lives-foundation-redwood-city/
 https://shelterdayout.com/listings/nixa-animal-control-nixa/
 https://shelterdayout.com/listings/nj-humane-society-west-new-york/
+https://shelterdayout.com/listings/no-paws-left-behind-north-adams/
 https://shelterdayout.com/listings/noah-project-muskegon/
 https://shelterdayout.com/listings/noah-s-ark-animal-foundation-fairfield/
 https://shelterdayout.com/listings/noah-s-ark-animal-sanctuary-rockford/
@@ -3576,6 +3579,7 @@ https://shelterdayout.com/listings/prince-william-county-animal-shelter-independ
 https://shelterdayout.com/listings/project-hope-humane-society-metropolis/
 https://shelterdayout.com/listings/promoting-animal-welfare-society-paws-muskogee/
 https://shelterdayout.com/listings/prospect-animal-control-prospect/
+https://shelterdayout.com/listings/protectors-of-animals-east-hartford/
 https://shelterdayout.com/listings/proud-animal-lovers-shelter-pals-parsons/
 https://shelterdayout.com/listings/providence-animal-center-media/
 https://shelterdayout.com/listings/providence-animal-control-providence/
