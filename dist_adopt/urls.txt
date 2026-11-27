@@ -619,6 +619,7 @@ https://shelteradoption.com/shelters/animal-ark-rescue-columbus/
 https://shelteradoption.com/shelters/animal-assistance-league-of-orange-county-midway-city/
 https://shelteradoption.com/shelters/animal-care-and-control-anderson/
 https://shelteradoption.com/shelters/animal-care-and-protective-services-city-of-jacksonville-jacksonville/
+https://shelteradoption.com/shelters/animal-care-centers-of-nyc-bronx-animal-care-center-bronx/
 https://shelteradoption.com/shelters/animal-care-centers-of-nyc-manhattan-animal-care-center-new-york/
 https://shelteradoption.com/shelters/animal-care-centers-of-nyc-queens-animal-care-center-ridgewood/
 https://shelteradoption.com/shelters/animal-care-centers-of-nyc-staten-island-animal-care-center-staten-island/
@@ -1370,6 +1371,7 @@ https://shelteradoption.com/shelters/cordele-animal-shelter-cordele-animal-contr
 https://shelteradoption.com/shelters/corinne-t-smith-animal-center-brownwood/
 https://shelteradoption.com/shelters/corinth-alcorn-animal-shelter-corinth/
 https://shelteradoption.com/shelters/corinth-holders-animal-pen-wendell/
+https://shelteradoption.com/shelters/corning-area-humane-society-corning/
 https://shelteradoption.com/shelters/corona-animal-shelter-corona/
 https://shelteradoption.com/shelters/corpus-christi-animal-care-services-corpus-christi/
 https://shelteradoption.com/shelters/corrales-animal-services-corrales/
@@ -3604,7 +3606,6 @@ https://shelteradoption.com/shelters/spalding-county-animal-shelter-griffin/
 https://shelteradoption.com/shelters/spartanburg-county-pet-resource-center-spartanburg/
 https://shelteradoption.com/shelters/spartanburg-humane-society-spartanburg/
 https://shelteradoption.com/shelters/spca-albrecht-center-for-animal-welfare-aiken/
-https://shelteradoption.com/shelters/spca-belmont/
 https://shelteradoption.com/shelters/spca-cincinnati-cincinnati/
 https://shelteradoption.com/shelters/spca-eastern-shore-onley/
 https://shelteradoption.com/shelters/spca-florida-lakeland/
@@ -3627,6 +3628,7 @@ https://shelteradoption.com/shelters/spca-of-texas-dallas/
 https://shelteradoption.com/shelters/spca-of-tompkins-county-ithaca/
 https://shelteradoption.com/shelters/spca-of-wake-county-raleigh/
 https://shelteradoption.com/shelters/spca-san-patricio-county-sandra-sue-benson-animal-adoption-center-aransas-pass/
+https://shelteradoption.com/shelters/spca-serving-allegany-county-belmont/
 https://shelteradoption.com/shelters/spca-serving-erie-county-west-seneca/
 https://shelteradoption.com/shelters/spca-suncoast-new-port-richey/
 https://shelteradoption.com/shelters/spca-tampa-bay-largo/
@@ -3847,12 +3849,14 @@ https://shelteradoption.com/shelters/town-of-clarence-animal-shelter-clarence-ce
 https://shelteradoption.com/shelters/town-of-greece-animal-services-greece/
 https://shelteradoption.com/shelters/town-of-groton-animal-control-groton/
 https://shelteradoption.com/shelters/town-of-guilderland-animal-shelter-richard-r-murray-animal-shelter-guilderland/
+https://shelteradoption.com/shelters/town-of-hamburg-dog-control-dog-shelter-hamburg/
 https://shelteradoption.com/shelters/town-of-hempstead-animal-shelter-wantagh/
 https://shelteradoption.com/shelters/town-of-huntington-cat-shelter-operated-by-little-shelter-east-northport/
 https://shelteradoption.com/shelters/town-of-islip-animal-shelter-and-adopt-a-pet-center-central-islip/
 https://shelteradoption.com/shelters/town-of-lancaster-dog-control-lancaster/
 https://shelteradoption.com/shelters/town-of-lisle-dog-shelter-lisle/
 https://shelteradoption.com/shelters/town-of-little-elm-animal-shelter-little-elm/
+https://shelteradoption.com/shelters/town-of-lockport-animal-control-lockport/
 https://shelteradoption.com/shelters/town-of-newburgh-animal-control-and-shelter-newburgh/
 https://shelteradoption.com/shelters/town-of-north-hempstead-animal-shelter-port-washington/
 https://shelteradoption.com/shelters/town-of-owego-dog-shelter-town-of-owego-dog-control-owego/
@@ -4120,6 +4124,7 @@ https://shelteradoption.com/shelters/worcester-county-humane-society-berlin/
 https://shelteradoption.com/shelters/worlds-largest-cat-tree-leetonia/
 https://shelteradoption.com/shelters/wright-way-rescue-morton-grove/
 https://shelteradoption.com/shelters/wylie-animal-services-wylie/
+https://shelteradoption.com/shelters/wyoming-county-spca-attica/
 https://shelteradoption.com/shelters/wythe-county-dog-shelter-wytheville/
 https://shelteradoption.com/shelters/yadkin-county-animal-shelter-yadkinville/
 https://shelteradoption.com/shelters/yakima-humane-society-yakima/

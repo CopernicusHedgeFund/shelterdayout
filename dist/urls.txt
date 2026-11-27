@@ -649,6 +649,7 @@ https://shelterdayout.com/listings/animal-ark-rescue-columbus/
 https://shelterdayout.com/listings/animal-assistance-league-of-orange-county-midway-city/
 https://shelterdayout.com/listings/animal-care-and-control-anderson/
 https://shelterdayout.com/listings/animal-care-and-protective-services-city-of-jacksonville-jacksonville/
+https://shelterdayout.com/listings/animal-care-centers-of-nyc-bronx-animal-care-center-bronx/
 https://shelterdayout.com/listings/animal-care-centers-of-nyc-manhattan-animal-care-center-new-york/
 https://shelterdayout.com/listings/animal-care-centers-of-nyc-queens-animal-care-center-ridgewood/
 https://shelterdayout.com/listings/animal-care-centers-of-nyc-staten-island-animal-care-center-staten-island/
@@ -1400,6 +1401,7 @@ https://shelterdayout.com/listings/cordele-animal-shelter-cordele-animal-control
 https://shelterdayout.com/listings/corinne-t-smith-animal-center-brownwood/
 https://shelterdayout.com/listings/corinth-alcorn-animal-shelter-corinth/
 https://shelterdayout.com/listings/corinth-holders-animal-pen-wendell/
+https://shelterdayout.com/listings/corning-area-humane-society-corning/
 https://shelterdayout.com/listings/corona-animal-shelter-corona/
 https://shelterdayout.com/listings/corpus-christi-animal-care-services-corpus-christi/
 https://shelterdayout.com/listings/corrales-animal-services-corrales/
@@ -3634,7 +3636,6 @@ https://shelterdayout.com/listings/spalding-county-animal-shelter-griffin/
 https://shelterdayout.com/listings/spartanburg-county-pet-resource-center-spartanburg/
 https://shelterdayout.com/listings/spartanburg-humane-society-spartanburg/
 https://shelterdayout.com/listings/spca-albrecht-center-for-animal-welfare-aiken/
-https://shelterdayout.com/listings/spca-belmont/
 https://shelterdayout.com/listings/spca-cincinnati-cincinnati/
 https://shelterdayout.com/listings/spca-eastern-shore-onley/
 https://shelterdayout.com/listings/spca-florida-lakeland/
@@ -3657,6 +3658,7 @@ https://shelterdayout.com/listings/spca-of-texas-dallas/
 https://shelterdayout.com/listings/spca-of-tompkins-county-ithaca/
 https://shelterdayout.com/listings/spca-of-wake-county-raleigh/
 https://shelterdayout.com/listings/spca-san-patricio-county-sandra-sue-benson-animal-adoption-center-aransas-pass/
+https://shelterdayout.com/listings/spca-serving-allegany-county-belmont/
 https://shelterdayout.com/listings/spca-serving-erie-county-west-seneca/
 https://shelterdayout.com/listings/spca-suncoast-new-port-richey/
 https://shelterdayout.com/listings/spca-tampa-bay-largo/
@@ -3877,12 +3879,14 @@ https://shelterdayout.com/listings/town-of-clarence-animal-shelter-clarence-cent
 https://shelterdayout.com/listings/town-of-greece-animal-services-greece/
 https://shelterdayout.com/listings/town-of-groton-animal-control-groton/
 https://shelterdayout.com/listings/town-of-guilderland-animal-shelter-richard-r-murray-animal-shelter-guilderland/
+https://shelterdayout.com/listings/town-of-hamburg-dog-control-dog-shelter-hamburg/
 https://shelterdayout.com/listings/town-of-hempstead-animal-shelter-wantagh/
 https://shelterdayout.com/listings/town-of-huntington-cat-shelter-operated-by-little-shelter-east-northport/
 https://shelterdayout.com/listings/town-of-islip-animal-shelter-and-adopt-a-pet-center-central-islip/
 https://shelterdayout.com/listings/town-of-lancaster-dog-control-lancaster/
 https://shelterdayout.com/listings/town-of-lisle-dog-shelter-lisle/
 https://shelterdayout.com/listings/town-of-little-elm-animal-shelter-little-elm/
+https://shelterdayout.com/listings/town-of-lockport-animal-control-lockport/
 https://shelterdayout.com/listings/town-of-newburgh-animal-control-and-shelter-newburgh/
 https://shelterdayout.com/listings/town-of-north-hempstead-animal-shelter-port-washington/
 https://shelterdayout.com/listings/town-of-owego-dog-shelter-town-of-owego-dog-control-owego/
@@ -4150,6 +4154,7 @@ https://shelterdayout.com/listings/worcester-county-humane-society-berlin/
 https://shelterdayout.com/listings/worlds-largest-cat-tree-leetonia/
 https://shelterdayout.com/listings/wright-way-rescue-morton-grove/
 https://shelterdayout.com/listings/wylie-animal-services-wylie/
+https://shelterdayout.com/listings/wyoming-county-spca-attica/
 https://shelterdayout.com/listings/wythe-county-dog-shelter-wytheville/
 https://shelterdayout.com/listings/yadkin-county-animal-shelter-yadkinville/
 https://shelterdayout.com/listings/yakima-humane-society-yakima/
