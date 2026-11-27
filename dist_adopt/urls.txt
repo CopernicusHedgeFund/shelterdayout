@@ -910,6 +910,7 @@ https://shelteradoption.com/shelters/big-spring-animal-services-shelter-big-spri
 https://shelteradoption.com/shelters/bigbee-humane-society-demopolis/
 https://shelteradoption.com/shelters/bisbee-animal-shelter-bisbee/
 https://shelteradoption.com/shelters/bishop-animal-shelter-manatee-county-animal-welfare-bradenton/
+https://shelteradoption.com/shelters/bismarck-police-department-animal-impound-bismarck/
 https://shelteradoption.com/shelters/bitter-root-humane-association-hamilton/
 https://shelteradoption.com/shelters/black-dog-animal-rescue-cheyenne/
 https://shelteradoption.com/shelters/blackfoot-animal-shelter-and-rescue-blackfoot/
@@ -2698,6 +2699,7 @@ https://shelteradoption.com/shelters/macon-county-animal-services-franklin/
 https://shelteradoption.com/shelters/macoupin-county-animal-control-and-adoption-center-carlinville/
 https://shelteradoption.com/shelters/madera-county-animal-services-madera-animal-shelter-madera/
 https://shelteradoption.com/shelters/madill-animal-shelter-madill/
+https://shelteradoption.com/shelters/madison-animal-shelter-city-of-madison-animal-control-madison/
 https://shelteradoption.com/shelters/madison-city-animal-control-madison/
 https://shelteradoption.com/shelters/madison-county-animal-care-and-control-edwardsville/
 https://shelteradoption.com/shelters/madison-county-animal-control-huntsville/
@@ -2863,6 +2865,7 @@ https://shelteradoption.com/shelters/mission-viejo-animal-services-center-missio
 https://shelteradoption.com/shelters/mississippi-animal-rescue-league-marl-jackson/
 https://shelteradoption.com/shelters/missoula-animal-services-missoula/
 https://shelteradoption.com/shelters/missouri-city-animal-services-missouri-city/
+https://shelteradoption.com/shelters/mitchell-animal-rescue-mitchell/
 https://shelteradoption.com/shelters/mitchell-county-animal-control-camilla/
 https://shelteradoption.com/shelters/mitchell-county-animal-rescue-spruce-pine/
 https://shelteradoption.com/shelters/moab-city-animal-shelter-moab/
@@ -3686,6 +3689,7 @@ https://shelteradoption.com/shelters/shenandoah-valley-animal-services-center-st
 https://shelteradoption.com/shelters/shenango-valley-animal-shelter-hermitage/
 https://shelteradoption.com/shelters/sherman-animal-shelter-sherman/
 https://shelteradoption.com/shelters/sherwood-humane-animal-services-sherwood/
+https://shelteradoption.com/shelters/sheyenne-valley-friends-of-animals-valley-city/
 https://shelteradoption.com/shelters/shiawassee-county-animal-control-and-care-shelter-owosso/
 https://shelteradoption.com/shelters/shiawassee-county-humane-society-owosso/
 https://shelteradoption.com/shelters/shiner-animal-shelter-shiner/

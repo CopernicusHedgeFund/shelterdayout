@@ -203,7 +203,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://watertownpaws.org/",
   "notes": "Shelter at 1305 6th Ave NW. Website listed with IRS/GuideStar (watertownpaws.org) did not load; no government page found, so url left blank. Program status unverified.",
   "checked": "November 2026",
   "email_program": "",
@@ -227,5 +227,37 @@
   "phone": "+1-605-664-4244",
   "source_list": "shelter website",
   "osm": "node/5343230598"
+ },
+ {
+  "state": "SD",
+  "city": "Mitchell",
+  "org": "Mitchell Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://mitchellanimalrescue.org/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "SD",
+  "city": "Madison",
+  "org": "Madison Animal Shelter (City of Madison Animal Control)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://madisonthecity.com/departments/police/animal-control/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]

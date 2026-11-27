@@ -259,5 +259,37 @@
   "source_list": "government website",
   "source": "https://www.facebook.com/WillistonNDPDPound",
   "phone": "(701) 577-8100"
+ },
+ {
+  "state": "ND",
+  "city": "Valley City",
+  "org": "Sheyenne Valley Friends of Animals",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.svfanimals.org/",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "ND",
+  "city": "Bismarck",
+  "org": "Bismarck Police Department Animal Impound",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.bismarcknd.gov/DocumentCenter/View/4031/impounded-pets",
+  "phone": "",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]

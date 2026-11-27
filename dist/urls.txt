@@ -918,6 +918,7 @@ https://shelterdayout.com/listings/big-spring-animal-services-shelter-big-spring
 https://shelterdayout.com/listings/bigbee-humane-society-demopolis/
 https://shelterdayout.com/listings/bisbee-animal-shelter-bisbee/
 https://shelterdayout.com/listings/bishop-animal-shelter-manatee-county-animal-welfare-bradenton/
+https://shelterdayout.com/listings/bismarck-police-department-animal-impound-bismarck/
 https://shelterdayout.com/listings/bitter-root-humane-association-hamilton/
 https://shelterdayout.com/listings/black-dog-animal-rescue-cheyenne/
 https://shelterdayout.com/listings/blackfoot-animal-shelter-and-rescue-blackfoot/
@@ -2706,6 +2707,7 @@ https://shelterdayout.com/listings/macon-county-animal-services-franklin/
 https://shelterdayout.com/listings/macoupin-county-animal-control-and-adoption-center-carlinville/
 https://shelterdayout.com/listings/madera-county-animal-services-madera-animal-shelter-madera/
 https://shelterdayout.com/listings/madill-animal-shelter-madill/
+https://shelterdayout.com/listings/madison-animal-shelter-city-of-madison-animal-control-madison/
 https://shelterdayout.com/listings/madison-city-animal-control-madison/
 https://shelterdayout.com/listings/madison-county-animal-care-and-control-edwardsville/
 https://shelterdayout.com/listings/madison-county-animal-control-huntsville/
@@ -2871,6 +2873,7 @@ https://shelterdayout.com/listings/mission-viejo-animal-services-center-mission-
 https://shelterdayout.com/listings/mississippi-animal-rescue-league-marl-jackson/
 https://shelterdayout.com/listings/missoula-animal-services-missoula/
 https://shelterdayout.com/listings/missouri-city-animal-services-missouri-city/
+https://shelterdayout.com/listings/mitchell-animal-rescue-mitchell/
 https://shelterdayout.com/listings/mitchell-county-animal-control-camilla/
 https://shelterdayout.com/listings/mitchell-county-animal-rescue-spruce-pine/
 https://shelterdayout.com/listings/moab-city-animal-shelter-moab/
@@ -3694,6 +3697,7 @@ https://shelterdayout.com/listings/shenandoah-valley-animal-services-center-stau
 https://shelterdayout.com/listings/shenango-valley-animal-shelter-hermitage/
 https://shelterdayout.com/listings/sherman-animal-shelter-sherman/
 https://shelterdayout.com/listings/sherwood-humane-animal-services-sherwood/
+https://shelterdayout.com/listings/sheyenne-valley-friends-of-animals-valley-city/
 https://shelterdayout.com/listings/shiawassee-county-animal-control-and-care-shelter-owosso/
 https://shelterdayout.com/listings/shiawassee-county-humane-society-owosso/
 https://shelterdayout.com/listings/shiner-animal-shelter-shiner/
