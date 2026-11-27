@@ -743,6 +743,7 @@ https://shelteradoption.com/shelters/aransas-county-animal-control-shelter-rockp
 https://shelteradoption.com/shelters/ardmore-animal-care-inc-ardmore/
 https://shelteradoption.com/shelters/arenac-county-animal-control-standish/
 https://shelteradoption.com/shelters/arf-hamptons-animal-rescue-fund-of-the-hamptons-east-hampton/
+https://shelteradoption.com/shelters/arizona-animal-welfare-league-and-spca-chandler-chandler/
 https://shelteradoption.com/shelters/arizona-animal-welfare-league-and-spca-phoenix/
 https://shelteradoption.com/shelters/arizona-humane-society-phoenix/
 https://shelteradoption.com/shelters/ark-animal-rescue-and-adoption-lagrange/
@@ -2008,6 +2009,7 @@ https://shelteradoption.com/shelters/henry-trimble-animal-shelter-sulphur/
 https://shelteradoption.com/shelters/hereford-animal-shelter-hereford/
 https://shelteradoption.com/shelters/heritage-humane-society-williamsburg/
 https://shelteradoption.com/shelters/herkimer-county-humane-society-mohawk/
+https://shelteradoption.com/shelters/hermitage-no-kill-cat-shelter-tucson/
 https://shelteradoption.com/shelters/hernando-county-sheriff-s-office-animal-services-brooksville/
 https://shelteradoption.com/shelters/herriman-city-animal-services-herriman/
 https://shelteradoption.com/shelters/hesperia-animal-shelter-hesperia/
@@ -2053,6 +2055,7 @@ https://shelteradoption.com/shelters/hood-river-adopt-a-dog-hood-river/
 https://shelteradoption.com/shelters/hopatcong-animal-shelter-hopatcong/
 https://shelteradoption.com/shelters/hope-4-paws-humane-society-formerly-plainfield-area-humane-society-plainfield/
 https://shelteradoption.com/shelters/hope-animal-shelter-help-orphaned-pets-everywhere-ironwood/
+https://shelteradoption.com/shelters/hope-animal-shelter-tucson/
 https://shelteradoption.com/shelters/hopewell-animal-services-unit-city-of-hopewell-animal-shelter-hopewell/
 https://shelteradoption.com/shelters/hopkins-county-humane-society-madisonville/
 https://shelteradoption.com/shelters/hopkinton-animal-shelter-hopkinton/
@@ -2943,6 +2946,7 @@ https://shelteradoption.com/shelters/nate-s-honor-animal-rescue-bradenton/
 https://shelteradoption.com/shelters/national-cat-protection-society-newport-beach/
 https://shelteradoption.com/shelters/national-greyhound-adoption-program-philadelphia/
 https://shelteradoption.com/shelters/naugatuck-animal-control-naugatuck/
+https://shelteradoption.com/shelters/navajo-nation-animal-control-program-window-rock/
 https://shelteradoption.com/shelters/navasota-animal-services-navasota/
 https://shelteradoption.com/shelters/neady-cats-sterling/
 https://shelteradoption.com/shelters/nebraska-humane-society-omaha/
@@ -3117,6 +3121,7 @@ https://shelteradoption.com/shelters/ozark-humane-society-harrison/
 https://shelteradoption.com/shelters/p-a-t-c-h-pet-adoption-thru-caring-hands-pompton-lakes/
 https://shelteradoption.com/shelters/p-a-w-s-animal-adoption-center-camden/
 https://shelteradoption.com/shelters/p-a-w-s-people-s-animal-welfare-society-of-tinley-park-tinley-park/
+https://shelteradoption.com/shelters/page-animal-adoption-agency-page/
 https://shelteradoption.com/shelters/page-county-animal-shelter-stanley/
 https://shelteradoption.com/shelters/palm-beach-county-animal-care-and-control-west-palm-beach/
 https://shelteradoption.com/shelters/palm-springs-animal-shelter-palm-springs/
@@ -3526,6 +3531,7 @@ https://shelteradoption.com/shelters/san-angelo-animal-services-and-shelter-san-
 https://shelteradoption.com/shelters/san-antonio-animal-care-services-san-antonio/
 https://shelteradoption.com/shelters/san-antonio-humane-society-san-antonio/
 https://shelteradoption.com/shelters/san-antonio-pets-alive-san-antonio/
+https://shelteradoption.com/shelters/san-carlos-apache-tribe-animal-control-program-san-carlos/
 https://shelteradoption.com/shelters/san-clemente-dana-point-animal-shelter-san-clemente/
 https://shelteradoption.com/shelters/san-diego-county-animal-services-east-shelter-santee-santee/
 https://shelteradoption.com/shelters/san-diego-county-animal-services-north-shelter-carlsbad-carlsbad/
@@ -3953,6 +3959,7 @@ https://shelteradoption.com/shelters/tlc-animal-shelter-homer-glen/
 https://shelteradoption.com/shelters/tlc-nd-animal-rescue-devils-lake/
 https://shelteradoption.com/shelters/tobacco-valley-animal-shelter-eureka/
 https://shelteradoption.com/shelters/toccoa-stephens-county-humane-shelter-toccoa/
+https://shelteradoption.com/shelters/tohono-o-odham-nation-animal-control-sells/
 https://shelteradoption.com/shelters/toledo-animal-rescue-toledo/
 https://shelteradoption.com/shelters/toledo-humane-society-maumee/
 https://shelteradoption.com/shelters/tolland-animal-control-tolland/
