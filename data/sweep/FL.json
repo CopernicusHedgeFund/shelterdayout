@@ -1913,7 +1913,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(727) 586-3591"
+  "phone": "(727) 586-3591",
+  "events": []
  },
  {
   "state": "FL",
@@ -1924,20 +1925,13 @@
   "animals": "Dogs",
   "offers": "Half-day (about 4 hours) or full-day outing",
   "url": "https://hcfl.gov/newsroom/2024/02/23/love-dogs-but-can-t-have-one-the-adventure-tails-program-is-for-you-",
-  "notes": "The county site mentions volunteering by taking a dog out for the day through PRC's Adventure Tails program; no eligibility, hours or sign-up details found on hcfl.gov.",
+  "notes": "A Feb 2024 county news article describes Adventure Tails (volunteers take a dog out for a half day of about 4 hours or a full day, sign up via BetterImpact), but the current PRC location and animals-and-pets pages no longer mention it.",
   "checked": "November 2026",
   "email_program": "PRC@hcfl.gov",
   "email_main": "PetInfo@HCFL.gov",
   "source_list": "shelter website",
   "phone": "(813) 301-7387",
   "events": [
-   {
-    "date": "2026-11-24",
-    "end": "2026-12-23",
-    "title": "Silent Night holiday foster: pick up a dog or cat Nov 24-Dec 23, return Jan 4-9",
-    "url": "https://hcfl.gov/residents/animals-and-pets",
-    "place": "Pet Resource Center, Tampa"
-   },
    {
     "date": "2026-12-12",
     "title": "Home for the Howl-idays adoption event (adoption fees waived)",
@@ -1960,7 +1954,8 @@
   "email_program": "",
   "email_main": "animalservices@mypasco.net",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(813) 929-1212",
+  "events": []
  },
  {
   "state": "FL",
@@ -1976,7 +1971,8 @@
   "email_program": "",
   "email_main": "info@spcasuncoast.com",
   "source_list": "shelter website",
-  "phone": "(727) 849-1048"
+  "phone": "(727) 849-1048",
+  "events": []
  },
  {
   "state": "FL",
@@ -2125,7 +2121,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@honoranimalrescue.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(941) 747-4900",
+  "events": []
  },
  {
   "state": "FL",
@@ -2141,7 +2139,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(772) 238-5631"
+  "phone": "(772) 238-5631",
+  "events": []
  },
  {
   "state": "FL",
@@ -2157,7 +2156,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(772) 462-8120"
+  "phone": "(772) 462-8120",
+  "events": []
  },
  {
   "state": "FL",
@@ -2173,7 +2173,8 @@
   "email_program": "",
   "email_main": "adoptioncenter@cityoffortpierce.com",
   "source_list": "shelter website",
-  "phone": "(772) 242-1662"
+  "phone": "(772) 242-1662",
+  "events": []
  },
  {
   "state": "FL",
