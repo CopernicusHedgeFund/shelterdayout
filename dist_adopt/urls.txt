@@ -288,6 +288,7 @@ https://shelteradoption.com/cities/manistee-mi/
 https://shelteradoption.com/cities/mansfield-oh/
 https://shelteradoption.com/cities/marianna-fl/
 https://shelteradoption.com/cities/marietta-ga/
+https://shelteradoption.com/cities/marion-in/
 https://shelteradoption.com/cities/marion-ky/
 https://shelteradoption.com/cities/marion-oh/
 https://shelteradoption.com/cities/mariposa-ca/
@@ -658,6 +659,7 @@ https://shelteradoption.com/shelters/almost-home-animal-haven-of-southfield-bing
 https://shelteradoption.com/shelters/almost-home-animal-rescue-chariton/
 https://shelteradoption.com/shelters/almost-home-animal-shelter-dickinson-county-humane-society-quinnesec/
 https://shelteradoption.com/shelters/almost-home-cat-rescue-mke-milwaukee/
+https://shelteradoption.com/shelters/almost-home-humane-society-lafayette/
 https://shelteradoption.com/shelters/almost-home-humane-society-of-north-central-iowa-fort-dodge/
 https://shelteradoption.com/shelters/almost-home-shelter-and-rescue-van-buren/
 https://shelteradoption.com/shelters/alpena-county-animal-control-alpena/
@@ -737,6 +739,7 @@ https://shelteradoption.com/shelters/animal-lifeline-of-iowa-des-moines/
 https://shelteradoption.com/shelters/animal-orphanage-old-town/
 https://shelteradoption.com/shelters/animal-orphanage-voorhees/
 https://shelteradoption.com/shelters/animal-outreach-of-cape-may-county-west-cape-may/
+https://shelteradoption.com/shelters/animal-protection-association-jeffersonville/
 https://shelteradoption.com/shelters/animal-protection-center-of-southeastern-massachusetts-brockton/
 https://shelteradoption.com/shelters/animal-protection-society-friday-harbor-aps-fh-friday-harbor/
 https://shelteradoption.com/shelters/animal-protection-society-of-caswell-county-yanceyville/
@@ -1381,6 +1384,7 @@ https://shelteradoption.com/shelters/city-of-lonoke-animal-shelter-lonoke/
 https://shelteradoption.com/shelters/city-of-lovington-animal-shelter-animal-protection-services-lovington/
 https://shelteradoption.com/shelters/city-of-manassas-animal-shelter-manassas/
 https://shelteradoption.com/shelters/city-of-mangum-animal-shelter-mangum/
+https://shelteradoption.com/shelters/city-of-marion-animal-care-and-control-marion/
 https://shelteradoption.com/shelters/city-of-marion-animal-shelter-marion/
 https://shelteradoption.com/shelters/city-of-marshall-animal-impoundment-center-marshall/
 https://shelteradoption.com/shelters/city-of-marshall-animal-shelter-marshall/
@@ -1457,6 +1461,7 @@ https://shelteradoption.com/shelters/clay-county-animal-control-and-shelter-loui
 https://shelteradoption.com/shelters/clay-county-animal-rescue-and-education-center-ccare-clay-center/
 https://shelteradoption.com/shelters/clay-county-animal-services-green-cove-springs/
 https://shelteradoption.com/shelters/clay-county-animal-shelter-delta/
+https://shelteradoption.com/shelters/clay-county-humane-society-brazil/
 https://shelteradoption.com/shelters/clayton-county-animal-control-adoption-center-ellenwood/
 https://shelteradoption.com/shelters/clear-creek-county-animal-shelter-charlie-s-place-dumont/
 https://shelteradoption.com/shelters/clearfield-county-spca-clearfield/
@@ -2404,6 +2409,7 @@ https://shelteradoption.com/shelters/humane-society-of-port-jervis-deerpark-port
 https://shelteradoption.com/shelters/humane-society-of-portage-county-plover/
 https://shelteradoption.com/shelters/humane-society-of-preble-county-eaton/
 https://shelteradoption.com/shelters/humane-society-of-pulaski-county-little-rock/
+https://shelteradoption.com/shelters/humane-society-of-putnam-county-greencastle/
 https://shelteradoption.com/shelters/humane-society-of-raleigh-county-beckley/
 https://shelteradoption.com/shelters/humane-society-of-richland-county-mansfield/
 https://shelteradoption.com/shelters/humane-society-of-richland-wilkin-counties-wahpeton/
@@ -2566,6 +2572,7 @@ https://shelteradoption.com/shelters/jasper-county-animal-control-monticello/
 https://shelteradoption.com/shelters/jasper-county-animal-control-newton/
 https://shelteradoption.com/shelters/jasper-county-animal-services-ridgeland/
 https://shelteradoption.com/shelters/jasper-county-animal-shelter-rensselaer/
+https://shelteradoption.com/shelters/jay-county-humane-society-portland/
 https://shelteradoption.com/shelters/jayne-h-boswell-animal-shelter-florence/
 https://shelteradoption.com/shelters/jeanette-hunt-animal-shelter-blair/
 https://shelteradoption.com/shelters/jefferson-city-animal-shelter-jefferson-city/

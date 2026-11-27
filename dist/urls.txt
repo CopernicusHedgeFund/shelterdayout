@@ -306,6 +306,7 @@ https://shelterdayout.com/cities/liverpool-ny/
 https://shelterdayout.com/cities/livingston-mt/
 https://shelterdayout.com/cities/livingston-tx/
 https://shelterdayout.com/cities/logan-ut/
+https://shelterdayout.com/cities/logansport-in/
 https://shelterdayout.com/cities/lompoc-ca/
 https://shelterdayout.com/cities/los-angeles-ca/
 https://shelterdayout.com/cities/louisville-ky/
@@ -326,6 +327,7 @@ https://shelterdayout.com/cities/mansfield-tx/
 https://shelterdayout.com/cities/marathon-fl/
 https://shelterdayout.com/cities/marion-in/
 https://shelterdayout.com/cities/marshall-va/
+https://shelterdayout.com/cities/martinsville-in/
 https://shelterdayout.com/cities/martinsville-va/
 https://shelterdayout.com/cities/marysville-oh/
 https://shelterdayout.com/cities/maryville-mo/
@@ -371,6 +373,7 @@ https://shelterdayout.com/cities/new-castle-de/
 https://shelterdayout.com/cities/new-orleans-la/
 https://shelterdayout.com/cities/new-york-ny/
 https://shelterdayout.com/cities/newark-de/
+https://shelterdayout.com/cities/newburgh-in/
 https://shelterdayout.com/cities/newington-ct/
 https://shelterdayout.com/cities/newnan-ga/
 https://shelterdayout.com/cities/newport-nc/
@@ -720,6 +723,7 @@ https://shelterdayout.com/listings/almost-home-animal-haven-of-southfield-bingha
 https://shelterdayout.com/listings/almost-home-animal-rescue-chariton/
 https://shelterdayout.com/listings/almost-home-animal-shelter-dickinson-county-humane-society-quinnesec/
 https://shelterdayout.com/listings/almost-home-cat-rescue-mke-milwaukee/
+https://shelterdayout.com/listings/almost-home-humane-society-lafayette/
 https://shelterdayout.com/listings/almost-home-humane-society-of-north-central-iowa-fort-dodge/
 https://shelterdayout.com/listings/almost-home-shelter-and-rescue-van-buren/
 https://shelterdayout.com/listings/alpena-county-animal-control-alpena/
@@ -799,6 +803,7 @@ https://shelterdayout.com/listings/animal-lifeline-of-iowa-des-moines/
 https://shelterdayout.com/listings/animal-orphanage-old-town/
 https://shelterdayout.com/listings/animal-orphanage-voorhees/
 https://shelterdayout.com/listings/animal-outreach-of-cape-may-county-west-cape-may/
+https://shelterdayout.com/listings/animal-protection-association-jeffersonville/
 https://shelterdayout.com/listings/animal-protection-center-of-southeastern-massachusetts-brockton/
 https://shelterdayout.com/listings/animal-protection-society-friday-harbor-aps-fh-friday-harbor/
 https://shelterdayout.com/listings/animal-protection-society-of-caswell-county-yanceyville/
@@ -1443,6 +1448,7 @@ https://shelterdayout.com/listings/city-of-lonoke-animal-shelter-lonoke/
 https://shelterdayout.com/listings/city-of-lovington-animal-shelter-animal-protection-services-lovington/
 https://shelterdayout.com/listings/city-of-manassas-animal-shelter-manassas/
 https://shelterdayout.com/listings/city-of-mangum-animal-shelter-mangum/
+https://shelterdayout.com/listings/city-of-marion-animal-care-and-control-marion/
 https://shelterdayout.com/listings/city-of-marion-animal-shelter-marion/
 https://shelterdayout.com/listings/city-of-marshall-animal-impoundment-center-marshall/
 https://shelterdayout.com/listings/city-of-marshall-animal-shelter-marshall/
@@ -1519,6 +1525,7 @@ https://shelterdayout.com/listings/clay-county-animal-control-and-shelter-louisv
 https://shelterdayout.com/listings/clay-county-animal-rescue-and-education-center-ccare-clay-center/
 https://shelterdayout.com/listings/clay-county-animal-services-green-cove-springs/
 https://shelterdayout.com/listings/clay-county-animal-shelter-delta/
+https://shelterdayout.com/listings/clay-county-humane-society-brazil/
 https://shelterdayout.com/listings/clayton-county-animal-control-adoption-center-ellenwood/
 https://shelterdayout.com/listings/clear-creek-county-animal-shelter-charlie-s-place-dumont/
 https://shelterdayout.com/listings/clearfield-county-spca-clearfield/
@@ -2466,6 +2473,7 @@ https://shelterdayout.com/listings/humane-society-of-port-jervis-deerpark-port-j
 https://shelterdayout.com/listings/humane-society-of-portage-county-plover/
 https://shelterdayout.com/listings/humane-society-of-preble-county-eaton/
 https://shelterdayout.com/listings/humane-society-of-pulaski-county-little-rock/
+https://shelterdayout.com/listings/humane-society-of-putnam-county-greencastle/
 https://shelterdayout.com/listings/humane-society-of-raleigh-county-beckley/
 https://shelterdayout.com/listings/humane-society-of-richland-county-mansfield/
 https://shelterdayout.com/listings/humane-society-of-richland-wilkin-counties-wahpeton/
@@ -2628,6 +2636,7 @@ https://shelterdayout.com/listings/jasper-county-animal-control-monticello/
 https://shelterdayout.com/listings/jasper-county-animal-control-newton/
 https://shelterdayout.com/listings/jasper-county-animal-services-ridgeland/
 https://shelterdayout.com/listings/jasper-county-animal-shelter-rensselaer/
+https://shelterdayout.com/listings/jay-county-humane-society-portland/
 https://shelterdayout.com/listings/jayne-h-boswell-animal-shelter-florence/
 https://shelterdayout.com/listings/jeanette-hunt-animal-shelter-blair/
 https://shelterdayout.com/listings/jefferson-city-animal-shelter-jefferson-city/
