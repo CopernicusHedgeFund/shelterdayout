@@ -610,6 +610,7 @@ https://shelterdayout.com/find-a-vet/wyoming/
 https://shelterdayout.com/listings/2nd-chance-4-life-rescue-windsor/
 https://shelterdayout.com/listings/4-paws-animal-control-shakopee/
 https://shelterdayout.com/listings/4-paws-farm-hempstead/
+https://shelterdayout.com/listings/4-paws-pawhuska-animal-shelter-pawhuska/
 https://shelterdayout.com/listings/4-paws-sake-pa-milton/
 https://shelterdayout.com/listings/5a-s-animal-shelter-alton-area-animal-aid-association-godfrey/
 https://shelterdayout.com/listings/a-d-o-p-t-pet-shelter-naperville/
@@ -766,6 +767,7 @@ https://shelterdayout.com/listings/animal-refuge-league-of-greater-portland-west
 https://shelterdayout.com/listings/animal-rescue-alliance-donalsonville/
 https://shelterdayout.com/listings/animal-rescue-coalition-big-rapids/
 https://shelterdayout.com/listings/animal-rescue-foundation-arf-ct-terryville/
+https://shelterdayout.com/listings/animal-rescue-foundation-arf-of-bartlesville-bartlesville/
 https://shelterdayout.com/listings/animal-rescue-friends-of-idyllwild-arf-idyllwild/
 https://shelterdayout.com/listings/animal-rescue-fund-arf-muncie/
 https://shelterdayout.com/listings/animal-rescue-inc-new-freedom/
@@ -1306,6 +1308,7 @@ https://shelterdayout.com/listings/city-of-albuquerque-animal-welfare-department
 https://shelterdayout.com/listings/city-of-alice-animal-control-alice/
 https://shelterdayout.com/listings/city-of-alma-animal-control-alma/
 https://shelterdayout.com/listings/city-of-altus-animal-control-altus/
+https://shelterdayout.com/listings/city-of-anadarko-animal-control-shelter-anadarko/
 https://shelterdayout.com/listings/city-of-anahuac-animal-shelter-anahuac/
 https://shelterdayout.com/listings/city-of-andrews-animal-services-andrews/
 https://shelterdayout.com/listings/city-of-arnold-animal-control-arnold/
@@ -1417,6 +1420,7 @@ https://shelterdayout.com/listings/city-of-shasta-lake-animal-control-shelter-sh
 https://shelterdayout.com/listings/city-of-shawneetown-animal-control-shawneetown/
 https://shelterdayout.com/listings/city-of-st-louis-animal-care-and-control-animal-care-center-st-louis/
 https://shelterdayout.com/listings/city-of-stilwell-animal-control-shelter-stilwell/
+https://shelterdayout.com/listings/city-of-stroud-dog-pound-stroud/
 https://shelterdayout.com/listings/city-of-tahlequah-animal-control-tahlequah/
 https://shelterdayout.com/listings/city-of-taylor-animal-shelter-taylor/
 https://shelterdayout.com/listings/city-of-temple-animal-shelter-heart-to-home-temple/
@@ -1429,6 +1433,7 @@ https://shelterdayout.com/listings/city-of-wichita-falls-animal-services-center-
 https://shelterdayout.com/listings/city-of-winnemucca-humboldt-county-animal-center-winnemucca/
 https://shelterdayout.com/listings/city-of-winnfield-animal-shelter-winnfield/
 https://shelterdayout.com/listings/city-of-wolfforth-animal-control-wolfforth-kennel-wolfforth/
+https://shelterdayout.com/listings/city-of-woodward-animal-control-woodward/
 https://shelterdayout.com/listings/city-of-yukon-animal-control-and-facility-yukon/
 https://shelterdayout.com/listings/city-of-yuma-animal-shelter-yuma/
 https://shelterdayout.com/listings/clackamas-county-dog-services-clackamas/
@@ -2194,6 +2199,7 @@ https://shelterdayout.com/listings/hillsborough-county-pet-resource-center-tampa
 https://shelterdayout.com/listings/hillside-spca-pottsville/
 https://shelterdayout.com/listings/hilton-head-humane-association-hilton-head-island/
 https://shelterdayout.com/listings/hinsdale-humane-society-hinsdale/
+https://shelterdayout.com/listings/hobart-animal-shelter-city-of-hobart-animal-services-hobart/
 https://shelterdayout.com/listings/hobbs-animal-shelter-hobbs/
 https://shelterdayout.com/listings/hobo-hotel-for-cats-and-kittens-lake-charles/
 https://shelterdayout.com/listings/hocking-county-dog-shelter-logan/
@@ -3710,6 +3716,7 @@ https://shelterdayout.com/listings/rockbridge-spca-lexington/
 https://shelterdayout.com/listings/rockcastle-county-animal-shelter-mt-vernon/
 https://shelterdayout.com/listings/rockdale-animal-shelter-rockdale/
 https://shelterdayout.com/listings/rockdale-county-animal-services-conyers/
+https://shelterdayout.com/listings/rockin-g-animal-shelter-city-of-pryor-creek-pryor/
 https://shelterdayout.com/listings/rockingham-county-animal-shelter-reidsville/
 https://shelterdayout.com/listings/rockingham-harrisonburg-spca-harrisonburg/
 https://shelterdayout.com/listings/rockn-ez-rescue-ranch-jefferson-county-animal-shelter-madras/
@@ -3888,6 +3895,7 @@ https://shelterdayout.com/listings/seekonk-animal-shelter-seekonk/
 https://shelterdayout.com/listings/seguin-animal-services-seguin/
 https://shelterdayout.com/listings/selma-animal-shelter-selma/
 https://shelterdayout.com/listings/seminole-animal-shelter-city-of-seminole-animal-control-seminole/
+https://shelterdayout.com/listings/seminole-animal-shelter-seminole-humane-society-seminole/
 https://shelterdayout.com/listings/seminole-county-animal-services-sanford/
 https://shelterdayout.com/listings/senatobia-tate-county-animal-shelter-senatobia/
 https://shelterdayout.com/listings/seneca-county-dog-warden-tiffin/
@@ -4311,6 +4319,7 @@ https://shelterdayout.com/listings/turlock-animal-services-turlock/
 https://shelterdayout.com/listings/tuscaloosa-metro-animal-shelter-tuscaloosa/
 https://shelterdayout.com/listings/tuscarawas-county-dog-pound-new-philadelphia/
 https://shelterdayout.com/listings/tuscola-county-animal-control-shelter-caro/
+https://shelterdayout.com/listings/tuttle-animal-shelter-tuttle/
 https://shelterdayout.com/listings/twin-city-animal-shelter-lead/
 https://shelterdayout.com/listings/twin-falls-animal-shelter-people-for-pets-magic-valley-humane-society-twin-falls/
 https://shelterdayout.com/listings/tyler-animal-control-and-shelter-tyler/
