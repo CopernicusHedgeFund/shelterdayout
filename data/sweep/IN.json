@@ -421,7 +421,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "cchs04@sbcglobal.net",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(765) 670-7924"
  },
  {
   "state": "IN",
@@ -435,7 +436,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adopt@thhs.org",
   "source_list": "shelter website",
   "phone": "(812) 232-0293"
  },
@@ -480,11 +481,12 @@
   "animals": "Dogs",
   "offers": "Day trip, Sleepover",
   "url": "https://sites.google.com/hshobart.org/humane-society-of-hobart/how-to-help/day-fostering",
-  "notes": "Take a shelter dog out for a few hours, a hike, beach trip or sleepover; bring a copy of your driver's license and complete the online Fear Free training first. Day fosters return dogs by 3:30pm.",
+  "notes": "Take a shelter dog out for a few hours, a hike, beach trip or sleepover; bring a copy of your driver's license and complete the online Fear Free training (register via Caris@hshobart.org) first. Day fosters return dogs by 3:30pm.",
   "checked": "November 2026",
   "email_program": "Tracy@hshobart.org",
   "email_main": "info@hshobart.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(219) 942-0103"
  },
  {
   "state": "IN",
@@ -499,7 +501,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@bchumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(812) 988-7362"
  },
  {
   "state": "IN",
@@ -610,14 +613,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://porterco.org/Directory/Home/DepartmentListing?DID=15",
-  "notes": "County shelter; county website could not be loaded to check for programs.",
+  "url": "https://www.portercountyanimalshelter.org/",
+  "notes": "County shelter at 3355 S Bertholet Blvd; no day-out program or upcoming adoption events listed on its site.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "information.pcas@porterco.org",
   "source_list": "shelter website",
   "city": "Valparaiso",
-  "org": "Porter County Animal Shelter"
+  "org": "Porter County Animal Shelter",
+  "phone": "(219) 465-3550"
  },
  {
   "state": "IN",
@@ -632,7 +636,8 @@
   "email_main": "general@lakeshorepaws.org",
   "source_list": "shelter website",
   "city": "Valparaiso",
-  "org": "Lakeshore PAWS"
+  "org": "Lakeshore PAWS",
+  "phone": "(219) 476-7297"
  },
  {
   "state": "IN",
@@ -760,7 +765,7 @@
   "source_list": "shelter website",
   "city": "Fort Wayne",
   "org": "Humane Fort Wayne",
-  "phone": "(260) 420-7729"
+  "phone": "(260) 744-0454"
  },
  {
   "state": "IN",
