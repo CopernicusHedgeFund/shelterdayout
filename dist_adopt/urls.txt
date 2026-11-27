@@ -243,6 +243,7 @@ https://shelteradoption.com/cities/lafayette-in/
 https://shelteradoption.com/cities/lake-charles-la/
 https://shelteradoption.com/cities/lake-city-fl/
 https://shelteradoption.com/cities/lake-panasoffkee-fl/
+https://shelteradoption.com/cities/lakewood-co/
 https://shelteradoption.com/cities/lakewood-oh/
 https://shelteradoption.com/cities/lancaster-oh/
 https://shelteradoption.com/cities/lancaster-pa/
@@ -376,6 +377,7 @@ https://shelteradoption.com/cities/ravenna-oh/
 https://shelteradoption.com/cities/redwood-city-ca/
 https://shelteradoption.com/cities/reno-nv/
 https://shelteradoption.com/cities/richmond-va/
+https://shelteradoption.com/cities/rio-rancho-nm/
 https://shelteradoption.com/cities/roanoke-va/
 https://shelteradoption.com/cities/rochester-mn/
 https://shelteradoption.com/cities/rochester-ny/
@@ -657,6 +659,7 @@ https://shelteradoption.com/shelters/angel-paws-pet-adoption-center-colonia/
 https://shelteradoption.com/shelters/angel-s-wish-verona/
 https://shelteradoption.com/shelters/angels-for-animals-canfield/
 https://shelteradoption.com/shelters/angels-of-assisi-roanoke/
+https://shelteradoption.com/shelters/angels-with-paws-cat-rescue-and-adoption-center-lakewood/
 https://shelteradoption.com/shelters/angleton-animal-services-adoption-center-angleton/
 https://shelteradoption.com/shelters/ani-care-animal-shelter-ontario/
 https://shelteradoption.com/shelters/animal-adoption-center-jackson/
@@ -745,6 +748,7 @@ https://shelteradoption.com/shelters/animal-shelter-of-florence-county-effingham
 https://shelteradoption.com/shelters/animal-shelter-of-martha-s-vineyard-edgartown/
 https://shelteradoption.com/shelters/animal-shelter-of-northeast-nebraska-norfolk/
 https://shelteradoption.com/shelters/animal-shelter-of-schoharie-valley-howes-cave/
+https://shelteradoption.com/shelters/animal-village-nm-alamogordo/
 https://shelteradoption.com/shelters/animal-welfare-alliance-of-southeast-missouri-poplar-bluff/
 https://shelteradoption.com/shelters/animal-welfare-association-awa-voorhees/
 https://shelteradoption.com/shelters/animal-welfare-friends-monticello/
@@ -1328,6 +1332,7 @@ https://shelteradoption.com/shelters/city-of-levelland-animal-shelter-levelland/
 https://shelteradoption.com/shelters/city-of-live-oak-animal-control-live-oak/
 https://shelteradoption.com/shelters/city-of-llano-animal-control-llano/
 https://shelteradoption.com/shelters/city-of-lonoke-animal-shelter-lonoke/
+https://shelteradoption.com/shelters/city-of-lovington-animal-shelter-animal-protection-services-lovington/
 https://shelteradoption.com/shelters/city-of-manassas-animal-shelter-manassas/
 https://shelteradoption.com/shelters/city-of-mangum-animal-shelter-mangum/
 https://shelteradoption.com/shelters/city-of-marion-animal-shelter-marion/
@@ -2443,6 +2448,7 @@ https://shelteradoption.com/shelters/huntsville-animal-services-huntsville/
 https://shelteradoption.com/shelters/huron-county-dog-warden-norwalk/
 https://shelteradoption.com/shelters/huron-county-humane-society-norwalk/
 https://shelteradoption.com/shelters/huron-humane-society-alpena/
+https://shelteradoption.com/shelters/hurricane-animal-shelter-city-of-hurricane-hurricane/
 https://shelteradoption.com/shelters/hurst-animal-services-and-adoption-center-hurst/
 https://shelteradoption.com/shelters/hutchinson-animal-shelter-hutchinson/
 https://shelteradoption.com/shelters/i-heart-dogs-rescue-and-animal-haven-warren/
@@ -4389,6 +4395,7 @@ https://shelteradoption.com/shelters/watauga-animal-services-center-watauga/
 https://shelteradoption.com/shelters/watauga-humane-society-boone/
 https://shelteradoption.com/shelters/waterbury-animal-control-waterbury/
 https://shelteradoption.com/shelters/waterford-animal-control-waterford/
+https://shelteradoption.com/shelters/watermelon-mountain-ranch-rio-rancho/
 https://shelteradoption.com/shelters/watertown-animal-control-watertown/
 https://shelteradoption.com/shelters/watertown-humane-society-watertown/
 https://shelteradoption.com/shelters/watonga-community-cat-foundation-watonga/

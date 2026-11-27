@@ -381,6 +381,7 @@ https://shelterdayout.com/cities/palm-springs-ca/
 https://shelterdayout.com/cities/palmer-ak/
 https://shelterdayout.com/cities/palmyra-nj/
 https://shelterdayout.com/cities/palo-alto-ca/
+https://shelterdayout.com/cities/park-city-ut/
 https://shelterdayout.com/cities/parkersburg-wv/
 https://shelterdayout.com/cities/pasadena-ca/
 https://shelterdayout.com/cities/peachtree-city-ga/
@@ -416,6 +417,7 @@ https://shelterdayout.com/cities/richmond-va/
 https://shelterdayout.com/cities/ridgely-md/
 https://shelterdayout.com/cities/ridgewood-ny/
 https://shelterdayout.com/cities/ridgway-co/
+https://shelterdayout.com/cities/rifle-co/
 https://shelterdayout.com/cities/ringoes-nj/
 https://shelterdayout.com/cities/riverside-ca/
 https://shelterdayout.com/cities/roanoke-va/
@@ -712,6 +714,7 @@ https://shelterdayout.com/listings/angel-paws-pet-adoption-center-colonia/
 https://shelterdayout.com/listings/angel-s-wish-verona/
 https://shelterdayout.com/listings/angels-for-animals-canfield/
 https://shelterdayout.com/listings/angels-of-assisi-roanoke/
+https://shelterdayout.com/listings/angels-with-paws-cat-rescue-and-adoption-center-lakewood/
 https://shelterdayout.com/listings/angleton-animal-services-adoption-center-angleton/
 https://shelterdayout.com/listings/ani-care-animal-shelter-ontario/
 https://shelterdayout.com/listings/animal-adoption-center-jackson/
@@ -800,6 +803,7 @@ https://shelterdayout.com/listings/animal-shelter-of-florence-county-effingham/
 https://shelterdayout.com/listings/animal-shelter-of-martha-s-vineyard-edgartown/
 https://shelterdayout.com/listings/animal-shelter-of-northeast-nebraska-norfolk/
 https://shelterdayout.com/listings/animal-shelter-of-schoharie-valley-howes-cave/
+https://shelterdayout.com/listings/animal-village-nm-alamogordo/
 https://shelterdayout.com/listings/animal-welfare-alliance-of-southeast-missouri-poplar-bluff/
 https://shelterdayout.com/listings/animal-welfare-association-awa-voorhees/
 https://shelterdayout.com/listings/animal-welfare-friends-monticello/
@@ -1383,6 +1387,7 @@ https://shelterdayout.com/listings/city-of-levelland-animal-shelter-levelland/
 https://shelterdayout.com/listings/city-of-live-oak-animal-control-live-oak/
 https://shelterdayout.com/listings/city-of-llano-animal-control-llano/
 https://shelterdayout.com/listings/city-of-lonoke-animal-shelter-lonoke/
+https://shelterdayout.com/listings/city-of-lovington-animal-shelter-animal-protection-services-lovington/
 https://shelterdayout.com/listings/city-of-manassas-animal-shelter-manassas/
 https://shelterdayout.com/listings/city-of-mangum-animal-shelter-mangum/
 https://shelterdayout.com/listings/city-of-marion-animal-shelter-marion/
@@ -2498,6 +2503,7 @@ https://shelterdayout.com/listings/huntsville-animal-services-huntsville/
 https://shelterdayout.com/listings/huron-county-dog-warden-norwalk/
 https://shelterdayout.com/listings/huron-county-humane-society-norwalk/
 https://shelterdayout.com/listings/huron-humane-society-alpena/
+https://shelterdayout.com/listings/hurricane-animal-shelter-city-of-hurricane-hurricane/
 https://shelterdayout.com/listings/hurst-animal-services-and-adoption-center-hurst/
 https://shelterdayout.com/listings/hutchinson-animal-shelter-hutchinson/
 https://shelterdayout.com/listings/i-heart-dogs-rescue-and-animal-haven-warren/
@@ -4444,6 +4450,7 @@ https://shelterdayout.com/listings/watauga-animal-services-center-watauga/
 https://shelterdayout.com/listings/watauga-humane-society-boone/
 https://shelterdayout.com/listings/waterbury-animal-control-waterbury/
 https://shelterdayout.com/listings/waterford-animal-control-waterford/
+https://shelterdayout.com/listings/watermelon-mountain-ranch-rio-rancho/
 https://shelterdayout.com/listings/watertown-animal-control-watertown/
 https://shelterdayout.com/listings/watertown-humane-society-watertown/
 https://shelterdayout.com/listings/watonga-community-cat-foundation-watonga/
