@@ -793,5 +793,35 @@
   "lon": null,
   "src": "https://purdyvethospital.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "WA",
+  "name": "Spokane Humane Society Low-Income Veterinary Spay/Neuter Clinic",
+  "city": "Spokane",
+  "street": "6607 N Havana",
+  "zip": "99217",
+  "phone": "(509) 467-5235",
+  "website": "https://spokanehumanesociety.org/vet-clinic/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://spokanehumanesociety.org/vet-clinic/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "WA",
+  "name": "PAWS Low-income Spay/Neuter Clinic",
+  "city": "Lynnwood",
+  "street": "",
+  "zip": "",
+  "phone": "",
+  "website": "https://www.paws.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.paws.org/about/facilities/",
+  "checked": "November 2026"
  }
 ]

@@ -493,5 +493,20 @@
   "lon": null,
   "src": "https://www.westhillsanimalhospital.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "OR",
+  "name": "The Pixie Project Clinic",
+  "city": "Portland",
+  "street": "510 NE MLK Blvd",
+  "zip": "97232",
+  "phone": "(503) 542-3432",
+  "website": "https://www.pixieproject.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.pixieproject.org/frequently-asked-questions/",
+  "checked": "November 2026"
  }
 ]
