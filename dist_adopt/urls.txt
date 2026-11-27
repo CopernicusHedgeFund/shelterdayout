@@ -108,6 +108,7 @@ https://shelteradoption.com/cities/colville-wa/
 https://shelteradoption.com/cities/conroe-tx/
 https://shelteradoption.com/cities/corpus-christi-tx/
 https://shelteradoption.com/cities/cranston-ri/
+https://shelteradoption.com/cities/crystal-lake-il/
 https://shelteradoption.com/cities/cumberland-ri/
 https://shelteradoption.com/cities/cumming-ga/
 https://shelteradoption.com/cities/dallas-tx/
@@ -240,6 +241,7 @@ https://shelteradoption.com/cities/lapeer-mi/
 https://shelteradoption.com/cities/largo-fl/
 https://shelteradoption.com/cities/las-vegas-nv/
 https://shelteradoption.com/cities/lawrenceburg-ky/
+https://shelteradoption.com/cities/lawrenceville-il/
 https://shelteradoption.com/cities/leander-tx/
 https://shelteradoption.com/cities/lebanon-oh/
 https://shelteradoption.com/cities/lewisburg-tn/
@@ -778,6 +780,7 @@ https://shelteradoption.com/shelters/ashtabula-county-animal-protective-league-a
 https://shelteradoption.com/shelters/ashtabula-county-dog-warden-jefferson/
 https://shelteradoption.com/shelters/aspca-adoption-center-new-york/
 https://shelteradoption.com/shelters/aspen-animal-shelter-aspen/
+https://shelteradoption.com/shelters/assisi-animal-foundation-crystal-lake/
 https://shelteradoption.com/shelters/associated-humane-societies-forked-river-popcorn-park-forked-river/
 https://shelteradoption.com/shelters/associated-humane-societies-newark-newark/
 https://shelteradoption.com/shelters/associated-humane-societies-tinton-falls-tinton-falls/
@@ -2496,6 +2499,7 @@ https://shelteradoption.com/shelters/kalkaska-county-animal-shelter-kalkaska/
 https://shelteradoption.com/shelters/kanawha-charleston-humane-association-charleston/
 https://shelteradoption.com/shelters/kane-county-animal-control-geneva/
 https://shelteradoption.com/shelters/kankakee-county-animal-control-and-adoption-center-kankakee/
+https://shelteradoption.com/shelters/kankakee-county-humane-foundation-st-anne/
 https://shelteradoption.com/shelters/kansas-city-kansas-police-department-animal-services-kansas-city/
 https://shelteradoption.com/shelters/kansas-humane-society-wichita/
 https://shelteradoption.com/shelters/karma-kat-cafe-and-rescue-mt-pleasant/
@@ -2633,6 +2637,7 @@ https://shelteradoption.com/shelters/laurens-county-humane-society-clinton/
 https://shelteradoption.com/shelters/lawrence-county-animal-control-lawrenceville/
 https://shelteradoption.com/shelters/lawrence-county-animal-shelter-ironton/
 https://shelteradoption.com/shelters/lawrence-county-animal-shelter-moulton/
+https://shelteradoption.com/shelters/lawrence-county-humane-society-lawrenceville/
 https://shelteradoption.com/shelters/lawrence-county-humane-society-louisa/
 https://shelteradoption.com/shelters/lawrence-county-humane-society-new-castle/
 https://shelteradoption.com/shelters/lawrence-county-lawrenceburg-animal-shelter-lawrenceburg/
@@ -2808,7 +2813,7 @@ https://shelteradoption.com/shelters/maricopa-county-animal-care-and-control-pho
 https://shelteradoption.com/shelters/marietta-animal-control-facility-marietta/
 https://shelteradoption.com/shelters/marin-humane-novato/
 https://shelteradoption.com/shelters/marion-area-humane-society-marion/
-https://shelteradoption.com/shelters/marion-county-animal-control-salem/
+https://shelteradoption.com/shelters/marion-county-animal-control-centralia/
 https://shelteradoption.com/shelters/marion-county-animal-control-services-buena-vista/
 https://shelteradoption.com/shelters/marion-county-animal-services-ocala/
 https://shelteradoption.com/shelters/marion-county-animal-shelter-lebanon/
@@ -2899,6 +2904,7 @@ https://shelteradoption.com/shelters/metro-animal-care-and-control-nashville/
 https://shelteradoption.com/shelters/metro-animal-services-puyallup/
 https://shelteradoption.com/shelters/metro-animal-shelter-metro-animal-services-casper/
 https://shelteradoption.com/shelters/metro-east-humane-society-edwardsville/
+https://shelteradoption.com/shelters/metro-east-humane-society-highland-highland/
 https://shelteradoption.com/shelters/metropolis-animal-control-metropolis/
 https://shelteradoption.com/shelters/metter-animal-shelter-metter/
 https://shelteradoption.com/shelters/miami-animal-shelter-miami/
@@ -3536,6 +3542,7 @@ https://shelteradoption.com/shelters/rawlins-rochelle-animal-shelter-rawlins/
 https://shelteradoption.com/shelters/rayne-animal-shelter-rayne/
 https://shelteradoption.com/shelters/raytown-animal-services-raytown/
 https://shelteradoption.com/shelters/red-desert-humane-society-rock-springs/
+https://shelteradoption.com/shelters/red-door-animal-shelter-chicago/
 https://shelteradoption.com/shelters/red-fern-animal-shelter-dresden/
 https://shelteradoption.com/shelters/red-oak-animal-shelter-red-oak/
 https://shelteradoption.com/shelters/redford-township-animal-control-redford/
@@ -4066,6 +4073,7 @@ https://shelteradoption.com/shelters/the-anti-cruelty-society-chicago/
 https://shelteradoption.com/shelters/the-ark-inc-huntsville/
 https://shelteradoption.com/shelters/the-ark-pope-memorial-animal-shelter-cherryfield/
 https://shelteradoption.com/shelters/the-babinski-foundation-pequot-lakes/
+https://shelteradoption.com/shelters/the-barn-on-baseline-animal-shelter-and-adoption-center-dekalb-county-animal-welfare-league-genoa/
 https://shelteradoption.com/shelters/the-buddy-foundation-arlington-heights/
 https://shelteradoption.com/shelters/the-cat-caf-san-diego-san-diego/
 https://shelteradoption.com/shelters/the-cat-connection-brighton/
@@ -4283,6 +4291,7 @@ https://shelteradoption.com/shelters/ware-county-animal-services-waycross/
 https://shelteradoption.com/shelters/warner-robins-animal-shelter-houston-county-animal-control-warner-robins/
 https://shelteradoption.com/shelters/warr-acres-animal-shelter-warr-acres/
 https://shelteradoption.com/shelters/warren-animal-shelter-warren/
+https://shelteradoption.com/shelters/warren-billhartz-collinsville-animal-shelter-collinsville/
 https://shelteradoption.com/shelters/warren-county-animal-control-and-animal-ark-warrenton/
 https://shelteradoption.com/shelters/warren-county-animal-control-monmouth/
 https://shelteradoption.com/shelters/warren-county-dog-warden-lebanon/
