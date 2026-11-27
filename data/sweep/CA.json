@@ -4436,5 +4436,37 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "CA",
+  "city": "South Lake Tahoe",
+  "org": "Humane Society of Truckee-Tahoe - South Lake Tahoe",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://hstt.org/south-lake-tahoe",
+  "phone": "",
+  "notes": "adoption-facility details need a follow-up check.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
+ },
+ {
+  "state": "CA",
+  "city": "Desert Hot Springs",
+  "org": "Desert Hot Springs Animal Control Adoptions",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.cityofdhs.org/adoptions/",
+  "phone": "",
+  "notes": "holding-facility details need a follow-up check.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website"
  }
 ]

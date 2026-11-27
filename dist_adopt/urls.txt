@@ -372,6 +372,7 @@ https://shelteradoption.com/cities/shelton-wa/
 https://shelteradoption.com/cities/shinnston-wv/
 https://shelteradoption.com/cities/sioux-city-ia/
 https://shelteradoption.com/cities/south-bend-in/
+https://shelteradoption.com/cities/south-lake-tahoe-ca/
 https://shelteradoption.com/cities/sparta-wi/
 https://shelteradoption.com/cities/spartanburg-sc/
 https://shelteradoption.com/cities/spokane-valley-wa/
@@ -1412,6 +1413,7 @@ https://shelteradoption.com/shelters/denver-cat-company-denver-cat-rescue-denver
 https://shelteradoption.com/shelters/denville-township-animal-shelter-denville/
 https://shelteradoption.com/shelters/des-moines-county-humane-society-burlington/
 https://shelteradoption.com/shelters/desert-haven-animal-refuge-truth-or-consequences/
+https://shelteradoption.com/shelters/desert-hot-springs-animal-control-adoptions-desert-hot-springs/
 https://shelteradoption.com/shelters/desoto-county-animal-services-arcadia/
 https://shelteradoption.com/shelters/desoto-county-animal-shelter-nesbit/
 https://shelteradoption.com/shelters/dessin-animal-shelter-honesdale/
@@ -2122,6 +2124,7 @@ https://shelteradoption.com/shelters/humane-society-of-the-tennessee-valley-knox
 https://shelteradoption.com/shelters/humane-society-of-the-treasure-coast-palm-city/
 https://shelteradoption.com/shelters/humane-society-of-the-white-mountains-lakeside/
 https://shelteradoption.com/shelters/humane-society-of-tipton-county-tipton/
+https://shelteradoption.com/shelters/humane-society-of-truckee-tahoe-south-lake-tahoe-south-lake-tahoe/
 https://shelteradoption.com/shelters/humane-society-of-truckee-tahoe-truckee-animal-shelter-truckee/
 https://shelteradoption.com/shelters/humane-society-of-tulsa-tulsa/
 https://shelteradoption.com/shelters/humane-society-of-tuolumne-county-jamestown/
