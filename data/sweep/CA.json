@@ -1579,11 +1579,12 @@
   "email_program": "",
   "email_main": "AnimalShelter@moval.org",
   "source_list": "shelter website",
-  "phone": "(951) 413-3790"
+  "phone": "(951) 413-3790",
+  "events": []
  },
  {
   "state": "CA",
-  "city": "Morgan Hill",
+  "city": "Gilroy",
   "org": "Town Cats of Morgan Hill",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -1594,7 +1595,70 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@towncats.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(408) 337-6461",
+  "events": [
+   {
+    "date": "2026-12-02",
+    "title": "Adoption Hours (4-7pm) at Pet Food Express Blossom Hill",
+    "url": "https://www.towncats.org/events/pet-food-express-blossom-hill-adoption-hours-4-7pm/",
+    "place": "Pet Food Express - Blossom Hill, 1152 Blossom Hill Rd, San Jose, CA 95118"
+   },
+   {
+    "date": "2026-12-06",
+    "title": "Adoption Event (12-2pm) at Petco Blossom Hill",
+    "url": "https://www.towncats.org/events/petco-blossom-hill-pop-up-adoption-event-3/",
+    "place": "Petco - Blossom Hill, 886 Blossom Hill Rd, San Jose, CA"
+   },
+   {
+    "date": "2026-12-09",
+    "title": "Adoption Hours (4-7pm) at Pet Food Express Blossom Hill",
+    "url": "https://www.towncats.org/events/pet-food-express-blossom-hill-adoption-hours-4-7pm/",
+    "place": "Pet Food Express - Blossom Hill, 1152 Blossom Hill Rd, San Jose, CA 95118"
+   },
+   {
+    "date": "2026-12-11",
+    "title": "Adoption Hours (4-7pm) at Pet Food Express Blossom Hill",
+    "url": "https://www.towncats.org/events/pet-food-express-blossom-hill-adoption-hours-4-7pm-999/",
+    "place": "Pet Food Express - Blossom Hill, 1152 Blossom Hill Rd, San Jose, CA 95118"
+   },
+   {
+    "date": "2026-12-13",
+    "title": "Adoption Event (11am-1pm) at Pet Food Express Los Gatos",
+    "url": "https://www.towncats.org/events/pet-food-express-los-gatos-adoptionevent/",
+    "place": "Pet Food Express - Los Gatos, 15466 Los Gatos Blvd, Los Gatos, CA"
+   },
+   {
+    "date": "2026-12-16",
+    "title": "Adoption Hours (4-7pm) at Pet Food Express Blossom Hill",
+    "url": "https://www.towncats.org/events/pet-food-express-blossom-hill-adoption-hours-4-7pm/",
+    "place": "Pet Food Express - Blossom Hill, 1152 Blossom Hill Rd, San Jose, CA 95118"
+   },
+   {
+    "date": "2026-12-20",
+    "title": "Adoption Event (12-3pm) at Pet Food Express Blossom Hill",
+    "url": "https://www.towncats.org/events/pet-food-express-blossom-hill-adoption-events/",
+    "place": "Pet Food Express - Blossom Hill, 1152 Blossom Hill Rd, San Jose, CA 95118"
+   },
+   {
+    "date": "2026-12-23",
+    "title": "Adoption Hours (4-7pm) at Pet Food Express Blossom Hill",
+    "url": "https://www.towncats.org/events/pet-food-express-blossom-hill-adoption-hours-4-7pm/",
+    "place": "Pet Food Express - Blossom Hill, 1152 Blossom Hill Rd, San Jose, CA 95118"
+   },
+   {
+    "date": "2026-12-25",
+    "title": "Adoption Hours (4-7pm) at Pet Food Express Blossom Hill",
+    "url": "https://www.towncats.org/events/pet-food-express-blossom-hill-adoption-hours-4-7pm-999/",
+    "place": "Pet Food Express - Blossom Hill, 1152 Blossom Hill Rd, San Jose, CA 95118"
+   },
+   {
+    "date": "2026-12-27",
+    "title": "Adoption Event (12-2pm) at Ganado Feed & Pet Supplies",
+    "url": "https://www.towncats.org/events/ganadosj_adoptionevent_dec2026/",
+    "place": "Ganado Feed & Pet Supplies, 945 Lincoln Ave, San Jose, CA 95126"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -1605,12 +1669,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.living-free.org",
-  "notes": "re-check.",
+  "notes": "Dog and cat rescue sanctuary with adoptions by appointment; public hours Tue-Sat 10am-3pm with free tours.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@living-free.org",
   "source_list": "shelter website",
-  "phone": "(951) 659-4687"
+  "phone": "(951) 659-4687",
+  "events": []
  },
  {
   "state": "CA",
@@ -1620,13 +1685,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.countyofnapa.org/1023/Animal-Shelter",
+  "url": "https://www.napacounty.gov/AnimalShelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@napacounty.gov",
   "source_list": "shelter website",
-  "phone": "(707) 253-4382"
+  "phone": "(707) 253-4382",
+  "events": []
  },
  {
   "state": "CA",
@@ -1640,8 +1706,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "newport@natcat.org",
+  "source_list": "shelter website",
+  "phone": "(949) 650-1232",
+  "events": []
  },
  {
   "state": "CA",
@@ -1657,7 +1725,8 @@
   "email_program": "",
   "email_main": "info@nbpd.org",
   "source_list": "shelter website",
-  "phone": "(949) 718-3454"
+  "phone": "(949) 718-3454",
+  "events": []
  },
  {
   "state": "CA",
@@ -1673,7 +1742,8 @@
   "email_program": "",
   "email_main": "animals@ci.norco.ca.us",
   "source_list": "shelter website",
-  "phone": "(951) 737-8972"
+  "phone": "(951) 737-8972",
+  "events": []
  },
  {
   "state": "CA",
@@ -1689,39 +1759,55 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(415) 883-4621"
+  "phone": "(415) 883-4621",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Mobile Adoption Event (12-3pm)",
+    "url": "https://marinhumane.org/event/mobile-adoption-event-tiburon-7/",
+    "place": "Woodlands Petfood & Treats, Tiburon"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Mobile Adoption Event",
+    "url": "https://marinhumane.org/events/",
+    "place": "Woodlands Pet Food and Treats, Greenbrae"
+   }
+  ]
  },
  {
   "state": "CA",
   "city": "Oakdale",
   "org": "City of Oakdale Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://oakdalegov.com/animal-shelter-about-us",
-  "notes": "City shelter at 9800 Liberini Rd., which also serves Riverbank under contract. Holds off-site adoption events, but no dates are posted. No day-out program listed.",
+  "program": "Doggie Day Out",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day outings with shelter dogs",
+  "url": "https://oakdalegov.com/animal-services",
+  "notes": "The city Animal Services page posts an Oakdale Animal Shelter Doggie Day Out application but gives no details on how the program works; call the shelter desk to confirm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(209) 845-3571"
+  "phone": "(209) 845-3571",
+  "events": []
  },
  {
   "state": "CA",
   "city": "Oakland",
   "org": "Cat Town Cafe & Adoption Center",
   "program": "Cat Town Cafe (cat lounge)",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Cats",
   "offers": "Cat lounge visits",
-  "url": "https://www.cattownoakland.org/",
-  "notes": "",
+  "url": "https://www.cattownoakland.org/visit",
+  "notes": "Visitors book a time (reservations recommended, walk-ins if space) to spend time with adoptable cats in the cat lounge for $14 per person; children under two free.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "reservations@cattownoakland.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(510) 866-4607"
+  "phone": "(510) 866-4607",
+  "events": []
  },
  {
   "state": "CA",
@@ -1760,7 +1846,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "CA",
@@ -1798,6 +1885,11 @@
     "end": "2026-11-29",
     "title": "Thankful for a Home adoption event",
     "url": "https://www.hsvc.org/events-calendar/thankful-for-a-home/"
+   },
+   {
+    "date": "2026-12-01",
+    "title": "Tail Waggin' Tuesdays: $25 dog adoptions every Tuesday",
+    "url": "https://www.hsvc.org/events-calendar/tail-waggin-tuesdays/"
    }
   ],
   "phone": "(805) 646-6505"
@@ -1823,11 +1915,11 @@
   "city": "Ontario",
   "org": "Animal Resource Center of the Inland Empire",
   "program": "Pawsgiving Sleepover",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Holiday sleepover",
-  "url": "https://www.arcinlandempire.org/",
-  "notes": "Listed by San Bernardino County Animal Care as a contracted shelter (1630 Shearwater St). re-check.",
+  "url": "https://www.arcinlandempire.org/pawsgiving",
+  "notes": "Thanksgiving-week sleepover for adults 18+: apply on the online form, and selected households get an email to book a required meet-and-greet, then pick up a (usually medium to XL) dog Nov 23-25 and return it Nov 29, 10am-5pm, with the option to keep fostering or adopt.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1846,7 +1938,7 @@
   "notes": "4111 Old Highway 99 W, volunteer-run dog and cat shelter.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "otchs.director@gmail.com",
   "source_list": "shelter website",
   "phone": "(530) 517-1754"
  },
@@ -1863,7 +1955,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(530) 891-2907"
  },
  {
   "state": "CA",
@@ -1890,7 +1983,7 @@
   "animals": "Cats",
   "offers": "Cat lounge",
   "url": "https://surfcatcafe.org/adopt",
-  "notes": "confirm it is still open.",
+  "notes": "In November 2026 the surfcatcafe.org pages showed unrelated gambling spam and no visiting details, so it is unconfirmed whether the cat lounge is still open.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1898,29 +1991,30 @@
  },
  {
   "state": "CA",
-  "city": "Pacific Grove",
+  "city": "Monterey",
   "org": "Animal Friends Rescue Project",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.countyofmonterey.gov/government/departments-a-h/health/monterey-county-animal-services/local-rescue-groups-listing",
-  "notes": "Listed by Monterey County as a local rescue;",
+  "url": "https://animalfriendsrescue.org/",
+  "notes": "Headquarters now at 46 Garden Court, Monterey (mailing address PO Box 51083, Pacific Grove); the Charlotte Wilson Cat Room is open to visitors Fri-Sun 11am-1pm with no appointment.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@animalfriendsrescue.org",
+  "source_list": "shelter website",
+  "phone": "(831) 333-0722"
  },
  {
   "state": "CA",
-  "city": "Palm Desert",
+  "city": "Coachella",
   "org": "Loving All Animals",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://lovingallanimals.org",
-  "notes": "re-check.",
+  "notes": "Own site lists one address, 83496 Avenue 51, Coachella (Tue-Sat 9am-5pm); it rescues dogs from kill shelters and readies them for adoption, but does not say whether animals are housed there for visits.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -1986,7 +2080,7 @@
   "email_program": "",
   "email_main": "info@petsinneed.org",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(650) 496-5971"
  },
  {
   "state": "CA",
@@ -1996,12 +2090,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.acawl.org/",
-  "notes": "9384-D Deschutes Road. Rescue with a Palo Cedro location; facility and visiting hours need confirming.",
+  "url": "https://acawl.org/",
+  "notes": "9384-D Deschutes Road is its thrift store; the site (last updated around 2020) relies on foster homes and does not list a shelter facility or visiting hours, so it may be foster-only.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(530) 547-7387"
  },
  {
   "state": "CA",
@@ -2012,7 +2107,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.townofparadise.com/animal",
-  "notes": "925 American Way. Meet adoptable animals Tue-Sat 11am-3pm.",
+  "notes": "Town page (Nov 2026) says the Paradise Animal Control Shelter is currently closed while the town prepares a new shelter; licenses payable at Paradise Police Dept or Town Hall.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -2045,10 +2140,17 @@
   "url": "https://pasadenahumane.org/get-involved/foster-a-pet/",
   "notes": "Register online through Pasadena Humane's foster page; first-timers welcome and supplies plus staff phone support are provided. Dogs are picked up at the Raymond Ave. animal center during set windows (e.g. holiday sleepovers like Thanksgiving 2026 had online sign-up deadlines). Pasadena Humane also handles animal services for Glendale and other nearby cities.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@pasadenahumane.org",
   "email_main": "hello@pasadenahumane.org",
   "source_list": "shelter website",
   "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-11-30",
+    "title": "Adopt a Senior Pet Month: fees waived for dogs and cats 5+",
+    "url": "https://pasadenahumane.org/events/on-campus-events/",
+    "place": "Pasadena Humane, Pasadena"
+   },
    {
     "date": "2026-12-02",
     "title": "Hidden Gems: Pop-Up Dog Adoption Event",
@@ -2072,6 +2174,12 @@
     "title": "Pop-Up Dog Adoptions at Montrose Holiday Parade",
     "url": "https://pasadenahumane.org/events/on-campus-events/",
     "place": "Montrose Holiday Parade, Montrose"
+   },
+   {
+    "date": "2026-12-06",
+    "title": "Pop-Up Dog Adoptions at The Post Climbing Gym",
+    "url": "https://pasadenahumane.org/phs-event/pop-up-dog-adoptions-at-the-post-climbing-gym-pasadena/",
+    "place": "The Post Climbing Gym, Pasadena"
    }
   ],
   "phone": "(626) 792-7151"
@@ -2085,7 +2193,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://marinhumane.org/get-help/marin-animal-services/temporary-petaluma-animal-services/",
-  "notes": "Marin Humane posted temporary Petaluma animal services in 2026; operator needs a follow-up check.",
+  "notes": "Marin Humane page says the Petaluma Animal Shelter (840 Hopper St.) closed temporarily Sept 1-14, 2026 during a transition to a new shelter operator, with animal control moving to Sonoma County Animal Services; new operator not yet confirmed on an official page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -2104,7 +2212,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(925) 608-8400"
  },
  {
   "state": "CA",
@@ -2130,12 +2239,21 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://cchumane.org/",
-  "notes": "",
+  "notes": "3341 Vincent Rd. Cat adoption center with open adoption hours most Fridays, Saturdays and Sundays; dog fostering goes through Contra Costa Animal Services.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@cchumane.org",
   "source_list": "shelter website",
-  "phone": "(925) 279-2247"
+  "phone": "(925) 279-2247",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Home for the Holidays adoption event",
+    "url": "https://cchumane.org/event/cat-adoption-event-121226/",
+    "place": "3341 Vincent Rd, Pleasant Hill"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -2146,12 +2264,20 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://valleyhumane.org/",
-  "notes": "",
+  "notes": "3670 Nevada St. Adoptions on site plus regular pop-up adoption events at area Pet Food Express stores.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(925) 426-8656"
+  "phone": "(925) 426-8656",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Black Cat Friday: Feline Adoption Fees Waived",
+    "url": "https://valleyhumane.org/events/black-cat-friday-cat-adoption/2026-11-28/",
+    "place": "Valley Humane Society, 3670 Nevada St, Pleasanton"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -2162,7 +2288,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.milofoundation.org/",
-  "notes": "",
+  "notes": "Adoption center at 220 S Garrard Blvd, Point Richmond; apply online before visiting. Also runs the Milo Sanctuary in Mendocino County.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -2173,17 +2299,25 @@
   "state": "CA",
   "city": "Pomona",
   "org": "Inland Valley Humane Society & SPCA",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.ivhs.org/",
-  "notes": "program and details need a follow-up check.",
+  "program": "Daycations",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://ivhsspca.org/daycation/",
+  "notes": "Adults 18+ fill out the online Daycation form and email the Foster Coordinator to book, then pick up a shelter dog at 500 Humane Way between 9:30 and 11 am (Mon-Sat) and return it by 4 pm; no dog parks, home visits or off-leash activities.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(716) 353-0290"
+  "phone": "(909) 623-9777",
+  "events": [
+   {
+    "date": "2026-12-16",
+    "title": "Bark After Dark after-hours adoption event",
+    "url": "https://ivhsspca.org/event/bark-after-dark-2-2/2026-12-16/",
+    "place": "Inland Valley Humane Society & SPCA, Pomona"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -2209,11 +2343,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.plumascounty.us/524/Animal-Services",
-  "notes": "",
+  "notes": "201 Mill Creek Road, Quincy. County directory lists hours Monday-Friday 8am-5pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "pcac@countyofplumas.com",
+  "source_list": "shelter website",
+  "phone": "(530) 283-3673"
  },
  {
   "state": "CA",
@@ -3673,7 +3808,8 @@
   "email_program": "",
   "email_main": "admin@siskiyouhumane.org",
   "source_list": "shelter website",
-  "phone": "(530) 926-4052"
+  "phone": "(530) 926-4052",
+  "events": []
  },
  {
   "state": "CA",
@@ -4104,7 +4240,7 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.ci.porterville.ca.us/departments/police/animal_control.php",
-  "notes": "New city shelter at 185 North D Street opened August 2024; city page lists dogs for adoption.",
+  "notes": "New city shelter at 185 North D Street opened August 2024; city page lists dogs for adoption daily, open 11am-4pm, closed Saturdays and Sundays.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -4173,7 +4309,8 @@
   "email_program": "",
   "email_main": "NeedlesAnimalControl@yahoo.com",
   "source_list": "shelter website",
-  "phone": "(760) 326-4952"
+  "phone": "(760) 326-4952",
+  "events": []
  },
  {
   "state": "CA",

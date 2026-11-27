@@ -351,6 +351,7 @@ https://shelterdayout.com/cities/north-charleston-sc/
 https://shelterdayout.com/cities/north-little-rock-ar/
 https://shelterdayout.com/cities/north-miami-beach-fl/
 https://shelterdayout.com/cities/north-saint-paul-mn/
+https://shelterdayout.com/cities/oakdale-ca/
 https://shelterdayout.com/cities/oakland-ca/
 https://shelterdayout.com/cities/oceanside-ca/
 https://shelterdayout.com/cities/oconomowoc-wi/
@@ -381,6 +382,7 @@ https://shelterdayout.com/cities/philadelphia-pa/
 https://shelterdayout.com/cities/phoenix-az/
 https://shelterdayout.com/cities/pickens-sc/
 https://shelterdayout.com/cities/pittsburgh-pa/
+https://shelterdayout.com/cities/pomona-ca/
 https://shelterdayout.com/cities/pontiac-il/
 https://shelterdayout.com/cities/port-angeles-wa/
 https://shelterdayout.com/cities/port-st-joe-fl/
@@ -728,7 +730,7 @@ https://shelterdayout.com/listings/animal-friends-of-north-central-west-virginia
 https://shelterdayout.com/listings/animal-friends-of-the-valleys-wildomar/
 https://shelterdayout.com/listings/animal-friends-of-westmoreland-youngwood/
 https://shelterdayout.com/listings/animal-friends-pittsburgh/
-https://shelterdayout.com/listings/animal-friends-rescue-project-pacific-grove/
+https://shelterdayout.com/listings/animal-friends-rescue-project-monterey/
 https://shelterdayout.com/listings/animal-harbor-franklin-county-humane-society-winchester/
 https://shelterdayout.com/listings/animal-haven-new-york/
 https://shelterdayout.com/listings/animal-house-shelter-huntley/
@@ -2822,7 +2824,7 @@ https://shelterdayout.com/listings/louisville-metro-animal-services-louisville/
 https://shelterdayout.com/listings/love-a-stray-avon-lake/
 https://shelterdayout.com/listings/love-at-first-sight-puppy-and-kitten-adoption-center-nashville/
 https://shelterdayout.com/listings/lovelock-animal-shelter-lovelock/
-https://shelterdayout.com/listings/loving-all-animals-palm-desert/
+https://shelterdayout.com/listings/loving-all-animals-coachella/
 https://shelterdayout.com/listings/lowell-animal-shelter-lowell/
 https://shelterdayout.com/listings/lowell-humane-society-lowell/
 https://shelterdayout.com/listings/lowndes-county-animal-services-valdosta/
@@ -4216,7 +4218,7 @@ https://shelterdayout.com/listings/torrance-county-animal-services-mcintosh/
 https://shelterdayout.com/listings/torrington-animal-control-harwinton/
 https://shelterdayout.com/listings/town-and-country-animal-rescue-papillion/
 https://shelterdayout.com/listings/town-and-country-humane-society-orland/
-https://shelterdayout.com/listings/town-cats-of-morgan-hill-morgan-hill/
+https://shelterdayout.com/listings/town-cats-of-morgan-hill-gilroy/
 https://shelterdayout.com/listings/town-of-babylon-animal-shelter-amityville/
 https://shelterdayout.com/listings/town-of-brookhaven-animal-shelter-brookhaven/
 https://shelterdayout.com/listings/town-of-clarence-animal-shelter-clarence-center/
