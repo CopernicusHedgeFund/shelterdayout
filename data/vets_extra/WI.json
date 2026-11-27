@@ -613,5 +613,35 @@
   "lon": null,
   "src": "https://crittercareanimalclinic.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "WI",
+  "name": "WisCARES Community Veterinary Clinic",
+  "city": "Madison",
+  "street": "1402 Emil St",
+  "zip": "53713",
+  "phone": "(608) 262-3950",
+  "website": "https://wiscares.wisc.edu/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://wiscares.wisc.edu/contact-us/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "WI",
+  "name": "HAWS SNIP Spay-Neuter & Medical Clinic",
+  "city": "Waukesha",
+  "street": "701 Northview Road",
+  "zip": "53188",
+  "phone": "(262) 542-8852",
+  "website": "https://hawspets.org/snip/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://hawspets.org/snip/",
+  "checked": "November 2026"
  }
 ]
