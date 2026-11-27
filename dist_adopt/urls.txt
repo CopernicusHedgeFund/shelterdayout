@@ -1382,6 +1382,7 @@ https://shelteradoption.com/shelters/cobb-county-animal-services-marietta/
 https://shelteradoption.com/shelters/cochran-bleckley-animal-shelter-city-of-cochran-animal-control-cochran/
 https://shelteradoption.com/shelters/coffeyville-animal-shelter-coffeyville/
 https://shelteradoption.com/shelters/colbert-county-animal-shelter-tuscumbia/
+https://shelteradoption.com/shelters/colchester-animal-control-colchester/
 https://shelteradoption.com/shelters/cold-noses-warm-hearts-goleta/
 https://shelteradoption.com/shelters/coles-county-animal-shelter-charleston/
 https://shelteradoption.com/shelters/colleton-county-animal-shelter-walterboro/
@@ -1593,9 +1594,11 @@ https://shelteradoption.com/shelters/east-bay-spca-tri-valley-adoption-center-du
 https://shelteradoption.com/shelters/east-chicago-animal-control-east-chicago/
 https://shelteradoption.com/shelters/east-county-animal-shelter-alameda-county-dublin/
 https://shelteradoption.com/shelters/east-hampton-animal-control-east-hampton/
+https://shelteradoption.com/shelters/east-hartford-animal-control-east-hartford/
 https://shelteradoption.com/shelters/east-haven-animal-control-east-haven/
 https://shelteradoption.com/shelters/east-providence-animal-shelter-east-providence/
 https://shelteradoption.com/shelters/east-ridge-animal-services-east-ridge/
+https://shelteradoption.com/shelters/east-windsor-animal-control-east-windsor/
 https://shelteradoption.com/shelters/eastbourne-animal-center-monroe-county-friends-of-animals-madisonville/
 https://shelteradoption.com/shelters/eastern-pa-animal-alliance-brodheadsville/
 https://shelteradoption.com/shelters/eastern-shore-regional-animal-control-facility-melfa/
@@ -1630,6 +1633,7 @@ https://shelteradoption.com/shelters/elk-county-humane-society-st-marys/
 https://shelteradoption.com/shelters/elk-grove-animal-shelter-elk-grove/
 https://shelteradoption.com/shelters/ellen-m-gifford-cat-shelter-brighton/
 https://shelteradoption.com/shelters/ellensburg-humane-society-ellensburg/
+https://shelteradoption.com/shelters/ellington-animal-control-ellington/
 https://shelteradoption.com/shelters/elmbrook-humane-society-brookfield/
 https://shelteradoption.com/shelters/elmira-animal-shelter-city-of-elmira-animal-control-elmira/
 https://shelteradoption.com/shelters/elmore-spca-peru/
@@ -1637,6 +1641,7 @@ https://shelteradoption.com/shelters/elwood-animal-shelter-elwood/
 https://shelteradoption.com/shelters/emerald-city-pet-rescue-seattle/
 https://shelteradoption.com/shelters/emmet-county-animal-shelter-estherville/
 https://shelteradoption.com/shelters/emmet-county-stray-center-petoskey/
+https://shelteradoption.com/shelters/enfield-animal-shelter-enfield-animal-control-enfield/
 https://shelteradoption.com/shelters/enid-spca-enid/
 https://shelteradoption.com/shelters/ennis-animal-control-ennis/
 https://shelteradoption.com/shelters/enoch-city-animal-shelter-enoch/
@@ -2766,6 +2771,7 @@ https://shelteradoption.com/shelters/main-line-animal-rescue-pennsylvania-spca-p
 https://shelteradoption.com/shelters/malvern-animal-shelter-malvern/
 https://shelteradoption.com/shelters/manatee-county-cat-town-bradenton/
 https://shelteradoption.com/shelters/manchester-animal-control-manchester/
+https://shelteradoption.com/shelters/manchester-animal-control-manchester-2/
 https://shelteradoption.com/shelters/manchester-animal-shelter-manchester/
 https://shelteradoption.com/shelters/manistee-county-animal-shelter-manistee/
 https://shelteradoption.com/shelters/mansfield-animal-care-and-control-mansfield/
@@ -2936,6 +2942,7 @@ https://shelteradoption.com/shelters/mondak-animal-rescue-williston/
 https://shelteradoption.com/shelters/monett-animal-control-shelter-monett/
 https://shelteradoption.com/shelters/monmouth-county-spca-eatontown/
 https://shelteradoption.com/shelters/mono-county-animal-services-whitmore-shelter-crowley-lake/
+https://shelteradoption.com/shelters/monroe-animal-control-monroe/
 https://shelteradoption.com/shelters/monroe-county-animal-control-waterloo/
 https://shelteradoption.com/shelters/monroe-county-animal-services-forsyth/
 https://shelteradoption.com/shelters/monroe-county-animal-shelter-monroeville/
@@ -3199,6 +3206,7 @@ https://shelteradoption.com/shelters/our-pal-s-place-marietta/
 https://shelteradoption.com/shelters/owasso-animal-shelter-owasso/
 https://shelteradoption.com/shelters/owen-county-humane-society-spencer/
 https://shelteradoption.com/shelters/owensboro-humane-society-owensboro/
+https://shelteradoption.com/shelters/oxford-animal-control-oxford/
 https://shelteradoption.com/shelters/oxford-lafayette-humane-society-oxford/
 https://shelteradoption.com/shelters/ozark-animal-shelter-ozark/
 https://shelteradoption.com/shelters/ozark-dale-county-humane-society-ozark/
@@ -3941,6 +3949,7 @@ https://shelteradoption.com/shelters/street-cats-tulsa/
 https://shelteradoption.com/shelters/street-tails-animal-rescue-philadelphia/
 https://shelteradoption.com/shelters/sturgis-meade-county-animal-shelter-sturgis/
 https://shelteradoption.com/shelters/stuttgart-animal-shelter-stuttgart/
+https://shelteradoption.com/shelters/suffield-animal-shelter-suffield/
 https://shelteradoption.com/shelters/suffolk-animal-care-center-suffolk/
 https://shelteradoption.com/shelters/sugar-land-animal-shelter-sugar-land/
 https://shelteradoption.com/shelters/sullivan-county-animal-shelter-blountville/
@@ -4083,6 +4092,7 @@ https://shelteradoption.com/shelters/tombstone-small-animal-shelter-tombstone/
 https://shelteradoption.com/shelters/toms-river-township-animal-facility-toms-river/
 https://shelteradoption.com/shelters/tooele-city-animal-shelter-tooele/
 https://shelteradoption.com/shelters/torrance-county-animal-services-mcintosh/
+https://shelteradoption.com/shelters/torrington-animal-control-torrington/
 https://shelteradoption.com/shelters/town-and-country-animal-rescue-papillion/
 https://shelteradoption.com/shelters/town-and-country-humane-society-orland/
 https://shelteradoption.com/shelters/town-cats-of-morgan-hill-morgan-hill/
@@ -4289,6 +4299,7 @@ https://shelteradoption.com/shelters/west-baton-rouge-parish-shelter-and-animal-
 https://shelteradoption.com/shelters/west-columbia-gorge-humane-society-washougal/
 https://shelteradoption.com/shelters/west-deer-township-dog-shelter-cheswick/
 https://shelteradoption.com/shelters/west-feliciana-animal-humane-society-james-l-bo-bryant-animal-shelter-st-francisville/
+https://shelteradoption.com/shelters/west-hartford-animal-control-west-hartford/
 https://shelteradoption.com/shelters/west-haven-animal-shelter-west-haven/
 https://shelteradoption.com/shelters/west-jordan-animal-shelter-west-jordan/
 https://shelteradoption.com/shelters/west-memphis-animal-shelter-west-memphis/
@@ -4312,6 +4323,7 @@ https://shelteradoption.com/shelters/weston-county-humane-society-newcastle/
 https://shelteradoption.com/shelters/westport-animal-control-westport/
 https://shelteradoption.com/shelters/wet-mountain-animal-welfare-westcliffe/
 https://shelteradoption.com/shelters/wet-nose-rescue-le-mars/
+https://shelteradoption.com/shelters/wethersfield-animal-control-wethersfield/
 https://shelteradoption.com/shelters/wetzel-county-animal-shelter-new-martinsville/
 https://shelteradoption.com/shelters/wexford-county-animal-shelter-cadillac/
 https://shelteradoption.com/shelters/whatcom-humane-society-bellingham/
