@@ -1855,6 +1855,7 @@ https://shelterdayout.com/listings/guilford-county-animal-services-greensboro/
 https://shelterdayout.com/listings/gulf-coast-humane-society-corpus-christi/
 https://shelterdayout.com/listings/gulf-coast-humane-society-fort-myers/
 https://shelterdayout.com/listings/gunnison-valley-animal-welfare-league-sue-macallister-animal-shelter-gunnison/
+https://shelterdayout.com/listings/guntersville-animal-shelter-guntersville-animal-control-guntersville/
 https://shelterdayout.com/listings/guthrie-animal-shelter-guthrie/
 https://shelterdayout.com/listings/gwinnett-county-bill-atkinson-animal-welfare-center-lawrenceville/
 https://shelterdayout.com/listings/h-a-l-o-no-kill-rescue-sebastian/
@@ -3041,6 +3042,7 @@ https://shelterdayout.com/listings/owen-county-humane-society-spencer/
 https://shelterdayout.com/listings/owensboro-humane-society-owensboro/
 https://shelterdayout.com/listings/oxford-lafayette-humane-society-oxford/
 https://shelterdayout.com/listings/ozark-animal-shelter-ozark/
+https://shelterdayout.com/listings/ozark-dale-county-humane-society-ozark/
 https://shelterdayout.com/listings/ozark-humane-society-harrison/
 https://shelterdayout.com/listings/p-a-t-c-h-pet-adoption-thru-caring-hands-pompton-lakes/
 https://shelterdayout.com/listings/p-a-w-s-animal-adoption-center-camden/
@@ -3412,6 +3414,7 @@ https://shelterdayout.com/listings/sabine-animal-shelter-sabine-humane-society-m
 https://shelterdayout.com/listings/sachse-animal-shelter-sachse/
 https://shelterdayout.com/listings/sacramento-spca-sacramento/
 https://shelterdayout.com/listings/safe-animal-shelter-middleburg/
+https://shelterdayout.com/listings/safe-harbor-animal-coalition-foley/
 https://shelterdayout.com/listings/safe-haven-animal-rescue-and-kennels-abbeville/
 https://shelterdayout.com/listings/safe-haven-animal-shelter-of-nw-iowa-pocahontas/
 https://shelterdayout.com/listings/safe-haven-for-cats-raleigh/
@@ -3671,7 +3674,6 @@ https://shelterdayout.com/listings/springdale-animal-services-springdale/
 https://shelterdayout.com/listings/springfield-animal-control-shelter-springfield/
 https://shelterdayout.com/listings/springfield-animal-shelter-city-of-springfield-springfield/
 https://shelterdayout.com/listings/springfield-humane-society-springfield/
-https://shelterdayout.com/listings/st-augustine-humane-society-st-augustine/
 https://shelterdayout.com/listings/st-bernard-parish-animal-shelter-violet/
 https://shelterdayout.com/listings/st-charles-county-pet-adoption-center-cottleville/
 https://shelterdayout.com/listings/st-charles-parish-animal-shelter-luling/
@@ -3805,6 +3807,7 @@ https://shelterdayout.com/listings/the-animal-league-of-green-valley-green-valle
 https://shelterdayout.com/listings/the-animal-refuge-center-arc-north-fort-myers/
 https://shelterdayout.com/listings/the-animal-shelter-society-inc-zanesville/
 https://shelterdayout.com/listings/the-anti-cruelty-society-chicago/
+https://shelterdayout.com/listings/the-ark-inc-huntsville/
 https://shelterdayout.com/listings/the-ark-pope-memorial-animal-shelter-cherryfield/
 https://shelterdayout.com/listings/the-babinski-foundation-pequot-lakes/
 https://shelterdayout.com/listings/the-buddy-foundation-arlington-heights/

@@ -1,5 +1,5 @@
 state,state_name,shelters_listed,day_out_programs,open_to_public,volunteers_only,share_with_program
-AL,Alabama,82,11,5,2,13.41%
+AL,Alabama,86,11,5,2,12.79%
 AK,Alaska,17,3,1,0,17.65%
 AZ,Arizona,49,10,6,1,20.41%
 AR,Arkansas,63,3,2,0,4.76%
@@ -8,7 +8,7 @@ CO,Colorado,53,6,4,1,11.32%
 CT,Connecticut,60,4,3,0,6.67%
 DE,Delaware,9,8,6,2,88.89%
 DC,District of Columbia,4,4,4,0,100.00%
-FL,Florida,144,41,28,9,28.47%
+FL,Florida,143,41,28,9,28.67%
 GA,Georgia,149,18,9,3,12.08%
 HI,Hawaii,11,9,8,1,81.82%
 ID,Idaho,30,3,0,1,10.00%
