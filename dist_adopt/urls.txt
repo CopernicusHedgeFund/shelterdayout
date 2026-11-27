@@ -1754,7 +1754,6 @@ https://shelteradoption.com/shelters/fluvanna-county-spca-troy/
 https://shelteradoption.com/shelters/focus-on-ferals-byron-center/
 https://shelteradoption.com/shelters/folsom-animal-services-folsom-police-department-folsom/
 https://shelteradoption.com/shelters/fond-du-lac-humane-society-fond-du-lac/
-https://shelteradoption.com/shelters/fontana-animal-services-fontana/
 https://shelteradoption.com/shelters/foothills-animal-rescue-scottsdale/
 https://shelteradoption.com/shelters/foothills-animal-shelter-golden/
 https://shelteradoption.com/shelters/foothills-humane-society-columbus/
@@ -3694,7 +3693,6 @@ https://shelteradoption.com/shelters/san-carlos-apache-tribe-animal-control-prog
 https://shelteradoption.com/shelters/san-clemente-dana-point-animal-shelter-san-clemente/
 https://shelteradoption.com/shelters/san-diego-county-animal-services-east-shelter-santee-santee/
 https://shelteradoption.com/shelters/san-diego-county-animal-services-north-shelter-carlsbad-carlsbad/
-https://shelteradoption.com/shelters/san-diego-county-animal-services-south-shelter-bonita-bonita/
 https://shelteradoption.com/shelters/san-diego-humane-society-el-cajon-campus-el-cajon/
 https://shelteradoption.com/shelters/san-diego-humane-society-escondido-campus-escondido/
 https://shelteradoption.com/shelters/san-diego-humane-society-oceanside-campus-oceanside/

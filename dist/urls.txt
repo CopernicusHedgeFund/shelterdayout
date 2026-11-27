@@ -1801,7 +1801,6 @@ https://shelterdayout.com/listings/fluvanna-county-spca-troy/
 https://shelterdayout.com/listings/focus-on-ferals-byron-center/
 https://shelterdayout.com/listings/folsom-animal-services-folsom-police-department-folsom/
 https://shelterdayout.com/listings/fond-du-lac-humane-society-fond-du-lac/
-https://shelterdayout.com/listings/fontana-animal-services-fontana/
 https://shelterdayout.com/listings/foothills-animal-rescue-scottsdale/
 https://shelterdayout.com/listings/foothills-animal-shelter-golden/
 https://shelterdayout.com/listings/foothills-humane-society-columbus/
@@ -3741,7 +3740,6 @@ https://shelterdayout.com/listings/san-carlos-apache-tribe-animal-control-progra
 https://shelterdayout.com/listings/san-clemente-dana-point-animal-shelter-san-clemente/
 https://shelterdayout.com/listings/san-diego-county-animal-services-east-shelter-santee-santee/
 https://shelterdayout.com/listings/san-diego-county-animal-services-north-shelter-carlsbad-carlsbad/
-https://shelterdayout.com/listings/san-diego-county-animal-services-south-shelter-bonita-bonita/
 https://shelterdayout.com/listings/san-diego-humane-society-el-cajon-campus-el-cajon/
 https://shelterdayout.com/listings/san-diego-humane-society-escondido-campus-escondido/
 https://shelterdayout.com/listings/san-diego-humane-society-oceanside-campus-oceanside/

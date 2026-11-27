@@ -122,7 +122,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(805) 543-9316"
+  "phone": "(805) 466-5403"
  },
  {
   "state": "CA",
@@ -1039,13 +1039,22 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.cityofirvine.org/animal-care-center",
+  "url": "https://cityofirvine.gov/irvine-animal-care-center",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcare@cityofirvine.org",
   "source_list": "shelter website",
-  "phone": "(949) 724-6000"
+  "phone": "(949) 724-7740",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "end": "2026-11-30",
+    "title": "Fall into Fur-ever: adoption fees waived for longest-resident animals (ongoing promotion)",
+    "url": "https://cityofirvine.gov/irvine-animal-care-center/adopt-pet",
+    "place": "Irvine Animal Care Center, 6443 Oak Canyon, Irvine"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -1298,9 +1307,11 @@
    {
     "date": "2026-12-11",
     "title": "Holiday Foster Open House",
-    "url": "https://bestfriends.org/los-angeles"
+    "url": "https://bestfriends.org/los-angeles",
+    "place": "Best Friends Pet Adoption Center, 1845 Pontius Ave., Los Angeles"
    }
-  ]
+  ],
+  "phone": "(424) 208-8840"
  },
  {
   "state": "CA",
@@ -1391,7 +1402,7 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.wagsandwalks.org/",
-  "notes": "program and details need a follow-up check.",
+  "notes": "Adoption center at 2236 Federal Ave., Los Angeles; no day-out program listed on its site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -3711,7 +3722,7 @@
   "email_program": "",
   "email_main": "info@clearlakeanimalassociation.org",
   "source_list": "shelter website",
-  "phone": "(866) 364-8610"
+  "phone": "(707) 815-9218"
  },
  {
   "state": "CA",
@@ -3738,10 +3749,10 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.pawspartners.org/adoptafriend.html",
-  "notes": "",
+  "notes": "Cat adoptions at the PawsPartners Center, 12360 Trade Center Dr., Jackson. No day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "rescue@pawspartners.org",
   "source_list": "shelter website",
   "phone": "(209) 223-0410"
  },
@@ -3848,12 +3859,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://placerspca.org/locations/",
-  "notes": "Adoptions by appointment only.",
+  "notes": "Auburn center at 1482 Grass Valley Hwy.; adoptions by appointment only.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "guestservices@placerspca.org",
   "source_list": "shelter website",
-  "phone": "(916) 782-7722"
+  "phone": "(530) 823-7722"
  },
  {
   "state": "CA",
@@ -4184,7 +4195,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "manager@friendsofcats.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(619) 561-0361"
  },
  {
   "state": "CA",
@@ -4236,22 +4248,6 @@
  },
  {
   "state": "CA",
-  "city": "Fontana",
-  "org": "Fontana Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.fontanaca.gov/318/Adoptions-Lost-Found-Pets",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CA",
   "city": "Salinas",
   "org": "City of Salinas Animal Services Shelter",
   "program": "No day-out program yet",
@@ -4275,7 +4271,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.californiacity-ca.gov/CC/animal-control",
-  "phone": "",
+  "phone": "(760) 373-1115",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -4307,22 +4303,6 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.placer.ca.gov/1909/Animal-Services",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CA",
-  "city": "Bonita",
-  "org": "San Diego County Animal Services - South Shelter (Bonita)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.sandiegocounty.gov/location/south-county-animal-shelter/",
   "phone": "",
   "notes": "",
   "checked": "November 2026",
@@ -4531,11 +4511,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityofdhs.org/adoptions/",
-  "phone": "",
-  "notes": "holding-facility details need a follow-up check.",
+  "phone": "(760) 329-6411",
+  "notes": "Animals are held at the Desert Hot Springs Animal Care and Control Facility, 65810 Hacienda Ave; closed to walk-ins, meet-and-greets by appointment (phone ext. 450).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@cityofdhs.org",
   "source_list": "shelter website"
  }
 ]
