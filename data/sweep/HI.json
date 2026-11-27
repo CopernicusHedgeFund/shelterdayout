@@ -12,6 +12,7 @@
   "checked": "November 2026",
   "email_program": "ilioexplorers@hawaiianhumane.org",
   "email_main": "info@hawaiianhumane.org",
+  "phone": "(808) 356-2200",
   "source_list": "shelter website",
   "events": [
    {
@@ -53,7 +54,9 @@
   "checked": "November 2026",
   "email_program": "ilioexplorers@hawaiianhumane.org",
   "email_main": "info@hawaiianhumane.org",
-  "source_list": "shelter website"
+  "phone": "(808) 356-2200",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "HI",
@@ -68,8 +71,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Info@OahuSPCA.org",
+  "phone": "(808) 754-1519",
   "source_list": "shelter website",
-  "phone": "(808) 754-1519"
+  "events": []
  },
  {
   "state": "HI",
@@ -84,8 +88,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "customerservice@kauaihumane.org",
+  "phone": "(808) 632-0610",
   "source_list": "shelter website",
-  "phone": "(808) 632-0610"
+  "events": []
  },
  {
   "state": "HI",
@@ -100,8 +105,17 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@mauihumanesociety.org",
+  "phone": "(808) 877-3680",
   "source_list": "shelter website",
-  "phone": "(808) 877-3680"
+  "events": [
+   {
+    "date": "2026-11-27",
+    "end": "2026-11-30",
+    "title": "Black Friday 2 Fur 1 Kitten Adoptions (second kitten no additional adoption fee)",
+    "url": "https://www.mauihumanesociety.org/",
+    "place": "Maui Humane Society, 1350 Mehameha Loop, Puunene"
+   }
+  ]
  },
  {
   "state": "HI",
@@ -111,12 +125,14 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://hihs.org/programs/fieldtrips",
-  "notes": "Adults 18+ (children 8+ with adult); Fri-Sun by online appointment at the Keaau (16-873 Keaau Pahoa Rd) or Kona shelter, return by 4:30 p.m. Donation $15 per group with Hawaii ID, $35 non-residents; enclosed vehicle, one dog per vehicle, no resident pets.",
+  "url": "https://hihs.org/programs/foster/field-trips-for-shelter-dogs/",
+  "notes": "Adults 18+ (children 8+ with adult); Fri-Sun by online appointment at the Keaau (16-873 Keaau Pahoa Rd) or Kona shelter, dog back by 4:30 p.m. Donation $15 per group with Hawaii ID, $35 non-residents; enclosed vehicle, one dog per vehicle, no resident pets; safety briefing at pickup.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@hihs.org",
+  "phone": "(808) 966-5458",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "HI",
@@ -126,12 +142,14 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://hihs.org/programs/fieldtrips",
-  "notes": "Kona shelter at 78-6767 Mamalahoa Hwy, Holualoa (808-329-1175). Field trips Fri-Sun by online appointment (choose Kona pickup), return by 4:30 p.m.; adults 18+, kids 8+ with adult; $15/group with Hawaii ID, $35 non-residents; enclosed vehicle.",
+  "url": "https://hihs.org/programs/foster/field-trips-for-shelter-dogs/",
+  "notes": "Kona shelter at 78-6767 Mamalahoa Hwy, Holualoa. Field trips Fri-Sun by online appointment (choose Kona pickup), dog back by 4:30 p.m.; adults 18+, kids 8+ with adult; $15/group with Hawaii ID, $35 non-residents; enclosed vehicle, one dog per vehicle.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@hihs.org",
+  "phone": "(808) 329-1175",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "HI",
@@ -146,9 +164,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@LanaiCatSanctuary.org",
-  "phone": "+1 808 215 9066",
+  "phone": "(808) 215-9066",
   "source_list": "shelter website",
-  "osm": "node/13121917674"
+  "osm": "node/13121917674",
+  "events": []
  },
  {
   "state": "HI",
@@ -163,7 +182,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hawaiispca@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "HI",
@@ -178,8 +198,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mail@rainbowfriends.org",
+  "phone": "(808) 982-5110",
   "source_list": "shelter website",
-  "phone": "(808) 982-5110"
+  "events": []
  },
  {
   "state": "HI",
@@ -195,7 +216,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "Hawaii SPCA rescue list; Frommer's",
-  "source": "https://www.frommers.com/destinations/molokai/attractions/akaula-cat-garden"
+  "source": "https://www.frommers.com/destinations/molokai/attractions/akaula-cat-garden",
+  "events": []
  },
  {
   "state": "HI",
@@ -206,11 +228,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.molokaihumanesociety.org/",
-  "phone": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "phone": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
