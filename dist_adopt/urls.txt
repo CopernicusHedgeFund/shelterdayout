@@ -2093,7 +2093,6 @@ https://shelteradoption.com/shelters/hermitage-no-kill-cat-shelter-tucson/
 https://shelteradoption.com/shelters/hernando-county-sheriff-s-office-animal-services-brooksville/
 https://shelteradoption.com/shelters/herriman-city-animal-services-herriman/
 https://shelteradoption.com/shelters/hesperia-animal-shelter-hesperia/
-https://shelteradoption.com/shelters/hickman-humane-society-centerville/
 https://shelteradoption.com/shelters/hickory-creek-animal-services-hickory-creek/
 https://shelteradoption.com/shelters/high-country-humane-flagstaff/
 https://shelteradoption.com/shelters/high-desert-humane-society-animal-shelter-silver-city/
@@ -2634,7 +2633,7 @@ https://shelteradoption.com/shelters/last-chance-ranch-quakertown/
 https://shelteradoption.com/shelters/last-hope-animal-rescue-cedar-rapids/
 https://shelteradoption.com/shelters/last-hope-animal-rescue-wantagh-adoption-center-wantagh/
 https://shelteradoption.com/shelters/lathrop-animal-services-lathrop-animal-center-lathrop/
-https://shelteradoption.com/shelters/lauderdale-county-animal-control-shelter-meridian/
+https://shelteradoption.com/shelters/lauderdale-county-animal-control-shelter-marion/
 https://shelteradoption.com/shelters/laurel-county-animal-shelter-london/
 https://shelteradoption.com/shelters/laurens-county-animal-care-laurens/
 https://shelteradoption.com/shelters/laurens-county-animal-control-dublin/
@@ -3791,7 +3790,6 @@ https://shelteradoption.com/shelters/seward-animal-shelter-seward/
 https://shelteradoption.com/shelters/seymour-animal-control-seymour/
 https://shelteradoption.com/shelters/shafter-animal-shelter-shafter/
 https://shelteradoption.com/shelters/shari-d-coleman-animal-services-and-adoption-center-pearland/
-https://shelteradoption.com/shelters/sharp-safe-haven-animal-rescue-program-benton/
 https://shelteradoption.com/shelters/shawano-county-humane-society-shawano/
 https://shelteradoption.com/shelters/shawnee-animal-welfare-city-of-shawnee-animal-shelter-shawnee/
 https://shelteradoption.com/shelters/shelby-county-animal-control-and-shelter-shelbyville/
@@ -3800,7 +3798,6 @@ https://shelteradoption.com/shelters/shelby-county-animal-shelter-sidney/
 https://shelteradoption.com/shelters/shelby-humane-columbiana/
 https://shelteradoption.com/shelters/shelbyville-shelby-county-animal-shelter-shelbyville/
 https://shelteradoption.com/shelters/shelter-hope-pet-shop-thousand-oaks/
-https://shelteradoption.com/shelters/shelter-jones-county-laurel/
 https://shelteradoption.com/shelters/shelter-to-home-wyandotte/
 https://shelteradoption.com/shelters/shelton-animal-control-shelton/
 https://shelteradoption.com/shelters/shelton-animal-shelter-shelton/
@@ -3921,7 +3918,7 @@ https://shelteradoption.com/shelters/spokane-humane-society-spokane/
 https://shelteradoption.com/shelters/spokanimal-spokane/
 https://shelteradoption.com/shelters/spotsylvania-county-animal-shelter-fredericksburg/
 https://shelteradoption.com/shelters/springdale-animal-services-springdale/
-https://shelteradoption.com/shelters/springfield-animal-control-shelter-springfield/
+https://shelteradoption.com/shelters/springfield-animal-care-and-control-springfield/
 https://shelteradoption.com/shelters/springfield-animal-shelter-city-of-springfield-springfield/
 https://shelteradoption.com/shelters/springfield-humane-society-springfield/
 https://shelteradoption.com/shelters/st-bernard-parish-animal-shelter-violet/

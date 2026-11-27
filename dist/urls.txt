@@ -96,6 +96,7 @@ https://shelterdayout.com/cities/chickamauga-ga/
 https://shelterdayout.com/cities/chico-ca/
 https://shelterdayout.com/cities/christiansburg-va/
 https://shelterdayout.com/cities/cincinnati-oh/
+https://shelterdayout.com/cities/clarksdale-ms/
 https://shelterdayout.com/cities/clarksville-tn/
 https://shelterdayout.com/cities/clearwater-fl/
 https://shelterdayout.com/cities/cleveland-oh/
@@ -190,6 +191,7 @@ https://shelterdayout.com/cities/greenfield-in/
 https://shelterdayout.com/cities/greensboro-nc/
 https://shelterdayout.com/cities/greenville-nc/
 https://shelterdayout.com/cities/greenville-sc/
+https://shelterdayout.com/cities/gulfport-ms/
 https://shelterdayout.com/cities/hagerstown-md/
 https://shelterdayout.com/cities/hailey-id/
 https://shelterdayout.com/cities/hamilton-mt/
@@ -387,6 +389,7 @@ https://shelterdayout.com/cities/riverside-ca/
 https://shelterdayout.com/cities/roanoke-va/
 https://shelterdayout.com/cities/rochester-ny/
 https://shelterdayout.com/cities/rockford-il/
+https://shelterdayout.com/cities/rogersville-tn/
 https://shelterdayout.com/cities/rosenberg-tx/
 https://shelterdayout.com/cities/rotterdam-ny/
 https://shelterdayout.com/cities/rowlett-tx/
@@ -509,6 +512,7 @@ https://shelterdayout.com/cities/willmar-mn/
 https://shelterdayout.com/cities/wilmington-de/
 https://shelterdayout.com/cities/wilton-ct/
 https://shelterdayout.com/cities/winchester-or/
+https://shelterdayout.com/cities/winchester-tn/
 https://shelterdayout.com/cities/winchester-va/
 https://shelterdayout.com/cities/winston-salem-nc/
 https://shelterdayout.com/cities/wooster-oh/
@@ -2122,7 +2126,6 @@ https://shelterdayout.com/listings/hermitage-no-kill-cat-shelter-tucson/
 https://shelterdayout.com/listings/hernando-county-sheriff-s-office-animal-services-brooksville/
 https://shelterdayout.com/listings/herriman-city-animal-services-herriman/
 https://shelterdayout.com/listings/hesperia-animal-shelter-hesperia/
-https://shelterdayout.com/listings/hickman-humane-society-centerville/
 https://shelterdayout.com/listings/hickory-creek-animal-services-hickory-creek/
 https://shelterdayout.com/listings/high-country-humane-flagstaff/
 https://shelterdayout.com/listings/high-desert-humane-society-animal-shelter-silver-city/
@@ -2663,7 +2666,7 @@ https://shelterdayout.com/listings/last-chance-ranch-quakertown/
 https://shelterdayout.com/listings/last-hope-animal-rescue-cedar-rapids/
 https://shelterdayout.com/listings/last-hope-animal-rescue-wantagh-adoption-center-wantagh/
 https://shelterdayout.com/listings/lathrop-animal-services-lathrop-animal-center-lathrop/
-https://shelterdayout.com/listings/lauderdale-county-animal-control-shelter-meridian/
+https://shelterdayout.com/listings/lauderdale-county-animal-control-shelter-marion/
 https://shelterdayout.com/listings/laurel-county-animal-shelter-london/
 https://shelterdayout.com/listings/laurens-county-animal-care-laurens/
 https://shelterdayout.com/listings/laurens-county-animal-control-dublin/
@@ -3820,7 +3823,6 @@ https://shelterdayout.com/listings/seward-animal-shelter-seward/
 https://shelterdayout.com/listings/seymour-animal-control-seymour/
 https://shelterdayout.com/listings/shafter-animal-shelter-shafter/
 https://shelterdayout.com/listings/shari-d-coleman-animal-services-and-adoption-center-pearland/
-https://shelterdayout.com/listings/sharp-safe-haven-animal-rescue-program-benton/
 https://shelterdayout.com/listings/shawano-county-humane-society-shawano/
 https://shelterdayout.com/listings/shawnee-animal-welfare-city-of-shawnee-animal-shelter-shawnee/
 https://shelterdayout.com/listings/shelby-county-animal-control-and-shelter-shelbyville/
@@ -3829,7 +3831,6 @@ https://shelterdayout.com/listings/shelby-county-animal-shelter-sidney/
 https://shelterdayout.com/listings/shelby-humane-columbiana/
 https://shelterdayout.com/listings/shelbyville-shelby-county-animal-shelter-shelbyville/
 https://shelterdayout.com/listings/shelter-hope-pet-shop-thousand-oaks/
-https://shelterdayout.com/listings/shelter-jones-county-laurel/
 https://shelterdayout.com/listings/shelter-to-home-wyandotte/
 https://shelterdayout.com/listings/shelton-animal-control-shelton/
 https://shelterdayout.com/listings/shelton-animal-shelter-shelton/
@@ -3950,7 +3951,7 @@ https://shelterdayout.com/listings/spokane-humane-society-spokane/
 https://shelterdayout.com/listings/spokanimal-spokane/
 https://shelterdayout.com/listings/spotsylvania-county-animal-shelter-fredericksburg/
 https://shelterdayout.com/listings/springdale-animal-services-springdale/
-https://shelterdayout.com/listings/springfield-animal-control-shelter-springfield/
+https://shelterdayout.com/listings/springfield-animal-care-and-control-springfield/
 https://shelterdayout.com/listings/springfield-animal-shelter-city-of-springfield-springfield/
 https://shelterdayout.com/listings/springfield-humane-society-springfield/
 https://shelterdayout.com/listings/st-bernard-parish-animal-shelter-violet/

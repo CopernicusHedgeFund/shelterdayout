@@ -14,7 +14,8 @@
   "email_main": "",
   "phone": "+14237449548",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/4046010560"
+  "osm": "node/4046010560",
+  "events": []
  },
  {
   "state": "TN",
@@ -30,23 +31,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(901) 385-6400"
- },
- {
-  "state": "TN",
-  "city": "Benton",
-  "org": "SHARP (Safe Haven Animal Rescue Program)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://sharprescue.org/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "phone": "(901) 385-6484",
+  "events": []
  },
  {
   "state": "TN",
@@ -76,8 +62,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "haa.shelter@gmail.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
@@ -87,14 +74,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.tiptonco.com/public_works/animal_shelter/",
+  "url": "https://tiptonco.com/departments/public_works/animal_shelter/index.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12978674029"
+  "osm": "node/12978674029",
+  "events": []
  },
  {
   "state": "TN",
@@ -109,9 +97,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(731) 780-9037",
+  "phone": "(731) 772-2908",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/10749810705"
+  "osm": "node/10749810705",
+  "events": []
  },
  {
   "state": "TN",
@@ -137,15 +126,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://bentoncountytn.gov/dept_services.html",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(731) 584-3152",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/461279942",
-  "url_social": "https://www.facebook.com/BentonCountyShelter/"
+  "url_social": "https://www.facebook.com/BentonCountyShelter/",
+  "events": []
  },
  {
   "state": "TN",
@@ -156,28 +146,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://smithcountytnhumane.com/",
-  "phone": "",
+  "phone": "(615) 735-7028",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "TN",
-  "city": "Centerville",
-  "org": "Hickman Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.hickmanhumane.org/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@smithcountytnhumane.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
@@ -193,7 +168,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(423) 624-5302"
+  "phone": "(423) 624-5302",
+  "events": []
  },
  {
   "state": "TN",
@@ -201,15 +177,16 @@
   "org": "McKamey Animal Center",
   "program": "Slumber Pawty",
   "status": "Open to public",
-  "animals": "Dogs and cats",
-  "offers": "Sleepover",
+  "animals": "Dogs",
+  "offers": "Sleepovers (a couple of days to a week)",
   "url": "https://mckameyanimalcenter.org/pawty/",
-  "notes": "Take an adoptable dog (1 year or older) home for up to a week; hosts must be 18+ with government ID. Pick up Tuesday to Sunday, 12 to 6 p.m.; food, leash, collar, toys and bed provided.",
+  "notes": "Anyone 18+ with government ID (no residency requirement) can take a 'Slumber Pawty Approved' dog (1+ year old, available 2+ weeks) home for a few days to a week, picked up Tue-Fri 12-6 or Sat-Sun 11-5 with food, leash, collar, toys and bed provided; cats are not allowed at this time.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "hello@mckameyanimalcenter.org",
   "source_list": "shelter website",
-  "phone": "(423) 305-6500"
+  "phone": "(423) 305-6500",
+  "events": []
  },
  {
   "state": "TN",
@@ -239,9 +216,10 @@
   "notes": "Approved volunteers take shelter dogs on day trips, community outings or overnight sleepovers with a take-home kit, then file a short report. Apply through MCACC or at the shelter during open hours.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@mcgtn.net",
   "source_list": "shelter website",
-  "phone": "(931) 648-5750"
+  "phone": "(931) 648-5750",
+  "events": []
  },
  {
   "state": "TN",
@@ -274,7 +252,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(423) 559-3333"
+  "phone": "(423) 559-3333",
+  "events": []
  },
  {
   "state": "TN",
@@ -306,7 +285,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(865) 264-6315"
+  "phone": "(865) 264-6315",
+  "events": []
  },
  {
   "state": "TN",
@@ -436,7 +416,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
@@ -452,7 +433,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(423) 468-1432"
+  "phone": "(423) 468-1432",
+  "events": []
  },
  {
   "state": "TN",
@@ -467,9 +449,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@cartercountytn.gov",
-  "phone": "+14235476359",
+  "phone": "(423) 547-6359",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1272137753"
+  "osm": "way/1272137753",
+  "events": []
  },
  {
   "state": "TN",
@@ -484,9 +467,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mharren.ucas@gmail.com",
-  "phone": "",
+  "phone": "(423) 743-3071",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/10595100166"
+  "osm": "node/10595100166",
+  "events": []
  },
  {
   "state": "TN",
@@ -502,7 +486,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(423) 775-2029"
+  "phone": "(423) 775-2029",
+  "events": []
  },
  {
   "state": "TN",
@@ -513,12 +498,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://humanesocietylc.com/",
-  "phone": "",
+  "phone": "(931) 433-3726",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "fayettevillecritters@gmail.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
@@ -598,7 +584,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@trousdalecountytn.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 680-4022",
+  "events": []
  },
  {
   "state": "TN",
@@ -612,9 +600,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@sumnerhumane.org",
   "source_list": "shelter website",
-  "phone": "(615) 822-0061"
+  "phone": "(615) 822-0061",
+  "events": []
  },
  {
   "state": "TN",
@@ -625,12 +614,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.highforesthumane.com/",
-  "phone": "",
+  "phone": "(931) 500-8686",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "highforesthumanesociety16@gmail.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
@@ -646,7 +636,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(423) 566-8018"
+  "phone": "(423) 566-8018",
+  "events": []
  },
  {
   "state": "TN",
@@ -661,7 +652,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(731) 422-7028",
+  "events": []
  },
  {
   "state": "TN",
@@ -693,7 +686,8 @@
   "email_program": "",
   "email_main": "humanesociety@ahhumanesociety.org",
   "source_list": "shelter website",
-  "phone": "(423) 926-8533"
+  "phone": "(423) 926-8533",
+  "events": []
  },
  {
   "state": "TN",
@@ -834,7 +828,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(615) 444-9775"
+  "phone": "(615) 444-9775",
+  "events": []
  },
  {
   "state": "TN",
@@ -848,9 +843,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "shelter.manager@lewisburgtn.gov",
   "source_list": "shelter website",
-  "phone": "(931) 359-5948"
+  "phone": "(931) 359-5948",
+  "events": []
  },
  {
   "state": "TN",
@@ -865,7 +861,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
@@ -897,7 +894,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(865) 458-5593"
+  "phone": "(865) 458-5593",
+  "events": []
  },
  {
   "state": "TN",
@@ -927,9 +925,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@cityofmanchestertn.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(931) 728-4652",
+  "events": []
  },
  {
   "state": "TN",
@@ -945,7 +944,8 @@
   "email_program": "",
   "email_main": "animalshelter@blounttn.org",
   "source_list": "shelter website",
-  "phone": "(865) 980-6244"
+  "phone": "(865) 980-6244",
+  "events": []
  },
  {
   "state": "TN",
@@ -994,7 +994,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(931) 473-2553"
+  "phone": "(931) 473-2553",
+  "events": []
  },
  {
   "state": "TN",
@@ -1025,7 +1026,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "mas@memphistn.gov",
-  "source": "https://choose901.com/event/mas-field-trips/"
+  "source": "https://choose901.com/event/mas-field-trips/",
+  "phone": "(901) 636-6500",
+  "events": []
  },
  {
   "state": "TN",
@@ -1057,7 +1060,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(615) 773-5533"
+  "phone": "(615) 773-5533",
+  "events": []
  },
  {
   "state": "TN",
@@ -1073,7 +1077,8 @@
   "email_program": "",
   "email_main": "paws@rutherfordcountytn.gov",
   "source_list": "shelter website",
-  "phone": "(615) 898-7740"
+  "phone": "(615) 898-7740",
+  "events": []
  },
  {
   "state": "TN",
@@ -1101,12 +1106,13 @@
   "animals": "Dogs",
   "offers": "Sleepover",
   "url": "https://www.nashville.gov/departments/health/animal-care-and-control/foster-program",
-  "notes": "Short-term foster: take a shelter dog home for a few nights, with supplies provided. Apply through the MACC foster program.",
+  "notes": "Bow Wow Breakout (holiday short-term fosters, dogs home for a few nights with supplies provided) appears only in 2019 news releases; the current MACC foster page does not mention it.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source": "https://newschannel5.com/talk-of-the-town/doggy-day-out",
-  "phone": "(615) 340-5616"
+  "phone": "(615) 340-5616",
+  "events": []
  },
  {
   "state": "TN",
@@ -1117,12 +1123,13 @@
   "animals": "Dogs",
   "offers": "Day trip, sleepover",
   "url": "https://nashvillehumane.org/doggie-dates/",
-  "notes": "Adults 18+ living in Davidson County take a staff-assigned dog out 11:15am-3:30pm Tue-Fri, or overnight (Rovernight) Tue-Sun. Book online through Calendly.",
+  "notes": "Adults 18+ living in Davidson County book on Calendly and get a staff-assigned dog for a Doggie Date (Tue-Fri, 11:15am pickup, 3-3:30pm return) or a Rovernight (Tue-Sun, 4:15pm pickup, 9-9:30am return).",
   "checked": "November 2026",
   "email_program": "adoption@nashvillehumane.org",
   "email_main": "",
   "source": "https://www.newschannel5.com/news/state/tennessee/davidson-county/nashville-shelter-dogs-get-valentines-day-dates-through-special-volunteer-program",
-  "phone": "(615) 352-1010"
+  "phone": "(615) 352-1010",
+  "events": []
  },
  {
   "state": "TN",
@@ -1188,7 +1195,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(731) 642-5024"
+  "phone": "(731) 642-5024",
+  "events": []
  },
  {
   "state": "TN",
@@ -1204,7 +1212,8 @@
   "email_program": "",
   "email_main": "animalcontrol@cheathamcountytn.gov",
   "source_list": "shelter website",
-  "phone": "(615) 792-3647"
+  "phone": "(615) 792-3647",
+  "events": []
  },
  {
   "state": "TN",
@@ -1220,7 +1229,8 @@
   "email_program": "",
   "email_main": "Shelter@gilescountytn.gov",
   "source_list": "shelter website",
-  "phone": "(931) 607-0116"
+  "phone": "(931) 607-0116",
+  "events": []
  },
  {
   "state": "TN",
@@ -1237,23 +1247,26 @@
   "email_main": "animalshelter@roanecountytn.gov",
   "phone": "(865) 354-7387",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/11396288609"
+  "osm": "node/11396288609",
+  "events": []
  },
  {
   "state": "TN",
   "city": "Rogersville",
   "org": "Hawkins County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "",
+  "program": "Dog Day Out",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trips, overnight stays",
+  "url": "https://www.hchs-shelter.org/dog-day-out",
+  "notes": "Come to the shelter during business hours, sign a waiver, pick a dog to spend the day with and return it before closing, or call ahead to arrange an overnight stay.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hchs37857@gmail.com",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/hawkinshumane"
+  "url_social": "https://www.facebook.com/hawkinshumane",
+  "phone": "(423) 272-6538",
+  "events": []
  },
  {
   "state": "TN",
@@ -1268,9 +1281,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-731-925-3303",
+  "phone": "(731) 925-3303",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/588195269"
+  "osm": "way/588195269",
+  "events": []
  },
  {
   "state": "TN",
@@ -1286,7 +1300,8 @@
   "email_program": "saccadoptions@gmail.com",
   "email_main": "saccadoptions@gmail.com",
   "source_list": "shelter website",
-  "phone": "(865) 280-2280"
+  "phone": "(865) 280-2280",
+  "events": []
  },
  {
   "state": "TN",
@@ -1301,7 +1316,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(931) 685-1130",
+  "events": []
  },
  {
   "state": "TN",
@@ -1311,12 +1328,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.dekalbtennessee.com/dekalb-animal-coalition.html",
+  "url": "https://www.dekalbtennessee.com/dekalb-animal-shelter.html",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(615) 597-3647",
+  "events": []
  },
  {
   "state": "TN",
@@ -1342,18 +1361,19 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://whitecountytn.gov/government/county-departments/animal-control-adoption",
+  "url": "https://www.whitecountytn.gov/300/Animal-Control-Adoption",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(931) 761-3647"
+  "phone": "(931) 761-3647",
+  "events": []
  },
  {
   "state": "TN",
   "city": "Springfield",
-  "org": "Springfield Animal Control Shelter",
+  "org": "Springfield Animal Care and Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
@@ -1364,7 +1384,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(615) 384-9289"
+  "phone": "(615) 384-9289",
+  "events": []
  },
  {
   "state": "TN",
@@ -1378,9 +1399,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "Easysdogshelter@gmail.com",
   "source_list": "shelter website",
-  "phone": "(423) 760-7922"
+  "phone": "(423) 760-7922",
+  "events": []
  },
  {
   "state": "TN",
@@ -1391,12 +1413,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://gibsontn.org/offices/animal-control",
-  "phone": "",
+  "phone": "(731) 855-0771",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
@@ -1407,12 +1430,13 @@
   "animals": "Dogs and cats",
   "offers": "Day foster, weekend sleepover",
   "url": "https://www.tullahomaanimalshelter.org/ways-to-help",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "After applying and being approved as a foster, people can take a shelter animal out for a single day during shelter business hours or home for a weekend sleepover.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(931) 454-9580"
+  "phone": "(931) 454-9580",
+  "events": []
  },
  {
   "state": "TN",
@@ -1429,7 +1453,8 @@
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1314391793"
+  "osm": "way/1314391793",
+  "events": []
  },
  {
   "state": "TN",
@@ -1440,27 +1465,36 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://hchswaverly.com/",
-  "phone": "",
+  "phone": "(931) 296-7319",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "animals@hchswaverly.com",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "TN",
   "city": "Winchester",
   "org": "Animal Harbor (Franklin County Humane Society)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Pack Walks",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
+  "offers": "Group trail walks with shelter dogs; cat cuddle/reading sessions",
   "url": "https://www.animalharbor.org/",
-  "phone": "",
-  "notes": "",
+  "phone": "(931) 962-4472",
+  "notes": "Participants RSVP online and are paired with a shelter dog for a morning group walk at a local trail or park (next one Dec 4 at Abbos Alley, Sewanee), and the shelter also hosts Paws & Pages sessions to spend time with cats.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Paws & Pages Pajama Party (time with adoptable cats and kittens)",
+    "url": "https://www.animalharbor.org/",
+    "place": "Animal Harbor, 56 Nor-Nan Road, Winchester, TN"
+   }
+  ]
  }
 ]

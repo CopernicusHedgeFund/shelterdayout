@@ -23,13 +23,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.cityofboonevillems.com/bpd/animalshelter/",
-  "phone": "",
+  "url": "https://booneville-ms.gov/?p=623",
+  "phone": "(662) 210-0834",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "AnimalShelter@Booneville-MS.Gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MS",
@@ -67,17 +68,19 @@
   "state": "MS",
   "city": "Clarksdale",
   "org": "CARES Clarksdale Animal Rescue Effort & Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "",
-  "notes": "1645 Desoto Ave, Clarksdale. Official Facebook page.",
+  "program": "Adventure Paws",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://cares-clarksdale.squarespace.com/",
+  "notes": "Through the Adventure Paws program, people spend a day with a shelter dog hiking, walking in the park or playing frisbee (no sign-up details on the site, so contact the shelter).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "caresclarksdale@gmail.com",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/caresclarksdalems"
+  "url_social": "https://www.facebook.com/caresclarksdalems",
+  "phone": "(662) 627-7870",
+  "events": []
  },
  {
   "state": "MS",
@@ -179,17 +182,18 @@
   "state": "MS",
   "city": "Gulfport",
   "org": "Humane Society of South Mississippi",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.hssm.org/",
-  "notes": "2615 25th Ave, Gulfport. No day-out program listed on site.",
+  "program": "Slumber Party",
+  "status": "Open to public",
+  "animals": "Dogs and cats (10+ months, spayed/neutered)",
+  "offers": "Sleepovers (3-5 days)",
+  "url": "https://hssm.squarespace.com/foster",
+  "notes": "Through HSSM's foster program, people can take a shelter animal home for a 3-5 day Slumber Party, which gets it out of the shelter and lets potential adopters try it at home.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@hssm.org",
   "email_main": "info@hssm.org",
   "source_list": "shelter website",
-  "phone": "(228) 863-3354"
+  "phone": "(228) 863-3354",
+  "events": []
  },
  {
   "state": "MS",
@@ -204,7 +208,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(601) 596-2206",
+  "events": []
  },
  {
   "state": "MS",
@@ -215,7 +221,7 @@
   "animals": "Dogs and cats",
   "offers": "Day trip",
   "url": "https://www.southernpinesanimalshelter.org/",
-  "notes": "Previously listed Dog's Day Out program; could not re-verify on shelter site in Nov 2026 pass (fetch limit) - still needs check.",
+  "notes": "Site menu still lists a Dog's Day Out page (with a Dogs Day Out Survey) under Get Involved, but the program page itself could not be opened this pass, so details are unverified.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -236,7 +242,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@hornlake.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(662) 393-5857",
+  "events": []
  },
  {
   "state": "MS",
@@ -268,7 +276,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MS",
@@ -278,13 +287,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://jacksonms.gov/locations/jackson-police-animal-control",
   "notes": "Friends group for the City of Jackson municipal shelter; official Facebook page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/p/Jackson-Friends-of-the-Animal-Shelter-100064731069051/"
+  "url_social": "https://www.facebook.com/p/Jackson-Friends-of-the-Animal-Shelter-100064731069051/",
+  "phone": "(601) 960-1771",
+  "events": []
  },
  {
   "state": "MS",
@@ -316,22 +327,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(228) 466-4516"
- },
- {
-  "state": "MS",
-  "city": "Laurel",
-  "org": "Shelter Jones County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.shelterjonescounty.com/",
-  "notes": "Name taken from site title; verify.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "phone": "(228) 466-4516",
+  "events": []
  },
  {
   "state": "MS",
@@ -347,7 +344,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(601) 605-4729"
+  "phone": "(601) 605-4729",
+  "events": []
  },
  {
   "state": "MS",
@@ -367,19 +365,20 @@
  },
  {
   "state": "MS",
-  "city": "Meridian",
+  "city": "Marion",
   "org": "Lauderdale County Animal Control Shelter",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://lauderdalecounty.org/county-departments/animalcontrol/",
-  "phone": "",
+  "phone": "(601) 485-1849",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MS",
@@ -428,7 +427,8 @@
   "email_program": "",
   "email_main": "adoption@cityofhernando.org",
   "source_list": "shelter website",
-  "phone": "(662) 449-9503"
+  "phone": "(662) 449-9503",
+  "events": []
  },
  {
   "state": "MS",
@@ -444,7 +444,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(662) 469-8004"
+  "phone": "(662) 469-8004",
+  "events": []
  },
  {
   "state": "MS",
@@ -476,7 +477,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(662) 895-4582"
+  "phone": "(662) 895-4582",
+  "events": []
  },
  {
   "state": "MS",
@@ -526,7 +528,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(662) 796-2491"
+  "phone": "(662) 796-2491",
+  "events": []
  },
  {
   "state": "MS",
