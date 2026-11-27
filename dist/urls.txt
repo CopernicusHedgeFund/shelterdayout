@@ -524,6 +524,7 @@ https://shelterdayout.com/cities/warwick-ri/
 https://shelterdayout.com/cities/washburn-mo/
 https://shelterdayout.com/cities/washington-dc/
 https://shelterdayout.com/cities/washington-ia/
+https://shelterdayout.com/cities/wasilla-ak/
 https://shelterdayout.com/cities/watauga-tx/
 https://shelterdayout.com/cities/waterford-ct/
 https://shelterdayout.com/cities/watertown-ny/
@@ -654,6 +655,7 @@ https://shelterdayout.com/listings/alameda-animal-shelter-friends-of-the-alameda
 https://shelterdayout.com/listings/alamogordo-animal-services-alamogordo/
 https://shelterdayout.com/listings/alan-purcell-wayne-animal-shelter-wayne/
 https://shelterdayout.com/listings/alaqua-animal-refuge-freeport/
+https://shelterdayout.com/listings/alaska-beagle-ranch-wasilla/
 https://shelterdayout.com/listings/alaska-humane-society-adopt-a-cat-anchorage/
 https://shelterdayout.com/listings/alaska-spca-anchorage/
 https://shelterdayout.com/listings/albany-humane-society-albany/
