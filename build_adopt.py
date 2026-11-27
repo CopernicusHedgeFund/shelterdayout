@@ -2,6 +2,7 @@
 """ShelterAdoption.com: sister site of ShelterDayOut, built from the same shelter data.
 Run on its own or via build.py (which calls main() at the end). Output: dist_adopt/
 """
+import hashlib
 import json
 import re
 import shutil
@@ -28,6 +29,7 @@ CSS = sdo.CSS.replace("--accent:#ff7a59;--accent-d:#e55d3c", "--accent:#2a9d8f;-
 .grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:12px 0}
 .card{background:#fff;border:2px solid #dcebe5;border-radius:18px;padding:16px}
 .card h3{margin:0 0 6px}
+.cols{columns:2 300px;padding-left:18px;margin:0 0 8px}.cols li{break-inside:avoid;margin:0 0 4px}
 .slist{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
 .slist li{background:#fff;border:2px solid #dcebe5;border-radius:16px;padding:14px}
 .slist li b a{color:var(--ink);text-decoration:none}
@@ -116,6 +118,8 @@ def write(path, content):
     if path.endswith("/"):
         p = p / "index.html"
     p.parent.mkdir(parents=True, exist_ok=True)
+    if len(content.encode()) > 900_000:  # GoDaddy's server returns 500 for HTML pages over about 1 MB
+        raise SystemExit(f"Page too big for the host ({len(content.encode()):,} bytes, limit 900,000): {path}")
     p.write_text(content)
 
 
@@ -161,7 +165,7 @@ def shelter_li(r, show_state=True):
 SEARCH_JS = """<script>
 (function(){
  var q=document.getElementById('q'),st=document.getElementById('f-state'),cnt=document.getElementById('count'),f=document.getElementById('sform'),res=document.getElementById('res');
- var items=[].slice.call(document.querySelectorAll('#res li'));
+ var items=[];
  function run(){var t=(q.value||'').trim().toLowerCase(),s=st?st.value:'',n=0;
   items.forEach(function(li){var ok=(!t||li.dataset.q.indexOf(t)>=0)&&(!s||li.dataset.state===s);li.classList.toggle('hide',!ok);if(ok)n++;});
   cnt.textContent=n.toLocaleString()+(n===1?' shelter':' shelters');near(n,t,s);}
@@ -176,7 +180,8 @@ SEARCH_JS = """<script>
  q.addEventListener('input',run);if(st)st.addEventListener('change',run);
  f.addEventListener('submit',function(e){e.preventDefault();run();q.blur();res.scrollIntoView({behavior:'smooth',block:'start'});});
  var u=new URLSearchParams(location.search);if(u.get('q'))q.value=u.get('q');if(u.get('state')&&st)st.value=u.get('state').toUpperCase();
- run();
+ function go(){items=[].slice.call(document.querySelectorAll('#res li[data-q]'));run();}
+ if(res&&res.dataset.src){fetch(res.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){res.innerHTML=h;go();}).catch(function(){res.innerHTML='<li>Couldn\'t load the list. <a href="/states/">Browse shelters by state</a>.</li>';});}else go();
 })();
 </script>"""
 
@@ -222,6 +227,8 @@ def build_home(rows):
     org_ld = json.dumps({"@context": "https://schema.org", "@type": "Organization", "name": BRAND, "url": SITE + "/", "logo": SITE + "/assets/og.png",
         "email": CONTACT, "parentOrganization": {"@type": "NGO", "name": "Charity Good", "url": "https://charitygood.org"}})
     lst = "".join(shelter_li(r) for r in sorted(rows, key=lambda r: (r["state_name"], r["city"], r["org"])))
+    (DIST / "assets").mkdir(parents=True, exist_ok=True)
+    (DIST / "assets" / "home-list.json").write_text(json.dumps(lst))
     n_states = len({r["state"] for r in rows if r["state"] != "DC"})
     body = f"""<section class="adopt-hero"><div>
 <h1>Animal shelters near you: <span class="hl">adopt a pet.</span></h1>
@@ -238,7 +245,8 @@ def build_home(rows):
 <section id="find">
 <h2>Find a shelter</h2>
 {search_form(STATES.keys())}
-<ul class="slist" id="res">{lst}</ul>
+<ul class="slist" id="res" data-src="/assets/home-list.json?v={hashlib.md5(lst.encode()).hexdigest()[:10]}"><li>Loading shelters&hellip;</li></ul>
+<noscript><p><a href="/states/">Browse every shelter by state</a></p></noscript>
 </section>
 {f'<h2>Upcoming adoption events</h2><ul class="evlist">{ev_prev}</ul><p><a href="/events/">See all {len(evs):,} adoption events</a></p>' if evs else ""}
 <img class="paws" src="/assets/art/paws.svg" alt="" width="600" height="40">
@@ -563,7 +571,7 @@ def build_keyword_pages(rows):
         for r in lst:
             by.setdefault(r["state"], []).append(r)
         states_html = "".join(
-            f'<h2 id="{s}">{STATES[s]} <span class="animal">({len(by[s])})</span></h2><ul class="slist">' + "".join(shelter_li(r, False) for r in sorted(by[s], key=lambda r: (r["city"], r["org"]))) + "</ul>"
+            f'<h2 id="{s}">{STATES[s]} <span class="animal">({len(by[s])})</span></h2><ul class="cols">' + "".join(f'<li><a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a> &middot; {esc(r["city"])}</li>' for r in sorted(by[s], key=lambda r: (r["city"], r["org"]))) + f'</ul><p><a href="/states/{slugify(STATES[s])}/">All shelters in {STATES[s]}</a></p>'
             for s in sorted(by, key=lambda k_: STATES[k_]))
         jump = " ".join(f'<a href="#{s}">{STATES[s]}</a>' for s in sorted(by, key=lambda k_: STATES[k_]))
         faq_html, faq_ld = faq_block(k["faqs"])

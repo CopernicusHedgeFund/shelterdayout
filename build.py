@@ -312,6 +312,8 @@ def write(path, content):
     if path.endswith("/"):
         p = p / "index.html"
     p.parent.mkdir(parents=True, exist_ok=True)
+    if len(content.encode()) > 900_000:  # GoDaddy's server returns 500 for HTML pages over about 1 MB
+        raise SystemExit(f"Page too big for the host ({len(content.encode()):,} bytes, limit 900,000): {path}")
     p.write_text(content)
 
 
