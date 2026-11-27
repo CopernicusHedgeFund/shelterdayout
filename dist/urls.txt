@@ -74,6 +74,7 @@ https://shelterdayout.com/cities/burlington-nc/
 https://shelterdayout.com/cities/burnsville-nc/
 https://shelterdayout.com/cities/camarillo-ca/
 https://shelterdayout.com/cities/cambridge-md/
+https://shelterdayout.com/cities/canal-winchester-oh/
 https://shelterdayout.com/cities/cape-coral-fl/
 https://shelterdayout.com/cities/carencro-la/
 https://shelterdayout.com/cities/carlsbad-ca/
@@ -1730,7 +1731,6 @@ https://shelterdayout.com/listings/feline-friends-olympia/
 https://shelterdayout.com/listings/feline-rescue-inc-saint-paul/
 https://shelterdayout.com/listings/felines-and-canines-chicago/
 https://shelterdayout.com/listings/felius-cat-cafe-and-rescue-omaha/
-https://shelterdayout.com/listings/fetch-remedy-dogs-zanesville/
 https://shelterdayout.com/listings/fillmore-city-animal-control-fillmore/
 https://shelterdayout.com/listings/finding-furever-friends-formerly-humane-society-of-independence-county-batesville/
 https://shelterdayout.com/listings/finger-lakes-spca-bath-bath/
@@ -2695,7 +2695,7 @@ https://shelterdayout.com/listings/lexington-humane-society-lexington/
 https://shelterdayout.com/listings/liberal-animal-shelter-liberal/
 https://shelterdayout.com/listings/liberty-animal-control-and-shelter-liberty/
 https://shelterdayout.com/listings/liberty-county-animal-services-hinesville/
-https://shelterdayout.com/listings/licking-county-dog-shelter-and-adoption-center-newark/
+https://shelterdayout.com/listings/licking-county-dog-shelter-and-adoption-center-heath/
 https://shelterdayout.com/listings/lifeline-animal-project-dekalb-county-animal-services-and-community-animal-center-atlanta/
 https://shelterdayout.com/listings/lighthouse-animal-shelter-new-bedford/
 https://shelterdayout.com/listings/limestone-county-animal-care-and-control-athens/
@@ -3406,7 +3406,7 @@ https://shelterdayout.com/listings/pets-and-people-humane-society-yukon/
 https://shelterdayout.com/listings/pets-come-first-centre-hall/
 https://shelterdayout.com/listings/pets-fur-people-tyler/
 https://shelterdayout.com/listings/pets-lifeline-sonoma/
-https://shelterdayout.com/listings/pets-without-parents-worthington/
+https://shelterdayout.com/listings/pets-without-parents-columbus/
 https://shelterdayout.com/listings/petworks-animal-services-kingsport/
 https://shelterdayout.com/listings/pflugerville-animal-welfare-services-pflugerville/
 https://shelterdayout.com/listings/pharr-animal-care-services-pharr/

@@ -104,6 +104,7 @@ https://shelteradoption.com/cities/cleveland-tn/
 https://shelteradoption.com/cities/columbia-sc/
 https://shelteradoption.com/cities/columbus-ga/
 https://shelteradoption.com/cities/columbus-in/
+https://shelteradoption.com/cities/columbus-oh/
 https://shelteradoption.com/cities/colville-wa/
 https://shelteradoption.com/cities/conroe-tx/
 https://shelteradoption.com/cities/corpus-christi-tx/
@@ -1722,7 +1723,6 @@ https://shelteradoption.com/shelters/feline-friends-olympia/
 https://shelteradoption.com/shelters/feline-rescue-inc-saint-paul/
 https://shelteradoption.com/shelters/felines-and-canines-chicago/
 https://shelteradoption.com/shelters/felius-cat-cafe-and-rescue-omaha/
-https://shelteradoption.com/shelters/fetch-remedy-dogs-zanesville/
 https://shelteradoption.com/shelters/fillmore-city-animal-control-fillmore/
 https://shelteradoption.com/shelters/finding-furever-friends-formerly-humane-society-of-independence-county-batesville/
 https://shelteradoption.com/shelters/finger-lakes-spca-bath-bath/
@@ -2687,7 +2687,7 @@ https://shelteradoption.com/shelters/lexington-humane-society-lexington/
 https://shelteradoption.com/shelters/liberal-animal-shelter-liberal/
 https://shelteradoption.com/shelters/liberty-animal-control-and-shelter-liberty/
 https://shelteradoption.com/shelters/liberty-county-animal-services-hinesville/
-https://shelteradoption.com/shelters/licking-county-dog-shelter-and-adoption-center-newark/
+https://shelteradoption.com/shelters/licking-county-dog-shelter-and-adoption-center-heath/
 https://shelteradoption.com/shelters/lifeline-animal-project-dekalb-county-animal-services-and-community-animal-center-atlanta/
 https://shelteradoption.com/shelters/lighthouse-animal-shelter-new-bedford/
 https://shelteradoption.com/shelters/limestone-county-animal-care-and-control-athens/
@@ -3398,7 +3398,7 @@ https://shelteradoption.com/shelters/pets-and-people-humane-society-yukon/
 https://shelteradoption.com/shelters/pets-come-first-centre-hall/
 https://shelteradoption.com/shelters/pets-fur-people-tyler/
 https://shelteradoption.com/shelters/pets-lifeline-sonoma/
-https://shelteradoption.com/shelters/pets-without-parents-worthington/
+https://shelteradoption.com/shelters/pets-without-parents-columbus/
 https://shelteradoption.com/shelters/petworks-animal-services-kingsport/
 https://shelteradoption.com/shelters/pflugerville-animal-welfare-services-pflugerville/
 https://shelteradoption.com/shelters/pharr-animal-care-services-pharr/
