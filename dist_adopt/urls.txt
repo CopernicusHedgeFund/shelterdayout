@@ -3445,6 +3445,7 @@ https://shelteradoption.com/shelters/pflugerville-animal-welfare-services-pfluge
 https://shelteradoption.com/shelters/pharr-animal-care-services-pharr/
 https://shelteradoption.com/shelters/phillipsburg-animal-facility-phillipsburg/
 https://shelteradoption.com/shelters/phoenix-humane-society-of-greater-cattaraugus-cattaraugus/
+https://shelteradoption.com/shelters/phx-cat-cafe-phoenix/
 https://shelteradoption.com/shelters/piatt-county-animal-shelter-monticello/
 https://shelteradoption.com/shelters/picayune-animal-shelter-picayune/
 https://shelteradoption.com/shelters/pickaway-county-dog-shelter-circleville/
@@ -4027,6 +4028,7 @@ https://shelteradoption.com/shelters/story-county-animal-shelter-nevada/
 https://shelteradoption.com/shelters/stoughton-animal-control-stoughton/
 https://shelteradoption.com/shelters/stratford-animal-control-stratford/
 https://shelteradoption.com/shelters/stray-animals-matter-s-a-m-marionville/
+https://shelteradoption.com/shelters/stray-caf-phoenix/
 https://shelteradoption.com/shelters/stray-haven-humane-society-and-spca-waverly/
 https://shelteradoption.com/shelters/stray-hearts-animal-shelter-taos/
 https://shelteradoption.com/shelters/stray-rescue-of-st-louis-st-louis/

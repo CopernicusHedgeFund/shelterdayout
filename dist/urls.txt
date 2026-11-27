@@ -89,6 +89,7 @@ https://shelterdayout.com/cities/carlsbad-ca/
 https://shelterdayout.com/cities/carrollton-ga/
 https://shelterdayout.com/cities/carrollton-tx/
 https://shelterdayout.com/cities/carson-city-nv/
+https://shelterdayout.com/cities/casa-grande-az/
 https://shelterdayout.com/cities/casper-wy/
 https://shelterdayout.com/cities/champaign-il/
 https://shelterdayout.com/cities/chapel-hill-nc/
@@ -254,6 +255,7 @@ https://shelterdayout.com/cities/katy-tx/
 https://shelterdayout.com/cities/keaau-hi/
 https://shelterdayout.com/cities/keller-tx/
 https://shelterdayout.com/cities/king-william-va/
+https://shelterdayout.com/cities/kingman-az/
 https://shelterdayout.com/cities/knoxville-tn/
 https://shelterdayout.com/cities/kokomo-in/
 https://shelterdayout.com/cities/kurtistown-hi/
@@ -3495,6 +3497,7 @@ https://shelterdayout.com/listings/pflugerville-animal-welfare-services-pflugerv
 https://shelterdayout.com/listings/pharr-animal-care-services-pharr/
 https://shelterdayout.com/listings/phillipsburg-animal-facility-phillipsburg/
 https://shelterdayout.com/listings/phoenix-humane-society-of-greater-cattaraugus-cattaraugus/
+https://shelterdayout.com/listings/phx-cat-cafe-phoenix/
 https://shelterdayout.com/listings/piatt-county-animal-shelter-monticello/
 https://shelterdayout.com/listings/picayune-animal-shelter-picayune/
 https://shelterdayout.com/listings/pickaway-county-dog-shelter-circleville/
@@ -4077,6 +4080,7 @@ https://shelterdayout.com/listings/story-county-animal-shelter-nevada/
 https://shelterdayout.com/listings/stoughton-animal-control-stoughton/
 https://shelterdayout.com/listings/stratford-animal-control-stratford/
 https://shelterdayout.com/listings/stray-animals-matter-s-a-m-marionville/
+https://shelterdayout.com/listings/stray-caf-phoenix/
 https://shelterdayout.com/listings/stray-haven-humane-society-and-spca-waverly/
 https://shelterdayout.com/listings/stray-hearts-animal-shelter-taos/
 https://shelterdayout.com/listings/stray-rescue-of-st-louis-st-louis/
