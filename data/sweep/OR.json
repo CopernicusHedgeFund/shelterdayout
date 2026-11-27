@@ -28,6 +28,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
+  "phone": "(541) 382-3537",
   "source_list": "shelter website",
   "source": "https://www.centraloregondaily.com/news/pets-animals-nature/bend-humane-society-shelter-dogs-day-out-program-adoption/article_dc2c895d-8188-45fa-9b57-2aa3e60d890d.html"
  },
@@ -36,16 +37,16 @@
   "city": "Corvallis",
   "org": "Heartland Humane Society",
   "program": "Fetch a Friend",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.heartlandhumane.org/get-involved",
-  "notes": "Fetch a Friend lets people take a shelter dog out for the day (hike, beach, walk around town); the shelter's site gives no detailed rules - visit or call 541-757-9000 to ask.",
+  "url": "https://www.heartlandhumane.org/fetch-a-friend",
+  "notes": "Adults 18+ with ID book a slot through the Fetch a Friend booking link, then pick up a shelter dog in Corvallis for an outing (hike, beach, walk around town); dogs stay leashed and away from other animals, and a survey follows by email.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adopt@heartlandhumane.org",
-  "source_list": "shelter website",
-  "phone": "(541) 757-0573"
+  "phone": "(541) 757-9000",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -60,8 +61,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(503) 925-8903"
+  "phone": "(503) 925-8903",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -76,8 +77,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(503) 846-7041"
+  "phone": "(503) 846-7041",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -87,11 +88,12 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.co.clatsop.or.us/animalcontrol",
+  "url": "https://www.clatsopcounty.gov/741/Animal-Control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ac@clatsopcounty.gov",
+  "phone": "(503) 861-7387",
   "source_list": "shelter website"
  },
  {
@@ -99,16 +101,16 @@
   "city": "Prineville",
   "org": "Humane Society of the Ochocos",
   "program": "Hounds Around Town (HAT)",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.thehso.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "url": "https://www.thehso.org/hounds-around-town/",
+  "notes": "Adults 18+ with a car register and waiver online, then book a pickup slot up to 10 days ahead (Tue-Sat, pickup 8:30-10 am, return by 3:30 pm; some Saturday walk-ins) to take a shelter dog out for the day with a supplied backpack; home visits allowed if your home is pet-friendly.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 447-7178"
+  "email_main": "shelterstaff@thehso.org",
+  "phone": "(541) 447-7178",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -123,8 +125,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "help@oregonhumane.org",
-  "source_list": "shelter website",
-  "phone": "(503) 285-7722"
+  "phone": "(503) 285-7722",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -139,8 +141,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@oregoncoasthumanesociety.org",
-  "source_list": "shelter website",
-  "phone": "(541) 997-4277"
+  "phone": "(541) 997-4277",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -170,8 +172,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "lcanimalshelter@co.lincoln.or.us",
-  "source_list": "shelter website",
-  "phone": "(541) 265-6610"
+  "phone": "(541) 265-6610",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -186,8 +188,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 774-6654"
+  "phone": "(541) 774-6654",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -202,24 +204,24 @@
   "checked": "November 2026",
   "email_program": "foster@oregondogrescue.org",
   "email_main": "info@oregondogrescue.org",
-  "source_list": "shelter website",
-  "phone": "(503) 612-0111"
+  "phone": "(503) 612-0111",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
   "city": "Portland",
   "org": "Oregon Humane - Portland Campus",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs, cats and small animals",
-  "offers": "",
-  "url": "https://www.oregonhumane.org/",
-  "notes": "",
+  "program": "Dogs Day Out",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.oregonhumane.org/foster-to-adopt-is-changing-the-odds/",
+  "notes": "Volunteer-run program that takes shelter dogs out for a few hours into the community, such as a neighborhood walk, couch time in a volunteer's home or a Sniff Spot visit; open to Oregon Humane volunteers.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "help@oregonhumane.org",
-  "source_list": "shelter website",
-  "phone": "(503) 285-7722"
+  "phone": "(503) 285-7722",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -234,8 +236,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dogcontrol@clackamas.us",
-  "source_list": "shelter website",
-  "phone": "(503) 655-8628"
+  "phone": "(503) 655-8628",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -250,8 +252,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@pixieproject.org",
-  "source_list": "shelter website",
-  "phone": "(503) 542-3432"
+  "phone": "(503) 542-3432",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -266,8 +268,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "contact@animalaidpdx.org",
-  "source_list": "shelter website",
-  "phone": "(503) 292-6628"
+  "phone": "(503) 292-6628",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -282,8 +284,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(503) 397-4353"
+  "phone": "(503) 397-4353",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -298,6 +300,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "frontdesk@newberganimals.com",
+  "phone": "(503) 554-9285",
   "source_list": "shelter website",
   "events": [
    {
@@ -306,8 +309,7 @@
     "url": "https://newberganimals.com/events/santa-paws-2026/",
     "place": "Newberg, OR (details on event flyer)"
    }
-  ],
-  "phone": "(503) 554-9285"
+  ]
  },
  {
   "state": "OR",
@@ -318,12 +320,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.arkpetrescue.com/",
-  "notes": "Boutique/adoption storefront listing adoptable dogs and cats on Petfinder; own website not confirmed.",
+  "notes": "Nonprofit rescue storefront at 514 E 1st St, Newberg, with a free-roaming cat room; adoptable dogs and cats are listed on its own site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "arkpetboutique@gmail.com",
-  "source_list": "shelter website",
-  "phone": "(971) 387-6211"
+  "phone": "(971) 387-6211",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -338,8 +340,16 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
+  "phone": "(503) 472-0341",
   "source_list": "shelter website",
-  "phone": "(503) 472-0341"
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Holiday Market & Adoption Event",
+    "url": "https://hbpets.org/event/holiday-market-26/",
+    "place": "Homeward Bound Pets Animal Shelter, 10601 SE Loop Road, McMinnville, OR"
+   }
+  ]
  },
  {
   "state": "OR",
@@ -384,8 +394,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(971) 701-5651"
+  "phone": "(971) 701-5651",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -400,8 +410,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 928-2789"
+  "phone": "(541) 928-2789",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -416,8 +426,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "director@green-hill.org",
-  "source_list": "shelter website",
-  "phone": "(541) 689-1503"
+  "phone": "(541) 689-1503",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -432,8 +442,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 923-0882"
+  "phone": "(541) 923-0882",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -448,8 +458,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 354-1083"
+  "phone": "(541) 354-1083",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -464,8 +474,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 276-0181"
+  "phone": "(541) 276-0181",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -480,8 +490,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 963-0807"
+  "phone": "(541) 963-0807",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -496,8 +506,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 519-7387"
+  "phone": "(541) 519-7387",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -542,8 +552,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 474-5458"
+  "phone": "(541) 474-5458",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -558,8 +568,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 479-5154"
+  "phone": "(541) 479-5154",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -574,8 +584,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 779-3215"
+  "phone": "(541) 779-3215",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -590,8 +600,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 672-3907"
+  "phone": "(541) 672-3907",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -606,8 +616,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 247-2514"
+  "phone": "(541) 247-2514",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -622,8 +632,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 396-7500"
+  "phone": "(541) 396-7500",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -638,8 +648,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 967-3925"
+  "phone": "(541) 967-3925",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -654,8 +664,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 296-5189"
+  "phone": "(541) 296-5189",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -685,8 +695,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ccacadoptions@gmail.com",
-  "source_list": "shelter website",
-  "phone": "(503) 366-4614"
+  "phone": "(503) 366-4614",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -716,8 +726,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(541) 460-6420"
+  "phone": "(541) 460-6420",
+  "source_list": "shelter website"
  },
  {
   "state": "OR",
@@ -728,11 +738,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.polkcountyor.gov/sheriff/doganimal-control",
-  "phone": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
+  "phone": "",
   "source_list": "shelter website"
  },
  {
@@ -744,11 +754,45 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.wallowacountyhumanesociety.org/adoptions",
-  "phone": "",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
+  "phone": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "OR",
+  "city": "Portland",
+  "org": "House of Dreams",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.kittydreams.org/",
+  "notes": "Free-roam, no-kill, all-volunteer cat shelter; adoption visits by appointment after an adoption interest form.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "kittydreamspdx@gmail.com",
+  "phone": "(503) 262-0763",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "OR",
+  "city": "Brookings",
+  "org": "South Coast Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.mysouthcoasthumane.org/",
+  "notes": "Shelter at 828 Railroad St, Brookings; shelter hours Mon-Sat 12:30-5 pm.",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
