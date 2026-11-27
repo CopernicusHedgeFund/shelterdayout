@@ -456,5 +456,22 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": []
+ },
+ {
+  "state": "WY",
+  "city": "Worland",
+  "org": "New Hope Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://newhopehumanesociety.wordpress.com/",
+  "notes": "Humane society shelter at 700 Fifteen Mile Rd, by the fairgrounds, caring for lost, stray and unwanted animals until they are adopted; its website has not been updated since 2011.",
+  "checked": "November 2026",
+  "phone": "(307) 347-2324",
+  "email_program": "",
+  "email_main": "newhope@rtconnect.net",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
