@@ -1154,8 +1154,10 @@ https://shelteradoption.com/shelters/cat-haven-baton-rouge/
 https://shelteradoption.com/shelters/cat-haven-lounge-katy/
 https://shelteradoption.com/shelters/cat-town-cafe-and-adoption-center-oakland/
 https://shelteradoption.com/shelters/catawba-county-animal-services-newton/
+https://shelteradoption.com/shelters/catcetera-cat-lounge-raritan/
 https://shelteradoption.com/shelters/catfe-montclair-montclair/
 https://shelteradoption.com/shelters/catkins-animal-rescue-park-falls/
+https://shelteradoption.com/shelters/catmosphere-cafe-and-lounge-collingswood/
 https://shelteradoption.com/shelters/catnap-from-the-heart-la-grange-park/
 https://shelteradoption.com/shelters/catoosa-county-animal-control-ringgold/
 https://shelteradoption.com/shelters/catopia-cat-cafe-albuquerque/
@@ -1163,6 +1165,7 @@ https://shelteradoption.com/shelters/cats-and-caffeine-purrs-and-whiskers-inc-ta
 https://shelteradoption.com/shelters/cats-angels-inc-spca-fernandina-beach/
 https://shelteradoption.com/shelters/cats-cradle-shelter-fargo/
 https://shelteradoption.com/shelters/cats-rescue-and-adoption-services-plattsburgh/
+https://shelteradoption.com/shelters/catsbury-park-asbury-park/
 https://shelteradoption.com/shelters/catskill-animal-rescue-care-ferndale/
 https://shelteradoption.com/shelters/catty-shack-rescue-prescott/
 https://shelteradoption.com/shelters/cattyshack-huntsville/
@@ -3547,6 +3550,7 @@ https://shelteradoption.com/shelters/purr-fect-companions-cat-sanctuary-lakewood
 https://shelteradoption.com/shelters/purrfect-pals-cat-shelter-and-sanctuary-arlington/
 https://shelteradoption.com/shelters/purrfecto-cat-lounge-austin/
 https://shelteradoption.com/shelters/purrmaid-cafe-and-adoption-center-camarillo/
+https://shelteradoption.com/shelters/purrsonal-space-palmyra/
 https://shelteradoption.com/shelters/putnam-county-animal-control-hennepin/
 https://shelteradoption.com/shelters/putnam-county-animal-services-eatonton/
 https://shelteradoption.com/shelters/putnam-county-animal-services-palatka/

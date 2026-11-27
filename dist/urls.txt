@@ -33,6 +33,7 @@ https://shelterdayout.com/cities/ann-arbor-mi/
 https://shelterdayout.com/cities/appleton-wi/
 https://shelterdayout.com/cities/archbold-oh/
 https://shelterdayout.com/cities/arlington-va/
+https://shelterdayout.com/cities/asbury-park-nj/
 https://shelterdayout.com/cities/asheville-nc/
 https://shelterdayout.com/cities/ashland-wi/
 https://shelterdayout.com/cities/athens-ga/
@@ -110,6 +111,7 @@ https://shelterdayout.com/cities/clear-lake-ia/
 https://shelterdayout.com/cities/clearwater-fl/
 https://shelterdayout.com/cities/cleveland-oh/
 https://shelterdayout.com/cities/cody-wy/
+https://shelterdayout.com/cities/collingswood-nj/
 https://shelterdayout.com/cities/columbia-city-in/
 https://shelterdayout.com/cities/columbia-mo/
 https://shelterdayout.com/cities/columbia-sc/
@@ -373,6 +375,7 @@ https://shelterdayout.com/cities/pahrump-nv/
 https://shelterdayout.com/cities/palm-harbor-fl/
 https://shelterdayout.com/cities/palm-springs-ca/
 https://shelterdayout.com/cities/palmer-ak/
+https://shelterdayout.com/cities/palmyra-nj/
 https://shelterdayout.com/cities/palo-alto-ca/
 https://shelterdayout.com/cities/parkersburg-wv/
 https://shelterdayout.com/cities/pasadena-ca/
@@ -397,6 +400,7 @@ https://shelterdayout.com/cities/pullman-wa/
 https://shelterdayout.com/cities/puunene-hi/
 https://shelterdayout.com/cities/queenstown-md/
 https://shelterdayout.com/cities/quincy-il/
+https://shelterdayout.com/cities/raritan-nj/
 https://shelterdayout.com/cities/red-bluff-ca/
 https://shelterdayout.com/cities/redwood-city-ca/
 https://shelterdayout.com/cities/rehoboth-beach-de/
@@ -1200,8 +1204,10 @@ https://shelterdayout.com/listings/cat-haven-baton-rouge/
 https://shelterdayout.com/listings/cat-haven-lounge-katy/
 https://shelterdayout.com/listings/cat-town-cafe-and-adoption-center-oakland/
 https://shelterdayout.com/listings/catawba-county-animal-services-newton/
+https://shelterdayout.com/listings/catcetera-cat-lounge-raritan/
 https://shelterdayout.com/listings/catfe-montclair-montclair/
 https://shelterdayout.com/listings/catkins-animal-rescue-park-falls/
+https://shelterdayout.com/listings/catmosphere-cafe-and-lounge-collingswood/
 https://shelterdayout.com/listings/catnap-from-the-heart-la-grange-park/
 https://shelterdayout.com/listings/catoosa-county-animal-control-ringgold/
 https://shelterdayout.com/listings/catopia-cat-cafe-albuquerque/
@@ -1209,6 +1215,7 @@ https://shelterdayout.com/listings/cats-and-caffeine-purrs-and-whiskers-inc-tamp
 https://shelterdayout.com/listings/cats-angels-inc-spca-fernandina-beach/
 https://shelterdayout.com/listings/cats-cradle-shelter-fargo/
 https://shelterdayout.com/listings/cats-rescue-and-adoption-services-plattsburgh/
+https://shelterdayout.com/listings/catsbury-park-asbury-park/
 https://shelterdayout.com/listings/catskill-animal-rescue-care-ferndale/
 https://shelterdayout.com/listings/catty-shack-rescue-prescott/
 https://shelterdayout.com/listings/cattyshack-huntsville/
@@ -3593,6 +3600,7 @@ https://shelterdayout.com/listings/purr-fect-companions-cat-sanctuary-lakewood/
 https://shelterdayout.com/listings/purrfect-pals-cat-shelter-and-sanctuary-arlington/
 https://shelterdayout.com/listings/purrfecto-cat-lounge-austin/
 https://shelterdayout.com/listings/purrmaid-cafe-and-adoption-center-camarillo/
+https://shelterdayout.com/listings/purrsonal-space-palmyra/
 https://shelterdayout.com/listings/putnam-county-animal-control-hennepin/
 https://shelterdayout.com/listings/putnam-county-animal-services-eatonton/
 https://shelterdayout.com/listings/putnam-county-animal-services-palatka/
