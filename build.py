@@ -641,7 +641,43 @@ def contact_html(r):
             "e.innerHTML='<a href=\\'mailto:'+a+'\\'>'+a+'</a>';})();</script></dd>")
 
 
+def _miles(a, b):
+    import math
+    la1, lo1, la2, lo2 = map(math.radians, (a[0], a[1], b[0], b[1]))
+    h = math.sin((la2 - la1) / 2) ** 2 + math.cos(la1) * math.cos(la2) * math.sin((lo2 - lo1) / 2) ** 2
+    return 3958.8 * 2 * math.asin(math.sqrt(h))
+
+
+def nearest_programs_html(r, progs, k=3):
+    """The k nearest day-out programs to this shelter (excluding itself), with straight-line distance."""
+    here = coords(r["city"], r["state"])
+    if not here:
+        return ""
+    near = []
+    for p in progs:
+        if p["slug"] == r["slug"] or not p.get("_ll"):
+            continue
+        near.append((_miles(here, p["_ll"]), p))
+    near.sort(key=lambda x: x[0])
+    near = near[:k]
+    if not near:
+        return ""
+    head = (f"Nearest day-out programs to {esc(r['city'])}" if r["status"] == NOPROG
+            else f"Other day-out programs near {esc(r['city'])}")
+    items = "".join(
+        f'<li><a href="/listings/{p["slug"]}/">{esc(p["org"])}</a> &middot; {esc(p["city"])}, {p["state"]} &middot; '
+        f'{"under 1 mile" if d < 1 else f"about {d:,.0f} miles"}'
+        f'{" &middot; " + esc(p["offers"]) if p.get("offers") else ""}</li>'
+        for d, p in near)
+    intro = ("This shelter doesn't list a day-out program yet, but these shelters nearby do:"
+             if r["status"] == NOPROG else "More shelters nearby that let you take a dog out:")
+    return f'<h2>{head}</h2><p class="animal">{intro}</p><ul class="evlist">{items}</ul>'
+
+
 def build_listings(rows):
+    progs = [p for p in rows if p["status"] != NOPROG]
+    for p in progs:
+        p["_ll"] = coords(p["city"], p["state"])
     for r in rows:
         name = r["org"]
         offers = esc(r["offers"])
@@ -675,6 +711,7 @@ def build_listings(rows):
 <p>{req}{go} {call_btn(r)}</p>
 {map_line(r)}
 {source_html(r)}
+{nearest_programs_html(r, progs)}
 <p class="animal">Thinking of adopting? <a href="https://shelteradoption.com/shelters/{r['slug']}/" rel="noopener">See {esc(name)} on ShelterAdoption</a> for its adoptable pets and adoption events.</p>
 <div class="note">Rules, hours and fees are set by the shelter and can change. Always confirm with the shelter before you go. {BRAND} isn't affiliated with this shelter and doesn't arrange outings.</div>
 <p class="animal">Is something out of date? <a href="/suggest/?type=report&amp;listing={r['slug']}">Report a problem</a>. Work at this shelter? <a href="/for-shelters/?listing={r['slug']}">Claim this listing</a> to update it or receive outing requests, and add our <a href="/for-shelters/badge/?listing={r['slug']}">free website badge</a>.</p>"""
