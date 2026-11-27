@@ -919,6 +919,7 @@ https://shelterdayout.com/listings/benewah-humane-society-hope-s-haven-animal-sh
 https://shelterdayout.com/listings/benson-animal-shelter-benson/
 https://shelterdayout.com/listings/benton-animal-services-benton/
 https://shelterdayout.com/listings/benton-county-animal-shelter-camden/
+https://shelterdayout.com/listings/benton-county-canine-shelter-kennewick/
 https://shelterdayout.com/listings/benton-franklin-humane-society-kennewick/
 https://shelterdayout.com/listings/bentonville-animal-services-bentonville/
 https://shelterdayout.com/listings/benzie-county-animal-control-and-shelter-beulah/
@@ -2022,6 +2023,7 @@ https://shelterdayout.com/listings/hancock-county-animal-shelter-hawesville/
 https://shelterdayout.com/listings/hancock-county-animal-shelter-kiln/
 https://shelterdayout.com/listings/hancock-county-animal-shelter-new-cumberland/
 https://shelterdayout.com/listings/hancock-county-humane-society-greenfield/
+https://shelterdayout.com/listings/hands-n-paws-animal-assistance-othello-shelter-othello/
 https://shelterdayout.com/listings/hanover-county-animal-protection-and-shelter-ashland/
 https://shelterdayout.com/listings/hanover-humane-society-ashland/
 https://shelterdayout.com/listings/happily-ever-after-animal-sanctuary-green-bay/
@@ -3584,6 +3586,7 @@ https://shelterdayout.com/listings/regional-animal-services-of-king-county-pet-a
 https://shelterdayout.com/listings/regional-animal-shelter-king-william-and-king-and-queen-counties-king-william/
 https://shelterdayout.com/listings/regional-center-for-animal-care-and-protection-rcacp-roanoke/
 https://shelterdayout.com/listings/rehoboth-animal-shelter-rehoboth/
+https://shelterdayout.com/listings/renton-animal-control-renton-police-department-renton/
 https://shelterdayout.com/listings/republic-animal-control-center-republic/
 https://shelterdayout.com/listings/rescue-and-relax-edgewood/
 https://shelterdayout.com/listings/rescue-ranch-adoption-center-yreka/

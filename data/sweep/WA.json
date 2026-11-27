@@ -13,7 +13,8 @@
   "email_program": "behavior@kitsap-humane.org",
   "email_main": "customerservice@kitsap-humane.org",
   "source_list": "existing list",
-  "phone": "(360) 692-6977"
+  "phone": "(360) 692-6977",
+  "events": []
  },
  {
   "state": "WA",
@@ -29,18 +30,19 @@
   "email_program": "eas@everettwa.gov",
   "email_main": "eas@everettwa.gov",
   "source_list": "existing list",
-  "phone": "(425) 257-6000"
+  "phone": "(425) 257-6000",
+  "events": []
  },
  {
   "state": "WA",
   "city": "Walla Walla",
   "org": "Blue Mountain Humane Society",
   "program": "Pawsitive Adventures",
-  "status": "Volunteers only",
+  "status": "Needs check",
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://bluemountainhumane.org",
-  "notes": "Volunteers take longer-stay dogs to trails, wineries and coffee shops several days a week.",
+  "notes": "Previously listed as volunteers taking longer-stay dogs on outings; no 'Pawsitive Adventures' or off-site outing program is described on the shelter's own home, volunteer or VolunteerLocal pages in November 2026.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@bluemountainhumane.org",
@@ -50,7 +52,7 @@
    {
     "date": "2026-12-05",
     "title": "PetSmart Adoption Event",
-    "url": "https://bluemountainhumane.org/all-events",
+    "url": "https://edit-bmhs.squarespace.com/all-events/petsmart-adoption-event-enxre-rbbft-52yj2-xel3z-h2cga-jxz34-ss3z6-bzfms-478kt",
     "place": "PetSmart, 1630 W. Poplar St., Walla Walla"
    }
   ]
@@ -70,7 +72,8 @@
   "email_main": "adoptions@rhas.love",
   "phone": "(206) 395-9372",
   "source_list": "shelter website",
-  "osm": "node/2673588752"
+  "osm": "node/2673588752",
+  "events": []
  },
  {
   "state": "WA",
@@ -81,13 +84,22 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://kingcounty.gov/adoptapet",
-  "notes": "Pet Adoption Center at 21615 64th Ave S, Kent; open daily from noon. Volunteers walk dogs near the facility; no off-site outing program found.",
+  "notes": "Pet Adoption Center at 21615 64th Ave S, Kent; walk-in hours noon-5pm weekdays and noon-4pm weekends. Volunteers walk dogs near the facility; no off-site outing program found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AdoptAPet@kingcounty.gov",
   "phone": "(206) 296-7387",
   "source_list": "government website",
-  "osm": "node/4516238543"
+  "osm": "node/4516238543",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "end": "2026-11-30",
+    "title": "Falling for Felines: $30 cat and kitten adoptions",
+    "url": "https://kingcounty.gov/en/dept/executive-services/animals-pets-pests/regional-animal-services",
+    "place": "King County Pet Adoption Center, 21615 64th Ave S, Kent"
+   }
+  ]
  },
  {
   "state": "WA",
@@ -104,7 +116,8 @@
   "email_main": "kittyhavenwa@gmail.com",
   "phone": "(360) 304-1457",
   "source_list": "shelter website",
-  "osm": "node/9223038339"
+  "osm": "node/9223038339",
+  "events": []
  },
  {
   "state": "WA",
@@ -115,13 +128,14 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.partnersforpets.org/",
-  "notes": "Cat adoption center at 8901 E Trent Ave. #101, Millwood; visits by appointment.",
+  "notes": "Cat adoption center at 8901 E Trent Ave. #101, Millwood, open Tue-Fri 3-7pm, Sat 11am-6pm, Sun 11am-3pm (appointments recommended); more cats at the Spokane Valley PetSmart.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@partnersforpets.org",
   "phone": "(509) 893-9829",
   "source_list": "shelter website",
-  "osm": "node/9601706397"
+  "osm": "node/9601706397",
+  "events": []
  },
  {
   "state": "WA",
@@ -132,13 +146,14 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://waifanimals.org/contact/",
-  "notes": "WAIF cat adoption center at 465 NE Midway Blvd, Oak Harbor.",
+  "notes": "WAIF cat adoption center at 465 NE Midway Blvd, Oak Harbor, open Wed-Sun noon-4pm (phone ext. 1300).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "waifohcac@waifanimals.org",
-  "phone": "(360) 678-8900 ext. 1300",
+  "phone": "(360) 678-8900",
   "source_list": "shelter website",
-  "osm": "node/10133924238"
+  "osm": "node/10133924238",
+  "events": []
  },
  {
   "state": "WA",
@@ -155,7 +170,8 @@
   "email_main": "info@seattleareafelinerescue.org",
   "phone": "(206) 659-6220",
   "source_list": "shelter website",
-  "osm": "node/11204753569"
+  "osm": "node/11204753569",
+  "events": []
  },
  {
   "state": "WA",
@@ -172,7 +188,8 @@
   "email_main": "",
   "phone": "(206) 842-2451",
   "source_list": "shelter website",
-  "osm": "node/12569785359"
+  "osm": "node/12569785359",
+  "events": []
  },
  {
   "state": "WA",
@@ -189,7 +206,8 @@
   "email_main": "info@feline-friends.net",
   "phone": "(360) 866-9300",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/200957870"
+  "osm": "way/200957870",
+  "events": []
  },
  {
   "state": "WA",
@@ -206,7 +224,8 @@
   "email_main": "info@emeraldcitypetrescue.org",
   "phone": "(206) 557-4661",
   "source_list": "shelter website",
-  "osm": "way/297048447"
+  "osm": "way/297048447",
+  "events": []
  },
  {
   "state": "WA",
@@ -217,13 +236,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://forgetmenotshelter.org/",
-  "notes": "Includes the Microsoft Meow Manor II cat building (previously listed separately).",
+  "notes": "Shelter at 49 W Curlew Lake Rd, Republic, visits by appointment only; includes the Microsoft Meow Manor II cat building (previously listed separately).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(509) 775-2308",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/346707743"
+  "osm": "way/346707743",
+  "events": []
  },
  {
   "state": "WA",
@@ -240,7 +260,8 @@
   "email_main": "shelter@hsjcwa.org",
   "phone": "(360) 385-3292",
   "source_list": "shelter website",
-  "osm": "way/371778254"
+  "osm": "way/371778254",
+  "events": []
  },
  {
   "state": "WA",
@@ -251,13 +272,14 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.spokanecounty.gov/5519/SCRAPS---Regional-Animal-Protection",
-  "notes": "A 2019 Spokesman-Review/KREM report described SCRAPS letting the public take dogs on short-term field trips; could not confirm it is current on SCRAPS's own site (county page blocked).",
+  "notes": "A 2019 news report described SCRAPS letting the public take dogs on short field trips, but SCRAPS's own Get Involved and Volunteer pages (checked November 2026) mention only on-site dog walking, so the program could not be confirmed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(509) 477-2532",
   "source_list": "government website",
-  "osm": "way/422587263"
+  "osm": "way/422587263",
+  "events": []
  },
  {
   "state": "WA",
@@ -274,7 +296,8 @@
   "email_main": "spchs330@gmail.com",
   "phone": "(360) 642-1180",
   "source_list": "shelter website",
-  "osm": "way/442383439"
+  "osm": "way/442383439",
+  "events": []
  },
  {
   "state": "WA",
@@ -285,13 +308,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://waifanimals.org/",
-  "notes": "Main WAIF shelter at 60 Rhododendron Park Rd, Coupeville. No day-out program listed on its programs page.",
+  "notes": "Main WAIF shelter at 60 Rhododendron Park Rd, Coupeville, open for adoptions Wed-Sun noon-4pm (phone ext. 1100); no day-out program listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "shelter@waifanimals.org",
-  "phone": "(360) 678-8900 ext. 1100",
+  "phone": "(360) 678-8900",
   "source_list": "shelter website",
-  "osm": "way/587930199"
+  "osm": "way/587930199",
+  "events": []
  },
  {
   "state": "WA",
@@ -308,7 +332,8 @@
   "email_main": "",
   "phone": "(253) 249-7849",
   "source_list": "shelter website",
-  "osm": "way/652718722"
+  "osm": "way/652718722",
+  "events": []
  },
  {
   "state": "WA",
@@ -325,7 +350,8 @@
   "email_main": "casa@camanoanimalshelter.org",
   "phone": "(360) 387-1902",
   "source_list": "shelter website",
-  "osm": "way/702947181"
+  "osm": "way/702947181",
+  "events": []
  },
  {
   "state": "WA",
@@ -342,7 +368,8 @@
   "email_main": "",
   "phone": "(425) 787-2500",
   "source_list": "shelter website",
-  "osm": "way/763221374"
+  "osm": "way/763221374",
+  "events": []
  },
  {
   "state": "WA",
@@ -359,7 +386,8 @@
   "email_main": "",
   "phone": "(509) 684-3131",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/810834578"
+  "osm": "way/810834578",
+  "events": []
  },
  {
   "state": "WA",
@@ -376,7 +404,8 @@
   "email_main": "shelter@apsfh.com",
   "phone": "(360) 378-2158",
   "source_list": "shelter website",
-  "osm": "way/1027092871"
+  "osm": "way/1027092871",
+  "events": []
  },
  {
   "state": "WA",
@@ -393,7 +422,8 @@
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1029581405"
+  "osm": "way/1029581405",
+  "events": []
  },
  {
   "state": "WA",
@@ -404,13 +434,21 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.thehumanesociety.org/",
-  "notes": "Shelter at 2608 Center St, Tacoma; takes in animals under municipal contracts for Tacoma and Pierce County. Events page could not be loaded.",
+  "notes": "Shelter at 2608 Center St, Tacoma; takes in animals under municipal contracts for Tacoma and Pierce County; open daily 10am-5:30pm (adoption center closed Mondays). Its foster page mentions some pets needing only a weekend, but no named day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(253) 383-2733",
   "source_list": "shelter website",
-  "osm": "way/1034677604"
+  "osm": "way/1034677604",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Pop-Up Adoption Event",
+    "url": "https://www.thehumanesociety.org/new-events/category/adoption-event/",
+    "place": "Berkshire Hathaway HomeServices South Sound Properties"
+   }
+  ]
  },
  {
   "state": "WA",
@@ -421,13 +459,14 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.adoptapet-wa.org/",
-  "notes": "Dog shelter at 940 E Jensen Rd, Shelton; currently closed to drop-ins, visits by appointment after an approved application.",
+  "notes": "Dog shelter at 940 E Jensen Rd, Shelton; open by appointment only, after an online application.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptapetadoptions@gmail.com",
   "phone": "(360) 432-3091",
   "source_list": "shelter website",
-  "osm": "way/1245154276"
+  "osm": "way/1245154276",
+  "events": []
  },
  {
   "state": "WA",
@@ -444,7 +483,8 @@
   "email_main": "wvhs@wenatcheehumane.org",
   "phone": "(509) 662-9577",
   "source_list": "shelter website",
-  "osm": "way/1278681020"
+  "osm": "way/1278681020",
+  "events": []
  },
  {
   "state": "WA",
@@ -455,13 +495,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.tricitiesanimalservices.com/",
-  "notes": "",
+  "notes": "Shelter at 1311 S 18th Ave, Pasco; open Tue-Sat 10am-5pm. Adoption fees reduced to $50 for dogs and cats ('Clear the Shelter') until further notice.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalShelterTC@pasco-wa.gov",
   "phone": "(509) 545-3740",
   "source_list": "shelter website",
-  "osm": "way/1344664466"
+  "osm": "way/1344664466",
+  "events": []
  },
  {
   "state": "WA",
@@ -472,13 +513,14 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.pawsofbremerton.org/",
-  "notes": "Nonprofit cat shelter in East Bremerton (3306 Perry Ave) with a cat-only community vet clinic.",
+  "notes": "Nonprofit cat shelter in East Bremerton (3306 Perry Ave) with a cat-only community vet clinic; adoption tours on open days.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "paws@pawsofbremerton.org",
   "phone": "(360) 373-7043",
   "source_list": "shelter website",
-  "osm": "way/1380318310"
+  "osm": "way/1380318310",
+  "events": []
  },
  {
   "state": "WA",
@@ -495,7 +537,8 @@
   "email_main": "",
   "phone": "(360) 740-1290",
   "source_list": "government website",
-  "osm": "way/1390551009"
+  "osm": "way/1390551009",
+  "events": []
  },
  {
   "state": "WA",
@@ -512,7 +555,8 @@
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1395995969"
+  "osm": "way/1395995969",
+  "events": []
  },
  {
   "state": "WA",
@@ -529,7 +573,8 @@
   "email_main": "Contact@vipp.org",
   "phone": "(206) 389-1085",
   "source_list": "shelter website",
-  "osm": "way/1549703169"
+  "osm": "way/1549703169",
+  "events": []
  },
  {
   "state": "WA",
@@ -545,7 +590,8 @@
   "email_program": "",
   "email_main": "adoption@seattlehumane.org",
   "source_list": "shelter website",
-  "phone": "(425) 641-0080"
+  "phone": "(425) 641-0080",
+  "events": []
  },
  {
   "state": "WA",
@@ -561,7 +607,8 @@
   "email_program": "FAS_volunteer@seattle.gov",
   "email_main": "",
   "source_list": "government website",
-  "phone": "(206) 386-7387"
+  "phone": "(206) 386-7387",
+  "events": []
  },
  {
   "state": "WA",
@@ -577,7 +624,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(360) 693-4746"
+  "phone": "(360) 693-4746",
+  "events": []
  },
  {
   "state": "WA",
@@ -593,7 +641,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(509) 457-6854"
+  "phone": "(509) 457-6854",
+  "events": []
  },
  {
   "state": "WA",
@@ -609,7 +658,8 @@
   "email_program": "",
   "email_main": "info@ellensburghumane.org",
   "source_list": "shelter website",
-  "phone": "(509) 925-7387"
+  "phone": "(509) 925-7387",
+  "events": []
  },
  {
   "state": "WA",
@@ -625,7 +675,8 @@
   "email_program": "",
   "email_main": "shelter@jointanimalservices.org",
   "source_list": "government website",
-  "phone": "(360) 352-2510"
+  "phone": "(360) 352-2510",
+  "events": []
  },
  {
   "state": "WA",
@@ -641,7 +692,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(509) 422-3364"
+  "phone": "(509) 422-3364",
+  "events": []
  },
  {
   "state": "WA",
@@ -657,7 +709,8 @@
   "email_program": "",
   "email_main": "adoption@homewardpet.org",
   "source_list": "shelter website",
-  "phone": "(425) 488-4444"
+  "phone": "(425) 488-4444",
+  "events": []
  },
  {
   "state": "WA",
@@ -1244,5 +1297,56 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "WA",
+  "city": "Kennewick",
+  "org": "Benton County Canine Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.bentoncountywa.gov/services/public_services/canine_shelter/index.php",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "Canine.Shelter@co.benton.wa.us",
+  "phone": "(509) 460-4923",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "WA",
+  "city": "Renton",
+  "org": "Renton Animal Control (Renton Police Department)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.rentonwa.gov/Government/Departments-and-Offices/Police/Our-Department/Patrol-Services/Animal-Control/Animal-Adoption",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "animalcontrol@rentonwa.gov",
+  "phone": "(425) 430-7550",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "WA",
+  "city": "Othello",
+  "org": "Hands 'N Paws Animal Assistance - Othello Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.othellowa.gov/dog-licensing",
+  "notes": "",
+  "checked": "November 2026",
+  "email_program": "",
+  "email_main": "",
+  "phone": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]

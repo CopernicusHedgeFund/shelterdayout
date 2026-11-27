@@ -229,6 +229,7 @@ https://shelteradoption.com/cities/kalispell-mt/
 https://shelteradoption.com/cities/kalkaska-mi/
 https://shelteradoption.com/cities/kansas-city-ks/
 https://shelteradoption.com/cities/kansas-city-mo/
+https://shelteradoption.com/cities/kennewick-wa/
 https://shelteradoption.com/cities/kenosha-wi/
 https://shelteradoption.com/cities/kerrville-tx/
 https://shelteradoption.com/cities/knoxville-tn/
@@ -331,6 +332,7 @@ https://shelteradoption.com/cities/orangeburg-sc/
 https://shelteradoption.com/cities/orlando-fl/
 https://shelteradoption.com/cities/oroville-ca/
 https://shelteradoption.com/cities/oswego-ny/
+https://shelteradoption.com/cities/othello-wa/
 https://shelteradoption.com/cities/owensboro-ky/
 https://shelteradoption.com/cities/owosso-mi/
 https://shelteradoption.com/cities/ozark-al/
@@ -886,6 +888,7 @@ https://shelteradoption.com/shelters/benewah-humane-society-hope-s-haven-animal-
 https://shelteradoption.com/shelters/benson-animal-shelter-benson/
 https://shelteradoption.com/shelters/benton-animal-services-benton/
 https://shelteradoption.com/shelters/benton-county-animal-shelter-camden/
+https://shelteradoption.com/shelters/benton-county-canine-shelter-kennewick/
 https://shelteradoption.com/shelters/benton-franklin-humane-society-kennewick/
 https://shelteradoption.com/shelters/bentonville-animal-services-bentonville/
 https://shelteradoption.com/shelters/benzie-county-animal-control-and-shelter-beulah/
@@ -1989,6 +1992,7 @@ https://shelteradoption.com/shelters/hancock-county-animal-shelter-hawesville/
 https://shelteradoption.com/shelters/hancock-county-animal-shelter-kiln/
 https://shelteradoption.com/shelters/hancock-county-animal-shelter-new-cumberland/
 https://shelteradoption.com/shelters/hancock-county-humane-society-greenfield/
+https://shelteradoption.com/shelters/hands-n-paws-animal-assistance-othello-shelter-othello/
 https://shelteradoption.com/shelters/hanover-county-animal-protection-and-shelter-ashland/
 https://shelteradoption.com/shelters/hanover-humane-society-ashland/
 https://shelteradoption.com/shelters/happily-ever-after-animal-sanctuary-green-bay/
@@ -3551,6 +3555,7 @@ https://shelteradoption.com/shelters/regional-animal-services-of-king-county-pet
 https://shelteradoption.com/shelters/regional-animal-shelter-king-william-and-king-and-queen-counties-king-william/
 https://shelteradoption.com/shelters/regional-center-for-animal-care-and-protection-rcacp-roanoke/
 https://shelteradoption.com/shelters/rehoboth-animal-shelter-rehoboth/
+https://shelteradoption.com/shelters/renton-animal-control-renton-police-department-renton/
 https://shelteradoption.com/shelters/republic-animal-control-center-republic/
 https://shelteradoption.com/shelters/rescue-and-relax-edgewood/
 https://shelteradoption.com/shelters/rescue-ranch-adoption-center-yreka/
