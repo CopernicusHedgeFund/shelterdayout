@@ -843,6 +843,7 @@ https://shelteradoption.com/shelters/beatrice-humane-society-beatrice/
 https://shelteradoption.com/shelters/beaufort-county-animal-control-washington/
 https://shelteradoption.com/shelters/beaufort-county-animal-services-okatie/
 https://shelteradoption.com/shelters/beaumont-animal-care-beaumont/
+https://shelteradoption.com/shelters/beaver-county-animal-control-facility-beaver/
 https://shelteradoption.com/shelters/beaver-county-humane-society-aliquippa/
 https://shelteradoption.com/shelters/beaverhead-animal-shelter-dillon/
 https://shelteradoption.com/shelters/bedford-animal-shelter-bedford/
@@ -970,6 +971,7 @@ https://shelteradoption.com/shelters/bridge-city-animal-shelter-bridge-city/
 https://shelteradoption.com/shelters/bridgeport-animal-control-bridgeport-animal-shelter-bridgeport/
 https://shelteradoption.com/shelters/bridgeport-animal-shelter-mono-county-animal-services-bridgeport/
 https://shelteradoption.com/shelters/briggs-animal-adoption-center-charles-town/
+https://shelteradoption.com/shelters/brigham-city-animal-shelter-brigham-city/
 https://shelteradoption.com/shelters/bright-eyes-animal-shelter-choteau/
 https://shelteradoption.com/shelters/brightside-animal-center-redmond/
 https://shelteradoption.com/shelters/briscoe-animal-resource-center-of-uvalde-barc-uvalde-uvalde/
@@ -1124,6 +1126,7 @@ https://shelteradoption.com/shelters/cattyshack-huntsville/
 https://shelteradoption.com/shelters/catz-angels-care-inc-fremont/
 https://shelteradoption.com/shelters/cecil-county-animal-services-chesapeake-city/
 https://shelteradoption.com/shelters/cedar-bend-humane-society-waterloo/
+https://shelteradoption.com/shelters/cedar-city-animal-shelter-cedar-city/
 https://shelteradoption.com/shelters/cedar-rapids-animal-care-and-control-cedar-rapids/
 https://shelteradoption.com/shelters/cedartown-polk-county-humane-society-cedartown/
 https://shelteradoption.com/shelters/centerton-animal-shelter-centerton/
@@ -1667,6 +1670,7 @@ https://shelteradoption.com/shelters/feline-rescue-inc-saint-paul/
 https://shelteradoption.com/shelters/felines-and-canines-chicago/
 https://shelteradoption.com/shelters/felius-cat-cafe-and-rescue-omaha/
 https://shelteradoption.com/shelters/fetch-remedy-dogs-zanesville/
+https://shelteradoption.com/shelters/fillmore-city-animal-control-fillmore/
 https://shelteradoption.com/shelters/finding-furever-friends-formerly-humane-society-of-independence-county-batesville/
 https://shelteradoption.com/shelters/finger-lakes-spca-bath-bath/
 https://shelteradoption.com/shelters/finney-county-humane-society-garden-city/
@@ -2854,6 +2858,7 @@ https://shelteradoption.com/shelters/missoula-animal-services-missoula/
 https://shelteradoption.com/shelters/missouri-city-animal-services-missouri-city/
 https://shelteradoption.com/shelters/mitchell-county-animal-control-camilla/
 https://shelteradoption.com/shelters/mitchell-county-animal-rescue-spruce-pine/
+https://shelteradoption.com/shelters/moab-city-animal-shelter-moab/
 https://shelteradoption.com/shelters/moberly-animal-control-and-shelter-moberly/
 https://shelteradoption.com/shelters/mobile-county-animal-shelter-mobile/
 https://shelteradoption.com/shelters/mobile-spca-mobile/
@@ -3043,6 +3048,7 @@ https://shelteradoption.com/shelters/norwich-animal-control-norwich/
 https://shelteradoption.com/shelters/norwood-animal-shelter-norwood-animal-control-norwood/
 https://shelteradoption.com/shelters/notorious-d-o-g-dog-rescue-huntsville/
 https://shelteradoption.com/shelters/nottoway-county-animal-shelter-blackstone/
+https://shelteradoption.com/shelters/nuzzles-and-co-pet-rescue-and-adoption-park-city/
 https://shelteradoption.com/shelters/nye-county-animal-shelter-pahrump/
 https://shelteradoption.com/shelters/nye-county-animal-shelter-tonopah-tonopah/
 https://shelteradoption.com/shelters/oahu-spca-wahiawa/
@@ -3485,6 +3491,7 @@ https://shelteradoption.com/shelters/roice-hurst-humane-society-grand-junction/
 https://shelteradoption.com/shelters/rolla-animal-shelter-rolla/
 https://shelteradoption.com/shelters/romulus-animal-shelter-romulus/
 https://shelteradoption.com/shelters/ron-and-sherrie-lou-noel-boone-county-animal-shelter-burlington/
+https://shelteradoption.com/shelters/roosevelt-animal-shelter-roosevelt/
 https://shelteradoption.com/shelters/roscommon-county-animal-shelter-prudenville/
 https://shelteradoption.com/shelters/rosenberg-animal-control-and-shelter-rosenberg/
 https://shelteradoption.com/shelters/rosie-s-southside-animal-shelter-indianapolis/
@@ -4044,6 +4051,7 @@ https://shelteradoption.com/shelters/twin-city-animal-shelter-lead/
 https://shelteradoption.com/shelters/twin-falls-animal-shelter-people-for-pets-magic-valley-humane-society-twin-falls/
 https://shelteradoption.com/shelters/tyler-animal-control-and-shelter-tyler/
 https://shelteradoption.com/shelters/tyrrell-county-animal-shelter-columbia/
+https://shelteradoption.com/shelters/uintah-county-animal-shelter-vernal/
 https://shelteradoption.com/shelters/ulster-county-spca-kingston/
 https://shelteradoption.com/shelters/ulysses-animal-shelter-ulysses/
 https://shelteradoption.com/shelters/unicoi-county-animal-shelter-erwin/
