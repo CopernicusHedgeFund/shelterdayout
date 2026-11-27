@@ -1191,5 +1191,39 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": []
+ },
+ {
+  "state": "IA",
+  "city": "Iowa Falls",
+  "org": "Greenbelt Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "http://www.greenbelthumanesociety.org/about-us.html",
+  "notes": "Volunteer-run no-kill cat shelter at 319 River St.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "IA",
+  "city": "Rockwell City",
+  "org": "Calhoun County Canine Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.calhouncounty.iowa.gov/county_offices/public_health/environmental_health.php",
+  "notes": "Run by Calhoun County Environmental Health; houses stray and lost dogs, adoption fee required.",
+  "checked": "November 2026",
+  "phone": "(712) 297-8323",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
