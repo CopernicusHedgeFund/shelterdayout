@@ -347,6 +347,7 @@ https://shelteradoption.com/cities/pontiac-mi/
 https://shelteradoption.com/cities/port-huron-mi/
 https://shelteradoption.com/cities/port-washington-ny/
 https://shelteradoption.com/cities/portland-or/
+https://shelteradoption.com/cities/prescott-az/
 https://shelteradoption.com/cities/prince-frederick-md/
 https://shelteradoption.com/cities/princeton-wv/
 https://shelteradoption.com/cities/providence-ri/
@@ -1140,6 +1141,7 @@ https://shelteradoption.com/shelters/cats-angels-inc-spca-fernandina-beach/
 https://shelteradoption.com/shelters/cats-cradle-shelter-fargo/
 https://shelteradoption.com/shelters/cats-rescue-and-adoption-services-plattsburgh/
 https://shelteradoption.com/shelters/catskill-animal-rescue-care-ferndale/
+https://shelteradoption.com/shelters/catty-shack-rescue-prescott/
 https://shelteradoption.com/shelters/cattyshack-huntsville/
 https://shelteradoption.com/shelters/catz-angels-care-inc-fremont/
 https://shelteradoption.com/shelters/cecil-county-animal-services-chesapeake-city/
@@ -1710,6 +1712,7 @@ https://shelteradoption.com/shelters/fayette-friends-of-animals-uniontown/
 https://shelteradoption.com/shelters/fayette-regional-humane-society-washington-court-house/
 https://shelteradoption.com/shelters/fayetteville-animal-protection-society-fayetteville/
 https://shelteradoption.com/shelters/fayetteville-animal-services-fayetteville/
+https://shelteradoption.com/shelters/fearless-kitty-rescue-fountain-hills/
 https://shelteradoption.com/shelters/feline-canine-friends-inc-westfield/
 https://shelteradoption.com/shelters/feline-friends-olympia/
 https://shelteradoption.com/shelters/feline-rescue-inc-saint-paul/
@@ -2054,7 +2057,7 @@ https://shelteradoption.com/shelters/hearts-alive-village-cat-caf-las-vegas/
 https://shelteradoption.com/shelters/hearts-alive-village-dog-den-las-vegas/
 https://shelteradoption.com/shelters/hearts-to-homes-humane-society-nashville/
 https://shelteradoption.com/shelters/heber-springs-humane-society-virginia-l-harrison-animal-shelter-heber-springs/
-https://shelteradoption.com/shelters/heidi-s-village-tempe-junction/
+https://shelteradoption.com/shelters/heidi-s-village-phoenix/
 https://shelteradoption.com/shelters/helen-o-krause-animal-foundation-dillsburg/
 https://shelteradoption.com/shelters/helen-woodward-animal-center-rancho-santa-fe/
 https://shelteradoption.com/shelters/help-from-my-friends-inc-bellaire/
@@ -2936,6 +2939,7 @@ https://shelteradoption.com/shelters/mineral-wells-animal-shelter-mineral-wells/
 https://shelteradoption.com/shelters/mingo-county-s-o-s-animal-shelter-williamson/
 https://shelteradoption.com/shelters/minidoka-joint-powers-animal-shelter-rupert/
 https://shelteradoption.com/shelters/minneapolis-animal-care-and-control-minneapolis/
+https://shelteradoption.com/shelters/miss-kitty-s-cat-house-prescott/
 https://shelteradoption.com/shelters/miss-winkles-pet-adoption-center-clovis-animal-services-clovis/
 https://shelteradoption.com/shelters/missaukee-humane-society-lake-city/
 https://shelteradoption.com/shelters/mission-valley-animal-shelter-polson/
@@ -3614,6 +3618,7 @@ https://shelteradoption.com/shelters/rosie-s-southside-animal-shelter-indianapol
 https://shelteradoption.com/shelters/ross-county-dog-warden-chillicothe/
 https://shelteradoption.com/shelters/ross-county-humane-society-chillicothe/
 https://shelteradoption.com/shelters/roswell-animal-services-roswell/
+https://shelteradoption.com/shelters/round-valley-animal-rescue-springerville/
 https://shelteradoption.com/shelters/routt-county-humane-society-steamboat-springs/
 https://shelteradoption.com/shelters/rowan-county-animal-shelter-salisbury/
 https://shelteradoption.com/shelters/roy-city-animal-shelter-roy/

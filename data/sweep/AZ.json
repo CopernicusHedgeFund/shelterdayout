@@ -7,8 +7,8 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip, sleepover",
-  "url": "https://www.azhumane.org/news/arizona-humane-society-launches-sleepover-program-for-dogs/",
-  "notes": "Field trips: sign up online through AHS volunteer sign-up; 21+ with valid ID; take an adoptable dog on a hike, coffee date or meal. One-night sleepovers launched late 2025 for dogs at the shelter 14+ days; sign up via the volunteer page.",
+  "url": "https://www.azhumane.org/become-a-volunteer/",
+  "notes": "Field trips (21+, public sign-up via the AHS volunteer page) take dogs at the shelter 15+ days on weekend hikes, coffee dates or meals from the South Mountain campus; one-night sleepovers for dogs at the shelter 14+ days are also booked through the volunteer page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -16,22 +16,23 @@
    {
     "date": "2026-12-12",
     "title": "Bottle and Bean Holiday Market Adoption Event (Waggin' Wheels)",
-    "url": "https://www.azhumane.org/events/",
+    "url": "https://www.azhumane.org/events/?bottle-and-bean-holiday-market-adoption-event",
     "place": "Bottle and Bean, 2577 W. Queen Creek Rd, Suite 100, Chandler"
    },
    {
     "date": "2026-12-19",
     "title": "Pars Fore Pets Golf Tournament: Adoption Event and Donation Drive",
-    "url": "https://www.azhumane.org/events/",
+    "url": "https://www.azhumane.org/events/?pars-fore-pets-golf-tournament-adoption-event-and-donation-drive",
     "place": "Papago Golf Club, 5595 E. Karsten Way, Phoenix"
    },
    {
     "date": "2027-01-09",
     "title": "Waggin' Wheels Adoption Event: Mesa Marketplace",
-    "url": "https://www.azhumane.org/events/",
+    "url": "https://www.azhumane.org/events/?waggin-wheels-adoption-event-mesa-marketplace",
     "place": "Mesa Marketplace, 10550 E. Baseline Rd, Mesa"
    }
-  ]
+  ],
+  "phone": "(602) 997-7585"
  },
  {
   "state": "AZ",
@@ -51,14 +52,14 @@
    {
     "date": "2026-11-28",
     "title": "MCACC Adoption Event at PetSmart Avondale",
-    "url": "https://www.maricopa.gov/5268/Animal-Care-and-Control",
-    "place": "PetSmart, Avondale"
+    "url": "https://www.maricopa.gov/Calendar.aspx?EID=13342",
+    "place": "PetSmart Avondale, 1561 N Dysart Rd, Avondale"
    },
    {
     "date": "2026-11-28",
     "title": "MCACC Adoption Event at PetSmart Desert Ridge",
-    "url": "https://www.maricopa.gov/5268/Animal-Care-and-Control",
-    "place": "PetSmart Desert Ridge, Phoenix"
+    "url": "https://www.maricopa.gov/Calendar.aspx?EID=13343",
+    "place": "PetSmart Desert Ridge, 21001 N Tatum Blvd, Phoenix"
    }
   ]
  },
@@ -71,7 +72,7 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://hsoyuma.com/dogs-day-out.html",
-  "notes": "18+. Trips to the river, a short hike, brunch or the park. Sign up via the ShelterLuv form on the program page. (928) 782-1621.",
+  "notes": "Adults 18+ sign up through the ShelterLuv form on the program page to take a shelter dog on an outing such as a river trip, short hike, brunch or park visit.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -85,7 +86,7 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip, Sleepover",
-  "url": "https://www.pima.gov/day-trips-and-pawjama-parties",
+  "url": "https://www.pima.gov/3536/Take-a-Shelter-Dog-on-a-Day-Trip-or-Pawj",
   "notes": "18+; children may come but an adult must control the dog at all times. Visit PACC (4000 N Silverbell Rd) during open hours and go to the foster office for basic paperwork; staff keep a list of eligible dogs. Pawjama Parties are 1-3 night short-term foster stays; no dog parks or schools.",
   "checked": "November 2026",
   "email_program": "",
@@ -105,7 +106,15 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(480) 488-9890"
+  "phone": "(480) 488-9890",
+  "events": [
+   {
+    "date": "2026-12-13",
+    "title": "Brynne Smith Memorial Campus 10 Year Anniversary Open House (meet adoptable pets)",
+    "url": "https://foothillsanimal.org/annual-events#bsmc-10year",
+    "place": "Brynne Smith Memorial Campus, 10197 E Bell Rd, Scottsdale"
+   }
+  ]
  },
  {
   "state": "AZ",
@@ -127,11 +136,11 @@
   "city": "Glendale",
   "org": "HALO Animal Rescue",
   "program": "Staycation",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Take a pet home as a short foster before adopting",
+  "offers": "Staycation (foster-to-adopt trial stay)",
   "url": "https://halorescue.org/adoption/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Prospective adopters can take home pets marked with the Staycation logo as a short foster before committing, with HALO matchmakers providing supplies and check-ins; call (602) 971-9222 to start.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@halorescue.org",
@@ -141,7 +150,7 @@
  },
  {
   "state": "AZ",
-  "city": "Tempe Junction",
+  "city": "Phoenix",
   "org": "Heidi’s Village",
   "program": "No day-out program yet",
   "status": "No program yet",
@@ -168,7 +177,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@talgv.org",
   "phone": "(520) 625-3170",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13083644021"
@@ -185,7 +194,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "AJAnimalControl@apachejunctionaz.gov",
   "phone": "(480) 983-4405",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/164545739"
@@ -298,13 +307,13 @@
   "org": "Sun Cities 4 Paws Rescue",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "url": "https://4pawsrescue.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "information@4pawsrescue.org",
   "phone": "(623) 773-2246",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1214221612"
@@ -339,7 +348,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(928) 489-8762",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1434138080"
  },
@@ -435,7 +444,13 @@
     "date": "2026-12-05",
     "title": "PetSmart Adopt Joy Adoption Event",
     "url": "https://humanesocietyofsedona.org/events/",
-    "place": "PetSmart Sedona"
+    "place": "PetSmart Sedona, 2356 W. 89A, Sedona"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Holiday Open House & Bake Sale",
+    "url": "https://humanesocietyofsedona.org/events/",
+    "place": "Humane Society of Sedona, 2115 Shelby Drive, Sedona"
    }
   ],
   "phone": "(928) 282-4679"
@@ -448,7 +463,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://verdevalleyhumanesociety.org/",
+  "url": "https://verdevalleyhumane.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -468,7 +483,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptions@westernarizonahumane.org",
   "source_list": "shelter website",
   "phone": "(928) 855-5083"
  },
@@ -485,7 +500,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(928) 763-6000"
  },
  {
   "state": "AZ",
@@ -501,7 +517,21 @@
   "email_program": "",
   "email_main": "hs@humanesocietycentralaz.org",
   "source_list": "shelter website",
-  "phone": "(928) 474-5590"
+  "phone": "(928) 474-5590",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart Adoption Event",
+    "url": "https://humanesocietycentralaz.org/events/event/petsmart-adoption-event-12/",
+    "place": "PetSmart, Payson"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Sip with Santa Adoption Event",
+    "url": "https://humanesocietycentralaz.org/events/event/sip-with-santa-adoption-event/",
+    "place": "Lodge at 5600, Payson"
+   }
+  ]
  },
  {
   "state": "AZ",
@@ -732,7 +762,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.bensonaz.gov/268/Benson-Animal-ShelterAnimal-Control",
+  "url": "https://bensonaz.gov/departments/animal_control.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -748,7 +778,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://willcox.az.gov/animal-shelter",
+  "url": "https://willcox.az.gov/sheltering-adoption",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -764,7 +794,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.douglasaz.gov/581/Animal-Shelter",
+  "url": "https://www.douglasaz.gov/261/Humane",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -845,7 +875,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.nndfw.org/AnimalControl.htm",
-  "phone": "",
+  "phone": "(928) 871-6491",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -877,7 +907,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://scatdhhs.gov/index.php/programs/animal-control",
-  "phone": "",
+  "phone": "(928) 475-2688",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -893,7 +923,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://aawl.org/chandler",
-  "phone": "",
+  "phone": "(602) 781-3906",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -909,7 +939,7 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.hermitagecatshelter.org/",
-  "phone": "",
+  "phone": "(520) 571-7839",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -925,11 +955,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://pageanimaladoptionagency.com/",
-  "phone": "",
+  "phone": "(928) 640-1500",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "pageanimaladoption@gmail.com",
   "source_list": "shelter website"
  },
  {
@@ -941,11 +971,79 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.hopeanimalshelter.net/",
-  "phone": "",
+  "phone": "(520) 792-9200",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@hopeanimalshelter.net",
   "source_list": "shelter website"
+ },
+ {
+  "state": "AZ",
+  "city": "Prescott",
+  "org": "Miss Kitty's Cat House",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://www.misskittyscathouse.com/",
+  "notes": "Adult cats live free-roaming in a historic house at 302 N Alarcon St; adoptions by appointment. Kittens adopted at PetSmart Prescott on weekends when available.",
+  "checked": "November 2026",
+  "phone": "(928) 445-5411",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "AZ",
+  "city": "Prescott",
+  "org": "Catty Shack Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://cattyshackrescue.org/",
+  "notes": "Cat rescue with its 'Shack' facility at 627 S. Granite St, Prescott; adopters must live in Yavapai County; apply online.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "info@cattyshackrescue.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "AZ",
+  "city": "Springerville",
+  "org": "Round Valley Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.roundvalleyanimalrescue.org/",
+  "notes": "No-kill shelter for dogs and cats at 600 Lily Lane, Springerville; open Wed-Sat 10-12 and 1-4 or by appointment.",
+  "checked": "November 2026",
+  "phone": "(928) 333-1133",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "AZ",
+  "city": "Fountain Hills",
+  "org": "Fearless Kitty Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://fearlesskittyrescue.org/",
+  "notes": "No-kill cat rescue with free-roaming adoption center 'Kittyville' at 16832 E. Avenue of the Fountains, Fountain Hills; walk-ins Mon-Fri 10-4, Sat-Sun 10-2; adoptions by appointment. No day-out program found; events calendar page not checked.",
+  "checked": "November 2026",
+  "phone": "(480) 837-7777",
+  "email_program": "",
+  "email_main": "info@fearlesskittyrescue.org",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
