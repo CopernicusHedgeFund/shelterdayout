@@ -2053,5 +2053,20 @@
   "lon": null,
   "src": "https://ucvmc.com/contact/",
   "checked": "November 2026"
+ },
+ {
+  "state": "GA",
+  "name": "West Georgia Spay Neuter Clinic",
+  "city": "Douglasville",
+  "street": "5971 Sutton Dr",
+  "zip": "",
+  "phone": "(678) 840-8072",
+  "website": "https://www.westgeorgiaspayneuter.com/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.westgeorgiaspayneuter.com/",
+  "checked": "November 2026"
  }
 ]

@@ -1888,5 +1888,50 @@
   "lon": null,
   "src": "https://animalhospitalofwilkes.com/contact-us/",
   "checked": "November 2026"
+ },
+ {
+  "state": "NC",
+  "name": "SpayKind Spay-Neuter Clinic",
+  "city": "Winston-Salem",
+  "street": "5570 Sturmer Park Cir",
+  "zip": "27105",
+  "phone": "(336) 293-7903",
+  "website": "https://spaykind.org/index.php/spaykind-clinic/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://spaykind.org/index.php/spaykind-clinic/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "NC",
+  "name": "4 PAWS Spay & Neuter Clinic",
+  "city": "Lexington",
+  "street": "1120-A Piedmont Dr",
+  "zip": "27295",
+  "phone": "(336) 843-1001",
+  "website": "https://4pawsclinic.org/resources-information-links-4-paws-clinic/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://4pawsclinic.org/resources-information-links-4-paws-clinic/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "NC",
+  "name": "Piedmont Communities Spay/Neuter & Wellness Clinic",
+  "city": "Greensboro",
+  "street": "1910 N Church St, Suite E",
+  "zip": "",
+  "phone": "(336) 333-5336",
+  "website": "https://pcspayneuter.com/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://pcspayneuter.com/",
+  "checked": "November 2026"
  }
 ]

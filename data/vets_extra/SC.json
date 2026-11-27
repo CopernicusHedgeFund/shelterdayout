@@ -1228,5 +1228,50 @@
   "lon": null,
   "src": "https://walhallavet.com/about-us/",
   "checked": "November 2026"
+ },
+ {
+  "state": "SC",
+  "name": "PAL Veterinary Clinic (Palmetto Animal League)",
+  "city": "Okatie",
+  "street": "56 Riverwalk Blvd",
+  "zip": "29936",
+  "phone": "(843) 645-1727",
+  "website": "https://www.palmettoanimalleague.org/vet-clinic",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.palmettoanimalleague.org/vet-clinic",
+  "checked": "November 2026"
+ },
+ {
+  "state": "SC",
+  "name": "Humane Society of South Carolina Spay/Neuter/Vaccine Clinic",
+  "city": "Columbia",
+  "street": "405 Greenlawn Dr",
+  "zip": "29209",
+  "phone": "(803) 783-1267",
+  "website": "https://humanesc.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://humanesc.org/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "SC",
+  "name": "Humane Society of South Carolina Spay/Neuter/Vaccine Clinic (Florence)",
+  "city": "Florence",
+  "street": "815 Second Loop Rd",
+  "zip": "29505",
+  "phone": "",
+  "website": "https://humanesc.org/",
+  "emergency": "",
+  "operator_type": "ngo",
+  "lat": null,
+  "lon": null,
+  "src": "https://humanesc.org/",
+  "checked": "November 2026"
  }
 ]
