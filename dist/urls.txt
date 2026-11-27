@@ -1304,6 +1304,7 @@ https://shelterdayout.com/listings/city-of-oakdale-animal-shelter-oakdale/
 https://shelterdayout.com/listings/city-of-orange-animal-control-shelter-orange/
 https://shelterdayout.com/listings/city-of-osceola-animal-shelter-osceola/
 https://shelterdayout.com/listings/city-of-palacios-animal-care-services-palacios/
+https://shelterdayout.com/listings/city-of-pawnee-animal-control-pawnee/
 https://shelterdayout.com/listings/city-of-perry-animal-control-perry/
 https://shelterdayout.com/listings/city-of-plainview-animal-shelter-plainview/
 https://shelterdayout.com/listings/city-of-port-arthur-animal-services-center-port-arthur/
@@ -1488,6 +1489,7 @@ https://shelterdayout.com/listings/cumberland-county-animal-services-fayettevill
 https://shelterdayout.com/listings/cumberland-county-animal-shelter-crossville/
 https://shelterdayout.com/listings/cumberland-valley-animal-shelter-chambersburg/
 https://shelterdayout.com/listings/currituck-county-animal-services-and-control-currituck/
+https://shelterdayout.com/listings/cushing-animal-welfare-cushing/
 https://shelterdayout.com/listings/custer-county-friends-for-life-animal-society-clinton/
 https://shelterdayout.com/listings/cuyahoga-county-animal-shelter-valley-view/
 https://shelterdayout.com/listings/d-e-l-t-a-rescue-super-sanctuary-acton/
@@ -3242,6 +3244,7 @@ https://shelterdayout.com/listings/paterson-animal-shelter-paterson/
 https://shelterdayout.com/listings/patty-baker-humane-society-naples/
 https://shelterdayout.com/listings/paulding-county-animal-shelter-dallas/
 https://shelterdayout.com/listings/paulding-county-dog-kennel-paulding/
+https://shelterdayout.com/listings/pauls-valley-animal-welfare-society-city-of-pauls-valley-animal-shelter-pauls-valley/
 https://shelterdayout.com/listings/paw-animal-shelter-protectors-of-animal-welfare-fort-madison/
 https://shelterdayout.com/listings/paw-rump-cat-cafe-paw-rump-rehab-and-rescue-pahrump/
 https://shelterdayout.com/listings/paw-works-adoption-center-thousand-oaks/
