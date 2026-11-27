@@ -1,0 +1,32 @@
+[
+ {
+  "state": "ID",
+  "name": "VCA North Idaho Animal Hospital",
+  "city": "Sandpoint",
+  "street": "320 S. Ella Avenue",
+  "zip": "83864",
+  "phone": "(208) 265-5700",
+  "website": "https://vcahospitals.com/north-idaho",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://vcahospitals.com/find-a-hospital/location-directory",
+  "checked": "November 2026"
+ },
+ {
+  "state": "ID",
+  "name": "VCA River City Animal Hospital",
+  "city": "Post Falls",
+  "street": "310 N. Herborn Place",
+  "zip": "83854",
+  "phone": "(208) 777-9178",
+  "website": "https://vcahospitals.com/river-city",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://vcahospitals.com/find-a-hospital/location-directory",
+  "checked": "November 2026"
+ }
+]

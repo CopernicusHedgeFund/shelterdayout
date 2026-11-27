@@ -1,0 +1,62 @@
+[
+ {
+  "state": "AK",
+  "name": "VCA Alpine Animal Hospital",
+  "city": "Anchorage",
+  "street": "12531 Old Seward Highway",
+  "zip": "99515",
+  "phone": "(907) 345-1515",
+  "website": "https://vcahospitals.com/alpine-ak",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://vcahospitals.com/alpine-ak/hospital",
+  "checked": "November 2026"
+ },
+ {
+  "state": "AK",
+  "name": "VCA Alaska Pet Care Animal Hospital",
+  "city": "Anchorage",
+  "street": "3900 Lake Otis Parkway",
+  "zip": "99508",
+  "phone": "(907) 562-7387",
+  "website": "https://vcahospitals.com/alaska-pet-care",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://vcahospitals.com/alaska-pet-care/hospital",
+  "checked": "November 2026"
+ },
+ {
+  "state": "AK",
+  "name": "VCA Big Lake Animal Hospital",
+  "city": "Wasilla",
+  "street": "9750 W. Parks Highway",
+  "zip": "99654",
+  "phone": "(907) 892-9292",
+  "website": "https://vcahospitals.com/big-lake",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://vcahospitals.com/big-lake/hospital",
+  "checked": "November 2026"
+ },
+ {
+  "state": "AK",
+  "name": "VCA Eagle River Animal Hospital",
+  "city": "Eagle River",
+  "street": "11710 Business Boulevard",
+  "zip": "99577",
+  "phone": "(907) 560-6100",
+  "website": "https://vcahospitals.com/eagle-river",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://vcahospitals.com/eagle-river/team",
+  "checked": "November 2026"
+ }
+]
