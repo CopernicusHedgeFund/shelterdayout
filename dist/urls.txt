@@ -130,6 +130,7 @@ https://shelterdayout.com/cities/corpus-christi-tx/
 https://shelterdayout.com/cities/corvallis-or/
 https://shelterdayout.com/cities/council-bluffs-ia/
 https://shelterdayout.com/cities/cumberland-md/
+https://shelterdayout.com/cities/cumberland-ri/
 https://shelterdayout.com/cities/cumming-ga/
 https://shelterdayout.com/cities/dallas-tx/
 https://shelterdayout.com/cities/danville-ky/
@@ -321,6 +322,7 @@ https://shelterdayout.com/cities/merriam-ks/
 https://shelterdayout.com/cities/merrimack-nh/
 https://shelterdayout.com/cities/mesa-az/
 https://shelterdayout.com/cities/michigan-city-in/
+https://shelterdayout.com/cities/middletown-ri/
 https://shelterdayout.com/cities/midland-tx/
 https://shelterdayout.com/cities/millersville-md/
 https://shelterdayout.com/cities/milpitas-ca/
