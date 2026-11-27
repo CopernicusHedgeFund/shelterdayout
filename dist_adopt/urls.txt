@@ -38,6 +38,7 @@ https://shelteradoption.com/cities/atchison-ks/
 https://shelteradoption.com/cities/athens-al/
 https://shelteradoption.com/cities/athens-ga/
 https://shelteradoption.com/cities/atlanta-ga/
+https://shelteradoption.com/cities/auburn-al/
 https://shelteradoption.com/cities/auburn-ca/
 https://shelteradoption.com/cities/augusta-ga/
 https://shelteradoption.com/cities/austin-tx/
@@ -238,6 +239,7 @@ https://shelteradoption.com/cities/los-angeles-ca/
 https://shelteradoption.com/cities/louisville-ky/
 https://shelteradoption.com/cities/lubbock-tx/
 https://shelteradoption.com/cities/macon-ga/
+https://shelteradoption.com/cities/madison-al/
 https://shelteradoption.com/cities/madison-fl/
 https://shelteradoption.com/cities/madison-ga/
 https://shelteradoption.com/cities/manchester-nh/
@@ -545,6 +547,7 @@ https://shelteradoption.com/shelters/ahimsa-haven-animal-rescue-winchendon/
 https://shelteradoption.com/shelters/aiken-county-animal-shelter-aiken/
 https://shelteradoption.com/shelters/aka-ula-cat-garden-kualapuu/
 https://shelteradoption.com/shelters/al-van-humane-society-south-haven/
+https://shelteradoption.com/shelters/alabama-animal-adoption-society-homewood/
 https://shelteradoption.com/shelters/alachua-county-animal-resources-and-care-gainesville/
 https://shelteradoption.com/shelters/alameda-animal-shelter-friends-of-the-alameda-animal-shelter-alameda/
 https://shelteradoption.com/shelters/alan-purcell-wayne-animal-shelter-wayne/
@@ -1292,6 +1295,7 @@ https://shelteradoption.com/shelters/clear-creek-county-animal-shelter-charlie-s
 https://shelteradoption.com/shelters/clearfield-county-spca-clearfield/
 https://shelteradoption.com/shelters/clearlake-animal-association-city-of-clearlake-animal-shelter-clearlake/
 https://shelteradoption.com/shelters/cleburne-city-animal-service-cleburne/
+https://shelteradoption.com/shelters/cleburne-county-animal-shelter-heflin/
 https://shelteradoption.com/shelters/clermont-county-animal-shelter-batavia/
 https://shelteradoption.com/shelters/cleveland-animal-control-division-cleveland/
 https://shelteradoption.com/shelters/cleveland-animal-protective-league-cleveland/
@@ -2450,6 +2454,7 @@ https://shelteradoption.com/shelters/laurens-county-animal-care-laurens/
 https://shelteradoption.com/shelters/laurens-county-animal-control-dublin/
 https://shelteradoption.com/shelters/laurens-county-humane-society-clinton/
 https://shelteradoption.com/shelters/lawrence-county-animal-control-lawrenceville/
+https://shelteradoption.com/shelters/lawrence-county-animal-shelter-moulton/
 https://shelteradoption.com/shelters/lawrence-county-humane-society-louisa/
 https://shelteradoption.com/shelters/lawrence-county-humane-society-new-castle/
 https://shelteradoption.com/shelters/lawrence-county-lawrenceburg-animal-shelter-lawrenceburg/
@@ -2468,6 +2473,7 @@ https://shelteradoption.com/shelters/lee-county-animal-services-sanford/
 https://shelteradoption.com/shelters/lee-county-animal-shelter-bishopville/
 https://shelteradoption.com/shelters/lee-county-animal-shelter-leesburg/
 https://shelteradoption.com/shelters/lee-county-domestic-animal-services-fort-myers/
+https://shelteradoption.com/shelters/lee-county-humane-society-auburn/
 https://shelteradoption.com/shelters/lee-s-summit-animal-shelter-lee-s-summit/
 https://shelteradoption.com/shelters/leflore-county-humane-society-greenwood/
 https://shelteradoption.com/shelters/lehigh-valley-humane-society-allentown/
@@ -2580,7 +2586,9 @@ https://shelteradoption.com/shelters/macon-county-animal-services-franklin/
 https://shelteradoption.com/shelters/macoupin-county-animal-control-and-adoption-center-carlinville/
 https://shelteradoption.com/shelters/madera-county-animal-services-madera-animal-shelter-madera/
 https://shelteradoption.com/shelters/madill-animal-shelter-madill/
+https://shelteradoption.com/shelters/madison-city-animal-control-madison/
 https://shelteradoption.com/shelters/madison-county-animal-care-and-control-edwardsville/
+https://shelteradoption.com/shelters/madison-county-animal-control-huntsville/
 https://shelteradoption.com/shelters/madison-county-animal-shelter-berea/
 https://shelteradoption.com/shelters/madison-county-animal-shelter-marshall/
 https://shelteradoption.com/shelters/madison-county-animal-shelter-rochelle/
