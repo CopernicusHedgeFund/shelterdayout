@@ -181,7 +181,7 @@ SEARCH_JS = """<script>
  f.addEventListener('submit',function(e){e.preventDefault();run();q.blur();res.scrollIntoView({behavior:'smooth',block:'start'});});
  var u=new URLSearchParams(location.search);if(u.get('q'))q.value=u.get('q');if(u.get('state')&&st)st.value=u.get('state').toUpperCase();
  function go(){items=[].slice.call(document.querySelectorAll('#res li[data-q]'));run();}
- if(res&&res.dataset.src){fetch(res.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){res.innerHTML=h;go();}).catch(function(){res.innerHTML='<li>Couldn\'t load the list. <a href="/states/">Browse shelters by state</a>.</li>';});}else go();
+ if(res&&res.dataset.src){fetch(res.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){res.innerHTML=h;go();}).catch(function(){res.innerHTML='<li>Couldn\'t load the list. <a href="#states">Browse shelters by state</a>.</li>';});}else go();
 })();
 </script>"""
 
@@ -246,11 +246,11 @@ def build_home(rows):
 <h2>Find a shelter</h2>
 {search_form(STATES.keys())}
 <ul class="slist" id="res" data-src="/assets/home-list.json?v={hashlib.md5(lst.encode()).hexdigest()[:10]}"><li>Loading shelters&hellip;</li></ul>
-<noscript><p><a href="/states/">Browse every shelter by state</a></p></noscript>
+<noscript><p><a href="#states">Browse every shelter by state</a></p></noscript>
 </section>
 {f'<h2>Upcoming adoption events</h2><ul class="evlist">{ev_prev}</ul><p><a href="/events/">See all {len(evs):,} adoption events</a></p>' if evs else ""}
 <img class="paws" src="/assets/art/paws.svg" alt="" width="600" height="40">
-<h2>Browse shelters by state</h2>
+<h2 id="states">Browse shelters by state</h2>
 <div class="states">{state_links}</div>
 <img class="paws" src="/assets/art/paws.svg" alt="" width="600" height="40">
 <h2>Before you adopt</h2>
