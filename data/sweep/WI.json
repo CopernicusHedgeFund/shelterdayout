@@ -454,11 +454,23 @@
     "place": "Humane Society of Southern Wisconsin, 4700 S County Trunk G, Janesville"
    },
    {
+    "date": "2026-11-27",
+    "title": "Black Friday Adoption Event (adoption fees 50% off at opening, dropping through the day)",
+    "url": "https://www.petsgohome.org/events/",
+    "place": "Humane Society of Southern Wisconsin, 4700 S County Trunk G, Janesville"
+   },
+   {
     "date": "2026-12-11",
     "end": "2026-12-17",
     "title": "Holiday Pet Adoption Program Event (fees waived for first 50 adoptions)",
     "url": "https://www.petsgohome.org/adopt/",
     "place": "Humane Society of Southern Wisconsin, 4700 S County Trunk G, Janesville"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Mounds Outreach Adoption Event (meet adoptable animals)",
+    "url": "https://www.petsgohome.org/events/",
+    "place": "Mounds Pet Warehouse, Janesville"
    }
   ]
  },
@@ -1399,9 +1411,9 @@
   "program": "Fido Field Trip",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Same-day outing (4-8 hours) with an adoptable shelter dog",
+  "offers": "Same-day outing (4-8 hours); weekend sleepover (Weekenders Club)",
   "url": "https://madacc.org/madacc-fido-field-trip-program/",
-  "notes": "Approved community members 21+ with government ID; sign Field Trip Agreement; credit card deposit; book via MADACC SignUp calendar (Calendly); return at least 30 min before closing.",
+  "notes": "Approved community members 21+ with government ID; sign Field Trip Agreement; credit card deposit; book via MADACC SignUp calendar (Calendly); return at least 30 min before closing. Weekenders Club: Milwaukee County residents 21+ take a dog home Friday evening to Sunday after a foster application and a $75 refundable deposit, then report back with photos and a questionnaire (madacc.org/weekenders).",
   "checked": "November 2026",
   "email_program": "info@madacc.org",
   "email_main": "info@madacc.org",
@@ -1470,5 +1482,23 @@
     "place": "Tractor Supply Co., 4841 8th St S, Wisconsin Rapids"
    }
   ]
+ },
+ {
+  "state": "WI",
+  "city": "Verona",
+  "org": "Angel's Wish",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://angelswish.org/adoption-locations/adoption-resource-center/",
+  "notes": "Cat adoption and resource center at 161 Horizon Drive, Suite 106, Verona (open Saturdays and Sundays); also Sunday adoption hours at 2216 East Springs Drive, Madison.",
+  "checked": "November 2026",
+  "phone": "(608) 848-4174",
+  "email_program": "",
+  "email_main": "info@angelswish.org",
+  "source": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
