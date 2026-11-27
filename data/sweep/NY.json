@@ -905,7 +905,26 @@
   "email_main": "info@arfhamptons.org",
   "source_list": "shelter website",
   "phone": "(631) 537-0400",
-  "events": []
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Marders Open House: meet ARF's adoptable pets (12-3pm)",
+    "url": "https://arfhamptons.org/events",
+    "place": "Marders, 120 Snake Hollow Rd, Bridgehampton"
+   },
+   {
+    "date": "2026-12-04",
+    "title": "ARF mobile adoption van at Bridgehampton Miracle on Main (5-8pm)",
+    "url": "https://arfhamptons.org/events",
+    "place": "Bridgehampton High School, 2685 Montauk Hwy, Bridgehampton"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "ARF mobile adoption van at Holiday Party & Craft Guild (11am-3pm)",
+    "url": "https://arfhamptons.org/events",
+    "place": "East Hampton Historical Farm Museum, 131 N Main St, East Hampton"
+   }
+  ]
  },
  {
   "state": "NY",
