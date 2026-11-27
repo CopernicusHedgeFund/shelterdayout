@@ -94,6 +94,7 @@ https://shelteradoption.com/cities/cedar-rapids-ia/
 https://shelteradoption.com/cities/cedartown-ga/
 https://shelteradoption.com/cities/chambersburg-pa/
 https://shelteradoption.com/cities/champaign-il/
+https://shelteradoption.com/cities/chapel-hill-nc/
 https://shelteradoption.com/cities/charleston-wv/
 https://shelteradoption.com/cities/charlotte-nc/
 https://shelteradoption.com/cities/chattanooga-tn/
@@ -113,6 +114,7 @@ https://shelteradoption.com/cities/columbus-ga/
 https://shelteradoption.com/cities/columbus-in/
 https://shelteradoption.com/cities/columbus-oh/
 https://shelteradoption.com/cities/colville-wa/
+https://shelteradoption.com/cities/concord-nc/
 https://shelteradoption.com/cities/conroe-tx/
 https://shelteradoption.com/cities/corpus-christi-tx/
 https://shelteradoption.com/cities/cranston-ri/
@@ -305,11 +307,13 @@ https://shelteradoption.com/cities/mineola-tx/
 https://shelteradoption.com/cities/mission-hills-ca/
 https://shelteradoption.com/cities/missoula-mt/
 https://shelteradoption.com/cities/mobile-al/
+https://shelteradoption.com/cities/mocksville-nc/
 https://shelteradoption.com/cities/monroe-ga/
 https://shelteradoption.com/cities/monroe-la/
 https://shelteradoption.com/cities/monroe-mi/
 https://shelteradoption.com/cities/montclair-nj/
 https://shelteradoption.com/cities/monticello-fl/
+https://shelteradoption.com/cities/mooresville-nc/
 https://shelteradoption.com/cities/morganton-nc/
 https://shelteradoption.com/cities/mount-vernon-oh/
 https://shelteradoption.com/cities/mountain-home-ar/
@@ -1196,6 +1200,7 @@ https://shelteradoption.com/shelters/cat-guardians-lombard/
 https://shelteradoption.com/shelters/cat-haven-baton-rouge/
 https://shelteradoption.com/shelters/cat-haven-lounge-katy/
 https://shelteradoption.com/shelters/cat-s-cradle-of-the-shenandoah-valley-harrisonburg/
+https://shelteradoption.com/shelters/cat-tales-cat-cafe-chapel-hill/
 https://shelteradoption.com/shelters/cat-town-cafe-and-adoption-center-oakland/
 https://shelteradoption.com/shelters/cat-welfare-association-columbus/
 https://shelteradoption.com/shelters/catawba-county-animal-services-newton/
@@ -1971,6 +1976,7 @@ https://shelteradoption.com/shelters/gloucester-county-animal-shelter-clayton/
 https://shelteradoption.com/shelters/gloucester-mathews-humane-society-gloucester/
 https://shelteradoption.com/shelters/glynn-county-animal-services-brunswick/
 https://shelteradoption.com/shelters/god-s-paws-rescue-and-shelter-jena/
+https://shelteradoption.com/shelters/godbey-creek-canine-rescue-mocksville/
 https://shelteradoption.com/shelters/golden-belt-humane-society-great-bend/
 https://shelteradoption.com/shelters/golden-years-dog-sanctuary-san-fernando/
 https://shelteradoption.com/shelters/goliad-animal-control-goliad/
@@ -2313,6 +2319,7 @@ https://shelteradoption.com/shelters/humane-society-of-charlotte-charlotte/
 https://shelteradoption.com/shelters/humane-society-of-cherokee-county-tahlequah/
 https://shelteradoption.com/shelters/humane-society-of-chittenden-county-south-burlington/
 https://shelteradoption.com/shelters/humane-society-of-clark-county-arkadelphia/
+https://shelteradoption.com/shelters/humane-society-of-concord-and-greater-cabarrus-county-concord/
 https://shelteradoption.com/shelters/humane-society-of-danville-second-chance-animal-adoption-center-danville/
 https://shelteradoption.com/shelters/humane-society-of-decatur-and-macon-county-decatur/
 https://shelteradoption.com/shelters/humane-society-of-delaware-county-delaware/
@@ -2711,6 +2718,7 @@ https://shelteradoption.com/shelters/lake-county-sheriff-s-animal-control-and-ad
 https://shelteradoption.com/shelters/lake-dallas-animal-services-lake-dallas/
 https://shelteradoption.com/shelters/lake-humane-society-and-adoption-center-mentor/
 https://shelteradoption.com/shelters/lake-martin-humane-society-alexander-city/
+https://shelteradoption.com/shelters/lake-norman-humane-mooresville/
 https://shelteradoption.com/shelters/lake-of-the-woods-humane-society-baudette/
 https://shelteradoption.com/shelters/lake-worth-animal-shelter-lake-worth/
 https://shelteradoption.com/shelters/lakeland-animal-shelter-delavan/

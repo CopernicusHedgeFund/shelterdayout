@@ -2199,5 +2199,80 @@
   "email_main": "acontrol@havelocknc.us",
   "source_list": "shelter website",
   "events": []
+ },
+ {
+  "state": "NC",
+  "city": "Concord",
+  "org": "Humane Society of Concord & Greater Cabarrus County",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://humanesocietyofconcord.org/",
+  "notes": "Dog adoptions at Ruth's Memorial Shelter (by appointment) and cat adoptions at Princeton's Meow (walk-ins evenings), both in Concord.",
+  "checked": "November 2026",
+  "phone": "(704) 784-7387",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "NC",
+  "city": "Mooresville",
+  "org": "Lake Norman Humane",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.lakenormanhumane.org/",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(704) 663-3330",
+  "email_program": "",
+  "email_main": "info@lakenormanhumane.org",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "PetSmart Cat Adoption Day",
+    "url": "https://lakenormanhumane.org/events/petsmart-cat-adoption-day-jdeal-nx7dn-sp42y-gyrdx-kakyp-2j6rk-62h6h-989x2-kxjja-e3tsh/?occurrence=2026-12-12",
+    "place": "PetSmart, Mooresville, NC"
+   }
+  ]
+ },
+ {
+  "state": "NC",
+  "city": "Mocksville",
+  "org": "Godbey Creek Canine Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://godbeycreekcaninerescue.org/",
+  "notes": "Dog rescue facility; visits and adoptions by appointment.",
+  "checked": "November 2026",
+  "phone": "(336) 972-4511",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "NC",
+  "city": "Chapel Hill",
+  "org": "Cat Tales Cat Cafe",
+  "program": "Cat cafe visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Timed cat lounge visits with adoptable cats",
+  "url": "https://cattalescatcafe.com/reservations",
+  "notes": "Cat cafe at 431 W. Franklin St. in Chapel Hill; book a 60-minute lounge visit online (ages 7+), and the cats are adoptable through partner Cat Tales Rescue NC.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "info@cattalescatcafe.com",
+  "email_main": "info@cattalescatcafe.com",
+  "source_list": "shelter website",
+  "events": []
  }
 ]

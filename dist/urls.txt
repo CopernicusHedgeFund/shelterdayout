@@ -1261,6 +1261,7 @@ https://shelterdayout.com/listings/cat-guardians-lombard/
 https://shelterdayout.com/listings/cat-haven-baton-rouge/
 https://shelterdayout.com/listings/cat-haven-lounge-katy/
 https://shelterdayout.com/listings/cat-s-cradle-of-the-shenandoah-valley-harrisonburg/
+https://shelterdayout.com/listings/cat-tales-cat-cafe-chapel-hill/
 https://shelterdayout.com/listings/cat-town-cafe-and-adoption-center-oakland/
 https://shelterdayout.com/listings/cat-welfare-association-columbus/
 https://shelterdayout.com/listings/catawba-county-animal-services-newton/
@@ -2036,6 +2037,7 @@ https://shelterdayout.com/listings/gloucester-county-animal-shelter-clayton/
 https://shelterdayout.com/listings/gloucester-mathews-humane-society-gloucester/
 https://shelterdayout.com/listings/glynn-county-animal-services-brunswick/
 https://shelterdayout.com/listings/god-s-paws-rescue-and-shelter-jena/
+https://shelterdayout.com/listings/godbey-creek-canine-rescue-mocksville/
 https://shelterdayout.com/listings/golden-belt-humane-society-great-bend/
 https://shelterdayout.com/listings/golden-years-dog-sanctuary-san-fernando/
 https://shelterdayout.com/listings/goliad-animal-control-goliad/
@@ -2378,6 +2380,7 @@ https://shelterdayout.com/listings/humane-society-of-charlotte-charlotte/
 https://shelterdayout.com/listings/humane-society-of-cherokee-county-tahlequah/
 https://shelterdayout.com/listings/humane-society-of-chittenden-county-south-burlington/
 https://shelterdayout.com/listings/humane-society-of-clark-county-arkadelphia/
+https://shelterdayout.com/listings/humane-society-of-concord-and-greater-cabarrus-county-concord/
 https://shelterdayout.com/listings/humane-society-of-danville-second-chance-animal-adoption-center-danville/
 https://shelterdayout.com/listings/humane-society-of-decatur-and-macon-county-decatur/
 https://shelterdayout.com/listings/humane-society-of-delaware-county-delaware/
@@ -2776,6 +2779,7 @@ https://shelterdayout.com/listings/lake-county-sheriff-s-animal-control-and-adop
 https://shelterdayout.com/listings/lake-dallas-animal-services-lake-dallas/
 https://shelterdayout.com/listings/lake-humane-society-and-adoption-center-mentor/
 https://shelterdayout.com/listings/lake-martin-humane-society-alexander-city/
+https://shelterdayout.com/listings/lake-norman-humane-mooresville/
 https://shelterdayout.com/listings/lake-of-the-woods-humane-society-baudette/
 https://shelterdayout.com/listings/lake-worth-animal-shelter-lake-worth/
 https://shelterdayout.com/listings/lakeland-animal-shelter-delavan/
