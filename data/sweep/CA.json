@@ -1727,16 +1727,25 @@
   "state": "CA",
   "city": "Oakland",
   "org": "East Bay SPCA – Oakland Adoption Center",
-  "program": "Field Trips",
-  "status": "Needs check",
+  "program": "Dog Field Trips",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://eastbayspca.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Day trips",
+  "url": "https://eastbayspca.org/how-to-help/become-volunteer-foster/foster",
+  "notes": "Approved fosters can take a shelter dog out for a day, such as to the Marina, the Oakland hills or a cafe, with the dog wearing an Adopt Me bandana; apply through the foster program.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "foster@eastbayspca.org",
+  "email_main": "customercare@eastbayspca.org",
+  "source_list": "shelter website",
+  "phone": "(510) 569-0702",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-11-29",
+    "title": "Fall In Love: Waived Adoption Fees for Pets 6 Months+",
+    "url": "https://eastbayspca.org/about/events/fall-in-love-waived-adoption-fees-for-pets-6-months"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -2361,7 +2370,16 @@
   "email_program": "supervisor@petsadoption.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(951) 688-4340"
+  "phone": "(951) 688-4340",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Yule Love Them: adopt a cat for $20 or a dog for $50",
+    "url": "https://www.petsadoption.org/index.php/news/event-calendar/274-adopt-a-cat-for-20-or-a-dog-for-50-in-riverside-december-1-11",
+    "place": "Mary S. Roberts Pet Adoption Center, Riverside"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -2375,7 +2393,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animal@rpcity.org",
   "source_list": "shelter website",
   "phone": "(707) 584-1582"
  },
@@ -2387,12 +2405,13 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://animalcare.saccounty.gov/us/en/barks-and-recreation-program.html",
-  "notes": "Book a meet-and-greet appointment online first.",
+  "url": "https://animalcare.saccounty.gov/content/acs/us/en/barks-and-recreation-program.html",
+  "notes": "Book a meet-and-greet appointment online, pick up your matched dog for a day trip with a supplied backpack (leash, harness, water), and return it by 4pm; no meeting other dogs.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "countyanimalcare@saccounty.gov",
+  "email_main": "countyanimalcare@saccounty.gov",
+  "source_list": "shelter website",
+  "phone": "(916) 368-7387"
  },
  {
   "state": "CA",
@@ -2421,7 +2440,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "purrball@happytails.org",
   "source_list": "shelter website",
   "phone": "(916) 497-8989"
  },
@@ -2433,13 +2452,13 @@
   "status": "Volunteers only",
   "animals": "Dogs",
   "offers": "Day trip, sleepover",
-  "url": "https://www.sspca.org/blog-post/foster-fur-lough",
-  "notes": "Approved fosters can take an adoptable dog out for a few hours, a full day or overnight. Start by attending a foster orientation (sign up at sspca.org/foster).",
+  "url": "https://www.sspca.org/post/foster-furlough-0",
+  "notes": "Complete the short online orientation and a FURlough Friend profile, then schedule a pick-up to take an adoptable dog on a field trip for a few hours or a day (older posts also mention overnights).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "DogFosterRescue@sspca.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(916) 383-7062"
+  "phone": "(916) 383-7387"
  },
  {
   "state": "CA",
@@ -2454,7 +2473,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(831) 755-5222"
  },
  {
   "state": "CA",
@@ -2464,52 +2484,30 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip, sleepover",
-  "url": "https://www.spcamc.org/ddo",
+  "url": "https://www.spcamc.org/how-to-help/volunteer/doggy-day-out.html",
   "notes": "Day outings of at least 2 hours with medium/large dogs waiting 2+ weeks; apply online, advance sign-up or limited walk-in spots; dogs stay leashed and may not meet other dogs. Pawjama Parties are 1-2 night sleepovers for homes with no other pets.",
   "checked": "November 2026",
   "email_program": "fosterprogram@spcamc.org",
   "email_main": "info@spcamc.org",
   "source_list": "shelter website",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday adoption event",
-    "url": "https://spcamc.org/about"
-   }
-  ],
+  "events": [],
   "phone": "(831) 373-2631"
  },
  {
   "state": "CA",
   "city": "San Bernardino",
   "org": "City of San Bernardino Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Weekend foster (Foster a Pet)",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.sanbernardino.gov/164/Animal-Services",
-  "notes": "",
+  "offers": "Weekend foster",
+  "url": "https://www.sanbernardino.gov/169/Foster-a-Pet",
+  "notes": "The foster page invites people to foster for a weekend or longer, including large dogs needing a break from the shelter, with placements announced through a foster email list; not a named day-out program, so confirm details.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "fosterpet@sbcity.org",
+  "email_main": "sbcitypets@sbcity.org",
   "source_list": "shelter website",
   "phone": "(909) 998-4000"
- },
- {
-  "state": "CA",
-  "city": "San Bernardino",
-  "org": "Humane Society of San Bernardino Valley",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://hssbv.org",
-  "notes": "re-check.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website",
-  "phone": "(909) 386-1400"
  },
  {
   "state": "CA",
@@ -3764,12 +3762,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://animal.calaverasgov.us/Adoptions",
-  "notes": "Site now redirects to calaverascounty.gov/animal.",
+  "url": "https://www.calaverascounty.gov/animal/Adoptions",
+  "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(209) 754-6509"
  },
  {
   "state": "CA",
@@ -3848,7 +3847,16 @@
   "email_program": "",
   "email_main": "guestservices@placerspca.org",
   "source_list": "shelter website",
-  "phone": "(916) 782-7722"
+  "phone": "(916) 782-7722",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-12-31",
+    "title": "Holiday adoption promotion: All They Want for the Holidays is You (reduced fees on select animals)",
+    "url": "https://placerspca.org/adoption-pricing/",
+    "place": "Placer SPCA"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -4116,7 +4124,8 @@
   "checked": "November 2026",
   "email_program": "HelpingHands@Maderacounty.com",
   "email_main": "AnimalControl@Maderacounty.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(559) 675-7891"
  },
  {
   "state": "CA",
@@ -4245,22 +4254,6 @@
   "email_main": "aaloc@aaloc.org",
   "source_list": "shelter website",
   "phone": "(714) 893-4393"
- },
- {
-  "state": "CA",
-  "city": "Salinas",
-  "org": "City of Salinas Animal Services Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.salinas.gov/Residents/Animals-and-Pets/Lost-or-Adoptable-Pets",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
  },
  {
   "state": "CA",

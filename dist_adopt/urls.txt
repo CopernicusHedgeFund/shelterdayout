@@ -393,7 +393,6 @@ https://shelteradoption.com/cities/salinas-ca/
 https://shelteradoption.com/cities/salt-lake-city-ut/
 https://shelteradoption.com/cities/san-angelo-tx/
 https://shelteradoption.com/cities/san-antonio-tx/
-https://shelteradoption.com/cities/san-bernardino-ca/
 https://shelteradoption.com/cities/san-diego-ca/
 https://shelteradoption.com/cities/san-francisco-ca/
 https://shelteradoption.com/cities/san-jacinto-ca/
@@ -1341,7 +1340,6 @@ https://shelteradoption.com/shelters/city-of-rome-animal-control-shelter-rome/
 https://shelteradoption.com/shelters/city-of-ruston-animal-shelter-ruston/
 https://shelteradoption.com/shelters/city-of-safford-animal-control-safford/
 https://shelteradoption.com/shelters/city-of-saginaw-animal-services-saginaw/
-https://shelteradoption.com/shelters/city-of-salinas-animal-services-shelter-salinas/
 https://shelteradoption.com/shelters/city-of-san-bernardino-animal-shelter-san-bernardino/
 https://shelteradoption.com/shelters/city-of-selma-animal-services-center-selma/
 https://shelteradoption.com/shelters/city-of-seymour-animal-shelter-seymour/
@@ -2312,7 +2310,6 @@ https://shelteradoption.com/shelters/humane-society-of-richland-wilkin-counties-
 https://shelteradoption.com/shelters/humane-society-of-rockport-fulton-rockport/
 https://shelteradoption.com/shelters/humane-society-of-rome-rome/
 https://shelteradoption.com/shelters/humane-society-of-saline-county-bauxite/
-https://shelteradoption.com/shelters/humane-society-of-san-bernardino-valley-san-bernardino/
 https://shelteradoption.com/shelters/humane-society-of-sandusky-county-fremont/
 https://shelteradoption.com/shelters/humane-society-of-sarasota-county-sarasota/
 https://shelteradoption.com/shelters/humane-society-of-schuyler-county-montour-falls/

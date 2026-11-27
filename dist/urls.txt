@@ -422,6 +422,7 @@ https://shelterdayout.com/cities/salisbury-md/
 https://shelterdayout.com/cities/salisbury-nc/
 https://shelterdayout.com/cities/salt-lake-city-ut/
 https://shelterdayout.com/cities/san-antonio-tx/
+https://shelterdayout.com/cities/san-bernardino-ca/
 https://shelterdayout.com/cities/san-diego-ca/
 https://shelterdayout.com/cities/san-francisco-ca/
 https://shelterdayout.com/cities/san-jacinto-ca/
@@ -1387,7 +1388,6 @@ https://shelterdayout.com/listings/city-of-rome-animal-control-shelter-rome/
 https://shelterdayout.com/listings/city-of-ruston-animal-shelter-ruston/
 https://shelterdayout.com/listings/city-of-safford-animal-control-safford/
 https://shelterdayout.com/listings/city-of-saginaw-animal-services-saginaw/
-https://shelterdayout.com/listings/city-of-salinas-animal-services-shelter-salinas/
 https://shelterdayout.com/listings/city-of-san-bernardino-animal-shelter-san-bernardino/
 https://shelterdayout.com/listings/city-of-selma-animal-services-center-selma/
 https://shelterdayout.com/listings/city-of-seymour-animal-shelter-seymour/
@@ -2358,7 +2358,6 @@ https://shelterdayout.com/listings/humane-society-of-richland-wilkin-counties-wa
 https://shelterdayout.com/listings/humane-society-of-rockport-fulton-rockport/
 https://shelterdayout.com/listings/humane-society-of-rome-rome/
 https://shelterdayout.com/listings/humane-society-of-saline-county-bauxite/
-https://shelterdayout.com/listings/humane-society-of-san-bernardino-valley-san-bernardino/
 https://shelterdayout.com/listings/humane-society-of-sandusky-county-fremont/
 https://shelterdayout.com/listings/humane-society-of-sarasota-county-sarasota/
 https://shelterdayout.com/listings/humane-society-of-schuyler-county-montour-falls/
