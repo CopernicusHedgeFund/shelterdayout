@@ -27,7 +27,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "scituateanimalcontrol@scituatepd.org",
-  "phone": "+1 401-647-7200",
+  "phone": "(401) 647-7200",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/3687416283"
  },
@@ -40,7 +40,7 @@
   "animals": "Cats",
   "offers": "Cat lounge",
   "url": "https://pawswatch.org/get-involved/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "The Pat-A-Cat Lounge is not mentioned on the center's home, adoptions or news pages as of November 2026 (cat visits are by appointment only); contact the center to confirm it still runs.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "communitycatcarecenter@gmail.com",
@@ -154,7 +154,8 @@
     "title": "Fee-Waived Friendsgiving Adoption Special",
     "url": "https://potterleague.org/our-events/friendsgiving-fee-waived-adoption/"
    }
-  ]
+  ],
+  "phone": "(401) 846-8276"
  },
  {
   "state": "RI",
@@ -202,7 +203,7 @@
   "email_program": "",
   "email_main": "PACadoptions@providenceri.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(401) 243-6040"
  },
  {
   "state": "RI",
@@ -266,7 +267,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(401) 822-9106"
  },
  {
   "state": "RI",
@@ -282,7 +283,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(401) 615-3388"
  },
  {
   "state": "RI",
@@ -297,7 +298,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 722-4243"
  },
  {
   "state": "RI",
@@ -312,7 +314,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(401) 265-2057"
  },
  {
   "state": "RI",
@@ -328,7 +331,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(401) 333-2745"
  },
  {
   "state": "RI",
@@ -424,7 +427,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(401) 783-3321"
+  "phone": "(401) 789-5515"
  },
  {
   "state": "RI",
