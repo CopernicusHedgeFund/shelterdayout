@@ -217,6 +217,7 @@ https://shelteradoption.com/cities/kerrville-tx/
 https://shelteradoption.com/cities/knoxville-tn/
 https://shelteradoption.com/cities/lafayette-in/
 https://shelteradoption.com/cities/lake-charles-la/
+https://shelteradoption.com/cities/lake-city-fl/
 https://shelteradoption.com/cities/lake-panasoffkee-fl/
 https://shelteradoption.com/cities/lakewood-oh/
 https://shelteradoption.com/cities/lancaster-oh/
@@ -374,6 +375,7 @@ https://shelteradoption.com/cities/santa-rosa-ca/
 https://shelteradoption.com/cities/sarasota-fl/
 https://shelteradoption.com/cities/savannah-ga/
 https://shelteradoption.com/cities/seattle-wa/
+https://shelteradoption.com/cities/sebring-fl/
 https://shelteradoption.com/cities/seguin-tx/
 https://shelteradoption.com/cities/selma-al/
 https://shelteradoption.com/cities/sequim-wa/
@@ -1104,6 +1106,7 @@ https://shelteradoption.com/shelters/charlestown-animal-shelter-charlestown/
 https://shelteradoption.com/shelters/charlevoix-area-humane-society-boyne-city/
 https://shelteradoption.com/shelters/charley-s-strays-benton/
 https://shelteradoption.com/shelters/charlotte-county-animal-control-and-public-animal-shelter-charlotte-court-house/
+https://shelteradoption.com/shelters/charlotte-county-animal-control-punta-gorda/
 https://shelteradoption.com/shelters/charlotte-mecklenburg-animal-care-and-control-charlotte/
 https://shelteradoption.com/shelters/charlottesville-albemarle-society-for-the-prevention-of-cruelty-to-animals-charlottesville/
 https://shelteradoption.com/shelters/chasing-daylight-animal-shelter-tomah/
@@ -1317,6 +1320,7 @@ https://shelteradoption.com/shelters/colorado-animal-rescue-c-a-r-e-glenwood-spr
 https://shelteradoption.com/shelters/columbia-animal-services-columbia/
 https://shelteradoption.com/shelters/columbia-county-animal-control-columbia-county-sheriff-s-office-st-helens/
 https://shelteradoption.com/shelters/columbia-county-animal-protection-society-ccaps-shelter-magnolia/
+https://shelteradoption.com/shelters/columbia-county-animal-services-animal-enforcement-lake-city/
 https://shelteradoption.com/shelters/columbia-county-animal-services-grovetown/
 https://shelteradoption.com/shelters/columbia-county-humane-society-portage/
 https://shelteradoption.com/shelters/columbia-gorge-humane-society-formerly-home-at-last-humane-society-the-dalles/
@@ -1699,9 +1703,11 @@ https://shelteradoption.com/shelters/furkids-headquarters-sutherlin-dog-shelter-
 https://shelteradoption.com/shelters/furkids-johns-creek-cat-adoption-and-community-resource-center-johns-creek/
 https://shelteradoption.com/shelters/furkids-peachtree-corners-cat-adoption-and-community-resource-center-peachtree-corners/
 https://shelteradoption.com/shelters/furrr-feline-rescue-rochester/
+https://shelteradoption.com/shelters/furry-friends-humane-jupiter/
 https://shelteradoption.com/shelters/furry-friends-refuge-west-des-moines/
 https://shelteradoption.com/shelters/furry-friends-vancouver/
 https://shelteradoption.com/shelters/gabby-s-sanctuary-ark-desoto/
+https://shelteradoption.com/shelters/gadsden-county-animal-control-services-quincy/
 https://shelteradoption.com/shelters/galax-carroll-grayson-animal-shelter-galax/
 https://shelteradoption.com/shelters/gallatin-county-animal-shelter-warsaw/
 https://shelteradoption.com/shelters/galveston-county-animal-resource-center-texas-city/
@@ -1730,6 +1736,7 @@ https://shelteradoption.com/shelters/giles-county-animal-shelter-pearisburg/
 https://shelteradoption.com/shelters/giles-county-animal-shelter-pulaski/
 https://shelteradoption.com/shelters/gilmer-county-animal-shelter-ellijay/
 https://shelteradoption.com/shelters/glacial-lakes-humane-society-watertown/
+https://shelteradoption.com/shelters/glades-county-animal-control-moore-haven/
 https://shelteradoption.com/shelters/gladstone-animal-shelter-gladstone/
 https://shelteradoption.com/shelters/gladwin-county-animal-control-shelter-gladwin/
 https://shelteradoption.com/shelters/glastonbury-animal-control-dog-pound-glastonbury/
@@ -1852,6 +1859,7 @@ https://shelteradoption.com/shelters/haralson-county-animal-control-buchanan/
 https://shelteradoption.com/shelters/harbor-association-of-volunteers-for-animals-hava-raymond/
 https://shelteradoption.com/shelters/harbor-humane-society-west-olive/
 https://shelteradoption.com/shelters/hard-licker-ranch-and-sanctuary-deerfield/
+https://shelteradoption.com/shelters/hardee-county-animal-control-wauchula/
 https://shelteradoption.com/shelters/hardin-county-animal-services-savannah/
 https://shelteradoption.com/shelters/hardin-county-animal-shelter-elizabethtown/
 https://shelteradoption.com/shelters/hardin-county-dog-warden-kenton/
@@ -1940,6 +1948,7 @@ https://shelteradoption.com/shelters/high-desert-humane-society-animal-shelter-s
 https://shelteradoption.com/shelters/high-plateau-humane-society-alturas/
 https://shelteradoption.com/shelters/highland-county-landfill-and-animal-control-monterey/
 https://shelteradoption.com/shelters/highland-village-animal-shelter-highland-village/
+https://shelteradoption.com/shelters/highlands-county-sheriff-s-office-animal-services-sebring/
 https://shelteradoption.com/shelters/hill-country-humane-society-buchanan-dam/
 https://shelteradoption.com/shelters/hill-country-spca-fredericksburg/
 https://shelteradoption.com/shelters/hill-county-pet-adoption-center-hill-county-paw-pals-hillsboro/
@@ -1954,6 +1963,7 @@ https://shelteradoption.com/shelters/holbrook-animal-shelter-holbrook/
 https://shelteradoption.com/shelters/holland-cat-cove-holland/
 https://shelteradoption.com/shelters/hollister-animal-shelter-hollister-police-animal-care-and-services-hollister/
 https://shelteradoption.com/shelters/holly-lake-dog-shelter-hawkins/
+https://shelteradoption.com/shelters/holmes-county-animal-control-bonifay/
 https://shelteradoption.com/shelters/holmes-county-dog-warden-millersburg/
 https://shelteradoption.com/shelters/holt-county-animal-shelter-o-neill/
 https://shelteradoption.com/shelters/homeless-animal-rescue-team-hart-of-maine-cumberland/
@@ -2070,6 +2080,7 @@ https://shelteradoption.com/shelters/humane-society-of-grove-and-grand-lake-grov
 https://shelteradoption.com/shelters/humane-society-of-harrisburg-area-harrisburg/
 https://shelteradoption.com/shelters/humane-society-of-harrison-county-shinnston/
 https://shelteradoption.com/shelters/humane-society-of-henderson-county-henderson/
+https://shelteradoption.com/shelters/humane-society-of-highlands-county-sebring/
 https://shelteradoption.com/shelters/humane-society-of-houston-county-centerville/
 https://shelteradoption.com/shelters/humane-society-of-huron-valley-ann-arbor/
 https://shelteradoption.com/shelters/humane-society-of-imperial-county-el-centro/
@@ -3248,6 +3259,7 @@ https://shelteradoption.com/shelters/raccoon-river-pet-rescue-perry/
 https://shelteradoption.com/shelters/radford-police-animal-shelter-radford/
 https://shelteradoption.com/shelters/rainbow-city-animal-services-rainbow-city/
 https://shelteradoption.com/shelters/rainbow-friends-animal-sanctuary-kurtistown/
+https://shelteradoption.com/shelters/raining-cats-and-dogs-shelter-and-sanctuary-plant-city/
 https://shelteradoption.com/shelters/ramapo-bergen-animal-refuge-rbari-oakland/
 https://shelteradoption.com/shelters/ramona-humane-society-san-jacinto/
 https://shelteradoption.com/shelters/rancho-coastal-humane-society-encinitas/
@@ -3620,6 +3632,7 @@ https://shelteradoption.com/shelters/springdale-animal-services-springdale/
 https://shelteradoption.com/shelters/springfield-animal-control-shelter-springfield/
 https://shelteradoption.com/shelters/springfield-animal-shelter-city-of-springfield-springfield/
 https://shelteradoption.com/shelters/springfield-humane-society-springfield/
+https://shelteradoption.com/shelters/st-augustine-humane-society-st-augustine/
 https://shelteradoption.com/shelters/st-bernard-parish-animal-shelter-violet/
 https://shelteradoption.com/shelters/st-charles-county-pet-adoption-center-cottleville/
 https://shelteradoption.com/shelters/st-charles-parish-animal-shelter-luling/
