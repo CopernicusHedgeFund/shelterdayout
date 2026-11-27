@@ -44,7 +44,7 @@
     "place": "PetSmart, 1640 New Brighton Blvd, Minneapolis"
    }
   ],
-  "phone": ""
+  "phone": "(612) 673-6222"
  },
  {
   "state": "MN",
@@ -59,9 +59,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@felinerescue.org",
-  "phone": "+1-651-642-5900",
+  "phone": "(612) 900-2757",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/7196444435"
+  "osm": "node/7196444435",
+  "events": []
  },
  {
   "state": "MN",
@@ -76,9 +77,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1-952-435-7738",
+  "phone": "(952) 435-7738",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/9054132631"
+  "osm": "node/9054132631",
+  "events": []
  },
  {
   "state": "MN",
@@ -93,7 +95,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "reception@sotasaves.org",
-  "phone": "+19523683553",
+  "phone": "(952) 368-3553",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12752805386",
   "events": [
@@ -118,7 +120,7 @@
   "checked": "November 2026",
   "email_program": "cfc@caringforcatsmn.org",
   "email_main": "cfc@caringforcatsmn.org",
-  "phone": "+1 651-407-8485",
+  "phone": "(651) 407-8485",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13812491160",
   "events": [
@@ -143,9 +145,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+19524357738",
+  "phone": "(952) 435-7738",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/480658097"
+  "osm": "way/480658097",
+  "events": []
  },
  {
   "state": "MN",
@@ -160,27 +163,29 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(507) 437-9262",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/603895176",
-  "url_social": "https://mchs.rescuegroups.org/info/contact"
+  "url_social": "https://mchs.rescuegroups.org/info/contact",
+  "events": []
  },
  {
   "state": "MN",
   "city": "Bemidji",
   "org": "Great River Rescue",
   "program": "Sleepover/Weekend and Field Trip fostering",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
   "offers": "Day trip, sleepover, weekend",
   "url": "https://www.greatriverrescue.com/donate/volunteer/foster/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Approved foster volunteers (application through the shelter, approved by staff) can take an animal out on a community field trip or home for a sleepover or weekend.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "fostercare@greatriverrescue.com",
   "email_main": "info@greatriverrescue.com",
   "phone": "(218) 751-7910",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/606751755"
+  "osm": "way/606751755",
+  "events": []
  },
  {
   "state": "MN",
@@ -197,7 +202,8 @@
   "email_main": "info@scruffytails.org",
   "phone": "(218) 281-7225",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/692005649"
+  "osm": "way/692005649",
+  "events": []
  },
  {
   "state": "MN",
@@ -214,7 +220,8 @@
   "email_main": "",
   "phone": "(218) 283-9276",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/774679109"
+  "osm": "way/774679109",
+  "events": []
  },
  {
   "state": "MN",
@@ -229,9 +236,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(507) 537-9568",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/803413926"
+  "osm": "way/803413926",
+  "events": []
  },
  {
   "state": "MN",
@@ -248,7 +256,8 @@
   "email_main": "themarshmallowfoundation@yahoo.com",
   "phone": "(218) 847-9040",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/934005732"
+  "osm": "way/934005732",
+  "events": []
  },
  {
   "state": "MN",
@@ -265,7 +274,8 @@
   "email_main": "info@benchs.org",
   "phone": "(507) 625-6373",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1116106627"
+  "osm": "way/1116106627",
+  "events": []
  },
  {
   "state": "MN",
@@ -280,9 +290,10 @@
   "checked": "November 2026",
   "email_program": "volunteercoordinator.hskmc@gmail.com",
   "email_main": "shelter@thehskmc.com",
-  "phone": "+1 320-235-7612",
+  "phone": "(320) 235-7612",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1171746275"
+  "osm": "way/1171746275",
+  "events": []
  },
  {
   "state": "MN",
@@ -299,7 +310,8 @@
   "email_main": "info@crossroadsshelter.org",
   "phone": "(763) 684-1234",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1234123797"
+  "osm": "way/1234123797",
+  "events": []
  },
  {
   "state": "MN",
@@ -314,7 +326,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "contact@heartofminnesota.org",
-  "phone": "+1-320-234-9699",
+  "phone": "(320) 234-9699",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1422744903",
   "events": [
@@ -360,13 +372,14 @@
   "animals": "Dogs",
   "offers": "Short stay at home",
   "url": "https://tricountyhumanesociety.org/adopt-a-dog/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "The 'TCHS Staycation' on the site is now a donation to sponsor an animal's stay at the shelter, not an outing; no day-out or short-stay program found on adopt, foster or volunteer pages.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "volunteer@tricountyhumanesociety.org",
-  "phone": "+1-320-252-0896",
+  "phone": "(320) 252-0896",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1566940163"
+  "osm": "way/1566940163",
+  "events": []
  },
  {
   "state": "MN",
@@ -382,7 +395,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(763) 489-7729"
+  "phone": "(763) 489-7729",
+  "events": []
  },
  {
   "state": "MN",
@@ -398,7 +412,8 @@
   "email_program": "",
   "email_main": "info@mesabihumanesociety.org",
   "source_list": "shelter website",
-  "phone": "(218) 741-7425"
+  "phone": "(218) 741-7425",
+  "events": []
  },
  {
   "state": "MN",
@@ -414,7 +429,8 @@
   "email_program": "",
   "email_main": "office@winonahumane.org",
   "source_list": "shelter website",
-  "phone": "(507) 452-3135"
+  "phone": "(507) 452-3135",
+  "events": []
  },
  {
   "state": "MN",
@@ -430,7 +446,8 @@
   "email_program": "",
   "email_main": "info@pawsandclaws.org",
   "source_list": "shelter website",
-  "phone": "(507) 288-7226"
+  "phone": "(507) 288-7226",
+  "events": []
  },
  {
   "state": "MN",
@@ -446,7 +463,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(507) 328-6960"
+  "phone": "(507) 328-6960",
+  "events": []
  },
  {
   "state": "MN",
@@ -461,7 +479,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": ""
  },
  {
   "state": "MN",
@@ -477,7 +497,8 @@
   "email_program": "",
   "email_main": "Shelter@animalarkMN.org",
   "source_list": "shelter website",
-  "phone": "(651) 772-8983"
+  "phone": "(651) 772-8983",
+  "events": []
  },
  {
   "state": "MN",
@@ -493,7 +514,8 @@
   "email_program": "",
   "email_main": "info@northwoodshs.org",
   "source_list": "shelter website",
-  "phone": "(651) 982-0240"
+  "phone": "(651) 982-0240",
+  "events": []
  },
  {
   "state": "MN",
@@ -509,7 +531,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(952) 894-9065"
+  "phone": "(952) 894-9065",
+  "events": []
  },
  {
   "state": "MN",
@@ -525,7 +548,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(218) 606-1162"
+  "phone": "(218) 722-5341",
+  "events": []
  },
  {
   "state": "MN",
@@ -541,7 +565,8 @@
   "email_program": "",
   "email_main": "office@lakecountyhumanesociety.org",
   "source_list": "shelter website",
-  "phone": "(218) 834-5806"
+  "phone": "(218) 834-5806",
+  "events": []
  },
  {
   "state": "MN",
@@ -557,7 +582,8 @@
   "email_program": "",
   "email_main": "office@contentedcrittersmn.org",
   "source_list": "shelter website",
-  "phone": "(218) 638-2153"
+  "phone": "(218) 638-2153",
+  "events": []
  },
  {
   "state": "MN",
@@ -573,7 +599,8 @@
   "email_program": "",
   "email_main": "shelter@pphsc.com",
   "source_list": "shelter website",
-  "phone": "(218) 254-3300"
+  "phone": "(218) 254-3300",
+  "events": []
  },
  {
   "state": "MN",
@@ -589,7 +616,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(218) 262-1900"
+  "phone": "(218) 262-1900",
+  "events": []
  },
  {
   "state": "MN",
@@ -629,7 +657,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(218) 829-4141"
+  "phone": "(218) 829-4141",
+  "events": []
  },
  {
   "state": "MN",
@@ -645,7 +674,8 @@
   "email_program": "",
   "email_main": "help@mcahs.org",
   "source_list": "shelter website",
-  "phone": "(320) 632-0703"
+  "phone": "(320) 632-0703",
+  "events": []
  },
  {
   "state": "MN",
@@ -661,7 +691,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(218) 237-7100"
+  "phone": "(218) 237-7100",
+  "events": []
  },
  {
   "state": "MN",
@@ -677,7 +708,8 @@
   "email_program": "",
   "email_main": "info@pawsandclawsrr.org",
   "source_list": "shelter website",
-  "phone": "(218) 675-7297"
+  "phone": "(218) 675-7297",
+  "events": []
  },
  {
   "state": "MN",
@@ -693,7 +725,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(218) 434-1444"
+  "phone": "(218) 434-1444",
+  "events": []
  },
  {
   "state": "MN",
@@ -709,7 +742,8 @@
   "email_program": "",
   "email_main": "wadenacountyhumanesociety@gmail.com",
   "source_list": "shelter website",
-  "phone": "(218) 632-5938"
+  "phone": "(218) 632-5938",
+  "events": []
  },
  {
   "state": "MN",
@@ -725,7 +759,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "MN",
@@ -741,7 +776,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "mn.gov adresources (state directory); petfinder MN145",
-  "phone": "(218) 739-3494"
+  "phone": "(218) 739-3494",
+  "events": []
  },
  {
   "state": "MN",
@@ -757,7 +793,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "mn.gov adresources (state directory); petfinder MN102",
-  "phone": "(218) 681-8045"
+  "phone": "(218) 681-8045",
+  "events": []
  },
  {
   "state": "MN",
@@ -773,7 +810,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "mn.gov adresources (state directory); adoptapet 104385",
-  "phone": "(218) 847-0511"
+  "phone": "(218) 847-0511",
+  "events": []
  },
  {
   "state": "MN",
@@ -789,7 +827,8 @@
   "email_program": "",
   "email_main": "info@rbhspets.org",
   "source_list": "shelter website",
-  "phone": "(651) 388-5286"
+  "phone": "(651) 388-5286",
+  "events": []
  },
  {
   "state": "MN",
@@ -804,7 +843,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "",
+  "events": []
  },
  {
   "state": "MN",
@@ -820,7 +861,8 @@
   "email_program": "",
   "email_main": "freeborncohumanesociety@gmail.com",
   "source_list": "shelter website",
-  "phone": "(507) 377-8501"
+  "phone": "(507) 377-8501",
+  "events": []
  },
  {
   "state": "MN",
@@ -836,7 +878,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(507) 238-1885"
+  "phone": "(507) 238-1885",
+  "events": []
  },
  {
   "state": "MN",
@@ -852,7 +895,8 @@
   "email_program": "",
   "email_main": "bchsnu@hotmail.com",
   "source_list": "shelter website",
-  "phone": "(507) 359-2312"
+  "phone": "(507) 359-2312",
+  "events": []
  },
  {
   "state": "MN",
@@ -868,7 +912,8 @@
   "email_program": "",
   "email_main": "newchanceshs@gmail.com",
   "source_list": "shelter website",
-  "phone": "(507) 526-5160"
+  "phone": "(507) 526-5160",
+  "events": []
  },
  {
   "state": "MN",
@@ -884,7 +929,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(507) 942-7387"
+  "phone": "(507) 942-7387",
+  "events": []
  },
  {
   "state": "MN",
@@ -900,7 +946,8 @@
   "email_program": "",
   "email_main": "info@lacrescentanimalrescue.com",
   "source_list": "shelter website",
-  "phone": "(507) 895-2066"
+  "phone": "(507) 895-2066",
+  "events": []
  },
  {
   "state": "MN",
@@ -915,7 +962,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "",
+  "events": []
  },
  {
   "state": "MN",
@@ -931,7 +980,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MN",
@@ -947,7 +997,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MN",
@@ -963,7 +1014,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MN",
@@ -979,7 +1031,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MN",
@@ -995,7 +1048,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MN",
@@ -1011,7 +1065,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "MN",
@@ -1027,6 +1082,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  }
 ]

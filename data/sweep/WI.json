@@ -14,7 +14,8 @@
   "email_main": "amhspets@amerytel.net",
   "phone": "(715) 268-7387",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -31,7 +32,8 @@
   "email_main": "langladeshelter@live.com",
   "phone": "(715) 627-4333",
   "source": "https://www.langladecountyhumanesociety.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -48,7 +50,8 @@
   "email_main": "info@foxvalleypets.org",
   "phone": "(920) 733-1717",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/543216514"
+  "osm": "way/543216514",
+  "events": []
  },
  {
   "state": "WI",
@@ -65,7 +68,8 @@
   "email_main": "chaadopt@yahoo.com",
   "phone": "(715) 682-9744",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -82,7 +86,8 @@
   "email_main": "shelter@saukhumane.org",
   "phone": "(608) 356-2520",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -99,7 +104,8 @@
   "email_main": "hsbcpets@gmail.com",
   "phone": "(715) 537-9063",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -116,7 +122,8 @@
   "email_main": "animal.shelter@jacksoncountywi.gov",
   "phone": "(715) 284-0251",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -133,7 +140,8 @@
   "email_main": "tchspets@gmail.com",
   "phone": "(608) 525-2300",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -150,7 +158,8 @@
   "email_main": "Elmbrookhs@ebhs.org",
   "phone": "(262) 782-9261",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -167,7 +176,8 @@
   "email_main": "ehashelter@gmail.com",
   "phone": "(920) 849-2390",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/772007390"
+  "osm": "way/772007390",
+  "events": []
  },
  {
   "state": "WI",
@@ -184,7 +194,8 @@
   "email_main": "info@chippewahumane.org",
   "phone": "(715) 861-5748",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -195,13 +206,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.forestcountyhumanesociety.org/",
-  "notes": "701 Industrial Pkwy, Crandon. Hours Wed-Fri 2-6; site says appointment only until further notice (email for appointment).",
+  "notes": "701 Industrial Pkwy, Crandon. Hours Wed-Fri 2-6, Sat 10-4; other times by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "foresthumane1@yahoo.com",
   "phone": "(715) 478-2098",
   "source": "https://www.forestcountyhumanesociety.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -218,7 +230,8 @@
   "email_main": "adopt@lakelandanimalshelter.org",
   "phone": "(262) 723-1000",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/14322166169"
+  "osm": "node/14322166169",
+  "events": []
  },
  {
   "state": "WI",
@@ -235,7 +248,8 @@
   "email_main": "office@ichs.net",
   "phone": "(608) 935-1381",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/379992232"
+  "osm": "way/379992232",
+  "events": []
  },
  {
   "state": "WI",
@@ -246,13 +260,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "",
-  "notes": "Small shelter (5 dog kennels, 9 cat kennels) at 1008 W Wells St; no own website found. Petfinder lists (715) 672-8389, pchs_wi@yahoo.com (unverified).",
+  "notes": "Small shelter (5 dog kennels, 9 cat kennels) at 1008 W Wells St; no own website found. Phone and email from Pepin County 2026 government directory.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "pchs_wi@yahoo.com",
+  "phone": "(715) 672-8389",
   "source": "https://www.petfinder.com/member/us/wi/durand/pepin-county-humane-society-wi09/",
-  "source_list": "Petfinder"
+  "source_list": "Petfinder",
+  "events": []
  },
  {
   "state": "WI",
@@ -269,7 +284,8 @@
   "email_main": "vilashumane@yahoo.com",
   "phone": "(715) 479-9777",
   "source": "https://vilascountypets.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -286,7 +302,8 @@
   "email_main": "info@eccha.org",
   "phone": "(715) 839-4747 ext. 1021",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -303,7 +320,8 @@
   "email_main": "petcare@fdlhumane.org",
   "phone": "(920) 922-8873",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -320,24 +338,26 @@
   "email_main": "achs@adamscountyhumanesociety.org",
   "phone": "(608) 339-6700",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
   "city": "Green Bay",
   "org": "Happily Ever After Animal Sanctuary",
-  "program": "Sleepover",
-  "status": "Needs check",
+  "program": "Destination HEA",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Sleepover",
-  "url": "https://www.heanokill.org/",
-  "notes": "No-kill. Adoption Center 2255 Fox Heights Ln, Green Bay (adoptions by appointment with approved application); sanctuary at E5714 Bork Rd, Marion (visits by appointment).",
+  "offers": "Overnight sleepovers with a shelter animal",
+  "url": "https://www.heanokill.org/staywithhea.html",
+  "notes": "Guests book an overnight stay with a shelter cat or dog in a guest cottage at HEA's Marion sanctuary ($125/night), open to approved adopters and anyone wanting companionship.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "community@heanokill.org",
   "email_main": "",
   "phone": "(920) 634-9701",
   "source": "https://www.heanokill.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -348,13 +368,14 @@
   "animals": "Cats",
   "offers": "Cat cafe visits with adoptable Safe Haven cats",
   "url": "https://safehavenpet.org/project_category/pawffee-shop/",
-  "notes": "Sanctuary (151 N Broadway, Green Bay) lists itself as temporarily closed pending building situation; adoptable cats shown at sister location The Pawffee Shop Cat Cafe, 1745 N Casaloma Dr, Appleton. Verify status.",
+  "notes": "Own site says the 151 N Broadway building is closed after flooding and a small number of cats are temporarily housed at St. Paul's UMC, 341 Wilson Ave, Green Bay (visits Fri 12-6, Sat-Sun 12-4, $3 entry, half-hour slots); The Pawffee Shop in Appleton is described as its rescue partner, but the program page could not be opened, so cafe status is unverified.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "safehavenpetsanctuary@gmail.com",
   "phone": "(920) 489-2462",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/6021113037"
+  "osm": "node/6021113037",
+  "events": []
  },
  {
   "state": "WI",
@@ -371,7 +392,8 @@
   "email_main": "",
   "phone": "(920) 469-3110",
   "source": "https://www.wihumane.org/location/green-bay-campus/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -388,7 +410,8 @@
   "email_main": "adopt@glaas.org",
   "phone": "(920) 294-3042",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -405,7 +428,8 @@
   "email_main": "paws@northwoodshumanesociety.org",
   "phone": "(715) 634-5394",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -420,7 +444,23 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoption@petsgohome.org",
-  "phone": "(608) 752-5622"
+  "phone": "(608) 752-5622",
+  "events": [
+   {
+    "date": "2026-11-02",
+    "end": "2026-11-30",
+    "title": "Adopt a Senior Pet Month (senior dog fees $100, senior cat fees waived)",
+    "url": "https://www.petsgohome.org/adopt/",
+    "place": "Humane Society of Southern Wisconsin, 4700 S County Trunk G, Janesville"
+   },
+   {
+    "date": "2026-12-11",
+    "end": "2026-12-17",
+    "title": "Holiday Pet Adoption Program Event (fees waived for first 50 adoptions)",
+    "url": "https://www.petsgohome.org/adopt/",
+    "place": "Humane Society of Southern Wisconsin, 4700 S County Trunk G, Janesville"
+   }
+  ]
  },
  {
   "state": "WI",
@@ -437,7 +477,8 @@
   "email_main": "shelter@hsjc-wis.com",
   "phone": "(920) 674-2048",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/2862314153"
+  "osm": "node/2862314153",
+  "events": []
  },
  {
   "state": "WI",
@@ -454,7 +495,8 @@
   "email_main": "",
   "phone": "(920) 386-0000",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -496,7 +538,8 @@
   "email_main": "",
   "phone": "(262) 694-4047",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -513,7 +556,8 @@
   "email_main": "ruskanimals@ruskcountywi.gov",
   "phone": "(715) 532-2637",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -530,7 +574,8 @@
   "email_main": "gchslancasterwi@gmail.com",
   "phone": "(608) 723-6366",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -545,7 +590,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(608) 838-0413 ext. 145"
+  "phone": "(608) 838-0413 ext. 145",
+  "events": []
  },
  {
   "state": "WI",
@@ -562,7 +608,8 @@
   "email_main": "info@lakeshorehumane.org",
   "phone": "(920) 684-5401",
   "source": "https://www.lakeshorehumane.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -579,7 +626,8 @@
   "email_main": "",
   "phone": "(715) 486-5140",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -596,7 +644,8 @@
   "email_main": "",
   "phone": "(608) 847-4060",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -613,7 +662,8 @@
   "email_main": "",
   "phone": "",
   "source": "https://www.petfinder.com/member/us/wi/medford/taylor-county-wi-humane-society-inc-wi335",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -630,7 +680,8 @@
   "email_main": "info@dunncountyhumanesociety.org",
   "phone": "(715) 232-9790",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1204060853"
+  "osm": "way/1204060853",
+  "events": []
  },
  {
   "state": "WI",
@@ -647,7 +698,8 @@
   "email_main": "manager@furrypets.com",
   "phone": "(715) 536-3459",
   "source": "https://furrypets.com/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -661,10 +713,11 @@
   "notes": "Cage-free shelter at 925 E Ogden Ave. Open house Tue & Thu 6-8 pm, Sat & Sun 10 am-2 pm; free, $5 donation suggested.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@almosthomemke.com",
   "phone": "",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -681,7 +734,8 @@
   "email_main": "secondhandpurrs@gmail.com",
   "phone": "(414) 727-7877",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -691,14 +745,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.wihumane.org/contact/milwaukee-campus",
+  "url": "https://www.wihumane.org/location/milwaukee-campus/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(414) 264-6257",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/428924059"
+  "osm": "way/428924059",
+  "events": []
  },
  {
   "state": "WI",
@@ -720,7 +775,7 @@
    {
     "date": "2026-12-05",
     "title": "PETCO Meet and Greet / Adoption Fair",
-    "url": "https://www.bchapets.org/",
+    "url": "https://www.bchapets.org/event-details/petco-meet-and-greet-adoption-fair-2026-12-05-11-00",
     "place": "Petco, Eau Claire"
    }
   ]
@@ -740,7 +795,8 @@
   "email_main": "shelter@greencountyhumane.org",
   "phone": "(608) 325-9600",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -757,7 +813,8 @@
   "email_main": "contact@littleorphans.org",
   "phone": "(608) 297-9909",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -774,7 +831,8 @@
   "email_main": "",
   "phone": "(262) 554-6699",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -791,7 +849,8 @@
   "email_main": "neenahanimalshelter@gmail.com",
   "phone": "(920) 722-9544",
   "source": "https://www.neenahanimalshelter.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -808,7 +867,8 @@
   "email_main": "petshelter@email.com",
   "phone": "(715) 743-4550",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -825,7 +885,8 @@
   "email_main": "ggohinc@gmail.com",
   "phone": "(715) 246-2467",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/7877069968"
+  "osm": "node/7877069968",
+  "events": []
  },
  {
   "state": "WI",
@@ -842,7 +903,8 @@
   "email_main": "hello@thewhiskersociety.com",
   "phone": "(262) 315-8228",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -859,7 +921,8 @@
   "email_main": "ocontoareahumane@gmail.com",
   "phone": "(920) 835-1738",
   "source": "https://www.ocontoareahumane.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -876,7 +939,8 @@
   "email_main": "frontdesk@couleehumane.com",
   "phone": "(608) 781-4014",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/592739266"
+  "osm": "way/592739266",
+  "events": []
  },
  {
   "state": "WI",
@@ -893,7 +957,8 @@
   "email_main": "info@oahs.org",
   "phone": "(920) 424-2128",
   "source": "https://www.oahs.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -910,7 +975,8 @@
   "email_main": "Catkins_wi@yahoo.com",
   "phone": "(715) 762-0122",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -927,7 +993,8 @@
   "email_main": "adoption@hspcwi.org",
   "phone": "(715) 344-6012",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/634430085"
+  "osm": "way/634430085",
+  "events": []
  },
  {
   "state": "WI",
@@ -944,7 +1011,8 @@
   "email_main": "savink9s@aol.com",
   "phone": "(608) 742-3666",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -961,7 +1029,8 @@
   "email_main": "manager@riversandbluffsanimalshelter.org",
   "phone": "(608) 380-1559",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/6511556753"
+  "osm": "node/6511556753",
+  "events": []
  },
  {
   "state": "WI",
@@ -978,7 +1047,8 @@
   "email_main": "adoption@ochspets.org",
   "phone": "(715) 362-5992",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12808349320"
+  "osm": "node/12808349320",
+  "events": []
  },
  {
   "state": "WI",
@@ -995,7 +1065,8 @@
   "email_main": "omhs2026am@gmail.com",
   "phone": "(608) 475-9964",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1012,7 +1083,8 @@
   "email_main": "",
   "phone": "(262) 377-7580",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1029,7 +1101,8 @@
   "email_main": "crittercare@frontiernet.net",
   "phone": "(715) 526-2606",
   "source": "https://shawanohumanesociety.com/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1046,7 +1119,8 @@
   "email_main": "info@SCAdopt.org",
   "phone": "(920) 458-2012",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1063,7 +1137,8 @@
   "email_main": "",
   "phone": "(262) 677-4388",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1080,7 +1155,8 @@
   "email_main": "asapcatshelter@hotmail.com",
   "phone": "(608) 487-7305",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1097,7 +1173,8 @@
   "email_main": "monroecountydogshelter@gmail.com",
   "phone": "(608) 269-8775",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1114,7 +1191,8 @@
   "email_main": "wcahumanesociety@gmail.com",
   "phone": "(715) 635-4720",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1131,7 +1209,8 @@
   "email_main": "",
   "phone": "(920) 746-1111",
   "source": "https://www.wihumane.org/contact",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1148,7 +1227,8 @@
   "email_main": "hsdcpets@gmail.com",
   "phone": "(715) 398-6784",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/960724575"
+  "osm": "way/960724575",
+  "events": []
  },
  {
   "state": "WI",
@@ -1165,7 +1245,8 @@
   "email_main": "",
   "phone": "(608) 374-2112",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1182,7 +1263,8 @@
   "email_main": "driftlesshumane@gmail.com",
   "phone": "(608) 637-6955",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1199,7 +1281,8 @@
   "email_main": "",
   "phone": "(715) 513-6106",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/9847395969"
+  "osm": "node/9847395969",
+  "events": []
  },
  {
   "state": "WI",
@@ -1216,7 +1299,8 @@
   "email_main": "",
   "phone": "",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1233,7 +1317,8 @@
   "email_main": "",
   "phone": "(262) 542-8851",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1250,7 +1335,8 @@
   "email_main": "waupacahumane@yahoo.com",
   "phone": "(715) 258-2545",
   "source": "https://www.waupacahumane.org/",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1267,7 +1353,8 @@
   "email_main": "info@catsndogs.org",
   "phone": "(715) 845-2810",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1136337981"
+  "osm": "way/1136337981",
+  "events": []
  },
  {
   "state": "WI",
@@ -1284,7 +1371,8 @@
   "email_main": "wausharacoanimalshelter@gmail.com",
   "phone": "(920) 279-9795",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1301,7 +1389,8 @@
   "email_main": "rescue.HSBC@gmail.com",
   "phone": "(715) 349-2368",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1318,7 +1407,8 @@
   "email_main": "info@madacc.org",
   "phone": "(414) 649-8640",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/11457632918"
+  "osm": "node/11457632918",
+  "events": []
  },
  {
   "state": "WI",
@@ -1335,7 +1425,8 @@
   "email_main": "felinecaninefriends80@gmail.com",
   "phone": "",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",
@@ -1352,7 +1443,8 @@
   "email_main": "",
   "phone": "(262) 458-2045",
   "source": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "WI",

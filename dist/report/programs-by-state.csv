@@ -22,7 +22,7 @@ ME,Maine,28,7,2,1,25.00%
 MD,Maryland,36,14,8,3,38.89%
 MA,Massachusetts,87,1,0,1,1.15%
 MI,Michigan,181,24,14,6,13.26%
-MN,Minnesota,59,8,4,2,13.56%
+MN,Minnesota,59,8,4,3,13.56%
 MS,Mississippi,37,1,0,0,2.70%
 MO,Missouri,88,11,8,1,12.50%
 MT,Montana,28,4,2,1,14.29%
@@ -48,5 +48,5 @@ VT,Vermont,13,0,0,0,0.00%
 VA,Virginia,136,24,15,6,17.65%
 WA,Washington,74,12,4,3,16.22%
 WV,West Virginia,49,2,0,0,4.08%
-WI,Wisconsin,80,17,8,4,21.25%
+WI,Wisconsin,80,17,9,4,21.25%
 WY,Wyoming,27,5,1,2,18.52%
