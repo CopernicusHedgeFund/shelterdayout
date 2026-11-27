@@ -188,6 +188,7 @@ https://shelteradoption.com/cities/galesburg-il/
 https://shelteradoption.com/cities/gallup-nm/
 https://shelteradoption.com/cities/georgetown-de/
 https://shelteradoption.com/cities/georgetown-tx/
+https://shelteradoption.com/cities/glenfield-ny/
 https://shelteradoption.com/cities/gloucester-va/
 https://shelteradoption.com/cities/goleta-ca/
 https://shelteradoption.com/cities/gonzales-tx/
@@ -1533,6 +1534,7 @@ https://shelteradoption.com/shelters/cortez-animal-shelter-city-of-cortez-animal
 https://shelteradoption.com/shelters/cortland-county-spca-cortland/
 https://shelteradoption.com/shelters/coshocton-county-animal-shelter-coshocton/
 https://shelteradoption.com/shelters/coulee-region-humane-society-onalaska/
+https://shelteradoption.com/shelters/country-acres-animal-shelter-homer/
 https://shelteradoption.com/shelters/country-cat-lady-wayland/
 https://shelteradoption.com/shelters/cove-animal-rescue-city-of-glen-cove-animal-shelter-glen-cove/
 https://shelteradoption.com/shelters/coventry-animal-control-coventry/
@@ -1740,6 +1742,7 @@ https://shelteradoption.com/shelters/escambia-county-animal-welfare-pensacola/
 https://shelteradoption.com/shelters/espa-ola-valley-humane-society-espa-ola/
 https://shelteradoption.com/shelters/espurresso-cat-cafe-bayside/
 https://shelteradoption.com/shelters/essex-county-animal-shelter-tappahannock/
+https://shelteradoption.com/shelters/estherville-animal-shelter-alberta-and-winonica-memorial-animal-shelter-greenfield-center/
 https://shelteradoption.com/shelters/estill-county-animal-shelter-ravenna/
 https://shelteradoption.com/shelters/etosha-rescue-and-adoption-center-seguin/
 https://shelteradoption.com/shelters/etowah-county-animal-shelter-gadsden/
@@ -2527,6 +2530,7 @@ https://shelteradoption.com/shelters/jackson-teton-county-animal-shelter-jackson
 https://shelteradoption.com/shelters/jacksonville-animal-shelter-jacksonville/
 https://shelteradoption.com/shelters/jacksonville-animal-shelter-jacksonville-2/
 https://shelteradoption.com/shelters/jacksonville-humane-society-jacksonville/
+https://shelteradoption.com/shelters/james-a-brennan-memorial-humane-society-gloversville/
 https://shelteradoption.com/shelters/james-river-humane-society-jamestown/
 https://shelteradoption.com/shelters/jasper-county-animal-control-monticello/
 https://shelteradoption.com/shelters/jasper-county-animal-control-newton/
@@ -3218,6 +3222,7 @@ https://shelteradoption.com/shelters/north-augusta-animal-control-shelter-north-
 https://shelteradoption.com/shelters/north-beach-paws-hoquiam/
 https://shelteradoption.com/shelters/north-country-animal-control-center-malone/
 https://shelteradoption.com/shelters/north-country-animal-league-morrisville/
+https://shelteradoption.com/shelters/north-country-pet-adoption-services-glenfield/
 https://shelteradoption.com/shelters/north-country-spca-elizabethtown/
 https://shelteradoption.com/shelters/north-haven-animal-control-north-haven/
 https://shelteradoption.com/shelters/north-jersey-community-animal-shelter-bloomingdale/
@@ -3325,6 +3330,7 @@ https://shelteradoption.com/shelters/osceola-county-animal-shelter-reed-city/
 https://shelteradoption.com/shelters/oshkosh-area-humane-society-oshkosh/
 https://shelteradoption.com/shelters/oswego-city-animal-shelter-city-of-oswego-animal-control-oswego/
 https://shelteradoption.com/shelters/oswego-county-humane-society-oswego/
+https://shelteradoption.com/shelters/oswego-county-spca-ocawl-cat-room-fulton/
 https://shelteradoption.com/shelters/otero-county-animal-shelter-alamogordo/
 https://shelteradoption.com/shelters/otsego-county-animal-shelter-gaylord/
 https://shelteradoption.com/shelters/ottawa-county-dog-warden-oak-harbor/

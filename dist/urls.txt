@@ -31,6 +31,7 @@ https://shelterdayout.com/cities/anchorage-ak/
 https://shelterdayout.com/cities/anderson-sc/
 https://shelterdayout.com/cities/ann-arbor-mi/
 https://shelterdayout.com/cities/appleton-wi/
+https://shelterdayout.com/cities/aquebogue-ny/
 https://shelterdayout.com/cities/archbold-oh/
 https://shelterdayout.com/cities/arlington-va/
 https://shelterdayout.com/cities/asbury-park-nj/
@@ -71,6 +72,7 @@ https://shelterdayout.com/cities/branson-mo/
 https://shelterdayout.com/cities/brenham-tx/
 https://shelterdayout.com/cities/briarcliff-manor-ny/
 https://shelterdayout.com/cities/bridgeville-pa/
+https://shelterdayout.com/cities/broadalbin-ny/
 https://shelterdayout.com/cities/brookings-sd/
 https://shelterdayout.com/cities/brooklyn-ny/
 https://shelterdayout.com/cities/brunswick-me/
@@ -339,6 +341,7 @@ https://shelterdayout.com/cities/modesto-ca/
 https://shelterdayout.com/cities/moncks-corner-sc/
 https://shelterdayout.com/cities/monroe-mi/
 https://shelterdayout.com/cities/montclair-nj/
+https://shelterdayout.com/cities/montour-falls-ny/
 https://shelterdayout.com/cities/moore-ok/
 https://shelterdayout.com/cities/mt-pleasant-mi/
 https://shelterdayout.com/cities/munster-in/
@@ -391,6 +394,7 @@ https://shelterdayout.com/cities/parkersburg-wv/
 https://shelterdayout.com/cities/pasadena-ca/
 https://shelterdayout.com/cities/peachtree-city-ga/
 https://shelterdayout.com/cities/pearland-tx/
+https://shelterdayout.com/cities/peconic-ny/
 https://shelterdayout.com/cities/pequot-lakes-mn/
 https://shelterdayout.com/cities/philadelphia-pa/
 https://shelterdayout.com/cities/phoenix-az/
@@ -1584,6 +1588,7 @@ https://shelterdayout.com/listings/cortez-animal-shelter-city-of-cortez-animal-s
 https://shelterdayout.com/listings/cortland-county-spca-cortland/
 https://shelterdayout.com/listings/coshocton-county-animal-shelter-coshocton/
 https://shelterdayout.com/listings/coulee-region-humane-society-onalaska/
+https://shelterdayout.com/listings/country-acres-animal-shelter-homer/
 https://shelterdayout.com/listings/country-cat-lady-wayland/
 https://shelterdayout.com/listings/cove-animal-rescue-city-of-glen-cove-animal-shelter-glen-cove/
 https://shelterdayout.com/listings/coventry-animal-control-coventry/
@@ -1791,6 +1796,7 @@ https://shelterdayout.com/listings/escambia-county-animal-welfare-pensacola/
 https://shelterdayout.com/listings/espa-ola-valley-humane-society-espa-ola/
 https://shelterdayout.com/listings/espurresso-cat-cafe-bayside/
 https://shelterdayout.com/listings/essex-county-animal-shelter-tappahannock/
+https://shelterdayout.com/listings/estherville-animal-shelter-alberta-and-winonica-memorial-animal-shelter-greenfield-center/
 https://shelterdayout.com/listings/estill-county-animal-shelter-ravenna/
 https://shelterdayout.com/listings/etosha-rescue-and-adoption-center-seguin/
 https://shelterdayout.com/listings/etowah-county-animal-shelter-gadsden/
@@ -2578,6 +2584,7 @@ https://shelterdayout.com/listings/jackson-teton-county-animal-shelter-jackson/
 https://shelterdayout.com/listings/jacksonville-animal-shelter-jacksonville/
 https://shelterdayout.com/listings/jacksonville-animal-shelter-jacksonville-2/
 https://shelterdayout.com/listings/jacksonville-humane-society-jacksonville/
+https://shelterdayout.com/listings/james-a-brennan-memorial-humane-society-gloversville/
 https://shelterdayout.com/listings/james-river-humane-society-jamestown/
 https://shelterdayout.com/listings/jasper-county-animal-control-monticello/
 https://shelterdayout.com/listings/jasper-county-animal-control-newton/
@@ -3269,6 +3276,7 @@ https://shelterdayout.com/listings/north-augusta-animal-control-shelter-north-au
 https://shelterdayout.com/listings/north-beach-paws-hoquiam/
 https://shelterdayout.com/listings/north-country-animal-control-center-malone/
 https://shelterdayout.com/listings/north-country-animal-league-morrisville/
+https://shelterdayout.com/listings/north-country-pet-adoption-services-glenfield/
 https://shelterdayout.com/listings/north-country-spca-elizabethtown/
 https://shelterdayout.com/listings/north-haven-animal-control-north-haven/
 https://shelterdayout.com/listings/north-jersey-community-animal-shelter-bloomingdale/
@@ -3376,6 +3384,7 @@ https://shelterdayout.com/listings/osceola-county-animal-shelter-reed-city/
 https://shelterdayout.com/listings/oshkosh-area-humane-society-oshkosh/
 https://shelterdayout.com/listings/oswego-city-animal-shelter-city-of-oswego-animal-control-oswego/
 https://shelterdayout.com/listings/oswego-county-humane-society-oswego/
+https://shelterdayout.com/listings/oswego-county-spca-ocawl-cat-room-fulton/
 https://shelterdayout.com/listings/otero-county-animal-shelter-alamogordo/
 https://shelterdayout.com/listings/otsego-county-animal-shelter-gaylord/
 https://shelterdayout.com/listings/ottawa-county-dog-warden-oak-harbor/
