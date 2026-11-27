@@ -2157,7 +2157,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(530) 527-3439"
  },
  {
   "state": "CA",
@@ -2187,7 +2188,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "contact@ninelivesfoundation.org",
   "source_list": "shelter website",
   "phone": "(650) 368-1365"
  },
@@ -2205,7 +2206,7 @@
   "email_program": "",
   "email_main": "info@petsinneed.org",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(650) 367-1405"
  },
  {
   "state": "CA",
@@ -2268,7 +2269,16 @@
   "email_program": "supervisor@petsadoption.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(951) 688-4340"
+  "phone": "(951) 688-4340",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Yule Love Them adoption special: cats $20, dogs $50",
+    "url": "https://www.petsadoption.org/index.php/news/event-calendar/274-adopt-a-cat-for-20-or-a-dog-for-50-in-riverside-december-1-11",
+    "place": "Mary S. Roberts Pet Adoption Center, Riverside"
+   }
+  ]
  },
  {
   "state": "CA",
@@ -2282,7 +2292,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animal@rpcity.org",
   "source_list": "shelter website",
   "phone": "(707) 584-1582"
  },
@@ -2295,11 +2305,12 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://animalcare.saccounty.gov/us/en/barks-and-recreation-program.html",
-  "notes": "Book a meet-and-greet appointment online first.",
+  "notes": "Book a meet-and-greet appointment online first; pick from a pre-selected list of dogs and return by 4pm. A backpack with leash, harness and water is provided.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "countyanimalcare@saccounty.gov",
+  "email_main": "countyanimalcare@saccounty.gov",
+  "source_list": "shelter website",
+  "phone": "(916) 368-7387"
  },
  {
   "state": "CA",
@@ -2314,7 +2325,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(916) 808-7387"
  },
  {
   "state": "CA",
@@ -2322,7 +2334,7 @@
   "org": "Happy Tails Pet Sanctuary",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "url": "http://www.happytails.org/",
   "notes": "",
@@ -2337,16 +2349,16 @@
   "city": "Sacramento",
   "org": "Sacramento SPCA",
   "program": "Foster FURlough",
-  "status": "Volunteers only",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip, sleepover",
-  "url": "https://www.sspca.org/blog-post/foster-fur-lough",
-  "notes": "Approved fosters can take an adoptable dog out for a few hours, a full day or overnight. Start by attending a foster orientation (sign up at sspca.org/foster).",
+  "url": "https://www.sspca.org/post/foster-furlough-0",
+  "notes": "Complete a 10-15 minute online FURlough orientation and a FURlough Friend Profile, then schedule a pickup appointment to take an adoptable dog on a field trip (appointments typically Mon-Sun).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "DogFosterRescue@sspca.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(916) 383-7062"
+  "phone": "(916) 383-7387"
  },
  {
   "state": "CA",
@@ -2371,7 +2383,7 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip, sleepover",
-  "url": "https://www.spcamc.org/ddo",
+  "url": "https://www.spcamc.org/how-to-help/volunteer/doggy-day-out.html",
   "notes": "Day outings of at least 2 hours with medium/large dogs waiting 2+ weeks; apply online, advance sign-up or limited walk-in spots; dogs stay leashed and may not meet other dogs. Pawjama Parties are 1-2 night sleepovers for homes with no other pets.",
   "checked": "November 2026",
   "email_program": "fosterprogram@spcamc.org",
@@ -2380,8 +2392,9 @@
   "events": [
    {
     "date": "2026-11-27",
-    "title": "Black Friday adoption event",
-    "url": "https://spcamc.org/about"
+    "title": "Black Friday Adoption Event (free adoptions)",
+    "url": "https://www.spcamc.org/adopt/adoption-event.html",
+    "place": "SPCA Monterey County, 1002 Monterey Salinas Hwy, Salinas"
    }
   ],
   "phone": "(831) 373-2631"
@@ -2398,7 +2411,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "sbcitypets@sbcity.org",
   "source_list": "shelter website",
   "phone": "(909) 998-4000"
  },
@@ -4021,7 +4034,8 @@
   "checked": "November 2026",
   "email_program": "HelpingHands@Maderacounty.com",
   "email_main": "AnimalControl@Maderacounty.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(559) 675-7891"
  },
  {
   "state": "CA",
@@ -4110,7 +4124,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://pawworks.org/adoption-location",
-  "notes": "",
+  "notes": "Adoption center at 180 W. Hillcrest #9 (The Oaks Mall), Thousand Oaks; rescue facility in Oxnard is by appointment only. No day-out program on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -4126,7 +4140,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://petorphans.org/contact/",
-  "notes": "",
+  "notes": "Shelter at 7720 Gloria Ave, Van Nuys; adoptions Tue-Sat 12-3:30 pm. No day-out program on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@petorphans.org",
@@ -4142,7 +4156,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.aaloc.org/adopt/",
-  "notes": "",
+  "notes": "Humane Center at 15102 Jackson Street, Midway City; visits by appointment only (email aaloc@aaloc.org). No day-out program on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aaloc@aaloc.org",
@@ -4168,17 +4182,17 @@
  {
   "state": "CA",
   "city": "Salinas",
-  "org": "City of Salinas Animal Services Shelter",
+  "org": "Hitchcock Road Animal Services (City of Salinas / Monterey County shelter)",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.salinas.gov/Residents/Animals-and-Pets/Lost-or-Adoptable-Pets",
-  "phone": "",
-  "notes": "",
+  "url": "https://www.countyofmonterey.gov/government/departments-a-h/health/monterey-county-animal-services/adopt-a-pet",
+  "phone": "(831) 769-8850",
+  "notes": "Salinas and Monterey County animal services merged in 2023 into Hitchcock Road Animal Services; animals are housed at 160 Hitchcock Road, Salinas. Adoptions Tue-Sat 1-4 pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalservices@countyofmonterey.gov",
   "source_list": "shelter website"
  },
  {
@@ -4206,22 +4220,6 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.kerncounty.com/government/departments/animal-services",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CA",
-  "city": "Tahoe Vista",
-  "org": "Placer County Animal Services - Tahoe Vista Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.placer.ca.gov/1909/Animal-Services",
   "phone": "",
   "notes": "",
   "checked": "November 2026",
@@ -4301,25 +4299,9 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.visalia.city/depts/general_services/animal_services/lost_n_found.asp",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CA",
-  "city": "Mission Hills",
-  "org": "Best Friends Pet Adoption & Spay/Neuter Center - Mission Hills",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://bestfriends.org/los-angeles",
-  "phone": "",
-  "notes": "",
+  "url": "https://www.visalia.city/depts/transportation_services/animal_services/default.asp",
+  "phone": "(559) 713-4700",
+  "notes": "City shelter at 29016 Highway 99; open Wed-Fri 12-6 pm, Sat-Sun 12-5 pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -4395,11 +4377,11 @@
   "org": "Shelter Hope Pet Shop",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Dogs",
   "offers": "",
   "url": "https://shelterhopepetshop.org/adoption/",
-  "phone": "",
-  "notes": "",
+  "phone": "(805) 379-3538",
+  "notes": "Storefront rescue adoption center at 193 N. Moorpark Rd. East, Suite F, Thousand Oaks; open Wed-Sat 11-5, Sun 11-4. Weekly fee-sponsored adoption for veterans and seniors.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -4415,10 +4397,10 @@
   "offers": "",
   "url": "https://fresnobullyrescue.org/adopt",
   "phone": "",
-  "notes": "",
+  "notes": "Shelter at 11740 East Belmont Avenue, Sanger; open to the public Wed, Fri, Sat, Sun 9am-3pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@fresnobullyrescue.org",
   "source_list": "shelter website"
  },
  {
@@ -4432,22 +4414,6 @@
   "url": "https://www.countyofglenn.net/government/departments/sheriff/animal-control",
   "phone": "",
   "notes": "holding-facility details need a follow-up check.",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "CA",
-  "city": "South Lake Tahoe",
-  "org": "Humane Society of Truckee-Tahoe - South Lake Tahoe",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://hstt.org/south-lake-tahoe",
-  "phone": "",
-  "notes": "adoption-facility details need a follow-up check.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",

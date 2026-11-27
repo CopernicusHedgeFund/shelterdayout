@@ -279,7 +279,6 @@ https://shelteradoption.com/cities/midland-mi/
 https://shelteradoption.com/cities/midland-tx/
 https://shelteradoption.com/cities/milwaukee-wi/
 https://shelteradoption.com/cities/mineola-tx/
-https://shelteradoption.com/cities/mission-hills-ca/
 https://shelteradoption.com/cities/missoula-mt/
 https://shelteradoption.com/cities/moberly-mo/
 https://shelteradoption.com/cities/mobile-al/
@@ -410,7 +409,6 @@ https://shelteradoption.com/cities/shelton-wa/
 https://shelteradoption.com/cities/shinnston-wv/
 https://shelteradoption.com/cities/sioux-city-ia/
 https://shelteradoption.com/cities/south-bend-in/
-https://shelteradoption.com/cities/south-lake-tahoe-ca/
 https://shelteradoption.com/cities/sparta-wi/
 https://shelteradoption.com/cities/spartanburg-sc/
 https://shelteradoption.com/cities/spokane-valley-wa/
@@ -899,7 +897,6 @@ https://shelteradoption.com/shelters/berrien-county-animal-services-benton-harbo
 https://shelteradoption.com/shelters/bertie-county-humane-society-windsor/
 https://shelteradoption.com/shelters/best-friends-animal-sanctuary-kanab/
 https://shelteradoption.com/shelters/best-friends-of-baker-baker-city/
-https://shelteradoption.com/shelters/best-friends-pet-adoption-and-spay-neuter-center-mission-hills-mission-hills/
 https://shelteradoption.com/shelters/best-friends-pet-adoption-center-los-angeles-formerly-nkla-los-angeles/
 https://shelteradoption.com/shelters/best-friends-pet-adoption-center-nyc-soho-new-york/
 https://shelteradoption.com/shelters/best-friends-pet-adoption-center-salt-lake-city/
@@ -1326,7 +1323,6 @@ https://shelteradoption.com/shelters/city-of-rome-animal-control-shelter-rome/
 https://shelteradoption.com/shelters/city-of-ruston-animal-shelter-ruston/
 https://shelteradoption.com/shelters/city-of-safford-animal-control-safford/
 https://shelteradoption.com/shelters/city-of-saginaw-animal-services-saginaw/
-https://shelteradoption.com/shelters/city-of-salinas-animal-services-shelter-salinas/
 https://shelteradoption.com/shelters/city-of-san-bernardino-animal-shelter-san-bernardino/
 https://shelteradoption.com/shelters/city-of-selma-animal-services-center-selma/
 https://shelteradoption.com/shelters/city-of-seymour-animal-shelter-seymour/
@@ -2106,6 +2102,7 @@ https://shelteradoption.com/shelters/hillsborough-county-pet-resource-center-tam
 https://shelteradoption.com/shelters/hillside-spca-pottsville/
 https://shelteradoption.com/shelters/hilton-head-humane-association-hilton-head-island/
 https://shelteradoption.com/shelters/hinsdale-humane-society-hinsdale/
+https://shelteradoption.com/shelters/hitchcock-road-animal-services-city-of-salinas-monterey-county-shelter-salinas/
 https://shelteradoption.com/shelters/hobbs-animal-shelter-hobbs/
 https://shelteradoption.com/shelters/hobo-hotel-for-cats-and-kittens-lake-charles/
 https://shelteradoption.com/shelters/hocking-county-dog-shelter-logan/
@@ -2342,7 +2339,6 @@ https://shelteradoption.com/shelters/humane-society-of-the-tennessee-valley-knox
 https://shelteradoption.com/shelters/humane-society-of-the-treasure-coast-palm-city/
 https://shelteradoption.com/shelters/humane-society-of-the-white-mountains-lakeside/
 https://shelteradoption.com/shelters/humane-society-of-tipton-county-tipton/
-https://shelteradoption.com/shelters/humane-society-of-truckee-tahoe-south-lake-tahoe-south-lake-tahoe/
 https://shelteradoption.com/shelters/humane-society-of-truckee-tahoe-truckee-animal-shelter-truckee/
 https://shelteradoption.com/shelters/humane-society-of-tulsa-tulsa/
 https://shelteradoption.com/shelters/humane-society-of-tuolumne-county-jamestown/
@@ -3419,7 +3415,6 @@ https://shelteradoption.com/shelters/pittsburg-animal-control-shelter-pittsburg/
 https://shelteradoption.com/shelters/pittsburg-county-animal-shelter-mcalester/
 https://shelteradoption.com/shelters/pittsylvania-pet-center-chatham/
 https://shelteradoption.com/shelters/placer-county-animal-services-center-auburn/
-https://shelteradoption.com/shelters/placer-county-animal-services-tahoe-vista-shelter-tahoe-vista/
 https://shelteradoption.com/shelters/placer-spca-adoption-and-education-center-roseville/
 https://shelteradoption.com/shelters/placer-spca-pet-adoption-and-resource-center-auburn/
 https://shelteradoption.com/shelters/plainfield-animal-control-moosup/

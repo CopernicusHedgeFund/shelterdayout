@@ -902,7 +902,6 @@ https://shelterdayout.com/listings/berrien-county-animal-services-benton-harbor/
 https://shelterdayout.com/listings/bertie-county-humane-society-windsor/
 https://shelterdayout.com/listings/best-friends-animal-sanctuary-kanab/
 https://shelterdayout.com/listings/best-friends-of-baker-baker-city/
-https://shelterdayout.com/listings/best-friends-pet-adoption-and-spay-neuter-center-mission-hills-mission-hills/
 https://shelterdayout.com/listings/best-friends-pet-adoption-center-los-angeles-formerly-nkla-los-angeles/
 https://shelterdayout.com/listings/best-friends-pet-adoption-center-nyc-soho-new-york/
 https://shelterdayout.com/listings/best-friends-pet-adoption-center-salt-lake-city/
@@ -1329,7 +1328,6 @@ https://shelterdayout.com/listings/city-of-rome-animal-control-shelter-rome/
 https://shelterdayout.com/listings/city-of-ruston-animal-shelter-ruston/
 https://shelterdayout.com/listings/city-of-safford-animal-control-safford/
 https://shelterdayout.com/listings/city-of-saginaw-animal-services-saginaw/
-https://shelterdayout.com/listings/city-of-salinas-animal-services-shelter-salinas/
 https://shelterdayout.com/listings/city-of-san-bernardino-animal-shelter-san-bernardino/
 https://shelterdayout.com/listings/city-of-selma-animal-services-center-selma/
 https://shelterdayout.com/listings/city-of-seymour-animal-shelter-seymour/
@@ -2109,6 +2107,7 @@ https://shelterdayout.com/listings/hillsborough-county-pet-resource-center-tampa
 https://shelterdayout.com/listings/hillside-spca-pottsville/
 https://shelterdayout.com/listings/hilton-head-humane-association-hilton-head-island/
 https://shelterdayout.com/listings/hinsdale-humane-society-hinsdale/
+https://shelterdayout.com/listings/hitchcock-road-animal-services-city-of-salinas-monterey-county-shelter-salinas/
 https://shelterdayout.com/listings/hobbs-animal-shelter-hobbs/
 https://shelterdayout.com/listings/hobo-hotel-for-cats-and-kittens-lake-charles/
 https://shelterdayout.com/listings/hocking-county-dog-shelter-logan/
@@ -2345,7 +2344,6 @@ https://shelterdayout.com/listings/humane-society-of-the-tennessee-valley-knoxvi
 https://shelterdayout.com/listings/humane-society-of-the-treasure-coast-palm-city/
 https://shelterdayout.com/listings/humane-society-of-the-white-mountains-lakeside/
 https://shelterdayout.com/listings/humane-society-of-tipton-county-tipton/
-https://shelterdayout.com/listings/humane-society-of-truckee-tahoe-south-lake-tahoe-south-lake-tahoe/
 https://shelterdayout.com/listings/humane-society-of-truckee-tahoe-truckee-animal-shelter-truckee/
 https://shelterdayout.com/listings/humane-society-of-tulsa-tulsa/
 https://shelterdayout.com/listings/humane-society-of-tuolumne-county-jamestown/
@@ -3422,7 +3420,6 @@ https://shelterdayout.com/listings/pittsburg-animal-control-shelter-pittsburg/
 https://shelterdayout.com/listings/pittsburg-county-animal-shelter-mcalester/
 https://shelterdayout.com/listings/pittsylvania-pet-center-chatham/
 https://shelterdayout.com/listings/placer-county-animal-services-center-auburn/
-https://shelterdayout.com/listings/placer-county-animal-services-tahoe-vista-shelter-tahoe-vista/
 https://shelterdayout.com/listings/placer-spca-adoption-and-education-center-roseville/
 https://shelterdayout.com/listings/placer-spca-pet-adoption-and-resource-center-auburn/
 https://shelterdayout.com/listings/plainfield-animal-control-moosup/
