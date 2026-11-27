@@ -20,6 +20,60 @@
  {
   "state": "LA",
   "city": "Baton Rouge",
+  "org": "Capital Area Animal Welfare Society (CAAWS)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://caaws.org/",
+  "notes": "Shelter and adoption center at 6357 Quinn Dr (Jefferson Hwy at Tiger Bend); Saturday dog adoptions and cat meet appointments.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "caawsmail@yahoo.com",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Dog adoptions at the shelter / cat meet-and-greet appointments",
+    "url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
+    "place": "CAAWS, 6357 Quinn Dr, Baton Rouge"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Dog adoptions at the shelter / cat meet-and-greet appointments",
+    "url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
+    "place": "CAAWS, 6357 Quinn Dr, Baton Rouge"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Dog adoptions at the shelter / cat meet-and-greet appointments",
+    "url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
+    "place": "CAAWS, 6357 Quinn Dr, Baton Rouge"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Dog adoptions at the shelter / cat meet-and-greet appointments",
+    "url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
+    "place": "CAAWS, 6357 Quinn Dr, Baton Rouge"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "Dog adoptions at the shelter / cat meet-and-greet appointments",
+    "url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
+    "place": "CAAWS, 6357 Quinn Dr, Baton Rouge"
+   },
+   {
+    "date": "2027-01-02",
+    "title": "Dog adoptions at the shelter / cat meet-and-greet appointments",
+    "url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
+    "place": "CAAWS, 6357 Quinn Dr, Baton Rouge"
+   }
+  ]
+ },
+ {
+  "state": "LA",
+  "city": "Baton Rouge",
   "org": "Cat Haven",
   "program": "Cat Haven's Cat Café",
   "status": "Open to public",
@@ -92,6 +146,23 @@
   "email_main": "info@laspca.org",
   "source_list": "shelter website",
   "phone": "(504) 934-6931",
+  "events": []
+ },
+ {
+  "state": "LA",
+  "city": "Bogalusa",
+  "org": "City of Bogalusa Animal Shelter (Animal Control)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.bogalusa.gov/page/animal-control/",
+  "notes": "City animal control operates a shelter with pet adoption services; city offices 214 Arkansas Ave, Mon-Fri 8-4.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
   "events": []
  },
  {
@@ -205,6 +276,23 @@
  },
  {
   "state": "LA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "Animal Control is part of the city's Code Enforcement Department and is open Mon-Thu 7am-4pm and Fri 7am-11am. Adoption costs $40, plus a $15-per-day shelter fee and the cost of required vaccinations.",
+  "checked": "November 2026",
+  "phone": "(337) 788-4156",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Crowley",
+  "org": "City of Crowley Animal Shelter (Animal Control)",
+  "url": "https://crowley-la.com/departments/"
+ },
+ {
+  "state": "LA",
   "city": "Denham Springs",
   "org": "Denham Springs Animal Shelter",
   "program": "No day-out program yet",
@@ -218,6 +306,23 @@
   "email_main": "animalcontrol@cityofdenhamsprings.com",
   "source_list": "shelter website",
   "phone": "(225) 664-4472",
+  "events": []
+ },
+ {
+  "state": "LA",
+  "city": "Elmwood",
+  "org": "Animal Rescue New Orleans (ARNO)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://animalrescueneworleans.org/",
+  "notes": "No-kill shelter at 160 Brookhollow Esplanade, Elmwood; public visits by appointment with approved application.",
+  "checked": "November 2026",
+  "phone": "(504) 301-8857",
+  "email_program": "",
+  "email_main": "adopt@animalrescueneworleans.org",
+  "source_list": "shelter website",
   "events": []
  },
  {
@@ -236,6 +341,23 @@
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/concordiapawsrescue",
   "phone": "",
+  "events": []
+ },
+ {
+  "state": "LA",
+  "city": "Folsom",
+  "org": "Big Sky CARES (CATNIP Foundation / Big Sky Ranch)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.bigskyranch.org/adopt",
+  "notes": "Adoption center at 82060 Highway 25, Folsom; open Saturdays 11am-4pm and any day by appointment.",
+  "checked": "November 2026",
+  "phone": "(985) 796-4494",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
   "events": []
  },
  {
@@ -344,6 +466,23 @@
  },
  {
   "state": "LA",
+  "city": "Jackson",
+  "org": "Pen Pals Animal Shelter and Adoption Center (Dixon Correctional Institute)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://doc.la.gov/public-programs-resources/pen-pals-animal-shelter/",
+  "notes": "Shelter on the grounds of Dixon Correctional Institute where incarcerated caretakers care for dogs and cats; $40 adoption donation.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "LA",
   "city": "Jena",
   "org": "God's PAWS Rescue and Shelter",
   "program": "No day-out program yet",
@@ -357,6 +496,40 @@
   "email_main": "gods.paws7076@gmail.com",
   "source_list": "shelter website",
   "phone": "(318) 623-3549",
+  "events": []
+ },
+ {
+  "state": "LA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "notes": "City-run shelter that holds stray dogs until they're adopted; adopters fill out an application and need approval, and the fee is a donation of at least $25 in canned dog food. The city also takes foster applications.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Jennings",
+  "org": "Jennings Animal Shelter (City of Jennings Animal Control)",
+  "url": "https://www.cityofjennings.com/animal-control/"
+ },
+ {
+  "state": "LA",
+  "city": "Kentwood",
+  "org": "Crooked Creek Kennels & Moses House",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.crookedcreekkennels.com/",
+  "notes": "Nonprofit no-kill dog shelter (Moses House) serving St. Helena Parish; meet dogs by appointment, $50 adoption donation.",
+  "checked": "November 2026",
+  "phone": "(985) 514-1942",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
   "events": []
  },
  {
@@ -444,6 +617,23 @@
   "source_list": "shelter website",
   "osm": "way/1451707486",
   "events": []
+ },
+ {
+  "state": "LA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "272 J. L. O'Banion Rd. (off La. Hwy 467/University Pkwy); open Mon-Fri 8am-6pm (closed 12-1) and Sat 10am-12pm.",
+  "checked": "November 2026",
+  "phone": "(337) 392-9613",
+  "email_program": "",
+  "email_main": "animalshelter@vppjla.com",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Leesville",
+  "org": "Vernon Parish Animal Shelter",
+  "url": "https://www.vppjla.com/?page_id=54"
  },
  {
   "state": "LA",
@@ -584,6 +774,23 @@
  },
  {
   "state": "LA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "notes": "Dog rescue facility on the grounds of the Natchitoches Parish Detention Center, where selected inmates care for and train the dogs; cats are placed through foster homes.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "natchitocheshumane@yahoo.com",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Natchitoches",
+  "org": "Natchitoches Humane Society",
+  "url": "https://natchitocheshumanesociety.rescuegroups.org/"
+ },
+ {
+  "state": "LA",
   "city": "New Iberia",
   "org": "Angel Paws Adoption Center (Iberia Humane Society)",
   "program": "No day-out program yet",
@@ -648,6 +855,23 @@
  },
  {
   "state": "LA",
+  "city": "New Orleans",
+  "org": "Zeus' Rescues (Zeus' Adoption Center)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://zeusrescues.org/",
+  "notes": "Adoption center at 2520 Napoleon Ave; visit available pets daily 10am-4pm.",
+  "checked": "November 2026",
+  "phone": "(504) 309-2144",
+  "email_program": "",
+  "email_main": "zeusrescues@gmail.com",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "LA",
   "city": "New Roads",
   "org": "Pointe Coupee Animal Shelter",
   "program": "No day-out program yet",
@@ -679,6 +903,23 @@
   "source_list": "shelter website",
   "phone": "(337) 948-6184",
   "events": []
+ },
+ {
+  "state": "LA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "notes": "City shelter (Public Works) at 1967 Monroe Hwy, Pineville; houses homeless animals and adopts out when possible; office hours 8 AM-5 PM, closed 11:30-12:30.",
+  "checked": "November 2026",
+  "phone": "(318) 449-5674",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "government website",
+  "events": [],
+  "city": "Pineville",
+  "org": "Pineville Animal Control",
+  "url": "https://www.pineville.net/department/?fdd=10"
  },
  {
   "state": "LA",
@@ -734,6 +975,23 @@
  },
  {
   "state": "LA",
+  "city": "River Ridge",
+  "org": "SpayMart Thrift Store & Adoption Center",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Cats",
+  "offers": "",
+  "url": "https://spaymart.org/adoption/",
+  "notes": "Free-roaming cat adoption habitat at 8911 Jefferson Hwy, River Ridge; Tue-Sat 10am-5pm.",
+  "checked": "November 2026",
+  "phone": "(504) 454-8200",
+  "email_program": "",
+  "email_main": "adoptions@spaymart.org",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "LA",
   "city": "Ruston",
   "org": "City of Ruston Animal Shelter",
   "program": "No day-out program yet",
@@ -766,6 +1024,23 @@
   "source_list": "shelter website",
   "phone": "(318) 226-6624",
   "events": []
+ },
+ {
+  "state": "LA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "notes": "Volunteer-run no-kill, dog-only shelter at 2544 Linwood Ave., Shreveport; visits to meet dogs by appointment only (email to schedule); no phone line.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "rescuehsnwla@gmail.com",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Shreveport",
+  "org": "Humane Society of Northwest Louisiana",
+  "url": "https://www.hsnwla.com/"
  },
  {
   "state": "LA",
