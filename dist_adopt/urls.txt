@@ -175,6 +175,7 @@ https://shelteradoption.com/cities/gadsden-al/
 https://shelteradoption.com/cities/gainesville-fl/
 https://shelteradoption.com/cities/gainesville-ga/
 https://shelteradoption.com/cities/galesburg-il/
+https://shelteradoption.com/cities/gallup-nm/
 https://shelteradoption.com/cities/georgetown-de/
 https://shelteradoption.com/cities/georgetown-tx/
 https://shelteradoption.com/cities/gloucester-va/
@@ -573,6 +574,7 @@ https://shelteradoption.com/shelters/al-van-humane-society-south-haven/
 https://shelteradoption.com/shelters/alabama-animal-adoption-society-homewood/
 https://shelteradoption.com/shelters/alachua-county-animal-resources-and-care-gainesville/
 https://shelteradoption.com/shelters/alameda-animal-shelter-friends-of-the-alameda-animal-shelter-alameda/
+https://shelteradoption.com/shelters/alamogordo-animal-services-alamogordo/
 https://shelteradoption.com/shelters/alan-purcell-wayne-animal-shelter-wayne/
 https://shelteradoption.com/shelters/alaqua-animal-refuge-freeport/
 https://shelteradoption.com/shelters/alaska-humane-society-adopt-a-cat-anchorage/
@@ -796,6 +798,7 @@ https://shelteradoption.com/shelters/avery-humane-society-newland/
 https://shelteradoption.com/shelters/avoyelles-animal-welfare-society-cottonport/
 https://shelteradoption.com/shelters/ayres-memorial-animal-shelter-sprakers/
 https://shelteradoption.com/shelters/azle-animal-shelter-azle/
+https://shelteradoption.com/shelters/aztec-animal-shelter-aztec/
 https://shelteradoption.com/shelters/b-a-r-k-s-byram-animal-rescue-kindness-squad-newton/
 https://shelteradoption.com/shelters/b-and-r-bunkhouse-adoptables-barks-and-rec-municipal-shelter-north-syracuse/
 https://shelteradoption.com/shelters/bainbridge-decatur-county-humane-society-bainbridge/
@@ -913,6 +916,7 @@ https://shelteradoption.com/shelters/bladen-county-animal-control-and-shelter-el
 https://shelteradoption.com/shelters/blanchard-animal-shelter-blanchard/
 https://shelteradoption.com/shelters/bloomfield-animal-control-bloomfield/
 https://shelteradoption.com/shelters/bloomfield-animal-shelter-bloomfield/
+https://shelteradoption.com/shelters/bloomfield-animal-shelter-city-of-bloomfield-animal-control-bloomfield/
 https://shelteradoption.com/shelters/bloomfield-township-animal-shelter-bloomfield-township/
 https://shelteradoption.com/shelters/bloomington-animal-shelter-bloomington-animal-control-bloomington/
 https://shelteradoption.com/shelters/blount-county-animal-adoption-center-cleveland/
@@ -1234,6 +1238,7 @@ https://shelteradoption.com/shelters/city-of-fallon-animal-shelter-fallon/
 https://shelteradoption.com/shelters/city-of-fernley-animal-shelter-fernley/
 https://shelteradoption.com/shelters/city-of-festus-animal-control-adoptions-festus/
 https://shelteradoption.com/shelters/city-of-franklin-animal-shelter-franklin/
+https://shelteradoption.com/shelters/city-of-gallup-animal-shelter-gallup/
 https://shelteradoption.com/shelters/city-of-gatesville-animal-control-gatesville/
 https://shelteradoption.com/shelters/city-of-georgetown-animal-shelter-georgetown/
 https://shelteradoption.com/shelters/city-of-gillette-animal-shelter-gillette/
@@ -1496,6 +1501,7 @@ https://shelteradoption.com/shelters/delaware-county-dog-warden-delaware/
 https://shelteradoption.com/shelters/delaware-valley-humane-society-sidney/
 https://shelteradoption.com/shelters/delta-animal-shelter-escanaba/
 https://shelteradoption.com/shelters/delta-humane-society-and-spca-of-san-joaquin-county-stockton/
+https://shelteradoption.com/shelters/deming-animal-shelter-deming/
 https://shelteradoption.com/shelters/denham-springs-animal-shelter-denham-springs/
 https://shelteradoption.com/shelters/denison-animal-welfare-group-dawg-denison/
 https://shelteradoption.com/shelters/denison-city-pound-denison/
@@ -1525,7 +1531,6 @@ https://shelteradoption.com/shelters/dodge-city-animal-shelter-dodge-city/
 https://shelteradoption.com/shelters/dodge-county-humane-society-juneau/
 https://shelteradoption.com/shelters/dog-and-cat-shelter-inc-sheridan/
 https://shelteradoption.com/shelters/dog-n-kitty-city-university-park/
-https://shelteradoption.com/shelters/dog-pound-alamogordo/
 https://shelteradoption.com/shelters/dogs-and-cats-forever-inc-fort-pierce/
 https://shelteradoption.com/shelters/dogwood-animal-shelter-osage-beach/
 https://shelteradoption.com/shelters/doniphan-county-pet-rescue-bendena/
@@ -1772,6 +1777,7 @@ https://shelteradoption.com/shelters/gadsden-county-animal-control-services-quin
 https://shelteradoption.com/shelters/galax-carroll-grayson-animal-shelter-galax/
 https://shelteradoption.com/shelters/gallatin-county-animal-shelter-warsaw/
 https://shelteradoption.com/shelters/gallia-county-animal-shelter-dog-warden-gallipolis/
+https://shelteradoption.com/shelters/gallup-mckinley-county-humane-society-gallup/
 https://shelteradoption.com/shelters/galveston-county-animal-resource-center-texas-city/
 https://shelteradoption.com/shelters/galveston-island-humane-society-galveston/
 https://shelteradoption.com/shelters/gardenia-e-janssen-animal-shelter-la-grange/
@@ -2167,6 +2173,7 @@ https://shelteradoption.com/shelters/humane-society-of-jefferson-county-port-tow
 https://shelteradoption.com/shelters/humane-society-of-johnson-county-franklin/
 https://shelteradoption.com/shelters/humane-society-of-lake-county-umatilla/
 https://shelteradoption.com/shelters/humane-society-of-lebanon-county-myerstown/
+https://shelteradoption.com/shelters/humane-society-of-lincoln-county-ruidoso/
 https://shelteradoption.com/shelters/humane-society-of-livingston-county-avon/
 https://shelteradoption.com/shelters/humane-society-of-macomb-shelby-township/
 https://shelteradoption.com/shelters/humane-society-of-manatee-county-bradenton/

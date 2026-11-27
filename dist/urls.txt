@@ -583,6 +583,7 @@ https://shelterdayout.com/listings/al-van-humane-society-south-haven/
 https://shelterdayout.com/listings/alabama-animal-adoption-society-homewood/
 https://shelterdayout.com/listings/alachua-county-animal-resources-and-care-gainesville/
 https://shelterdayout.com/listings/alameda-animal-shelter-friends-of-the-alameda-animal-shelter-alameda/
+https://shelterdayout.com/listings/alamogordo-animal-services-alamogordo/
 https://shelterdayout.com/listings/alan-purcell-wayne-animal-shelter-wayne/
 https://shelterdayout.com/listings/alaqua-animal-refuge-freeport/
 https://shelterdayout.com/listings/alaska-humane-society-adopt-a-cat-anchorage/
@@ -806,6 +807,7 @@ https://shelterdayout.com/listings/avery-humane-society-newland/
 https://shelterdayout.com/listings/avoyelles-animal-welfare-society-cottonport/
 https://shelterdayout.com/listings/ayres-memorial-animal-shelter-sprakers/
 https://shelterdayout.com/listings/azle-animal-shelter-azle/
+https://shelterdayout.com/listings/aztec-animal-shelter-aztec/
 https://shelterdayout.com/listings/b-a-r-k-s-byram-animal-rescue-kindness-squad-newton/
 https://shelterdayout.com/listings/b-and-r-bunkhouse-adoptables-barks-and-rec-municipal-shelter-north-syracuse/
 https://shelterdayout.com/listings/bainbridge-decatur-county-humane-society-bainbridge/
@@ -923,6 +925,7 @@ https://shelterdayout.com/listings/bladen-county-animal-control-and-shelter-eliz
 https://shelterdayout.com/listings/blanchard-animal-shelter-blanchard/
 https://shelterdayout.com/listings/bloomfield-animal-control-bloomfield/
 https://shelterdayout.com/listings/bloomfield-animal-shelter-bloomfield/
+https://shelterdayout.com/listings/bloomfield-animal-shelter-city-of-bloomfield-animal-control-bloomfield/
 https://shelterdayout.com/listings/bloomfield-township-animal-shelter-bloomfield-township/
 https://shelterdayout.com/listings/bloomington-animal-shelter-bloomington-animal-control-bloomington/
 https://shelterdayout.com/listings/blount-county-animal-adoption-center-cleveland/
@@ -1244,6 +1247,7 @@ https://shelterdayout.com/listings/city-of-fallon-animal-shelter-fallon/
 https://shelterdayout.com/listings/city-of-fernley-animal-shelter-fernley/
 https://shelterdayout.com/listings/city-of-festus-animal-control-adoptions-festus/
 https://shelterdayout.com/listings/city-of-franklin-animal-shelter-franklin/
+https://shelterdayout.com/listings/city-of-gallup-animal-shelter-gallup/
 https://shelterdayout.com/listings/city-of-gatesville-animal-control-gatesville/
 https://shelterdayout.com/listings/city-of-georgetown-animal-shelter-georgetown/
 https://shelterdayout.com/listings/city-of-gillette-animal-shelter-gillette/
@@ -1506,6 +1510,7 @@ https://shelterdayout.com/listings/delaware-county-dog-warden-delaware/
 https://shelterdayout.com/listings/delaware-valley-humane-society-sidney/
 https://shelterdayout.com/listings/delta-animal-shelter-escanaba/
 https://shelterdayout.com/listings/delta-humane-society-and-spca-of-san-joaquin-county-stockton/
+https://shelterdayout.com/listings/deming-animal-shelter-deming/
 https://shelterdayout.com/listings/denham-springs-animal-shelter-denham-springs/
 https://shelterdayout.com/listings/denison-animal-welfare-group-dawg-denison/
 https://shelterdayout.com/listings/denison-city-pound-denison/
@@ -1535,7 +1540,6 @@ https://shelterdayout.com/listings/dodge-city-animal-shelter-dodge-city/
 https://shelterdayout.com/listings/dodge-county-humane-society-juneau/
 https://shelterdayout.com/listings/dog-and-cat-shelter-inc-sheridan/
 https://shelterdayout.com/listings/dog-n-kitty-city-university-park/
-https://shelterdayout.com/listings/dog-pound-alamogordo/
 https://shelterdayout.com/listings/dogs-and-cats-forever-inc-fort-pierce/
 https://shelterdayout.com/listings/dogwood-animal-shelter-osage-beach/
 https://shelterdayout.com/listings/doniphan-county-pet-rescue-bendena/
@@ -1782,6 +1786,7 @@ https://shelterdayout.com/listings/gadsden-county-animal-control-services-quincy
 https://shelterdayout.com/listings/galax-carroll-grayson-animal-shelter-galax/
 https://shelterdayout.com/listings/gallatin-county-animal-shelter-warsaw/
 https://shelterdayout.com/listings/gallia-county-animal-shelter-dog-warden-gallipolis/
+https://shelterdayout.com/listings/gallup-mckinley-county-humane-society-gallup/
 https://shelterdayout.com/listings/galveston-county-animal-resource-center-texas-city/
 https://shelterdayout.com/listings/galveston-island-humane-society-galveston/
 https://shelterdayout.com/listings/gardenia-e-janssen-animal-shelter-la-grange/
@@ -2177,6 +2182,7 @@ https://shelterdayout.com/listings/humane-society-of-jefferson-county-port-towns
 https://shelterdayout.com/listings/humane-society-of-johnson-county-franklin/
 https://shelterdayout.com/listings/humane-society-of-lake-county-umatilla/
 https://shelterdayout.com/listings/humane-society-of-lebanon-county-myerstown/
+https://shelterdayout.com/listings/humane-society-of-lincoln-county-ruidoso/
 https://shelterdayout.com/listings/humane-society-of-livingston-county-avon/
 https://shelterdayout.com/listings/humane-society-of-macomb-shelby-township/
 https://shelterdayout.com/listings/humane-society-of-manatee-county-bradenton/
