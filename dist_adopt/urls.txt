@@ -188,6 +188,7 @@ https://shelteradoption.com/cities/great-falls-mt/
 https://shelteradoption.com/cities/green-bay-wi/
 https://shelteradoption.com/cities/greenfield-in/
 https://shelteradoption.com/cities/greensboro-ga/
+https://shelteradoption.com/cities/greensboro-nc/
 https://shelteradoption.com/cities/greenville-nc/
 https://shelteradoption.com/cities/greenville-sc/
 https://shelteradoption.com/cities/grove-ok/
@@ -727,6 +728,7 @@ https://shelteradoption.com/shelters/animeals-missoula/
 https://shelteradoption.com/shelters/anita-s-stevens-swan-humane-society-utica/
 https://shelteradoption.com/shelters/anne-arundel-county-animal-services-millersville/
 https://shelteradoption.com/shelters/another-chance-animal-welfare-league-palo-cedro/
+https://shelteradoption.com/shelters/anson-county-animal-shelter-polkton/
 https://shelteradoption.com/shelters/antietam-humane-society-waynesboro/
 https://shelteradoption.com/shelters/antioch-animal-services-antioch/
 https://shelteradoption.com/shelters/antrim-county-animal-control-bellaire/
@@ -1008,6 +1010,7 @@ https://shelteradoption.com/shelters/burbank-animal-shelter-burbank/
 https://shelteradoption.com/shelters/bureau-county-animal-control-princeton/
 https://shelteradoption.com/shelters/burien-c-a-r-e-s-community-animal-resource-and-education-society-burien/
 https://shelteradoption.com/shelters/burkburnett-animal-shelter-burkburnett/
+https://shelteradoption.com/shelters/burke-county-animal-services-morganton/
 https://shelteradoption.com/shelters/burke-county-animal-services-waynesboro/
 https://shelteradoption.com/shelters/burleson-animal-shelter-burleson/
 https://shelteradoption.com/shelters/burlington-animal-control-burlington/
@@ -2043,6 +2046,7 @@ https://shelteradoption.com/shelters/homeward-bound-middlebury/
 https://shelteradoption.com/shelters/homeward-bound-pet-adoption-center-camden-county-animal-shelter-blackwood/
 https://shelteradoption.com/shelters/homeward-bound-pets-humane-society-mcminnville/
 https://shelteradoption.com/shelters/homeward-pet-adoption-center-woodinville/
+https://shelteradoption.com/shelters/homeward-trails-animal-rescue-adoption-center-fairfax-station/
 https://shelteradoption.com/shelters/hood-county-animal-control-granbury/
 https://shelteradoption.com/shelters/hood-river-adopt-a-dog-hood-river/
 https://shelteradoption.com/shelters/hopatcong-animal-shelter-hopatcong/
@@ -3423,6 +3427,7 @@ https://shelteradoption.com/shelters/richmond-animal-care-and-control-richmond/
 https://shelteradoption.com/shelters/richmond-animal-control-shelter-richmond/
 https://shelteradoption.com/shelters/richmond-animal-league-richmond/
 https://shelteradoption.com/shelters/richmond-county-animal-shelter-warsaw/
+https://shelteradoption.com/shelters/richmond-county-sheriff-s-office-animal-enforcement-rockingham/
 https://shelteradoption.com/shelters/richmond-spca-richmond/
 https://shelteradoption.com/shelters/ridgecrest-animal-shelter-ridgecrest-police-dept-ridgecrest/
 https://shelteradoption.com/shelters/ridgefield-operation-for-animal-rescue-roar-ridgefield/
@@ -3736,6 +3741,7 @@ https://shelteradoption.com/shelters/spca-of-polk-county-livingston/
 https://shelteradoption.com/shelters/spca-of-solano-county-vacaville/
 https://shelteradoption.com/shelters/spca-of-southwest-michigan-kalamazoo/
 https://shelteradoption.com/shelters/spca-of-texas-dallas/
+https://shelteradoption.com/shelters/spca-of-the-triad-greensboro/
 https://shelteradoption.com/shelters/spca-of-tompkins-county-ithaca/
 https://shelteradoption.com/shelters/spca-of-wake-county-raleigh/
 https://shelteradoption.com/shelters/spca-san-patricio-county-sandra-sue-benson-animal-adoption-center-aransas-pass/
@@ -3896,6 +3902,7 @@ https://shelteradoption.com/shelters/the-babinski-foundation-pequot-lakes/
 https://shelteradoption.com/shelters/the-buddy-foundation-arlington-heights/
 https://shelteradoption.com/shelters/the-cat-caf-san-diego-san-diego/
 https://shelteradoption.com/shelters/the-cat-connection-brighton/
+https://shelteradoption.com/shelters/the-cat-corner-inc-hampton/
 https://shelteradoption.com/shelters/the-cat-house-on-the-kings-parlier/
 https://shelteradoption.com/shelters/the-cat-lounge-rescue-and-adoption-center-san-diego/
 https://shelteradoption.com/shelters/the-cat-s-meow-anacortes/
