@@ -1,0 +1,1163 @@
+{
+ "generated": "2026-11-27T22:20:38+00:00",
+ "note": "Google's last 2-3 days are preliminary and usually rise. Dates are Pacific time (Google's).",
+ "properties": {
+  "shelterdayout.com": "sc-domain:shelterdayout.com",
+  "shelteradoption.com": "sc-domain:shelteradoption.com"
+ },
+ "errors": {},
+ "sites": {
+  "shelterdayout.com": {
+   "daily": [
+    {
+     "date": "2026-11-25",
+     "clicks": 0,
+     "impressions": 0,
+     "position": 0
+    },
+    {
+     "date": "2026-11-26",
+     "clicks": 7,
+     "impressions": 143,
+     "position": 10.7
+    },
+    {
+     "date": "2026-11-27",
+     "clicks": 1,
+     "impressions": 98,
+     "position": 11.34
+    }
+   ],
+   "top_queries_28d": [
+    {
+     "query": "adopt dog for a day",
+     "clicks": 1,
+     "impressions": 1,
+     "position": 5
+    },
+    {
+     "query": "take a dog out for the day near me",
+     "clicks": 1,
+     "impressions": 2,
+     "position": 9
+    },
+    {
+     "query": "\"animals.santaclaracounty.gov\" -site:animals.santaclaracounty.gov -site:sccgov.org -site:facebook.com -site:instagram.com -site:threads.com -site:threads.net -site:linkedin.com -site:x.com -site:twitter.com -site:tiktok.com -site:youtube.com -site:youtu.be -site:reddit.com -site:t.me -site:telegram.me -site:telegram.org -site:pinterest.com -site:vimeo.com",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5
+    },
+    {
+     "query": "\"cat\" \"rescue\"",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6
+    },
+    {
+     "query": "\"maricopa.gov\" -site:maricopa.gov -site:facebook.com -site:instagram.com -site:threads.com -site:threads.net -site:linkedin.com -site:x.com -site:twitter.com -site:tiktok.com -site:youtube.com -site:youtu.be -site:reddit.com -site:t.me -site:telegram.me -site:telegram.org -site:pinterest.com -site:vimeo.com",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6
+    },
+    {
+     "query": "\"the roch society\" \"let dogs in\"",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 3
+    },
+    {
+     "query": "adopt a dog for the day",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 43.5
+    },
+    {
+     "query": "animal adoption events near me",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 12
+    },
+    {
+     "query": "animal control chesapeake va",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 32
+    },
+    {
+     "query": "barcs adoptable dogs",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 18
+    },
+    {
+     "query": "borough break nyc",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 8
+    },
+    {
+     "query": "borrow a dog for a day",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 4
+    },
+    {
+     "query": "can you rent a dog for a day",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 8
+    },
+    {
+     "query": "chesapeake animal services",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 17.5
+    },
+    {
+     "query": "chesapeake animal services unit photos",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 27
+    },
+    {
+     "query": "chesterfield animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 34
+    },
+    {
+     "query": "city of levelland animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 13
+    },
+    {
+     "query": "dog day out",
+     "clicks": 0,
+     "impressions": 4,
+     "position": 14.25
+    },
+    {
+     "query": "dog day out near me",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 11
+    },
+    {
+     "query": "dog for a day",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 9.5
+    },
+    {
+     "query": "dog for a day atlanta",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 8
+    },
+    {
+     "query": "doggie day out",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 9
+    },
+    {
+     "query": "doggy day out",
+     "clicks": 0,
+     "impressions": 4,
+     "position": 7
+    },
+    {
+     "query": "doggy day out shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 9
+    },
+    {
+     "query": "dogs day out",
+     "clicks": 0,
+     "impressions": 5,
+     "position": 10.4
+    },
+    {
+     "query": "draper animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 10
+    },
+    {
+     "query": "draper city animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 13
+    },
+    {
+     "query": "edgecomb animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 10
+    },
+    {
+     "query": "elk grove animal shelter doggy day out",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5
+    },
+    {
+     "query": "freedom center for animal life saving",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 9
+    },
+    {
+     "query": "geauga animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 44
+    },
+    {
+     "query": "hamilton county dog shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 19
+    },
+    {
+     "query": "have a dog for a day",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6
+    },
+    {
+     "query": "hounds around town slc",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 5.5
+    },
+    {
+     "query": "humane society missoula",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 45
+    },
+    {
+     "query": "indy humane dog day out",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 7
+    },
+    {
+     "query": "marion county humane society",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 9.5
+    },
+    {
+     "query": "new york rent a dog",
+     "clicks": 0,
+     "impressions": 4,
+     "position": 7.25
+    },
+    {
+     "query": "newington humane society",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 19
+    },
+    {
+     "query": "ny animal hospital",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 93
+    },
+    {
+     "query": "play with kittens near me",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 75
+    },
+    {
+     "query": "pups maple grove",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 13
+    },
+    {
+     "query": "rent a dog",
+     "clicks": 0,
+     "impressions": 4,
+     "position": 6
+    },
+    {
+     "query": "rent a dog for a day",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6
+    },
+    {
+     "query": "rent a dog for a day near me",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 8.5
+    },
+    {
+     "query": "rent a dog los angeles",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 10
+    },
+    {
+     "query": "rent a puppy for a day",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 9
+    },
+    {
+     "query": "rescue runners",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 7
+    },
+    {
+     "query": "rescue village hours",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 5
+    },
+    {
+     "query": "san jacinto animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 33
+    }
+   ],
+   "top_pages_28d": [
+    {
+     "page": "https://shelterdayout.com/",
+     "clicks": 2,
+     "impressions": 35
+    },
+    {
+     "page": "https://shelterdayout.com/cities/san-diego-ca/",
+     "clicks": 2,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelterdayout.com/cities/phoenix-az/",
+     "clicks": 1,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelterdayout.com/listings/marion-county-humane-society-fairmont/",
+     "clicks": 1,
+     "impressions": 6
+    },
+    {
+     "page": "https://shelterdayout.com/rent-a-dog/",
+     "clicks": 1,
+     "impressions": 8
+    },
+    {
+     "page": "https://shelterdayout.com/states/north-dakota/",
+     "clicks": 1,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cats/",
+     "clicks": 0,
+     "impressions": 4
+    },
+    {
+     "page": "https://shelterdayout.com/cities/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/atlanta-ga/",
+     "clicks": 0,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelterdayout.com/cities/austin-tx/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/baltimore-md/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/bradenton-fl/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/burlington-nc/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/chapel-hill-nc/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/charlotte-nc/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/columbus-ga/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/daytona-beach-fl/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/fort-wayne-in/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/indianapolis-in/",
+     "clicks": 0,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelterdayout.com/cities/knoxville-tn/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/lawrence-ks/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/long-beach-in/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/los-angeles-ca/",
+     "clicks": 0,
+     "impressions": 10
+    },
+    {
+     "page": "https://shelterdayout.com/cities/louisville-ky/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/missoula-mt/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/nashville-tn/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/new-orleans-la/",
+     "clicks": 0,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelterdayout.com/cities/new-york-ny/",
+     "clicks": 0,
+     "impressions": 9
+    },
+    {
+     "page": "https://shelterdayout.com/cities/norfolk-va/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/oakland-ca/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/peachtree-city-ga/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/portland-or/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/rehoboth-beach-de/",
+     "clicks": 0,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelterdayout.com/cities/ringoes-nj/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/riverside-ca/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/sacramento-ca/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/santa-barbara-ca/",
+     "clicks": 0,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelterdayout.com/cities/scottsdale-az/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/cities/west-palm-beach-fl/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/events/",
+     "clicks": 0,
+     "impressions": 7
+    },
+    {
+     "page": "https://shelterdayout.com/find-a-vet/florida/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/find-a-vet/new-york/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/find-a-vet/south-dakota/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/for-shelters/?listing=city-of-irving-animal-services-irving",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/foster-a-dog-for-a-day/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/hike-with-a-shelter-dog/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/listings/animal-ark-rescue-columbus/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/listings/animal-care-centers-of-nyc-new-york/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelterdayout.com/listings/animal-rescue-league-of-iowa-des-moines/",
+     "clicks": 0,
+     "impressions": 4
+    },
+    {
+     "page": "https://shelterdayout.com/listings/aspca-adoption-center-new-york/",
+     "clicks": 0,
+     "impressions": 1
+    }
+   ]
+  },
+  "shelteradoption.com": {
+   "daily": [
+    {
+     "date": "2026-11-25",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 9
+    },
+    {
+     "date": "2026-11-26",
+     "clicks": 19,
+     "impressions": 1188,
+     "position": 17.82
+    },
+    {
+     "date": "2026-11-27",
+     "clicks": 7,
+     "impressions": 1514,
+     "position": 17.53
+    }
+   ],
+   "top_queries_28d": [
+    {
+     "query": "adopt small dogs for free near me",
+     "clicks": 1,
+     "impressions": 1,
+     "position": 1
+    },
+    {
+     "query": "bark animal shelter",
+     "clicks": 1,
+     "impressions": 1,
+     "position": 4
+    },
+    {
+     "query": "bedford county animal shelter adoptable dogs",
+     "clicks": 1,
+     "impressions": 2,
+     "position": 10.5
+    },
+    {
+     "query": "cumberland county animal control",
+     "clicks": 1,
+     "impressions": 1,
+     "position": 5
+    },
+    {
+     "query": "dog shelter near me",
+     "clicks": 1,
+     "impressions": 4,
+     "position": 11
+    },
+    {
+     "query": "glastonbury animal shelter",
+     "clicks": 1,
+     "impressions": 1,
+     "position": 9
+    },
+    {
+     "query": "metro animal care and control adoptable dogs",
+     "clicks": 1,
+     "impressions": 1,
+     "position": 11
+    },
+    {
+     "query": "taylor county animal shelter",
+     "clicks": 1,
+     "impressions": 3,
+     "position": 5
+    },
+    {
+     "query": "west deer animal shelter",
+     "clicks": 1,
+     "impressions": 3,
+     "position": 7.67
+    },
+    {
+     "query": "\"ab spca\"",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 2
+    },
+    {
+     "query": "\"ab spca\" site:linkedin.com",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 1.5
+    },
+    {
+     "query": "\"adoptions in\" +\"erie\" -\"dog\" -\"cat\" -\"animal\" -\"pet\" -\"pound\" -\"spca\" -\"paws\" -\"elephants\" -\"rescue\"",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 1
+    },
+    {
+     "query": "\"domestic adoption\" +\"erie\" -\"dog\" -\"cat\" -\"animal\" -\"pet\" -\"pound\" -\"spca\" -\"paws\" -\"elephants\" -\"rescue\"",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 1
+    },
+    {
+     "query": "\"open adoption\" +\"erie\" -\"dog\" -\"cat\" -\"animal\" -\"pet\" -\"pound\" -\"spca\" -\"paws\" -\"elephants\" -\"rescue\"",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 1
+    },
+    {
+     "query": "aawa",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 3
+    },
+    {
+     "query": "aberdeen humane society",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6
+    },
+    {
+     "query": "abq animal shelter westside",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 15
+    },
+    {
+     "query": "acadia parish animal control",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 10
+    },
+    {
+     "query": "adams county pet rescue",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 11
+    },
+    {
+     "query": "adopt a dog maine",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 76
+    },
+    {
+     "query": "adopt a pet",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 8
+    },
+    {
+     "query": "adopt a pet brooklyn",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6
+    },
+    {
+     "query": "adopt a puppy",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 77
+    },
+    {
+     "query": "adopt a puppy albuquerque",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 51
+    },
+    {
+     "query": "adopt a puppy in palm beach county",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 59
+    },
+    {
+     "query": "adopt dogs in maine",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 60
+    },
+    {
+     "query": "adopt nyc",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 84.5
+    },
+    {
+     "query": "adoptable dogs",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 94
+    },
+    {
+     "query": "adoptable dogs in maine",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 67
+    },
+    {
+     "query": "adoptable dogs salt lake city",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 55
+    },
+    {
+     "query": "adopting a kitten from a shelter",
+     "clicks": 0,
+     "impressions": 2,
+     "position": 80
+    },
+    {
+     "query": "adoption albuquerque",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 66
+    },
+    {
+     "query": "adoption allentown",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 54
+    },
+    {
+     "query": "adoption centers near me",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 9
+    },
+    {
+     "query": "adoption shelters",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 10
+    },
+    {
+     "query": "adoption south hampton",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 31
+    },
+    {
+     "query": "adoption wilmington",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 42
+    },
+    {
+     "query": "adoptions united states south hampton",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 43
+    },
+    {
+     "query": "adult adoption near me raleigh",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 87
+    },
+    {
+     "query": "alachua animal shelter gainesville",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 56
+    },
+    {
+     "query": "alexandria animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 6
+    },
+    {
+     "query": "allen county spca",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 4
+    },
+    {
+     "query": "almost home adoptions",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 11
+    },
+    {
+     "query": "alpena mi animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 35
+    },
+    {
+     "query": "alpha dog rescue",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 10
+    },
+    {
+     "query": "altoona humane society dogs for adoption",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 11
+    },
+    {
+     "query": "altus ok animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 13
+    },
+    {
+     "query": "alvarado animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 13
+    },
+    {
+     "query": "alvarado tx animal shelter",
+     "clicks": 0,
+     "impressions": 1,
+     "position": 24
+    },
+    {
+     "query": "alvin adoption center",
+     "clicks": 0,
+     "impressions": 4,
+     "position": 11.5
+    }
+   ],
+   "top_pages_28d": [
+    {
+     "page": "https://shelteradoption.com/shelters/the-messenger-animal-rescue-harrington/",
+     "clicks": 2,
+     "impressions": 8
+    },
+    {
+     "page": "https://shelteradoption.com/",
+     "clicks": 1,
+     "impressions": 23
+    },
+    {
+     "page": "https://shelteradoption.com/about/",
+     "clicks": 1,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelteradoption.com/fee-waived-adoption-events/",
+     "clicks": 1,
+     "impressions": 7
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/bark-animal-shelter-billings/",
+     "clicks": 1,
+     "impressions": 2
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/bedford-county-animal-shelter-bedford/",
+     "clicks": 1,
+     "impressions": 7
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/brandywine-valley-spca-new-castle-campus-new-castle/",
+     "clicks": 1,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/cincinnati-animal-care-colerain-campus-hamilton-county-animal-shelter-cincinnati/",
+     "clicks": 1,
+     "impressions": 2
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/cincinnati-animal-care-colerain-campus-hamilton-county-animal-shelter-saint-bernard/",
+     "clicks": 1,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/cincinnati-animal-care-dane-campus-hamilton-county-animal-shelter-saint-bernard/",
+     "clicks": 1,
+     "impressions": 8
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/columbiana-county-dog-pound-and-adoption-center-lisbon/",
+     "clicks": 1,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/cumberland-county-animal-control-toledo/",
+     "clicks": 1,
+     "impressions": 2
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/glastonbury-dog-pound-glastonbury/",
+     "clicks": 1,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/hough-dement-animal-shelter-indianola/",
+     "clicks": 1,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/humane-indiana-munster/",
+     "clicks": 1,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/humane-society-of-the-black-hills-rapid-city/",
+     "clicks": 1,
+     "impressions": 2
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/laurel-county-animal-shelter-london/",
+     "clicks": 1,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/marion-county-humane-society-fairmont/",
+     "clicks": 1,
+     "impressions": 2
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/metro-animal-care-and-control-nashville/",
+     "clicks": 1,
+     "impressions": 4
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/pawprints-rescue-center-cleveland/",
+     "clicks": 1,
+     "impressions": 4
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/pet-alliance-of-greater-orlando-orlando/",
+     "clicks": 1,
+     "impressions": 2
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/phillipsburg-animal-facility-phillipsburg/",
+     "clicks": 1,
+     "impressions": 6
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/ste-genevieve-county-animal-control-ste-genevieve/",
+     "clicks": 1,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/taylor-county-animal-services-perry/",
+     "clicks": 1,
+     "impressions": 5
+    },
+    {
+     "page": "https://shelteradoption.com/shelters/west-deer-dog-shelter-russellton/",
+     "clicks": 1,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelteradoption.com/states/oregon/",
+     "clicks": 1,
+     "impressions": 2
+    },
+    {
+     "page": "https://shelteradoption.com/adoption-checklist/",
+     "clicks": 0,
+     "impressions": 4
+    },
+    {
+     "page": "https://shelteradoption.com/adoption-fees/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/badge/?listing=old-bridge-animal-shelter-old-bridge",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/albuquerque-nm/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/amarillo-tx/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/austin-tx/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/baltimore-md/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/brighton-co/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/brooklyn-ny/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/bryan-tx/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/camarillo-ca/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/cambridge-md/",
+     "clicks": 0,
+     "impressions": 3
+    },
+    {
+     "page": "https://shelteradoption.com/cities/charles-town-wv/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/cincinnati-oh/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/cleveland-oh/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/denver-co/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/dothan-al/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/fargo-nd/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/gainesville-ga/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/georgetown-tx/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/grand-rapids-mi/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/jacksonville-fl/",
+     "clicks": 0,
+     "impressions": 1
+    },
+    {
+     "page": "https://shelteradoption.com/cities/janesville-wi/",
+     "clicks": 0,
+     "impressions": 2
+    }
+   ]
+  }
+ }
+}
