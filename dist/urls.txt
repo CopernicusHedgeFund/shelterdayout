@@ -439,6 +439,7 @@ https://shelterdayout.com/cities/redmond-or/
 https://shelterdayout.com/cities/redwood-city-ca/
 https://shelterdayout.com/cities/rehoboth-beach-de/
 https://shelterdayout.com/cities/reidsville-nc/
+https://shelterdayout.com/cities/reisterstown-md/
 https://shelterdayout.com/cities/reno-nv/
 https://shelterdayout.com/cities/richardson-tx/
 https://shelterdayout.com/cities/richmond-va/
@@ -847,7 +848,9 @@ https://shelterdayout.com/listings/animal-welfare-league-of-charlotte-county-por
 https://shelterdayout.com/listings/animal-welfare-league-of-frederick-county-frederick/
 https://shelterdayout.com/listings/animal-welfare-league-of-kosciusko-county-pierceton/
 https://shelterdayout.com/listings/animal-welfare-league-of-montgomery-county-crawfordsville/
+https://shelterdayout.com/listings/animal-welfare-league-of-montgomery-county-gaithersburg/
 https://shelterdayout.com/listings/animal-welfare-league-of-trumbull-county-vienna/
+https://shelterdayout.com/listings/animal-welfare-society-of-howard-county-columbia/
 https://shelterdayout.com/listings/animal-welfare-society-of-monroe-awsom-stroudsburg/
 https://shelterdayout.com/listings/animal-welfare-society-of-southeastern-michigan-madison-heights/
 https://shelterdayout.com/listings/animal-welfare-society-west-kennebunk/

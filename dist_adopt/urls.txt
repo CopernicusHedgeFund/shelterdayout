@@ -109,6 +109,7 @@ https://shelteradoption.com/cities/cincinnati-oh/
 https://shelteradoption.com/cities/circleville-oh/
 https://shelteradoption.com/cities/cleveland-oh/
 https://shelteradoption.com/cities/cleveland-tn/
+https://shelteradoption.com/cities/columbia-md/
 https://shelteradoption.com/cities/columbia-sc/
 https://shelteradoption.com/cities/columbus-ga/
 https://shelteradoption.com/cities/columbus-in/
@@ -786,7 +787,9 @@ https://shelteradoption.com/shelters/animal-welfare-league-of-charlotte-county-p
 https://shelteradoption.com/shelters/animal-welfare-league-of-frederick-county-frederick/
 https://shelteradoption.com/shelters/animal-welfare-league-of-kosciusko-county-pierceton/
 https://shelteradoption.com/shelters/animal-welfare-league-of-montgomery-county-crawfordsville/
+https://shelteradoption.com/shelters/animal-welfare-league-of-montgomery-county-gaithersburg/
 https://shelteradoption.com/shelters/animal-welfare-league-of-trumbull-county-vienna/
+https://shelteradoption.com/shelters/animal-welfare-society-of-howard-county-columbia/
 https://shelteradoption.com/shelters/animal-welfare-society-of-monroe-awsom-stroudsburg/
 https://shelteradoption.com/shelters/animal-welfare-society-of-southeastern-michigan-madison-heights/
 https://shelteradoption.com/shelters/animal-welfare-society-west-kennebunk/
