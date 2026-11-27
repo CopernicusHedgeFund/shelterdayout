@@ -12,7 +12,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(305) 468-5900",
+  "events": []
  },
  {
   "state": "FL",
@@ -28,7 +30,8 @@
   "email_program": "acc-doggiedayout@pbc.gov",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(561) 233-1200"
+  "phone": "(561) 233-1200",
+  "events": []
  },
  {
   "state": "FL",
@@ -44,7 +47,16 @@
   "email_program": "",
   "email_main": "info@friendsofstrays.org",
   "source_list": "shelter website",
-  "phone": "(727) 522-6566"
+  "phone": "(727) 522-6566",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-11-29",
+    "title": "\"Adopt Local\" Adoption Special ($25 off adult cats, $50 off adult dogs)",
+    "url": "https://www.friendsofstrays.org/latest-news,friends-of-strays-hosts-adopt-local-adoption-special",
+    "place": "Friends of Strays, 2911 47th Ave N (dogs) / Cat Box Adoption Center, 3015 46th Ave N, St. Petersburg"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -58,7 +70,7 @@
   "notes": "Free (suggested $20 minimum donation); no sign-up needed, come during adoption hours (weekdays 12-7pm, weekends 10am-5pm). Must be 18+ to take a dog out; minors may join with a parent or guardian. Dogs return one hour before closing; paused during free/name-your-price adoption events.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptions@jaxhumane.org",
   "source_list": "shelter website",
   "phone": "(904) 725-8766",
   "events": [
@@ -86,7 +98,8 @@
     "date": "2026-12-11",
     "title": "Chewy Claus's National Adoption Event",
     "url": "https://jaxhumane.org/events/chewy-clauss-national-adoption-event/",
-    "place": "Jacksonville Humane Society, 8464 Beach Blvd, Jacksonville"
+    "place": "Jacksonville Humane Society, 8464 Beach Blvd, Jacksonville",
+    "end": "2026-12-17"
    }
   ]
  },
@@ -104,7 +117,8 @@
   "email_program": "BrowardBuddies@Broward.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(954) 359-1313"
+  "phone": "(954) 359-1313",
+  "events": []
  },
  {
   "state": "FL",
@@ -120,7 +134,8 @@
   "email_program": "",
   "email_main": "info@pbhsnaples.org",
   "source_list": "shelter website",
-  "phone": "(239) 643-1555"
+  "phone": "(239) 643-1555",
+  "events": []
  },
  {
   "state": "FL",
@@ -136,7 +151,15 @@
   "email_program": "rentadog@spcaflorida.org",
   "email_main": "adopt@spcaflorida.org",
   "source_list": "",
-  "phone": "(863) 577-4600"
+  "phone": "(863) 577-4600",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Petco Cat Adoption",
+    "url": "https://www.spcaflorida.org/events",
+    "place": "Petco, 4139 US Hwy 98 N, Lakeland"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -156,7 +179,8 @@
    {
     "date": "2026-12-12",
     "title": "The More the Merrier - Open House Holiday Party",
-    "url": "https://www.spcabrevard.com/events/the-more-the-merrier-open-house-holiday-party-the-spca-of-brevard"
+    "url": "https://www.spcabrevard.com/events/the-more-the-merrier-open-house-holiday-party-the-spca-of-brevard",
+    "place": "SPCA of Brevard Adoption Center, 6035 Sisson Rd, Titusville"
    }
   ],
   "phone": "(321) 567-3615"
@@ -175,7 +199,8 @@
   "email_program": "",
   "email_main": "info@justinbartlett.org",
   "source_list": "shelter website",
-  "phone": "(561) 795-9999"
+  "phone": "(561) 795-9999",
+  "events": []
  },
  {
   "state": "FL",
@@ -214,7 +239,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "catscaffeinetampa@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -233,11 +259,6 @@
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/2759371154",
   "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday Open House",
-    "url": "https://www.humane.org/"
-   },
    {
     "date": "2026-11-28",
     "title": "S. Venice Pet Supermarket Adoption Event",
@@ -285,7 +306,8 @@
   "email_main": "",
   "phone": "(352) 671-8700",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/6302473412"
+  "osm": "node/6302473412",
+  "events": []
  },
  {
   "state": "FL",
@@ -302,7 +324,8 @@
   "email_main": "",
   "phone": "(850) 926-0902",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/7806702943"
+  "osm": "node/7806702943",
+  "events": []
  },
  {
   "state": "FL",
@@ -319,7 +342,8 @@
   "email_main": "",
   "phone": "(407) 665-5201",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/8942085962"
+  "osm": "node/8942085962",
+  "events": []
  },
  {
   "state": "FL",
@@ -366,7 +390,8 @@
    {
     "date": "2026-12-05",
     "title": "Rescue Wonderland holiday market (meet adoptable dogs)",
-    "url": "https://www.humanesocietymiami.org/rescuewonderland"
+    "url": "https://www.humanesocietymiami.org/rescuewonderland",
+    "place": "Humane Society of Greater Miami, 16101 W Dixie Hwy, North Miami Beach"
    }
   ]
  },
@@ -385,7 +410,8 @@
   "email_main": "",
   "phone": "(863) 324-5227",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/13654760301"
+  "osm": "node/13654760301",
+  "events": []
  },
  {
   "state": "FL",
@@ -396,13 +422,14 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://catsangels.org/adoptions/",
-  "notes": "Cat-only adoption center at 709 S 8th St, Fernandina Beach (per directory listing); official website could not be confirmed in Nov 2026 sweep.",
+  "notes": "Cat-only adoption center at 709 S 8th St, Fernandina Beach (official site catsangels.org); visitors meet cats at the center Mon-Sat 10am-4pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@catsangels.org",
   "phone": "(904) 321-2267",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/14334426714"
+  "osm": "node/14334426714",
+  "events": []
  },
  {
   "state": "FL",
@@ -419,7 +446,8 @@
   "email_main": "info@petpalanimalshelter.com",
   "phone": "(727) 328-7738",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/295556643"
+  "osm": "way/295556643",
+  "events": []
  },
  {
   "state": "FL",
@@ -487,7 +515,8 @@
   "email_main": "halonokillrescue@gmail.com",
   "phone": "(772) 589-7297",
   "source_list": "shelter website",
-  "osm": "way/470810249"
+  "osm": "way/470810249",
+  "events": []
  },
  {
   "state": "FL",
@@ -498,7 +527,7 @@
   "animals": "Dogs",
   "offers": "Day trip, overnight sleepover",
   "url": "https://www.jacksonville.gov/departments/office-of-administrative-services/animal-care-and-protective-services/our-stories/dogs-around-duval",
-  "notes": "Short-term outings (hikes, beach, lake) or overnight sleepovers. Only requirement: valid photo ID. Sign up in person at ACPS, 2020 Forest St (open 7 days, noon-7). ACPS supplies leash, harness, bandana, treats, bags, toys, water bowl. Shelter also has the Bold Kitty Cafe cat room where visitors can hang out with adoptable cats (jaxtoday.org, June 2026).",
+  "notes": "Short-term outings (hikes, beach, lake) or overnight sleepovers. Only requirement: valid photo ID. Sign up in person at ACPS, 2020 Forest St (open 7 days, noon-7). ACPS supplies leash, harness, bandana, treats, bags, toys, water bowl. ACPS site also mentions an on-site Cat Cafe.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "acpsfosters@coj.net",
@@ -509,7 +538,8 @@
    {
     "date": "2026-11-27",
     "title": "Black Friday, Bright Futures! shelter adoption event (12pm-8pm)",
-    "url": "https://www.jacksonville.gov/departments/office-of-administrative-services/animal-care-and-protective-services"
+    "url": "https://www.jacksonville.gov/departments/office-of-administrative-services/animal-care-and-protective-services/upcoming-events/black-friday",
+    "place": "ACPS, 2020 Forest St, Jacksonville"
    }
   ]
  },
