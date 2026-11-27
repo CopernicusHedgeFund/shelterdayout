@@ -377,6 +377,7 @@ https://shelteradoption.com/cities/sacramento-ca/
 https://shelteradoption.com/cities/safford-az/
 https://shelteradoption.com/cities/saginaw-mi/
 https://shelteradoption.com/cities/saint-george-ut/
+https://shelteradoption.com/cities/saint-paul-mn/
 https://shelteradoption.com/cities/salem-or/
 https://shelteradoption.com/cities/salinas-ca/
 https://shelteradoption.com/cities/salt-lake-city-ut/
@@ -671,6 +672,7 @@ https://shelteradoption.com/shelters/animal-humane-new-mexico-albuquerque/
 https://shelteradoption.com/shelters/animal-humane-new-mexico-westside-adoption-center-albuquerque/
 https://shelteradoption.com/shelters/animal-humane-society-coon-rapids-coon-rapids/
 https://shelteradoption.com/shelters/animal-humane-society-golden-valley-golden-valley/
+https://shelteradoption.com/shelters/animal-humane-society-saint-paul-saint-paul/
 https://shelteradoption.com/shelters/animal-humane-society-woodbury-woodbury/
 https://shelteradoption.com/shelters/animal-orphanage-old-town/
 https://shelteradoption.com/shelters/animal-orphanage-voorhees/
@@ -2358,6 +2360,7 @@ https://shelteradoption.com/shelters/ivins-city-animal-shelter-ivins/
 https://shelteradoption.com/shelters/jackson-animal-care-center-jackson/
 https://shelteradoption.com/shelters/jackson-county-animal-control-marianna/
 https://shelteradoption.com/shelters/jackson-county-animal-control-murphysboro/
+https://shelteradoption.com/shelters/jackson-county-animal-protection-society-jackson/
 https://shelteradoption.com/shelters/jackson-county-animal-services-phoenix/
 https://shelteradoption.com/shelters/jackson-county-animal-shelter-black-river-falls/
 https://shelteradoption.com/shelters/jackson-county-animal-shelter-cottageville/
@@ -2906,6 +2909,7 @@ https://shelteradoption.com/shelters/montville-regional-animal-control-montville
 https://shelteradoption.com/shelters/moore-animal-welfare-and-adoption-center-moore/
 https://shelteradoption.com/shelters/moore-county-animal-services-carthage/
 https://shelteradoption.com/shelters/moore-s-rescue-ranch-champaign/
+https://shelteradoption.com/shelters/moorhead-animal-services-moorhead/
 https://shelteradoption.com/shelters/moreno-valley-animal-shelter-moreno-valley/
 https://shelteradoption.com/shelters/morgan-county-animal-control-jacksonville/
 https://shelteradoption.com/shelters/morgan-county-animal-services-madison/
@@ -3330,6 +3334,7 @@ https://shelteradoption.com/shelters/pointe-coupee-animal-shelter-new-roads/
 https://shelteradoption.com/shelters/polk-county-animal-control-cedartown/
 https://shelteradoption.com/shelters/polk-county-humane-society-bolivar/
 https://shelteradoption.com/shelters/polk-county-sheriff-s-office-animal-control-winter-haven/
+https://shelteradoption.com/shelters/pope-county-humane-society-glenwood/
 https://shelteradoption.com/shelters/pope-memorial-frontier-animal-shelter-orleans/
 https://shelteradoption.com/shelters/pope-memorial-humane-society-cocheco-valley-dover/
 https://shelteradoption.com/shelters/pope-memorial-humane-society-of-knox-county-thomaston/
@@ -3535,6 +3540,7 @@ https://shelteradoption.com/shelters/safehaven-small-breed-rescue-tionesta/
 https://shelteradoption.com/shelters/saginaw-county-animal-care-and-control-saginaw/
 https://shelteradoption.com/shelters/saint-cat-rescue-and-adoption-center-cedar-rapids/
 https://shelteradoption.com/shelters/saint-frances-animal-center-georgetown/
+https://shelteradoption.com/shelters/saint-paul-animal-services-saint-paul/
 https://shelteradoption.com/shelters/salem-animal-rescue-league-salem/
 https://shelteradoption.com/shelters/salem-animal-shelter-salem/
 https://shelteradoption.com/shelters/salem-county-humane-society-penns-grove/
@@ -3829,11 +3835,13 @@ https://shelteradoption.com/shelters/stark-county-sheriff-s-office-dog-warden-di
 https://shelteradoption.com/shelters/starke-county-humane-society-north-judson/
 https://shelteradoption.com/shelters/stay-a-while-cat-shelter-north-royalton/
 https://shelteradoption.com/shelters/ste-genevieve-county-animal-control-ste-genevieve/
+https://shelteradoption.com/shelters/steele-county-humane-society-owatonna/
 https://shelteradoption.com/shelters/stephen-memorial-animal-shelter-oskaloosa/
 https://shelteradoption.com/shelters/stephens-county-humane-society-duncan/
 https://shelteradoption.com/shelters/stephenson-county-animal-control-freeport/
 https://shelteradoption.com/shelters/sterling-animal-shelter-animal-shelter-inc-of-sterling-sterling/
 https://shelteradoption.com/shelters/sterling-heights-animal-control-shelter-sterling-heights/
+https://shelteradoption.com/shelters/stevens-community-humane-society-morris/
 https://shelteradoption.com/shelters/stockton-animal-shelter-city-of-stockton-animal-services-stockton/
 https://shelteradoption.com/shelters/stokes-county-animal-control-germanton/
 https://shelteradoption.com/shelters/stone-county-humane-society-mountain-view/

@@ -680,6 +680,7 @@ https://shelterdayout.com/listings/animal-humane-new-mexico-albuquerque/
 https://shelterdayout.com/listings/animal-humane-new-mexico-westside-adoption-center-albuquerque/
 https://shelterdayout.com/listings/animal-humane-society-coon-rapids-coon-rapids/
 https://shelterdayout.com/listings/animal-humane-society-golden-valley-golden-valley/
+https://shelterdayout.com/listings/animal-humane-society-saint-paul-saint-paul/
 https://shelterdayout.com/listings/animal-humane-society-woodbury-woodbury/
 https://shelterdayout.com/listings/animal-orphanage-old-town/
 https://shelterdayout.com/listings/animal-orphanage-voorhees/
@@ -2367,6 +2368,7 @@ https://shelterdayout.com/listings/ivins-city-animal-shelter-ivins/
 https://shelterdayout.com/listings/jackson-animal-care-center-jackson/
 https://shelterdayout.com/listings/jackson-county-animal-control-marianna/
 https://shelterdayout.com/listings/jackson-county-animal-control-murphysboro/
+https://shelterdayout.com/listings/jackson-county-animal-protection-society-jackson/
 https://shelterdayout.com/listings/jackson-county-animal-services-phoenix/
 https://shelterdayout.com/listings/jackson-county-animal-shelter-black-river-falls/
 https://shelterdayout.com/listings/jackson-county-animal-shelter-cottageville/
@@ -2915,6 +2917,7 @@ https://shelterdayout.com/listings/montville-regional-animal-control-montville-d
 https://shelterdayout.com/listings/moore-animal-welfare-and-adoption-center-moore/
 https://shelterdayout.com/listings/moore-county-animal-services-carthage/
 https://shelterdayout.com/listings/moore-s-rescue-ranch-champaign/
+https://shelterdayout.com/listings/moorhead-animal-services-moorhead/
 https://shelterdayout.com/listings/moreno-valley-animal-shelter-moreno-valley/
 https://shelterdayout.com/listings/morgan-county-animal-control-jacksonville/
 https://shelterdayout.com/listings/morgan-county-animal-services-madison/
@@ -3339,6 +3342,7 @@ https://shelterdayout.com/listings/pointe-coupee-animal-shelter-new-roads/
 https://shelterdayout.com/listings/polk-county-animal-control-cedartown/
 https://shelterdayout.com/listings/polk-county-humane-society-bolivar/
 https://shelterdayout.com/listings/polk-county-sheriff-s-office-animal-control-winter-haven/
+https://shelterdayout.com/listings/pope-county-humane-society-glenwood/
 https://shelterdayout.com/listings/pope-memorial-frontier-animal-shelter-orleans/
 https://shelterdayout.com/listings/pope-memorial-humane-society-cocheco-valley-dover/
 https://shelterdayout.com/listings/pope-memorial-humane-society-of-knox-county-thomaston/
@@ -3544,6 +3548,7 @@ https://shelterdayout.com/listings/safehaven-small-breed-rescue-tionesta/
 https://shelterdayout.com/listings/saginaw-county-animal-care-and-control-saginaw/
 https://shelterdayout.com/listings/saint-cat-rescue-and-adoption-center-cedar-rapids/
 https://shelterdayout.com/listings/saint-frances-animal-center-georgetown/
+https://shelterdayout.com/listings/saint-paul-animal-services-saint-paul/
 https://shelterdayout.com/listings/salem-animal-rescue-league-salem/
 https://shelterdayout.com/listings/salem-animal-shelter-salem/
 https://shelterdayout.com/listings/salem-county-humane-society-penns-grove/
@@ -3838,11 +3843,13 @@ https://shelterdayout.com/listings/stark-county-sheriff-s-office-dog-warden-divi
 https://shelterdayout.com/listings/starke-county-humane-society-north-judson/
 https://shelterdayout.com/listings/stay-a-while-cat-shelter-north-royalton/
 https://shelterdayout.com/listings/ste-genevieve-county-animal-control-ste-genevieve/
+https://shelterdayout.com/listings/steele-county-humane-society-owatonna/
 https://shelterdayout.com/listings/stephen-memorial-animal-shelter-oskaloosa/
 https://shelterdayout.com/listings/stephens-county-humane-society-duncan/
 https://shelterdayout.com/listings/stephenson-county-animal-control-freeport/
 https://shelterdayout.com/listings/sterling-animal-shelter-animal-shelter-inc-of-sterling-sterling/
 https://shelterdayout.com/listings/sterling-heights-animal-control-shelter-sterling-heights/
+https://shelterdayout.com/listings/stevens-community-humane-society-morris/
 https://shelterdayout.com/listings/stockton-animal-shelter-city-of-stockton-animal-services-stockton/
 https://shelterdayout.com/listings/stokes-county-animal-control-germanton/
 https://shelterdayout.com/listings/stone-county-humane-society-mountain-view/
