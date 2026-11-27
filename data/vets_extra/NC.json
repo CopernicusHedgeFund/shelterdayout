@@ -268,5 +268,35 @@
   "lon": null,
   "src": "https://banfield.com/locations/veterinarians/nc/charlotte/ccn",
   "checked": "November 2026"
+ },
+ {
+  "state": "NC",
+  "name": "Banfield Pet Hospital (Wilmington)",
+  "city": "Wilmington",
+  "street": "4715 New Centre Dr",
+  "zip": "28405",
+  "phone": "(910) 796-0401",
+  "website": "https://assets.banfield.com/locations/veterinarians/nc/wilmington/wil",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://assets.banfield.com/locations/veterinarians/nc/wilmington/wil",
+  "checked": "November 2026"
+ },
+ {
+  "state": "NC",
+  "name": "Banfield Pet Hospital (Brier Creek)",
+  "city": "Raleigh",
+  "street": "8111 Brier Creek Pkwy",
+  "zip": "27617",
+  "phone": "(919) 806-2960",
+  "website": "https://assets.banfield.com/locations/veterinarians/nc/raleigh/rah",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://assets.banfield.com/locations/veterinarians/nc/raleigh/rah",
+  "checked": "November 2026"
  }
 ]
