@@ -301,7 +301,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "casinfo@colliervilletn.gov",
-  "phone": "+1 901-457-2670",
+  "phone": "(901) 457-2670",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1230416734"
  },
@@ -590,6 +590,23 @@
  },
  {
   "state": "TN",
+  "city": "Henderson",
+  "org": "Henderson Dog Pound",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "url": "https://www.hendersontn.gov/pdf/dog_pound_fee.pdf",
+  "notes": "City of Henderson dog pound; its fee schedule lists adoption fees for dogs.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "government page",
+  "events": []
+ },
+ {
+  "state": "TN",
   "city": "Hendersonville",
   "org": "Humane Society of Sumner County",
   "program": "No day-out program yet",
@@ -794,6 +811,30 @@
     "date": "2027-01-16",
     "title": "Petco Adoption Event - Farragut",
     "url": "https://www.young-williams.org/event/petco-adoption-event-farragut-23/2027-01-16/",
+    "place": "Petco Farragut, 169 Brooklawn St, Farragut"
+   },
+   {
+    "date": "2027-02-06",
+    "title": "Petco Adoption Event - Bearden",
+    "url": "https://www.young-williams.org/event/petco-adoption-event-bearden-25/2027-02-06/",
+    "place": "Petco Bearden, 4908 Kingston Pike, Knoxville"
+   },
+   {
+    "date": "2027-02-20",
+    "title": "Petco Adoption Event - Farragut",
+    "url": "https://www.young-williams.org/event/petco-adoption-event-farragut-23/2027-02-20/",
+    "place": "Petco Farragut, 169 Brooklawn St, Farragut"
+   },
+   {
+    "date": "2027-03-06",
+    "title": "Petco Adoption Event - Bearden",
+    "url": "https://www.young-williams.org/event/petco-adoption-event-bearden-25/2027-03-06/",
+    "place": "Petco Bearden, 4908 Kingston Pike, Knoxville"
+   },
+   {
+    "date": "2027-03-20",
+    "title": "Petco Adoption Event - Farragut",
+    "url": "https://www.young-williams.org/event/petco-adoption-event-farragut-23/2027-03-20/",
     "place": "Petco Farragut, 169 Brooklawn St, Farragut"
    }
   ],
