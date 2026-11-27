@@ -2782,7 +2782,6 @@ https://shelteradoption.com/shelters/macon-county-animal-services-franklin/
 https://shelteradoption.com/shelters/macoupin-county-animal-control-and-adoption-center-carlinville/
 https://shelteradoption.com/shelters/madera-county-animal-services-madera-animal-shelter-madera/
 https://shelteradoption.com/shelters/madill-animal-shelter-madill/
-https://shelteradoption.com/shelters/madison-animal-shelter-city-of-madison-animal-control-madison/
 https://shelteradoption.com/shelters/madison-animal-shelter-madison-animal-control-madison/
 https://shelteradoption.com/shelters/madison-city-animal-control-madison/
 https://shelteradoption.com/shelters/madison-county-animal-care-and-control-edwardsville/
@@ -2955,7 +2954,6 @@ https://shelteradoption.com/shelters/mission-viejo-animal-services-center-missio
 https://shelteradoption.com/shelters/mississippi-animal-rescue-league-marl-jackson/
 https://shelteradoption.com/shelters/missoula-animal-services-missoula/
 https://shelteradoption.com/shelters/missouri-city-animal-services-missouri-city/
-https://shelteradoption.com/shelters/mitchell-animal-rescue-mitchell/
 https://shelteradoption.com/shelters/mitchell-county-animal-control-camilla/
 https://shelteradoption.com/shelters/mitchell-county-animal-rescue-spruce-pine/
 https://shelteradoption.com/shelters/moab-city-animal-shelter-moab/
@@ -3594,6 +3592,7 @@ https://shelteradoption.com/shelters/roane-county-animal-shelter-rockwood/
 https://shelteradoption.com/shelters/roane-county-humane-authority-society-spencer/
 https://shelteradoption.com/shelters/roanoke-rapids-animal-control-roanoke-rapids/
 https://shelteradoption.com/shelters/roanoke-valley-spca-roanoke/
+https://shelteradoption.com/shelters/robertson-county-animal-shelter-mt-olivet/
 https://shelteradoption.com/shelters/robeson-county-animal-protective-services-st-pauls/
 https://shelteradoption.com/shelters/robeson-county-humane-society-lumberton/
 https://shelteradoption.com/shelters/robstown-animal-care-and-control-robstown/

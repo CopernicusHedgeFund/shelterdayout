@@ -28,7 +28,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "brookingsregionalhumanesociety@hotmail.com",
-  "phone": "",
+  "phone": "(605) 697-7387",
   "source_list": "shelter website",
   "osm": "node/12806003688",
   "events": [
@@ -82,12 +82,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://dakotaathome.sd.gov/search/978f0d37-f159-591a-9bef-16c5a8b8338d",
-  "notes": "No own website found (state 211 page lists only a Petfinder subdomain); no day-out program found. Email from dakotaathome.sd.gov listing.",
+  "notes": "No own website found (state 211 page lists only a Petfinder subdomain); no day-out program found. Shelter at 5063 Dakota Ave S; phone and email from dakotaathome.sd.gov listing.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "bchs@santel.net",
   "source_list": "shelter website",
-  "source": "https://petfinder.com/member/us/sd/huron/beadle-county-humane-society-sd14/"
+  "source": "https://petfinder.com/member/us/sd/huron/beadle-county-humane-society-sd14/",
+  "phone": "(605) 352-8955"
  },
  {
   "state": "SD",
@@ -105,7 +106,7 @@
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/twincityanimals/",
   "source": "https://www.petfinder.com/member/us/sd/lead/twin-city-animal-shelter-sd01/",
-  "phone": "(605) 584-1401"
+  "phone": "(605) 584-2480"
  },
  {
   "state": "SD",
@@ -134,7 +135,7 @@
   "notes": "No day-out program found on site (foster can be as short as overnight via hsbhfostering@gmail.com).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "hsbhinformation@gmail.com",
   "source_list": "shelter website",
   "events": [
    {
@@ -143,7 +144,8 @@
     "url": "https://www.hsbh.org/event/black-friday-adoption-specials/",
     "place": "Humane Society of the Black Hills, 1820 E. St. Patrick St., Rapid City"
    }
-  ]
+  ],
+  "phone": "(605) 394-4170"
  },
  {
   "state": "SD",
@@ -188,12 +190,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.sturgis-sd.gov/animal-shelter",
-  "notes": "City-run shelter (Police Dept.); no day-out program or email listed; open 9-5, closed Wednesdays.",
+  "notes": "City-run shelter (Police Dept.) at 1140 Otter Rd; no day-out program or email listed; open 9-5, closed Wednesdays.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(605) 347-8310"
  },
  {
   "state": "SD",
@@ -204,7 +206,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://watertownpaws.org/",
-  "notes": "Shelter at 1305 6th Ave NW. Website listed with IRS/GuideStar (watertownpaws.org) did not load; no government page found, so url left blank. Program status unverified.",
+  "notes": "Shelter at 1305 6th Ave NW. Site watertownpaws.org is live (About page loads; other pages intermittently unreachable); no phone, email or day-out program found on pages opened.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -224,40 +226,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@heartlandhumanesociety.com",
-  "phone": "+1-605-664-4244",
+  "phone": "(605) 664-4244",
   "source_list": "shelter website",
   "osm": "node/5343230598"
- },
- {
-  "state": "SD",
-  "city": "Mitchell",
-  "org": "Mitchell Animal Rescue",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://mitchellanimalrescue.org/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "SD",
-  "city": "Madison",
-  "org": "Madison Animal Shelter (City of Madison Animal Control)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://madisonthecity.com/departments/police/animal-control/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
  }
 ]

@@ -343,6 +343,7 @@ https://shelterdayout.com/cities/osage-beach-mo/
 https://shelterdayout.com/cities/osawatomie-ks/
 https://shelterdayout.com/cities/oshkosh-wi/
 https://shelterdayout.com/cities/osseo-mi/
+https://shelterdayout.com/cities/owensboro-ky/
 https://shelterdayout.com/cities/oxnard-ca/
 https://shelterdayout.com/cities/pahrump-nv/
 https://shelterdayout.com/cities/palm-harbor-fl/
@@ -2807,7 +2808,6 @@ https://shelterdayout.com/listings/macon-county-animal-services-franklin/
 https://shelterdayout.com/listings/macoupin-county-animal-control-and-adoption-center-carlinville/
 https://shelterdayout.com/listings/madera-county-animal-services-madera-animal-shelter-madera/
 https://shelterdayout.com/listings/madill-animal-shelter-madill/
-https://shelterdayout.com/listings/madison-animal-shelter-city-of-madison-animal-control-madison/
 https://shelterdayout.com/listings/madison-animal-shelter-madison-animal-control-madison/
 https://shelterdayout.com/listings/madison-city-animal-control-madison/
 https://shelterdayout.com/listings/madison-county-animal-care-and-control-edwardsville/
@@ -2980,7 +2980,6 @@ https://shelterdayout.com/listings/mission-viejo-animal-services-center-mission-
 https://shelterdayout.com/listings/mississippi-animal-rescue-league-marl-jackson/
 https://shelterdayout.com/listings/missoula-animal-services-missoula/
 https://shelterdayout.com/listings/missouri-city-animal-services-missouri-city/
-https://shelterdayout.com/listings/mitchell-animal-rescue-mitchell/
 https://shelterdayout.com/listings/mitchell-county-animal-control-camilla/
 https://shelterdayout.com/listings/mitchell-county-animal-rescue-spruce-pine/
 https://shelterdayout.com/listings/moab-city-animal-shelter-moab/
@@ -3619,6 +3618,7 @@ https://shelterdayout.com/listings/roane-county-animal-shelter-rockwood/
 https://shelterdayout.com/listings/roane-county-humane-authority-society-spencer/
 https://shelterdayout.com/listings/roanoke-rapids-animal-control-roanoke-rapids/
 https://shelterdayout.com/listings/roanoke-valley-spca-roanoke/
+https://shelterdayout.com/listings/robertson-county-animal-shelter-mt-olivet/
 https://shelterdayout.com/listings/robeson-county-animal-protective-services-st-pauls/
 https://shelterdayout.com/listings/robeson-county-humane-society-lumberton/
 https://shelterdayout.com/listings/robstown-animal-care-and-control-robstown/

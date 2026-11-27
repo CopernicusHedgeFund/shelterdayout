@@ -7,13 +7,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://clintoncounty.ky.gov/Pages/Services.aspx",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/groups/361912090648776/"
+  "url_social": "https://www.facebook.com/groups/361912090648776/",
+  "phone": "(606) 387-0943"
  },
  {
   "state": "KY",
@@ -127,7 +128,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.bgky.org/humane-society",
+  "url": "https://www.bgshelterpets.com/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -148,7 +149,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jen.h@meadeky.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 422-2064"
  },
  {
   "state": "KY",
@@ -164,7 +166,7 @@
   "email_program": "",
   "email_main": "brackencountyanimalshelter@gmail.com",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(606) 735-3475"
  },
  {
   "state": "KY",
@@ -178,9 +180,9 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@boonecountyky.org",
   "source_list": "shelter website",
-  "phone": "(859) 334-2100"
+  "phone": "(859) 586-5285"
  },
  {
   "state": "KY",
@@ -269,7 +271,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.rcky.us/news/animal-control-in-rowan",
+  "url": "https://www.rcky.us/animal-control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -323,7 +325,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.services@kentoncounty.org",
-  "phone": "+1-859-356-7400",
+  "phone": "(859) 356-7400",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1395061972"
  },
@@ -534,7 +536,7 @@
   "email_program": "",
   "email_main": "greenupcountyanimalshelter@aol.com",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(606) 473-5711"
  },
  {
   "state": "KY",
@@ -741,7 +743,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(502) 839-6410"
  },
  {
   "state": "KY",
@@ -772,7 +775,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.shelter@marioncountyky.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 692-0464"
  },
  {
   "state": "KY",
@@ -799,7 +803,7 @@
   "animals": "Dogs and cats",
   "offers": "Day trip",
   "url": "https://lexingtonhumanesociety.org/check-me-out-program/",
-  "notes": "Adults 18+ with photo ID and a working cell phone can take a dog out for the day: pick up 2-4 pm Tue-Fri at the Malcomb campus (1600 Old Frankfort Pike) or daily at the Everyday Adoption Center in PetSmart, and return the same afternoon. No dog parks or other pets; may close in bad weather, so call 859-233-0044 first.",
+  "notes": "Adults 18+ with photo ID and a working cell phone sign a waiver, then take a dog out for the day: pick up 2-4 pm Tue-Fri at the Malcomb campus (1600 Old Frankfort Pike, return by 5 pm) or at the Everyday Adoption Center in PetSmart (2-4 pm Mon-Fri, return by 5 pm; 11 am-1 pm Sat-Sun, return by 2 pm). No dog parks or personal pets; may close in hot or bad weather, so call 859-233-0044 ext. 223 first.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -887,7 +891,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source": "https://www.wlky.com/article/shelter-dogs-louisville-adoption-field-trips-lmas/39504549"
+  "source": "https://www.wlky.com/article/shelter-dogs-louisville-adoption-field-trips-lmas/39504549",
+  "phone": ""
  },
  {
   "state": "KY",
@@ -1057,12 +1062,30 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://montgomerycounty.ky.gov/Dept/Pages/Montgomery-County-Animal-Shelter.aspx",
+  "url": "https://montgomerycounty.ky.gov/departments-and-agencies-overview/montgomery-county-animal-shelter/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 498-8751"
+ },
+ {
+  "state": "KY",
+  "city": "Mt. Olivet",
+  "org": "Robertson County Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://robertsoncounty.ky.gov/departments/Pages/default.aspx",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(859) 707-0150",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "KY",
@@ -1078,7 +1101,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(606) 392-3290"
+  "phone": "(606) 256-1833"
  },
  {
   "state": "KY",
@@ -1088,12 +1111,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://hartcounty.ky.gov/Departments/Pages/dogs.aspx",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "petfinder listing"
+  "source_list": "petfinder listing",
+  "phone": "(270) 524-5219"
  },
  {
   "state": "KY",
@@ -1103,7 +1127,7 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://callowaycountyky.gov/?p=4191",
+  "url": "https://callowaycountyky.gov/animal-control/doggie-daycations/",
   "notes": "Pick a dog at the shelter the morning of your outing; an adult 18+ must supervise, stay within Calloway County, no dog parks, and return the dog by closing time. Harness and leash provided.",
   "checked": "November 2026",
   "email_program": "",
@@ -1120,7 +1144,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://jessamineky.gov/?p=20788",
+  "url": "https://adoptjcacc.com/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -1147,16 +1171,17 @@
   "state": "KY",
   "city": "Owensboro",
   "org": "Daviess County Animal Care & Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://daviessky.org/?p=11949",
-  "notes": "",
+  "program": "Dog's Day Out",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.daviessky.org/dogs-day-out/",
+  "notes": "Approved volunteers who complete a volunteer application are paired with a shelter dog for a day out (park, backyard, drive, walk) and share the outing on social media.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(270) 685-8275"
  },
  {
   "state": "KY",
@@ -1186,7 +1211,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@mccrackenhumane.org",
   "source_list": "shelter website",
   "phone": "(270) 443-5923"
  },
@@ -1198,11 +1223,11 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.pawspets.org",
+  "url": "https://pawspets.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "pawsparisky@gmail.com",
   "source_list": "shelter website",
   "phone": "(859) 988-9800"
  },
@@ -1248,7 +1273,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "DDDCPS2020@outlook.com",
   "source_list": "shelter website",
   "phone": "(606) 886-3189"
  },
@@ -1427,7 +1452,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "heather.chatham@trimblecountyky.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(502) 667-1055"
  },
  {
   "state": "KY",
@@ -1502,7 +1528,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.letchercounty.ky.gov/government/da/Pages/ac.aspx",
-  "phone": "",
+  "phone": "(606) 633-7583",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
