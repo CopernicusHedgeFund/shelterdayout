@@ -328,6 +328,8 @@ def write(path, content):
     p.parent.mkdir(parents=True, exist_ok=True)
     if len(content.encode()) > 900_000:  # GoDaddy's server returns 500 for HTML pages over about 1 MB
         raise SystemExit(f"Page too big for the host ({len(content.encode()):,} bytes, limit 900,000): {path}")
+    if str(p).endswith('.html'):
+        content = seo.add_tracer(content, 'SDO', path)
     p.write_text(content)
 
 
@@ -336,7 +338,7 @@ def row_html(r, show_state=True):
     types = " ".join(r["types"])
     ll = coords(r["city"], r["state"])
     return f"""<tr data-ll="{(str(ll[0]) + ',' + str(ll[1])) if ll else ''}" data-state="{r['state']}" data-animals="{esc(r['animals'])}" data-types="{types}" data-status="{esc(r['status'])}" data-q="{esc((r['org']+' '+r['city']+' '+r['state_name']+' '+r['program']).lower())}">
-<td class="org"><a href="/listings/{r['slug']}/">{esc(r['org'])}</a><div class="prog">{esc(r['program'])}</div></td>
+<td class="org"><a href="/listings/{r['slug']}/">{esc(r['org'])}{seo.tracer("SDO", "/listings/" + r["slug"] + "/")}</a><div class="prog">{esc(r['program'])}</div></td>
 <td>{loc}</td>
 <td>{''.join(ICONS[t] for t in r['types'])}{esc(r['offers'])}<div class="animal">{esc(r['animals'])}</div></td>
 <td>{badge(r['status'])}</td>
@@ -347,7 +349,7 @@ def table(rows, show_state=True, lazy_src=None):
     body = "\n".join(row_html(r, show_state) for r in rows)
     if lazy_src:  # home page: rows are loaded only when someone searches
         (DIST / lazy_src.lstrip("/")).parent.mkdir(parents=True, exist_ok=True)
-        (DIST / lazy_src.lstrip("/")).write_text(json.dumps(body))
+        (DIST / lazy_src.lstrip("/")).write_text(json.dumps(body, ensure_ascii=False))
         v = hashlib.md5(body.encode()).hexdigest()[:10]
         return f"""<table class="list" id="results" hidden>
 <thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
@@ -886,7 +888,7 @@ def legal_terms(brand, kind, contact, sdo="https://shelterdayout.com"):
 <p>{brand}'s directory, including its selection and arrangement of listings, its descriptions and summaries, its program and event research, its guides, reports and graphics, is the work of {LEGAL_ORG}. You may use the site to find shelters and programs for yourself, and you may quote an individual fact or a figure from our reports with credit and a link to the page.</p>
 <p>Without our written permission you may not: (a) use any robot, spider, scraper, script, crawler, headless or automated browser, AI agent or similar tool, or any manual process, to copy, download, extract or collect pages, listings or data from the site in bulk; (b) disguise such a tool as an ordinary browser, rotate network addresses or otherwise get around the site's technical limits or blocks; (c) republish, mirror, frame or redistribute the site or a substantial part of it; or (d) use material from the site to build, update or supply another directory, database, list, app, product or service, or to train or improve any artificial intelligence or machine-learning model.</p>
 <p>Search engines and other crawlers that identify themselves truthfully and follow the site's <a href="/robots.txt">robots.txt</a> file may index its public pages so people can find them. To ask for permission or a data license, email <a href="mailto:{contact}">{contact}</a>.</p>
-<p>Breaking this section ends your permission to use the site. We may block access and seek every remedy available under the law, including court orders, damages, compensation for our losses (including loss of future income, such as lost revenue and donations), and recovery of our costs and attorneys' fees where the law allows. Information that comes from OpenStreetMap or GeoNames remains available under its own license, and this section doesn't limit any rights you have under those licenses.</p>
+<p>Breaking this section ends your permission to use the site. We may block access and seek every remedy available under the law, including court orders, damages, compensation for our losses (including loss of future income, such as lost revenue and donations), and recovery of our costs and attorneys' fees where the law allows. We take this very seriously. We monitor the internet daily for copycat and clone sites, and our pages and data contain hidden tracers that let us identify copied content and find who copied it. Information that comes from OpenStreetMap or GeoNames remains available under its own license, and this section doesn't limit any rights you have under those licenses.</p>
 <h2>Links to other sites</h2>
 <p>We link to shelters' and other organizations' websites for your convenience. We don't control those sites and aren't responsible for their content, policies or practices.</p>
 <h2>No warranties</h2>

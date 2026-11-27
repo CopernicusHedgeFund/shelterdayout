@@ -163,7 +163,7 @@ def build_report(m, rows):
     w.writerow(["state", "state_name", "shelters_listed", "day_out_programs", "open_to_public", "volunteers_only", "share_with_program"])
     for k in sorted(st, key=lambda k: m.STATES[k]):
         s = st[k]
-        w.writerow([k, m.STATES[k], s["shelters"], s["programs"], s["open"], s["vol"], pct(s["programs"], s["shelters"])])
+        w.writerow([k, m.STATES[k] + tracer("RPT", "/report/" + k), s["shelters"], s["programs"], s["open"], s["vol"], pct(s["programs"], s["shelters"])])
     (m.DIST / "report").mkdir(parents=True, exist_ok=True)
     (m.DIST / "report" / "programs-by-state.csv").write_text(buf.getvalue())
     trs = "".join(f'<tr><td><a href="/states/{m.slugify(m.STATES[k])}/">{m.STATES[k]}</a></td><td>{s["shelters"]:,}</td><td>{s["programs"]:,}</td><td>{s["open"]:,}</td><td>{pct(s["programs"], s["shelters"])}</td></tr>'
@@ -222,3 +222,25 @@ def build_guides_hub(m, guides, more, h1, intro):
 <div class="grid3">{cards(more)}</div>"""
     m.write("/guides/", m.page(f"{h1} | {m.BRAND}", intro, body, "/guides/",
         f'<script type="application/ld+json">{ld}</script>' + m.crumbs_ld([("Home", "/"), ("Guides", "/guides/")])))
+
+
+# Tracer: an invisible mark (zero-width characters) in the first paragraph of each page.
+# It survives copy-paste and most scrapers, and identifies the site and page it came from.
+# Decode a suspected copy with: python3 tools/find_tracer.py <file-or-url-text>
+_ZW = "\u200b\u200c\u200d\u2062"  # 2 bits per invisible character
+def tracer_id(site, path):
+    import hashlib as _h
+    return _h.sha1((site + path).encode()).hexdigest()[:8]
+def tracer(site, path):
+    n = int(tracer_id(site, path), 16)
+    return "\u2060" + "".join(_ZW[(n >> s) & 3] for s in range(30, -1, -2)) + "\u2060"
+
+def add_tracer(html, site, path):
+    i = html.find("</h1>")
+    if i < 0:
+        return html
+    j = html.find("<p", i)
+    if j < 0:
+        return html
+    k = html.find(">", j)
+    return html[:k + 1] + tracer(site, path) + html[k + 1:]

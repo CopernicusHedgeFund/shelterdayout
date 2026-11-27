@@ -120,6 +120,8 @@ def write(path, content):
     p.parent.mkdir(parents=True, exist_ok=True)
     if len(content.encode()) > 900_000:  # GoDaddy's server returns 500 for HTML pages over about 1 MB
         raise SystemExit(f"Page too big for the host ({len(content.encode()):,} bytes, limit 900,000): {path}")
+    if str(p).endswith('.html'):
+        content = seo.add_tracer(content, 'SA', path)
     p.write_text(content)
 
 
@@ -158,7 +160,7 @@ def shelter_li(r, show_state=True):
     loc = f"{esc(r['city'])}, {r['state']}" if show_state else esc(r["city"])
     q = esc((r["org"] + " " + r["city"] + " " + r["state_name"] + " " + r["state"]).lower())
     ll = coords(r["city"], r["state"])
-    return (f'<li data-ll="{(str(ll[0]) + "," + str(ll[1])) if ll else ""}" data-q="{q}" data-state="{r["state"]}"><b><a href="/shelters/{r["slug"]}/">{esc(r["org"])}</a></b>'
+    return (f'<li data-ll="{(str(ll[0]) + "," + str(ll[1])) if ll else ""}" data-q="{q}" data-state="{r["state"]}"><b><a href="/shelters/{r["slug"]}/">{esc(r["org"])}{seo.tracer("SA", "/shelters/" + r["slug"] + "/")}</a></b>'
             f'<div class="meta">{loc} &middot; {esc(r.get("animals") or "Dogs and cats")}</div>{tags(r)}</li>')
 
 
@@ -241,7 +243,7 @@ def build_home(rows):
         "email": CONTACT, "parentOrganization": {"@type": "NGO", "name": "Charity Good", "url": "https://charitygood.org"}})
     lst = "".join(shelter_li(r) for r in sorted(rows, key=lambda r: (r["state_name"], r["city"], r["org"])))
     (DIST / "assets").mkdir(parents=True, exist_ok=True)
-    (DIST / "assets" / "home-list.json").write_text(json.dumps(lst))
+    (DIST / "assets" / "home-list.json").write_text(json.dumps(lst, ensure_ascii=False))
     n_states = len({r["state"] for r in rows if r["state"] != "DC"})
     body = f"""<section class="adopt-hero"><div>
 <h1>Animal shelters near you: <span class="hl">adopt a pet.</span></h1>
