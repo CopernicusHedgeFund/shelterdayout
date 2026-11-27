@@ -1219,6 +1219,7 @@ https://shelterdayout.com/listings/city-of-del-rio-animal-care-and-control-del-r
 https://shelterdayout.com/listings/city-of-dickinson-animal-shelter-dickinson/
 https://shelterdayout.com/listings/city-of-dillingham-animal-shelter-dillingham/
 https://shelterdayout.com/listings/city-of-dumas-animal-shelter-dumas/
+https://shelterdayout.com/listings/city-of-east-orange-animal-center-east-orange/
 https://shelterdayout.com/listings/city-of-eastland-animal-shelter-eastland/
 https://shelterdayout.com/listings/city-of-edna-animal-shelter-edna/
 https://shelterdayout.com/listings/city-of-elizabeth-animal-shelter-elizabeth/
@@ -2257,6 +2258,7 @@ https://shelterdayout.com/listings/humane-society-waterville-area-waterville/
 https://shelterdayout.com/listings/humanecny-humane-association-of-central-new-york-liverpool/
 https://shelterdayout.com/listings/humboldt-animal-rescue-team-hart-adoption-center-eureka/
 https://shelterdayout.com/listings/humboldt-county-sheriff-s-office-animal-shelter-mckinleyville/
+https://shelterdayout.com/listings/hunterdon-humane-animal-shelter-merging-with-animal-alliance-of-nj-milford/
 https://shelterdayout.com/listings/huntingdon-county-humane-society-huntingdon/
 https://shelterdayout.com/listings/huntington-animal-shelter-town-of-huntington-east-northport/
 https://shelterdayout.com/listings/huntington-cabell-wayne-animal-control-shelter-huntington/
@@ -2329,6 +2331,7 @@ https://shelterdayout.com/listings/jefferson-county-animal-shelter-mount-vernon/
 https://shelterdayout.com/listings/jefferson-county-humane-society-valley-falls/
 https://shelterdayout.com/listings/jefferson-county-spca-watertown/
 https://shelterdayout.com/listings/jefferson-parish-animal-shelter-jpaws-west-bank-harvey/
+https://shelterdayout.com/listings/jefferson-township-municipal-pound-lake-hopatcong/
 https://shelterdayout.com/listings/jeffersonville-animal-shelter-j-b-ogle-jeffersonville/
 https://shelterdayout.com/listings/jenks-animal-welfare-jenks/
 https://shelterdayout.com/listings/jennings-county-animal-control-north-vernon/
@@ -2816,6 +2819,7 @@ https://shelterdayout.com/listings/montgomery-county-spca-amsterdam/
 https://shelterdayout.com/listings/montgomery-county-spca-conshohocken/
 https://shelterdayout.com/listings/montgomery-county-spca-perkiomenville-branch-perkiomenville/
 https://shelterdayout.com/listings/montgomery-humane-society-montgomery/
+https://shelterdayout.com/listings/montgomery-township-animal-shelter-belle-mead/
 https://shelterdayout.com/listings/montville-animal-shelter-montville/
 https://shelterdayout.com/listings/montville-regional-animal-control-montville-dog-pound-uncasville/
 https://shelterdayout.com/listings/moore-animal-welfare-and-adoption-center-moore/

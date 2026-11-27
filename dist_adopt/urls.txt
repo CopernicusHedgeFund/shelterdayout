@@ -1189,6 +1189,7 @@ https://shelteradoption.com/shelters/city-of-del-rio-animal-care-and-control-del
 https://shelteradoption.com/shelters/city-of-dickinson-animal-shelter-dickinson/
 https://shelteradoption.com/shelters/city-of-dillingham-animal-shelter-dillingham/
 https://shelteradoption.com/shelters/city-of-dumas-animal-shelter-dumas/
+https://shelteradoption.com/shelters/city-of-east-orange-animal-center-east-orange/
 https://shelteradoption.com/shelters/city-of-eastland-animal-shelter-eastland/
 https://shelteradoption.com/shelters/city-of-edna-animal-shelter-edna/
 https://shelteradoption.com/shelters/city-of-elizabeth-animal-shelter-elizabeth/
@@ -2227,6 +2228,7 @@ https://shelteradoption.com/shelters/humane-society-waterville-area-waterville/
 https://shelteradoption.com/shelters/humanecny-humane-association-of-central-new-york-liverpool/
 https://shelteradoption.com/shelters/humboldt-animal-rescue-team-hart-adoption-center-eureka/
 https://shelteradoption.com/shelters/humboldt-county-sheriff-s-office-animal-shelter-mckinleyville/
+https://shelteradoption.com/shelters/hunterdon-humane-animal-shelter-merging-with-animal-alliance-of-nj-milford/
 https://shelteradoption.com/shelters/huntingdon-county-humane-society-huntingdon/
 https://shelteradoption.com/shelters/huntington-animal-shelter-town-of-huntington-east-northport/
 https://shelteradoption.com/shelters/huntington-cabell-wayne-animal-control-shelter-huntington/
@@ -2299,6 +2301,7 @@ https://shelteradoption.com/shelters/jefferson-county-animal-shelter-mount-verno
 https://shelteradoption.com/shelters/jefferson-county-humane-society-valley-falls/
 https://shelteradoption.com/shelters/jefferson-county-spca-watertown/
 https://shelteradoption.com/shelters/jefferson-parish-animal-shelter-jpaws-west-bank-harvey/
+https://shelteradoption.com/shelters/jefferson-township-municipal-pound-lake-hopatcong/
 https://shelteradoption.com/shelters/jeffersonville-animal-shelter-j-b-ogle-jeffersonville/
 https://shelteradoption.com/shelters/jenks-animal-welfare-jenks/
 https://shelteradoption.com/shelters/jennings-county-animal-control-north-vernon/
@@ -2786,6 +2789,7 @@ https://shelteradoption.com/shelters/montgomery-county-spca-amsterdam/
 https://shelteradoption.com/shelters/montgomery-county-spca-conshohocken/
 https://shelteradoption.com/shelters/montgomery-county-spca-perkiomenville-branch-perkiomenville/
 https://shelteradoption.com/shelters/montgomery-humane-society-montgomery/
+https://shelteradoption.com/shelters/montgomery-township-animal-shelter-belle-mead/
 https://shelteradoption.com/shelters/montville-animal-shelter-montville/
 https://shelteradoption.com/shelters/montville-regional-animal-control-montville-dog-pound-uncasville/
 https://shelteradoption.com/shelters/moore-animal-welfare-and-adoption-center-moore/
