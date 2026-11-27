@@ -11,7 +11,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@abbevillecountysc.com",
   "source_list": "shelter website",
   "phone": "(864) 366-6639"
  },
@@ -24,7 +24,7 @@
   "animals": "Dogs and cats",
   "offers": "Day trip",
   "url": "https://www.aikencountysc.gov/DspSvc?qSvcID=150",
-  "notes": "Check out a shelter dog for the day; fostering and volunteering are run with Friends of the Animal Shelter (FOTAS). Call 803-642-1537 for details.",
+  "notes": "The county's Adopt-a-Pet page no longer mentions Doggie Days Out (program page could not be loaded); fostering and volunteering run through Friends of the Animal Shelter (FOTAS), so call (803) 642-1537 to confirm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -36,17 +36,37 @@
   "city": "Aiken",
   "org": "SPCA Albrecht Center for Animal Welfare",
   "program": "Doggie Day Out",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://www.letlovelive.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "url": "https://www.letlovelive.org/how-to-help/doggie_day_out/",
+  "notes": "Anyone can take a shelter dog out for the day with no appointment or experience: come to the center at 199 Willow Run Road Monday through Saturday during open hours, fill out a short form and pick a dog with staff.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(803) 648-6863",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/8507491482"
+  "osm": "node/8507491482",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Adoptions at Hollywood Feed",
+    "url": "https://www.letlovelive.org/",
+    "place": "Hollywood Feed, 2928 Whiskey Rd, Aiken, SC"
+   },
+   {
+    "date": "2026-12-04",
+    "title": "Adoptions at Aiken Saddlery",
+    "url": "https://www.letlovelive.org/",
+    "place": "Aiken Saddlery, 1090 E. Pine Log Rd, Aiken, SC"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Adoptions at Good Girl Brewery",
+    "url": "https://www.letlovelive.org/",
+    "place": "Good Girl Brewery, 880 Banks Mill Rd SE, Aiken, SC"
+   }
+  ]
  },
  {
   "state": "SC",
@@ -109,23 +129,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "SC",
-  "city": "Batesburg-Leesville",
-  "org": "Batesburg-Leesville Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.batesburg-leesville.org/animal-services",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": null
  },
  {
   "state": "SC",
@@ -156,7 +161,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "petfinder listing"
+  "source_list": "petfinder listing",
+  "phone": null
  },
  {
   "state": "SC",
@@ -204,7 +210,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(803) 385-6341"
  },
  {
   "state": "SC",
@@ -251,7 +257,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": null
  },
  {
   "state": "SC",
@@ -265,7 +272,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoption@pawmettolifeline.org",
   "source_list": "shelter website",
   "phone": "(803) 465-9150"
  },
@@ -299,7 +306,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 841-8884"
  },
  {
   "state": "SC",
@@ -315,7 +323,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/profile.php?id=61550204965497"
+  "url_social": "https://www.facebook.com/profile.php?id=61550204965497",
+  "phone": null
  },
  {
   "state": "SC",
@@ -330,7 +339,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 665-3053"
  },
  {
   "state": "SC",
@@ -361,7 +371,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "contact@humanesocietyofyorkcounty.org",
   "source_list": "shelter website",
   "phone": "(803) 802-0902"
  },
@@ -411,7 +421,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(864) 467-3985"
+  "phone": "(864) 467-3950"
  },
  {
   "state": "SC",
@@ -451,16 +461,25 @@
   "state": "SC",
   "city": "Hartsville",
   "org": "Darlington County Humane Society",
-  "program": "Paws, Pics, and Field Trips",
+  "program": "Paws, Pics, and Field Trips (and Pawjama Pawty sleepovers)",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Day trips, sleepovers",
   "url": "https://www.darlingtonhumane.org/events",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Book a field trip online for Tue, Thu, Fri or Sat (8:30am-noon pickup at 580 E. Washington St.) and take a dog out with the harness and leash provided; overnight Pawjama Pawty sleepovers are booked the same way.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Shelter@darlingtonhumane.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 823-6080",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "title": "Giving Tuesday $0 Adoption Event",
+    "url": "https://www.darlingtonhumane.org/events/",
+    "place": "580 East Washington Street, Hartsville, SC"
+   }
+  ]
  },
  {
   "state": "SC",
@@ -499,7 +518,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@halliehill.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": null
  },
  {
   "state": "SC",
@@ -515,7 +535,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/williamsburg.shelter/"
+  "url_social": "https://www.facebook.com/williamsburg.shelter/",
+  "phone": null
  },
  {
   "state": "SC",
@@ -525,7 +546,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.lancastersheltersc.com/",
+  "url": "https://www.lancastercountysc.gov/170/Animal-Shelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -594,7 +615,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hsmcsc.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": null
  },
  {
   "state": "SC",
@@ -609,7 +631,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 719-5050"
  },
  {
   "state": "SC",
@@ -640,7 +663,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(843) 457-3139"
  },
  {
   "state": "SC",
@@ -655,7 +679,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": null
  },
  {
   "state": "SC",
@@ -797,10 +822,10 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.co.pickens.sc.us/departments/animal_shelter/index.php",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Take a shelter dog on an outing such as a hike or a pup cup; stop by the shelter with your ID between 12 and 3 pm any day except Wednesday and Sunday and staff will match you with a dog.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "pcas@pickenscountysc.gov",
   "source_list": "shelter website",
   "phone": "(864) 898-5936"
  },
@@ -832,7 +857,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@oconeehumane.org",
   "source_list": "shelter website",
   "phone": "(864) 882-4719"
  },
@@ -844,12 +869,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.spartanburgcounty.gov/1410/Animal-Welfare-Services",
+  "url": "https://www.spartanburgcounty.gov/1410/Pet-Resource-Center",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(864) 586-2918"
  },
  {
   "state": "SC",
@@ -864,7 +890,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hello@spartanburghumane.org",
-  "phone": "",
+  "phone": "(864) 583-4805",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/674761756"
  },
@@ -948,7 +974,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": null
  },
  {
   "state": "SC",
@@ -1027,7 +1054,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(803) 815-0805"
  },
  {
   "state": "SC",
@@ -1042,8 +1070,42 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+18036283190",
+  "phone": "(803) 628-3190",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1573209282"
+ },
+ {
+  "state": "SC",
+  "city": "North Augusta",
+  "org": "North Augusta Animal Control Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://northaugustasc.gov/government/city-departments/public-safety/animal-control-services",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(803) 441-4298",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "SC",
+  "city": "West Columbia",
+  "org": "PETS Inc., The Carolinas Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.petsinc.org",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(803) 739-9333",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
