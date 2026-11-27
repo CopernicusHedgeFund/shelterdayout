@@ -67,7 +67,6 @@ https://shelteradoption.com/cities/boise-id/
 https://shelteradoption.com/cities/boston-ma/
 https://shelteradoption.com/cities/bowling-green-oh/
 https://shelteradoption.com/cities/bradenton-fl/
-https://shelteradoption.com/cities/branson-mo/
 https://shelteradoption.com/cities/brighton-ma/
 https://shelteradoption.com/cities/brockton-ma/
 https://shelteradoption.com/cities/brooklyn-ny/
@@ -207,6 +206,7 @@ https://shelteradoption.com/cities/hendersonville-nc/
 https://shelteradoption.com/cities/holland-mi/
 https://shelteradoption.com/cities/hopewell-va/
 https://shelteradoption.com/cities/hot-springs-ar/
+https://shelteradoption.com/cities/house-springs-mo/
 https://shelteradoption.com/cities/houston-tx/
 https://shelteradoption.com/cities/huntsville-al/
 https://shelteradoption.com/cities/idaho-falls-id/
@@ -283,7 +283,6 @@ https://shelteradoption.com/cities/milwaukee-wi/
 https://shelteradoption.com/cities/mineola-tx/
 https://shelteradoption.com/cities/mission-hills-ca/
 https://shelteradoption.com/cities/missoula-mt/
-https://shelteradoption.com/cities/moberly-mo/
 https://shelteradoption.com/cities/mobile-al/
 https://shelteradoption.com/cities/monroe-ga/
 https://shelteradoption.com/cities/monroe-la/
@@ -1071,7 +1070,6 @@ https://shelteradoption.com/shelters/calhoun-county-animal-shelter-st-matthews/
 https://shelteradoption.com/shelters/calhoun-county-humane-society-anniston/
 https://shelteradoption.com/shelters/calhoun-county-humane-society-port-lavaca/
 https://shelteradoption.com/shelters/california-city-animal-control-and-shelter-california-city/
-https://shelteradoption.com/shelters/callaway-county-humane-society-fulton/
 https://shelteradoption.com/shelters/caloosa-humane-society-labelle/
 https://shelteradoption.com/shelters/calvert-animal-welfare-league-prince-frederick/
 https://shelteradoption.com/shelters/camano-animal-shelter-association-casa-camano-island/
@@ -1234,6 +1232,7 @@ https://shelteradoption.com/shelters/city-of-alma-animal-control-alma/
 https://shelteradoption.com/shelters/city-of-altus-animal-control-altus/
 https://shelteradoption.com/shelters/city-of-anahuac-animal-shelter-anahuac/
 https://shelteradoption.com/shelters/city-of-andrews-animal-services-andrews/
+https://shelteradoption.com/shelters/city-of-arnold-animal-control-arnold/
 https://shelteradoption.com/shelters/city-of-bakersfield-animal-care-center-cbacc-bakersfield/
 https://shelteradoption.com/shelters/city-of-ballinger-animal-control-ballinger/
 https://shelteradoption.com/shelters/city-of-baytown-animal-services-baytown/
@@ -1300,6 +1299,7 @@ https://shelteradoption.com/shelters/city-of-manassas-animal-shelter-manassas/
 https://shelteradoption.com/shelters/city-of-mangum-animal-shelter-mangum/
 https://shelteradoption.com/shelters/city-of-marion-animal-shelter-marion/
 https://shelteradoption.com/shelters/city-of-marshall-animal-impoundment-center-marshall/
+https://shelteradoption.com/shelters/city-of-marshall-animal-shelter-marshall/
 https://shelteradoption.com/shelters/city-of-medicine-lodge-animal-adoption-city-hall-medicine-lodge/
 https://shelteradoption.com/shelters/city-of-memphis-animal-control-memphis/
 https://shelteradoption.com/shelters/city-of-mesquite-animal-shelter-mesquite/
@@ -1312,7 +1312,6 @@ https://shelteradoption.com/shelters/city-of-new-britain-animal-control-berlin/
 https://shelteradoption.com/shelters/city-of-norco-animal-shelter-norco/
 https://shelteradoption.com/shelters/city-of-norton-animal-shelter-adopt-a-pet-norton/
 https://shelteradoption.com/shelters/city-of-nowata-animal-shelter-nowata/
-https://shelteradoption.com/shelters/city-of-o-fallon-animal-control-and-shelter-o-fallon/
 https://shelteradoption.com/shelters/city-of-oakdale-animal-shelter-oakdale/
 https://shelteradoption.com/shelters/city-of-orange-animal-control-shelter-orange/
 https://shelteradoption.com/shelters/city-of-osceola-animal-shelter-osceola/
@@ -1323,6 +1322,7 @@ https://shelteradoption.com/shelters/city-of-plainview-animal-shelter-plainview/
 https://shelteradoption.com/shelters/city-of-port-arthur-animal-services-center-port-arthur/
 https://shelteradoption.com/shelters/city-of-portageville-animal-services-portageville/
 https://shelteradoption.com/shelters/city-of-portales-animal-shelter-portales/
+https://shelteradoption.com/shelters/city-of-potosi-animal-control-pound-potosi/
 https://shelteradoption.com/shelters/city-of-prichard-animal-shelter-prichard/
 https://shelteradoption.com/shelters/city-of-prosser-animal-control-prosser/
 https://shelteradoption.com/shelters/city-of-purcell-animal-shelter-purcell/
@@ -2458,7 +2458,7 @@ https://shelteradoption.com/shelters/jeanette-hunt-animal-shelter-blair/
 https://shelteradoption.com/shelters/jefferson-city-animal-shelter-jefferson-city/
 https://shelteradoption.com/shelters/jefferson-county-animal-control-kearneysville/
 https://shelteradoption.com/shelters/jefferson-county-animal-control-monticello/
-https://shelteradoption.com/shelters/jefferson-county-animal-resource-center-barnhart/
+https://shelteradoption.com/shelters/jefferson-county-animal-resource-center-house-springs/
 https://shelteradoption.com/shelters/jefferson-county-animal-shelter-dog-warden-wintersville/
 https://shelteradoption.com/shelters/jefferson-county-animal-shelter-madison/
 https://shelteradoption.com/shelters/jefferson-county-animal-shelter-mount-vernon/
@@ -2540,6 +2540,7 @@ https://shelteradoption.com/shelters/king-george-county-animal-control-king-geor
 https://shelteradoption.com/shelters/king-s-harvest-pet-rescue-davenport/
 https://shelteradoption.com/shelters/king-street-cats-alexandria/
 https://shelteradoption.com/shelters/kingdom-animal-shelter-saint-johnsbury/
+https://shelteradoption.com/shelters/kingman-county-humane-society-kingman/
 https://shelteradoption.com/shelters/kings-county-animal-services-hanford/
 https://shelteradoption.com/shelters/kingston-animal-shelter-kingston/
 https://shelteradoption.com/shelters/kingsville-kleberg-animal-control-and-care-center-kingsville/
@@ -2831,7 +2832,6 @@ https://shelteradoption.com/shelters/marshall-county-humane-society-plymouth/
 https://shelteradoption.com/shelters/marshall-pet-adoption-center-marshall/
 https://shelteradoption.com/shelters/marshfield-animal-shelter-marshfield/
 https://shelteradoption.com/shelters/marshfield-area-pet-shelter-marshfield/
-https://shelteradoption.com/shelters/marshfield-area-pet-shelter-marshfield-2/
 https://shelteradoption.com/shelters/marshmallow-animal-shelter-detroit-lakes/
 https://shelteradoption.com/shelters/martin-county-animal-enforcement-division-williamston/
 https://shelteradoption.com/shelters/martin-county-humane-society-fairmont/
@@ -2877,6 +2877,7 @@ https://shelteradoption.com/shelters/medfield-animal-shelter-medfield/
 https://shelteradoption.com/shelters/medina-county-dog-warden-and-shelter-medina/
 https://shelteradoption.com/shelters/medina-county-spca-seville/
 https://shelteradoption.com/shelters/meeker-animal-shelter-town-of-meeker-meeker/
+https://shelteradoption.com/shelters/megan-s-paws-and-claws-smithville-dog-pound-smithville/
 https://shelteradoption.com/shelters/meigs-county-dog-shelter-pomeroy/
 https://shelteradoption.com/shelters/memphis-animal-services-memphis/
 https://shelteradoption.com/shelters/menard-county-animal-control-petersburg/
@@ -2960,7 +2961,6 @@ https://shelteradoption.com/shelters/moab-city-animal-shelter-moab/
 https://shelteradoption.com/shelters/moberly-animal-control-and-shelter-moberly/
 https://shelteradoption.com/shelters/mobile-county-animal-shelter-mobile/
 https://shelteradoption.com/shelters/mobile-spca-mobile/
-https://shelteradoption.com/shelters/mochas-and-meows-branson/
 https://shelteradoption.com/shelters/mohave-county-animal-shelter-kingman/
 https://shelteradoption.com/shelters/mohawk-hudson-humane-society-menands/
 https://shelteradoption.com/shelters/molokai-humane-society-kaunakakai/
@@ -3254,7 +3254,7 @@ https://shelteradoption.com/shelters/palm-valley-animal-society-edinburg/
 https://shelteradoption.com/shelters/palmetto-animal-league-okatie/
 https://shelteradoption.com/shelters/palms-n-paws-animal-shelter-twentynine-palms/
 https://shelteradoption.com/shelters/palo-alto-animal-shelter-pets-in-need-palo-alto/
-https://shelteradoption.com/shelters/pals-animal-shelter-and-rescue-troy/
+https://shelteradoption.com/shelters/pals-animal-shelter-and-rescue-hawk-point/
 https://shelteradoption.com/shelters/pals-haven-people-assisting-lodi-shelter-lodi/
 https://shelteradoption.com/shelters/pampa-animal-services-pampa/
 https://shelteradoption.com/shelters/panhandle-animal-welfare-society-paws-fort-walton-beach/
@@ -3491,6 +3491,7 @@ https://shelteradoption.com/shelters/prince-william-county-animal-shelter-indepe
 https://shelteradoption.com/shelters/project-hope-humane-society-metropolis/
 https://shelteradoption.com/shelters/promoting-animal-welfare-society-paws-muskogee/
 https://shelteradoption.com/shelters/prospect-animal-control-prospect/
+https://shelteradoption.com/shelters/proud-animal-lovers-shelter-pals-parsons/
 https://shelteradoption.com/shelters/providence-animal-center-media/
 https://shelteradoption.com/shelters/providence-animal-control-providence/
 https://shelteradoption.com/shelters/providence-animal-rescue-league-providence/
@@ -3530,13 +3531,13 @@ https://shelteradoption.com/shelters/randolph-county-animal-control-sparta/
 https://shelteradoption.com/shelters/randolph-county-animal-services-randleman/
 https://shelteradoption.com/shelters/randolph-county-animal-shelter-wedowee/
 https://shelteradoption.com/shelters/randolph-county-humane-society-elkins/
-https://shelteradoption.com/shelters/randolph-county-humane-society-moberly/
 https://shelteradoption.com/shelters/randolph-regional-animal-shelter-mendham/
 https://shelteradoption.com/shelters/range-regional-animal-rescue-hibbing/
 https://shelteradoption.com/shelters/rankin-county-animal-shelter-brandon/
 https://shelteradoption.com/shelters/rappahannock-animal-welfare-league-rawl-amissville/
 https://shelteradoption.com/shelters/raton-animal-shelter-raton/
 https://shelteradoption.com/shelters/rawlins-rochelle-animal-shelter-rawlins/
+https://shelteradoption.com/shelters/raymore-animal-control-raymore/
 https://shelteradoption.com/shelters/rayne-animal-shelter-rayne/
 https://shelteradoption.com/shelters/raytown-animal-services-raytown/
 https://shelteradoption.com/shelters/red-desert-humane-society-rock-springs/
@@ -3868,8 +3869,6 @@ https://shelteradoption.com/shelters/southaven-animal-shelter-southaven/
 https://shelteradoption.com/shelters/southbury-animal-control-southbury/
 https://shelteradoption.com/shelters/southeast-kansas-humane-society-pittsburg/
 https://shelteradoption.com/shelters/southeast-missouri-pets-humane-society-of-southeast-missouri-cape-girardeau/
-https://shelteradoption.com/shelters/southeast-missouri-pets-jackson-adoption-center-jackson/
-https://shelteradoption.com/shelters/southeast-missouri-pets-perryville-adoption-center-perryville/
 https://shelteradoption.com/shelters/southeast-volusia-humane-society-new-smyrna-beach/
 https://shelteradoption.com/shelters/southern-ocean-county-animal-facility-manahawkin/
 https://shelteradoption.com/shelters/southern-oregon-humane-society-medford/

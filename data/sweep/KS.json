@@ -7,13 +7,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
+  "url": "https://cityofatchison.com/departments/police/animal-control/",
   "notes": "City shelter at 1801 Main St; adoptions by appointment (913-367-5530).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@cityofatchison.com",
   "source_list": "shelter website",
-  "url_social": "https://www.facebook.com/Atchison-Animal-Control-Atchison-Kansas-102470159818251/"
+  "url_social": "https://www.facebook.com/Atchison-Animal-Control-Atchison-Kansas-102470159818251/",
+  "phone": "(913) 367-5530"
  },
  {
   "state": "KS",
@@ -28,7 +29,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "atchisonhumanesociety@yahoo.com",
-  "phone": "+1 913-367-3647",
+  "phone": "(913) 367-3647",
   "source_list": "shelter website",
   "osm": "way/998908891"
  },
@@ -45,7 +46,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "dpcopetrescue@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(913) 370-3297"
  },
  {
   "state": "KS",
@@ -93,7 +95,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(785) 243-2670"
+  "phone": "(785) 243-3131"
  },
  {
   "state": "KS",
@@ -152,13 +154,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://leavenworth.armymwr.com/programs/stray-facility",
   "notes": "510 Organ Ave on post; open Tue/Thu noon-3pm, other days by appointment. Military affiliation not required to adopt; non-ID holders need a visitor pass.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "fortleavenworthstrayfacility@gmail.com",
   "source_list": "shelter website",
-  "osm": "way/402068268"
+  "osm": "way/402068268",
+  "phone": "(913) 335-0788"
  },
  {
   "state": "KS",
@@ -173,7 +176,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptgck@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(620) 277-3725"
  },
  {
   "state": "KS",
@@ -336,7 +340,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "contact@lchsinc.org",
-  "phone": "+1 913-250-0506",
+  "phone": "(913) 250-0506",
   "source_list": "shelter website",
   "osm": "way/680776563"
  },
@@ -420,7 +424,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(620) 245-2535"
+  "phone": "(620) 245-2583"
  },
  {
   "state": "KS",
@@ -452,18 +456,19 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(620) 886-3908"
  },
  {
   "state": "KS",
   "city": "Merriam",
   "org": "Great Plains SPCA",
-  "program": "Adventure Tails",
-  "status": "Needs check",
+  "program": "Furlough and Slumber Pets",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
-  "offers": "Day trip",
-  "url": "https://www.greatplainsspca.org/adventure-tails/",
-  "notes": "check the terms and who can join.",
+  "offers": "Short outings, sleepovers",
+  "url": "https://www.gpspca.org/foster/",
+  "notes": "Approved fosters (18+) can take a pet on a short furlough such as a coffee run, park walk or sleepover, and volunteers/fosters in Slumber Pets take a puppy or kitten home from 6 PM to the next morning; the old Adventure Tails page described only a past May-June pilot.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adoptions@greatplainsspca.org",
@@ -492,14 +497,14 @@
   "state": "KS",
   "city": "Newton",
   "org": "Caring Hands Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "http://www.caringhandshs.org",
-  "notes": "Shelter at 1400 SE Third, Newton. Phone 316-283-0839.",
+  "program": "Adventure Tails",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://caringhandshs.org/volunteer/adventure-tails/",
+  "notes": "Adults 18+ watch an orientation video, complete a quiz and match questionnaire, pick up a certificate at the shelter, then take a dog out on a day field trip.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "marketing@caringhandshs.org",
   "email_main": "adoption@caringhandshs.org",
   "source_list": "shelter website",
   "osm": "node/7178373985",
@@ -513,28 +518,29 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.olatheks.gov/government/animal-control",
+  "url": "https://www.olatheks.gov/government/animal-care-control",
   "notes": "City shelter at 505 E Sunvale, Olathe.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "osm": "way/693686396"
+  "osm": "way/693686396",
+  "phone": "(913) 971-6362"
  },
  {
   "state": "KS",
   "city": "Osawatomie",
   "org": "Always & Furever Osawatomie Animal Shelter",
   "program": "Doggie Dates and sleepovers",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip, sleepover, hotel getaway",
-  "url": "https://www.alwaysandfurever.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Dog dates, sleepovers, hotel getaway",
+  "url": "https://www.alwaysandfurever.org/pet-fostering-in-kansas-city/",
+  "notes": "Volunteers take dogs on dog dates at the Osawatomie shelter (32874 Beaver Lake Rd, by appointment), and approved fosters can do short-term stays such as a hotel sleepover or weekend.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(555) 555-5555",
+  "phone": "(800) 247-9527",
   "source_list": "shelter website",
   "osm": "way/1473217643"
  },
@@ -547,11 +553,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "http://prairiepaws.org",
-  "notes": "Shelter at 3173 Hwy K-68, Ottawa. Phone 785-242-2967.",
+  "notes": "Shelter at 3173 Hwy K68, Ottawa (open Mon-Sat 9-6, Sun 1-5); same organization also runs separate Manhattan and Emporia shelters.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@prairiepaws.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(785) 242-2967"
  },
  {
   "state": "KS",
@@ -613,7 +620,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "helpinghands@hhhstopeka.org",
-  "phone": "+17852337325",
+  "phone": "(785) 233-7325",
   "source_list": "shelter website",
   "osm": "way/120677459"
  },
@@ -807,5 +814,39 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website"
+ },
+ {
+  "state": "KS",
+  "city": "Parsons",
+  "org": "Proud Animal Lovers Shelter (PALS)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.palsshelter.com/",
+  "notes": "No-kill, state-licensed nonprofit shelter at 24052 Meade Rd; dogs and cats for adoption.",
+  "checked": "November 2026",
+  "phone": "(620) 421-0445",
+  "email_program": "",
+  "email_main": "pals@wavewls.com",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "KS",
+  "city": "Kingman",
+  "org": "Kingman County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.kingmancountyhumanesociety.org/",
+  "notes": "Shelter at 811 East C Ave with dogs and cats for adoption; open Mon-Sat, Sunday by appointment.",
+  "checked": "November 2026",
+  "phone": "(316) 542-1812",
+  "email_program": "",
+  "email_main": "kchs@kingmancountyhumanesociety.org",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
