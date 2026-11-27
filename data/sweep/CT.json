@@ -8,7 +8,7 @@
   "animals": "Dogs",
   "offers": "Day trip (few hours to full day); optional sleepover",
   "url": "https://cthumane.org/pupscouts/",
-  "notes": "Free foster field trips: take an adoptable dog for a walk, hike, cafe visit or time at home, with optional overnight. Walk-ins welcome at Newington or schedule at cthumane.org/fieldtrip.",
+  "notes": "Free foster field trips: take an adoptable dog for a walk, hike, cafe visit or time at home, with optional overnight. Walk-ins welcome at Newington and Wilton (not yet Waterford), or schedule ahead at cthumane.org/fieldtrip.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@cthumane.org",
@@ -27,7 +27,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(203) 426-6900",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/1898349218"
  },
@@ -74,11 +74,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://woodbridgect.org/149/Animal-Control",
-  "notes": "",
+  "notes": "Regional animal control at 135 Bradley Road serving Woodbridge, Bethany and Seymour; adoption application on the town page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(203) 389-3400",
+  "phone": "(203) 389-5991",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9796045139"
  },
@@ -108,11 +108,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://neccoganimalservices.org/",
-  "notes": "Regional program with its kennel in Dayville (the former Killingly facility) and the Norwich pound as its southern base. It serves about 20 towns, including Brooklyn, Killingly, Pomfret, Putnam, Woodstock, Sterling, Canterbury, Griswold, Norwich, Lebanon, Franklin, Bozrah, Lisbon, Sprague, Voluntown, Chaplin, Hampton, Scotland and Andover; phone 860-774-1253.",
+  "notes": "Regional program with its kennel in Dayville (the former Killingly facility) and the Norwich pound as its southern base. It serves about 20 towns, including Brooklyn, Killingly, Pomfret, Putnam, Woodstock, Sterling, Canterbury, Griswold, Norwich, Lebanon, Franklin, Bozrah, Lisbon, Sprague, Voluntown, Chaplin, Hampton, Scotland and Andover.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@neccog.org",
-  "phone": "",
+  "phone": "(860) 774-1253",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12760492232"
  },
@@ -163,7 +163,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(860) 441-6709",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/790943298"
  },
@@ -180,7 +180,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "nlaco@newlondonct.gov",
-  "phone": "+1 860 447 5231",
+  "phone": "(860) 447-5231",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/846482089"
  },
@@ -193,7 +193,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.norwichct.gov/QuickLinks.aspx?CID=17",
-  "notes": "Norwich joined the NECCOG regional animal services program, and the Norwich pound serves as the program's southern base. Adoptable animals are listed at neccoganimalservices.org. The norwichct.org page could not be fetched to verify.",
+  "notes": "Norwich joined the NECCOG regional animal services program, and the Norwich pound serves as the program's southern base. The city site lists an adoption application and a volunteer application for Norwich Animal Control.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "norwichpound@yahoo.com",
@@ -210,11 +210,11 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.southbury-ct.org/animalcontrol",
-  "notes": "",
+  "notes": "Shelter at 501 Main Street South, behind the firehouse. Adoptions Mon-Sat 9am-3:30pm by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(203) 262-0600",
+  "phone": "(203) 262-0613",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/942081875"
  },
@@ -227,7 +227,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.glastonburyct.gov/departments/department-directory-i-z/police/animal-control",
-  "notes": "",
+  "notes": "Facility at 1086 New London Turnpike, behind the high school athletic fields. Adoptable animals are posted on the Animal Control Facebook page; apply with the online adoption inquiry form.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -278,9 +278,9 @@
   "animals": "Dogs and cats",
   "offers": "Day trip (few hours to full day); optional sleepover",
   "url": "https://cthumane.org/pupscouts/",
-  "notes": "CHS closed its Westport shelter and opened 863 Danbury Rd, Wilton (adoptions Tue-Sat 12-4:30pm). Pup Scouts free field trips: walk-ins welcome or book via calendly.com/wilton-cthumane/60min.",
+  "notes": "CHS closed its Westport shelter and opened 863 Danbury Rd, Wilton (adoptions Tue-Sat 12-4:30pm). Pup Scouts free field trips of a few hours to a full day, with optional sleepovers: walk-ins welcome or book ahead online.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "info@cthumane.org",
   "email_main": "info@cthumane.org",
   "source_list": "shelter website",
   "phone": "(800) 452-0114"
@@ -299,14 +299,7 @@
   "email_program": "",
   "email_main": "info@cthumane.org",
   "source_list": "shelter website",
-  "events": [
-   {
-    "date": "2026-12-29",
-    "title": "Reading to Pets in Waterford",
-    "url": "https://cthumane.org/event/reading-to-pets-in-waterford-dec/",
-    "place": "CHS Waterford, 169 Old Colchester Rd, Quaker Hill"
-   }
-  ],
+  "events": [],
   "phone": "(800) 452-0114"
  },
  {
@@ -398,7 +391,7 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalcontrol@pd.bloomfieldct.gov",
   "source_list": "shelter website",
   "phone": "(860) 242-5501"
  },
@@ -415,7 +408,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 487-0137"
  },
  {
   "state": "CT",
@@ -615,11 +609,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.meridenct.gov/city-services/animals-and-pets/animal-control-/",
-  "notes": "Municipal facility at 311 Murdock Ave; phone 203-235-4179.",
+  "notes": "Municipal animal control facility at 311 Murdock Ave (not a 24-hour facility); works with the Meriden Humane Society.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(203) 235-4179"
  },
  {
   "state": "CT",
@@ -645,7 +640,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.bridgeportct.gov/government/departments/police-department/animal-control",
-  "notes": "City shelter; adoptable animals posted on Facebook and Petfinder; applications by email. Non-urgent line 203-576-7727.",
+  "notes": "City shelter; adoptable animals posted on Facebook and Petfinder; applications by email, then a meet-and-greet.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.shelter@bridgeportct.gov",
@@ -693,7 +688,7 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://fpdct.com/divisions/field_services_bureau/animal_control.php",
-  "notes": "211 Richard White Way, Fairfield; adoptable dogs listed on the police department page. Email is the ACO's.",
+  "notes": "211 Richard White Way, Fairfield; open 9am-5pm daily; adoptable dogs listed on the police department page. Email is the ACO's.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pmiller@fairfieldct.org",
@@ -709,12 +704,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.trumbull-ct.gov/154/Animal-Control-Shelter",
-  "notes": "Shelter open by appointment (203-452-5088); adoptables posted on TAG's Petfinder page.",
+  "notes": "158 Edison Rd, Trumbull; shelter open by appointment; run with Trumbull Animal Group (TAG).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(203) 261-3665"
+  "phone": "(203) 452-5088"
  },
  {
   "state": "CT",
@@ -725,7 +720,7 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.westportct.gov/residents/pets-animals/animal-control",
-  "notes": "Elaine Rd, Westport; shelter phone 203-341-6011. Volunteer group Westport Animal Shelter Advocates (WASA) helps rehome dogs.",
+  "notes": "Elaine Rd, Westport; shelter open 8am-6pm, call first. Volunteer group Westport Animal Shelter Advocates (WASA) helps with dog walking and socialization.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -756,12 +751,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.waterburyct.org/311/knowledgebase/article/13237",
-  "notes": "200 Municipal Rd, Waterbury; adoption hours 11am-3pm Mon-Fri, weekends by appointment.",
+  "notes": "200 Municipal Rd, Waterbury (police dept animal control); adoption hours 11am-3pm Mon-Fri, weekends by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(203) 597-3444"
+  "phone": "(203) 574-6909"
  },
  {
   "state": "CT",
@@ -788,12 +783,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityofwesthaven.com/151/Animal-Shelter",
-  "notes": "7 Collis St, West Haven; open Tue-Thu 11am-3pm (203-937-3642); adoptables on Petfinder.",
+  "notes": "7 Collis St, West Haven (police animal control division); open Tue-Thu 11am-3pm; adoptables on Petfinder.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(203) 937-3500"
+  "phone": "(203) 937-3642"
  },
  {
   "state": "CT",
@@ -820,7 +815,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.naugatuckpd.gov/content/157/202/default.aspx",
-  "notes": "508 Cherry Street Ext, Naugatuck; call 203-729-4324 to schedule an adoption appointment.",
+  "notes": "508 Cherry Street Ext, Naugatuck; call 203-729-4324 for an adoption appointment; $50 fee plus state spay/neuter voucher.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -856,7 +851,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(860) 757-4395"
  },
  {
   "state": "CT",
@@ -915,7 +911,7 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://www.vernon-ct.gov/page/animal-control",
-  "notes": "Town animal control with a dog pound (Coventry's town page also refers to the Vernon Pound). The town page doesn't describe adoptions, so call 860-870-3599.",
+  "notes": "Town animal control with a dog pound (Coventry's town page also refers to the Vernon Pound). The town page gives no pound address, hours or adoption details; 860-870-3599 is the Town Hall main line.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -995,24 +991,24 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://oldlyme-ct.gov/158/Animal-Shelter",
-  "notes": "Town shelter at 52 Lyme St, open Mon-Fri 9-4. Adoptable animals are listed on Petfinder; phone 860-434-1605 ext. 244.",
+  "notes": "Town shelter at 52 Lyme St, open Mon-Fri 9-4. Adoptable animals are listed on Petfinder; call ext. 244 to schedule a visit.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(860) 434-1605 ext. 244"
  },
  {
   "state": "CT",
-  "city": "Torrington",
+  "city": "Harwinton",
   "org": "Torrington Animal Control",
   "program": "No day-out program yet",
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.torringtonct-pd.gov/169/Animal-Control",
-  "phone": "",
-  "notes": "",
+  "phone": "(860) 485-9165",
+  "notes": "Regional animal control facility at 248 Lower Bogue Rd, Harwinton, serving Torrington, Litchfield and Goshen. Dogs and cats are adopted by business-hours appointment, first come, first served.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",

@@ -273,6 +273,7 @@ https://shelterdayout.com/cities/lompoc-ca/
 https://shelterdayout.com/cities/los-angeles-ca/
 https://shelterdayout.com/cities/louisville-ky/
 https://shelterdayout.com/cities/lovingston-va/
+https://shelterdayout.com/cities/lowell-ma/
 https://shelterdayout.com/cities/lubbock-tx/
 https://shelterdayout.com/cities/lufkin-tx/
 https://shelterdayout.com/cities/lynchburg-va/
@@ -4190,7 +4191,7 @@ https://shelterdayout.com/listings/tombstone-small-animal-shelter-tombstone/
 https://shelterdayout.com/listings/toms-river-township-animal-facility-toms-river/
 https://shelterdayout.com/listings/tooele-city-animal-shelter-tooele/
 https://shelterdayout.com/listings/torrance-county-animal-services-mcintosh/
-https://shelterdayout.com/listings/torrington-animal-control-torrington/
+https://shelterdayout.com/listings/torrington-animal-control-harwinton/
 https://shelterdayout.com/listings/town-and-country-animal-rescue-papillion/
 https://shelterdayout.com/listings/town-and-country-humane-society-orland/
 https://shelterdayout.com/listings/town-cats-of-morgan-hill-morgan-hill/
