@@ -24,7 +24,7 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://indyhumane.org/dog-day-out/",
-  "notes": "Free; adults 18+ (minors with a parent). Come during adoption hours (Tue-Fri 12-6, Sat-Sun 12-5), pick a dog tagged Dog Day Out, fill out the form; dog returns an hour before closing.",
+  "notes": "Free (donations welcome); adults 18+ (minors with a parent/guardian). Come during adoption hours (Tue-Fri 12-6, Sat-Sun 12-5), pick a dog tagged Dog Day Out, fill out the form in person or online; dog must return an hour before closing.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -33,17 +33,18 @@
  {
   "state": "IN",
   "city": "Jeffersonville",
-  "org": "Tri-County Animal Shelter (Floyd County)",
+  "org": "Tri-County Animal Shelter-Floyd",
   "program": "Doggy Day Out",
   "status": "Needs check",
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.in.gov/counties/floyd/department/animal-control-and-shelter",
-  "notes": "Floyd County's listed shelter is Tri-County Animal Shelter, 3005 Industrial Parkway, Jeffersonville (county page on in.gov). Old floydcounty.in.gov URL appears replaced by in.gov county site.",
+  "notes": "Official Floyd County page (in.gov) lists Tri-County Animal Shelter-Floyd, 3005 Industrial Parkway, Jeffersonville, shelter phone (812) 913-0025, but does not mention a Doggy Day Out program; program known only from news coverage, needs confirmation.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source": "https://www.wlky.com/article/floyd-county-animal-shelter-dog-day-out-program/62490864"
+  "source": "https://www.wlky.com/article/floyd-county-animal-shelter-dog-day-out-program/62490864",
+  "phone": "(812) 913-0025"
  },
  {
   "state": "IN",
@@ -64,7 +65,8 @@
     "date": "2026-11-25",
     "end": "2026-12-31",
     "title": "Home for the Holidays - reduced adoption fees for adult animals (2 years and older)",
-    "url": "https://ochumane.org/"
+    "url": "https://ochumane.org/",
+    "place": "Owen County Humane Society, Spencer"
    }
   ],
   "phone": "(812) 829-6247"
@@ -78,11 +80,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.evansvillegov.org/city/department/index.php?structureid=221",
-  "notes": "City shelter at 815 Uhlhorn St, Evansville. City pages returned errors on fetch; email/events not checked.",
+  "notes": "City shelter at 815 Uhlhorn St, Evansville; open Mon-Sat 10-5. City department listing shows no public email, programs or adoption events.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(812) 435-6015"
  },
  {
   "state": "IN",
@@ -93,7 +96,7 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://bloomington.in.gov/animal-shelter/volunteer",
-  "notes": "'Borrow a Dog' outings (parks, jogs, downtown) are for regular trained volunteers only; dogs must return 15 min before closing. Volunteer waitlist currently closed. Shelter at 3410 S Walnut St; emails obfuscated.",
+  "notes": "'Borrow a Dog' outings are for regular trained volunteers only, using a weekly list of eligible dogs; dogs must return 15 min before closing. Volunteer waitlist currently closed (check back late spring). Shelter at 3410 S Walnut St; emails obfuscated.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -109,11 +112,12 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.columbus.in.gov/animal-care-services",
-  "notes": "2730 Arnold Street, Columbus; Mon/Tue/Wed/Fri 10-5, Sat 10-12. Email via contact page only.",
+  "notes": "2730 Arnold Street, Columbus; Mon/Tue/Wed/Fri 10-5, Sat 10-12. Email via contact form only. Volunteers walk and play with animals on site; no day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(812) 376-2505"
  },
  {
   "state": "IN",
@@ -124,7 +128,7 @@
   "animals": "Dogs and cats",
   "offers": "Day trip, Cat lounge",
   "url": "https://www.vhslifesaver.org/mutt-s-morning-out",
-  "notes": "Mutt's Morning Out: Tue-Fri 10am-noon, register once online, then come to VHS front entrance (400 Millner Industrial Dr) to take a dog out up to 2 hrs; adult 18+ holds leash; no fee listed. Also River Kitty Cat Cafe (226 Main St) cat lounge with ~20 adoptable cats, small fee, reserve at riverkittycatcafe.com. Org name on site: Vanderburgh Humane Society; emails obfuscated.",
+  "notes": "Mutt's Morning Out: Tue-Fri 10am-noon, register once online (same form as Cardio for Canines), then come to the VHS front entrance (400 Millner Industrial Dr) to take a medium/large dog out until noon; adult 18+ holds the leash, no taking dogs to your home, no fee listed. Also River Kitty Cat Cafe (226 Main St) cat lounge with adoptable cats, small fee, reserve at riverkittycatcafe.com. Org name on site: Vanderburgh Humane Society; emails obfuscated.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -146,7 +150,7 @@
   "events": [
    {
     "date": "2026-12-05",
-    "title": "Home for the Pawlidays & Pictures with Santa",
+    "title": "Home for the Pawlidays & Pictures with Santa (2-5 pm)",
     "url": "https://hswc.org/events",
     "place": "4-H Fairgrounds, Columbia City"
    }
@@ -162,25 +166,25 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.friedscatshelter.org/pictorial",
-  "notes": "Cage-free cat shelter at 509 Indiana Hwy 212, Michigan City.",
+  "notes": "Cage-free cat shelter at 509 S Indiana Hwy 212, Michigan City; open Fri 2-6, Sat-Sun 12-4. Currently not accepting more cats during renovation.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "contact@friedscatshelter.org",
   "source_list": "shelter website",
-  "city": "Trail Creek",
+  "city": "Michigan City",
   "org": "Fried's Cat Shelter",
   "phone": "(219) 874-6932"
  },
  {
   "state": "IN",
   "program": "Fetch Some Fun",
-  "status": "Needs check",
-  "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://michianapets.org/",
-  "notes": "Address 722 IN-212, Michigan City, IN 46360 (from the shelter's own Adopt a Pet profile; own site could not be fetched).",
+  "status": "Open to public",
+  "animals": "Dogs and cats",
+  "offers": "Day trips (dogs), backpack outings (cats)",
+  "url": "https://michianapets.org/get-involved/fetch-some-fun/",
+  "notes": "Call (219) 872-4499 to schedule a pick-up, then sign brief paperwork and have your driver's license copied at the shelter (722 IN-212, Michigan City); take a dog out for walks, beach trips or lunch and return at least an hour before closing (cats go out in a backpack for about an hour).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "pets@michianapets.org",
   "email_main": "pets@michianapets.org",
   "source_list": "shelter website",
   "city": "Michigan City",
@@ -195,13 +199,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://laporteco.in.gov/departments-online/animal-shelter/",
-  "notes": "La Porte County shelter at 2855 W State Road 2.",
+  "notes": "La Porte County Animal Shelter at 2855 W State Road 2, La Porte; open Mon-Fri 10-4. County page lists no public email, events or day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
   "city": "La Porte",
-  "org": "The Jane Bernard Animal Adoption Center"
+  "org": "The Jane Bernard Animal Adoption Center",
+  "phone": "(219) 326-1637"
  },
  {
   "state": "IN",
@@ -249,7 +254,15 @@
   "email_program": "",
   "email_main": "hshc@hamiltonhumane.com",
   "source_list": "shelter website",
-  "phone": "(317) 773-4974"
+  "phone": "(317) 773-4974",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "title": "Black Friday $10 adoption event (Fill Your Heart, Not Your Cart)",
+    "url": "https://www.hamiltonhumane.com/event/black-friday",
+    "place": "Humane Society for Hamilton County, 10501 Hague Rd, Fishers, IN 46038"
+   }
+  ]
  },
  {
   "state": "IN",
@@ -277,7 +290,7 @@
   "notes": "County shelter at 2430 W Clark St, Rensselaer.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "Jaspercoanimalshelter@yahoo.com",
   "source_list": "shelter website",
   "city": "Rensselaer",
   "org": "Jasper County Animal Shelter",
@@ -306,7 +319,7 @@
   "animals": "Cats",
   "offers": "Cat lounge visits (paid reservation)",
   "url": "https://humanesocietystjc.org/adopt/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Cat Lady Café, 401 E. Colfax Ave, Suite 104, South Bend, houses shelter cats; visiting the cat lounge requires a pre-scheduled paid reservation through the café, and adoptions are processed by the Humane Society.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "office@humanesocietystjc.org",
@@ -328,7 +341,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(219) 938-3339"
  },
  {
   "state": "IN",

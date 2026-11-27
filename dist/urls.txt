@@ -1815,7 +1815,7 @@ https://shelterdayout.com/listings/fremont-cat-lounge-fremont/
 https://shelterdayout.com/listings/fresno-animal-center-city-of-fresno-fresno/
 https://shelterdayout.com/listings/fresno-bully-rescue-sanger/
 https://shelterdayout.com/listings/fresno-humane-animal-services-fresno-county-animal-shelter-fresno/
-https://shelterdayout.com/listings/fried-s-cat-shelter-trail-creek/
+https://shelterdayout.com/listings/fried-s-cat-shelter-michigan-city/
 https://shelterdayout.com/listings/friends-for-animals-of-metro-detroit-dearborn/
 https://shelterdayout.com/listings/friends-for-life-animal-rescue-gilbert/
 https://shelterdayout.com/listings/friends-for-life-animal-shelter-houston/
@@ -4196,7 +4196,7 @@ https://shelterdayout.com/listings/tri-county-animal-rescue-boca-raton/
 https://shelterdayout.com/listings/tri-county-animal-rescue-center-shippenville/
 https://shelterdayout.com/listings/tri-county-animal-shelter-albany/
 https://shelterdayout.com/listings/tri-county-animal-shelter-clearfield/
-https://shelterdayout.com/listings/tri-county-animal-shelter-floyd-county-jeffersonville/
+https://shelterdayout.com/listings/tri-county-animal-shelter-floyd-jeffersonville/
 https://shelterdayout.com/listings/tri-county-animal-shelter-tyner/
 https://shelterdayout.com/listings/tri-county-humane-society-saint-cloud/
 https://shelterdayout.com/listings/tri-lakes-humane-society-reeds-spring/
