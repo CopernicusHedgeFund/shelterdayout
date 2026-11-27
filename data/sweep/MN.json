@@ -1074,5 +1074,41 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": []
+ },
+ {
+  "state": "MN",
+  "city": "Alexandria",
+  "org": "Lakes Area Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://lakesareahumanesociety.org/",
+  "notes": "Shelter at 3811 Nevada Street SW, Alexandria; visit during shelter hours to meet pets and speak with staff.",
+  "checked": "November 2026",
+  "phone": "(320) 759-2260",
+  "email_program": "",
+  "email_main": "lahs@gctel.net",
+  "source": "",
+  "source_list": "shelter website",
+  "events": []
+ },
+ {
+  "state": "MN",
+  "city": "Elbow Lake",
+  "org": "Grant County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.gchumsoc.org/",
+  "notes": "No-kill shelter at 1015 Hwy 79 E, Elbow Lake; open Mon-Wed and Fri 1-5 pm, Sat 10 am-3 pm, appointments possible outside those hours.",
+  "checked": "November 2026",
+  "phone": "(218) 685-6220",
+  "email_program": "",
+  "email_main": "",
+  "source": "",
+  "source_list": "shelter website",
+  "events": []
  }
 ]
