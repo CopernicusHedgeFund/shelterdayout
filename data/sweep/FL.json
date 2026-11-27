@@ -1023,14 +1023,23 @@
   "program": "Dogs Day Out",
   "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Dog outings, daily 7:30-10:30am",
+  "offers": "Dog outings (car rides, beach trips, park visits, errands)",
   "url": "https://www.halifaxhumanesociety.org/program/dogs-day-out/",
-  "notes": "Participants register through the shelter's volunteer system and eSign a Volunteer Waiver & Photo Release before a first outing. Pick-up 7:30-10:30am any day; dogs must be back by 12pm. First-come, first-served or reserve by email.",
+  "notes": "Volunteers register online, eSign a Volunteer Waiver & Photo Release, get a staff briefing on the outing backpack and emergency plan, then take a staff-selected dog on an outing and bring it back to the shelter.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(386) 274-4703"
+  "phone": "(386) 274-4703",
+  "events": [
+   {
+    "date": "2026-11-27",
+    "end": "2026-11-28",
+    "title": "Mission: Adopt with Hill's (Home for the Holidays adoption weekend, fees waived)",
+    "url": "https://www.halifaxhumanesociety.org/aec-events/hills-pet-nutrition-home-for-the-holidays-adoption-weekend/",
+    "place": "Lohman Pet Adoption Center, 2364 LPGA Blvd., Daytona Beach"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -1046,7 +1055,8 @@
   "email_program": "",
   "email_main": "animalcontrol@volusia.gov",
   "source_list": "shelter website",
-  "phone": "(386) 248-1790"
+  "phone": "(386) 248-1790",
+  "events": []
  },
  {
   "state": "FL",
@@ -1057,12 +1067,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.newhopeanimalshelter.com/",
-  "notes": "800 Humane Society Rd, DeLand. Now also the City of Daytona Beach's stray sheltering provider. No standalone website found (uses Facebook: facebook.com/newhopeanimalshelter2020); url is Volusia County's page listing it as a partner shelter.",
+  "notes": "800 Humane Society Rd, DeLand. Now also the City of Daytona Beach's stray sheltering provider. Own website at newhopeanimalshelter.com (contact form only, no public email listed).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(386) 734-2450"
+  "phone": "(386) 734-2450",
+  "events": []
  },
  {
   "state": "FL",
@@ -1078,7 +1089,8 @@
   "email_program": "",
   "email_main": "info@sevhumanesociety.org",
   "source_list": "shelter website",
-  "phone": "(386) 428-9860"
+  "phone": "(386) 428-9860",
+  "events": []
  },
  {
   "state": "FL",
@@ -1089,12 +1101,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://edgewateranimalshelter.org/",
-  "notes": "605 Mango Tree Dr, Edgewater; 386-957-3994; call to arrange a meeting/tour.",
+  "notes": "605 Mango Tree Dr, Edgewater; open Mon-Fri 9-4, weekend adoptions by appointment; call to arrange a meeting/tour.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(386) 402-7476"
+  "phone": "(386) 402-7476",
+  "events": []
  },
  {
   "state": "FL",
@@ -1110,7 +1123,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(321) 264-5208"
+  "phone": "(321) 264-5208",
+  "events": []
  },
  {
   "state": "FL",
@@ -1126,7 +1140,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(407) 742-8000"
+  "phone": "(407) 742-8000",
+  "events": []
  },
  {
   "state": "FL",
@@ -1142,7 +1157,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(352) 343-9688"
+  "phone": "(352) 343-9688",
+  "events": []
  },
  {
   "state": "FL",
@@ -1158,7 +1174,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(352) 689-4400"
+  "phone": "(352) 689-4400",
+  "events": []
  },
  {
   "state": "FL",
@@ -1174,7 +1191,8 @@
   "status": "Open to public",
   "animals": "Dogs",
   "url": "https://humanesocietytampabay.org/how-to-help/doggie-day-out/",
-  "phone": "(727) 797-7722"
+  "phone": "(727) 797-7722",
+  "events": []
  },
  {
   "state": "FL",
@@ -1185,12 +1203,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.polksheriff.org/animal-services",
-  "notes": "",
+  "notes": "Shelter at 7115 de Castro Road, Winter Haven.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalControl@polksheriff.org",
   "source_list": "shelter website",
-  "phone": "(863) 577-1762"
+  "phone": "(863) 577-1762",
+  "events": []
  },
  {
   "state": "FL",
@@ -1204,9 +1223,10 @@
   "program": "No day-out program yet",
   "status": "No program yet",
   "offers": "",
-  "notes": "",
+  "notes": "Shelter at 5600 Banner Drive, Fort Myers; monthly adoption promotions (undated on site).",
   "email_program": "",
-  "phone": "(239) 533-7387"
+  "phone": "(239) 533-7387",
+  "events": []
  },
  {
   "state": "FL",
@@ -1222,7 +1242,8 @@
   "offers": "Staycations, excursions",
   "notes": "Only volunteers who have completed Volunteer Orientation and Dog Walking Classes may take animals out of the shelter for fostering, staycations and excursions.",
   "email_program": "",
-  "phone": "(239) 573-2002"
+  "phone": "(239) 573-2002",
+  "events": []
  },
  {
   "state": "FL",
@@ -1238,7 +1259,8 @@
   "offers": "",
   "notes": "No-kill cat shelter (~200 cats housed in rooms), 10060 Mallory E Pkwy Unit D, St. James City; adoption hours 5-7pm, closed Mon & Wed. Despite the name it is an adopting cat shelter, not a wildlife sanctuary.",
   "email_program": "",
-  "phone": "(239) 283-9100"
+  "phone": "(239) 283-9100",
+  "events": []
  },
  {
   "state": "FL",
@@ -1271,14 +1293,15 @@
   "program": "Doggy Day Out",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Field trip, 1 hour to all day",
+  "offers": "Outings (beach, hike, pet-friendly restaurant)",
   "url": "https://www.santarosa.fl.gov/863/Doggy-Day-Out-Program",
-  "notes": "Community members can take a shelter dog on an outing during shelter hours (Mon-Fri 11:30am-4:30pm, Sat 9am-2pm). Outings last from one hour to all day. Apply online and call (850) 983-4680 at least 48 hours ahead to schedule.",
+  "notes": "Community members apply online (Shelterluv form) or call (850) 983-4680 to take a shelter dog on an outing such as a beach trip, hike or meal at a pet-friendly restaurant, with the shelter supplying leash, collar, tag, bags, water and crate.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animals@santarosa.fl.gov",
   "source_list": "shelter website",
-  "phone": "(850) 983-4680"
+  "phone": "(850) 983-4680",
+  "events": []
  },
  {
   "state": "FL",
@@ -1289,12 +1312,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.cityofcrestview.org/717/Adopt",
-  "notes": "City-run shelter and adoption facility (715 N Ferdon Blvd per adoption listings); adoptable animals also posted on facebook.com/CrestviewAnimalServices. No day-out program found.",
+  "notes": "City-run shelter and adoption facility at 715 N Ferdon Blvd, Crestview (Tue-Fri 11am-5:30pm, Sat 11am-3pm; shelter questions (850) 331-3560). No day-out program found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(850) 331-3560"
+  "phone": "(850) 331-3560",
+  "events": []
  },
  {
   "state": "FL",
@@ -1305,12 +1329,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://alaqua.org/adopt/",
-  "notes": "No-kill refuge with adoption facility at 155 Dugas Way, Freeport (open Tue-Sun 11am-4pm). No day-out program on its site; no events dated after Nov 26 listed.",
+  "notes": "No-kill refuge with adoption facility at 155 Dugas Way, Freeport (open Tue-Sun 11am-4pm). No day-out program on its site; no adoption events listed through March 2027.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@Alaqua.org",
   "source_list": "shelter website",
-  "phone": "(850) 880-6399"
+  "phone": "(850) 880-6399",
+  "events": []
  },
  {
   "state": "FL",
@@ -1326,7 +1351,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(850) 638-6306"
+  "phone": "(850) 638-6306",
+  "events": []
  },
  {
   "state": "FL",
@@ -1337,12 +1363,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.adoptme.org/",
-  "notes": "No-kill shelter, Animal & Adoption Center at 1600 Bay Avenue, Panama City. Website says the shelter is TEMPORARILY CLOSED (Nov 2026). No day-out program.",
+  "notes": "No-kill shelter, Animal & Adoption Center at 1600 Bay Avenue, Panama City. Website says the shelter is temporarily closed until further notice (Nov 2026); listed phone is its Thrift & Gift Store line. No day-out program.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(850) 640-4708"
+  "phone": "(850) 640-4708",
+  "events": []
  },
  {
   "state": "FL",
@@ -1358,7 +1385,8 @@
   "email_program": "",
   "email_main": "partnersforpetsmarianna@gmail.com",
   "source_list": "shelter website",
-  "phone": "(850) 482-4570"
+  "phone": "(850) 482-4570",
+  "events": []
  },
  {
   "state": "FL",
@@ -1374,23 +1402,25 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(850) 718-0021"
+  "phone": "(850) 718-0021",
+  "events": []
  },
  {
   "state": "FL",
   "city": "Port St. Joe",
   "org": "St. Joseph Bay Humane Society",
-  "program": "Tails on the Trail (walking club)",
-  "status": "Volunteers only",
+  "program": "Dogs Day Out",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Dog walks, Saturdays 1-3pm",
-  "url": "https://www.sjbhumanesociety.org/tails-on-the-trails",
-  "notes": "SJBHS walking club where volunteers walk the shelter's adoptable dogs on Saturday afternoons from 1:00 to 3:00 pm. Any volunteer can join after a volunteer orientation. No 'Dogs Day Out' program appears on the shelter's own site.",
+  "offers": "Few-hour outings; also Saturday volunteer walking club",
+  "url": "https://www.sjbhumanesociety.org/",
+  "notes": "Travelers and locals can take a shelter dog on an outing for a few hours by signing up in person at the shelter (1007 10th St, Port St Joe), and volunteers can also join the Tails on the Trail walking club on Saturdays 1-3pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@sjbhumanesociety.org",
   "source_list": "shelter website",
-  "phone": "(850) 227-1103"
+  "phone": "(850) 227-1103",
+  "events": []
  },
  {
   "state": "FL",
@@ -1401,13 +1431,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://jeffersoncountyfl.gov/animal-control/",
-  "notes": "County shelter at 1697 S Jefferson St, Monticello; phone 850-728-3673. Adopts, fosters and transfers to rescue partners. Official web presence is its Facebook page (url); county web page not yet confirmed. No day-out program found.",
+  "notes": "County animal control at 1697 S Jefferson St, Monticello (phone (850) 342-0184); the county page describes a community-cat trap-and-release program but no adoption details. No day-out program found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/profile.php?id=61569887755490",
-  "phone": "(850) 342-0184"
+  "phone": "(850) 342-0184",
+  "events": []
  },
  {
   "state": "FL",
