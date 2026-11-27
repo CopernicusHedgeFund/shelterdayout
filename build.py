@@ -1144,6 +1144,28 @@ def build_vets(dist=None, page_fn=None, write_fn=None, brand=None, crumbs_fn=Non
     if not src.exists():
         return
     raw = json.loads(src.read_text())["places"]
+    # Clinics added by the vet sweeps (state licensing lists and clinics' own sites), one file per state; skip ones OSM already has.
+    def _vkey(n, c):
+        return re.sub(r"[^a-z0-9]", "", re.sub(r"\b(the|inc|llc|pc|pllc|dvm|veterinary|vet|animal|hospital|clinic|center|of)\b", "", n.lower())) + "|" + c.lower().strip()
+    seen = {_vkey(v["name"], v.get("city") or "") for v in raw}
+    phones = {re.sub(r"\D", "", v.get("phone") or "")[-10:] for v in raw if v.get("phone")}
+    for f in sorted((ROOT / "data" / "vets_extra").glob("*.json")):
+        try:
+            extra = json.loads(f.read_text())
+        except Exception:
+            continue
+        for v in extra:
+            if not v.get("name") or not v.get("city") or not v.get("state"):
+                continue
+            k = _vkey(v["name"], v["city"]); ph = re.sub(r"\D", "", v.get("phone") or "")[-10:]
+            if k in seen or (len(ph) == 10 and ph in phones):
+                continue
+            seen.add(k); phones.add(ph)
+            raw.append(v)
+    try:
+        _vplaces = json.loads((ROOT / "data" / "us_places.json").read_text())
+    except Exception:
+        _vplaces = {}
     lowcost = re.compile(r"low.?cost|nonprofit|non-profit|spay|neuter|humane|spca|community|clinic for|charity|rescue|free", re.I)
     by = {}
     for v in raw:
@@ -1155,7 +1177,7 @@ def build_vets(dist=None, page_fn=None, write_fn=None, brand=None, crumbs_fn=Non
         if is_dead(site):
             site = ""
         rec = {"n": v["name"], "c": v["city"], "s": v["state"], "z": (v.get("zip") or "")[:5], "a": v.get("street", ""),
-               "p": (v.get("phone") or "").split(";")[0].strip(), "w": site, "g": [round(v["lat"], 3), round(v["lon"], 3)] if v.get("lat") and v.get("lon") else None,
+               "p": (v.get("phone") or "").split(";")[0].strip(), "w": site, "g": [round(v["lat"], 3), round(v["lon"], 3)] if v.get("lat") and v.get("lon") else _vplaces.get(v["state"], {}).get(v["city"].lower().strip()),
                "e": 1 if v.get("emergency") == "yes" or re.search(r"emergency|24.?7|24 hour", v["name"], re.I) else 0,
                "l": 1 if lowcost.search(v["name"] + " " + v.get("operator", "")) or v.get("operator_type") in ("community", "ngo", "charity") else 0}
         by.setdefault(v["state"], []).append(rec)
@@ -1187,7 +1209,7 @@ def build_vets(dist=None, page_fn=None, write_fn=None, brand=None, crumbs_fn=Non
 </div><div class="row2"><label class="chk"><input type="checkbox" id="vem"> 24/7 emergency only</label><label class="chk"><input type="checkbox" id="vlc"> Low-cost / nonprofit</label><button class="btn sbtn" type="submit">Search</button></div></form>
 <p class="count" id="vcount"></p>
 <table class="list"><thead><tr><th>Clinic</th><th>Location</th><th>Contact</th></tr></thead><tbody id="vout"></tbody></table>
-<div class="note">Clinic details come from OpenStreetMap and can be out of date. Call ahead, especially for emergencies. Know a vet we're missing or see a mistake? <a href="{suggest}">Tell us</a>.</div>
+<div class="note">Clinic details come from OpenStreetMap, state veterinary licensing records and clinics' own websites, and can be out of date. Call ahead, especially for emergencies. Know a vet we're missing or see a mistake? <a href="{suggest}">Tell us</a>.</div>
 <h2>Browse vets by state</h2><p class="citylinks">{state_links}</p>
 {VET_JS}"""
     write_fn("/find-a-vet/", page_fn(f"Find a Vet Near You: {total:,} Veterinary Clinics, Emergency & Low-Cost | {brand}",
