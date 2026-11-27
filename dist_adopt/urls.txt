@@ -1284,6 +1284,7 @@ https://shelteradoption.com/shelters/city-of-muscatine-animal-control-muscatine/
 https://shelteradoption.com/shelters/city-of-nashville-animal-shelter-nashville/
 https://shelteradoption.com/shelters/city-of-new-britain-animal-control-berlin/
 https://shelteradoption.com/shelters/city-of-norco-animal-shelter-norco/
+https://shelteradoption.com/shelters/city-of-norton-animal-shelter-adopt-a-pet-norton/
 https://shelteradoption.com/shelters/city-of-nowata-animal-shelter-nowata/
 https://shelteradoption.com/shelters/city-of-o-fallon-animal-control-and-shelter-o-fallon/
 https://shelteradoption.com/shelters/city-of-oakdale-animal-shelter-oakdale/
@@ -1367,6 +1368,7 @@ https://shelteradoption.com/shelters/clovis-animal-shelter-city-of-clovis-animal
 https://shelteradoption.com/shelters/coachella-valley-animal-campus-riverside-county-dept-of-animal-services-thousand-palms/
 https://shelteradoption.com/shelters/cobb-county-animal-services-marietta/
 https://shelteradoption.com/shelters/cochran-bleckley-animal-shelter-city-of-cochran-animal-control-cochran/
+https://shelteradoption.com/shelters/coffeyville-animal-shelter-coffeyville/
 https://shelteradoption.com/shelters/colbert-county-animal-shelter-tuscumbia/
 https://shelteradoption.com/shelters/cold-noses-warm-hearts-goleta/
 https://shelteradoption.com/shelters/coles-county-animal-shelter-charleston/
@@ -1595,6 +1597,7 @@ https://shelteradoption.com/shelters/effingham-county-animal-control-effingham/
 https://shelteradoption.com/shelters/effingham-county-animal-shelter-springfield/
 https://shelteradoption.com/shelters/effingham-county-humane-society-effingham/
 https://shelteradoption.com/shelters/el-campo-animal-shelter-el-campo/
+https://shelteradoption.com/shelters/el-dorado-animal-shelter-el-dorado/
 https://shelteradoption.com/shelters/el-dorado-county-animal-services-south-lake-tahoe-shelter-south-lake-tahoe/
 https://shelteradoption.com/shelters/el-dorado-county-animal-services-west-slope-shelter-diamond-springs/
 https://shelteradoption.com/shelters/el-gato-coffeehouse-cat-cafe-houston/
@@ -2611,6 +2614,7 @@ https://shelteradoption.com/shelters/lewisville-animal-services-lewisville/
 https://shelteradoption.com/shelters/lexington-county-animal-services-lexington/
 https://shelteradoption.com/shelters/lexington-fayette-animal-care-and-control-lexington/
 https://shelteradoption.com/shelters/lexington-humane-society-lexington/
+https://shelteradoption.com/shelters/liberal-animal-shelter-liberal/
 https://shelteradoption.com/shelters/liberty-animal-control-and-shelter-liberty/
 https://shelteradoption.com/shelters/liberty-county-animal-services-hinesville/
 https://shelteradoption.com/shelters/licking-county-dog-shelter-and-adoption-center-newark/
@@ -3054,6 +3058,7 @@ https://shelteradoption.com/shelters/northern-ocean-county-animal-facility-jacks
 https://shelteradoption.com/shelters/northshore-humane-society-covington/
 https://shelteradoption.com/shelters/northumberland-county-animal-shelter-heathsville/
 https://shelteradoption.com/shelters/northwest-arkansas-humane-society-for-animals-rogers/
+https://shelteradoption.com/shelters/northwest-kansas-animal-shelter-goodland/
 https://shelteradoption.com/shelters/northwest-spca-oroville/
 https://shelteradoption.com/shelters/northwoods-animal-shelter-iron-river/
 https://shelteradoption.com/shelters/northwoods-humane-society-hayward/
@@ -3668,6 +3673,7 @@ https://shelteradoption.com/shelters/second-chance-humane-society-ridgway-animal
 https://shelteradoption.com/shelters/second-chance-shelter-boaz/
 https://shelteradoption.com/shelters/second-hand-purrs-milwaukee/
 https://shelteradoption.com/shelters/sedalia-animal-shelter-sedalia/
+https://shelteradoption.com/shelters/sedgwick-county-animal-control-wichita/
 https://shelteradoption.com/shelters/seekonk-animal-shelter-seekonk/
 https://shelteradoption.com/shelters/seguin-animal-services-seguin/
 https://shelteradoption.com/shelters/selma-animal-shelter-selma/
@@ -4197,6 +4203,7 @@ https://shelteradoption.com/shelters/webster-animal-shelter-madison/
 https://shelteradoption.com/shelters/webster-county-animal-services-dixon/
 https://shelteradoption.com/shelters/weiser-river-animal-shelter-and-rescue-weiser/
 https://shelteradoption.com/shelters/welfare-for-animals-guild-wag-halfway-home-ranch-sequim/
+https://shelteradoption.com/shelters/wellington-humane-society-wellington/
 https://shelteradoption.com/shelters/wenatchee-valley-humane-society-wenatchee/
 https://shelteradoption.com/shelters/weslaco-animal-care-services-weslaco/
 https://shelteradoption.com/shelters/west-baton-rouge-parish-shelter-and-animal-control-port-allen/
