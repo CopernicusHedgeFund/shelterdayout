@@ -59,7 +59,7 @@
   "url": "https://mdspca.org/foster/",
   "notes": "Couch Crashers is a public short-term foster (about 1-3 days, supplies provided). Dog's Day Out is limited to Dog Deputy volunteers (mdspca.org/volunteer/). No adoption events listed after 11/26/2026.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "foster@mdspca.org",
   "email_main": "info@mdspca.org",
   "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
   "phone": "(410) 235-8826"
@@ -81,8 +81,9 @@
   "events": [
    {
     "date": "2026-12-13",
-    "title": "Sunday adoption hours (10 am-3 pm)",
-    "url": "https://www.aacounty.org/animal-services"
+    "title": "Sunday Adoption Day (10 am-3 pm; spay/neuter, vaccines, microchip included)",
+    "url": "https://www.aacounty.org/animal-services",
+    "place": "Anne Arundel County Animal Services, 411 Maxwell Frye Rd, Millersville, MD 21108"
    }
   ],
   "phone": "(410) 222-8900"
@@ -131,12 +132,12 @@
   "state": "MD",
   "city": "Easton",
   "org": "Talbot Humane",
-  "program": "Dog Day Out",
+  "program": "Dog Day Out; Bedtime with Benji",
   "status": "Needs check",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Day trip, Sleepover",
   "url": "https://www.talbothumane.org/dog-day-out/",
-  "notes": "Dog Day Out: take a shelter dog out for a few hours (car rides, hikes, naps at home; no dog parks or contact with other pets). Evening/weekend stays via foster application. Eligibility/scheduling not stated on page; contact shelter. 7894 Ocean Gateway, Easton.",
+  "notes": "Dog Day Out lets you take a shelter dog out for a few hours (no dog parks or contact with other pets); Bedtime with Benji is an overnight/weekend/holiday stay (dog leaves near closing and returns next open day) requiring the foster application; eligibility and scheduling not stated, contact shelter. 7894 Ocean Gateway, Easton.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@talbothumane.org",
@@ -223,25 +224,34 @@
   "animals": "Dogs",
   "offers": "Sleepover",
   "url": "https://www.harfordshelter.org/?p=23318",
-  "notes": "Weekend short-term foster (Friday to Sunday/Monday); shelter supplies crate, leash, food; sign up through the foster application. Upcoming listed events are fundraisers (not adoption events).",
+  "notes": "Weekend short-term foster (Friday to Sunday/Monday); shelter supplies crate, leash, food; sign up through the foster application.",
   "checked": "November 2026",
   "email_program": "foster@harfordshelter.org",
   "email_main": "adopt@harfordshelter.org",
   "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
-  "phone": "(410) 836-1090"
+  "phone": "(410) 836-1090",
+  "events": [
+   {
+    "date": "2026-12-11",
+    "end": "2026-12-17",
+    "title": "Chewy-sponsored fee-waived adoptions (first 25 pets)",
+    "url": "https://www.harfordshelter.org/news-events/2026/11/chewy-sponsoring-waived-pet-adoptions",
+    "place": "Humane Society of Harford County, 2208 Connolly Rd, Fallston, MD 21047"
+   }
+  ]
  },
  {
   "state": "MD",
   "city": "Hagerstown",
   "org": "Humane Society of Washington County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.hswcmd.org/",
-  "notes": "13011 Maugansville Rd, Hagerstown. No day-out program found on homepage.",
+  "program": "Field Trips and Sleepovers",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips, sleepovers",
+  "url": "https://www.hswcmd.org/foster",
+  "notes": "Through the foster program, take a shelter dog out for a few hours (car ride, park walk, pup cup) or home for one night or longer; contact FosterCare@hswcmd.org. 13011 Maugansville Rd, Hagerstown.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "FosterCare@hswcmd.org",
   "email_main": "info@hswcmd.org",
   "source_list": "Maryland Department of Agriculture licensed animal control facilities (opendata.maryland.gov)",
   "phone": "(301) 733-2060"
@@ -328,7 +338,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "",
-  "notes": "County dog control at 829 Fieldcrest Rd, Cambridge (address per MD Dept. of Agriculture contacts page). Listed as a shelter in MDA 2025 shelter statistics. Website docodogcontrol.com is a 'launching soon' placeholder; no official phone could be verified.",
+  "notes": "County dog control at 829 Field Crest Rd, Cambridge (address confirmed on MD Dept. of Agriculture animal cruelty reporting contacts page). Listed as a shelter in MDA 2025 shelter statistics. No official county web page or phone could be verified.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -441,7 +451,7 @@
   "notes": "3750 Brown Station Rd. Short-term foster (general) only; no day-out program described.",
   "checked": "November 2026",
   "email_program": "fosterPGCpets@co.pg.md.us",
-  "email_main": "",
+  "email_main": "adoptPGCpets@co.pg.md.us",
   "source_list": "county government page",
   "phone": "(301) 780-7200"
  },
@@ -470,7 +480,7 @@
   "animals": "Dogs and cats",
   "offers": "Sleepover",
   "url": "https://baltimorecountymd.gov/departments/animal-services/foster",
-  "notes": "Sleepover Squad: take a shelter dog home for a night or two through the foster application; supplies provided. Phone shown as 410-887-PAWS (7297).",
+  "notes": "Sleepover Squad: short-term foster where you take a shelter dog home for a night or two via the foster application; supplies provided. Phone shown as 410-887-PAWS (7297). Holiday-season 'Home for the Holidays' fee-waived adoptions announced without concrete dates.",
   "checked": "November 2026",
   "email_program": "bcasfoster@baltimorecountymd.gov",
   "email_main": "animalservices@baltimorecountymd.gov",
