@@ -27,3 +27,10 @@ GitHub CopernicusHedgeFund/shelterdayout, branch main (push access attached; use
 Save after about every 50 clinics and at the end of each state: `python3 build.py`, check for warnings, commit "Vets <STATE> (part N): +V clinics (E emergency, L low-cost)" (data file plus dist/ and dist_adopt/), `git pull --rebase origin main` (on dist/ or dist_adopt/ conflicts take either side, rebuild and recommit; on a data file conflict keep both sides' changes), push. Count numbers exactly; never round.
 
 End with exact counts per state: clinics added, emergency, low-cost, the state source used (or "none, city search"), and what's left.
+
+## Quarterly runs (when your trigger message says "quarterly")
+Do these before the steps above, for your scope:
+1. **Re-check every clinic already in data/vets_extra/<STATE>.json** on its own website or the state source: still open (remove it if the site or state record says it closed for good or the license lapsed), correct name, street, city, phone and website (update moved addresses), and "emergency" / "operator_type" still accurate. Set "checked" to the current month and year.
+2. **Spot-check OpenStreetMap clinics** in data/osm_vets.json (don't edit that file): for clinics whose website is in data/dead_links.json or that look closed, add a corrected entry to vets_extra only if you confirm the clinic moved or renamed; note confirmed closures in your end report.
+3. Then run the steps above to add clinics that opened or that earlier sweeps missed.
+In your commit messages use "Vets <STATE> (quarterly, part N): +A added, U updated, R removed".
