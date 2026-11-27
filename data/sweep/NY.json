@@ -446,7 +446,7 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://southamptonanimalshelter.com/foster/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Take a shelter dog out into the community for an hour or a day (walks, pet-friendly cafes, park or beach); apply online via the 'Apply To Take A Dog Out' link on the foster page.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@sasf.org",
@@ -455,8 +455,8 @@
    {
     "date": "2026-11-29",
     "title": "Marders Open House adoption event",
-    "url": "https://www.southamptonanimalshelter.com/",
-    "place": "Marders"
+    "url": "https://southamptonanimalshelter.com/events/marders/?occurrence=2026-11-29",
+    "place": "Marders, 120 Snake Hollow Rd, Bridgehampton"
    }
   ],
   "phone": "(631) 728-7387"
@@ -469,12 +469,13 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "",
+  "url": "https://www.gdrrny.org/",
   "notes": "Facility is at 560 Route 17M, Middletown (Orange County), not Washington Heights; open by appointment via email.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": []
  },
  {
   "state": "NY",
@@ -490,7 +491,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(516) 677-5784"
+  "phone": "(516) 677-5784",
+  "events": []
  },
  {
   "state": "NY",
@@ -506,7 +508,8 @@
   "email_program": "",
   "email_main": "animalshelter@northhempsteadny.gov",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": ""
+  "phone": "(516) 869-6311",
+  "events": []
  },
  {
   "state": "NY",
@@ -522,7 +525,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(518) 356-1501"
+  "phone": "(518) 356-1501",
+  "events": []
  },
  {
   "state": "NY",
@@ -538,7 +542,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(518) 885-4113"
+  "phone": "(518) 885-4113",
+  "events": []
  },
  {
   "state": "NY",
@@ -554,7 +559,16 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(585) 742-1630"
+  "phone": "(585) 742-1630",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-11",
+    "title": "Fee-reduced adult and senior cat adoptions ($70, BISSELL Holiday Hope)",
+    "url": "https://www.petprideny.org/news/tis-the-season-for-fee-reduced-adoptions---dec-1-11-2026",
+    "place": "Pet Pride of New York, 7731 Victor Mendon Rd, Victor"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -570,7 +584,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "source": "https://www.fingerlakes1.com/2026/03/10/all-animals-adopted-before-waterloo-shelter-closure/"
+  "source": "https://www.fingerlakes1.com/2026/03/10/all-animals-adopted-before-waterloo-shelter-closure/",
+  "events": []
  },
  {
   "state": "NY",
@@ -580,14 +595,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://geneseeny.gov/Services/Animal-Services/Animal-Shelter",
+  "url": "https://www.geneseeny.gov/Department-Content/Sheriffs-Office/Animal-Shelter",
   "notes": "Sheriff-run county shelter at 3841 W Main St Rd with adoptions handled with Volunteers for Animals (vol4animals.org); short adoption hours most afternoons (closed Thursdays).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@vol4animals.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "source": "https://www.vol4animals.org/",
-  "phone": "(585) 343-6410"
+  "phone": "(585) 343-6410",
+  "events": []
  },
  {
   "state": "NY",
@@ -598,11 +614,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.yonkersny.gov/440/Animal-Shelter",
-  "notes": "",
+  "notes": "City shelter now at 1000 Ridge Hill Blvd, Yonkers; open daily 11am-4pm; adoptions by application then appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": [],
+  "phone": "(914) 377-6730"
  },
  {
   "state": "NY",
@@ -642,7 +660,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(518) 450-7013"
+  "phone": "(518) 450-7013",
+  "events": []
  },
  {
   "state": "NY",
@@ -653,13 +672,14 @@
   "animals": "Cats",
   "offers": "",
   "url": "https://www.animalcarecouncil.org/",
-  "notes": "Cat shelter with adoption center and spay/neuter clinic at 131 Washington Ave, Endicott; no day-out program found.",
+  "notes": "Cat shelter with adoption center and spay/neuter clinic at 131 Washington Ave, Endicott; adoptions by appointment Tue/Thu 3:30-6:30pm; no day-out program found.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@animalcarecouncil.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "source": "https://www.nokillnetwork.org/d/New-York/Animal-Care-Council~11450/; https://apps.agriculture.ny.gov/PetRescueLicenseListing/PetRescue/Reports/177042",
-  "phone": "(607) 786-7729"
+  "source": "",
+  "phone": "(607) 786-7729",
+  "events": []
  },
  {
   "state": "NY",
@@ -675,7 +695,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(631) 643-9270"
+  "phone": "(631) 643-9270",
+  "events": []
  },
  {
   "state": "NY",
@@ -685,28 +706,31 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "notes": "",
+  "url": "https://spcaallegany.org/",
+  "notes": "Shelter at 5440 State Route 19, Belmont; open daily noon-4pm; approved application required to adopt.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "OpenStreetMap contributors (ODbL)"
+  "email_main": "SPCAallegany@gmail.com",
+  "source_list": "OpenStreetMap contributors (ODbL)",
+  "events": [],
+  "phone": "(585) 593-2200"
  },
  {
   "state": "NY",
   "city": "Walden",
   "org": "Humane Society of Walden",
   "program": "Sunday Funday Dog Walk",
-  "status": "Open to public",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Off-site walk",
+  "offers": "Group dog walk",
   "url": "https://waldenhumane.org/dog-walk/",
-  "notes": "Sundays from 9:30am (weather permitting), shelter dogs go out on walks; sign up weekly through the shelter's scheduler after on-site training. Leash holders must be 21+; under-18s come with a parent who holds the leash. New walkers are welcomed on the first and last Sunday of each month.",
+  "notes": "Sundays 9:30am-noon (weather permitting) volunteers walk shelter dogs after an on-site orientation; sign up weekly via the online scheduler. Leash holders must be 21+, under-18s come with a parent who holds the leash; new volunteers can join the first and last Sunday of each month.",
   "checked": "November 2026",
   "email_program": "lisa@waldenhumane.org",
   "email_main": "contact@waldenhumane.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "phone": "(845) 778-5115"
+  "phone": "(845) 778-5115",
+  "events": []
  },
  {
   "state": "NY",
@@ -719,10 +743,11 @@
   "url": "https://www.nycacc.org/boroughbreak/",
   "notes": "Anyone 18+ can take a large shelter dog out for one hour up to a full day (hike, beach, car ride, day at home); staff match the dog. Book via the borough scheduling link on the BoroughBreak page; leave kids and own dogs at home.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "accfosters@nycacc.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(212) 788-4000"
+  "phone": "(212) 788-4000",
+  "events": []
  },
  {
   "state": "NY",
@@ -738,7 +763,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(212) 876-7700 ext. 4120"
+  "phone": "(212) 876-7700 ext. 4120",
+  "events": []
  },
  {
   "state": "NY",
@@ -754,7 +780,8 @@
   "email_program": "",
   "email_main": "info.hsny@verizon.net",
   "source_list": "shelter website",
-  "phone": "(212) 752-4842"
+  "phone": "(212) 752-4842",
+  "events": []
  },
  {
   "state": "NY",
@@ -765,7 +792,7 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.bideawee.org/locations",
-  "notes": "",
+  "notes": "Manhattan adoption center at 152 W 24th St (Chelsea); Tue-Sun 11am-5pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "manhattanadoptions@bideawee.org",
@@ -794,7 +821,8 @@
   "email_program": "",
   "email_main": "wantaghadoptions@bideawee.org",
   "source_list": "shelter website",
-  "phone": "(866) 262-8133"
+  "phone": "(866) 262-8133",
+  "events": []
  },
  {
   "state": "NY",
@@ -816,6 +844,13 @@
     "title": "Whisker Wonderland",
     "url": "https://www.bideawee.org/community/events/whisker-wonderland-on-12-5/",
     "place": "Bideawee Westhampton"
+   },
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event",
+    "url": "https://www.bideawee.org/community/events/mega-adoption-event-12-12-13/",
+    "place": "Bideawee Westhampton, 118 Old Country Rd"
    }
   ],
   "phone": "(866) 262-8133"
@@ -834,7 +869,8 @@
   "email_program": "",
   "email_main": "info@arfhamptons.org",
   "source_list": "shelter website",
-  "phone": "(631) 537-0400"
+  "phone": "(631) 537-0400",
+  "events": []
  },
  {
   "state": "NY",
@@ -848,22 +884,23 @@
   "notes": "Adoption center at 3300 Beltagh Ave, Wantagh; also adopts at PetSmart Huntington Station and Petco Plainview/Wantagh.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@lasthopeanimalrescue.org",
   "source_list": "shelter website",
-  "phone": "(631) 470-2808"
+  "phone": "(631) 425-1884",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Port Washington",
   "org": "North Shore Animal League America",
   "program": "Adventure Club",
-  "status": "Needs check",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://www.animalleague.org/get-involved/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Off-site outings",
+  "url": "https://www.animalleague.org/adopt/nsala-adventure-club/",
+  "notes": "Trained volunteers take adoptable dogs on outings away from the shelter to build confidence and meet potential adopters; email adventureclub@animalleague.org to ask about it.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "adventureclub@animalleague.org",
   "email_main": "",
   "source_list": "shelter website",
   "events": [
@@ -873,7 +910,8 @@
     "url": "https://www.animalleague.org/event/north-shore-animal-league-america-at-bottles-and-cases-sponsored-by-titos-handmade-vodka-112826/",
     "place": "Bottles and Cases, 99 E Main St, Huntington"
    }
-  ]
+  ],
+  "phone": "(516) 883-7575"
  },
  {
   "state": "NY",
@@ -914,7 +952,8 @@
   "email_program": "",
   "email_main": "Animalshelter@tosgov.com",
   "source_list": "shelter website",
-  "phone": "(631) 360-7575"
+  "phone": "(631) 360-7575",
+  "events": []
  },
  {
   "state": "NY",
@@ -928,9 +967,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "manager@nfawl.org",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(631) 765-1811 ext. 1",
+  "events": []
  },
  {
   "state": "NY",
@@ -944,9 +984,10 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "manager@nfawl.org",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(631) 765-1811 ext. 2",
+  "events": []
  },
  {
   "state": "NY",
@@ -962,7 +1003,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(631) 351-3234"
+  "phone": "(631) 754-8722",
+  "events": []
  },
  {
   "state": "NY",
@@ -978,7 +1020,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(914) 632-2925"
+  "phone": "(914) 632-2925",
+  "events": []
  },
  {
   "state": "NY",
@@ -989,12 +1032,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.rocklandgreen.com/facilities/animal-shelter/",
-  "notes": "",
+  "notes": "Rockland Green's RG CARES shelter at 65 Firemen's Memorial Dr, Pomona, managed by Four Legs Good; open noon-5pm, closed Wednesdays.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@rocklandgreen.com",
   "source_list": "shelter website",
-  "phone": "(845) 753-2200"
+  "phone": "(845) 414-9700",
+  "events": []
  },
  {
   "state": "NY",
@@ -1009,7 +1053,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -1019,12 +1064,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://islipny.gov/news/press-releases/1401-new-animal-shelter-opens-in-town-of-islip",
-  "notes": "Shelter moved to a new facility on Carleton Ave, Central Islip (opened Oct 2021).",
+  "url": "https://islipny.gov/community-and-services/animal-shelter",
+  "notes": "Shelter at 200 South Technology Drive, Central Islip; open Mon-Sat 9:30am-4pm, pet viewings 10-12 and 1-3:30.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(631) 224-5660",
+  "events": []
  },
  {
   "state": "NY",
@@ -1034,12 +1081,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.brookhavenny.gov/",
-  "notes": "300 Horseblock Road, Brookhaven.",
+  "url": "https://www.brookhavenny.gov/152/Animal-Shelter",
+  "notes": "300 Horseblock Road, Brookhaven. Town site says the shelter is closed to the public until further notice; phone lines staffed daily.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(631) 451-6950",
+  "events": []
  },
  {
   "state": "NY",
@@ -1055,7 +1104,8 @@
   "email_program": "",
   "email_main": "info@pjhumane.org",
   "source_list": "shelter website",
-  "phone": "(845) 856-3677"
+  "phone": "(845) 856-3677",
+  "events": []
  },
  {
   "state": "NY",
@@ -1071,7 +1121,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(845) 452-7722"
+  "phone": "(845) 452-7722",
+  "events": []
  },
  {
   "state": "NY",
@@ -1087,7 +1138,8 @@
   "email_program": "",
   "email_main": "info@cghs.org",
   "source_list": "shelter website",
-  "phone": "(518) 828-6044"
+  "phone": "(518) 828-6044",
+  "events": []
  },
  {
   "state": "NY",
@@ -1103,7 +1155,8 @@
   "email_program": "",
   "email_main": "Sullivancountyanimalrescue@gmail.com",
   "source_list": "shelter website",
-  "phone": "(845) 796-3120"
+  "phone": "(845) 796-3120",
+  "events": []
  },
  {
   "state": "NY",
@@ -1119,7 +1172,8 @@
   "email_program": "",
   "email_main": "catskillanimalrescuefrontdesk@gmail.com",
   "source_list": "shelter website",
-  "phone": "(845) 747-9450"
+  "phone": "(845) 747-9450",
+  "events": []
  },
  {
   "state": "NY",
@@ -1135,7 +1189,8 @@
   "email_program": "",
   "email_main": "mail@cnyspca.org",
   "source_list": "shelter website",
-  "phone": "(315) 454-4479"
+  "phone": "(315) 454-4479",
+  "events": []
  },
  {
   "state": "NY",
@@ -1151,7 +1206,8 @@
   "email_program": "",
   "email_main": "friendsofsecondchance@gmail.com",
   "source_list": "shelter website",
-  "phone": "(315) 435-5584"
+  "phone": "(315) 435-5584",
+  "events": []
  },
  {
   "state": "NY",
@@ -1167,7 +1223,8 @@
   "email_program": "",
   "email_main": "hswc@waynehumane.org",
   "source_list": "shelter website",
-  "phone": "(315) 946-3389"
+  "phone": "(315) 946-3389",
+  "events": []
  },
  {
   "state": "NY",
@@ -1183,7 +1240,8 @@
   "email_program": "",
   "email_main": "ShelterOfHope@yateshumane.org",
   "source_list": "shelter website",
-  "phone": "(315) 536-6094"
+  "phone": "(315) 536-6094",
+  "events": []
  },
  {
   "state": "NY",
@@ -1198,7 +1256,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "happytails@ontariocountyhumanesociety.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(585) 396-4590",
+  "events": []
  },
  {
   "state": "NY",
@@ -1214,23 +1274,25 @@
   "email_program": "",
   "email_main": "dogcontrol@livingstoncountyny.gov",
   "source_list": "shelter website",
-  "phone": "(585) 243-6740"
+  "phone": "(585) 243-6740",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Glendale",
   "org": "Bobbi and the Strays",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://bobbiandthestrays.org/",
-  "notes": "No-kill shelter at The Shops at Atlas Park, 80-36 Cooper Ave, Glendale (Queens). Open daily.",
+  "program": "The Buddy Program",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Outings to parks, beaches and training",
+  "url": "https://bobbiandthestrays.org/how-to-help-2/volunteer/",
+  "notes": "Volunteers are paired with a shelter dog and take it on outings to local parks, beaches and training sessions; apply through the volunteer form. Shelter at The Shops at Atlas Park, 80-36 Cooper Ave, Glendale (Queens), open daily.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(718) 326-6070"
+  "phone": "(718) 326-6070",
+  "events": []
  },
  {
   "state": "NY",
@@ -1245,7 +1307,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "meow@meowparlour.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -1261,7 +1324,8 @@
   "email_program": "",
   "email_main": "info@kokorocatcafe.com",
   "source_list": "shelter website",
-  "phone": "(201) 338-0467"
+  "phone": "(201) 338-0467",
+  "events": []
  },
  {
   "state": "NY",
@@ -1277,23 +1341,25 @@
   "email_program": "",
   "email_main": "info@kokorocatcafe.com",
   "source_list": "shelter website",
-  "phone": "(201) 338-0467"
+  "phone": "(201) 338-0467",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Bayside",
   "org": "Espurresso Cat Cafe",
   "program": "Cat lounge visits",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Cats",
   "offers": "Cat lounge visit",
-  "url": "https://espurresso.com/Reservation/",
-  "notes": "Cat cafe at 208-03 35th Ave, Bayside, with adoptable cats from Purrific Home rescue. Reservations online; limited weekend walk-ins. (Confirmed via QNS news; own site not fetched.)",
+  "url": "https://espurresso.com/reservation/",
+  "notes": "Cat cafe at 208-03 35th Ave, Bayside, with 10+ adoptable cats from partner rescues For Animals Inc and Purrific Home; reserve a visit online (walk-ins limited).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "espurressocat@gmail.com",
   "source_list": "shelter website",
-  "phone": "(631) 561-2070"
+  "phone": "(631) 561-2070",
+  "events": []
  },
  {
   "state": "NY",
@@ -1309,7 +1375,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(631) 473-6333"
+  "phone": "(631) 473-6333",
+  "events": []
  },
  {
   "state": "NY",
@@ -1319,12 +1386,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/ViewReport/104050",
-  "notes": "Nonprofit that runs the City of Glen Cove municipal shelter at 40 Shore Road, Glen Cove (per NYS Ag & Markets 2024 report). Phone 516-676-5913. No own website found.",
+  "url": "https://www.coveanimalrescue.org/",
+  "notes": "Nonprofit shelter at 40 Shore Road, Glen Cove (listed in NYS Ag & Markets municipal shelter reports); open afternoons 12-4, closed Wednesdays.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "coveanimalrescue@gmail.com",
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(516) 676-5913"
  },
  {
   "state": "NY",
@@ -1339,7 +1408,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": ""
  },
  {
   "state": "NY",
@@ -1355,7 +1426,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(631) 651-9788"
+  "phone": "(631) 651-9788",
+  "events": []
  },
  {
   "state": "NY",
@@ -1371,7 +1443,8 @@
   "email_program": "",
   "email_main": "shelter@puthumane.org",
   "source_list": "shelter website",
-  "phone": "(845) 225-7777"
+  "phone": "(845) 225-7777",
+  "events": []
  },
  {
   "state": "NY",
@@ -1387,7 +1460,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(845) 354-3124"
+  "phone": "(845) 354-3124",
+  "events": []
  },
  {
   "state": "NY",
@@ -1403,7 +1477,8 @@
   "email_program": "",
   "email_main": "info@hudsonvalleyspca.org",
   "source_list": "shelter website",
-  "phone": "(845) 564-6810"
+  "phone": "(845) 564-6810",
+  "events": []
  },
  {
   "state": "NY",
@@ -1419,7 +1494,8 @@
   "email_program": "",
   "email_main": "hvspcagoshen@gmail.com",
   "source_list": "shelter website",
-  "phone": "(845) 564-6810"
+  "phone": "(845) 294-3984",
+  "events": []
  },
  {
   "state": "NY",
@@ -1435,7 +1511,8 @@
   "email_program": "",
   "email_main": "adoptmhs@gmail.com",
   "source_list": "shelter website",
-  "phone": "(845) 361-1861"
+  "phone": "(845) 361-1861",
+  "events": []
  },
  {
   "state": "NY",
@@ -1451,7 +1528,8 @@
   "email_program": "",
   "email_main": "info@petsalive.org",
   "source_list": "shelter website",
-  "phone": "(845) 386-9738"
+  "phone": "(845) 386-9738",
+  "events": []
  },
  {
   "state": "NY",
@@ -1462,11 +1540,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.humanesocietybg.com/",
-  "notes": "",
+  "notes": "Shelter at 2741 Rt 94, Washingtonville; open Thu-Sat 9-5, Sun 9-2.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "bghumanesociety@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(845) 496-6199"
  },
  {
   "state": "NY",
@@ -1476,13 +1556,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.townofnewburgh.org/Cit-e-Access/webpage.cfm?TID=40&TPID=4743",
-  "notes": "",
+  "url": "https://www.townofnewburghny.gov/cn/webpage.cfm?TID=40&TPID=4743",
+  "notes": "Town shelter at 645 Gidney Avenue, Newburgh.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(845) 564-4552"
+  "phone": "(845) 564-4552",
+  "events": []
  },
  {
   "state": "NY",
@@ -1498,7 +1579,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(845) 928-7578"
+  "phone": "(845) 928-7578",
+  "events": []
  },
  {
   "state": "NY",
@@ -1514,7 +1596,8 @@
   "email_program": "",
   "email_main": "adoptions@adoptadog.org",
   "source_list": "shelter website",
-  "phone": "(914) 273-1674"
+  "phone": "(914) 273-1674",
+  "events": []
  },
  {
   "state": "NY",
@@ -1525,12 +1608,13 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://careofdc.org/",
-  "notes": "Volunteers pick up a shelter dog in the morning (about 10-11am) and return it by 4pm; CARE supplies gear. Sign-up has been by Google Form announced on social media/local press (reported March 2025); not described on the shelter's own site, so confirm with the shelter.",
+  "notes": "Volunteers reportedly pick up a shelter dog in the morning and return it by 4pm; sign-up was announced via social media/local press (March 2025). Still not described on the shelter's own site (home, contact, applications checked November 2026), so confirm with the shelter.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "careofdc@gmail.com",
   "source_list": "shelter website",
-  "phone": "(845) 240-4862"
+  "phone": "(845) 240-4862",
+  "events": []
  },
  {
   "state": "NY",
@@ -1546,23 +1630,25 @@
   "email_program": "",
   "email_main": "info@midhudsonanimalaid.org",
   "source_list": "shelter website",
-  "phone": "(845) 831-4321"
+  "phone": "(845) 831-4321",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Poughkeepsie",
   "org": "Hudson Valley Animal Rescue & Sanctuary (HVARS)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Beans Cat Cafe (cat lounge visits)",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.hvars.org/",
-  "notes": "",
+  "offers": "Cat lounge visit",
+  "url": "https://www.hvars.org/single-project",
+  "notes": "Visitors book an appointment through Beans Cat Cafe (325 Main St, Beacon, and 11 Church St, New Paltz) to spend time with about 30 HVARS cats, all adoptable through HVARS.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "hudsonvalleyanimalrescue@gmail.com",
   "source_list": "shelter website",
-  "phone": "(845) 392-4849"
+  "phone": "(845) 392-4849",
+  "events": []
  },
  {
   "state": "NY",
@@ -1573,12 +1659,20 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://happylifeanimalrescue.org/",
-  "notes": "",
+  "notes": "Limited-intake shelter at 550 Route 22, Pawling.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "contact@happylifeanimalrescue.org",
   "source_list": "shelter website",
-  "phone": "(845) 493-0094"
+  "phone": "(845) 493-0094",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Dog Adoption Event at PetSmart Mohegan Lake, NY",
+    "url": "https://happylifeanimalrescue.org/event/dog-adoption-petsmart-mohegan-lake-ny-november-28/",
+    "place": "PetSmart, Mohegan Lake, NY"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -1594,7 +1688,8 @@
   "email_program": "",
   "email_main": "info@animalprotective.org",
   "source_list": "shelter website",
-  "phone": "(518) 374-3944"
+  "phone": "(518) 374-3944",
+  "events": []
  },
  {
   "state": "NY",
@@ -1610,7 +1705,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(518) 798-3500"
+  "phone": "(518) 798-3500",
+  "events": []
  },
  {
   "state": "NY",
@@ -1625,7 +1721,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adirondacksaveastray@yahoo.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": ""
  },
  {
   "state": "NY",
@@ -1636,27 +1734,30 @@
   "animals": "Cats",
   "offers": "Cat lounge visits",
   "url": "https://sites.google.com/view/theprettypawlounge/faq",
-  "notes": "Cat cafe at 370 Mariaville Rd, Rotterdam; every cat is adoptable. Visitors book paid 30-minute or 1-hour play sessions in the cat room; check FAQ for hours.",
+  "notes": "Cat cafe at 370 Mariaville Rd, Rotterdam; every cat is adoptable (cared for by Pretty Paw Rescue). Entry to the cafe is free; lounge visits are $15 per person for 30 minutes or $20 for an hour, booked online or as a walk-in; check FAQ for hours.",
   "checked": "November 2026",
   "email_program": "theprettypawlounge@gmail.com",
   "email_main": "theprettypawlounge@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(518) 344-6101",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Elizabethtown",
   "org": "North Country SPCA",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Afternoon hikes / short-term mentoring",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.ncspca.org/",
-  "notes": "Shelter at 7700 US Route 9N, Elizabethtown (moved from the old Westport site at 23 Lake Shore Rd). Phone 518-873-5000. Volunteers walk dogs; no day-out program listed. Town of Elizabethtown site lists email info@ncspca.org.",
+  "offers": "Afternoon hikes",
+  "url": "https://www.ncspca.org/help/foster",
+  "notes": "The shelter's foster page invites volunteers to spend an hour, a day or a weekend with an animal, such as taking a dog on an afternoon hike on nearby trails; call shelter manager at 518-873-5000 to arrange. Shelter at 7700 US Route 9N, Elizabethtown; open Tue-Sun 12-4.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@ncspca.org",
   "source_list": "shelter website",
-  "phone": "(518) 873-5000"
+  "phone": "(518) 873-5000",
+  "events": []
  },
  {
   "state": "NY",
@@ -1672,7 +1773,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(518) 353-7755"
+  "phone": "(518) 353-7755",
+  "events": []
  },
  {
   "state": "NY",
@@ -1682,13 +1784,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.trilakeshumanesociety.org/",
-  "notes": "Shelter at 255 George LaPan Memorial Hwy, Saranac Lake; phone 518-891-0017. Own site could not be loaded during this check, so day-out program and events still need a check.",
+  "url": "https://www.trilakeshumanesociety.org/",
+  "notes": "Shelter at 255 George LaPan Memorial Hwy, Saranac Lake; open Tue-Fri 1-5, Sat 11-4. Volunteers walk dogs; no day-out program listed and no upcoming events.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "team@trilakeshumanesociety.org",
   "source_list": "shelter website",
-  "phone": "(518) 891-0017"
+  "phone": "(518) 891-0017",
+  "events": []
  },
  {
   "state": "NY",
@@ -1698,12 +1801,13 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/ViewReport/70431",
+  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6644",
   "notes": "Municipal dog control shelter at 194 Bare Hill Rd, Malone (also called North Country Animal Shelter); serves Malone, Constable, Chateaugay, Burke, Waverly and Bombay. Phone 518-483-8079. No website of its own found.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "NYS Ag & Markets municipal shelter report"
+  "source_list": "NYS Ag & Markets municipal shelter report",
+  "events": []
  },
  {
   "state": "NY",
@@ -1713,12 +1817,14 @@
   "status": "No program yet",
   "animals": "Cats",
   "offers": "",
-  "url": "https://www.aol.com/articles/cats-rescue-opens-facility-045900088.html",
-  "notes": "Cat rescue that opened a public adoption facility at 7196 Route 9, Plattsburgh; visits by appointment. No official website confirmed, so the url is a news article. Needs check.",
+  "url": "https://catsrescueandadoptionservices.org/home/",
+  "notes": "Cat rescue with an adoption center at 7196 Route 9, Plattsburgh (opened 2026); visits by appointment, and adoption events are held at PetSmart in Plattsburgh. Site also links animalrescue.welfareservices@gmail.com.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "news article"
+  "email_main": "justcats2024@gmail.com",
+  "source_list": "shelter website",
+  "phone": "(518) 569-5157",
+  "events": []
  },
  {
   "state": "NY",
@@ -1728,13 +1834,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.stlawrencevalleyspca.org/",
-  "notes": "Shelter at 6718 State Highway 68, Ogdensburg (between Canton and Ogdensburg) per NYS Ag & Markets shelter report. The official-site URL comes from the 211 CNY listing; the site itself could not be fetched to confirm it. A pages.dev mirror lists info@stlawrencevalleyspca.org but was not verified, so the email is left blank.",
+  "url": "https://www.stlawrencevalleyspca.org/",
+  "notes": "Shelter at 6718 State Highway 68, Ogdensburg; open Tue-Sat 1-4 by appointment (315-393-5191). No day-out program or events on its site.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@stlawrencevalleyspca.org",
   "source_list": "shelter website",
-  "phone": "(315) 393-5191"
+  "phone": "(315) 393-5191",
+  "events": []
  },
  {
   "state": "NY",
@@ -1750,23 +1857,25 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Watertown",
   "org": "Jefferson County SPCA",
-  "program": "Afternoon adventure",
-  "status": "Needs check",
+  "program": "Doggy Day Out",
+  "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Afternoon outing",
+  "offers": "Day trips",
   "url": "https://jeffersoncountyspca.org/volunteer/",
-  "notes": "Shelter at 25056 Water St, Watertown (address confirmed in NYS Ag & Markets report). Website taken from its Petfinder profile; the site could not be fetched, so the day-out program check is unconfirmed.",
+  "notes": "Approved Doggy Day Out volunteers can sign out dogs for off-site adventures (trail walks, walks around town, car rides) between 11am and 3:30pm; apply via the volunteer form. Shelter at 25056 Water St, Watertown.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@jeffersoncountyspca.org",
   "source_list": "shelter website",
-  "phone": "(315) 782-3260"
+  "phone": "(315) 782-3260",
+  "events": []
  },
  {
   "state": "NY",
@@ -1776,12 +1885,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/ViewReport/113741",
-  "notes": "Shelter at 6388 Pine Grove Road, Glenfield (near Lowville), per NYS Ag & Markets inspection on 10/29/2025. No official website confirmed.",
+  "url": "https://lewiscountyhumanesociety.org/",
+  "notes": "Shelter at 6390 Pine Grove Road, Glenfield; open Mon, Tue, Thu, Fri 2-6 and Sat 11-4. No day-out program; regular fostering only.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "lewiscountyhumanesociety@gmail.com",
+  "source_list": "shelter website",
+  "phone": "(315) 376-8349",
+  "events": []
  },
  {
   "state": "NY",
@@ -1797,7 +1908,8 @@
   "email_program": "info@gcspca.org",
   "email_main": "info@gcspca.org",
   "source_list": "shelter website",
-  "phone": "(315) 253-5841"
+  "phone": "(315) 253-5841",
+  "events": []
  },
  {
   "state": "NY",
@@ -1813,7 +1925,27 @@
   "email_program": "",
   "email_main": "info@hhdrny.com",
   "source_list": "shelter website",
-  "phone": "(315) 446-5970"
+  "phone": "(315) 446-5970",
+  "events": [
+   {
+    "date": "2027-01-16",
+    "title": "Transport Adoption Event",
+    "url": "https://helpinghoundsdogrescue.org/event/transport-adoption-event-13/",
+    "place": "Helping Hounds, 7268 Caswell St, North Syracuse"
+   },
+   {
+    "date": "2027-02-13",
+    "title": "Transport Adoption Event",
+    "url": "https://helpinghoundsdogrescue.org/event/transport-adoption-event-12/",
+    "place": "Helping Hounds, 7268 Caswell St, North Syracuse"
+   },
+   {
+    "date": "2027-03-20",
+    "title": "Transport Adoption Event",
+    "url": "https://helpinghoundsdogrescue.org/event/transport-adoption-event-14/",
+    "place": "Helping Hounds, 7268 Caswell St, North Syracuse"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -1830,7 +1962,8 @@
   "email_main": "bandrbunkhouse@gmail.com",
   "source_list": "shelter website",
   "source": "https://www.petfinder.com/dog/trucks-2d1d99e8-d715-4a15-a974-ba1d2e696b7a/ny/north-syracuse/b-and-r-bunkhouse-adoptables-ny1451",
-  "phone": "(315) 546-4242"
+  "phone": "(315) 546-4242",
+  "events": []
  },
  {
   "state": "NY",
@@ -1845,7 +1978,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -1861,7 +1995,8 @@
   "email_program": "",
   "email_main": "pawsitivitea.cny@gmail.com",
   "source_list": "shelter website",
-  "phone": "(315) 807-8936"
+  "phone": "(315) 807-8936",
+  "events": []
  },
  {
   "state": "NY",
@@ -1877,7 +2012,8 @@
   "email_program": "",
   "email_main": "info@oswegohumane.org",
   "source_list": "shelter website",
-  "phone": "(315) 207-1070"
+  "phone": "(315) 207-1070",
+  "events": []
  },
  {
   "state": "NY",
@@ -1893,7 +2029,8 @@
   "email_program": "",
   "email_main": "info@anitas-sshs.org",
   "source_list": "shelter website",
-  "phone": "(315) 738-4357"
+  "phone": "(315) 738-4357",
+  "events": []
  },
  {
   "state": "NY",
@@ -1909,7 +2046,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(315) 336-7070"
+  "phone": "(315) 336-7070",
+  "events": []
  },
  {
   "state": "NY",
@@ -1919,14 +2057,15 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://romeny.gov/?p=19819",
+  "url": "https://romeny.gov/animal-control/",
   "notes": "City dog shelter at 725 Black River Blvd. To adopt a dog, contact Animal Control Mon-Fri 8:30am-4:30pm at 315-337-6260.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "kvaughn@romeny.gov",
   "source_list": "shelter website",
   "source": "https://www.petfinder.com/dog/adeline-a5fc7e29-b5ea-4788-8000-b2df60189fa9/ny/rome/city-of-rome-ny-animal-control-ny1149",
-  "phone": ""
+  "phone": "(315) 337-6260",
+  "events": []
  },
  {
   "state": "NY",
@@ -1943,7 +2082,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://adoptapet.com/shelter/68630-town-of-schroeppel-phoenix-new-york",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "NY",
@@ -1953,31 +2093,33 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.herkhumane.org",
-  "notes": "Shelter at 514 State Route 5 S, Mohawk (Ag & Markets inspected it 11/11/2026). Its own site has not been checked yet for a day-out program or events.",
+  "url": "https://www.herkimerhumanesociety.org/",
+  "notes": "Shelter at 514 State Route 5S, Mohawk; open Mon, Thu, Fri 12-4:30 and Sat-Sun 12-3:30. No day-out program and no upcoming events on its site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6574",
-  "phone": "(315) 866-3255"
+  "phone": "(315) 866-3255",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Cooperstown",
   "org": "Susquehanna SPCA",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://sqspca.org/",
-  "notes": "Otsego County's shelter on State Route 28, Cooperstown; open Tue-Sat noon-5pm (per its directory listing). Its own site has not been checked yet for a day-out program or events.",
+  "program": "Foster Field Trip Program",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.sqspca.org/support/",
+  "notes": "Community members stop by, talk with staff about their plans and take a shelter dog out for the day (often a hike), returning it before 5pm; supplies provided. Shelter at 5082-5088 State Highway 28, Cooperstown; open Tue-Sat 11-5.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://adoptapet.com/adoption_rescue/68300",
-  "phone": "(607) 547-8111"
+  "phone": "(607) 547-8111",
+  "events": []
  },
  {
   "state": "NY",
@@ -1987,13 +2129,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter",
-  "notes": "Shelter at 7138 Sutherland Dr, Canastota (Madison County); also takes Utica's unclaimed stray dogs. Its own site has not been checked yet.",
+  "url": "https://www.wanderersrest.org/",
+  "notes": "Shelter at 7138 Sutherland Dr, Canastota; open Tue-Fri 12-5, Sat-Sun 10-3. Adoptable animals also visit the Madison County Veterans Agency in Oneida Mondays and Fridays; no day-out program.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@wanderersrest.org",
   "source_list": "shelter website",
-  "source": "https://adoptapet.com/animal-shelters/new-york/oneida"
+  "source": "https://adoptapet.com/animal-shelters/new-york/oneida",
+  "phone": "(315) 697-2796",
+  "events": []
  },
  {
   "state": "NY",
@@ -2003,13 +2147,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter",
-  "notes": "Shelter at 879 McLean Rd, Cortland. Its own site has not been checked yet.",
+  "url": "https://cortlandspca.org/",
+  "notes": "Shelter at 879 McLean Rd, Cortland; walk-in hours Mon-Thu 12-4, other times by appointment. No day-out program listed; events page empty.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "ccspca@cortlandspca.org",
   "source_list": "shelter website",
-  "source": "https://adoptapet.com/animal-shelters/new-york/oneida"
+  "source": "https://adoptapet.com/animal-shelters/new-york/oneida",
+  "phone": "(607) 753-9386",
+  "events": []
  },
  {
   "state": "NY",
@@ -2417,7 +2563,8 @@
   "email_program": "",
   "email_main": "info@tenlivesclub.com",
   "source_list": "shelter website",
-  "phone": "(716) 646-5577"
+  "phone": "(716) 646-5577",
+  "events": []
  },
  {
   "state": "NY",
@@ -2433,7 +2580,8 @@
   "email_program": "",
   "email_main": "hello@tabbytown.org",
   "source_list": "shelter website",
-  "phone": "(716) 822-4910"
+  "phone": "(716) 822-4910",
+  "events": []
  },
  {
   "state": "NY",
@@ -2448,7 +2596,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jbecker@clarence.ny.us",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(716) 407-8912"
  },
  {
   "state": "NY",
@@ -2459,13 +2609,14 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://lancasterny.gov/departments/dog-control.html",
-  "notes": "Town dog control shelter; visits are by appointment only (716-220-5620). Adopters must be 21+.",
+  "notes": "Town dog control shelter at 525 Pavement Rd, Lancaster; visits are by appointment only (716-220-5620). Adopters must be 21+.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.petfinder.com/member/us/ny/lancaster/town-of-lancaster-dog-control-department-ny1616",
-  "phone": "(716) 683-5129"
+  "phone": "(716) 220-5620",
+  "events": []
  },
  {
   "state": "NY",
@@ -2475,12 +2626,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/ViewReport/112840",
+  "url": "https://tocny.org/departments/animal-control/",
   "notes": "Town dog shelter at 3223 Union Rd, Cheektowaga (716-686-3525). Adopts dogs out directly and also transfers dogs to the SPCA Serving Erie County.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "dogcontrol@cpdny.org",
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(716) 686-3525"
  },
  {
   "state": "NY",
@@ -2490,13 +2643,15 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/ViewReport/111699",
+  "url": "https://lackawannany.gov/government/animal-control/",
   "notes": "City dog shelter at 67 Reddon St, Lackawanna (716-827-6412); dogs are transferred for adoption. Adoptable dogs appear on Adopt-a-Pet.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "anthony.catuzza@lackawannany.gov",
   "source_list": "shelter website",
-  "source": "https://www.adoptapet.com/shelter/221007"
+  "source": "https://www.adoptapet.com/shelter/221007",
+  "events": [],
+  "phone": "(716) 827-6412"
  },
  {
   "state": "NY",
@@ -2512,7 +2667,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "NY",
@@ -2522,13 +2678,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/Reports/6650",
+  "url": "https://orchardparkny.gov/?p=281",
   "notes": "Town dog shelter at 4350 S. Taylor Rd, Orchard Park (716-662-6444). Call to ask about adoptable dogs.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "events": []
  },
  {
   "state": "NY",
@@ -2544,7 +2701,8 @@
   "email_program": "",
   "email_main": "frontdesk@niagaraspca.org",
   "source_list": "shelter website",
-  "phone": "(716) 344-4608"
+  "phone": "(716) 731-4368",
+  "events": []
  },
  {
   "state": "NY",
@@ -2561,7 +2719,8 @@
   "email_main": "preciouspawsrescue@yahoo.com",
   "source_list": "shelter website",
   "source": "https://www.petfinder.com/member/us/ny/north-tonawanda/precious-paws-rescue-ny965/",
-  "phone": "(716) 512-5521"
+  "phone": "(716) 512-5521",
+  "events": []
  },
  {
   "state": "NY",
@@ -2571,28 +2730,31 @@
   "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://chqhumane.org/expawditions/",
+  "url": "https://chqhumane.org/getinvolved/expawditions/",
   "notes": "Expawditions: take an adoptable dog out of the shelter for the day; start one by emailing asublett@chqhumane.org. Shelter is at 2825 Strunk Rd, Jamestown (716-665-2209).",
   "checked": "November 2026",
   "email_program": "asublett@chqhumane.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(716) 665-2209"
+  "phone": "(716) 665-2209",
+  "events": []
  },
  {
   "state": "NY",
   "city": "Westfield",
   "org": "Northern Chautauqua Canine Rescue",
   "program": "Slumber Party Program",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Sleepover",
   "url": "https://www.caninerescue.org/get-involved/slumber-party/",
-  "notes": "Slumber Party Program: pre-approved adoption applicants can host a dog for one night up to two weeks; the agreement and handbook are on the page. Shelter on N. Gale St, Westfield is open Mon-Sat 1-3pm; email rather than call. The page footer reads (c) 2021, so confirm the program is still running.",
+  "notes": "Slumber Party Program: pre-approved adoption applicants can host a dog at home for one night up to two weeks; the agreement and handbook are on the page. Shelter at 7540 N. Gale St, Westfield (716-326-7297).",
   "checked": "November 2026",
   "email_program": "adoptions@caninerescue.org",
   "email_main": "adoptions@caninerescue.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(716) 326-7297"
  },
  {
   "state": "NY",
@@ -2608,7 +2770,8 @@
   "email_program": "",
   "email_main": "lakeshorehumanesociety@yahoo.com",
   "source_list": "shelter website",
-  "phone": "(716) 672-1991"
+  "phone": "(716) 672-1991",
+  "events": []
  },
  {
   "state": "NY",
@@ -2618,12 +2781,14 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://apps.agriculture.ny.gov/MunicipalShelterReports/MunicipalShelter/ViewReport/113576",
-  "notes": "City dog shelter at 855 Main St, Dunkirk; dogs are transferred for adoption.",
+  "url": "https://www.cityofdunkirkny.gov/residents/dog_control_dog_shelter_services.php",
+  "notes": "City temporary holding facility for stray dogs at 855 Main St, Dunkirk (dog control 716-467-5145). No adoptions or surrenders here; unclaimed dogs go to rescues after 5 days.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(716) 467-5145"
  },
  {
   "state": "NY",
@@ -2639,7 +2804,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(716) 372-8492"
+  "phone": "(716) 372-8492",
+  "events": []
  },
  {
   "state": "NY",
@@ -2655,7 +2821,8 @@
   "email_program": "",
   "email_main": "contact@phoenixhsogc.ngo",
   "source_list": "shelter website",
-  "phone": "(716) 202-8444"
+  "phone": "(716) 202-8444",
+  "events": []
  },
  {
   "state": "NY",
@@ -2667,11 +2834,19 @@
   "offers": "",
   "url": "https://www.nycacc.org/bronx/",
   "phone": "(212) 788-4000",
-  "notes": "",
+  "notes": "ACC's new full-service Bronx Animal Care Center at 2060 Bartow Ave (Co-op City) is not open yet; ACC says it opens in 2027. ACC holds mobile adoption events in the Bronx meanwhile.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-06",
+    "title": "Bronx Adoption Event",
+    "url": "https://www.nycacc.org/adoption/events/",
+    "place": "Council Member Shirley Aldebol office, 1925 Williamsbridge Rd, Bronx, NY 10461"
+   }
+  ]
  },
  {
   "state": "NY",
@@ -2682,12 +2857,13 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://townofhamburgny.gov/199/Dog-Control",
-  "phone": "",
+  "phone": "(716) 649-6111 ext. 2509",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "rstoberl@townofhamburgny.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -2698,12 +2874,13 @@
   "animals": "Dogs",
   "offers": "",
   "url": "https://elockport.gov/government/animal-control/",
-  "phone": "",
+  "phone": "(716) 628-2347",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@elockport.gov",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -2713,13 +2890,14 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
-  "phone": "",
-  "notes": "Own website not found; licensed by NY Agriculture & Markets.",
+  "url": "https://wyomingcountyspca.org/",
+  "phone": "(585) 591-3114",
+  "notes": "Shelter at 808 Creek Rd, Attica; open Tue-Wed 1-4pm, Thu-Fri 4-7pm, Sat 1-4pm. Cats: visit then apply; dogs: apply online first (5-7 business days review).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@wyomingcountyspca.org",
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "NY",
@@ -2735,6 +2913,7 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  }
 ]

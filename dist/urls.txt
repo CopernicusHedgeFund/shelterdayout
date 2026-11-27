@@ -109,6 +109,7 @@ https://shelterdayout.com/cities/columbus-in/
 https://shelterdayout.com/cities/columbus-oh/
 https://shelterdayout.com/cities/conroe-tx/
 https://shelterdayout.com/cities/conway-sc/
+https://shelterdayout.com/cities/cooperstown-ny/
 https://shelterdayout.com/cities/corpus-christi-tx/
 https://shelterdayout.com/cities/corvallis-or/
 https://shelterdayout.com/cities/cumberland-md/
@@ -147,6 +148,7 @@ https://shelterdayout.com/cities/edinburg-tx/
 https://shelterdayout.com/cities/edwardsville-il/
 https://shelterdayout.com/cities/el-cajon-ca/
 https://shelterdayout.com/cities/el-paso-tx/
+https://shelterdayout.com/cities/elizabethtown-ny/
 https://shelterdayout.com/cities/elk-grove-ca/
 https://shelterdayout.com/cities/englewood-fl/
 https://shelterdayout.com/cities/escondido-ca/
@@ -173,6 +175,7 @@ https://shelterdayout.com/cities/gainesville-ga/
 https://shelterdayout.com/cities/georgetown-de/
 https://shelterdayout.com/cities/georgetown-tx/
 https://shelterdayout.com/cities/glendale-az/
+https://shelterdayout.com/cities/glendale-ny/
 https://shelterdayout.com/cities/grand-junction-co/
 https://shelterdayout.com/cities/grand-rapids-mi/
 https://shelterdayout.com/cities/green-bay-wi/
@@ -347,6 +350,7 @@ https://shelterdayout.com/cities/port-st-lucie-fl/
 https://shelterdayout.com/cities/port-washington-ny/
 https://shelterdayout.com/cities/portland-or/
 https://shelterdayout.com/cities/portsmouth-va/
+https://shelterdayout.com/cities/poughkeepsie-ny/
 https://shelterdayout.com/cities/prineville-or/
 https://shelterdayout.com/cities/pullman-wa/
 https://shelterdayout.com/cities/puunene-hi/
