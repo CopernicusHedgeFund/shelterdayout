@@ -715,7 +715,6 @@ https://shelterdayout.com/listings/animal-samaritans-thousand-palms/
 https://shelterdayout.com/listings/animal-services-center-of-the-mesilla-valley-las-cruces/
 https://shelterdayout.com/listings/animal-services-joshua/
 https://shelterdayout.com/listings/animal-shelter-and-care-of-jefferson-county-boulder/
-https://shelterdayout.com/listings/animal-shelter-of-crawford-county-grayling/
 https://shelterdayout.com/listings/animal-shelter-of-florence-county-effingham/
 https://shelterdayout.com/listings/animal-shelter-of-martha-s-vineyard-edgartown/
 https://shelterdayout.com/listings/animal-shelter-of-schoharie-valley-howes-cave/
@@ -794,6 +793,7 @@ https://shelterdayout.com/listings/augusta-animal-services-augusta/
 https://shelterdayout.com/listings/aurora-animal-care-and-control-aurora/
 https://shelterdayout.com/listings/aurora-animal-shelter-aurora/
 https://shelterdayout.com/listings/aurora-dog-shelter-town-of-aurora-dog-control-east-aurora/
+https://shelterdayout.com/listings/ausable-valley-animal-shelter-animal-shelter-of-crawford-county-grayling/
 https://shelterdayout.com/listings/austin-animal-services-austin/
 https://shelterdayout.com/listings/austin-animal-shelter-austin/
 https://shelterdayout.com/listings/austin-humane-society-austin/
