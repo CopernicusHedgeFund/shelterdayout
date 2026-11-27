@@ -981,6 +981,7 @@ https://shelteradoption.com/shelters/bonnie-l-hays-animal-shelter-washington-cou
 https://shelteradoption.com/shelters/boone-area-humane-society-boone/
 https://shelteradoption.com/shelters/boone-county-animal-services-belvidere/
 https://shelteradoption.com/shelters/boone-county-animal-shelter-madison/
+https://shelteradoption.com/shelters/booneville-animal-control-and-shelter-booneville/
 https://shelteradoption.com/shelters/booneville-animal-shelter-booneville/
 https://shelteradoption.com/shelters/boonville-animal-control-and-shelter-boonville/
 https://shelteradoption.com/shelters/borderland-humane-society-international-falls/
@@ -1325,6 +1326,7 @@ https://shelteradoption.com/shelters/city-of-lawrence-animal-control-lawrence/
 https://shelteradoption.com/shelters/city-of-levelland-animal-shelter-levelland/
 https://shelteradoption.com/shelters/city-of-live-oak-animal-control-live-oak/
 https://shelteradoption.com/shelters/city-of-llano-animal-control-llano/
+https://shelteradoption.com/shelters/city-of-lonoke-animal-shelter-lonoke/
 https://shelteradoption.com/shelters/city-of-manassas-animal-shelter-manassas/
 https://shelteradoption.com/shelters/city-of-mangum-animal-shelter-mangum/
 https://shelteradoption.com/shelters/city-of-marion-animal-shelter-marion/
@@ -1568,6 +1570,7 @@ https://shelteradoption.com/shelters/dawson-county-humane-society-dawsonville/
 https://shelteradoption.com/shelters/dayton-animal-control-dayton-police-dept-dayton/
 https://shelteradoption.com/shelters/decatur-animal-services-decatur/
 https://shelteradoption.com/shelters/decatur-animal-shelter-decatur/
+https://shelteradoption.com/shelters/decatur-animal-shelter-decatur-2/
 https://shelteradoption.com/shelters/dedman-hokanson-animal-shelter-the-dedman-foundation-fort-benton/
 https://shelteradoption.com/shelters/deer-park-animal-adoption-and-care-shelter-deer-park/
 https://shelteradoption.com/shelters/defenders-of-animal-rights-phoenix/
@@ -2067,6 +2070,7 @@ https://shelteradoption.com/shelters/hart-county-humane-society-hartwell/
 https://shelteradoption.com/shelters/hartford-animal-control-hartford-animal-shelter-hartford/
 https://shelteradoption.com/shelters/hartsville-trousdale-county-animal-shelter-hartsville/
 https://shelteradoption.com/shelters/harvest-hills-animal-shelter-fryeburg/
+https://shelteradoption.com/shelters/have-a-heart-pet-shelter-yellville/
 https://shelteradoption.com/shelters/haven-humane-society-anderson/
 https://shelteradoption.com/shelters/haven-of-the-ozarks-animal-sanctuary-washburn/
 https://shelteradoption.com/shelters/haven-to-home-canine-rescue-sunbury/
@@ -2185,6 +2189,7 @@ https://shelteradoption.com/shelters/hopkinton-animal-shelter-hopkinton/
 https://shelteradoption.com/shelters/horn-lake-animal-shelter-horn-lake/
 https://shelteradoption.com/shelters/hornell-area-humane-society-hornell/
 https://shelteradoption.com/shelters/horry-county-animal-care-center-conway/
+https://shelteradoption.com/shelters/hot-springs-animal-services-john-seales-animal-services-center-hot-springs/
 https://shelteradoption.com/shelters/hot-springs-village-animal-welfare-league-hot-springs-village/
 https://shelteradoption.com/shelters/hough-dement-animal-shelter-indianola/
 https://shelteradoption.com/shelters/houlton-humane-society-houlton/
@@ -2482,6 +2487,7 @@ https://shelteradoption.com/shelters/jackson-county-animal-shelter-jackson/
 https://shelteradoption.com/shelters/jackson-county-animal-shelter-jefferson/
 https://shelteradoption.com/shelters/jackson-county-animal-shelter-sylva/
 https://shelteradoption.com/shelters/jackson-county-dog-warden-and-pound-jackson/
+https://shelteradoption.com/shelters/jackson-county-humane-society-newport/
 https://shelteradoption.com/shelters/jackson-county-sheriff-s-department-k9-control-brownstown/
 https://shelteradoption.com/shelters/jackson-friends-of-the-animal-shelter-city-of-jackson-animal-shelter-jackson/
 https://shelteradoption.com/shelters/jackson-teton-county-animal-shelter-jackson/
@@ -4515,6 +4521,7 @@ https://shelteradoption.com/shelters/wright-way-rescue-morton-grove/
 https://shelteradoption.com/shelters/wyandot-county-dog-shelter-upper-sandusky/
 https://shelteradoption.com/shelters/wyandot-county-humane-society-upper-sandusky/
 https://shelteradoption.com/shelters/wylie-animal-services-wylie/
+https://shelteradoption.com/shelters/wynne-friends-of-animals-wynne/
 https://shelteradoption.com/shelters/wyoming-county-spca-attica/
 https://shelteradoption.com/shelters/wythe-county-dog-shelter-wytheville/
 https://shelteradoption.com/shelters/yadkin-county-animal-shelter-yadkinville/

@@ -189,6 +189,7 @@ https://shelterdayout.com/cities/flushing-ny/
 https://shelterdayout.com/cities/forney-tx/
 https://shelterdayout.com/cities/fort-bragg-ca/
 https://shelterdayout.com/cities/fort-lauderdale-fl/
+https://shelterdayout.com/cities/fort-smith-ar/
 https://shelterdayout.com/cities/fort-walton-beach-fl/
 https://shelterdayout.com/cities/fort-wayne-in/
 https://shelterdayout.com/cities/fort-worth-tx/
@@ -1033,6 +1034,7 @@ https://shelterdayout.com/listings/bonnie-l-hays-animal-shelter-washington-count
 https://shelterdayout.com/listings/boone-area-humane-society-boone/
 https://shelterdayout.com/listings/boone-county-animal-services-belvidere/
 https://shelterdayout.com/listings/boone-county-animal-shelter-madison/
+https://shelterdayout.com/listings/booneville-animal-control-and-shelter-booneville/
 https://shelterdayout.com/listings/booneville-animal-shelter-booneville/
 https://shelterdayout.com/listings/boonville-animal-control-and-shelter-boonville/
 https://shelterdayout.com/listings/borderland-humane-society-international-falls/
@@ -1377,6 +1379,7 @@ https://shelterdayout.com/listings/city-of-lawrence-animal-control-lawrence/
 https://shelterdayout.com/listings/city-of-levelland-animal-shelter-levelland/
 https://shelterdayout.com/listings/city-of-live-oak-animal-control-live-oak/
 https://shelterdayout.com/listings/city-of-llano-animal-control-llano/
+https://shelterdayout.com/listings/city-of-lonoke-animal-shelter-lonoke/
 https://shelterdayout.com/listings/city-of-manassas-animal-shelter-manassas/
 https://shelterdayout.com/listings/city-of-mangum-animal-shelter-mangum/
 https://shelterdayout.com/listings/city-of-marion-animal-shelter-marion/
@@ -1620,6 +1623,7 @@ https://shelterdayout.com/listings/dawson-county-humane-society-dawsonville/
 https://shelterdayout.com/listings/dayton-animal-control-dayton-police-dept-dayton/
 https://shelterdayout.com/listings/decatur-animal-services-decatur/
 https://shelterdayout.com/listings/decatur-animal-shelter-decatur/
+https://shelterdayout.com/listings/decatur-animal-shelter-decatur-2/
 https://shelterdayout.com/listings/dedman-hokanson-animal-shelter-the-dedman-foundation-fort-benton/
 https://shelterdayout.com/listings/deer-park-animal-adoption-and-care-shelter-deer-park/
 https://shelterdayout.com/listings/defenders-of-animal-rights-phoenix/
@@ -2119,6 +2123,7 @@ https://shelterdayout.com/listings/hart-county-humane-society-hartwell/
 https://shelterdayout.com/listings/hartford-animal-control-hartford-animal-shelter-hartford/
 https://shelterdayout.com/listings/hartsville-trousdale-county-animal-shelter-hartsville/
 https://shelterdayout.com/listings/harvest-hills-animal-shelter-fryeburg/
+https://shelterdayout.com/listings/have-a-heart-pet-shelter-yellville/
 https://shelterdayout.com/listings/haven-humane-society-anderson/
 https://shelterdayout.com/listings/haven-of-the-ozarks-animal-sanctuary-washburn/
 https://shelterdayout.com/listings/haven-to-home-canine-rescue-sunbury/
@@ -2237,6 +2242,7 @@ https://shelterdayout.com/listings/hopkinton-animal-shelter-hopkinton/
 https://shelterdayout.com/listings/horn-lake-animal-shelter-horn-lake/
 https://shelterdayout.com/listings/hornell-area-humane-society-hornell/
 https://shelterdayout.com/listings/horry-county-animal-care-center-conway/
+https://shelterdayout.com/listings/hot-springs-animal-services-john-seales-animal-services-center-hot-springs/
 https://shelterdayout.com/listings/hot-springs-village-animal-welfare-league-hot-springs-village/
 https://shelterdayout.com/listings/hough-dement-animal-shelter-indianola/
 https://shelterdayout.com/listings/houlton-humane-society-houlton/
@@ -2534,6 +2540,7 @@ https://shelterdayout.com/listings/jackson-county-animal-shelter-jackson/
 https://shelterdayout.com/listings/jackson-county-animal-shelter-jefferson/
 https://shelterdayout.com/listings/jackson-county-animal-shelter-sylva/
 https://shelterdayout.com/listings/jackson-county-dog-warden-and-pound-jackson/
+https://shelterdayout.com/listings/jackson-county-humane-society-newport/
 https://shelterdayout.com/listings/jackson-county-sheriff-s-department-k9-control-brownstown/
 https://shelterdayout.com/listings/jackson-friends-of-the-animal-shelter-city-of-jackson-animal-shelter-jackson/
 https://shelterdayout.com/listings/jackson-teton-county-animal-shelter-jackson/
@@ -4567,6 +4574,7 @@ https://shelterdayout.com/listings/wright-way-rescue-morton-grove/
 https://shelterdayout.com/listings/wyandot-county-dog-shelter-upper-sandusky/
 https://shelterdayout.com/listings/wyandot-county-humane-society-upper-sandusky/
 https://shelterdayout.com/listings/wylie-animal-services-wylie/
+https://shelterdayout.com/listings/wynne-friends-of-animals-wynne/
 https://shelterdayout.com/listings/wyoming-county-spca-attica/
 https://shelterdayout.com/listings/wythe-county-dog-shelter-wytheville/
 https://shelterdayout.com/listings/yadkin-county-animal-shelter-yadkinville/
