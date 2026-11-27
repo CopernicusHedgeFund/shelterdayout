@@ -37,7 +37,8 @@
     "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026",
     "place": "All BVSPCA locations and participating partners (see megaadopt.com/locations)"
    }
-  ]
+  ],
+  "phone": "(202) 888-7387"
  },
  {
   "state": "DC",
@@ -61,7 +62,8 @@
     "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026",
     "place": "All BVSPCA locations and participating partners (see megaadopt.com/locations)"
    }
-  ]
+  ],
+  "phone": "(202) 888-7387"
  },
  {
   "state": "DC",
@@ -72,10 +74,11 @@
   "animals": "Cats",
   "offers": "Timed cat lounge visits with adoptable cats",
   "url": "https://crumbsandwhiskers.com/appointments-dc",
-  "notes": "For-profit cat cafe at 3109 M St NW (Georgetown) that houses 25+ adoptable rescue cats; book a ticketed visit online. Adoptions are handled by partner rescue Homeward Trails (fee about $180-200 for one cat).",
+  "notes": "For-profit cat cafe at 3109 M St NW (Georgetown) housing 25+ adoptable rescue cats; book a visit online in advance (max 6 people per booking), and adoptions are handled through partner rescue Homeward Trails.",
   "checked": "November 2026",
   "email_program": "thekittenlounge@crumbsandwhiskers.com",
   "email_main": "thekittenlounge@crumbsandwhiskers.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(202) 333-2814"
  }
 ]
