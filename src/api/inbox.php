@@ -9,6 +9,7 @@ $tok = (string)($_POST['t'] ?? '');
 if ($tok === '' || strlen($tok) > 6000 || !gh_oidc_check($tok, 'shelterdayout-inbox', ['inbox.yml'])) { http_response_code(404); exit; }
 require dirname(__DIR__) . '/forms/_inbox.php';
 $op = (string)($_POST['op'] ?? '');
+try {
 if ($op === 'pull') {
     $open = array_values(array_filter(inbox_load(), fn($x) => ($x['status'] ?? '') === 'open'));
     echo json_encode(['n' => count($open), 'h' => substr(hash('sha256', json_encode(array_column($open, 'id'))), 0, 16), 'queue' => inbox_encrypt_for_task(json_encode($open, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES)), 'pubkey' => inbox_server_pub()]);
@@ -18,3 +19,4 @@ if ($op === 'pull') {
     if (!is_array($items)) { http_response_code(400); echo json_encode(['error' => 'could not read replies']); exit; }
     echo json_encode(inbox_apply_replies($items));
 } else { http_response_code(400); echo '{}'; }
+} catch (Throwable $e) { http_response_code(500); echo json_encode(['error' => get_class($e) . ': ' . $e->getMessage() . ' @' . basename($e->getFile()) . ':' . $e->getLine(), 'openssl' => (string)openssl_error_string()]); }

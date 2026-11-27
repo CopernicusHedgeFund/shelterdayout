@@ -107,8 +107,16 @@ function inbox_receive(string $raw): string {
 function inbox_server_key() {
     $f = sdo_private() . '/inbox_server_key.pem';
     if (!is_file($f)) {
-        $k = openssl_pkey_new(['private_key_bits' => 3072, 'private_key_type' => OPENSSL_KEYTYPE_RSA]);
-        openssl_pkey_export($k, $pem); @file_put_contents($f, $pem, LOCK_EX); @chmod($f, 0600);
+        $opt = ['private_key_bits' => 3072, 'private_key_type' => OPENSSL_KEYTYPE_RSA];
+        $k = openssl_pkey_new($opt);
+        if ($k === false) {  // shared hosts often lack a default openssl.cnf
+            $cnf = sdo_private() . '/openssl.cnf';
+            if (!is_file($cnf)) @file_put_contents($cnf, "[req]\ndistinguished_name=dn\n[dn]\n");
+            $k = openssl_pkey_new($opt + ['config' => $cnf]);
+            if ($k === false) throw new RuntimeException('could not create server key');
+            openssl_pkey_export($k, $pem, null, ['config' => $cnf]);
+        } else openssl_pkey_export($k, $pem);
+        @file_put_contents($f, $pem, LOCK_EX); @chmod($f, 0600);
     }
     return openssl_pkey_get_private((string)file_get_contents($f));
 }
