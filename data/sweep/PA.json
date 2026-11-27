@@ -96,7 +96,15 @@
   "email_program": "",
   "email_main": "",
   "source_list": "PA Dept. of Agriculture shelter list",
-  "phone": "(724) 588-6161"
+  "phone": "(724) 588-6161",
+  "events": [
+   {
+    "date": "2026-12-13",
+    "title": "Pet Pictures with Santa",
+    "url": "https://strayhavenanimalshelter.com/events/pet-pictures-with-santa-2",
+    "place": "Strayhaven Animal Shelter"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -565,7 +573,15 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(717) 764-6109"
+  "phone": "(717) 764-6109",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Pet Photos with Santa",
+    "url": "https://ycspca.org/event/pet-photos-with-santa-presented-by-ready-able-plumbing-heating-air/",
+    "place": "York County SPCA"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -778,7 +794,16 @@
   "email_program": "",
   "email_main": "cvasbusiness@cvas-pets.org",
   "source_list": "PA Dept. of Agriculture shelter list",
-  "phone": "(717) 263-5791"
+  "phone": "(717) 263-5791",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "end": "2026-12-06",
+    "title": "Christmas Open House (pet photos with Santa)",
+    "url": "https://cvas-pets.org/our-services/events/",
+    "place": "5051 Letterkenny Road West, Chambersburg"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -873,7 +898,15 @@
   "email_program": "",
   "email_main": "office@animalrescueinc.org",
   "source_list": "PA Dept. of Agriculture shelter list",
-  "phone": "(717) 993-3232"
+  "phone": "(717) 993-3232",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Pet Photos with Santa",
+    "url": "https://animalrescueinc.org/",
+    "place": "Timonium Petco, 1719 York Rd, Timonium, MD"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -1049,7 +1082,28 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Mega Adoption pop-up preview ($35 fees)",
+    "url": "https://bvspca.org/news-events-resources/get-ready-for-the-mega-adoption-event",
+    "place": "Christiana Mall, 132 Christiana Mall, Newark, DE"
+   },
+   {
+    "date": "2026-12-06",
+    "title": "Mega Adoption pop-up preview ($35 fees)",
+    "url": "https://bvspca.org/news-events-resources/get-ready-for-the-mega-adoption-event",
+    "place": "King of Prussia Mall, 160 N Gulph Rd, King of Prussia"
+   },
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event",
+    "url": "https://bvspca.org/news-events-resources/get-ready-for-the-mega-adoption-event",
+    "place": "All BVSPCA locations and partner shelters"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -1083,6 +1137,12 @@
     "title": "Same-day adoption event",
     "url": "https://acctphilly.org/event/king-of-prussia-petsmart-same-day-adoption-event-6/",
     "place": "PetSmart, King of Prussia"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Andorra Petco Same Day Adoption Event",
+    "url": "https://acctphilly.org/event/andorra-petco-same-day-adoption-event-4/",
+    "place": "Andorra Petco, 8500 Henry Ave, Philadelphia"
    }
   ]
  },
@@ -1407,7 +1467,16 @@
   "email_main": "adoptreading@humanepa.org",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/946169898",
-  "phone": "(610) 921-2348"
+  "phone": "(610) 921-2348",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "end": "2026-12-06",
+    "title": "Pet and Family Photos with Santa",
+    "url": "https://humanepa.org/events/upcoming-events/",
+    "place": "Humane Pennsylvania (see event page for campus)"
+   }
+  ]
  },
  {
   "state": "PA",
@@ -1827,13 +1896,13 @@
   "state": "PA",
   "city": "Horsham",
   "org": "Kitty Junction",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "MeWow Cat Cafe visits",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "",
+  "offers": "Meet adoptable cats at a cat café",
   "url": "https://www.kittyjunction.org/",
   "phone": "",
-  "notes": "",
+  "notes": "Some Kitty Junction adoptable cats and kittens live at the MeWow Cat Cafe in Doylestown, where the public can meet them.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -2110,5 +2179,22 @@
   "city": "Kennett Square",
   "org": "Treetops Kitty Cafe & Animal Rescue",
   "url": "https://treetopskittycafe.com/"
+ },
+ {
+  "state": "PA",
+  "program": "The Cat Lounge",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "notes": "Visitors book a visit to The Cat Lounge on McKnight Road, where adoptable cats roam freely; approved adopters schedule a lounge visit to meet cats.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "cats@kittyqueencatrescue.com",
+  "source_list": "shelter website",
+  "events": [],
+  "city": "Pittsburgh",
+  "org": "Kitty Queen Cat Rescue",
+  "url": "https://kittyqueencatrescue.com/"
  }
 ]

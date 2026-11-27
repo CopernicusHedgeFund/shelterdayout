@@ -245,6 +245,7 @@ https://shelterdayout.com/cities/hinsdale-il/
 https://shelterdayout.com/cities/hobart-in/
 https://shelterdayout.com/cities/holualoa-hi/
 https://shelterdayout.com/cities/honolulu-hi/
+https://shelterdayout.com/cities/horsham-pa/
 https://shelterdayout.com/cities/houston-tx/
 https://shelterdayout.com/cities/huntsville-al/
 https://shelterdayout.com/cities/idaho-falls-id/
@@ -2733,6 +2734,7 @@ https://shelterdayout.com/listings/kitty-junction-horsham/
 https://shelterdayout.com/listings/kitty-kat-haven-and-rescue-hoover/
 https://shelterdayout.com/listings/kitty-kat-haven-chehalis/
 https://shelterdayout.com/listings/kitty-kisses-cat-caf-reno/
+https://shelterdayout.com/listings/kitty-queen-cat-rescue-pittsburgh/
 https://shelterdayout.com/listings/kiya-koda-humane-society-indianola/
 https://shelterdayout.com/listings/klamath-animal-shelter-klamath-falls/
 https://shelterdayout.com/listings/knox-county-animal-control-galesburg/
