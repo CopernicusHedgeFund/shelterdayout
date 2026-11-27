@@ -2214,7 +2214,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(561) 482-8110"
+  "phone": "(561) 482-8110",
+  "events": []
  },
  {
   "state": "FL",
@@ -2263,7 +2264,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(305) 451-3848",
+  "events": []
  },
  {
   "state": "FL",
@@ -2303,7 +2306,8 @@
   "email_program": "",
   "email_main": "info@abandonedpetrescue.org",
   "source_list": "shelter website",
-  "phone": "(954) 728-9010"
+  "phone": "(954) 728-9010",
+  "events": []
  },
  {
   "state": "FL",
@@ -2318,7 +2322,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalAidInc@aol.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(754) 223-5378",
+  "events": []
  },
  {
   "state": "FL",
@@ -2596,11 +2602,12 @@
   "offers": "",
   "url": "https://dogsandcatsforever.com/",
   "phone": "(772) 489-5454",
-  "notes": "",
+  "notes": "Shelter at 4600 Selvitz Rd, Fort Pierce; open Tue-Sat from noon (closed Sun-Mon). No day-out program or dated adoption events listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2690,17 +2697,55 @@
   "state": "FL",
   "city": "Jupiter",
   "org": "Furry Friends Humane",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://ffhumane.org/",
-  "phone": "",
-  "notes": "",
+  "program": "Cafe cat lounge",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "url": "https://ffhumane.org/locations/",
+  "phone": "(561) 747-5311",
+  "notes": "At the Jupiter campus cafe (100 Capital St) visitors can have coffee and pastries while watching adoptable cats in a lounge; the adoption center is open daily 10am-6pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@ffhumane.org",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "title": "Spyglass IV & Wellness Puppy Adoption Pop-Up",
+    "url": "https://ffhumane.org/",
+    "place": "105 S Olive Ave, West Palm Beach"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Pet Supermarket Jupiter Adoption Event",
+    "url": "https://ffhumane.org/",
+    "place": "Pet Supermarket, 6755 Indiantown Rd, Jupiter"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Pet Supermarket Tequesta Adoption Event",
+    "url": "https://ffhumane.org/",
+    "place": "Pet Supermarket, 229 US Hwy 1, Tequesta"
+   },
+   {
+    "date": "2026-11-28",
+    "title": "Pet Supermarket West Palm Beach Adoption Event",
+    "url": "https://ffhumane.org/",
+    "place": "Pet Supermarket, 846 Southern Blvd, West Palm Beach"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Petco Palm Beach Gardens Adoption Event",
+    "url": "https://ffhumane.org/",
+    "place": "Petco, 11262 Legacy Place, Palm Beach Gardens"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Petco Stuart Adoption Event",
+    "url": "https://ffhumane.org/",
+    "place": "Petco, 2353 S Federal Hwy, Stuart"
+   }
+  ]
  },
  {
   "state": "FL",
@@ -2711,12 +2756,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.humanesocietyofhighlandscounty.org/adopt",
-  "phone": "",
-  "notes": "",
+  "phone": "(863) 655-1522",
+  "notes": "Shelter at 7421 Haywood Taylor Blvd, Sebring; open Tue 10am-5:30pm and Wed-Sun 10am-4pm. No day-out program or dated adoption events listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2728,11 +2774,12 @@
   "offers": "",
   "url": "https://highlandsfl.animalservices.website/shelterpronet/home.spn",
   "phone": "",
-  "notes": "",
+  "notes": "County shelter at 7501 Haywood Taylor Blvd, Sebring; open Mon-Fri 8am-4:30pm (Tue to 5:30pm) and Sat 9am-1pm. No day-out program or dated adoption events listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
@@ -2744,11 +2791,12 @@
   "offers": "",
   "url": "https://www.rainingcatsanddogsshelter.com/about",
   "phone": "",
-  "notes": "",
+  "notes": "Shelter holding adoption meet and greets on Saturdays by appointment only (no walk-ins); adoptable cats are also at PetSmart in Lakeland and Brandon. No day-out program or dated adoption events listed.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": []
  },
  {
   "state": "FL",
