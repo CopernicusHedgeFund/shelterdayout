@@ -16,6 +16,9 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+      - name: Site check (internal links, page size, structured data, scripts)
+        continue-on-error: true
+        run: python3 tools/site_check.py
       - name: Check links
         run: python3 tools/linkcheck.py
       - name: Save dead-link list to main (the build hides dead links)

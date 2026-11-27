@@ -101,7 +101,7 @@ window.sdoNear=function(t,s,cands,done){
  f.addEventListener('submit',function(e){e.preventDefault();run();q.blur();res.scrollIntoView({behavior:'smooth',block:'start'});});
  var u=new URLSearchParams(location.search);if(u.get('q'))q.value=u.get('q');if(u.get('state')&&st)st.value=u.get('state').toUpperCase();
  function go(){items=[].slice.call(document.querySelectorAll('#res li[data-q]'));run();}
- if(res&&res.dataset.src){fetch(res.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){res.innerHTML=h;go();}).catch(function(){res.innerHTML='<li>Couldn't load the list. <a href="#states">Browse shelters by state</a>.</li>';});}else go();
+ if(res&&res.dataset.src){fetch(res.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){res.innerHTML=h;go();}).catch(function(){res.innerHTML='<li>Could not load the list. <a href="#states">Browse shelters by state</a>.</li>';});}else go();
 })();
 </script>
 </div></main>
