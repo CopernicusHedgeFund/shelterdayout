@@ -945,6 +945,7 @@ https://shelteradoption.com/shelters/bonnie-l-hays-animal-shelter-washington-cou
 https://shelteradoption.com/shelters/boone-area-humane-society-boone/
 https://shelteradoption.com/shelters/boone-county-animal-services-belvidere/
 https://shelteradoption.com/shelters/boone-county-animal-shelter-madison/
+https://shelteradoption.com/shelters/booneville-animal-shelter-booneville/
 https://shelteradoption.com/shelters/boonville-animal-control-and-shelter-boonville/
 https://shelteradoption.com/shelters/borderland-humane-society-international-falls/
 https://shelteradoption.com/shelters/bosley-s-place-smyrna/
@@ -2621,6 +2622,7 @@ https://shelteradoption.com/shelters/leominster-fitchburg-animal-control-leomins
 https://shelteradoption.com/shelters/leslie-county-animal-shelter-hyden/
 https://shelteradoption.com/shelters/lester-c-howick-animal-shelter-of-washington-county-fayetteville/
 https://shelteradoption.com/shelters/let-these-animals-live-williamsburg/
+https://shelteradoption.com/shelters/letcher-county-animal-control-and-shelter-whitesburg/
 https://shelteradoption.com/shelters/levy-county-animal-services-bronson/
 https://shelteradoption.com/shelters/lewis-and-clark-humane-society-helena/
 https://shelteradoption.com/shelters/lewis-clark-animal-shelter-lewiston/
@@ -2841,6 +2843,7 @@ https://shelteradoption.com/shelters/merrimack-river-feline-rescue-society-salis
 https://shelteradoption.com/shelters/mesa-county-animal-services-whitewater/
 https://shelteradoption.com/shelters/mesabi-humane-society-virginia/
 https://shelteradoption.com/shelters/mesquite-animal-shelter-mesquite/
+https://shelteradoption.com/shelters/metcalfe-county-animal-shelter-edmonton/
 https://shelteradoption.com/shelters/metro-animal-care-and-control-nashville/
 https://shelteradoption.com/shelters/metro-animal-services-puyallup/
 https://shelteradoption.com/shelters/metro-animal-shelter-metro-animal-services-casper/
@@ -3006,6 +3009,7 @@ https://shelteradoption.com/shelters/neccog-animal-services-northeastern-ct-coun
 https://shelteradoption.com/shelters/nederland-animal-shelter-nederland/
 https://shelteradoption.com/shelters/needles-animal-shelter-city-of-needles-animal-shelter-and-control-needles/
 https://shelteradoption.com/shelters/neenah-animal-shelter-neenah/
+https://shelteradoption.com/shelters/nelson-county-animal-shelter-bardstown/
 https://shelteradoption.com/shelters/nelson-spca-lovingston/
 https://shelteradoption.com/shelters/nephi-city-animal-control-nephi/
 https://shelteradoption.com/shelters/nevada-animal-shelter-nevada/
