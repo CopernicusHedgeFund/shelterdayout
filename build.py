@@ -1331,7 +1331,8 @@ def build_assets(rows, optins):
         "ErrorDocument 404 /404.html\nOptions -Indexes\n"
         "<IfModule mod_rewrite.c>\nRewriteEngine On\nRewriteCond %{HTTPS} off\nRewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]\n"
         "RewriteCond %{HTTP_HOST} ^www\\.(.+)$ [NC]\nRewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]\n</IfModule>\n"
-        "")
+        "# The account's main .htaccess blocks every .csv (private lead files); allow only the public report download.\n"
+        "<Files \"programs-by-state.csv\">\n<IfModule mod_authz_core.c>\nRequire all granted\n</IfModule>\n</Files>\n")
 
 
 def main():
