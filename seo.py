@@ -207,3 +207,18 @@ def build_report(m, rows):
 
 
 BING_AUTH = '<?xml version="1.0"?>\n<users>\n\t<user>112FE28D876C615348E72ECA77A3A442</user>\n</users>\n'
+
+
+def build_guides_hub(m, guides, more, h1, intro):
+    def cards(items):
+        return "".join(f'<div class="card"><h3><a href="{u}"{" rel=\"noopener\"" if u.startswith("http") else ""}>{m.esc(t)}</a></h3>{m.esc(d)}</div>' for u, t, d in items)
+    ld = json.dumps({"@context": "https://schema.org", "@type": "ItemList", "name": h1,
+                     "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": m.SITE + u, "name": t} for i, (u, t, _) in enumerate(guides)]})
+    body = f"""<div class="crumbs"><a href="/">Home</a> / Guides</div>
+<h1>{m.esc(h1)}</h1>
+<p class="lede">{m.esc(intro)}</p>
+<div class="grid3">{cards(guides)}</div>
+<h2>More from {m.BRAND}</h2>
+<div class="grid3">{cards(more)}</div>"""
+    m.write("/guides/", m.page(f"{h1} | {m.BRAND}", intro, body, "/guides/",
+        f'<script type="application/ld+json">{ld}</script>' + m.crumbs_ld([("Home", "/"), ("Guides", "/guides/")])))

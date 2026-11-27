@@ -89,14 +89,14 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <body>
 <header class="site"><div class="wrap">
 <a class="logo" href="/">{logo_html()}</a>
-<nav class="main"><a href="/#find">Find a shelter</a><a href="/events/">Adoption events</a><a href="/how-to-adopt-a-dog/">How to adopt</a><a href="/find-a-vet/">Find a vet</a><a href="{SDO}/" rel="noopener">Dog day outs</a></nav>
+<nav class="main"><a href="/#find">Find a shelter</a><a href="/events/">Adoption events</a><a href="/guides/">Guides</a><a href="/find-a-vet/">Find a vet</a><a href="{SDO}/" rel="noopener">Dog day outs</a></nav>
 </div></header>
 <main><div class="wrap">
 {body}
 </div></main>
 <footer class="site"><div class="wrap">
 <div class="logo">{logo_html()}</div>
-<p><a href="/how-to-adopt-a-dog/">How to adopt a dog</a><a href="/how-to-adopt-a-cat/">How to adopt a cat</a><a href="/adoption-checklist/">Adoption checklist</a><a href="/adoption-fees/">Adoption fees</a><a href="/fee-waived-adoption-events/">Fee-waived events</a><a href="/cities/">Browse by city</a></p>
+<p><a href="/guides/">All guides</a><a href="/how-to-adopt-a-dog/">How to adopt a dog</a><a href="/how-to-adopt-a-cat/">How to adopt a cat</a><a href="/adoption-checklist/">Adoption checklist</a><a href="/adoption-fees/">Adoption fees</a><a href="/fee-waived-adoption-events/">Fee-waived events</a><a href="/cities/">Browse by city</a></p>
 <p><a href="/questions-to-ask-before-adopting/">Questions to ask</a><a href="/first-week-with-a-rescue-dog/">First week home</a><a href="/adopting-a-senior-dog/">Senior dogs</a><a href="/fostering-vs-adopting/">Fostering vs adopting</a><a href="/adopting-a-dog-with-kids/">Adopting with kids</a></p>
 <p><a href="/puppy-adoption/">Puppy adoption</a><a href="/kitten-adoption/">Kitten adoption</a><a href="/rescue-dogs-near-me/">Rescue dogs</a><a href="/humane-society-near-me/">Humane societies</a><a href="/animal-control-near-me/">Animal control</a></p>
 <p><a href="/about/">About</a><a href="/events/">Adoption events</a><a href="{SDO}/suggest/" rel="noopener">Suggest a shelter</a><a href="/badge/">Website badge</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
@@ -252,6 +252,7 @@ def build_home(rows):
 <div class="card"><img class="ic" src="/assets/art/checklist.svg" alt="" width="64" height="64"><h3><a href="/adoption-checklist/">Adoption checklist</a></h3>What to bring to the shelter and what to have ready at home.</div>
 <div class="card"><img class="ic" src="/assets/art/home.svg" alt="" width="64" height="64"><h3><a href="{SDO}/" rel="noopener">Take a dog out first</a></h3>Many shelters let you borrow a dog for a day or a sleepover. ShelterDayOut lists them.</div>
 </div>
+<p><a href="/guides/">See all adoption guides</a></p>
 <h2>Questions people ask</h2>
 {faq_html}
 {sdo.NEAR_JS}{SEARCH_JS}"""
@@ -631,6 +632,13 @@ def main(rows=None):
     build_static(rows)
     sdo.build_vets(DIST, page, write, BRAND, crumbs_ld, f"{SDO}/suggest/")
     me = sys.modules[__name__]
+    seo.build_guides_hub(me, [(p, g[2][0].upper() + g[2][1:], g[1]) for p, g in GUIDES.items()] + [("/fee-waived-adoption-events/", "Fee-waived adoption events", "Upcoming free and reduced-fee adoption events at shelters nationwide.")],
+        [("/events/", "Adoption events calendar", "Upcoming adoption days and open houses, by month and state."),
+         ("/puppy-adoption/", "Puppy adoption", "Shelters with puppies in every state."),
+         ("/kitten-adoption/", "Kitten adoption", "Shelters with kittens in every state."),
+         ("/find-a-vet/", "Find a vet", "Vet clinics near you for your new pet's first check-up."),
+         ("https://shelterdayout.com/guides/", "Dog day out guides", "Not ready to adopt? Take a shelter dog out for the day or a sleepover.")],
+        "Pet adoption guides", "Step-by-step help with adopting a dog or cat from a shelter: what to ask, what it costs, and the first week home.")
     seo.build_badge_page(me, "/badge/", '<a href="/">Home</a> / Website badge', "/shelters/", "Adopt from us on", "ShelterAdoption", "#2a9d8f",
         "A free ShelterAdoption badge for your website", "Listed on ShelterAdoption? Add this badge to your shelter's website so people can find your adoption events, hours and adoptable pets in one place.")
     seo.write_og(DIST, OG, BRAND, "shelteradoption.com", "#2a9d8f")

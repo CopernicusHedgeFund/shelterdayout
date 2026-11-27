@@ -286,7 +286,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 <body>
 <header class="site"><div class="wrap">
 <a class="logo" href="/">{LOGO}<span>Shelter<b>DayOut</b></span></a>
-<nav class="main"><a href="/#find">Find an outing</a><a href="/events/">Adoption events</a><a href="/cats/">Cats</a><a href="/volunteer-at-an-animal-shelter/">Volunteer</a><a href="/find-a-vet/">Find a vet</a><a href="/for-shelters/">For shelters</a><a href="https://shelteradoption.com/" rel="noopener">Adopt</a></nav>
+<nav class="main"><a href="/#find">Find an outing</a><a href="/events/">Adoption events</a><a href="/cats/">Cats</a><a href="/guides/">Guides</a><a href="/find-a-vet/">Find a vet</a><a href="/for-shelters/">For shelters</a><a href="https://shelteradoption.com/" rel="noopener">Adopt</a></nav>
 </div></header>
 <main><div class="wrap">
 {body}
@@ -294,7 +294,7 @@ def page(title, desc, body, path, extra_head="", canonical=True):
 </div></main>
 <footer class="site"><div class="wrap">
 <div class="logo">{LOGO}<span>Shelter<b>DayOut</b></span></div>
-<p><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/doggy-day-out/">Doggy day out</a><a href="/foster-a-dog-for-a-day/">Foster a dog for a day</a><a href="/volunteer-at-an-animal-shelter/">Volunteer at a shelter</a><a href="/cities/">Browse by city</a><a href="/events/">Adoption events</a></p>
+<p><a href="/guides/">All guides</a><a href="/rent-a-dog/">Rent or borrow a dog</a><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a><a href="/doggy-day-out/">Doggy day out</a><a href="/foster-a-dog-for-a-day/">Foster a dog for a day</a><a href="/volunteer-at-an-animal-shelter/">Volunteer at a shelter</a><a href="/cities/">Browse by city</a><a href="/events/">Adoption events</a></p>
 <p><a href="/about/">About</a><a href="/how-it-works/">How it works</a><a href="/cats/">Cats</a><a href="/for-shelters/">For shelters</a><a href="/suggest/">Suggest a shelter</a><a href="/report/">National report</a><a href="/new-programs/">New programs</a><a href="/for-shelters/badge/">Website badge</a><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a></p>
 <p>{BRAND} is a free directory. We don't run outings or handle bookings; each shelter sets its own rules. Listings are checked monthly, but details change, so confirm with the shelter before you go.</p>
 <p>Ready to adopt? <a href="https://shelteradoption.com/" rel="noopener">ShelterAdoption</a>, our sister site, lists every shelter near you plus upcoming adoption events.</p>
@@ -516,6 +516,13 @@ def build_home(rows, all_rows=None):
 <h2>Popular cities</h2>
 <p class="citylinks">{city_links}</p>
 <div class="band"><div style="flex:1 1 360px"><h2>Ready to adopt?</h2><p>Our sister site ShelterAdoption lists {len(all_rows):,} animal shelters and humane societies in every state, plus upcoming adoption events.</p></div><a class="btn" href="https://shelteradoption.com/" rel="noopener">Find a shelter to adopt from</a></div>
+<h2>Guides</h2>
+<div class="grid3">
+<div class="card"><h3><a href="/rent-a-dog/">Rent or borrow a dog</a></h3>Why borrowing a shelter dog beats renting one, and how it works.</div>
+<div class="card"><h3><a href="/shelter-dog-sleepovers/">Shelter dog sleepovers</a></h3>Host a shelter dog for a night or a weekend.</div>
+<div class="card"><h3><a href="/hike-with-a-shelter-dog/">Hike with a shelter dog</a></h3>Trail buddy programs that get dogs outdoors.</div>
+</div>
+<p><a href="/guides/">See all guides</a></p>
 <div class="band"><div style="flex:1 1 360px"><h2>Run a shelter?</h2><p>Get listed for free, update your details, or choose where outing requests go.</p></div><a class="btn" href="/for-shelters/">For shelters</a></div>
 {NEAR_JS}{FILTER_JS}"""
     write("/", page(
@@ -1318,6 +1325,13 @@ def main():
     build_guides(progs)
     build_vets()
     me = sys.modules[__name__]
+    seo.build_guides_hub(me, [(p, g["h1"], g["desc"]) for p, g in GUIDES.items()],
+        [("/report/", "National report", "Exact counts of shelter day-out programs by state and type, updated monthly."),
+         ("/new-programs/", "New programs by month", "Day-out, sleepover and hiking programs we've added each month."),
+         ("/how-it-works/", "How it works", "How listings are checked and how outing requests reach shelters."),
+         ("https://shelteradoption.com/guides/", "Adoption guides", "Ready to adopt? Our sister site's guides to adopting a dog or cat.")],
+        "Guides to dog day outs, sleepovers and shelter volunteering",
+        "Everything you need to take a shelter dog out for the day, host a sleepover, hike with a shelter dog or volunteer.")
     seo.build_new_programs(me, progs)
     seo.build_report(me, rows)
     seo.build_badge_page(me, "/for-shelters/badge/", '<a href="/">Home</a> / <a href="/for-shelters/">For shelters</a> / Website badge',
