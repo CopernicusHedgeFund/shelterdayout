@@ -1273,5 +1273,20 @@
   "lon": null,
   "src": "https://humanesc.org/",
   "checked": "November 2026"
+ },
+ {
+  "state": "SC",
+  "name": "Truss Vet (Columbia)",
+  "city": "Columbia",
+  "street": "4507 Forest Dr",
+  "zip": "29206",
+  "phone": "(803) 868-7877",
+  "website": "https://www.trussvet.com/cary-fenton/",
+  "emergency": "",
+  "operator_type": "https://www.trussvet.com/columbia/",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.trussvet.com/cary-fenton/",
+  "checked": "November 2026"
  }
 ]
