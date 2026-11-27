@@ -26,7 +26,8 @@
     "title": "Mega Adoption Event ($35 adoption fees, all BVSPCA locations)",
     "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026"
    }
-  ]
+  ],
+  "phone": "(302) 516-1000"
  },
  {
   "state": "DE",
@@ -49,7 +50,8 @@
     "title": "Mega Adoption Event ($35 adoption fees, all BVSPCA locations)",
     "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026"
    }
-  ]
+  ],
+  "phone": "(302) 601-7000"
  },
  {
   "state": "DE",
@@ -90,7 +92,15 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(302) 858-4204"
+  "phone": "(302) 858-4204",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-13",
+    "title": "Mega Adoption Event ($35 adoption fees, all BVSPCA locations)",
+    "url": "https://bvspca.org/news-events-resources/calendar/mega-adoption-event-2026"
+   }
+  ]
  },
  {
   "state": "DE",
@@ -105,7 +115,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(302) 571-0111"
  },
  {
   "state": "DE",
@@ -120,7 +131,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(302) 998-2281"
  },
  {
   "state": "DE",
@@ -135,7 +147,8 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(302) 200-7159"
  },
  {
   "state": "DE",
@@ -151,7 +164,7 @@
   "email_program": "volunteer@faithfulfriends.us",
   "email_main": "info@faithfulfriends.us",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(302) 427-8514"
  },
  {
   "state": "DE",
