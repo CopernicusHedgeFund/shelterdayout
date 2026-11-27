@@ -79,6 +79,7 @@ https://shelteradoption.com/cities/burlington-wa/
 https://shelteradoption.com/cities/camarillo-ca/
 https://shelteradoption.com/cities/cambridge-md/
 https://shelteradoption.com/cities/camden-ar/
+https://shelteradoption.com/cities/canton-il/
 https://shelteradoption.com/cities/carrollton-tx/
 https://shelteradoption.com/cities/cartersville-ga/
 https://shelteradoption.com/cities/casa-grande-az/
@@ -121,6 +122,7 @@ https://shelteradoption.com/cities/denver-co/
 https://shelteradoption.com/cities/detroit-lakes-mn/
 https://shelteradoption.com/cities/detroit-mi/
 https://shelteradoption.com/cities/dillsburg-pa/
+https://shelteradoption.com/cities/dixon-il/
 https://shelteradoption.com/cities/dothan-al/
 https://shelteradoption.com/cities/downey-ca/
 https://shelteradoption.com/cities/dublin-ca/
@@ -161,6 +163,7 @@ https://shelteradoption.com/cities/franklin-nc/
 https://shelteradoption.com/cities/frederick-md/
 https://shelteradoption.com/cities/fredericksburg-tx/
 https://shelteradoption.com/cities/fredericksburg-va/
+https://shelteradoption.com/cities/freeport-il/
 https://shelteradoption.com/cities/fremont-mi/
 https://shelteradoption.com/cities/fremont-ne/
 https://shelteradoption.com/cities/fremont-oh/
@@ -340,6 +343,7 @@ https://shelteradoption.com/cities/providence-ri/
 https://shelteradoption.com/cities/pueblo-co/
 https://shelteradoption.com/cities/quakertown-pa/
 https://shelteradoption.com/cities/quincy-ca/
+https://shelteradoption.com/cities/quincy-il/
 https://shelteradoption.com/cities/raleigh-nc/
 https://shelteradoption.com/cities/ravenna-oh/
 https://shelteradoption.com/cities/redwood-city-ca/
@@ -538,6 +542,7 @@ https://shelteradoption.com/shelters/acadia-parish-animal-control-crowley/
 https://shelteradoption.com/shelters/acadiana-animal-aid-carencro/
 https://shelteradoption.com/shelters/acct-philly-philadelphia/
 https://shelteradoption.com/shelters/adair-county-humane-society-kirksville/
+https://shelteradoption.com/shelters/adams-county-animal-control-quincy/
 https://shelteradoption.com/shelters/adams-county-animal-shelter-decatur/
 https://shelteradoption.com/shelters/adams-county-humane-society-friendship/
 https://shelteradoption.com/shelters/adams-county-pet-rescue-othello/
@@ -1703,6 +1708,7 @@ https://shelteradoption.com/shelters/fried-s-cat-shelter-trail-creek/
 https://shelteradoption.com/shelters/friends-for-animals-of-metro-detroit-dearborn/
 https://shelteradoption.com/shelters/friends-for-life-animal-rescue-gilbert/
 https://shelteradoption.com/shelters/friends-for-life-animal-shelter-houston/
+https://shelteradoption.com/shelters/friends-forever-humane-society-freeport/
 https://shelteradoption.com/shelters/friends-of-campbell-county-animals-campbell-county-animal-shelter-jacksboro/
 https://shelteradoption.com/shelters/friends-of-cats-el-cajon/
 https://shelteradoption.com/shelters/friends-of-companion-animals-monroe/
@@ -1718,6 +1724,7 @@ https://shelteradoption.com/shelters/friendswood-animal-services-friendswood/
 https://shelteradoption.com/shelters/frisky-cat-cafe-small-lives-matter-kitten-rescue-st-augustine/
 https://shelteradoption.com/shelters/front-street-animal-shelter-city-of-sacramento-sacramento/
 https://shelteradoption.com/shelters/fulton-county-animal-center-rochester/
+https://shelteradoption.com/shelters/fulton-county-animal-control-canton/
 https://shelteradoption.com/shelters/fulton-county-animal-services-atlanta/
 https://shelteradoption.com/shelters/fulton-county-dog-warden-wauseon/
 https://shelteradoption.com/shelters/fulton-county-humane-society-archbold/
@@ -2506,6 +2513,7 @@ https://shelteradoption.com/shelters/league-for-animal-welfare-batavia/
 https://shelteradoption.com/shelters/leavenworth-animal-control-shelter-leavenworth/
 https://shelteradoption.com/shelters/leavenworth-county-humane-society-lansing/
 https://shelteradoption.com/shelters/lebanon-humane-society-lebanon/
+https://shelteradoption.com/shelters/lee-county-animal-control-dixon/
 https://shelteradoption.com/shelters/lee-county-animal-control-pound-jonesville/
 https://shelteradoption.com/shelters/lee-county-animal-services-sanford/
 https://shelteradoption.com/shelters/lee-county-animal-shelter-bishopville/
