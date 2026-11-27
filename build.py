@@ -6,6 +6,7 @@ Re-run any time the data changes; the monthly update task does exactly that.
 """
 import html
 import collections
+import hashlib
 import json
 import re
 import shutil
@@ -342,8 +343,15 @@ def row_html(r, show_state=True):
 </tr>"""
 
 
-def table(rows, show_state=True):
+def table(rows, show_state=True, lazy_src=None):
     body = "\n".join(row_html(r, show_state) for r in rows)
+    if lazy_src:  # home page: rows are loaded only when someone searches
+        (DIST / lazy_src.lstrip("/")).parent.mkdir(parents=True, exist_ok=True)
+        (DIST / lazy_src.lstrip("/")).write_text(json.dumps(body))
+        v = hashlib.md5(body.encode()).hexdigest()[:10]
+        return f"""<table class="list" id="results" hidden>
+<thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
+<tbody data-src="{lazy_src}?v={v}"></tbody></table>"""
     return f"""<table class="list" id="results">
 <thead><tr><th>Shelter and program</th><th>Location</th><th>What you can do</th><th>Who can go</th></tr></thead>
 <tbody>
@@ -372,9 +380,12 @@ window.sdoNear=function(t,s,cands,done){
 FILTER_JS = """<script>
 (function(){
  var q=document.getElementById('q'),st=document.getElementById('f-state'),an=document.getElementById('f-animal'),ty=document.getElementById('f-type'),pub=document.getElementById('f-public'),cnt=document.getElementById('count');
- var rows=[].slice.call(document.querySelectorAll('#results tbody tr'));
+ var tb=document.querySelector('#results tbody'),lazy=!!(tb&&tb.dataset.src),loaded=!lazy,tbl=document.getElementById('results');
+ var rows=lazy?[]:[].slice.call(document.querySelectorAll('#results tbody tr'));
+ function load(){if(loaded||load.busy)return;load.busy=1;fetch(tb.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){tb.innerHTML=h;rows=[].slice.call(tb.querySelectorAll('tr'));loaded=true;run();}).catch(function(){load.busy=0;});}
  function run(){
   var t=(q&&q.value||'').trim().toLowerCase(),s=st?st.value:'',a=an.value,y=ty.value,p=pub.checked,n=0;
+  if(lazy){var any=t||s||a||y||p;if(!any){if(tbl)tbl.hidden=true;cnt.textContent='';if(box){box.hidden=true;box.innerHTML='';}return;}if(!loaded){cnt.textContent='Searching\u2026';load();return;}if(tbl)tbl.hidden=false;}
   rows.forEach(function(r){
    var ok=true;
    if(t&&r.dataset.q.indexOf(t)<0)ok=false;
@@ -471,6 +482,21 @@ HOME_FAQ = [
 ]
 
 
+def home_highlights(rows):
+    """A short, varied sample of programs open to the public: one per state, states with the most programs first."""
+    by = {}
+    for r in rows:
+        if r["status"] == "Open to public":
+            by.setdefault(r["state"], []).append(r)
+    picks = [sorted(v, key=lambda r: (-len(r["types"]), r["org"]))[0] for k, v in sorted(by.items(), key=lambda kv: (-len(kv[1]), kv[0]))][:12]
+    if not picks:
+        return ""
+    cards = "".join(f'<div class="card"><h3><a href="/listings/{r["slug"]}/">{esc(r["program"] or r["org"])}</a></h3>{esc(r["org"])}, {esc(r["city"])}, {r["state"]}<div class="animal">{esc(r["offers"])}</div></div>' for r in picks)
+    return f'''<h2>Programs open to the public</h2>
+<div class="grid3">{cards}</div>
+<p><a href="/new-programs/">New programs this month</a> &middot; <a href="/report/">National report</a> &middot; <a href="/events/">Adoption events</a></p>'''
+
+
 def build_home(rows, all_rows=None):
     all_rows = all_rows or rows
     all_by = {}
@@ -515,8 +541,10 @@ def build_home(rows, all_rows=None):
 </div>
 <section id="find">
 {filters(True, STATES.keys())}
-{table(rows)}
+{table(rows, lazy_src="/assets/home-programs.json")}
+<p class="animal">Type a city, shelter or program, or pick a state or filter, to see matching programs. Or browse by state below.</p>
 </section>
+{home_highlights(rows)}
 <h2>Browse by state</h2>
 <div class="states">{state_links}</div>
 <p class="animal" style="margin-top:8px">{len(all_rows):,} shelters listed nationwide, including {len(rows):,} with day-out or cat programs in {n_states} states and Washington, DC. We search every state each month and add new programs as shelters launch them. <a href="/suggest/">Know a shelter we're missing?</a></p>

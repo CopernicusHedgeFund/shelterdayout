@@ -91,9 +91,12 @@ window.sdoNear=function(t,s,cands,done){
 </script><script>
 (function(){
  var q=document.getElementById('q'),st=document.getElementById('f-state'),an=document.getElementById('f-animal'),ty=document.getElementById('f-type'),pub=document.getElementById('f-public'),cnt=document.getElementById('count');
- var rows=[].slice.call(document.querySelectorAll('#results tbody tr'));
+ var tb=document.querySelector('#results tbody'),lazy=!!(tb&&tb.dataset.src),loaded=!lazy,tbl=document.getElementById('results');
+ var rows=lazy?[]:[].slice.call(document.querySelectorAll('#results tbody tr'));
+ function load(){if(loaded||load.busy)return;load.busy=1;fetch(tb.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){tb.innerHTML=h;rows=[].slice.call(tb.querySelectorAll('tr'));loaded=true;run();}).catch(function(){load.busy=0;});}
  function run(){
   var t=(q&&q.value||'').trim().toLowerCase(),s=st?st.value:'',a=an.value,y=ty.value,p=pub.checked,n=0;
+  if(lazy){var any=t||s||a||y||p;if(!any){if(tbl)tbl.hidden=true;cnt.textContent='';if(box){box.hidden=true;box.innerHTML='';}return;}if(!loaded){cnt.textContent='Searching…';load();return;}if(tbl)tbl.hidden=false;}
   rows.forEach(function(r){
    var ok=true;
    if(t&&r.dataset.q.indexOf(t)<0)ok=false;

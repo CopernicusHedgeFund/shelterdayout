@@ -166,7 +166,10 @@ SEARCH_JS = """<script>
 (function(){
  var q=document.getElementById('q'),st=document.getElementById('f-state'),cnt=document.getElementById('count'),f=document.getElementById('sform'),res=document.getElementById('res');
  var items=[];
+ var lazy=!!(res&&res.dataset.src),loaded=!lazy;
+ function load(){if(loaded||load.busy)return;load.busy=1;fetch(res.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){res.innerHTML=h;items=[].slice.call(document.querySelectorAll('#res li[data-q]'));loaded=true;run();}).catch(function(){load.busy=0;res.innerHTML='<li>Could not load the list. <a href="#states">Browse shelters by state</a>.</li>';});}
  function run(){var t=(q.value||'').trim().toLowerCase(),s=st?st.value:'',n=0;
+  if(lazy){if(!t&&!s){items.forEach(function(li){li.classList.add('hide');});cnt.textContent='';if(box){box.hidden=true;box.innerHTML='';}return;}if(!loaded){cnt.textContent='Searching\u2026';load();return;}}
   items.forEach(function(li){var ok=(!t||li.dataset.q.indexOf(t)>=0)&&(!s||li.dataset.state===s);li.classList.toggle('hide',!ok);if(ok)n++;});
   cnt.textContent=n.toLocaleString()+(n===1?' shelter':' shelters');near(n,t,s);}
  var box=document.getElementById('nores'),SN=window.SDO_STATES||{};
@@ -180,8 +183,8 @@ SEARCH_JS = """<script>
  q.addEventListener('input',run);if(st)st.addEventListener('change',run);
  f.addEventListener('submit',function(e){e.preventDefault();run();q.blur();res.scrollIntoView({behavior:'smooth',block:'start'});});
  var u=new URLSearchParams(location.search);if(u.get('q'))q.value=u.get('q');if(u.get('state')&&st)st.value=u.get('state').toUpperCase();
- function go(){items=[].slice.call(document.querySelectorAll('#res li[data-q]'));run();}
- if(res&&res.dataset.src){fetch(res.dataset.src).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(h){res.innerHTML=h;go();}).catch(function(){res.innerHTML='<li>Could not load the list. <a href="#states">Browse shelters by state</a>.</li>';});}else go();
+ if(!lazy)items=[].slice.call(document.querySelectorAll('#res li[data-q]'));
+ run();
 })();
 </script>"""
 
@@ -246,6 +249,7 @@ def build_home(rows):
 <h2>Find a shelter</h2>
 {search_form(STATES.keys())}
 <ul class="slist" id="res" data-src="/assets/home-list.json?v={hashlib.md5(lst.encode()).hexdigest()[:10]}"><li>Loading shelters&hellip;</li></ul>
+<p class="animal">Type a city, county or shelter name, or pick a state, to see matching shelters. Or browse by state below.</p>
 <noscript><p><a href="#states">Browse every shelter by state</a></p></noscript>
 </section>
 {f'<h2>Upcoming adoption events</h2><ul class="evlist">{ev_prev}</ul><p><a href="/events/">See all {len(evs):,} adoption events</a></p>' if evs else ""}
