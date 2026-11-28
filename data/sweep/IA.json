@@ -342,17 +342,21 @@
   "state": "IA",
   "city": "Iowa City",
   "org": "Iowa City Animal Care and Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://icanimalcenter.org/",
-  "notes": "",
+  "program": "Read to the Paw",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Reading to cats",
+  "url": "https://icanimalcenter.org/200/Volunteer",
+  "notes": "Kids under 13 practice reading aloud to the shelter cats; arrange through the front desk.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "icanimalcenter@iowa-city.org",
   "source_list": "shelter website",
-  "phone": "(319) 356-5295"
+  "phone": "(319) 356-5295",
+  "events_url": "https://icanimalcenter.org/calendar.aspx",
+  "programs_url": "https://icanimalcenter.org/200/Volunteer",
+  "contact_url": "https://icanimalcenter.org/232/Contact-Us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -368,7 +372,11 @@
   "email_program": "",
   "email_main": "adoptions@hssc.us",
   "source_list": "shelter website",
-  "phone": "(563) 388-6655"
+  "phone": "(563) 388-6655",
+  "events_url": "https://hssc.us/events",
+  "programs_url": "https://hssc.us/volunteer",
+  "contact_url": "https://hssc.us/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -405,7 +413,11 @@
     "url": "https://www.siouxlandhumanesociety.org/event/holiday-open-house-bake-sale-17/",
     "place": "Siouxland Humane Society, 1015 Tri-View Avenue, Sioux City, IA"
    }
-  ]
+  ],
+  "events_url": "https://www.siouxlandhumanesociety.org/events/",
+  "programs_url": "https://www.siouxlandhumanesociety.org/be-involved/volunteer-2/",
+  "contact_url": "https://www.siouxlandhumanesociety.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -421,7 +433,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(319) 232-6887"
+  "phone": "(319) 232-6887",
+  "events_url": "https://www.cedarbendhumane.org/events",
+  "programs_url": "https://www.cedarbendhumane.org/get-involved/becomeavolunteer",
+  "contact_url": "https://www.cedarbendhumane.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -436,24 +452,30 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "adopt@bettertogetherrescue.org",
+  "source_list": "shelter website",
+  "contact_url": "https://www.bettertogetherrescue.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
   "city": "Boone",
   "org": "Boone Area Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Gimme a Break",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://bahs.us/",
-  "phone": "",
-  "notes": "",
+  "offers": "Weekend foster",
+  "url": "https://bahs.us/foster/",
+  "phone": "(515) 432-6112",
+  "notes": "Approved foster volunteers (18+, application and home check) can take an adult dog home for the weekend as a break from the shelter.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_program": "adopt.bahs@gmail.com",
+  "email_main": "adopt.bahs@gmail.com",
+  "source_list": "shelter website",
+  "events_url": "https://bahs.us/events/",
+  "programs_url": "https://bahs.us/foster/",
+  "contact_url": "https://bahs.us/about-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -468,8 +490,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "waverlypetrescue@mchsi.com",
+  "source_list": "shelter website",
+  "events_url": "https://www.waverlypetrescue.com/events-and-fundraisers",
+  "contact_url": "https://www.waverlypetrescue.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -485,7 +510,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hsnei.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.hsnei.org/events",
+  "programs_url": "https://www.hsnei.org/volunteer",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -496,12 +524,16 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.ottercreekanimalshelter.org/",
-  "phone": "",
+  "phone": "(319) 636-2061",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@ottercreekanimalshelter.org",
+  "source_list": "shelter website",
+  "events_url": "https://www.ottercreekanimalshelter.org/get-involved/news-events/",
+  "programs_url": "https://www.ottercreekanimalshelter.org/get-involved/volunteer/",
+  "contact_url": "https://www.ottercreekanimalshelter.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -516,8 +548,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "caringpawsstormlake@gmail.com",
+  "source_list": "shelter website",
+  "programs_url": "https://www.caringpawsstormlake.com/volunteer",
+  "contact_url": "https://www.caringpawsstormlake.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -528,12 +563,16 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.animalrescueofcarroll.org/",
-  "phone": "",
+  "phone": "(712) 790-9116",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.animalrescueofcarroll.org/events",
+  "programs_url": "https://www.animalrescueofcarroll.org/volunteer",
+  "contact_url": "https://www.animalrescueofcarroll.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -544,12 +583,16 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.friendsoftheanimalsshelter.com/",
-  "phone": "",
+  "phone": "(563) 886-2361",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "friendsoftheanimals52772@gmail.com",
+  "source_list": "shelter website",
+  "events_url": "https://www.friendsoftheanimalsshelter.com/events",
+  "programs_url": "https://www.friendsoftheanimalsshelter.com/volunteer",
+  "contact_url": "https://www.friendsoftheanimalsshelter.com/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",

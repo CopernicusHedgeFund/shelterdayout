@@ -68,6 +68,7 @@ https://shelterdayout.com/cities/birdsboro-pa/
 https://shelterdayout.com/cities/blackwood-nj/
 https://shelterdayout.com/cities/bloomington-in/
 https://shelterdayout.com/cities/blue-ridge-ga/
+https://shelterdayout.com/cities/boone-ia/
 https://shelterdayout.com/cities/boone-nc/
 https://shelterdayout.com/cities/bossier-city-la/
 https://shelterdayout.com/cities/bountiful-ut/
@@ -266,6 +267,7 @@ https://shelterdayout.com/cities/incline-village-nv/
 https://shelterdayout.com/cities/
 https://shelterdayout.com/cities/indianapolis-in/
 https://shelterdayout.com/cities/inverness-fl/
+https://shelterdayout.com/cities/iowa-city-ia/
 https://shelterdayout.com/cities/ironwood-mi/
 https://shelterdayout.com/cities/irving-tx/
 https://shelterdayout.com/cities/ithaca-ny/
