@@ -8,14 +8,34 @@
   "animals": "Dogs",
   "offers": "Day trip, overnight",
   "url": "https://www.anewleash.org/",
-  "notes": "A 2023 local news story says the group encourages dog walks, daytime adventures and sleepovers to give dogs a break from the adoption center. Ask the center how to sign up.",
+  "notes": "A 2023 local news story says the group encourages dog walks, daytime adventures and sleepovers to give dogs a break. Its own site (checked Nov 2026) lists dog walking and enrichment volunteer roles but no day-out sign-up page; ask the center.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "pets@anewleash.org",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/13706552415",
-  "source": "https://themadisonrecord.com/2023/06/19/animals-get-a-new-leash-for-living-from-this-organization"
+  "source": "https://themadisonrecord.com/2023/06/19/animals-get-a-new-leash-for-living-from-this-organization",
+  "events_url": "https://anewleash.org/adopt",
+  "programs_url": "https://anewleash.org/volunteer",
+  "contact_url": "https://anewleash.org/contact-us",
+  "events": [
+   {
+    "date": "2026-11-28",
+    "end": "2026-12-31",
+    "title": "50% off dog and puppy adoption fees (some exclusions)",
+    "url": "https://anewleash.org/adopt",
+    "place": "A New Leash on Life adoption locations"
+   },
+   {
+    "date": "2026-11-28",
+    "end": "2026-12-31",
+    "title": "Home for the Howlidays: adopt one kitten, get the second 50% off",
+    "url": "https://anewleash.org/adopt",
+    "place": "A New Leash on Life adoption locations"
+   }
+  ],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -44,14 +64,19 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.huntsvilleal.gov/walking-the-walk-volunteering-for-huntsville-animal-services/",
-  "notes": "City story (Jan 2026) describes shelter volunteers taking dogs on Doggy Day Out adventures, e.g. to Dog Splash or the Botanical Garden. Shelter is at 4950 Triana Blvd SW; call 256-883-3782 to ask how to join.",
+  "notes": "City story (Jan 2026) describes shelter volunteers taking dogs on Doggy Day Out adventures, e.g. to Dog Splash or the Botanical Garden. In Nov 2026 the shelter also ran public Paws in the Park walks where families could walk a shelter dog (an adult 19+ per group). Shelter is at 4950 Triana Blvd SW; call 256-883-3782 to ask how to join.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Animals@HuntsvilleAL.gov",
   "phone": "(256) 883-3782",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/478940823",
-  "source": "https://www.huntsvilleal.gov/government/departments/animal-services-department"
+  "source": "https://www.huntsvilleal.gov/government/departments/animal-services-department",
+  "events_url": "https://www.huntsvilleal.gov/environment/animal-services/",
+  "programs_url": "https://www.huntsvilleal.gov/environment/animal-services/volunteer-and-community-support/",
+  "events": [],
+  "checked_on": "2026-11-28",
+  "contact_url": "https://www.huntsvilleal.gov/environment/animal-services/"
  },
  {
   "state": "AL",
@@ -65,11 +90,14 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "hwy72dogpound@gmail.com",
+  "phone": "(256) 223-7181",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1010732045",
-  "source": "https://adoptapet.com/shelter/85761"
+  "source": "https://adoptapet.com/shelter/85761",
+  "programs_url": "https://www.alanimalservices.com/support-us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -85,7 +113,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(256) 760-6676"
+  "phone": "(256) 760-6676",
+  "programs_url": "https://florenceal.org/public-safety/animal-control/volunteer/",
+  "contact_url": "https://florenceal.org/public-safety/animal-control/shelter-location-hours/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -96,30 +128,38 @@
   "animals": "Cats",
   "offers": "Cat lounge visit",
   "url": "https://cityoftuscumbia.org/animal-control/",
-  "notes": "A news feature says a Cat Cafe next to the shelter lets visitors sit and play with adoptable cats. Contact the shelter at 5010 Missouri St to confirm hours.",
+  "notes": "A news feature says a Cat Cafe next to the shelter lets visitors sit and play with adoptable cats. The city's animal control page (checked Nov 2026) does not mention it; contact the shelter at 5010 Missouri St to confirm hours.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "directory + news",
   "source": "https://www.adoptapet.com/shelter/73437",
-  "phone": "(256) 381-4073"
+  "phone": "(256) 381-4073",
+  "contact_url": "https://cityoftuscumbia.org/animal-control/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
   "city": "Huntsville",
   "org": "Greater Huntsville Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Paws for Reading",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.ghhs.org/",
-  "notes": "",
+  "offers": "Reading to shelter dogs and cats",
+  "url": "https://ghhs.org/paws-for-reading/",
+  "notes": "Readers of all ages (children 6 and up) sign up online to read books to the shelter's dogs and cats.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@ghhs.org",
   "source_list": "shelter website",
   "source": "https://hvilleblast.com/find-your-new-4-legged-family-member-shelters",
-  "phone": "(256) 881-8081"
+  "phone": "(256) 881-8081",
+  "events_url": "https://ghhs.org/events",
+  "programs_url": "https://ghhs.org/paws-for-reading/",
+  "contact_url": "https://ghhs.org/hours-contact-2/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -130,13 +170,16 @@
   "animals": "Cats",
   "offers": "Cat lounge visit",
   "url": "https://cattyshackhuntsville.org/",
-  "notes": "Nonprofit cat lounge for rescue cats; visits are by appointment and you don't have to adopt to spend time with the cats.",
+  "notes": "Cat lounge at Lowe Mill (Studio 1062): reserve an hour with the lounge cats for a $14 donation per person, or a private session for $50. Adoptable cats are in the lounge Friday and Saturday.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "government page",
   "source": "https://www.adoptapet.com/shelter/183760",
-  "phone": "(334) 242-4169"
+  "phone": "(334) 242-4169",
+  "programs_url": "https://cattyshackhuntsville.org/reservations/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -152,7 +195,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(256) 233-6494"
+  "phone": "(256) 233-6494",
+  "contact_url": "https://www.limestonecounty-al.gov/Departments/Animal-Care-Control",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -168,7 +214,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(256) 341-4790"
+  "phone": "(256) 341-4790",
+  "programs_url": "https://www.decatur-al.gov/government/departments/animal_services/index.php",
+  "contact_url": "https://www.decatur-al.gov/government/departments/animal_services/index.php",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -184,7 +234,10 @@
   "email_program": "",
   "email_main": "mccanimal@morgancounty-al.gov",
   "source_list": "shelter website",
-  "phone": "(256) 773-2934"
+  "phone": "(256) 773-2934",
+  "contact_url": "https://morgancounty-al.gov/departments-services/animal-control/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -198,10 +251,15 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "mchsal35640@gmail.com",
   "source_list": "news",
   "source": "https://hartselleenquirer.com/?p=179886",
-  "phone": ""
+  "phone": "(256) 773-7222",
+  "events_url": "https://www.morgancountyhumanesociety.com/event-list",
+  "programs_url": "https://www.morgancountyhumanesociety.com/volunteer",
+  "contact_url": "https://www.morgancountyhumanesociety.com/contact-us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -234,7 +292,10 @@
   "email_program": "",
   "email_main": "animalcontrol@marshallal.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(256) 582-4744",
+  "contact_url": "https://www.marshallal.gov/departments/animalcontrol/animalcontrol.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -251,7 +312,11 @@
   "email_main": "",
   "source_list": "directory",
   "source": "https://www.nokillnetwork.org/d/Alabama/Second-Chance-Shelter-(Boaz)~2066/",
-  "phone": ""
+  "phone": "(256) 561-2411",
+  "programs_url": "https://secondchanceshelter.net/volunteeringdonations.html",
+  "contact_url": "https://secondchanceshelter.net/contactus.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
