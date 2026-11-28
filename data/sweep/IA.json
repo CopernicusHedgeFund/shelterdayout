@@ -603,28 +603,35 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://peopleforpets.org/",
-  "phone": "",
+  "phone": "(712) 580-2738",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "peopleforpets.director@gmail.com",
+  "source_list": "shelter website",
+  "events_url": "https://peopleforpets.org/events/",
+  "programs_url": "https://peopleforpets.org/get-involved/volunteer/",
+  "contact_url": "https://peopleforpets.org/about-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
   "city": "Clinton",
   "org": "Clinton Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://clintoniowahumanesociety.org/",
-  "phone": "",
-  "notes": "",
+  "program": "Dog Walking",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "On-site dog walks",
+  "url": "https://clintoniowahumanesociety.org/dog-walking/",
+  "phone": "(563) 242-2457",
+  "notes": "Walkers stop in during shelter hours or call ahead to reserve a walking buddy and walk adoptable dogs on the grounds or in gated play areas; the site doesn't say whether a volunteer application is required first.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "clintonhumanesociety@gmail.com",
+  "source_list": "shelter website",
+  "events_url": "https://clintoniowahumanesociety.org/events/",
+  "programs_url": "https://clintoniowahumanesociety.org/dog-walking/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -635,12 +642,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://denisoncitypound.org/",
-  "phone": "",
+  "phone": "(712) 263-8393",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://denisoncitypound.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -651,12 +660,16 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.raccoonriverpetrescue.com/",
-  "phone": "",
+  "phone": "(515) 465-1800",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@raccoonriverpetrescue.com",
+  "source_list": "shelter website",
+  "events_url": "https://www.raccoonriverpetrescue.com/events/",
+  "programs_url": "https://www.raccoonriverpetrescue.com/foster/",
+  "contact_url": "https://www.raccoonriverpetrescue.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -672,7 +685,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://desmoinescountyhumanesociety.org/dmchs-upcoming-events/",
+  "programs_url": "https://desmoinescountyhumanesociety.org/pawsitive-adventures-program/",
+  "contact_url": "https://desmoinescountyhumanesociety.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -688,7 +705,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hsnwia.info@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.humanesocietyofnwia.com/volunteer",
+  "contact_url": "https://www.humanesocietyofnwia.com/about",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -704,7 +724,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "emmetcountyanimalshelter@live.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://emmetcountyanimalshelter.org/news-events/",
+  "programs_url": "https://emmetcountyanimalshelter.org/volunteer/",
+  "contact_url": "https://emmetcountyanimalshelter.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -720,7 +744,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://pawscharlescity.com/calendar/",
+  "programs_url": "https://pawscharlescity.com/support-the-shelter/volunteering/",
+  "contact_url": "https://pawscharlescity.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -736,23 +764,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "hello@hamcocats.org",
-  "source_list": "shelter website"
- },
- {
-  "state": "IA",
-  "city": "Panora",
-  "org": "Panora P.E.T.S.",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.panorapets.com/",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://hamcocats.org/events",
+  "programs_url": "https://hamcocats.org/foster",
+  "contact_url": "https://hamcocats.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -763,12 +779,16 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://agcshelter.org/",
-  "phone": "",
+  "phone": "(319) 280-7035",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@agcshelter.org",
+  "source_list": "shelter website",
+  "events_url": "https://agcshelter.org/news",
+  "programs_url": "https://agcshelter.org/get-involved",
+  "contact_url": "https://agcshelter.org/community-support",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -779,13 +799,16 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.wesavepets.com/",
-  "phone": "",
+  "phone": "(319) 622-7387",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptions@wesavepets.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://www.wesavepets.com/info/events",
+  "contact_url": "https://www.wesavepets.com/info/contact.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",

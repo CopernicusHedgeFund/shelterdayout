@@ -120,6 +120,7 @@ https://shelterdayout.com/cities/clarksville-tn/
 https://shelterdayout.com/cities/clear-lake-ia/
 https://shelterdayout.com/cities/clearwater-fl/
 https://shelterdayout.com/cities/cleveland-oh/
+https://shelterdayout.com/cities/clinton-ia/
 https://shelterdayout.com/cities/cody-wy/
 https://shelterdayout.com/cities/collingswood-nj/
 https://shelterdayout.com/cities/columbia-city-in/
@@ -3534,7 +3535,6 @@ https://shelterdayout.com/listings/pals-no-kill-cat-shelter-protectors-of-animal
 https://shelterdayout.com/listings/pampa-animal-services-pampa/
 https://shelterdayout.com/listings/panhandle-animal-welfare-society-paws-fort-walton-beach/
 https://shelterdayout.com/listings/panhandle-humane-society-terrytown/
-https://shelterdayout.com/listings/panora-p-e-t-s-panora/
 https://shelterdayout.com/listings/paradise-animal-rescue-lapeer/
 https://shelterdayout.com/listings/paradise-animal-shelter-town-of-paradise-paradise/
 https://shelterdayout.com/listings/paragould-animal-shelter-city-dog-pound-paragould/
