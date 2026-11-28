@@ -476,7 +476,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(309) 342-1275"
+  "phone": "(309) 342-1275",
+  "programs_url": "https://knoxcountyhumanesociety.org/get-involved/",
+  "contact_url": "https://knoxcountyhumanesociety.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -570,7 +573,8 @@
   "phone": "(708) 301-1594",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/1198855818",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -625,7 +629,8 @@
   "email_main": "info@evanstonanimalshelter.net",
   "source_list": "shelter website",
   "phone": "(847) 866-5082",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -716,7 +721,11 @@
   "email_main": "geneseosheltermanager2014@gmail.com",
   "source_list": "shelter website",
   "phone": "(309) 944-4868",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.henrycountyhumanesociety.org/volunteer.html",
+  "events_url": "https://www.henrycountyhumanesociety.org/news.html",
+  "contact_url": "https://www.henrycountyhumanesociety.org/contact.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -977,7 +986,9 @@
   "email_program": "",
   "email_main": "director@danvillehumane.org",
   "source_list": "shelter website",
-  "phone": "(217) 446-4110"
+  "phone": "(217) 446-4110",
+  "events_url": "https://www.second-chance-adoptions.com/blank-3",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1053,7 +1064,17 @@
   "email_main": "info@helpingpaws.net",
   "source_list": "shelter website",
   "phone": "(815) 338-4400",
-  "events": []
+  "events": [
+   {
+    "date": "2026-12-12",
+    "title": "Finding JOY art show: meet adoptable Helping Paws dogs, 5-7pm",
+    "url": "https://www.helpingpaws.net/events/joy",
+    "place": "The Starline Factory, Harvard, IL"
+   }
+  ],
+  "checked_on": "2026-11-28",
+  "events_url": "https://www.helpingpaws.net/events",
+  "contact_url": "https://www.helpingpaws.net/contact-us"
  },
  {
   "state": "IL",
@@ -1303,7 +1324,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(815) 464-7298"
+  "phone": "(815) 464-7298",
+  "programs_url": "https://pawstinleypark.org/volunteer/",
+  "events_url": "https://pawstinleypark.org/event/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1335,7 +1359,17 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(847) 705-2653"
+  "phone": "(847) 705-2653",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "First Saturday Adoption Event, 11am-1pm",
+    "url": "https://www.carenorthshore.org/events/first-saturday-dogs-4m4ef-llaxc",
+    "place": "Pet People by Hollywood Feed, 2672 Green Bay Rd, Evanston, IL"
+   }
+  ],
+  "checked_on": "2026-11-28",
+  "events_url": "https://www.carenorthshore.org/events/"
  },
  {
   "state": "IL",
@@ -1561,7 +1595,9 @@
   "email_main": "wcas@wcas.wincoil.gov",
   "source_list": "shelter website",
   "phone": "(815) 319-4100",
-  "events": []
+  "events": [],
+  "programs_url": "https://winnebagoanimals.org/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1653,7 +1689,8 @@
   "email_main": "mlongtin@happytailshumanesociety.org",
   "source_list": "shelter website",
   "phone": "(815) 626-2994",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1733,7 +1770,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(309) 647-5077",
+  "programs_url": "https://www.humanesocietyfc.org/about/volunteer-opportunities/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1863,7 +1903,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.fiveas.org/adoption-days",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1878,7 +1920,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "apacritters@gcapa.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://gcapa.org/volunteer-2/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1908,7 +1952,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.partnersforpetsil.org/events",
+  "programs_url": "https://www.partnersforpetsil.org/help",
+  "contact_url": "https://www.partnersforpetsil.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -2021,7 +2069,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://effinghamcountyhumanesociety.org/news/",
+  "programs_url": "https://effinghamcountyhumanesociety.org/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -2080,12 +2131,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://ccilhs.org/",
-  "phone": "",
+  "phone": "(618) 526-4500",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "ccilhs@gmail.com",
+  "source_list": "shelter website",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -2229,7 +2281,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.hsmcil.org/category/events/",
+  "programs_url": "https://www.hsmcil.org/programs/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -2693,7 +2748,9 @@
   "email_program": "",
   "email_main": "info@RedDoorShelter.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.reddoorshelter.org/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
