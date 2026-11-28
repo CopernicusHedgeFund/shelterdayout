@@ -698,12 +698,31 @@
     "title": "PetSmart adoption event",
     "url": "https://www.espanolahumane.org/event/petsmart-adoption-event-62/",
     "place": "PetSmart, 3561 Zafarano Dr, Santa Fe"
+   },
+   {
+    "date": "2026-12-04",
+    "title": "Teca Tu adoption event",
+    "url": "https://www.espanolahumane.org/event/teca-tu-adoption-event-18/",
+    "place": "Teca Tu, 165 Paseo de Peralta (DeVargas Center), Santa Fe"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "PetSmart pet adoptions",
+    "url": "https://www.espanolahumane.org/event/petsmart-pet-adoptions-4/",
+    "place": "PetSmart, 3561 Zafarano Dr, Santa Fe"
+   },
+   {
+    "date": "2026-12-06",
+    "title": "PetSmart pet adoptions",
+    "url": "https://www.espanolahumane.org/event/petsmart-pet-adoptions-5/",
+    "place": "PetSmart, 3561 Zafarano Dr, Santa Fe"
    }
   ],
   "phone": "(505) 753-8662",
   "events_url": "https://www.espanolahumane.org/evalleyevents/",
   "programs_url": "https://www.espanolahumane.org/volunteering/",
-  "checked_on": "2026-11-28"
+  "checked_on": "2026-11-28",
+  "contact_url": "https://www.espanolahumane.org/"
  },
  {
   "state": "NM",
