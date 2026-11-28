@@ -944,17 +944,22 @@
   "state": "CO",
   "city": "Pagosa Springs",
   "org": "Humane Society of Pagosa Springs",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "offers": "",
-  "notes": "",
-  "animals": "Dogs and cats",
-  "url": "https://pagosahumane.org/",
+  "program": "Dog walking (drop-in after brief orientation)",
+  "status": "Open to public",
+  "offers": "Dog walking",
+  "notes": "Volunteers can sign up for regular shifts or come out anytime during shelter hours (Tue-Sun 10am-4pm) and, after a brief orientation by shelter staff, walk adoptable dogs in the marked areas; cat socializing is also offered. Under-18s need parental supervision.",
+  "animals": "Dogs",
+  "url": "https://pagosahumane.org/volunteer/",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 731-4771"
+  "phone": "(970) 731-4771",
+  "events_url": "https://pagosahumane.org/events/",
+  "programs_url": "https://pagosahumane.org/volunteer/",
+  "contact_url": "https://pagosahumane.org/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -970,7 +975,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 565-4910"
+  "phone": "(970) 565-4910",
+  "programs_url": "https://www.cortezco.gov/204/Adoption-Information",
+  "contact_url": "https://www.cortezco.gov/203/Animal-Services",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -986,23 +995,30 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(970) 675-8466",
+  "contact_url": "https://townofrangely.colorado.gov/the-town-of-rangely-animal-shelter-adoption-process",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
   "city": "Meeker",
   "org": "Meeker Animal Shelter (Town of Meeker)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "offers": "",
-  "notes": "",
-  "animals": "Dogs and cats",
+  "program": "Dog walking volunteers",
+  "status": "Open to public",
+  "offers": "Dog walking, puppy play",
+  "notes": "Volunteers walk and play with shelter dogs and puppies after signing a volunteer consent form; children under 18 must be accompanied by an adult.",
+  "animals": "Dogs",
   "url": "https://townofmeeker.org/animal-control-code-enforcement/",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 878-4968"
+  "phone": "(970) 878-4968",
+  "programs_url": "https://townofmeeker.org/animal-control-code-enforcement/",
+  "contact_url": "https://townofmeeker.org/contacts/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -1035,7 +1051,10 @@
   "email_program": "",
   "email_main": "info.lchs@gmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://loganhumane.org/volunteer/",
+  "contact_url": "https://loganhumane.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -1105,7 +1124,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://ci.lamar.co.us/volunteer-position-animal-shelter-volunteer-non-compensated",
+  "contact_url": "https://ci.lamar.co.us/lamar-animal-shelter",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -1122,7 +1144,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -1139,7 +1162,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.cityoffortmorgan.com/1015/Woofs-Whiskers-Animal-Shelter",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -1156,24 +1181,30 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.parkcountyco.gov/FormCenter/Contact-Us-4/Contact-Animal-Control-42",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
   "city": "Monte Vista",
   "org": "Conour Animal Shelter (Upper Rio Grande Animal Society)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.urgasconouranimalshelter.org/",
+  "program": "Dog walking & dog companionship volunteers",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Dog walking, sit with a dog",
+  "url": "https://www.urgasconouranimalshelter.org/volunteer",
   "phone": "(719) 852-3366",
-  "notes": "",
+  "notes": "Come by during business hours to fill out the volunteer application, liability form and waiver, then walk shelter dogs for exercise or sit with a dog for company; adults 18+ welcome Tuesday-Saturday, under-18s need an adult.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "shelter@urgasconouranimalshelter.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://www.urgasconouranimalshelter.org/general-1",
+  "programs_url": "https://www.urgasconouranimalshelter.org/volunteer",
+  "contact_url": "https://www.urgasconouranimalshelter.org/contactus",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -1206,6 +1237,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://angelswithpaws.net/events/",
+  "programs_url": "https://angelswithpaws.net/volunteering/",
+  "contact_url": "https://angelswithpaws.net/contacts/",
+  "checked_on": "2026-11-28"
  }
 ]

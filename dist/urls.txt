@@ -366,6 +366,7 @@ https://shelterdayout.com/cities/mckean-pa/
 https://shelterdayout.com/cities/mckinney-tx/
 https://shelterdayout.com/cities/mebane-nc/
 https://shelterdayout.com/cities/media-pa/
+https://shelterdayout.com/cities/meeker-co/
 https://shelterdayout.com/cities/memphis-tn/
 https://shelterdayout.com/cities/merriam-ks/
 https://shelterdayout.com/cities/merrimack-nh/
@@ -386,6 +387,7 @@ https://shelterdayout.com/cities/modesto-ca/
 https://shelterdayout.com/cities/moncks-corner-sc/
 https://shelterdayout.com/cities/monroe-mi/
 https://shelterdayout.com/cities/montclair-nj/
+https://shelterdayout.com/cities/monte-vista-co/
 https://shelterdayout.com/cities/montgomery-al/
 https://shelterdayout.com/cities/monticello-ia/
 https://shelterdayout.com/cities/montour-falls-ny/
@@ -437,6 +439,7 @@ https://shelterdayout.com/cities/osseo-mi/
 https://shelterdayout.com/cities/owensboro-ky/
 https://shelterdayout.com/cities/oxnard-ca/
 https://shelterdayout.com/cities/paducah-ky/
+https://shelterdayout.com/cities/pagosa-springs-co/
 https://shelterdayout.com/cities/pahrump-nv/
 https://shelterdayout.com/cities/palm-harbor-fl/
 https://shelterdayout.com/cities/palm-springs-ca/
