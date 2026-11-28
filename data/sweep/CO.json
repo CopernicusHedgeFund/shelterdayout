@@ -664,7 +664,11 @@
   "email_main": "info@jhacc.org",
   "phone": "(970) 625-8808",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/589162666"
+  "osm": "way/589162666",
+  "events_url": "https://jhacc.org/events/",
+  "programs_url": "https://jhacc.org/get-involved/volunteer/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -681,7 +685,18 @@
   "email_main": "",
   "phone": "(970) 947-9173",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/594334525"
+  "osm": "way/594334525",
+  "events_url": "https://www.coloradoanimalrescue.org/event-directory-2/",
+  "programs_url": "https://www.coloradoanimalrescue.org/volunteer-opportunities/",
+  "checked_on": "2026-11-28",
+  "events": [
+   {
+    "date": "2026-12-19",
+    "title": "Santa Paws: Santa photos and meet adoptable C.A.R.E. dogs",
+    "url": "https://www.coloradoanimalrescue.org/events/santa-paws/",
+    "place": "Barks Gourmet Dog Deli, 10 Park Ave #300, Basalt"
+   }
+  ]
  },
  {
   "state": "CO",
@@ -691,13 +706,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.eaglecounty.us/animalservices/animalshelter",
+  "url": "https://www.eaglecounty.us/departments___services/animal_services/animal_shelter.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "animalshelterstaff@eaglecounty.us",
+  "email_main": "animalservices@eaglecounty.us",
   "source_list": "shelter website",
-  "phone": "(970) 328-3647"
+  "phone": "(970) 328-3647",
+  "programs_url": "https://www.eaglecounty.us/departments___services/animal_services/animal_shelter.php",
+  "contact_url": "https://www.eaglecounty.us/departments___services/animal_services/index.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -712,7 +731,12 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@lpchumanesociety.org",
-  "phone": "(970) 259-2847"
+  "phone": "(970) 259-2847",
+  "events_url": "https://www.lpchumanesociety.org/events",
+  "programs_url": "https://www.lpchumanesociety.org/foster",
+  "contact_url": "https://www.lpchumanesociety.org/contact-us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -728,7 +752,12 @@
   "email_program": "",
   "email_main": "ac.dispatch@mesacounty.us",
   "source_list": "shelter website",
-  "phone": "(970) 242-4646"
+  "phone": "(970) 242-4646",
+  "events_url": "https://www.mesacounty.us/events",
+  "programs_url": "https://www.mesacounty.us/departments-and-services/animal-services/volunteering-and-fostering-animals",
+  "contact_url": "https://www.mesacounty.us/departments-and-services/animal-services/contact-information-animal-services",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -744,7 +773,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 668-3230"
+  "phone": "(970) 668-3230",
+  "events_url": "https://www.summitcountyco.gov/calendar.php",
+  "programs_url": "https://www.summitcountyco.gov/services/sheriff/divisions/animal_control_shelter/volunteer.php",
+  "contact_url": "https://www.summitcountyco.gov/services/sheriff/divisions/animal_control_shelter/index.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -760,7 +794,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 887-2988"
+  "phone": "(970) 887-2988",
+  "programs_url": "https://www.co.grand.co.us/1187/Grand-County-Pet-Pals",
+  "contact_url": "https://www.co.grand.co.us/1187/Grand-County-Pet-Pals",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -783,9 +821,19 @@
     "title": "Holiday Adopt-A-Thon 2026",
     "url": "https://routthumane.org/event/holiday-adopt-a-thon-2026/",
     "place": "760 Critter Court, Steamboat Springs"
+   },
+   {
+    "date": "2026-12-13",
+    "title": "Picture Your Pet with Santa 2026",
+    "url": "https://routthumane.org/event/picture-your-pet-with-santa-2026/",
+    "place": "Routt County Humane Society, Steamboat Springs"
    }
   ],
-  "phone": "(970) 879-7247"
+  "phone": "(970) 879-7247",
+  "events_url": "https://routthumane.org/rchs-events/",
+  "programs_url": "https://routthumane.org/programs/",
+  "contact_url": "https://routthumane.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -829,7 +877,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(970) 240-1487"
+  "phone": "(970) 240-1487",
+  "programs_url": "https://www.cityofmontrose.org/346/Volunteering",
+  "contact_url": "https://www.cityofmontrose.org/FormCenter/Department-Contact-Forms-16/Animal-Services-79",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -861,7 +913,12 @@
   "email_program": "",
   "email_main": "info@ark-valley.org",
   "source_list": "shelter website",
-  "phone": "(719) 395-2737"
+  "phone": "(719) 395-2737",
+  "events_url": "https://www.ark-valley.org/events/",
+  "programs_url": "https://www.ark-valley.org/get-involved/",
+  "contact_url": "https://www.ark-valley.org/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -877,7 +934,11 @@
   "email_program": "",
   "email_main": "shelter@leadville-co.gov",
   "source_list": "shelter website",
-  "phone": "(719) 486-8951"
+  "phone": "(719) 486-8951",
+  "programs_url": "https://www.lakecountyco.com/QuickLinks.aspx?CID=26",
+  "contact_url": "https://www.lakecountyco.com/m/directory/department?did=20",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
