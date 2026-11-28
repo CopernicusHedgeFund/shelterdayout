@@ -370,6 +370,7 @@ https://shelterdayout.com/cities/montour-falls-ny/
 https://shelterdayout.com/cities/moore-ok/
 https://shelterdayout.com/cities/mt-pleasant-mi/
 https://shelterdayout.com/cities/munster-in/
+https://shelterdayout.com/cities/murphysboro-il/
 https://shelterdayout.com/cities/murray-ky/
 https://shelterdayout.com/cities/murray-ut/
 https://shelterdayout.com/cities/myerstown-pa/
@@ -513,6 +514,7 @@ https://shelterdayout.com/cities/spokane-valley-wa/
 https://shelterdayout.com/cities/sprakers-ny/
 https://shelterdayout.com/cities/springfield-il/
 https://shelterdayout.com/cities/spruce-pine-nc/
+https://shelterdayout.com/cities/st-anne-il/
 https://shelterdayout.com/cities/st-augustine-fl/
 https://shelterdayout.com/cities/st-louis-mo/
 https://shelterdayout.com/cities/st-petersburg-fl/
@@ -2525,6 +2527,7 @@ https://shelterdayout.com/listings/humane-society-of-south-coastal-georgia-bruns
 https://shelterdayout.com/listings/humane-society-of-south-mississippi-gulfport/
 https://shelterdayout.com/listings/humane-society-of-southeast-texas-beaumont/
 https://shelterdayout.com/listings/humane-society-of-southern-arizona-tucson/
+https://shelterdayout.com/listings/humane-society-of-southern-illinois-murphysboro/
 https://shelterdayout.com/listings/humane-society-of-southern-wisconsin-janesville/
 https://shelterdayout.com/listings/humane-society-of-southwest-missouri-springfield/
 https://shelterdayout.com/listings/humane-society-of-southwestern-michigan-st-joseph/
