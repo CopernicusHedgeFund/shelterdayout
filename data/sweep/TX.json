@@ -887,7 +887,9 @@
   "phone": "(210) 619-1550",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/489429119",
-  "events": []
+  "events": [],
+  "contact_url": "https://schertz.com/270/Animal-Services",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2565,7 +2567,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(281) 403-8707"
+  "phone": "(281) 403-8707",
+  "contact_url": "https://www.missouricitytx.gov/92/Animal-Services",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
