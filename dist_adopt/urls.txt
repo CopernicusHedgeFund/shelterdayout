@@ -325,6 +325,7 @@ https://shelteradoption.com/cities/muncie-in/
 https://shelteradoption.com/cities/murphysboro-il/
 https://shelteradoption.com/cities/murray-ut/
 https://shelteradoption.com/cities/muskegon-mi/
+https://shelteradoption.com/cities/napa-ca/
 https://shelteradoption.com/cities/naperville-il/
 https://shelteradoption.com/cities/naples-fl/
 https://shelteradoption.com/cities/nashville-ga/
@@ -433,6 +434,7 @@ https://shelteradoption.com/cities/san-luis-obispo-ca/
 https://shelteradoption.com/cities/sandusky-oh/
 https://shelteradoption.com/cities/sandy-ut/
 https://shelteradoption.com/cities/sanford-fl/
+https://shelteradoption.com/cities/sanger-ca/
 https://shelteradoption.com/cities/santa-barbara-ca/
 https://shelteradoption.com/cities/santa-cruz-ca/
 https://shelteradoption.com/cities/santa-maria-ca/
@@ -1201,6 +1203,7 @@ https://shelteradoption.com/shelters/casper-humane-society-casper/
 https://shelteradoption.com/shelters/cass-county-animal-control-cassopolis/
 https://shelteradoption.com/shelters/cass-county-animal-control-virginia/
 https://shelteradoption.com/shelters/cass-county-humane-society-logansport/
+https://shelteradoption.com/shelters/cassie-s-cats-ventura/
 https://shelteradoption.com/shelters/cat-adoption-team-sherwood/
 https://shelteradoption.com/shelters/cat-angels-pet-adoptions-cary/
 https://shelteradoption.com/shelters/cat-care-society-lakewood/
@@ -2436,6 +2439,7 @@ https://shelteradoption.com/shelters/humane-society-of-skagit-valley-burlington/
 https://shelteradoption.com/shelters/humane-society-of-somerset-county-princess-anne/
 https://shelteradoption.com/shelters/humane-society-of-somerset-county-somerset/
 https://shelteradoption.com/shelters/humane-society-of-sonoma-county-healdsburg-healdsburg/
+https://shelteradoption.com/shelters/humane-society-of-sonoma-county-petaluma-shelter-formerly-petaluma-animal-services-petaluma/
 https://shelteradoption.com/shelters/humane-society-of-sonoma-county-santa-rosa-santa-rosa/
 https://shelteradoption.com/shelters/humane-society-of-south-central-michigan-battle-creek/
 https://shelteradoption.com/shelters/humane-society-of-south-coastal-georgia-brunswick/
@@ -2575,6 +2579,7 @@ https://shelteradoption.com/shelters/jacksonville-animal-shelter-jacksonville-2/
 https://shelteradoption.com/shelters/jacksonville-humane-society-jacksonville/
 https://shelteradoption.com/shelters/james-a-brennan-memorial-humane-society-gloversville/
 https://shelteradoption.com/shelters/james-river-humane-society-jamestown/
+https://shelteradoption.com/shelters/jameson-humane-ella-s-cathouse-and-adoption-center-napa/
 https://shelteradoption.com/shelters/jasper-county-animal-control-monticello/
 https://shelteradoption.com/shelters/jasper-county-animal-control-newton/
 https://shelteradoption.com/shelters/jasper-county-animal-services-ridgeland/
@@ -3553,7 +3558,6 @@ https://shelteradoption.com/shelters/pet-refuge-north-kingstown-exeter-animal-pr
 https://shelteradoption.com/shelters/pet-refuge-south-bend/
 https://shelteradoption.com/shelters/pet-rescue-by-judy-sanford/
 https://shelteradoption.com/shelters/pet-tails-rescue-northwood/
-https://shelteradoption.com/shelters/petaluma-animal-services-petaluma/
 https://shelteradoption.com/shelters/petersburg-animal-care-and-control-petersburg/
 https://shelteradoption.com/shelters/petersburg-humane-association-petersburg/
 https://shelteradoption.com/shelters/pets-alive-middletown/
@@ -3876,6 +3880,7 @@ https://shelteradoption.com/shelters/sandoval-county-animal-services-bernalillo/
 https://shelteradoption.com/shelters/sandusky-county-dog-kennel-fremont/
 https://shelteradoption.com/shelters/sandy-city-animal-services-sandy/
 https://shelteradoption.com/shelters/sangamon-county-animal-control-and-adoption-center-springfield/
+https://shelteradoption.com/shelters/sanger-animal-shelter-city-of-sanger-animal-control-sanger/
 https://shelteradoption.com/shelters/sanilac-county-animal-shelter-sandusky/
 https://shelteradoption.com/shelters/sanilac-county-humane-society-carsonville/
 https://shelteradoption.com/shelters/sanilac-whisker-sanctuary-croswell/
@@ -4017,6 +4022,7 @@ https://shelteradoption.com/shelters/smith-county-humane-carthage/
 https://shelteradoption.com/shelters/smoky-mountain-humane-society-newport/
 https://shelteradoption.com/shelters/smyth-county-animal-shelter-marion/
 https://shelteradoption.com/shelters/snake-river-animal-shelter-idaho-falls/
+https://shelteradoption.com/shelters/snap-cats-santa-rosa/
 https://shelteradoption.com/shelters/snowflake-animal-shelter-snowflake/
 https://shelteradoption.com/shelters/snyder-animal-shelter-snyder/
 https://shelteradoption.com/shelters/socorro-animal-shelter-and-adoption-center-socorro/

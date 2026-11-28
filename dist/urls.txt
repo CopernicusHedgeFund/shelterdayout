@@ -544,6 +544,7 @@ https://shelterdayout.com/cities/valley-al/
 https://shelterdayout.com/cities/valley-view-oh/
 https://shelterdayout.com/cities/valparaiso-in/
 https://shelterdayout.com/cities/van-nuys-ca/
+https://shelterdayout.com/cities/ventura-ca/
 https://shelterdayout.com/cities/vero-beach-fl/
 https://shelterdayout.com/cities/victor-ny/
 https://shelterdayout.com/cities/victoria-tx/
@@ -1265,6 +1266,7 @@ https://shelterdayout.com/listings/casper-humane-society-casper/
 https://shelterdayout.com/listings/cass-county-animal-control-cassopolis/
 https://shelterdayout.com/listings/cass-county-animal-control-virginia/
 https://shelterdayout.com/listings/cass-county-humane-society-logansport/
+https://shelterdayout.com/listings/cassie-s-cats-ventura/
 https://shelterdayout.com/listings/cat-adoption-team-sherwood/
 https://shelterdayout.com/listings/cat-angels-pet-adoptions-cary/
 https://shelterdayout.com/listings/cat-care-society-lakewood/
@@ -2500,6 +2502,7 @@ https://shelterdayout.com/listings/humane-society-of-skagit-valley-burlington/
 https://shelterdayout.com/listings/humane-society-of-somerset-county-princess-anne/
 https://shelterdayout.com/listings/humane-society-of-somerset-county-somerset/
 https://shelterdayout.com/listings/humane-society-of-sonoma-county-healdsburg-healdsburg/
+https://shelterdayout.com/listings/humane-society-of-sonoma-county-petaluma-shelter-formerly-petaluma-animal-services-petaluma/
 https://shelterdayout.com/listings/humane-society-of-sonoma-county-santa-rosa-santa-rosa/
 https://shelterdayout.com/listings/humane-society-of-south-central-michigan-battle-creek/
 https://shelterdayout.com/listings/humane-society-of-south-coastal-georgia-brunswick/
@@ -2639,6 +2642,7 @@ https://shelterdayout.com/listings/jacksonville-animal-shelter-jacksonville-2/
 https://shelterdayout.com/listings/jacksonville-humane-society-jacksonville/
 https://shelterdayout.com/listings/james-a-brennan-memorial-humane-society-gloversville/
 https://shelterdayout.com/listings/james-river-humane-society-jamestown/
+https://shelterdayout.com/listings/jameson-humane-ella-s-cathouse-and-adoption-center-napa/
 https://shelterdayout.com/listings/jasper-county-animal-control-monticello/
 https://shelterdayout.com/listings/jasper-county-animal-control-newton/
 https://shelterdayout.com/listings/jasper-county-animal-services-ridgeland/
@@ -3617,7 +3621,6 @@ https://shelterdayout.com/listings/pet-refuge-north-kingstown-exeter-animal-prot
 https://shelterdayout.com/listings/pet-refuge-south-bend/
 https://shelterdayout.com/listings/pet-rescue-by-judy-sanford/
 https://shelterdayout.com/listings/pet-tails-rescue-northwood/
-https://shelterdayout.com/listings/petaluma-animal-services-petaluma/
 https://shelterdayout.com/listings/petersburg-animal-care-and-control-petersburg/
 https://shelterdayout.com/listings/petersburg-humane-association-petersburg/
 https://shelterdayout.com/listings/pets-alive-middletown/
@@ -3940,6 +3943,7 @@ https://shelterdayout.com/listings/sandoval-county-animal-services-bernalillo/
 https://shelterdayout.com/listings/sandusky-county-dog-kennel-fremont/
 https://shelterdayout.com/listings/sandy-city-animal-services-sandy/
 https://shelterdayout.com/listings/sangamon-county-animal-control-and-adoption-center-springfield/
+https://shelterdayout.com/listings/sanger-animal-shelter-city-of-sanger-animal-control-sanger/
 https://shelterdayout.com/listings/sanilac-county-animal-shelter-sandusky/
 https://shelterdayout.com/listings/sanilac-county-humane-society-carsonville/
 https://shelterdayout.com/listings/sanilac-whisker-sanctuary-croswell/
@@ -4081,6 +4085,7 @@ https://shelterdayout.com/listings/smith-county-humane-carthage/
 https://shelterdayout.com/listings/smoky-mountain-humane-society-newport/
 https://shelterdayout.com/listings/smyth-county-animal-shelter-marion/
 https://shelterdayout.com/listings/snake-river-animal-shelter-idaho-falls/
+https://shelterdayout.com/listings/snap-cats-santa-rosa/
 https://shelterdayout.com/listings/snowflake-animal-shelter-snowflake/
 https://shelterdayout.com/listings/snyder-animal-shelter-snyder/
 https://shelterdayout.com/listings/socorro-animal-shelter-and-adoption-center-socorro/
