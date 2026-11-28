@@ -209,6 +209,7 @@ https://shelterdayout.com/cities/fort-smith-ar/
 https://shelterdayout.com/cities/fort-walton-beach-fl/
 https://shelterdayout.com/cities/fort-wayne-in/
 https://shelterdayout.com/cities/fort-worth-tx/
+https://shelterdayout.com/cities/frankfort-ky/
 https://shelterdayout.com/cities/fredericksburg-va/
 https://shelterdayout.com/cities/fremont-ne/
 https://shelterdayout.com/cities/fruit-heights-ut/
@@ -226,6 +227,7 @@ https://shelterdayout.com/cities/green-bay-wi/
 https://shelterdayout.com/cities/green-cove-springs-fl/
 https://shelterdayout.com/cities/greenfield-in/
 https://shelterdayout.com/cities/greensboro-nc/
+https://shelterdayout.com/cities/greenville-ky/
 https://shelterdayout.com/cities/greenville-nc/
 https://shelterdayout.com/cities/greenville-sc/
 https://shelterdayout.com/cities/gulfport-ms/

@@ -438,7 +438,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://metcalfecountyanimals.org/",
+  "contact_url": "https://metcalfecountyanimals.org/#contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -470,7 +474,10 @@
   "email_main": "",
   "phone": "(859) 472-5400",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/928256394"
+  "osm": "way/928256394",
+  "contact_url": "https://pendletoncounty.ky.gov/Pages/contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -480,31 +487,41 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://fchsanimals.org/",
+  "url": "https://www.fchsanimals.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "contact.fchsky@gmail.com",
   "phone": "(502) 875-7297",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1160958579"
+  "osm": "way/1160958579",
+  "events_url": "https://www.fchsanimals.org/events.html",
+  "programs_url": "https://www.fchsanimals.org/volunteer.html",
+  "contact_url": "https://www.fchsanimals.org/contact-us.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
   "city": "Frankfort",
   "org": "L.i.F.E. House for Animals",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.lifehouse4animals.org",
-  "notes": "",
+  "program": "Check Me Out",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Afternoon outings",
+  "url": "https://www.lifehouse4animals.org/events/check-me-out-program-on-4-12/",
+  "notes": "Free 'Check Me Out' afternoons (last listed April 12, 2026, 1-4pm): fill out a liability form, get paired with an adoptable dog and take it out for a walk, pup cup or time at home; no later dates posted yet.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(502) 875-3436",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/8529299675"
+  "osm": "node/8529299675",
+  "events_url": "https://www.lifehouse4animals.org/event-directory/",
+  "programs_url": "https://www.lifehouse4animals.org/events/check-me-out-program-on-4-12/",
+  "contact_url": "https://www.lifehouse4animals.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -519,7 +536,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -535,7 +554,10 @@
   "email_program": "",
   "email_main": "menifeeshelter@gmail.com",
   "source_list": "shelter website",
-  "phone": "(606) 768-9368"
+  "phone": "(606) 768-9368",
+  "contact_url": "https://www.menifeeshelter.com/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -552,7 +574,10 @@
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/604372079"
+  "osm": "way/604372079",
+  "contact_url": "https://scottky.gov/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -584,23 +609,30 @@
   "email_program": "",
   "email_main": "greenupcountyanimalshelter@aol.com",
   "source_list": "shelter website",
-  "phone": "(606) 473-5711"
+  "phone": "(606) 473-5711",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
   "city": "Greenville",
   "org": "Muhlenberg County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.muhlpets.com",
-  "notes": "",
+  "program": "Doggie Day Out",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.muhlpets.com/volunteer",
+  "notes": "Volunteer page says the shelter offers a doggie day out program; contact the shelter for details (dog handlers must be 18+).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "mchspets85@gmail.com",
   "source_list": "shelter website",
-  "phone": "(270) 338-6940"
+  "phone": "(270) 338-6940",
+  "events_url": "https://www.muhlpets.com/events",
+  "programs_url": "https://www.muhlpets.com/volunteer",
+  "contact_url": "https://www.muhlpets.com/restaurant-1",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -611,12 +643,16 @@
   "animals": "Dogs",
   "offers": "Day trip (a few hours)",
   "url": "https://breckcountyanimalshelter.org/foster/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Bring your ID to the shelter and ask to take a dog on a field trip for a few hours; dogs go out weekdays 12-3:30pm and must be back by 4pm for dinner.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@breckcountyanimalshelter.org",
   "source_list": "shelter website",
-  "phone": "(270) 580-4299"
+  "phone": "(270) 580-4299",
+  "programs_url": "https://breckcountyanimalshelter.org/foster/",
+  "contact_url": "https://breckcountyanimalshelter.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
