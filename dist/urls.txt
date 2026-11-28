@@ -210,6 +210,7 @@ https://shelterdayout.com/cities/flushing-ny/
 https://shelterdayout.com/cities/forney-tx/
 https://shelterdayout.com/cities/fort-bragg-ca/
 https://shelterdayout.com/cities/fort-lauderdale-fl/
+https://shelterdayout.com/cities/fort-madison-ia/
 https://shelterdayout.com/cities/fort-smith-ar/
 https://shelterdayout.com/cities/fort-walton-beach-fl/
 https://shelterdayout.com/cities/fort-wayne-in/
@@ -382,6 +383,7 @@ https://shelterdayout.com/cities/moncks-corner-sc/
 https://shelterdayout.com/cities/monroe-mi/
 https://shelterdayout.com/cities/montclair-nj/
 https://shelterdayout.com/cities/montgomery-al/
+https://shelterdayout.com/cities/monticello-ia/
 https://shelterdayout.com/cities/montour-falls-ny/
 https://shelterdayout.com/cities/moore-ok/
 https://shelterdayout.com/cities/mt-pleasant-mi/
@@ -393,6 +395,7 @@ https://shelterdayout.com/cities/myerstown-pa/
 https://shelterdayout.com/cities/nacogdoches-tx/
 https://shelterdayout.com/cities/naples-fl/
 https://shelterdayout.com/cities/nashville-tn/
+https://shelterdayout.com/cities/nevada-ia/
 https://shelterdayout.com/cities/new-castle-de/
 https://shelterdayout.com/cities/new-orleans-la/
 https://shelterdayout.com/cities/new-york-ny/
@@ -1499,7 +1502,6 @@ https://shelterdayout.com/listings/city-of-mesquite-animal-shelter-mesquite/
 https://shelterdayout.com/listings/city-of-mission-animal-shelter-mission/
 https://shelterdayout.com/listings/city-of-mobile-animal-services-mobile/
 https://shelterdayout.com/listings/city-of-montrose-animal-services-montrose/
-https://shelterdayout.com/listings/city-of-muscatine-animal-control-muscatine/
 https://shelterdayout.com/listings/city-of-nashville-animal-shelter-nashville/
 https://shelterdayout.com/listings/city-of-new-britain-animal-control-berlin/
 https://shelterdayout.com/listings/city-of-nome-animal-control-nome/

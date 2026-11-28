@@ -814,17 +814,29 @@
   "state": "IA",
   "city": "Monticello",
   "org": "Animal Welfare Friends",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Foster for the Day or Weekend",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://animalwelfarefriends.org/",
-  "phone": "",
-  "notes": "",
+  "offers": "Day trip, weekend",
+  "url": "https://animalwelfarefriends.org/foster/",
+  "phone": "(319) 975-8283",
+  "notes": "After a foster application, you can foster a shelter dog or cat for the day, over the weekend, or until it's adopted; AWF covers vet care, food and supplies.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "shelter@animalwelfarefriends.org",
+  "source_list": "shelter website",
+  "events_url": "https://animalwelfarefriends.org/events/",
+  "programs_url": "https://animalwelfarefriends.org/foster/",
+  "contact_url": "https://animalwelfarefriends.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Holiday on 1st: Puppy Meet & Greet",
+    "url": "https://animalwelfarefriends.org/event/holiday-on-1st-puppy-meet-greet/",
+    "place": "1st Street, downtown Monticello"
+   }
+  ]
  },
  {
   "state": "IA",
@@ -835,12 +847,16 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.kossuthtailsofhope.com/",
-  "phone": "",
+  "phone": "(515) 890-3026",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "kossuthtailsofhope@gmail.com",
+  "source_list": "shelter website",
+  "events_url": "https://www.kossuthtailsofhope.com/event-calendar",
+  "programs_url": "https://www.kossuthtailsofhope.com/applications",
+  "contact_url": "https://www.kossuthtailsofhope.com/contactus",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -848,31 +864,35 @@
   "org": "Keokuk Humane Society",
   "program": "No day-out program yet",
   "status": "No program yet",
-  "animals": "Dogs and cats",
+  "animals": "Cats",
   "offers": "",
   "url": "https://keokukhs.wixsite.com/website",
-  "phone": "",
+  "phone": "(319) 524-3816",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "keokukhs@gmail.com",
+  "source_list": "shelter website",
+  "contact_url": "https://keokukhs.wixsite.com/website",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
   "city": "Fort Madison",
   "org": "PAW Animal Shelter (Protectors of Animal Welfare)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://fortmadisonpaw.wixsite.com/paw-animal-shelter",
-  "phone": "",
-  "notes": "",
+  "program": "Come Cuddle Cats",
+  "status": "Needs check",
+  "animals": "Cats",
+  "offers": "Cat cuddling",
+  "url": "https://pawfortmadison.com/",
+  "phone": "(319) 372-2274",
+  "notes": "The shelter's former website invited anyone to call and arrange a time to come cuddle the cats; its new site couldn't be read to confirm the program is still running.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "fortmadisonpaw@yahoo.com",
+  "source_list": "shelter website",
+  "programs_url": "https://fortmadisonpaw.wixsite.com/paw-animal-shelter/get_involved",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -904,7 +924,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "smasadoptions@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.stephenmemorial.org/volunteer",
+  "contact_url": "https://www.stephenmemorial.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -915,28 +938,13 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.adoptourdogs.com/",
-  "phone": "",
+  "phone": "(712) 370-0336",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
- },
- {
-  "state": "IA",
-  "city": "Muscatine",
-  "org": "City of Muscatine Animal Control",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://muscatineiowa.gov/1585/Animal-Control",
-  "phone": "",
-  "notes": "",
-  "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "info@adoptourdogs.com",
+  "source_list": "shelter website",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -952,7 +960,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "palspetsia@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.palspets.net/volunteer",
+  "contact_url": "https://www.palspets.net/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -968,7 +979,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "wetnoserescue@outlook.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.wetnoselemars.com/volunteer",
+  "contact_url": "https://www.wetnoselemars.com/forms",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -990,17 +1004,20 @@
   "state": "IA",
   "city": "Nevada",
   "org": "Story County Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Give Me a Break foster",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.storycountyiowa.gov/128/Adoption-Information",
+  "offers": "Short-term foster",
+  "url": "https://www.storycountyiowa.gov/1570/Story-County-Animal-Shelter-Foster-Progr",
   "phone": "(515) 382-3338",
-  "notes": "",
+  "notes": "Approved foster homes can take a shelter dog or cat for a short vacation from shelter life; apply through the county's foster application.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalweb@storycounty.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.storycountyiowa.gov/1570/Story-County-Animal-Shelter-Foster-Progr",
+  "contact_url": "https://www.storycountyiowa.gov/88/Animal-Control-Shelter",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1016,7 +1033,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.kingsharvestpetrescue.org/volunteer",
+  "contact_url": "https://www.kingsharvestpetrescue.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1032,7 +1052,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://tamacountyhumane.com/get-involved/",
+  "contact_url": "https://tamacountyhumane.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
