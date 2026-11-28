@@ -269,7 +269,11 @@
   "email_main": "",
   "phone": "(303) 326-8280",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/318915497"
+  "osm": "way/318915497",
+  "events_url": "https://www.auroragov.org/residents/animal_services/aurora_animal_shelter/adoptions___promotions",
+  "programs_url": "https://www.auroragov.org/residents/animal_services/aurora_animal_shelter/volunteers",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -279,14 +283,19 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.pawspueblo.org",
+  "url": "https://pawspueblo.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(719) 543-6464",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/658616662"
+  "osm": "way/658616662",
+  "events_url": "https://pawspueblo.org/events/",
+  "programs_url": "https://pawspueblo.org/volunteer/",
+  "contact_url": "https://pawspueblo.org/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -303,7 +312,11 @@
   "email_main": "",
   "phone": "(720) 913-1311",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/967607248"
+  "osm": "way/967607248",
+  "events_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Animal-Shelter/Events",
+  "programs_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Animal-Shelter/Get-Involved",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -320,7 +333,12 @@
   "email_main": "info@longmonthumane.org",
   "phone": "(303) 772-1232",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/985424514"
+  "osm": "way/985424514",
+  "events_url": "https://longmonthumane.org/events/list/",
+  "programs_url": "https://longmonthumane.org/programs/",
+  "contact_url": "https://longmonthumane.org/about/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -426,17 +444,22 @@
   "state": "CO",
   "city": "Lakewood",
   "org": "Cat Care Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "offers": "",
-  "notes": "",
+  "program": "Cats on Mats – Shelter Yoga",
+  "status": "Open to public",
+  "offers": "Yoga with adoptable cats",
+  "notes": "Ticketed public yoga sessions held in the shelter where you stretch and mingle with adoptable cats; bring your own mat (next session Jan 16, 2027, 10:30-11:30 am).",
   "animals": "Cats",
-  "url": "https://www.catcaresociety.org/",
+  "url": "https://www.catcaresociety.org/cats-on-mats-shelter-yoga-2/",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@catcaresociety.org",
   "source_list": "shelter website",
-  "phone": "(303) 239-9680"
+  "phone": "(303) 239-9680",
+  "events_url": "https://www.catcaresociety.org/events/",
+  "programs_url": "https://www.catcaresociety.org/cats-on-mats-shelter-yoga-2/",
+  "contact_url": "https://www.catcaresociety.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -452,7 +475,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(303) 838-2668"
+  "phone": "(303) 838-2668",
+  "events_url": "https://www.imhs.org/upcomingevents.html",
+  "programs_url": "https://www.imhs.org/volunteer.html",
+  "contact_url": "https://www.imhs.org/contact-us.html",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -468,7 +496,11 @@
   "email_program": "",
   "email_main": "shelter@clearcreeksheriff.us",
   "source_list": "shelter website",
-  "phone": "(303) 679-2477"
+  "phone": "(303) 679-2477",
+  "programs_url": "https://www.clearcreekcounty.us/1621/Foster-Care-Program",
+  "contact_url": "https://www.clearcreekcounty.us/directory.aspx?did=7",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -484,39 +516,54 @@
   "email_program": "",
   "email_main": "info@fremonthumane.com",
   "source_list": "shelter website",
-  "phone": "(719) 275-0663"
+  "phone": "(719) 275-0663",
+  "events_url": "https://www.fremonthumane.com/events/",
+  "programs_url": "https://www.fremonthumane.com/volunteer/",
+  "contact_url": "https://www.fremonthumane.com/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
   "city": "Fort Collins",
   "org": "Animal Friends Alliance (Taft Hill campus)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "offers": "",
-  "notes": "",
-  "animals": "Dogs and cats",
-  "url": "https://savinganimalstoday.org/",
+  "program": "Miles With Mutts",
+  "status": "Volunteers only",
+  "offers": "Half-day outings",
+  "notes": "Trained dog-walking volunteers can take shelter dogs out on half-day outings; the shelter says it has no day-out program for the general public. Volunteer applications open in Fort Collins the first two weeks of January, April, July and October.",
+  "animals": "Dogs",
+  "url": "https://www.savinganimalstoday.org/volunteer",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteer@savinganimalstoday.org",
   "email_main": "info@savinganimalstoday.org",
   "source_list": "shelter website",
-  "phone": "(970) 484-8516"
+  "phone": "(970) 484-8516",
+  "events_url": "https://www.savinganimalstoday.org/online-calendar",
+  "programs_url": "https://www.savinganimalstoday.org/volunteer",
+  "contact_url": "https://www.savinganimalstoday.org/contact-us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
   "city": "Fort Collins",
   "org": "Animal Friends Alliance (Mulberry campus)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "offers": "",
-  "notes": "",
-  "animals": "Dogs and cats",
-  "url": "https://savinganimalstoday.org/",
+  "program": "Miles With Mutts",
+  "status": "Volunteers only",
+  "offers": "Half-day outings",
+  "notes": "Trained dog-walking volunteers can take shelter dogs out on half-day outings; the shelter says it has no day-out program for the general public. Volunteer applications open in Fort Collins the first two weeks of January, April, July and October.",
+  "animals": "Dogs",
+  "url": "https://www.savinganimalstoday.org/volunteer",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteer@savinganimalstoday.org",
   "email_main": "info@savinganimalstoday.org",
   "source_list": "shelter website",
-  "phone": "(970) 484-8516"
+  "phone": "(970) 484-8516",
+  "events_url": "https://www.savinganimalstoday.org/online-calendar",
+  "programs_url": "https://www.savinganimalstoday.org/volunteer",
+  "contact_url": "https://www.savinganimalstoday.org/contact-us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -550,9 +597,19 @@
     "title": "Adoption Event at The Hydrant",
     "url": "https://secondchancehumane.org/events/adoption-event-at-the-hydrant",
     "place": "The Hydrant Doggie Playcare, 1848 E Main St, Montrose"
+   },
+   {
+    "date": "2026-12-08",
+    "title": "Coffee With Cats (visit the cat castle)",
+    "url": "https://secondchancehumane.org/events/coffee-with-cats-december",
+    "place": "177 County Rd 10, Ridgway"
    }
   ],
-  "phone": "(970) 626-2273"
+  "phone": "(970) 626-2273",
+  "events_url": "https://secondchancehumane.org/events",
+  "programs_url": "https://secondchancehumane.org/get-involved/dogs-day-out",
+  "contact_url": "https://secondchancehumane.org/contact-animal-resources",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -567,7 +624,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "aspenanimalshelter@gmail.com",
-  "phone": "(970) 544-0206"
+  "phone": "(970) 544-0206",
+  "contact_url": "https://aspenanimalshelter.com/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -576,13 +636,18 @@
   "program": "Pop-Up Pack Walks (plus volunteer Hiking Program)",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Group walk, hike",
+  "offers": "Group walk, hike, shelter pet yoga",
   "url": "https://rhhumanesociety.org/packwalk/",
-  "notes": "Pop-Up Pack Walks are held Mondays at 12 p.m. at a different Grand Valley location each week; complete the online waiver in advance and arrive at noon (minors need a parent/guardian on the waiver). Only Roice-Hurst shelter dogs may be walked. Off-site hikes are a separate volunteer program for trained volunteers.",
+  "notes": "Pop-Up Pack Walks are held Mondays at 12 p.m. at a different Grand Valley location each week (dates posted through Dec 28, 2026); complete the online waiver in advance and arrive at noon (minors need a parent/guardian on the waiver). Only Roice-Hurst shelter dogs may be walked. Donation-based Shelter Pet Yoga is also held at the shelter (next Dec 6, 2026). Off-site hikes are a separate volunteer program for trained volunteers.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@rhhumanesociety.org",
-  "phone": "(970) 434-7337"
+  "phone": "(970) 434-7337",
+  "events_url": "https://rhhumanesociety.org/calendar/",
+  "programs_url": "https://rhhumanesociety.org/packwalk/",
+  "contact_url": "https://rhhumanesociety.org/about/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -744,7 +809,11 @@
     "url": "https://secondchancehumane.org/events/adoption-event-at-the-hydrant",
     "place": "The Hydrant Doggie Playcare, 1848 East Main Street, Montrose"
    }
-  ]
+  ],
+  "events_url": "https://secondchancehumane.org/events",
+  "programs_url": "https://secondchancehumane.org/get-involved/dogs-day-out",
+  "contact_url": "https://secondchancehumane.org/contact-animal-resources-delta",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",

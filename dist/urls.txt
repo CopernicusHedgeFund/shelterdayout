@@ -209,6 +209,7 @@ https://shelterdayout.com/cities/flagstaff-az/
 https://shelterdayout.com/cities/flushing-ny/
 https://shelterdayout.com/cities/forney-tx/
 https://shelterdayout.com/cities/fort-bragg-ca/
+https://shelterdayout.com/cities/fort-collins-co/
 https://shelterdayout.com/cities/fort-lauderdale-fl/
 https://shelterdayout.com/cities/fort-madison-ia/
 https://shelterdayout.com/cities/fort-smith-ar/
@@ -302,6 +303,7 @@ https://shelterdayout.com/cities/laconia-nh/
 https://shelterdayout.com/cities/lafayette-in/
 https://shelterdayout.com/cities/lake-orion-mi/
 https://shelterdayout.com/cities/lakeland-fl/
+https://shelterdayout.com/cities/lakewood-co/
 https://shelterdayout.com/cities/lana-i-city-hi/
 https://shelterdayout.com/cities/lancaster-ky/
 https://shelterdayout.com/cities/lander-wy/
