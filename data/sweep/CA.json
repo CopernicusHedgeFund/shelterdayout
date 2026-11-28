@@ -325,7 +325,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(818) 238-3340"
+  "phone": "(818) 238-3340",
+  "events": [],
+  "events_url": "https://www.burbankca.gov/calendar",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -487,7 +490,9 @@
   "email_program": "",
   "email_main": "animalcare@chulavistaca.gov",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://www.chulavistaca.gov/departments/animal-care/bulletin-board-events",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -520,7 +525,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(951) 279-3618"
+  "phone": "(951) 279-3618",
+  "events": [],
+  "events_url": "https://www.coronaca.gov/events",
+  "programs_url": "https://www.coronaca.gov/departments/animal-services/volunteer-opportunities",
+  "contact_url": "https://www.coronaca.gov/about-us/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -864,7 +874,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "programs_url": "https://www.fremont.gov/government/departments/animal-services/tri-city/animal-shelter/support-us/foster",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -973,14 +986,18 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "http://www.haywardanimals.org/",
+  "url": "https://www.haywardanimals.org/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.services@Hayward-ca.gov",
   "source_list": "shelter website",
   "phone": "(510) 293-7200",
-  "events": []
+  "events": [],
+  "events_url": "https://www.haywardanimals.org/upcoming-on-the-calendar",
+  "programs_url": "https://www.haywardanimals.org/short-term-foster",
+  "contact_url": "https://www.haywardanimals.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4159,13 +4176,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://fresnocountyca.gov/Departments/Public-Health/Environmental-Health/Rabies-and-Animal-Control-Program",
+  "url": "https://www.fresnohumane.org/",
   "notes": "Runs the Fresno County Animal Shelter at 1510 West Dan Ronquillo Dr.; URL is the county page, own site could not be verified.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@fresnohumane.org",
   "source_list": "shelter website",
-  "phone": "(559) 600-7387"
+  "phone": "(559) 600-7387",
+  "events": [],
+  "programs_url": "https://www.fresnohumane.org/foster",
+  "contact_url": "https://www.fresnohumane.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -5167,6 +5188,26 @@
   "events": [],
   "events_url": "https://thecatlounge.org/events",
   "contact_url": "https://thecatlounge.org/contact-us",
+  "checked_on": "2026-11-28"
+ },
+ {
+  "state": "CA",
+  "city": "Coalinga",
+  "org": "Gimme Love Animal Shelter",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://gimmeloveanimalshelter.com/",
+  "notes": "Nonprofit shelter at 150 West Elm Avenue, mainly cats, with dogs and cats listed for adoption; visitors welcome weekday afternoons.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "gimmeloveanimalshelter@yahoo.com",
+  "source_list": "shelter website",
+  "events": [],
+  "events_url": "https://gimmeloveanimalshelter.com/calendar",
+  "contact_url": "https://gimmeloveanimalshelter.com/contact-us-1",
   "checked_on": "2026-11-28"
  }
 ]
