@@ -875,7 +875,8 @@
   "events": [],
   "city": "Natchitoches",
   "org": "Natchitoches Humane Society",
-  "url": "https://natchitocheshumanesociety.rescuegroups.org/"
+  "url": "https://natchitocheshumanesociety.rescuegroups.org/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1002,7 +1003,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(337) 948-6184",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1019,7 +1021,9 @@
   "events": [],
   "city": "Pineville",
   "org": "Pineville Animal Control",
-  "url": "https://www.pineville.net/department/?fdd=10"
+  "url": "https://www.pineville.net/department/?fdd=10",
+  "contact_url": "https://www.pineville.net/department/index.php?structureid=99",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1036,7 +1040,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(225) 687-5881",
-  "events": []
+  "events": [],
+  "programs_url": "https://ibervilleparish.com/animal-shelter/",
+  "contact_url": "https://ibervilleparish.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1053,7 +1060,10 @@
   "email_main": "animalcontrol@wbrcouncil.org",
   "source_list": "shelter website",
   "phone": "(225) 336-2428",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.wbrparish.org/775/Become-A-Shelter-Volunteer",
+  "contact_url": "https://www.wbrparish.org/741/Adoptions",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1088,7 +1098,10 @@
   "email_program": "",
   "email_main": "adoptions@spaymart.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://spaymart.org/spaymart-foster-program/",
+  "contact_url": "https://spaymart.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1106,7 +1119,9 @@
   "phone": "(318) 251-8685",
   "source_list": "shelter website",
   "osm": "way/1494514002",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.ruston.org/animal-control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1123,7 +1138,11 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(318) 226-6624",
-  "events": []
+  "events": [],
+  "events_url": "https://caddo.gov/calendar-animal-services/",
+  "programs_url": "https://caddo.gov/about-animal-services/",
+  "contact_url": "https://caddo.gov/asmc/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1140,7 +1159,10 @@
   "events": [],
   "city": "Shreveport",
   "org": "Humane Society of Northwest Louisiana",
-  "url": "https://www.hsnwla.com/"
+  "url": "https://www.hsnwla.com/",
+  "programs_url": "https://www.hsnwla.com/volunteer.html",
+  "contact_url": "https://www.hsnwla.com/contact.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1158,7 +1180,9 @@
   "phone": "(985) 646-4267",
   "source_list": "shelter website",
   "osm": "way/798218155",
-  "events": []
+  "events": [],
+  "contact_url": "https://myslidell.com/government/slidell-police-department/animal-control/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1175,7 +1199,10 @@
   "email_main": "carahousela@gmail.com",
   "source_list": "shelter website",
   "phone": "(225) 675-0400",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.carashouse.com/volunteers",
+  "contact_url": "https://www.carashouse.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1192,7 +1219,10 @@
   "email_main": "wfahsociety@gmail.com",
   "source_list": "shelter website",
   "phone": "(225) 635-5801",
-  "events": []
+  "events": [],
+  "programs_url": "https://wfahs.org/volunteers",
+  "contact_url": "https://wfahs.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1209,7 +1239,9 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(337) 394-1220",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.stmartinparish.net/government_services/animal_services/index.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1226,7 +1258,9 @@
   "email_main": "lpas@lafourchegov.org",
   "source_list": "shelter website",
   "phone": "(985) 446-3532",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.lafourchegov.org/animal-shelter/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1243,7 +1277,10 @@
   "email_main": "animalcontrol@sbpg.net",
   "source_list": "shelter website",
   "phone": "(504) 278-4200",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.sbpg.net/378/Volunteer-and-Donate",
+  "contact_url": "https://www.sbpg.net/148/Animal-Control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1261,7 +1298,9 @@
   "phone": "(225) 791-3482",
   "source_list": "shelter website",
   "osm": "node/8185100923",
-  "events": []
+  "events": [],
+  "contact_url": "https://walker.la.us/animal-control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -1278,7 +1317,10 @@
   "email_main": "OPAS@oppj.org",
   "source_list": "shelter website",
   "phone": "(318) 325-0756",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.oppj.org/departments/animal_control/volunteers.php",
+  "contact_url": "https://www.oppj.org/departments/animal_control/index.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
