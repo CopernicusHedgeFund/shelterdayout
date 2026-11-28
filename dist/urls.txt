@@ -2473,6 +2473,7 @@ https://shelterdayout.com/listings/humane-society-of-northwest-iowa-milford/
 https://shelterdayout.com/listings/humane-society-of-northwest-louisiana-shreveport/
 https://shelterdayout.com/listings/humane-society-of-northwest-montana-kalispell/
 https://shelterdayout.com/listings/humane-society-of-ocean-city-ocean-city/
+https://shelterdayout.com/listings/humane-society-of-odessa-odessa/
 https://shelterdayout.com/listings/humane-society-of-ottawa-county-port-clinton/
 https://shelterdayout.com/listings/humane-society-of-otter-tail-county-fergus-falls/
 https://shelterdayout.com/listings/humane-society-of-pagosa-springs-pagosa-springs/
@@ -2832,6 +2833,7 @@ https://shelterdayout.com/listings/lapeer-county-animal-control-lapeer/
 https://shelterdayout.com/listings/laramie-animal-shelter-laramie/
 https://shelterdayout.com/listings/laras-house-shelter-limestone-animal-rescue-adoption-shelter-mexia/
 https://shelterdayout.com/listings/laredo-animal-care-services-laredo/
+https://shelterdayout.com/listings/laredo-animal-protective-society-laredo/
 https://shelterdayout.com/listings/lasalle-county-animal-control-ottawa/
 https://shelterdayout.com/listings/lassen-county-animal-shelter-susanville/
 https://shelterdayout.com/listings/last-chance-ranch-quakertown/
@@ -3698,6 +3700,7 @@ https://shelterdayout.com/listings/portland-animal-control-portland/
 https://shelterdayout.com/listings/portsmouth-humane-society-portsmouth/
 https://shelterdayout.com/listings/posey-humane-society-mount-vernon/
 https://shelterdayout.com/listings/posh-pets-rescue-city-of-long-beach-animal-shelter-long-beach/
+https://shelterdayout.com/listings/post-animal-refuge-center-post/
 https://shelterdayout.com/listings/post-falls-police-canine-control-center-post-falls/
 https://shelterdayout.com/listings/poteau-valley-humane-society-poteau/
 https://shelterdayout.com/listings/potsdam-humane-society-potsdam/
@@ -4678,6 +4681,7 @@ https://shelterdayout.com/listings/winchester-area-spca-winchester/
 https://shelterdayout.com/listings/winchester-randolph-county-animal-shelter-winchester/
 https://shelterdayout.com/listings/windham-county-humane-society-brattleboro/
 https://shelterdayout.com/listings/winnebago-county-animal-services-rockford/
+https://shelterdayout.com/listings/winnsboro-animal-shelter-winnsboro/
 https://shelterdayout.com/listings/winona-area-humane-society-winona/
 https://shelterdayout.com/listings/winslow-animal-shelter-winslow/
 https://shelterdayout.com/listings/wiregrass-pet-rescue-and-adoption-center-dothan/

@@ -262,6 +262,7 @@ https://shelteradoption.com/cities/lancaster-oh/
 https://shelteradoption.com/cities/lancaster-pa/
 https://shelteradoption.com/cities/lansing-mi/
 https://shelteradoption.com/cities/lapeer-mi/
+https://shelteradoption.com/cities/laredo-tx/
 https://shelteradoption.com/cities/largo-fl/
 https://shelteradoption.com/cities/las-vegas-nv/
 https://shelteradoption.com/cities/lawrenceburg-ky/
@@ -357,6 +358,7 @@ https://shelteradoption.com/cities/norwalk-ct/
 https://shelteradoption.com/cities/norwalk-oh/
 https://shelteradoption.com/cities/oakland-ca/
 https://shelteradoption.com/cities/ocala-fl/
+https://shelteradoption.com/cities/odessa-tx/
 https://shelteradoption.com/cities/okatie-sc/
 https://shelteradoption.com/cities/oklahoma-city-ok/
 https://shelteradoption.com/cities/olympia-wa/
@@ -2408,6 +2410,7 @@ https://shelteradoption.com/shelters/humane-society-of-northwest-iowa-milford/
 https://shelteradoption.com/shelters/humane-society-of-northwest-louisiana-shreveport/
 https://shelteradoption.com/shelters/humane-society-of-northwest-montana-kalispell/
 https://shelteradoption.com/shelters/humane-society-of-ocean-city-ocean-city/
+https://shelteradoption.com/shelters/humane-society-of-odessa-odessa/
 https://shelteradoption.com/shelters/humane-society-of-ottawa-county-port-clinton/
 https://shelteradoption.com/shelters/humane-society-of-otter-tail-county-fergus-falls/
 https://shelteradoption.com/shelters/humane-society-of-pagosa-springs-pagosa-springs/
@@ -2767,6 +2770,7 @@ https://shelteradoption.com/shelters/lapeer-county-animal-control-lapeer/
 https://shelteradoption.com/shelters/laramie-animal-shelter-laramie/
 https://shelteradoption.com/shelters/laras-house-shelter-limestone-animal-rescue-adoption-shelter-mexia/
 https://shelteradoption.com/shelters/laredo-animal-care-services-laredo/
+https://shelteradoption.com/shelters/laredo-animal-protective-society-laredo/
 https://shelteradoption.com/shelters/lasalle-county-animal-control-ottawa/
 https://shelteradoption.com/shelters/lassen-county-animal-shelter-susanville/
 https://shelteradoption.com/shelters/last-chance-ranch-quakertown/
@@ -3633,6 +3637,7 @@ https://shelteradoption.com/shelters/portland-animal-control-portland/
 https://shelteradoption.com/shelters/portsmouth-humane-society-portsmouth/
 https://shelteradoption.com/shelters/posey-humane-society-mount-vernon/
 https://shelteradoption.com/shelters/posh-pets-rescue-city-of-long-beach-animal-shelter-long-beach/
+https://shelteradoption.com/shelters/post-animal-refuge-center-post/
 https://shelteradoption.com/shelters/post-falls-police-canine-control-center-post-falls/
 https://shelteradoption.com/shelters/poteau-valley-humane-society-poteau/
 https://shelteradoption.com/shelters/potsdam-humane-society-potsdam/
@@ -4613,6 +4618,7 @@ https://shelteradoption.com/shelters/winchester-area-spca-winchester/
 https://shelteradoption.com/shelters/winchester-randolph-county-animal-shelter-winchester/
 https://shelteradoption.com/shelters/windham-county-humane-society-brattleboro/
 https://shelteradoption.com/shelters/winnebago-county-animal-services-rockford/
+https://shelteradoption.com/shelters/winnsboro-animal-shelter-winnsboro/
 https://shelteradoption.com/shelters/winona-area-humane-society-winona/
 https://shelteradoption.com/shelters/winslow-animal-shelter-winslow/
 https://shelteradoption.com/shelters/wiregrass-pet-rescue-and-adoption-center-dothan/
