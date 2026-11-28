@@ -1242,5 +1242,26 @@
   "programs_url": "https://angelswithpaws.net/volunteering/",
   "contact_url": "https://angelswithpaws.net/contacts/",
   "checked_on": "2026-11-28"
+ },
+ {
+  "state": "CO",
+  "city": "Manitou Springs",
+  "org": "Happy Cats Haven",
+  "program": "Biscuit Factory Cat Lounge (partner)",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge",
+  "url": "https://happycatshaven.org/adoption-policies/",
+  "notes": "Nonprofit cat rescue with an adoption center at 327 Manitou Ave (adoptions by appointment Fri-Sun 11am-5pm). Its partner Biscuit Factory Cat Lounge in Old Colorado City lets visitors spend time with the rescue's cats; the entry fee includes a beverage.",
+  "checked": "November 2026",
+  "phone": "(719) 362-4600",
+  "email_program": "",
+  "email_main": "adopt@happycatshaven.org",
+  "source_list": "shelter website",
+  "events": [],
+  "events_url": "https://happycatshaven.org/events/",
+  "programs_url": "https://happycatshaven.org/adoption-policies/",
+  "contact_url": "https://happycatshaven.org/contact-happy-cats/",
+  "checked_on": "2026-11-28"
  }
 ]

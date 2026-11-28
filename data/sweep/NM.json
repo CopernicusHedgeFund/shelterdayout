@@ -608,7 +608,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "contact_url": "https://www.belen-nm.gov/176/Code-Enforcement-Animal-Control",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -624,7 +627,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(505) 832-6060"
+  "phone": "(505) 832-6060",
+  "events_url": "https://www.moriartynm.org/events",
+  "contact_url": "https://www.moriartynm.org/contact",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -634,13 +641,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://edgewood-nm.gov/departments/animal-control",
+  "url": "https://edgewood-nm.gov/animal-control/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalshelter@edgewood-nm.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(505) 926-9013",
+  "events_url": "https://edgewood-nm.gov/animal-shelter/upcoming-events/",
+  "contact_url": "https://edgewood-nm.gov/animal-control/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -656,7 +667,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(505) 898-0401"
+  "phone": "(505) 898-0401",
+  "contact_url": "https://www.corrales-nm.org/240/Animal-Services",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -705,7 +719,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(505) 426-3289"
+  "phone": "(505) 426-3289",
+  "events_url": "https://www.lasvegasnm.gov/public-service-announcements-press-releases/categories/las-vegas-animal-care-center",
+  "contact_url": "https://www.lasvegasnm.gov/city-of-las-vegas-animal-care-center",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -721,7 +739,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(575) 447-9328",
+  "contact_url": "https://ratonnm.gov/community/pets_animals/raton_animal_shelter.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -736,7 +757,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.clovisnm.gov/369/Animal-Control",
+  "phone": "(575) 769-7893",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -751,7 +776,12 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalControl@portalesnm.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.portalesnm.gov/services/departments_a-f/planning___zoning/faq_-_click_here_to_see_our_most_frequently_asked_questions.php",
+  "contact_url": "https://www.portalesnm.gov/i_want_to/contact_us.php",
+  "phone": "(575) 356-4404",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -767,7 +797,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(575) 624-6722"
+  "phone": "(575) 624-6722",
+  "events_url": "https://roswell-nm.gov/1701/AdoptionsReclaims",
+  "contact_url": "https://roswell-nm.gov/m/directory",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -783,7 +817,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(575) 746-5041"
+  "phone": "(575) 746-5041",
+  "contact_url": "https://www.artesianm.gov/m/directory/department?did=41",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -810,12 +847,15 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.gallupnm.gov/219/Adoption-Information",
-  "phone": "",
+  "phone": "(505) 726-1453",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.gallupnm.gov/218/Animal-Control",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -826,12 +866,17 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.gmchumanesociety.org/",
-  "phone": "",
+  "phone": "(505) 863-2616",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "gmchumanesociety@gmail.com",
+  "source_list": "shelter website",
+  "events_url": "https://www.gmchumanesociety.org/event-list",
+  "programs_url": "https://www.gmchumanesociety.org/services-5",
+  "contact_url": "https://www.gmchumanesociety.org/contact-5",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -847,7 +892,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.cityofdeming.org/government/department/police/animal_control.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -873,13 +921,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.aztecnm.gov/services.html",
-  "phone": "",
+  "url": "https://www.aztecnm.gov/animalshelter.html",
+  "phone": "(505) 334-7676",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.aztecnm.gov/animalshelter.html",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -895,7 +946,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.bloomfieldnm.gov/community/page/animal-control",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -912,7 +966,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.lovington.org/departments/animal-protection-services/",
+  "contact_url": "https://www.lovington.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NM",
@@ -929,7 +986,11 @@
   "email_program": "",
   "email_main": "wmranchnm1@gmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://www.wmranch.org/calendar-of-events",
+  "programs_url": "https://www.wmranch.org/volunteer",
+  "contact_url": "https://www.wmranch.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NM",
@@ -946,6 +1007,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.animalvillagenm.org/about",
+  "contact_url": "https://www.animalvillagenm.org/",
+  "checked_on": "2026-11-28"
  }
 ]

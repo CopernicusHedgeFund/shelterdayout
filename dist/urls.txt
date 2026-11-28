@@ -350,6 +350,7 @@ https://shelterdayout.com/cities/madison-al/
 https://shelterdayout.com/cities/madison-nj/
 https://shelterdayout.com/cities/madison-wi/
 https://shelterdayout.com/cities/mandan-nd/
+https://shelterdayout.com/cities/manitou-springs-co/
 https://shelterdayout.com/cities/mankato-mn/
 https://shelterdayout.com/cities/mansfield-tx/
 https://shelterdayout.com/cities/marathon-fl/
@@ -2229,6 +2230,7 @@ https://shelterdayout.com/listings/hanover-county-animal-protection-and-shelter-
 https://shelterdayout.com/listings/hanover-humane-society-ashland/
 https://shelterdayout.com/listings/happily-ever-after-animal-sanctuary-green-bay/
 https://shelterdayout.com/listings/happy-cat-cafe-grand-rapids/
+https://shelterdayout.com/listings/happy-cats-haven-manitou-springs/
 https://shelterdayout.com/listings/happy-endings-animal-rescue-pinedale/
 https://shelterdayout.com/listings/happy-feet-pet-rescue-lansing/
 https://shelterdayout.com/listings/happy-hearts-feline-rescue-manchester/
