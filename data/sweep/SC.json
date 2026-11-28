@@ -827,6 +827,12 @@
     "place": "PetSmart West Ashley, 2076 Sam Rittenberg Blvd, Charleston"
    },
    {
+    "date": "2026-11-28",
+    "title": "Petsmart James Island Adoption Event",
+    "url": "https://charlestonanimalsociety.org/event/petsmart-james-island-adoption-event/",
+    "place": "PetSmart James Island"
+   },
+   {
     "date": "2026-12-05",
     "title": "Adoptions at PetSmart Summerville",
     "url": "https://charlestonanimalsociety.org/event/adoptions-at-petsmart-summerville-6/",
@@ -839,7 +845,11 @@
     "place": "Charles Towne Fermentory Garden"
    }
   ],
-  "phone": "(843) 747-4849"
+  "phone": "(843) 747-4849",
+  "events_url": "https://charlestonanimalsociety.org/events/category/adoptions/",
+  "programs_url": "https://charlestonanimalsociety.org/field-trips-for-dogs-paws-around-town/",
+  "contact_url": "https://charlestonanimalsociety.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -855,7 +865,11 @@
   "email_program": "",
   "email_main": "KindKeeper@yahoo.com",
   "source_list": "shelter website",
-  "phone": "(843) 427-4388"
+  "phone": "(843) 427-4388",
+  "events_url": "https://www.kindkeeper.org/event-list",
+  "programs_url": "https://www.kindkeeper.org/foster",
+  "contact_url": "https://www.kindkeeper.org/about-1-2",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -871,7 +885,11 @@
   "email_program": "",
   "email_main": "info@hsnmb.org",
   "source_list": "shelter website",
-  "phone": "(843) 249-4948"
+  "phone": "(843) 249-4948",
+  "events_url": "https://humanesocietynmb.org/news/",
+  "programs_url": "https://humanesocietynmb.org/volunteer/",
+  "contact_url": "https://humanesocietynmb.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -887,7 +905,10 @@
   "email_program": "",
   "email_main": "shelter@bcgov.net",
   "source_list": "shelter website",
-  "phone": "(843) 255-5010"
+  "phone": "(843) 255-5010",
+  "programs_url": "https://www.beaufortcountysc.gov/animal-services/index.html",
+  "contact_url": "https://www.beaufortcountysc.gov/animal-services/index.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -901,9 +922,13 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@palmettoanimalleague.org",
   "source_list": "shelter website",
-  "phone": "(843) 837-6369"
+  "phone": "(843) 645-1725",
+  "events_url": "https://www.palmettoanimalleague.org/events",
+  "programs_url": "https://www.palmettoanimalleague.org/volunteer",
+  "contact_url": "https://www.palmettoanimalleague.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -919,7 +944,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(803) 534-0045"
+  "phone": "(803) 534-0045",
+  "contact_url": "https://www.orangeburgcounty.org/164/Animal-Control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -933,9 +960,12 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adopt@orangeburgspca.org",
   "source_list": "shelter website",
-  "phone": "(803) 536-3918"
+  "phone": "(803) 536-3918",
+  "programs_url": "https://orangeburgspca.org/volunteer/",
+  "contact_url": "https://orangeburgspca.org/about-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -951,7 +981,10 @@
   "email_program": "",
   "email_main": "pcas@pickenscountysc.gov",
   "source_list": "shelter website",
-  "phone": "(864) 898-5936"
+  "phone": "(864) 898-5936",
+  "programs_url": "https://www.co.pickens.sc.us/departments/animal_shelter/index.php",
+  "contact_url": "https://www.co.pickens.sc.us/government/county_directory.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -962,12 +995,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.jcso.net/alert/jasper-county-animal-services-update/",
-  "phone": "",
+  "phone": "(843) 726-7799",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.jcso.net/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -983,23 +1018,30 @@
   "email_program": "",
   "email_main": "info@oconeehumane.org",
   "source_list": "shelter website",
-  "phone": "(864) 882-4719"
+  "phone": "(864) 882-4719",
+  "events_url": "https://www.oconeehumane.org/",
+  "programs_url": "https://www.oconeehumane.org/volunteer-foster/",
+  "contact_url": "https://www.oconeehumane.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
   "city": "Spartanburg",
   "org": "Spartanburg County Pet Resource Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.spartanburgcounty.gov/1410/Pet-Resource-Center",
-  "notes": "",
+  "program": "Barking Around the Burg & Doggy Sleepover",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips, sleepovers",
+  "url": "https://www.spartanburgcounty.gov/1418/Barking-Around-the-Burg",
+  "notes": "No experience or foster application needed for Barking Around the Burg: adults 18+ book with the adoptions team (limited walk-ins), get a safety briefing and day kit, and take a dog out Tue, Thu or Sat between 9:30 a.m. and 3 p.m.; Doggy Sleepovers (1-3 nights, Friday to Sunday) go through the online foster application.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(864) 586-2918"
+  "phone": "(864) 586-2918",
+  "programs_url": "https://www.spartanburgcounty.gov/1418/Barking-Around-the-Burg",
+  "contact_url": "https://www.spartanburgcounty.gov/1434/About-Us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -1016,7 +1058,11 @@
   "email_main": "hello@spartanburghumane.org",
   "phone": "(864) 583-4805",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/674761756"
+  "osm": "way/674761756",
+  "events_url": "https://spartanburghumane.org/news/",
+  "programs_url": "https://spartanburghumane.org/get-involved/",
+  "contact_url": "https://spartanburghumane.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
