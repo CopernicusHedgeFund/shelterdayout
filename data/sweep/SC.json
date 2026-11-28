@@ -25,13 +25,15 @@
   "status": "Needs check",
   "animals": "Dogs and cats",
   "offers": "Day trip",
-  "url": "https://www.aikencountysc.gov/DspSvc?qSvcID=150",
+  "url": "https://www.aikencountysc.gov/301/Adopt-a-Pet",
   "notes": "The county's Adopt-a-Pet page no longer mentions Doggie Days Out (program page could not be loaded); fostering and volunteering run through Friends of the Animal Shelter (FOTAS), so call (803) 642-1537 to confirm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(803) 642-1537"
+  "phone": "(803) 642-1537",
+  "contact_url": "https://www.aikencountysc.gov/301/Adopt-a-Pet",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -321,7 +323,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": null
+  "phone": "(803) 776-7387",
+  "programs_url": "https://animalservices.columbiasc.gov/volunteer/",
+  "contact_url": "https://animalservices.columbiasc.gov/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
