@@ -401,7 +401,10 @@
   "email_main": "purrmaidcatcafe@gmail.com",
   "source_list": "shelter website",
   "phone": "(805) 419-6116",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.purrmaidcatcafe.com/general-8",
+  "contact_url": "https://www.purrmaidcatcafe.com/blank-4",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -836,7 +839,9 @@
   "email_program": "",
   "email_main": "admin@homewardboundgoldens.org",
   "source_list": "shelter website",
-  "phone": "(916) 655-1410"
+  "phone": "(916) 655-1410",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1166,7 +1171,11 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(951) 659-1122",
-  "events": []
+  "events": [],
+  "events_url": "https://arfidyllwild.weebly.com/events-upcoming-events.html",
+  "programs_url": "https://arfidyllwild.weebly.com/fostering-101.html",
+  "contact_url": "https://arfidyllwild.weebly.com/contact-information.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1245,7 +1254,12 @@
   "email_program": "",
   "email_main": "office@jtnks.org",
   "source_list": "shelter website",
-  "phone": "(760) 366-3786"
+  "phone": "(760) 366-3786",
+  "events": [],
+  "events_url": "https://joshuatreenokillshelter.org/events/",
+  "programs_url": "https://joshuatreenokillshelter.org/foster/",
+  "contact_url": "https://joshuatreenokillshelter.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4228,7 +4242,10 @@
   "email_program": "",
   "email_main": "HPHS@Ymail.com",
   "source_list": "shelter website",
-  "phone": "(530) 233-9277"
+  "phone": "(530) 233-9277",
+  "events": [],
+  "programs_url": "https://highplateauhumanesociety.blogspot.com/p/volunteering.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4613,7 +4630,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(559) 852-2525"
+  "phone": "(559) 852-2525",
+  "events": [],
+  "programs_url": "https://www.countyofkingsca.gov/departments/general-services/animal-services/fostering-and-volunteering",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -5031,7 +5051,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@mhsrescue.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "programs_url": "https://mountainshumanesociety.wordpress.com/foster/",
+  "contact_url": "https://mountainshumanesociety.wordpress.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -5133,7 +5157,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.grassvalleyca.gov/post/animal-shelter-volunteer-application",
+  "contact_url": "https://www.grassvalleyca.gov/police-department-directory",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
