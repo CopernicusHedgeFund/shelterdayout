@@ -13,7 +13,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(308) 762-5400"
+  "phone": "(308) 762-5400",
+  "contact_url": "https://www.cityofalliance.net/FAQ.aspx?QID=102",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -26,10 +29,14 @@
   "url": "https://www.beatricehumanesociety.org/",
   "notes": "534 S Reed St; serves Gage County.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteers@beatricehumanesociety.org",
   "email_main": "shelter@beatricehumanesociety.org",
   "source_list": "shelter website",
-  "phone": "(402) 228-9100"
+  "phone": "(402) 228-9100",
+  "events_url": "https://www.beatricehumanesociety.org/events/",
+  "programs_url": "https://www.beatricehumanesociety.org/get-involved/get-involved.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -46,7 +53,12 @@
   "email_main": "",
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/AdoptaDogAnimalRescue/",
-  "phone": "(308) 890-0045"
+  "phone": "(308) 890-0045",
+  "events_url": "https://adoptadoginc.weebly.com/blog",
+  "programs_url": "https://adoptadoginc.weebly.com/volunteer.html",
+  "contact_url": "https://adoptadoginc.weebly.com/contact.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -62,23 +74,31 @@
   "email_program": "",
   "email_main": "catzangelscare@gmail.com",
   "source_list": "shelter website",
-  "phone": "(402) 804-3030"
+  "phone": "(402) 804-3030",
+  "programs_url": "https://catzangelscare.org/get-involved",
+  "contact_url": "https://catzangelscare.org/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
   "city": "Fremont",
   "org": "FurEver Home, Inc.",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Book a Walk",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://fetchingfureverhomes.org/",
-  "notes": "Dog rescue facility at 925 W 6th St, Fremont; open to the public daily.",
+  "offers": "Dog walks",
+  "url": "https://www.fetchingfureverhomes.org/",
+  "notes": "Dog rescue facility at 925 W 6th St, Fremont; open to the public daily. Home page has a \"Let's Take a Stroll / Book a Walk\" section beside the public hours, but doesn't say how booking works; approved volunteers can also walk dogs (volunteer@fetchingfureverhomes.org).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteer@fetchingfureverhomes.org",
   "email_main": "fetchingfureverhomes@gmail.com",
   "source_list": "shelter website",
-  "phone": "(402) 979-8800"
+  "phone": "(402) 979-8800",
+  "events_url": "https://www.fetchingfureverhomes.org/events",
+  "programs_url": "https://www.fetchingfureverhomes.org/volunteer",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -94,7 +114,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(308) 385-5305"
+  "phone": "(308) 385-5305",
+  "events_url": "https://cnhs-gi.com/Get-Involved/Events",
+  "programs_url": "https://cnhs-gi.com/Get-Involved/Volunteer",
+  "contact_url": "https://cnhs-gi.com/About/Contact-Us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -111,7 +136,12 @@
   "email_main": "",
   "phone": "(402) 462-7387",
   "source_list": "shelter website",
-  "osm": "way/1574108070"
+  "osm": "way/1574108070",
+  "events_url": "https://www.heartlandpetconnection.com/news-and-events",
+  "programs_url": "https://www.heartlandpetconnection.com/volunteer-opportunties.html",
+  "contact_url": "https://www.heartlandpetconnection.com/contact-us.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -127,24 +157,34 @@
   "email_program": "",
   "email_main": "info@kearneyanimalshelter.com",
   "source_list": "shelter website",
-  "phone": "(308) 237-7387"
+  "phone": "(308) 237-7387",
+  "events_url": "https://www.kearneyanimalshelter.com/events",
+  "programs_url": "https://www.kearneyanimalshelter.com/volunteer",
+  "contact_url": "https://www.kearneyanimalshelter.com/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
   "city": "Lincoln",
   "org": "Capital Humane Society (Pieloch Pet Adoption Center)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.capitalhumanesociety.org/",
-  "notes": "Pieloch Pet Adoption Center is Capital Humane Society's Lincoln adoption facility.",
+  "program": "Read to a Shelter Pet",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Reading to cats",
+  "url": "https://www.capitalhumanesociety.org/get-involved/read-to-a-shelter-pet/",
+  "notes": "Pieloch Pet Adoption Center is Capital Humane Society's Lincoln adoption facility. Kids 7-12 with a parent read to shelter cats in 20-minute slots (Tue-Fri 6-7pm, Sat-Sun 1:30-2:30pm) after a short online orientation, quiz and waiver.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(402) 441-4488 ext. 1",
   "source_list": "shelter website",
-  "osm": "way/1023438680"
+  "osm": "way/1023438680",
+  "events_url": "https://www.capitalhumanesociety.org/events/",
+  "programs_url": "https://www.capitalhumanesociety.org/get-involved/read-to-a-shelter-pet/",
+  "contact_url": "https://www.capitalhumanesociety.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -160,23 +200,30 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(308) 535-6780"
+  "phone": "(308) 535-6780",
+  "contact_url": "https://northplattene.gov/Directory.aspx?did=41",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
   "city": "O'Neill",
   "org": "Holt County Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.holtcountyanimalshelter.org/",
-  "notes": "500 S Logan St; private nonprofit, limited-admission shelter (formerly Holt County Humane Society). Open afternoons daily.",
+  "program": "Exercise Enrichment and Paws & Pages",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Walk-in dog walking, reading to dogs",
+  "url": "https://www.holtcountyanimalshelter.org/volunteer",
+  "notes": "500 S Logan St; private nonprofit, limited-admission dog shelter (formerly Holt County Humane Society), open to the public daily 2-5pm. Anyone can come walk a dog or play one-on-one at the shelter (under 14 with an adult); for Paws & Pages, tell the shelter ahead and bring a book to read to the dogs.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "info@holtcountyanimalshelter.com",
   "email_main": "adoptions@holtcountyanimalshelter.com",
   "source_list": "shelter website",
-  "phone": "(402) 336-5435"
+  "phone": "(402) 336-5435",
+  "programs_url": "https://www.holtcountyanimalshelter.org/volunteer",
+  "contact_url": "https://www.holtcountyanimalshelter.org/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -185,14 +232,19 @@
   "program": "Cat café visits",
   "status": "Open to public",
   "animals": "Cats",
-  "offers": "Cat visits",
+  "offers": "Cat visits, cat yoga",
   "url": "https://felius.org/reservations",
   "notes": "Visitors pay $10 per 30 minutes or $18 per hour to spend time with adoptable cats in the cat room at 5015 Dodge St (reservations recommended, walk-ins accepted; kids 6+, under 12 need a paying adult).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@felius.org",
   "source_list": "shelter website",
-  "phone": "(402) 502-7650"
+  "phone": "(402) 502-7650",
+  "events_url": "https://felius.org/events",
+  "programs_url": "https://felius.org/reservations",
+  "contact_url": "https://felius.org/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",
@@ -209,7 +261,10 @@
   "email_main": "",
   "source": "https://www.creightonian.com/2026/03/fur-a-good-cause-a-day-out-for-dogs/",
   "source_list": "shelter website",
-  "phone": "(402) 444-7800"
+  "phone": "(402) 444-7800",
+  "programs_url": "https://nehumanesociety.org/get-involved/barks-and-rec/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NE",

@@ -209,6 +209,7 @@ https://shelterdayout.com/cities/fort-walton-beach-fl/
 https://shelterdayout.com/cities/fort-wayne-in/
 https://shelterdayout.com/cities/fort-worth-tx/
 https://shelterdayout.com/cities/fredericksburg-va/
+https://shelterdayout.com/cities/fremont-ne/
 https://shelterdayout.com/cities/fruit-heights-ut/
 https://shelterdayout.com/cities/fryeburg-me/
 https://shelterdayout.com/cities/gainesville-fl/
@@ -308,6 +309,7 @@ https://shelterdayout.com/cities/lexington-ky/
 https://shelterdayout.com/cities/lihue-hi/
 https://shelterdayout.com/cities/lillington-nc/
 https://shelterdayout.com/cities/lincoln-il/
+https://shelterdayout.com/cities/lincoln-ne/
 https://shelterdayout.com/cities/lincolnton-nc/
 https://shelterdayout.com/cities/liverpool-ny/
 https://shelterdayout.com/cities/livingston-mt/
@@ -394,6 +396,7 @@ https://shelterdayout.com/cities/north-charleston-sc/
 https://shelterdayout.com/cities/north-little-rock-ar/
 https://shelterdayout.com/cities/north-miami-beach-fl/
 https://shelterdayout.com/cities/north-saint-paul-mn/
+https://shelterdayout.com/cities/o-neill-ne/
 https://shelterdayout.com/cities/oakdale-ca/
 https://shelterdayout.com/cities/oakland-ca/
 https://shelterdayout.com/cities/oceanside-ca/
