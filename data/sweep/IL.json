@@ -3083,5 +3083,94 @@
   "programs_url": "https://humanesocietysil.org/get-involved/",
   "contact_url": "https://humanesocietysil.org/about/visitshelter/",
   "checked_on": "2026-11-28"
+ },
+ {
+  "state": "IL",
+  "city": "Benld",
+  "org": "Benld Adopt-A-Pet (Macoupin County Adopt-A-Pet)",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.benldadoptapet.org/adoptions.html",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(217) 835-2538",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Pet Adoption at PetSmart Springfield, 11am-2pm",
+    "url": "https://www.benldadoptapet.org/news--events.html",
+    "place": "PetSmart, 3183 S Veterans Pkwy, Springfield, IL"
+   }
+  ],
+  "events_url": "https://www.benldadoptapet.org/news--events.html",
+  "programs_url": "https://www.benldadoptapet.org/applications.html",
+  "contact_url": "https://www.benldadoptapet.org/about-us.html",
+  "checked_on": "2026-11-28"
+ },
+ {
+  "state": "IL",
+  "city": "Monmouth",
+  "org": "Western Illinois Animal Rescue",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.wiarrescue.com/adoption",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(309) 715-7109",
+  "email_program": "",
+  "email_main": "wiarrescue@yahoo.com",
+  "source_list": "shelter website",
+  "events": [],
+  "events_url": "https://www.wiarrescue.com/s-projects-side-by-side",
+  "programs_url": "https://www.wiarrescue.com/get-involved",
+  "contact_url": "https://www.wiarrescue.com/contact",
+  "checked_on": "2026-11-28"
+ },
+ {
+  "state": "IL",
+  "city": "Greenville",
+  "org": "Bond County Humane Society",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.bondcohumane.org/adopt.html",
+  "notes": "",
+  "checked": "November 2026",
+  "phone": "(618) 664-4068",
+  "email_program": "",
+  "email_main": "bchs4pets@sbcglobal.net",
+  "source_list": "shelter website",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Saturday Adoption Meet & Greet at Petco, 11am-3pm",
+    "url": "https://www.bondcohumane.org/events.html",
+    "place": "Petco, Hwy 159 & Hwy 50, Fairview Heights, IL"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Saturday Adoption Meet & Greet at Petco, 11am-3pm",
+    "url": "https://www.bondcohumane.org/events.html",
+    "place": "Petco, Hwy 159 & Hwy 50, Fairview Heights, IL"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Saturday Adoption Meet & Greet at Petco, 11am-3pm",
+    "url": "https://www.bondcohumane.org/events.html",
+    "place": "Petco, Hwy 159 & Hwy 50, Fairview Heights, IL"
+   }
+  ],
+  "events_url": "https://www.bondcohumane.org/events.html",
+  "programs_url": "https://www.bondcohumane.org/volunteer.html",
+  "contact_url": "https://www.bondcohumane.org/about.html",
+  "checked_on": "2026-11-28"
  }
 ]
