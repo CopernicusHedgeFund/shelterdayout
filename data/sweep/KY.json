@@ -924,14 +924,19 @@
   "program": "Check Me Out",
   "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Day trip",
+  "offers": "Day trip; monthly Check Meowt Book Club with adoptable cats",
   "url": "https://lexingtonhumanesociety.org/check-me-out-program/",
   "notes": "Adults 18+ with photo ID and a working cell phone sign a waiver, then take a dog out for the day: pick up 2-4 pm Tue-Fri at the Malcomb campus (1600 Old Frankfort Pike, return by 5 pm) or at the Everyday Adoption Center in PetSmart (2-4 pm Mon-Fri, return by 5 pm; 11 am-1 pm Sat-Sun, return by 2 pm). No dog parks or personal pets; may close in hot or bad weather, so call 859-233-0044 ext. 223 first.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(859) 233-0044"
+  "phone": "(859) 233-0044",
+  "events_url": "https://lexingtonhumanesociety.org/calendar-of-events/summary/",
+  "programs_url": "https://lexingtonhumanesociety.org/check-me-out-program/",
+  "contact_url": "https://lexingtonhumanesociety.org/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -941,12 +946,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.lexingtonky.gov/node/650",
+  "url": "https://www.lexingtonky.gov/animal-care-and-control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(859) 255-9033",
+  "contact_url": "https://www.lexingtonky.gov/animal-care-and-control",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -999,7 +1008,11 @@
     "place": "PetSmart Springhurst, Louisville"
    }
   ],
-  "phone": "(502) 366-3355"
+  "phone": "(502) 366-3355",
+  "events_url": "https://www.kyhumane.org/events-calendar/",
+  "programs_url": "https://www.kyhumane.org/get-involved/volunteer/",
+  "contact_url": "https://www.kyhumane.org/about/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1015,23 +1028,30 @@
   "email_program": "",
   "email_main": "",
   "source": "https://www.wlky.com/article/shelter-dogs-louisville-adoption-field-trips-lmas/39504549",
-  "phone": ""
+  "phone": "(502) 574-5000",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
   "city": "Louisville",
   "org": "The Animal Care Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "http://www.animalcaresociety.org",
-  "notes": "",
+  "program": "Mutts on the Move",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Field trips (a few hours), optional approved overnighters",
+  "url": "https://animalcaresociety.org/mutts-on-the-move/",
+  "notes": "Contact ACS to get matched with an eligible dog, take it for a walk, a park or trail, a dog-friendly store or a Starbucks pup cup for a few hours, then bring it back at the agreed time; leash always, no off-leash dog parks; overnighters must be approved.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@animalcaresociety.org",
   "source_list": "shelter website",
-  "phone": "(502) 426-6303"
+  "phone": "(502) 426-6303",
+  "events_url": "https://animalcaresociety.org/events/",
+  "programs_url": "https://animalcaresociety.org/mutts-on-the-move/",
+  "contact_url": "https://animalcaresociety.org/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1255,9 +1275,13 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@callowaycountyky.gov",
-  "phone": "(270) 227-7600",
+  "phone": "(270) 759-4141",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12034021234"
+  "osm": "node/12034021234",
+  "programs_url": "https://callowaycountyky.gov/animal-control/doggie-daycations/",
+  "contact_url": "https://callowaycountyky.gov/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1273,7 +1297,12 @@
   "email_program": "",
   "email_main": "jessamineacc@jessamineky.gov",
   "source_list": "shelter website",
-  "phone": "(859) 881-0821"
+  "phone": "(859) 881-0821",
+  "events_url": "https://adoptjcacc.com/events/",
+  "programs_url": "https://adoptjcacc.com/volunteer-information/",
+  "contact_url": "https://adoptjcacc.com/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1304,7 +1333,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 685-8275"
+  "phone": "(270) 685-8275",
+  "programs_url": "https://www.daviessky.org/dogs-day-out/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1320,23 +1352,31 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 302-6813"
+  "phone": "(270) 302-6813",
+  "programs_url": "https://owensborohumane.org/volunteer/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
   "city": "Paducah",
   "org": "McCracken County Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://mccrackenhumane.org",
-  "notes": "",
+  "program": "Doggy Day Out",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trips (10:30am-3:15pm); week-long foster-to-adopt",
+  "url": "https://mccrackenhumane.org/newsletter/pet-gazette-winter-2025-newsletter/",
+  "notes": "Winter 2025 newsletter describes Doggy Day Out: pick a dog you like and take it on a date (dog park, pup cup, meet your family) between 10:30am and 3:15pm; call the shelter for details, as it isn't on the main site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@mccrackenhumane.org",
   "source_list": "shelter website",
-  "phone": "(270) 443-5923"
+  "phone": "(270) 443-5923",
+  "events_url": "https://mccrackenhumane.org/events/",
+  "programs_url": "https://mccrackenhumane.org/newsletter/pet-gazette-winter-2025-newsletter/",
+  "contact_url": "https://mccrackenhumane.org/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1352,7 +1392,10 @@
   "email_program": "",
   "email_main": "pawsparisky@gmail.com",
   "source_list": "shelter website",
-  "phone": "(859) 988-9800"
+  "phone": "(859) 988-9800",
+  "programs_url": "https://pawspets.org/get-involved/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1609,7 +1652,20 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(859) 873-5491"
+  "phone": "(859) 873-5491",
+  "events_url": "https://www.woodfordhumane.org/events-calendar/",
+  "programs_url": "https://www.woodfordhumane.org/helpout/volunteer/",
+  "contact_url": "https://www.woodfordhumane.org/about-us/contact-us/",
+  "events": [
+   {
+    "date": "2026-12-01",
+    "end": "2026-12-13",
+    "title": "The Adoption Drive: every adoption 50% off (one per household, book by phone)",
+    "url": "https://www.woodfordhumane.org/adoption-center/the-adoption-drive/",
+    "place": "Adoption Center, 265 Thomas Lane, Versailles"
+   }
+  ],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
