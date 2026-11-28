@@ -626,7 +626,11 @@
   "email_main": "animalshelter@sttammany.gov",
   "source_list": "shelter website",
   "phone": "(985) 898-2700",
-  "events": []
+  "events": [],
+  "events_url": "https://www.stpgov.org/departments/animal_services/index.php",
+  "programs_url": "https://www.stpgov.org/departments/animal_services/frequently_asked_questions.php",
+  "contact_url": "https://www.stpgov.org/departments/animal_services/index.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -643,7 +647,10 @@
   "email_main": "LASCC@lafayettela.gov",
   "source_list": "shelter website",
   "phone": "(337) 291-5644",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.lafayettela.gov/living-here/lafayette-animal-shelter-and-care-center/get-involved/foster-a-pet/",
+  "events_url": "https://www.lafayettela.gov/living-here/lafayette-animal-shelter-and-care-center/get-involved/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -660,7 +667,9 @@
   "email_main": "animalservices@calcasieu.gov",
   "source_list": "shelter website",
   "phone": "(337) 721-3730",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.calcasieu.gov/services/animal-services-and-adoption/volunteering",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -678,7 +687,11 @@
   "phone": "(337) 439-2428",
   "source_list": "shelter website",
   "osm": "way/1451707486",
-  "events": []
+  "events": [],
+  "events_url": "https://www.hobohotelforcats.com/events",
+  "programs_url": "https://www.hobohotelforcats.com/volunteer",
+  "contact_url": "https://www.hobohotelforcats.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -695,7 +708,9 @@
   "events": [],
   "city": "Leesville",
   "org": "Vernon Parish Animal Shelter",
-  "url": "https://www.vppjla.com/?page_id=54"
+  "url": "https://www.vppjla.com/?page_id=54",
+  "contact_url": "https://www.vppjla.com/?page_id=54",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -729,7 +744,9 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(985) 783-5010",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.stcharlesparish.gov/departments/animal-control/volunteering-and-donating",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -746,7 +763,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(318) 256-2275",
-  "events": []
+  "events": [],
+  "programs_url": "https://sabinehumanesociety.com/volunteering/",
+  "contact_url": "https://sabinehumanesociety.com/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -780,7 +800,11 @@
   "email_main": "volunteerinfohsacm@yahoo.com",
   "source_list": "shelter website",
   "phone": "(318) 387-9553",
-  "events": []
+  "events": [],
+  "events_url": "https://humanesocietyofmonroe.org/events/",
+  "programs_url": "https://humanesocietyofmonroe.org/volunteer-opportunities/",
+  "contact_url": "https://humanesocietyofmonroe.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -831,8 +855,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/NatchitochesAnimalControl",
-  "phone": "",
-  "events": []
+  "phone": "(318) 352-2772",
+  "events": [],
+  "contact_url": "https://www.natchitochesla.gov/government/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -863,10 +889,13 @@
   "notes": "1314 Troy Rd. Adoptions by appointment with approved application; visiting Mon-Fri 8am-noon, Sat 8-11am.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@angelpawsiberia.com",
   "source_list": "shelter website",
   "phone": "(337) 365-1923",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.angelpawsiberia.com/volunteer",
+  "contact_url": "https://www.angelpawsiberia.com/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -882,8 +911,10 @@
   "email_program": "",
   "email_main": "aistre@iberiagov.net",
   "source_list": "shelter website",
-  "phone": "",
-  "events": []
+  "phone": "(337) 364-6311",
+  "events": [],
+  "contact_url": "https://iberiaparishgovernment.com/animal-control/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -923,18 +954,21 @@
   "state": "LA",
   "city": "New Orleans",
   "org": "Zeus' Rescues (Zeus' Adoption Center)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://zeusrescues.org/",
-  "notes": "Adoption center at 2520 Napoleon Ave; visit available pets daily 10am-4pm.",
+  "program": "Zeus' Rescues Dog Walking",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Walk-in dog walks",
+  "url": "https://zeusrescues.org/dog-walking/",
+  "notes": "Fill out the online dog walking form, then stop by 4601 Freret St any day from 10am to noon to walk one of the rescue dogs. The home page mentioned walks pausing during the move to Freret St, so call 504-309-2144 to confirm before going.",
   "checked": "November 2026",
   "phone": "(504) 309-2144",
-  "email_program": "",
+  "email_program": "zeusrescues@gmail.com",
   "email_main": "zeusrescues@gmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://zeusrescues.org/dog-walking/",
+  "contact_url": "https://zeusrescues.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
