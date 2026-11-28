@@ -19,6 +19,14 @@ For each entry in data/sweep/<STATE>.json in your scope that has a website ("url
 3. Remove events that are already past.
 Skip entries with no website. Don't re-check things unrelated to events and programs.
 
+## Record the direct pages on EVERY visit (makes monthly checks fast)
+For every shelter you visit, add or update these fields in its entry (leave a field out if the site has no such page):
+- "events_url": the page that lists its events / adoption specials
+- "programs_url": the page with its day-out, foster or volunteer programs (the program's own page if it has one)
+- "contact_url": its contact page
+- "checked_on": today's date as YYYY-MM-DD
+Also fill or fix "phone" (main public line, "(555) 555-5555") and "email_main" (public general email) if the site shows them.
+
 ## Pass F2: program search by name (after Pass E)
 WebSearch the scope with several of the words above plus the state name (e.g. "field trip" shelter dog <state>, "cat lounge" humane society <state>, "sleepover" shelter dog <state>, "dog date" shelter <state>, "kennel break" <state>, "cat cafe" adoptable cats <state>). Confirm each hit on the shelter's own site and update or add it.
 
