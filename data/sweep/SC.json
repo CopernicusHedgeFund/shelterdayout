@@ -337,7 +337,11 @@
   "email_program": "",
   "email_main": "adoption@pawmettolifeline.org",
   "source_list": "shelter website",
-  "phone": "(803) 465-9150"
+  "phone": "(803) 465-9150",
+  "events_url": "https://pawmettolifeline.org/events/",
+  "programs_url": "https://pawmettolifeline.org/get-involved/become-a-volunteer/",
+  "contact_url": "https://pawmettolifeline.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -354,7 +358,10 @@
   "email_main": "shelter@horrycountysc.gov",
   "phone": "(843) 915-5172",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/756369111"
+  "osm": "way/756369111",
+  "programs_url": "https://www.horrycountysc.gov/departments/animal-care-center/",
+  "contact_url": "https://www.horrycountysc.gov/departments/animal-care-center/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -370,7 +377,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(843) 841-8884"
+  "phone": "(843) 841-8884",
+  "contact_url": "https://www.cityofdillonsc.gov/contactus",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -397,13 +406,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.florencecountysc.gov/offices/environmental-services/services/",
+  "url": "https://www.florencecountysc.gov/offices/environmental-services/petadoption/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(843) 665-3053"
+  "phone": "(843) 665-3053",
+  "contact_url": "https://www.florencecountysc.gov/contact.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -420,7 +431,10 @@
   "email_main": "letmehelpfahs@gmail.com",
   "phone": "(843) 629-5456",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/13362523210"
+  "osm": "node/13362523210",
+  "events_url": "https://www.cityofflorencesc.gov/calendar-events",
+  "contact_url": "https://www.cityofflorencesc.gov/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -436,7 +450,10 @@
   "email_program": "",
   "email_main": "contact@humanesocietyofyorkcounty.org",
   "source_list": "shelter website",
-  "phone": "(803) 802-0902"
+  "phone": "(803) 802-0902",
+  "events_url": "https://humanesocietyofyorkcounty.org/what-we-do-hsyc/calendar.html",
+  "programs_url": "https://humanesocietyofyorkcounty.org/about-hsyc/pet-enrichment.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -452,7 +469,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(864) 487-0161"
+  "phone": "(864) 487-0161",
+  "contact_url": "https://cherokeecountysc.gov/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -468,23 +487,30 @@
   "email_program": "",
   "email_main": "lead@sfanimals.org",
   "source_list": "shelter website",
-  "phone": "(843) 546-0780"
+  "phone": "(843) 546-0780",
+  "events_url": "https://www.sfanimals.org/event-and-outreach/",
+  "programs_url": "https://www.sfanimals.org/how-you-can-help/volunteer/",
+  "contact_url": "https://www.sfanimals.org/about-us/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
   "city": "Greenville",
   "org": "Greenville County Animal Care",
-  "program": "Doggy's Day Out",
+  "program": "Doggy's Day Out & Doggy Sleepover",
   "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Day trip",
+  "offers": "Day trips, sleepovers",
   "url": "https://greenvillecountysc.gov/ACS/DoggysDayOut.aspx",
-  "notes": "Book a pickup time online and read the program manual first; no prior experience needed and a backpack kit is provided. Questions: 864-467-3985.",
+  "notes": "No application or training needed for Doggy's Day Out: take a shelter dog on a 3-6 hour adventure and bring it back the same day; Doggy Sleepover is a 1-3 night stay. Questions: 864-467-3985.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "fosterapet@greenvillecounty.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(864) 467-3950"
+  "phone": "(864) 467-3950",
+  "programs_url": "https://greenvillecountysc.gov/ACS/Foster.aspx",
+  "contact_url": "https://greenvillecountysc.gov/ACS/ContactUs.aspx",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -501,7 +527,10 @@
   "email_main": "",
   "phone": "(864) 242-3626",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/1718676995"
+  "osm": "node/1718676995",
+  "programs_url": "https://www.greenvillehumane.com/paws-around-gvl/",
+  "contact_url": "https://www.greenvillehumane.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -518,7 +547,10 @@
   "email_main": "humane@gwdhumanesociety.org",
   "phone": "(864) 223-2498",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/760090931"
+  "osm": "way/760090931",
+  "programs_url": "https://www.gwdhumanesociety.org/save-a-life/volunteer/",
+  "contact_url": "https://www.gwdhumanesociety.org/home/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
