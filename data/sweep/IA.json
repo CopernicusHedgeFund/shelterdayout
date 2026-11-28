@@ -1319,7 +1319,10 @@
   "email_program": "manager@almosthomear.com",
   "email_main": "manager@almosthomear.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.almosthomear.com/services-1",
+  "contact_url": "https://www.almosthomear.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1336,24 +1339,31 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://www.animal-lifeline.com/events",
+  "programs_url": "https://www.animal-lifeline.com/volunteer",
+  "contact_url": "https://www.animal-lifeline.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
   "city": "Humboldt",
   "org": "Moffitt Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://moffittanimalshelter.org/",
-  "notes": "",
+  "program": "Cat visiting hours",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat visits",
+  "url": "https://moffittanimalshelter.org/volunteer/",
+  "notes": "The shelter cats can be visited during operating hours, 8-11 a.m. Monday to Friday.",
   "checked": "November 2026",
   "phone": "(515) 604-6242",
   "email_program": "",
   "email_main": "moffitt.adopt@gmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://moffittanimalshelter.org/volunteer/",
+  "contact_url": "https://moffittanimalshelter.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1383,11 +1393,13 @@
   "url": "http://www.greenbelthumanesociety.org/about-us.html",
   "notes": "Volunteer-run no-kill cat shelter at 319 River St.",
   "checked": "November 2026",
-  "phone": "",
+  "phone": "(641) 648-2692",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "http://www.greenbelthumanesociety.org/contact-us.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1404,6 +1416,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.calhouncounty.iowa.gov/county_offices/public_health/contact_us.php",
+  "checked_on": "2026-11-28"
  }
 ]
