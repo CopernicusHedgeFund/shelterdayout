@@ -1563,7 +1563,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(408) 262-2133 ext. 150"
+  "phone": "(408) 262-2133 ext. 150",
+  "programs_url": "https://www.hssv.org/programs/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1916,17 +1918,19 @@
   "state": "CA",
   "city": "Oakland",
   "org": "Oakland Animal Services",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.oaklandanimalservices.org/",
-  "notes": "",
+  "program": "Doggie day outings",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://www.oaklandanimalservices.org/how-to-help/volunteer/how-to-volunteer/",
+  "notes": "Regular dog volunteers can take shelter dogs on day outings after at least 6 months (50 hours) of volunteering.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteerprogram@oaklandca.gov",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.oaklandanimalservices.org/how-to-help/volunteer/how-to-volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -3464,12 +3468,16 @@
   "status": "Volunteers only",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://tracypd.com/bureau-of-support-services/animal-services",
+  "url": "https://www.tracypd.com/Operations/Bureau-of-Support-Services/Animal-Services",
   "notes": "Run by Friends of the Tracy Animal Shelter (FOTTAS): take a shelter dog hiking, swimming or home for the day. Apply with the FOTTAS volunteer application and wait for an approval email with scheduling instructions. Shelter at 2375 Paradise Rd.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "AnimalServices@TracyPD.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(209) 831-6364",
+  "programs_url": "https://www.tracypd.com/Operations/Bureau-of-Support-Services/Animal-Services",
+  "contact_url": "https://www.tracypd.com/Contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -3547,7 +3555,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "http://www.mendoanimalshelter.com/programs-etc/",
+  "contact_url": "http://www.mendoanimalshelter.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -3751,6 +3762,25 @@
   "email_main": "info@yaps.org",
   "source_list": "shelter website",
   "phone": "(909) 790-1440"
+ },
+ {
+  "state": "CA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs",
+  "offers": "",
+  "notes": "Police-run city shelter at 808 2nd Street that places animals for adoption; visits by appointment with the Animal Control Officer, Mon-Fri 8am-5pm.",
+  "checked": "November 2026",
+  "phone": "(559) 626-5177",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [],
+  "checked_on": "2026-11-28",
+  "city": "Orange Cove",
+  "org": "Orange Cove Animal Shelter (Orange Cove Police Dept. Animal Control)",
+  "url": "https://cityoforangecove.com/orange-cove-police-department-animal-control/",
+  "contact_url": "https://cityoforangecove.com/contact-us/"
  },
  {
   "state": "CA",
