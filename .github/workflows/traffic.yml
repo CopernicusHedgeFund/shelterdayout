@@ -4,7 +4,10 @@ name: Traffic snapshot
 # Start:  gh api -X POST repos/CopernicusHedgeFund/shelterdayout/actions/workflows/traffic.yml/dispatches -f ref=main
 # Read (~1 min later): gh api "repos/CopernicusHedgeFund/shelterdayout/contents/data/traffic_live.json?ref=traffic-data" -H "Accept: application/vnd.github.raw"
 # The run proves itself to the server with a GitHub identity token; no secret is stored anywhere.
+# Also runs by itself every hour, so a recent snapshot is usually waiting without anyone triggering it.
 on:
+  schedule:
+    - cron: '23 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,7 +31,7 @@ jobs:
           for n in 1 2 3; do
             code=$(curl -sS -m 90 -A "ShelterDayOut-traffic-snapshot" --data-urlencode "t=$T" "https://shelterdayout.com/api/traffic.php" -o out/data/traffic_live.json -w "%{http_code}")
             if [ "$code" = "200" ] && head -c 1 out/data/traffic_live.json | grep -q '{'; then break; fi
-            echo "attempt $n: $code"; head -c 200 out/data/traffic_live.json; echo
+            echo "attempt $n: $code"; head -c 600 out/data/traffic_live.json; echo
             [ "$n" = 3 ] && exit 1
             sleep 20
           done
