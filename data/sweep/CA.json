@@ -122,7 +122,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(805) 466-5403"
+  "phone": "(805) 466-5403",
+  "events": [],
+  "events_url": "https://woodshumanesociety.org/events/",
+  "programs_url": "https://woodshumanesociety.org/get-involved/foster/",
+  "contact_url": "https://woodshumanesociety.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -143,16 +148,21 @@
   "state": "CA",
   "city": "Bakersfield",
   "org": "Kern County Animal Services - Bakersfield Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.kerncounty.com/government/departments/animal-services",
-  "notes": "Official URL not confirmed.",
+  "program": "Streets of Bakersfield (day outings & weekend sleepovers)",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips, weekend sleepovers",
+  "url": "https://www.kerncountyanimalservices.org/how-to-help/streets-of-bakersfield",
+  "notes": "Adults 18+ with a current foster application pick up a dog 10am-noon on Streets of Bakersfield days (dates posted on the shelter Facebook page); day dogs return by 3:30pm, sleepover dogs by 4pm the following Monday.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "dogfoster@kerncounty.com",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "phone": "(661) 868-7100",
+  "events_url": "https://www.kerncountyanimalservices.org/adopt-a-pet/upcoming-adoption-events/",
+  "programs_url": "https://www.kerncountyanimalservices.org/how-to-help/foster/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -216,7 +226,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(510) 845-7735"
+  "phone": "(510) 845-7735",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -232,7 +244,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "",
+  "phone": "(909) 866-4943",
   "events": [
    {
     "date": "2026-12-05",
@@ -240,7 +252,11 @@
     "url": "https://animalcare.sbcounty.gov/event/petsmart-charities-adoption-event-8/",
     "place": "PetSmart, Fontana"
    }
-  ]
+  ],
+  "events_url": "https://animalcare.sbcounty.gov/events/",
+  "programs_url": "https://animalcare.sbcounty.gov/become-a-pet-foster-parent/",
+  "contact_url": "https://animalcare.sbcounty.gov/contactus/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -318,10 +334,14 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptinquire@phs-spca.org",
   "source_list": "shelter website",
   "phone": "(650) 340-7022",
-  "events": []
+  "events": [],
+  "events_url": "https://phs-spca.org/events/",
+  "programs_url": "https://phs-spca.org/volunteer/foster/",
+  "contact_url": "https://phs-spca.org/about/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -372,7 +392,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": [],
-  "phone": "(619) 767-2675"
+  "phone": "(619) 767-2675",
+  "programs_url": "https://www.sandiegocounty.gov/content/sdc/das/adopt/Foster.html",
+  "contact_url": "https://www.sandiegocounty.gov/content/sdc/das/shelter-locations.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -528,7 +551,11 @@
     "place": "Fontana PetSmart, 15042 Summit Ave., Fontana"
    }
   ],
-  "phone": "(800) 472-5609"
+  "phone": "(909) 386-9820",
+  "events_url": "https://animalcare.sbcounty.gov/events/",
+  "programs_url": "https://animalcare.sbcounty.gov/become-a-pet-foster-parent/",
+  "contact_url": "https://animalcare.sbcounty.gov/contactus/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1256,7 +1283,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(562) 570-7387"
+  "phone": "(562) 570-7387",
+  "events": [],
+  "programs_url": "https://www.longbeach.gov/acs/our-animals/foster/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1327,7 +1357,10 @@
   "email_program": "ani.foster@lacity.org",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(888) 452-7381"
+  "phone": "(888) 452-7381",
+  "events": [],
+  "programs_url": "https://www.laanimalservices.com/adventure-buddy-day",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4421,13 +4454,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.kerncounty.com/government/departments/animal-services",
-  "phone": "",
+  "url": "https://www.kerncountyanimalservices.org/pages/kern-valley-animal-shelter-lake-isabella/",
+  "phone": "(760) 378-1131",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "events_url": "https://www.kerncountyanimalservices.org/adopt-a-pet/upcoming-adoption-events/",
+  "programs_url": "https://www.kerncountyanimalservices.org/how-to-help/foster/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4459,7 +4496,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -5015,5 +5054,25 @@
   "url": "https://www.ci.sanger.ca.us/229/Animal-Control",
   "programs_url": "https://www.ci.sanger.ca.us/230/Volunteer-Services",
   "contact_url": "https://www.ci.sanger.ca.us/directory"
+ },
+ {
+  "state": "CA",
+  "city": "La Jolla",
+  "org": "The Cat Lounge Rescue and Adoption Center",
+  "program": "Cat lounge visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Visit",
+  "url": "https://thecatlounge.org/visit-us",
+  "notes": "Nonprofit cat lounge at 1006 Torrey Pines Rd where visitors hang out with adoptable cats rescued from local shelters.",
+  "checked": "November 2026",
+  "phone": "(858) 886-7083",
+  "email_program": "",
+  "email_main": "",
+  "source_list": "shelter website",
+  "events": [],
+  "events_url": "https://thecatlounge.org/events",
+  "contact_url": "https://thecatlounge.org/contact-us",
+  "checked_on": "2026-11-28"
  }
 ]

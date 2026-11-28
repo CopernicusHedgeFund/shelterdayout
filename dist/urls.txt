@@ -46,6 +46,7 @@ https://shelterdayout.com/cities/auburn-ny/
 https://shelterdayout.com/cities/auburn-wa/
 https://shelterdayout.com/cities/austin-tx/
 https://shelterdayout.com/cities/azle-tx/
+https://shelterdayout.com/cities/bakersfield-ca/
 https://shelterdayout.com/cities/baldwin-md/
 https://shelterdayout.com/cities/baltimore-md/
 https://shelterdayout.com/cities/bangor-me/
@@ -279,6 +280,7 @@ https://shelterdayout.com/cities/kingman-az/
 https://shelterdayout.com/cities/knoxville-tn/
 https://shelterdayout.com/cities/kokomo-in/
 https://shelterdayout.com/cities/kurtistown-hi/
+https://shelterdayout.com/cities/la-jolla-ca/
 https://shelterdayout.com/cities/la-porte-tx/
 https://shelterdayout.com/cities/laconia-nh/
 https://shelterdayout.com/cities/lafayette-in/
@@ -4330,6 +4332,7 @@ https://shelterdayout.com/listings/the-cat-caf-san-diego-san-diego/
 https://shelterdayout.com/listings/the-cat-connection-brighton/
 https://shelterdayout.com/listings/the-cat-corner-inc-hampton/
 https://shelterdayout.com/listings/the-cat-house-on-the-kings-parlier/
+https://shelterdayout.com/listings/the-cat-lounge-rescue-and-adoption-center-la-jolla/
 https://shelterdayout.com/listings/the-cat-lounge-rescue-and-adoption-center-san-diego/
 https://shelterdayout.com/listings/the-cat-s-meow-anacortes/
 https://shelterdayout.com/listings/the-catcade-chicago/
