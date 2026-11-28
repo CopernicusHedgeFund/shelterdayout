@@ -390,6 +390,7 @@ https://shelterdayout.com/cities/newport-nc/
 https://shelterdayout.com/cities/newport-news-va/
 https://shelterdayout.com/cities/newton-ks/
 https://shelterdayout.com/cities/newton-nc/
+https://shelterdayout.com/cities/norfolk-ne/
 https://shelterdayout.com/cities/norfolk-va/
 https://shelterdayout.com/cities/north-branch-nj/
 https://shelterdayout.com/cities/north-charleston-sc/
@@ -532,6 +533,7 @@ https://shelterdayout.com/cities/syracuse-ny/
 https://shelterdayout.com/cities/tahlequah-ok/
 https://shelterdayout.com/cities/tallahassee-fl/
 https://shelterdayout.com/cities/tampa-fl/
+https://shelterdayout.com/cities/terrytown-ne/
 https://shelterdayout.com/cities/texas-city-tx/
 https://shelterdayout.com/cities/thomaston-me/
 https://shelterdayout.com/cities/thousand-palms-ca/
