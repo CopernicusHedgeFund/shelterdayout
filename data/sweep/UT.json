@@ -12,7 +12,12 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(801) 261-2919"
+  "phone": "(801) 261-2919",
+  "events_url": "https://www.utahhumane.org/events",
+  "programs_url": "https://www.utahhumane.org/how-to-help/doggy-day-out",
+  "contact_url": "https://www.utahhumane.org/about-us/contact-us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -23,7 +28,7 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://cachehumane.org/get-involved/volunteer",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Volunteers 18+ sign up via the shelter's Google Form (no time commitment) to take shelter dogs on trips around Cache Valley; only pre-approved places, you provide safe transportation and clean up after the dog.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -35,7 +40,11 @@
     "url": "https://cachehumane.org/event/santa-paws/",
     "place": "Cache Humane Society, 2370 W 200 N, Logan"
    }
-  ]
+  ],
+  "events_url": "https://cachehumane.org/blog/upcoming-events",
+  "programs_url": "https://cachehumane.org/get-involved/volunteer",
+  "contact_url": "https://cachehumane.org/about/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "UT",
@@ -49,7 +58,12 @@
   "notes": "Host an adoptable dog or cat overnight in pet-friendly lodging (pick up in the afternoon, return next morning), or take a dog on a town outing or hike. You or someone in your party must first volunteer a shift in that animal's area (guests at sanctuary lodging/Roadhouse are exempt); book via the volunteer application and calendar. Guests traveling with their own pets cannot host.",
   "checked": "November 2026",
   "email_program": "volunteers@bestfriends.org",
-  "email_main": ""
+  "email_main": "info@bestfriends.org",
+  "programs_url": "https://bestfriends.org/sanctuary/volunteer/animal-sleepovers",
+  "contact_url": "https://bestfriends.org/contact-us",
+  "phone": "(435) 688-2327",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -64,7 +78,12 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(385) 468-7387"
+  "phone": "(385) 468-7387",
+  "events_url": "https://www.saltlakecounty.gov/animal-services/events/",
+  "programs_url": "https://www.saltlakecounty.gov/animal-services/get-involved/foster-a-pet/",
+  "contact_url": "https://www.saltlakecounty.gov/animal-services/contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -81,24 +100,32 @@
   "email_main": "",
   "phone": "(435) 627-4350",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/1871821238"
+  "osm": "node/1871821238",
+  "contact_url": "https://sgcityutah.gov/departments/police_department/divisions/administrative_services_division/animal_services.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
   "city": "Saint George",
   "org": "Providing Animals With Support (PAWS) Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://stgeorgepaws.org/",
-  "notes": "",
+  "program": "Cat visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "url": "https://stgeorgepaws.org/contact-us/",
+  "notes": "Anyone can spend time with the adoption center's cats for a $10 donation, even without an adoption application on file; open Wed-Sat 10am-4pm (arrive by 3pm to see animals).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "+1 435 6889748",
+  "email_main": "info@stgeorgepaws.org",
+  "phone": "(435) 688-9748",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/2421448934"
+  "osm": "node/2421448934",
+  "events_url": "https://stgeorgepaws.org/events/",
+  "programs_url": "https://stgeorgepaws.org/contact-us/",
+  "contact_url": "https://stgeorgepaws.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -115,7 +142,11 @@
   "email_main": "animal@westjordan.utah.gov",
   "phone": "(801) 282-3951",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/2484178635"
+  "osm": "node/2484178635",
+  "events_url": "https://www.westjordan.utah.gov/calendar/",
+  "contact_url": "https://www.westjordan.utah.gov/animal-services/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -130,9 +161,13 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(801) 840-4000",
+  "phone": "(801) 208-3168",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/11905454652"
+  "osm": "node/11905454652",
+  "programs_url": "https://www.rivertonutah.gov/animalcontrol/",
+  "contact_url": "https://www.rivertonutah.gov/animalcontrol/contact.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -143,13 +178,17 @@
   "animals": "Cats",
   "offers": "Cat lounge visits",
   "url": "https://www.fawnsfamilyrescue.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "notes": "Walk-in cat lounge, no appointment needed: Tue-Sat 12-7pm; $5 per 30 minutes or $9 per hour (family pricing Tue-Thu $30/hour for up to 6; under 2 free). Sign the online waiver; children must be supervised. Fees fund the cats' care.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(801) 317-8643",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12789368167"
+  "osm": "node/12789368167",
+  "events_url": "https://www.fawnsfamilyrescue.org/special-events-calendar",
+  "programs_url": "https://www.fawnsfamilyrescue.org/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -166,7 +205,12 @@
   "email_main": "",
   "phone": "(801) 444-2200",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/14191852601"
+  "osm": "node/14191852601",
+  "events_url": "https://www.daviscountyutah.gov/animalcare/about/news",
+  "programs_url": "https://www.daviscountyutah.gov/animalcare/foster",
+  "contact_url": "https://www.daviscountyutah.gov/animalcare/about/contact",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -200,7 +244,12 @@
   "email_main": "animalservices@webercountyutah.gov",
   "phone": "(801) 399-8244",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/46325099"
+  "osm": "way/46325099",
+  "events_url": "https://webercountyutah.gov/news/index.php",
+  "programs_url": "https://webercountyutah.gov/Animal_Shelter/foster.php",
+  "contact_url": "https://www.webercountyutah.gov/Animal_Shelter/contact.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -241,15 +290,15 @@
   "city": "Salt Lake City",
   "org": "Best Friends Pet Adoption Center",
   "program": "Adventure Buddy",
-  "status": "Volunteers only",
+  "status": "Open to public",
   "animals": "Dogs",
   "offers": "Day trip",
-  "url": "https://bestfriends.org/salt-lake-city/foster",
-  "notes": "Take an adoptable dog out of the center for an outing; sign up through the Best Friends volunteer intake form. Short fosters of a night or a weekend are also offered through the foster program.",
+  "url": "https://bestfriends.org/foster/adventure-buddies-program",
+  "notes": "Take an adoptable dog out for a few hours to dog-friendly places; sign up online (15-20 minutes, includes a short orientation video), staff match you with a dog and provide leash and water bowl, then return the dog and share notes. No adoption or foster commitment required. Short fosters of a night or a weekend are also offered through the foster program.",
   "checked": "November 2026",
   "email_program": "utahfoster@bestfriends.org",
-  "email_main": "",
-  "phone": "+1-801-574-2454",
+  "email_main": "utahadoptions@bestfriends.org",
+  "phone": "(801) 574-2454",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/464035719",
   "events": [
@@ -259,7 +308,11 @@
     "url": "https://bestfriends.org/salt-lake-city/events",
     "place": "Best Friends Pet Adoption Center, Salt Lake City"
    }
-  ]
+  ],
+  "events_url": "https://bestfriends.org/salt-lake-city/events",
+  "programs_url": "https://bestfriends.org/foster/adventure-buddies-program",
+  "contact_url": "https://bestfriends.org/salt-lake-city",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "UT",
