@@ -142,6 +142,7 @@ https://shelterdayout.com/cities/cumming-ga/
 https://shelterdayout.com/cities/currituck-nc/
 https://shelterdayout.com/cities/dallas-tx/
 https://shelterdayout.com/cities/danville-ky/
+https://shelterdayout.com/cities/daphne-al/
 https://shelterdayout.com/cities/dawsonville-ga/
 https://shelterdayout.com/cities/dayton-oh/
 https://shelterdayout.com/cities/daytona-beach-fl/
@@ -375,6 +376,7 @@ https://shelterdayout.com/cities/modesto-ca/
 https://shelterdayout.com/cities/moncks-corner-sc/
 https://shelterdayout.com/cities/monroe-mi/
 https://shelterdayout.com/cities/montclair-nj/
+https://shelterdayout.com/cities/montgomery-al/
 https://shelterdayout.com/cities/montour-falls-ny/
 https://shelterdayout.com/cities/moore-ok/
 https://shelterdayout.com/cities/mt-pleasant-mi/
@@ -514,6 +516,7 @@ https://shelterdayout.com/cities/sequim-wa/
 https://shelterdayout.com/cities/sevierville-tn/
 https://shelterdayout.com/cities/sheboygan-wi/
 https://shelterdayout.com/cities/shohola-pa/
+https://shelterdayout.com/cities/shorter-al/
 https://shelterdayout.com/cities/silverdale-wa/
 https://shelterdayout.com/cities/simi-valley-ca/
 https://shelterdayout.com/cities/sioux-falls-sd/

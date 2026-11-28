@@ -755,7 +755,10 @@
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-clay.html",
   "phone": "(256) 354-1453",
-  "events": []
+  "events": [],
+  "programs_url": "https://claycountyanimalshelter.org/volunteer/",
+  "contact_url": "https://claycountyanimalshelter.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -773,7 +776,10 @@
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-randolph.html",
   "phone": "(256) 357-0101",
-  "events": []
+  "events": [],
+  "programs_url": "https://randolphshelter.org/ways-to-help",
+  "contact_url": "https://randolphshelter.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -791,7 +797,11 @@
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-chambers.html",
   "phone": "(334) 756-9377",
-  "events": []
+  "events": [],
+  "events_url": "https://www.chatthumanesociety.org/event-list",
+  "programs_url": "https://www.chatthumanesociety.org/foster-an-animal",
+  "contact_url": "https://www.chatthumanesociety.org/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -809,7 +819,10 @@
   "source_list": "shelter website",
   "source": "https://www.humanesocietyofwa.org/contact",
   "phone": "(205) 554-0011",
-  "events": []
+  "events": [],
+  "events_url": "https://humanesocietyofwa.org/events/",
+  "programs_url": "https://humanesocietyofwa.org/foster/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -844,7 +857,10 @@
   "email_main": "animalcontrol@chiltoncounty.org",
   "source_list": "shelter website",
   "phone": "(205) 287-0502",
-  "events": []
+  "events": [],
+  "programs_url": "https://chiltoncounty.org/fostering/",
+  "contact_url": "https://chiltoncounty.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -862,24 +878,32 @@
   "phone": "(334) 821-3222",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/575794020",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.carehumane.org/doggy-date",
+  "events_url": "https://www.carehumane.org/events",
+  "contact_url": "https://www.carehumane.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
   "city": "Montgomery",
   "org": "Montgomery Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Operation Silent Night",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.montgomeryhumane.com/",
-  "notes": "",
+  "offers": "Holiday sleepover",
+  "url": "https://www.montgomeryhumane.com/operation-silent-night/",
+  "notes": "Holiday foster: approved foster families take a shelter pet home from Christmas Eve to December 26. The site last shows it for 2022; ask the shelter whether it runs this year (foster application required).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "adoptions@montgomeryhumane.com",
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(334) 409-0622",
-  "events": []
+  "events": [],
+  "events_url": "https://www.montgomeryhumane.com/events/",
+  "programs_url": "https://www.montgomeryhumane.com/get-involved/foster-program/",
+  "contact_url": "https://www.montgomeryhumane.com/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -896,7 +920,10 @@
   "email_main": "hselco@bellsouth.net",
   "source_list": "shelter website",
   "phone": "(334) 567-3377",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.elmorehumane.org/volunteer-information--forms.html",
+  "contact_url": "https://www.elmorehumane.org/volunteer-coordinator-contact.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -913,7 +940,11 @@
   "email_main": "prattvilleautaugahumane@gmail.com",
   "source_list": "shelter website",
   "phone": "(334) 358-2882",
-  "events": []
+  "events": [],
+  "events_url": "https://www.prattvilleautaugahumane.org/calendar",
+  "programs_url": "https://www.prattvilleautaugahumane.org/foster",
+  "contact_url": "https://www.prattvilleautaugahumane.org/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -929,23 +960,30 @@
   "email_program": "",
   "email_main": "AnimalControl@phenixcityal.gov",
   "source_list": "shelter website",
-  "phone": "(334) 291-4847"
+  "phone": "(334) 291-4847",
+  "contact_url": "https://phenixcityal.gov/rcpcas/faqs/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
   "city": "Shorter",
   "org": "Big Dog Ranch Rescue Alabama",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Doggy Day Out",
+  "status": "Needs check",
   "animals": "Dogs",
-  "offers": "",
-  "url": "https://www.bdrr.org/alabama",
-  "notes": "",
+  "offers": "Day trip",
+  "url": "https://www.bdrr.org/foster",
+  "notes": "Big Dog Ranch Rescue's foster page describes Doggy Day Out, a short-term foster where the public takes a dog out for an hour or a whole day after minimal training; it does not say whether the Alabama campus offers it, so ask Volunteer.Alabama@BDRR.org.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "Volunteer.Alabama@BDRR.org",
   "email_main": "alabama@bdrr.org",
   "source_list": "shelter website",
-  "phone": "(561) 791-6465"
+  "phone": "(561) 791-6465",
+  "programs_url": "https://www.bdrr.org/foster",
+  "contact_url": "https://www.bdrr.org/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -962,7 +1000,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.greenvilleadvocate.com/?p=190353",
-  "phone": ""
+  "phone": "(334) 382-2647",
+  "contact_url": "https://www.greenvilleal.gov/160/Animal-Control",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1046,7 +1087,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(334) 738-7387"
+  "phone": "(334) 738-7387",
+  "events_url": "https://bullockcountyhumanesociety.blogspot.com/p/upcoming-events.html",
+  "contact_url": "https://bullockcountyhumanesociety.blogspot.com/p/contact-us.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1062,24 +1107,32 @@
   "email_program": "",
   "email_main": "",
   "source": "https://today.troy.edu/trojanvision/2025/06/12/troy-animal-rescue-project-begins-doggy-day-out-program/",
-  "phone": "(334) 508-2367"
+  "phone": "(334) 508-2367",
+  "events_url": "https://troyanimalrescueproject.org/upcoming-events/",
+  "programs_url": "https://troyanimalrescueproject.org/foster/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
   "city": "Daphne",
   "org": "Daphne Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.daphneal.com/149/Animal-Shelter",
-  "notes": "City shelter at 7145 Johnson Rd; adoptions Mon-Fri 9-4:30 and one Saturday a month 10-2.",
+  "program": "Doggy Day Out",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "http://www.daphneal.com/551/Doggy-Day-Out",
+  "notes": "The city's shelter website has a Doggy Day Out page, but its details could not be read in this check; call the shelter at 251-620-2800 or email animalshelter@daphneal.com to ask how to take a dog out.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@daphneal.com",
   "phone": "(251) 620-1000",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12957362938"
+  "osm": "node/12957362938",
+  "programs_url": "http://www.daphneal.com/551/Doggy-Day-Out",
+  "contact_url": "https://www.daphneal.com/149/Animal-Shelter",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
