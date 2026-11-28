@@ -11,8 +11,12 @@
   "notes": "Open to visitors and locals. Fill out the DDO volunteer agreement and info form, read the DDO manual, and bring the paperwork on your first visit; call 719-686-7707 at least 24 hours ahead. A backpack with supplies is provided.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "(719) 686-7707"
+  "email_main": "office@tcras.org",
+  "phone": "(719) 686-7707",
+  "events_url": "https://www.tcrascolorado.org/event-list",
+  "programs_url": "https://www.tcrascolorado.org/doggy-day-out",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -26,8 +30,11 @@
   "notes": "$15 per visit, stay as long as you like (space permitting). 3929 Tennyson St. Cats are adoptable through Denver Cat Rescue.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": ""
+  "email_main": "denvercatco@gmail.com",
+  "phone": "(303) 433-3422",
+  "programs_url": "https://www.denvercatco.com/book-a-visit",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -42,9 +49,28 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "(720) 726-4552",
+  "phone": "(303) 595-4917",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/366396006"
+  "osm": "node/366396006",
+  "events_url": "https://truecompanions.org/Upcoming-Events",
+  "programs_url": "https://truecompanions.org/Volunteer",
+  "contact_url": "https://truecompanions.org/Contact-Us",
+  "checked_on": "2026-11-28",
+  "events": [
+   {
+    "date": "2026-12-12",
+    "end": "2026-12-23",
+    "title": "12 Strays of Christmas: adoption fee discounts for long-stay cats and dogs",
+    "url": "https://truecompanions.org/events/4150/12-Strays-of-Christmas",
+    "place": "True Companions, Denver"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Holiday Open House (Santa photos for pets)",
+    "url": "https://truecompanions.org/events/4138/Holiday-Open-House-at-True-Companions-",
+    "place": "Dog Shelter, 1005 Galapago St, Denver"
+   }
+  ]
  },
  {
   "state": "CO",
@@ -61,7 +87,11 @@
   "email_main": "",
   "phone": "(303) 288-3294",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/5430393216"
+  "osm": "node/5430393216",
+  "programs_url": "https://animalshelter.adcogov.org/volunteer-foster-student-community-service",
+  "contact_url": "https://animalshelter.adcogov.org/contact-us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -75,10 +105,15 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@hsspv.org",
   "phone": "(303) 703-2938",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/7070857198"
+  "osm": "node/7070857198",
+  "events_url": "https://hsspv.org/events",
+  "programs_url": "https://hsspv.org/volunteer",
+  "contact_url": "https://hsspv.org/contacthsspv",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -95,7 +130,12 @@
   "email_main": "info@hsppr.org",
   "phone": "(719) 473-1741",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/12093873377"
+  "osm": "node/12093873377",
+  "events_url": "https://www.hsppr.org/events/",
+  "programs_url": "https://www.hsppr.org/get-involved/volunteer/",
+  "contact_url": "https://www.hsppr.org/about-us/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -112,7 +152,12 @@
   "email_main": "info@boulderhumane.org",
   "phone": "(303) 442-4030",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/195605995"
+  "osm": "way/195605995",
+  "events_url": "https://boulderhumane.org/events/",
+  "programs_url": "https://www.boulderhumane.org/foster-volunteer-opportunities/",
+  "contact_url": "https://www.boulderhumane.org/hours-locations/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -129,7 +174,12 @@
   "email_main": "info@humanecolorado.org",
   "phone": "(303) 751-5772",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/222906109"
+  "osm": "way/222906109",
+  "events_url": "https://humanecolorado.org/events/",
+  "programs_url": "https://humanecolorado.org/volunteer/",
+  "contact_url": "https://humanecolorado.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -139,14 +189,18 @@
   "status": "No program yet",
   "animals": "Cats",
   "offers": "",
-  "url": "http://www.almosthomeadoptions.com/",
+  "url": "https://almosthomeadoptions.com/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "AlmostHomeManagement@gmail.com",
   "phone": "(303) 432-2299",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/258707701"
+  "osm": "way/258707701",
+  "programs_url": "https://almosthomeadoptions.com/volunteer/",
+  "contact_url": "https://almosthomeadoptions.com/hours-contact/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -163,7 +217,12 @@
   "email_main": "",
   "phone": "(303) 278-7575",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/273399685"
+  "osm": "way/273399685",
+  "events_url": "https://foothillsanimalshelter.org/events/",
+  "programs_url": "https://foothillsanimalshelter.org/foster/",
+  "contact_url": "https://foothillsanimalshelter.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -189,7 +248,11 @@
     "url": "https://www.nocohumane.org/event/hills-sponsored-adoption-event/",
     "place": "NOCO Humane campuses (Loveland, Evans, Greeley)"
    }
-  ]
+  ],
+  "events_url": "https://www.nocohumane.org/calendar-of-events/list/",
+  "programs_url": "https://www.nocohumane.org/volunteering/",
+  "contact_url": "https://www.nocohumane.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -263,14 +326,14 @@
   "state": "CO",
   "city": "Evans",
   "org": "NOCO Humane (Weld Campus)",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.nocohumane.org/",
-  "notes": "",
+  "program": "Cat Cuddling (volunteer position)",
+  "status": "Volunteers only",
+  "animals": "Cats",
+  "offers": "Cat cuddling",
+  "url": "https://www.nocohumane.org/volunteering/",
+  "notes": "Weld campus volunteer position for cat cuddling (plus a Dog Walking Buddy position); requires volunteer onboarding. Contact weldvolunteer@nocohumane.org.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "weldvolunteer@nocohumane.org",
   "email_main": "",
   "source_list": "shelter website",
   "events": [
@@ -282,7 +345,11 @@
     "place": "NOCO Humane campuses (Larimer, Weld, Greeley Adoption Campus)"
    }
   ],
-  "phone": "(970) 506-9550"
+  "phone": "(970) 506-9550",
+  "events_url": "https://www.nocohumane.org/calendar-of-events/list/",
+  "programs_url": "https://www.nocohumane.org/volunteering/",
+  "contact_url": "https://www.nocohumane.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -307,7 +374,11 @@
     "place": "NOCO Humane campuses (Larimer, Weld, Greeley Adoption Campus)"
    }
   ],
-  "phone": "(970) 775-5887"
+  "phone": "(970) 775-5887",
+  "events_url": "https://www.nocohumane.org/calendar-of-events/list/",
+  "programs_url": "https://www.nocohumane.org/volunteering/",
+  "contact_url": "https://www.nocohumane.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
@@ -323,7 +394,12 @@
   "email_program": "",
   "email_main": "pueblo@hsppr.org",
   "source_list": "shelter website",
-  "phone": "(719) 544-3005"
+  "phone": "(719) 544-3005",
+  "events_url": "https://www.hsppr.org/events/",
+  "programs_url": "https://www.hsppr.org/get-involved/volunteer/",
+  "contact_url": "https://www.hsppr.org/about-us/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -339,7 +415,12 @@
   "email_program": "",
   "email_main": "info@humanecolorado.org",
   "source_list": "shelter website",
-  "phone": "(303) 751-5772"
+  "phone": "(303) 751-5772",
+  "events_url": "https://humanecolorado.org/events/",
+  "programs_url": "https://humanecolorado.org/volunteer/",
+  "contact_url": "https://humanecolorado.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "CO",
@@ -841,7 +922,11 @@
   "email_program": "",
   "email_main": "info@humanecolorado.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://humanecolorado.org/events/",
+  "programs_url": "https://humanecolorado.org/volunteer/",
+  "contact_url": "https://humanecolorado.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CO",
