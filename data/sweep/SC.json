@@ -1078,7 +1078,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(803) 874-2914"
+  "phone": "(803) 874-2914",
+  "contact_url": "https://calhouncounty.sc.gov/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -1087,7 +1089,7 @@
   "program": "Doggie Date",
   "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "Day trip, sleepover",
+  "offers": "Day trips, overnight stays, walk/run outings",
   "url": "https://dorchesterpaws.org/our-events/#doggie-date",
   "notes": "Take a shelter dog out for lunch, errands or the beach; sign up in person at the shelter (136 Four Paws Lane) during business hours. Dogs must be back by 4:30pm unless an overnight stay is arranged.",
   "checked": "November 2026",
@@ -1095,11 +1097,6 @@
   "email_main": "info@dorchesterpaws.org",
   "source_list": "shelter website",
   "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Love is Blind Adoption Event",
-    "url": "https://dorchesterpaws.org/event/love-is-blind-adoption-event/"
-   },
    {
     "date": "2026-12-05",
     "title": "Adoption Event at Azalea PetSmart",
@@ -1111,9 +1108,25 @@
     "title": "Campers and Companions x Dorchester Paws Adoption Event",
     "url": "https://dorchesterpaws.org/event/campers-and-companions-x-dorchester-paws-adoption-event/",
     "place": "Camping World, 8155 Rivers Ave, North Charleston"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "Adoption Event at Dorchester Petsmart",
+    "url": "https://dorchesterpaws.org/event/adoption-event-at-dorchester-petsmart-2/",
+    "place": "PetSmart, 8821 Dorchester Rd, North Charleston"
+   },
+   {
+    "date": "2027-02-18",
+    "title": "Third Thursday Adoption Event",
+    "url": "https://dorchesterpaws.org/event/third-thursday-adoption-event/2027-02-18/",
+    "place": "Public Works Art Center, 135 West Richardson Ave, Summerville"
    }
   ],
-  "phone": "(843) 871-3820"
+  "phone": "(843) 871-3820",
+  "events_url": "https://dorchesterpaws.org/our-events/",
+  "programs_url": "https://dorchesterpaws.org/our-events/#doggie-date",
+  "contact_url": "https://dorchesterpaws.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -1129,7 +1142,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(803) 436-2775"
+  "phone": "(803) 436-2775",
+  "contact_url": "https://www.sumtersheriff.org/contacts/index.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -1145,7 +1160,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": null
+  "phone": "(803) 773-9292",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -1161,7 +1177,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(843) 222-8057"
+  "phone": "(843) 222-8057",
+  "contact_url": "https://www.sav-r-cats.com/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -1177,7 +1195,9 @@
   "email_program": "",
   "email_main": "dkitchens@countyofunion.com",
   "source_list": "shelter website",
-  "phone": "(864) 429-1600"
+  "phone": "(864) 429-1666",
+  "contact_url": "https://gearupunionsc.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
