@@ -1,3 +1,5 @@
+**First step, before anything else: load the web tools.** WebFetch and WebSearch are often deferred in cloud runs, so they may not show in your tool list at the start. Call ToolSearch with query "select:WebFetch,WebSearch" to load them, then use WebFetch to read each shelter's own pages. This is the approved way to read sites. Do not use curl or the shell for websites (the network allowlist blocks them), and do not stop because the shell is blocked. Only if ToolSearch truly cannot load WebFetch: say so in one line and stop.
+
 # Vet sweep (instructions for one cloud run)
 
 

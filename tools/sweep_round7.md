@@ -1,5 +1,7 @@
 # Round 7: overnight events + programs sweep (instructions for one cloud run)
 
+**First step, before anything else: load the web tools.** WebFetch and WebSearch are often deferred in cloud runs, so they may not show in your tool list at the start. Call ToolSearch with query "select:WebFetch,WebSearch" to load them, then use WebFetch to read each shelter's own pages. This is the approved way to read sites. Do not use curl or the shell for websites (the network allowlist blocks them), and do not stop because the shell is blocked. Only if ToolSearch truly cannot load WebFetch: say so in one line and stop.
+
 **Tools:** WebSearch and WebFetch are approved for this run: use them freely, directly, as often as the job needs. Nobody needs to approve anything.
 
 **Stay in the foreground until the job is finished.** Do every step yourself in this one session. No Agent/Task tool, no subagents, no background commands. Do not end your reply until your scope is saved and pushed. Commit and push after every 10 shelters changed or added, so progress is never lost.
