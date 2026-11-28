@@ -255,14 +255,7 @@
   "email_main": "hshc@hamiltonhumane.com",
   "source_list": "shelter website",
   "phone": "(317) 773-4974",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday $10 adoption event (Fill Your Heart, Not Your Cart)",
-    "url": "https://www.hamiltonhumane.com/event/black-friday",
-    "place": "Humane Society for Hamilton County, 10501 Hague Rd, Fishers, IN 46038"
-   }
-  ]
+  "events": []
  },
  {
   "state": "IN",
@@ -607,12 +600,6 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday Adoption Specials and Merchandise Sales",
-    "url": "https://cylinder-bear-ml56.squarespace.com/events/black-friday-adoption-specials",
-    "place": "Humane Indiana, 421 45th Ave, Munster"
-   },
    {
     "date": "2026-12-14",
     "end": "2026-12-20",
