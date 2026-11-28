@@ -27,7 +27,11 @@
     "place": "PetSmart Ankeny"
    }
   ],
-  "phone": "(515) 262-9503"
+  "phone": "(515) 262-9503",
+  "events_url": "https://arl-iowa.org/events/",
+  "programs_url": "https://arl-iowa.org/get-involved/dogs-day-out/",
+  "contact_url": "https://arl-iowa.org/about/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -63,8 +67,30 @@
     "title": "Just Paws Adoption Event",
     "url": "https://www.aheinz57.com/events/just-paws-adoption-event/eventday/2026-12-26",
     "place": "Merle Hay Mall, Des Moines"
+   },
+   {
+    "date": "2027-01-09",
+    "title": "Petsmart Adoption Event",
+    "url": "https://www.aheinz57.com/events/adoption-event/eventday/2027-01-09",
+    "place": "PetSmart, Clive"
+   },
+   {
+    "date": "2027-02-13",
+    "title": "Petsmart Adoption Event",
+    "url": "https://www.aheinz57.com/events/adoption-event/eventday/2027-02-13",
+    "place": "PetSmart, Clive"
+   },
+   {
+    "date": "2027-03-13",
+    "title": "Petsmart Adoption Event",
+    "url": "https://www.aheinz57.com/events/adoption-event/eventday/2027-03-13",
+    "place": "PetSmart, Clive"
    }
-  ]
+  ],
+  "events_url": "https://www.aheinz57.com/events/all",
+  "programs_url": "https://www.aheinz57.com/volunteer/find-a-volunteer-program-suited-to-meet-your-talents",
+  "contact_url": "https://www.aheinz57.com/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -81,25 +107,31 @@
   "email_main": "info@dbqhumane.org",
   "phone": "(563) 582-6766",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/8677671659"
+  "osm": "node/8677671659",
+  "events_url": "https://www.dbqhumane.org/drhs-event-calendar",
+  "programs_url": "https://www.dbqhumane.org/foster-program",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
   "city": "Cedar Rapids",
   "org": "SAINT Rescue & Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Cat Open House",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "",
-  "url": "https://www.saintiowa.org",
-  "notes": "",
+  "offers": "Cat visits",
+  "url": "https://www.saintiowa.org/",
+  "notes": "Anyone can stop by to spend time with the cats at the Open House on the first Saturday of each month; other cat visits by appointment.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "adopt@saintiowa.org",
   "phone": "(319) 551-7537",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/9607565917",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.saintiowa.org/volunteering",
+  "contact_url": "https://www.saintiowa.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -116,7 +148,10 @@
   "email_main": "amesanimalshelter@cityofames.org",
   "phone": "(515) 239-5530",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/301331313"
+  "osm": "way/301331313",
+  "programs_url": "https://www.cityofames.org/My-Government/Departments/Animal-Shelter-and-Animal-Control/Volunteer",
+  "contact_url": "https://www.cityofames.org/My-Government/Departments/Animal-Shelter-and-Animal-Control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -133,7 +168,10 @@
   "email_main": "adoptions@furryfriendsrefuge.org",
   "phone": "(515) 222-0009",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/325933793"
+  "osm": "way/325933793",
+  "programs_url": "https://furryfriendsrefuge.org/volunteer-opportunities/",
+  "contact_url": "https://furryfriendsrefuge.org/about/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -150,7 +188,10 @@
   "email_main": "pets@heartlandhumanesociety.org",
   "phone": "(641) 682-1228",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/534707985"
+  "osm": "way/534707985",
+  "programs_url": "https://heartlandhumanesociety.org/volunteer/",
+  "contact_url": "https://heartlandhumanesociety.org/about/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -167,7 +208,9 @@
   "email_main": "AnimalControlMgmt@cedar-rapids.org",
   "phone": "(319) 286-5993",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/711530817"
+  "osm": "way/711530817",
+  "programs_url": "https://www.cedar-rapids.org/local_government/departments_a_-_f/animal_control/volunteer.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -184,18 +227,21 @@
   "email_main": "",
   "phone": "(563) 823-8900",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/798509736"
+  "osm": "way/798509736",
+  "programs_url": "https://www.qcgreyhoundadoption.org/volunteer",
+  "contact_url": "https://qcgreyhoundadoption.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
   "city": "Cedar Rapids",
   "org": "Allsop Family Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.allsophumane.org/",
-  "notes": "Formerly Cedar Valley Humane Society (rebranded; cvhumane.org redirects to allsophumane.org).",
+  "program": "Yoga: Namaste for the Dogs",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Puppy yoga",
+  "url": "https://www.allsophumane.org/event-details/yoga-namaste-for-the-dogs-4",
+  "notes": "Ticketed one-hour yoga class with shelter puppies, open to the public; proceeds go to the animals.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@allsophumane.org",
@@ -209,7 +255,11 @@
     "url": "https://www.allsophumane.org/event-details/holiday-open-house",
     "place": "Allsop Family Humane Society, 7411 Mt Vernon Rd SE, Cedar Rapids"
    }
-  ]
+  ],
+  "events_url": "https://www.allsophumane.org/event",
+  "programs_url": "https://www.allsophumane.org/volunteer",
+  "contact_url": "https://www.allsophumane.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -226,7 +276,10 @@
   "email_main": "Adoptions@Adopthope.org",
   "phone": "(319) 200-4880",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1022154348"
+  "osm": "way/1022154348",
+  "programs_url": "https://adopthope.org/volunteer/",
+  "contact_url": "https://adopthope.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -260,7 +313,11 @@
   "email_main": "info@midlandshumanesociety.org",
   "phone": "(712) 396-2270",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1237321070"
+  "osm": "way/1237321070",
+  "events_url": "https://midlandshumanesociety.org/events/events-news-and-stories.html",
+  "programs_url": "https://midlandshumanesociety.org/programs/roam-with-a-rescue.html",
+  "contact_url": "https://midlandshumanesociety.org/about-us/contact-us.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -277,7 +334,9 @@
   "email_main": "hsni@hsni.org",
   "phone": "(641) 423-6241",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1525349891"
+  "osm": "way/1525349891",
+  "programs_url": "https://www.hsni.org/?page_id=51",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
