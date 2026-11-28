@@ -1071,7 +1071,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.crestoniowa.gov/Directory.aspx?did=41",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1080,14 +1082,17 @@
   "program": "Dog Day Adventure",
   "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trips",
+  "offers": "Day trips, sleepovers",
   "url": "https://www.pawsandmorewashington.org/blank",
   "phone": "(319) 653-6713",
   "notes": "After a short application, members of the public can take a shelter dog out for the day for hikes, dog parks, dog-friendly businesses or relaxing at home.",
   "checked": "November 2026",
   "email_program": "washingtonpawsandmore1978@gmail.com",
   "email_main": "washingtonpawsandmore1978@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.pawsandmorewashington.org/events",
+  "programs_url": "https://www.pawsandmorewashington.org/foster",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1103,7 +1108,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "Kiyakodahs@gmail.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://kiyakoda.com/page/forms",
+  "contact_url": "https://www.kiyakoda.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1119,7 +1127,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.almosthomeiowa.org/volunteer",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1134,8 +1144,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "source_list": "shelter website"
+  "email_main": "wrightcountydogs@gmail.com",
+  "source_list": "shelter website",
+  "events_url": "https://humanesociety72.godaddysites.com/",
+  "contact_url": "https://humanesociety72.godaddysites.com/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1146,29 +1159,34 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://www.sioux-city.org/services/animal-adoption",
-  "phone": "",
+  "phone": "(712) 279-6968",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.sioux-city.org/directory.aspx",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
   "city": "Marshalltown",
   "org": "Animal Rescue League of Marshalltown",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://arlmarshalltown.com/",
-  "notes": "",
+  "program": "Cat Lounge at Wolfe Ranch of Quakerdale",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge",
+  "url": "https://arlmarshalltown.com/adopt-1",
+  "notes": "Some ARL adoptable cats live at a partner cat lounge (Whiskers & Manes at Wolfe Ranch of Quakerdale) where visitors can spend time with them in a relaxed setting.",
   "checked": "November 2026",
   "phone": "(641) 753-9046",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://arlmarshalltown.com/volunteering",
+  "contact_url": "https://arlmarshalltown.com/adopt-1",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1185,7 +1203,10 @@
   "email_program": "",
   "email_main": "marioncountyhumane@gmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.marioncountyhumane.org/volunteer",
+  "contact_url": "https://www.marioncountyhumane.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1202,7 +1223,9 @@
   "email_program": "",
   "email_main": "director@noahsark.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://noahsark.org/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1219,7 +1242,10 @@
   "email_program": "",
   "email_main": "pawsofgreenecounty@hotmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://paws.animalwelfareservices.org/?page_id=22",
+  "contact_url": "https://paws.animalwelfareservices.org/?page_id=26",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1236,7 +1262,9 @@
   "email_program": "",
   "email_main": "atlanimalshelter@gmail.com",
   "source_list": "government page",
-  "events": []
+  "events": [],
+  "contact_url": "https://cityofatlantic.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1253,7 +1281,9 @@
   "email_program": "",
   "email_main": "fureverfriends4pets@gmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://fureverfriends.info/about-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
@@ -1270,7 +1300,9 @@
   "email_program": "",
   "email_main": "newswihs@gmail.com",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://swihs.org/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IA",
