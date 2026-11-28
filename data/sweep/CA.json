@@ -549,7 +549,9 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": [],
-  "phone": "(530) 458-0168"
+  "phone": "(530) 458-0168",
+  "contact_url": "https://www.countyofcolusaca.gov/Directory.aspx",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1027,7 +1029,8 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(530) 846-4825",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1289,7 +1292,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4474,7 +4479,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(559) 621-2489"
+  "phone": "(559) 621-2489",
+  "events": [],
+  "programs_url": "https://www.fresnoanimalcenter.com/foster/",
+  "contact_url": "https://www.fresno.gov/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4748,7 +4757,10 @@
   "email_program": "",
   "email_main": "icphd-animalcontrol@co.imperial.ca.us",
   "source_list": "shelter website",
-  "phone": "(442) 265-2655"
+  "phone": "(442) 265-2655",
+  "events": [],
+  "programs_url": "https://www.icphd.org/environmental-health/animal-care-and-control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
