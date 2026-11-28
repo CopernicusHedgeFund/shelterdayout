@@ -313,6 +313,7 @@ https://shelterdayout.com/cities/lansing-mi/
 https://shelterdayout.com/cities/lapeer-mi/
 https://shelterdayout.com/cities/laredo-tx/
 https://shelterdayout.com/cities/largo-fl/
+https://shelterdayout.com/cities/las-cruces-nm/
 https://shelterdayout.com/cities/las-vegas-nv/
 https://shelterdayout.com/cities/lawrence-ks/
 https://shelterdayout.com/cities/lawrenceville-ga/
@@ -521,6 +522,7 @@ https://shelterdayout.com/cities/san-marcos-tx/
 https://shelterdayout.com/cities/san-martin-ca/
 https://shelterdayout.com/cities/sanford-fl/
 https://shelterdayout.com/cities/santa-barbara-ca/
+https://shelterdayout.com/cities/santa-fe-nm/
 https://shelterdayout.com/cities/santa-maria-ca/
 https://shelterdayout.com/cities/santa-rosa-ca/
 https://shelterdayout.com/cities/santee-ca/

@@ -11,9 +11,14 @@
   "notes": "Check out an adoptable AWD shelter dog for a few hours or a full day (walks, hikes, dog-friendly cafes). Must be 18+, complete a short application and dog-handling training. Sign up by emailing AWD (AWDVolunteer@cabq.gov) or call 311. Eastside shelter: 8920 Lomas Blvd NE.",
   "checked": "November 2026",
   "email_program": "AWDVolunteer@cabq.gov",
-  "email_main": "",
+  "email_main": "animalwelfare@cabq.gov",
   "source_list": "",
-  "phone": "(505) 768-2000"
+  "phone": "(505) 768-2000",
+  "events_url": "https://www.cabq.gov/pets/news",
+  "programs_url": "https://www.cabq.gov/pets/volunteer-foster-donate/doggy-day-out",
+  "contact_url": "https://www.cabq.gov/pets/contact",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -40,27 +45,31 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.valencianm.gov/?p=105",
+  "url": "https://www.valencianm.gov/departments/animal-services/",
   "notes": "1209 Highway 314, Los Lunas. Tue-Sat 9am-5pm.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "(505) 866-2479",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/5322191925"
+  "osm": "node/5322191925",
+  "programs_url": "https://www.valencianm.gov/departments/animal-services/",
+  "contact_url": "https://www.valencianm.gov/form-center/contact-animal-control/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
   "city": "Santa Fe",
   "org": "Santa Fe Animal Shelter & Humane Society",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "New Hope short-term foster",
+  "status": "Volunteers only",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://sfhumanesociety.org/",
-  "notes": "100 Caja del Rio Road. Open daily 10am-5pm.",
+  "offers": "Short-term foster (as little as one night)",
+  "url": "https://sfhumanesociety.org/get-involved/foster/",
+  "notes": "Approved New Hope foster volunteers (18+, online application) can care for a shelter animal for as little as one day and night or up to a few months. Contact newhope@sfhumanesociety.org, (505) 983-4309 ext. 1270.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "newhope@sfhumanesociety.org",
   "email_main": "",
   "phone": "(505) 983-4309",
   "source_list": "OpenStreetMap contributors (ODbL)",
@@ -73,7 +82,11 @@
     "url": "https://sfhumanesociety.org/",
     "place": "100 Caja del Rio Road, Santa Fe"
    }
-  ]
+  ],
+  "events_url": "https://sfhumanesociety.org/get-involved/events/calendar/",
+  "programs_url": "https://sfhumanesociety.org/get-involved/foster/",
+  "contact_url": "https://sfhumanesociety.org/about-us/get-in-touch/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NM",
@@ -104,10 +117,14 @@
   "notes": "City AWD adoption center. AWD's Doggy Day Out runs department-wide (see Eastside/Westside rows).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "animalwelfare@cabq.gov",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/10286764105"
+  "osm": "node/10286764105",
+  "events_url": "https://www.cabq.gov/pets/news",
+  "contact_url": "https://www.cabq.gov/pets/contact",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -130,18 +147,23 @@
   "state": "NM",
   "city": "Las Cruces",
   "org": "Animal Services Center of the Mesilla Valley",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.ascmv.org/",
-  "notes": "3543 Bataan Memorial W, Las Cruces (city/county shelter).",
+  "program": "Field Trip Program",
+  "status": "Needs check",
+  "animals": "Dogs",
+  "offers": "Day trip",
+  "url": "https://www.ascmv.org/field-trip-program/",
+  "notes": "ASCMV's own site lists a Field Trip Program (How to Help > Field Trip Program), but the program page could not be read this round; call (575) 382-0018 for how to sign up.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ascmv@ascmv.org",
   "phone": "(575) 382-0018",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/51476256"
+  "osm": "way/51476256",
+  "events_url": "https://www.ascmv.org/news-events/",
+  "programs_url": "https://www.ascmv.org/field-trip-program/",
+  "contact_url": "https://www.ascmv.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -209,7 +231,11 @@
   "email_main": "Police-ACO@lacnm.us",
   "phone": "(505) 662-8179",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/336323317"
+  "osm": "way/336323317",
+  "programs_url": "https://www.losalamosnm.gov/Services/Animal-Shelter",
+  "contact_url": "https://www.losalamosnm.gov/Services/Animal-Shelter",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -226,7 +252,10 @@
   "email_main": "",
   "phone": "(575) 835-4222",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/439627862"
+  "osm": "way/439627862",
+  "contact_url": "https://www.socorronm.gov/city-services/socorro-animal-shelter/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -275,9 +304,13 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@mountainairnm.gov",
-  "phone": "(505) 384-4270",
+  "phone": "(505) 705-0099",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/624238313"
+  "osm": "way/624238313",
+  "events_url": "https://mountainairnm.gov/calendar",
+  "contact_url": "https://mountainairnm.gov/departments/animal-control",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -294,7 +327,11 @@
   "email_main": "animalshelter@torcnm.gov",
   "phone": "(575) 894-4556",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/668760932"
+  "osm": "way/668760932",
+  "programs_url": "https://www.torcnm.gov/living-in-our-community/volunteer-donate/",
+  "contact_url": "https://www.torcnm.gov/living-in-our-community/animal-services",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -326,9 +363,12 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 575-434-2959",
+  "phone": "(575) 434-2959",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1008156193"
+  "osm": "way/1008156193",
+  "contact_url": "https://co.otero.nm.us/m/directory/department?did=33",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -342,10 +382,15 @@
   "notes": "Check out an adoptable AWD shelter dog for a few hours or a full day (walks, hikes, dog-friendly cafes). Must be 18+, complete a short application and dog-handling training. Sign up by emailing AWD (AWDVolunteer@cabq.gov) or call 311. Westside Animal Shelter, City of Albuquerque.",
   "checked": "November 2026",
   "email_program": "AWDVolunteer@cabq.gov",
-  "email_main": "",
+  "email_main": "animalwelfare@cabq.gov",
   "phone": "(505) 768-2000",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1069462745"
+  "osm": "way/1069462745",
+  "events_url": "https://www.cabq.gov/pets/news",
+  "programs_url": "https://www.cabq.gov/pets/volunteer-foster-donate/doggy-day-out",
+  "contact_url": "https://www.cabq.gov/pets/contact",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -362,7 +407,11 @@
   "email_main": "",
   "phone": "(505) 384-5117",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1267131965"
+  "osm": "way/1267131965",
+  "events_url": "https://www.torrancecountynm.org/calendar",
+  "contact_url": "https://www.torrancecountynm.org/departments/animal-services",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
