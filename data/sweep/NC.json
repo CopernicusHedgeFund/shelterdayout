@@ -1711,14 +1711,7 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(919) 872-7233",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Cat Black Friday Adoption Event ($25 off all cats, $50 off black cats)",
-    "url": "https://www.safehavenforcats.org/event-sh/black-cat-black-friday/",
-    "place": "SAFE Haven for Cats, 8431-137 Garvey Dr, Raleigh, NC"
-   }
-  ]
+  "events": []
  },
  {
   "state": "NC",
