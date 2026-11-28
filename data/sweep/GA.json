@@ -732,12 +732,6 @@
   "source_list": "shelter website",
   "events": [
    {
-    "date": "2026-11-27",
-    "title": "Cat & Kitten Adoptions - PetSmart Woodstock",
-    "url": "https://furkids.org/event/cat-kitten-adoptions-petsmart-woodstock/",
-    "place": "PetSmart Woodstock, 142 Woodstock Square Ave, Woodstock, GA"
-   },
-   {
     "date": "2026-11-28",
     "title": "Dog Adoptions - Petco Milton",
     "url": "https://furkids.org/event/dog-adoptions-petco-milton/",
@@ -1871,12 +1865,6 @@
   "email_main": "adoptions@pawshumane.org",
   "source_list": "shelter website",
   "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday PetSmart Adoption Event",
-    "url": "https://pawshumane.org/event/black-friday-petsmart-adoption-event/",
-    "place": "PetSmart"
-   },
    {
     "date": "2026-11-28",
     "title": "Petco Adoption Event",
