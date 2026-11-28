@@ -321,7 +321,11 @@
   "email_main": "",
   "source_list": "",
   "phone": "(210) 207-6000",
-  "events": []
+  "events": [],
+  "events_url": "https://www.sa.gov/Directory/Departments/ACS/About/News",
+  "programs_url": "https://www.sa.gov/Directory/Departments/ACS/Help/Foster",
+  "contact_url": "https://www.sa.gov/Directory/Departments/ACS/Contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -943,7 +947,11 @@
     "url": "https://adltexas.org/",
     "place": "Petco"
    }
-  ]
+  ],
+  "events_url": "https://adltexas.org/calendar-of-events/",
+  "programs_url": "https://adltexas.org/foster/",
+  "contact_url": "https://adltexas.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1220,7 +1228,10 @@
   "email_main": "",
   "phone": "(903) 535-0045",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/758841514"
+  "osm": "way/758841514",
+  "contact_url": "https://www.cityoftyler.org/Resident-Services/Animal-Services",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1722,7 +1733,11 @@
     "url": "https://sahumane.org/event/empty-the-shelters-5/2026-12-01/",
     "place": "San Antonio Humane Society, 4804 Fredericksburg Rd, San Antonio, TX 78229"
    }
-  ]
+  ],
+  "events_url": "https://sahumane.org/events",
+  "programs_url": "https://sahumane.org/foster-care/",
+  "contact_url": "https://sahumane.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1746,7 +1761,11 @@
     "url": "https://adltexas.org/",
     "place": "Petco (store location not shown on listing)"
    }
-  ]
+  ],
+  "events_url": "https://adltexas.org/calendar-of-events/",
+  "programs_url": "https://adltexas.org/foster/",
+  "contact_url": "https://adltexas.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2161,7 +2180,12 @@
   "email_program": "",
   "email_main": "blmills@longviewtexas.gov",
   "source_list": "shelter website",
-  "phone": "(903) 297-7387"
+  "phone": "(903) 297-7387",
+  "events_url": "https://longviewtexas.gov/calendar.aspx?CID=42",
+  "programs_url": "https://longviewtexas.gov/3192/Get-Involved",
+  "contact_url": "https://longviewtexas.gov/3193/Connect",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
