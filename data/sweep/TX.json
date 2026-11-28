@@ -179,7 +179,10 @@
   "email_main": "",
   "source_list": "",
   "phone": "(972) 744-4480",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.cor.net/departments/animal-services/volunteer-opportunities/doggy-day-out-program",
+  "contact_url": "https://www.cor.net/departments/animal-services",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -373,14 +376,18 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.cityoflewisville.com/our-services/animal-services",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/5294355332"
+  "osm": "node/5294355332",
+  "events_url": "https://volunteer.cityoflewisville.com/calendar/",
+  "programs_url": "https://volunteer.cityoflewisville.com/calendar/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1279,14 +1286,19 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://rockwalladoptions.com/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "info@RockwallAdoptions.com",
+  "phone": "(972) 771-7750",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/805459646"
+  "osm": "way/805459646",
+  "events_url": "https://rockwalladoptions.com/upcomingevents/",
+  "programs_url": "https://rockwalladoptions.com/adoptfoster/volunteer-form/",
+  "contact_url": "https://rockwalladoptions.com/us/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1818,7 +1830,9 @@
   "email_main": "ashelter@templetx.gov",
   "source_list": "shelter website",
   "phone": "(254) 298-5732",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.templetx.gov/departments/city_departments/animal_services/index.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1995,7 +2009,10 @@
   "email_main": "animalservices@sugarlandtx.gov",
   "source_list": "shelter website",
   "phone": "",
-  "events": []
+  "events": [],
+  "events_url": "https://sugarlandtx.gov/2665/Programs-Events",
+  "programs_url": "https://sugarlandtx.gov/2239/Foster-Program",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2572,7 +2589,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(817) 276-4200",
-  "events": []
+  "events": [],
+  "events_url": "https://www.mansfieldtexas.gov/1940/Events",
+  "programs_url": "https://www.mansfieldtexas.gov/2175/Programs",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2749,7 +2769,12 @@
   "email_program": "foster@sanmarcostx.gov",
   "email_main": "foster@sanmarcostx.gov",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(512) 805-2650",
+  "events_url": "https://sanmarcostx.gov/CivicAlerts.aspx?CID=39",
+  "programs_url": "https://sanmarcostx.gov/3843/Dogs-Day-Out-Program",
+  "contact_url": "https://sanmarcostx.gov/203/Animal-Services",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2890,7 +2915,12 @@
   "email_program": "",
   "email_main": "adoption@hsnba.org",
   "source_list": "shelter website",
-  "phone": "(830) 629-5287"
+  "phone": "(830) 629-5287",
+  "events_url": "https://hsnba.org/events/",
+  "programs_url": "https://hsnba.org/get-involved/foster/",
+  "contact_url": "https://hsnba.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -3107,7 +3137,11 @@
     "place": "PetSmart, Tyler"
    }
   ],
-  "phone": "(903) 597-2471"
+  "phone": "(903) 597-2471",
+  "events_url": "https://petsfurpeople.org/events-2",
+  "programs_url": "https://petsfurpeople.org/volunteer",
+  "contact_url": "https://petsfurpeople.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -5349,7 +5383,19 @@
   "email_program": "volunteers@docpac.net",
   "email_main": "petadoptions@docpac.net",
   "source_list": "shelter website",
-  "events": []
+  "events": [
+   {
+    "date": "2026-12-22",
+    "end": "2026-12-23",
+    "title": "Home for the Holidays foster event (holiday fosters who adopt by Dec 31 get a discounted fee)",
+    "url": "https://docpac.net/events/home-for-the-holidays/",
+    "place": "DOCPAC, 135 Progress Drive, Victoria, TX 77905"
+   }
+  ],
+  "events_url": "https://docpac.net/events/",
+  "programs_url": "https://docpac.net/get-involved/foster-care/",
+  "contact_url": "https://docpac.net/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
