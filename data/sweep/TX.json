@@ -541,7 +541,10 @@
   "phone": "(817) 598-4111",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/12482304553",
-  "events": []
+  "events": [],
+  "programs_url": "https://weatherfordtx.gov/3492/Volunteer",
+  "contact_url": "https://weatherfordtx.gov/15/Animal-Services",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -712,14 +715,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://shermananimalshelter.com/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(903) 892-7255",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/250768435"
+  "osm": "way/250768435",
+  "contact_url": "https://shermananimalshelter.com/contact-us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1700,14 +1706,18 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "",
+  "url": "https://www.thecolonytx.gov/847/Adopt-a-Pet",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(972) 370-9250",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1539527142"
+  "osm": "way/1539527142",
+  "programs_url": "https://www.thecolonytx.gov/170/Volunteer-Opportunities",
+  "contact_url": "https://www.thecolonytx.gov/149/Animal-Services",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2936,7 +2946,10 @@
   "email_program": "",
   "email_main": "animalcontrol@guadalupetx.gov",
   "source_list": "shelter website",
-  "phone": "(830) 379-1224"
+  "phone": "(830) 379-1224",
+  "contact_url": "https://www.guadalupetx.gov/page/animalservices",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -4292,7 +4305,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "government page (adoptapet/petfinder listing)"
+  "source_list": "government page (adoptapet/petfinder listing)",
+  "programs_url": "https://www.wylietexas.gov/departments/animal_services/volunteer.php",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
