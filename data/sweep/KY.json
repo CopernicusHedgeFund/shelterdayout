@@ -1067,7 +1067,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 821-8965"
+  "phone": "(270) 821-8965",
+  "contact_url": "https://www.hopkinscounty.ky.gov/index.php/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1077,13 +1080,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.crittendencountyky.org/animal_shelter/",
+  "url": "https://www.crittendencountyky.org/animal_shelter/index.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 969-1054"
+  "phone": "(270) 969-1054",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1108,13 +1113,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.gravescountyky.gov/?p=205",
+  "url": "https://www.gravescountyky.gov/animal-control/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 251-0130"
+  "phone": "(270) 251-0130",
+  "contact_url": "https://www.gravescountyky.gov/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1130,7 +1138,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(606) 564-6067"
+  "phone": "(606) 564-6067",
+  "contact_url": "https://www.masoncountykentucky.us/how_do_i/contact_us.php",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1163,7 +1174,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(606) 348-0575"
+  "phone": "(606) 348-0575",
+  "contact_url": "https://waynecounty.ky.gov/Pages/contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1179,7 +1193,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 389-3000"
+  "phone": "(270) 389-3000",
+  "programs_url": "https://www.unioncountyky.org/local-government/animal-control/adoptable-and-stray-pets",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1195,7 +1212,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 526-2694"
+  "phone": "(270) 526-2694",
+  "contact_url": "https://butlercounty.ky.gov/Pages/contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1211,7 +1231,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(859) 498-8751"
+  "phone": "(859) 498-8751",
+  "programs_url": "https://montgomerycounty.ky.gov/departments-and-agencies-overview/montgomery-county-animal-shelter/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1228,7 +1251,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://robertsoncounty.ky.gov/Pages/contact.aspx",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1260,7 +1285,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "petfinder listing",
-  "phone": "(270) 524-5219"
+  "phone": "(270) 524-5219",
+  "contact_url": "https://hartcounty.ky.gov/Pages/contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1441,7 +1469,10 @@
   "email_program": "",
   "email_main": "DDDCPS2020@outlook.com",
   "source_list": "shelter website",
-  "phone": "(606) 886-3189"
+  "phone": "(606) 886-3189",
+  "programs_url": "https://floydcountyanimalshelter.org/volunteer/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
