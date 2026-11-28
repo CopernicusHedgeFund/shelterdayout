@@ -60,6 +60,7 @@ https://shelterdayout.com/cities/beaumont-tx/
 https://shelterdayout.com/cities/bedford-nh/
 https://shelterdayout.com/cities/beeville-tx/
 https://shelterdayout.com/cities/belle-chasse-la/
+https://shelterdayout.com/cities/belleville-il/
 https://shelterdayout.com/cities/bemidji-mn/
 https://shelterdayout.com/cities/bend-or/
 https://shelterdayout.com/cities/bentonville-ar/
@@ -510,6 +511,7 @@ https://shelterdayout.com/cities/south-elgin-il/
 https://shelterdayout.com/cities/south-haven-mi/
 https://shelterdayout.com/cities/spokane-valley-wa/
 https://shelterdayout.com/cities/sprakers-ny/
+https://shelterdayout.com/cities/springfield-il/
 https://shelterdayout.com/cities/spruce-pine-nc/
 https://shelterdayout.com/cities/st-augustine-fl/
 https://shelterdayout.com/cities/st-louis-mo/
