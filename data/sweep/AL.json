@@ -349,7 +349,10 @@
   "email_program": "",
   "email_main": "ccas@cherokeecounty-al.gov",
   "source_list": "shelter website",
-  "phone": "(256) 266-1390"
+  "phone": "(256) 266-1390",
+  "contact_url": "https://cherokeecounty-al.gov/animal-shelter/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -363,10 +366,15 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@hsprac.com",
   "source_list": "directory",
   "source": "https://www.petcurious.com/humane-society-pet-rescue-and-adoption-center-gadsden-alabama",
-  "phone": ""
+  "phone": "(256) 442-1347",
+  "events_url": "https://hsprac.com/events/",
+  "programs_url": "https://hsprac.com/foster/",
+  "contact_url": "https://hsprac.com/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -399,7 +407,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(256) 413-1242",
+  "contact_url": "https://www.rbcalabama.com/animal-control/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -416,7 +427,10 @@
   "email_main": "",
   "source_list": "news",
   "source": "https://www.cullmantribune.com/2025/06/18/get-involved-cullman-county-animal-shelter/",
-  "phone": ""
+  "phone": "(256) 734-5448",
+  "contact_url": "https://co.cullman.al.us/animal-control.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -463,7 +477,10 @@
     "place": "Buff-A-Pup Wash, 4601 US-31 Ste C, Calera, AL"
    }
   ],
-  "phone": "(205) 669-3916"
+  "phone": "(205) 669-3916",
+  "events_url": "https://www.shelbyhumane.org/event",
+  "programs_url": "https://www.shelbyhumane.org/programs",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -480,7 +497,11 @@
   "email_main": "tmas@metroanimalshelter.org",
   "phone": "(205) 752-9101",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/645878477"
+  "osm": "way/645878477",
+  "events_url": "https://www.metroanimalshelter.org/events",
+  "programs_url": "https://www.metroanimalshelter.org/programs/happy-hour",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -497,7 +518,10 @@
   "email_main": "",
   "phone": "+1 205-625-6026",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1357901314"
+  "osm": "way/1357901314",
+  "contact_url": "https://blountcountyal.gov/departments-services/animal-services/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -511,10 +535,13 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
-  "phone": "",
+  "email_main": "lakemartinanimalshelter.info@gmail.com",
+  "phone": "(256) 234-5533",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/10808365514"
+  "osm": "node/10808365514",
+  "contact_url": "https://lakemartinanimalshelter.com/contact-lake-martin-animal-shelter/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -542,9 +569,19 @@
     "title": "PetSmart in Bessemer Adoption Event",
     "url": "https://gbhs.org/events/2026/5/23/petsmart-dog-adoption-event-s28z8-dfzmf-txmst-et5ap-4na74",
     "place": "PetSmart, 4925 Promenade Pkwy, Bessemer, AL"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Sips for Strays: meet adoptable dogs, 11am-4pm",
+    "url": "https://gbhs.org/events/2026/12/19/sips-for-strays",
+    "place": "Dread River Distilling Company, 2400 7th Avenue South, Birmingham, AL"
    }
   ],
-  "phone": "(205) 942-1211"
+  "phone": "(205) 942-1211",
+  "events_url": "https://gbhs.org/events",
+  "programs_url": "https://gbhs.org/fostercare",
+  "contact_url": "https://gbhs.org/contactus",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -578,7 +615,10 @@
   "email_main": "LCross@gbhs.org",
   "source_list": "shelter website",
   "source": "https://abc3340.com/news/local/alabama-city-of-jasper-animal-care-control-temporarily-closes-for-facility-improvements-greater-birmingham-humane-society-gbhs-july-2026",
-  "phone": "(205) 221-6621"
+  "phone": "(205) 221-6621",
+  "contact_url": "https://www.jaspercity.com/jasper-animal-care-control-shelter",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -601,19 +641,23 @@
   "state": "AL",
   "city": "Hoover",
   "org": "Kitty Kat Haven & Rescue",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Haven visiting hours",
+  "status": "Open to public",
   "animals": "Cats",
-  "offers": "",
-  "url": "https://www.kittykathavenrescue.org/",
-  "notes": "",
+  "offers": "Cat visits",
+  "url": "https://kittykathavenrescue.org/about-us/",
+  "notes": "Visitors are welcome to stop by and meet the cats at the Haven during public hours (Thursday to Saturday 1-5, Sunday 1-3).",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "kittykathaven1@gmail.com",
   "source_list": "directory + alabamaanimaladvocates.com",
   "source": "https://adoptapet.com/adoption_rescue/96933-kitty-kat-haven-rescue-hoover-alabama",
   "phone": "(205) 302-8883",
-  "events": []
+  "events": [],
+  "events_url": "https://kittykathavenrescue.org/upcoming-events/",
+  "programs_url": "https://kittykathavenrescue.org/about-us/",
+  "contact_url": "https://kittykathavenrescue.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -630,7 +674,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(256) 241-2929",
-  "events": []
+  "events": [],
+  "programs_url": "https://calhouncountyal.gov/animal/docs/VOLUNTEER_APPLICATION.pdf",
+  "contact_url": "https://calhouncountyal.gov/animal/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -648,7 +695,9 @@
   "source_list": "directory",
   "source": "https://adoptapet.com/adoption_rescue/75280-calhoun-county-humane-society-inc-anniston-alabama",
   "phone": "(256) 405-6680",
-  "events": []
+  "events": [],
+  "contact_url": "https://calhouncountyhumane.com/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -666,7 +715,9 @@
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-talladega.html",
   "phone": "(256) 391-4142",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.cityofsylacauga.net/animal-shelter.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -684,7 +735,9 @@
   "source_list": "alabamaanimaladvocates.com",
   "source": "https://alabamaanimaladvocates.com/al-talladega.html",
   "phone": "(256) 362-5856",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.talladega.com/government/departments/animal-control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
