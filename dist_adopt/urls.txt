@@ -274,6 +274,7 @@ https://shelteradoption.com/cities/libby-mt/
 https://shelteradoption.com/cities/lima-oh/
 https://shelteradoption.com/cities/little-rock-ar/
 https://shelteradoption.com/cities/lodi-ca/
+https://shelteradoption.com/cities/lompoc-ca/
 https://shelteradoption.com/cities/long-beach-ca/
 https://shelteradoption.com/cities/los-angeles-ca/
 https://shelteradoption.com/cities/louisville-ky/
@@ -817,6 +818,7 @@ https://shelteradoption.com/shelters/apple-valley-animal-services-shelter-apple-
 https://shelteradoption.com/shelters/appomattox-county-animal-shelter-appomattox/
 https://shelteradoption.com/shelters/aransas-county-animal-control-shelter-rockport/
 https://shelteradoption.com/shelters/ardmore-animal-care-inc-ardmore/
+https://shelteradoption.com/shelters/are-animal-rescue-hemet/
 https://shelteradoption.com/shelters/arenac-county-animal-control-standish/
 https://shelteradoption.com/shelters/arf-hamptons-animal-rescue-fund-of-the-hamptons-east-hampton/
 https://shelteradoption.com/shelters/arizona-animal-welfare-league-and-spca-chandler-chandler/
@@ -1771,6 +1773,7 @@ https://shelteradoption.com/shelters/enoch-city-animal-shelter-enoch/
 https://shelteradoption.com/shelters/erath-county-humane-society-stephenville/
 https://shelteradoption.com/shelters/erie-county-dog-warden-sandusky/
 https://shelteradoption.com/shelters/erie-humane-society-erie/
+https://shelteradoption.com/shelters/escalon-animal-shelter-city-of-escalon-animal-control-escalon/
 https://shelteradoption.com/shelters/escambia-county-alabama-animal-control-and-shelter-brewton/
 https://shelteradoption.com/shelters/escambia-county-animal-welfare-pensacola/
 https://shelteradoption.com/shelters/espa-ola-valley-humane-society-espa-ola/
@@ -3876,6 +3879,7 @@ https://shelteradoption.com/shelters/sangamon-county-animal-control-and-adoption
 https://shelteradoption.com/shelters/sanilac-county-animal-shelter-sandusky/
 https://shelteradoption.com/shelters/sanilac-county-humane-society-carsonville/
 https://shelteradoption.com/shelters/sanilac-whisker-sanctuary-croswell/
+https://shelteradoption.com/shelters/sant-d-or-foundation-adoption-center-los-angeles/
 https://shelteradoption.com/shelters/santa-barbara-county-animal-services-lompoc-shelter-lompoc/
 https://shelteradoption.com/shelters/santa-barbara-county-animal-services-santa-barbara-shelter-santa-barbara/
 https://shelteradoption.com/shelters/santa-barbara-county-animal-services-santa-maria-animal-center-santa-maria/
@@ -4280,6 +4284,7 @@ https://shelteradoption.com/shelters/the-humane-society-of-north-myrtle-beach-no
 https://shelteradoption.com/shelters/the-humane-society-of-sullivan-county-sullivan/
 https://shelteradoption.com/shelters/the-jane-bernard-animal-adoption-center-la-porte/
 https://shelteradoption.com/shelters/the-little-guild-west-cornwall/
+https://shelteradoption.com/shelters/the-lovejoy-foundation-inglewood/
 https://shelteradoption.com/shelters/the-messenger-animal-rescue-harrington/
 https://shelteradoption.com/shelters/the-noah-center-northwest-organization-for-animal-help-stanwood/
 https://shelteradoption.com/shelters/the-ohio-pet-sanctuary-cincinnati/
@@ -4422,6 +4427,7 @@ https://shelteradoption.com/shelters/upson-county-animal-shelter-thomaston/
 https://shelteradoption.com/shelters/utah-animal-adoption-center-sandy/
 https://shelteradoption.com/shelters/uxbridge-animal-control-uxbridge/
 https://shelteradoption.com/shelters/valencia-county-animal-shelter-los-lunas/
+https://shelteradoption.com/shelters/valley-animal-haven-and-adoption-center-lemoore/
 https://shelteradoption.com/shelters/valley-cat-haven-fort-kent/
 https://shelteradoption.com/shelters/valley-humane-society-pleasanton/
 https://shelteradoption.com/shelters/valley-oak-spca-visalia/
@@ -4449,6 +4455,7 @@ https://shelteradoption.com/shelters/vinton-county-dog-shelter-mcarthur/
 https://shelteradoption.com/shelters/virginia-beach-animal-care-and-adoption-center-virginia-beach/
 https://shelteradoption.com/shelters/virginia-beach-spca-virginia-beach/
 https://shelteradoption.com/shelters/visalia-animal-care-center-city-of-visalia-visalia/
+https://shelteradoption.com/shelters/viva-volunteers-for-inter-valley-animals-cat-shelter-lompoc/
 https://shelteradoption.com/shelters/vola-lawson-animal-shelter-alexandria/
 https://shelteradoption.com/shelters/volusia-county-animal-services-shelter-deland/
 https://shelteradoption.com/shelters/wabash-county-animal-shelter-wabash/

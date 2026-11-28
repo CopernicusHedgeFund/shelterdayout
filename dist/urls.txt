@@ -239,6 +239,7 @@ https://shelterdayout.com/cities/hastings-mn/
 https://shelterdayout.com/cities/hattiesburg-ms/
 https://shelterdayout.com/cities/hayward-wi/
 https://shelterdayout.com/cities/helena-mt/
+https://shelterdayout.com/cities/hemet-ca/
 https://shelterdayout.com/cities/henderson-nv/
 https://shelterdayout.com/cities/highland-il/
 https://shelterdayout.com/cities/hinsdale-il/
@@ -881,6 +882,7 @@ https://shelterdayout.com/listings/apple-valley-animal-services-shelter-apple-va
 https://shelterdayout.com/listings/appomattox-county-animal-shelter-appomattox/
 https://shelterdayout.com/listings/aransas-county-animal-control-shelter-rockport/
 https://shelterdayout.com/listings/ardmore-animal-care-inc-ardmore/
+https://shelterdayout.com/listings/are-animal-rescue-hemet/
 https://shelterdayout.com/listings/arenac-county-animal-control-standish/
 https://shelterdayout.com/listings/arf-hamptons-animal-rescue-fund-of-the-hamptons-east-hampton/
 https://shelterdayout.com/listings/arizona-animal-welfare-league-and-spca-chandler-chandler/
@@ -1835,6 +1837,7 @@ https://shelterdayout.com/listings/enoch-city-animal-shelter-enoch/
 https://shelterdayout.com/listings/erath-county-humane-society-stephenville/
 https://shelterdayout.com/listings/erie-county-dog-warden-sandusky/
 https://shelterdayout.com/listings/erie-humane-society-erie/
+https://shelterdayout.com/listings/escalon-animal-shelter-city-of-escalon-animal-control-escalon/
 https://shelterdayout.com/listings/escambia-county-alabama-animal-control-and-shelter-brewton/
 https://shelterdayout.com/listings/escambia-county-animal-welfare-pensacola/
 https://shelterdayout.com/listings/espa-ola-valley-humane-society-espa-ola/
@@ -3940,6 +3943,7 @@ https://shelterdayout.com/listings/sangamon-county-animal-control-and-adoption-c
 https://shelterdayout.com/listings/sanilac-county-animal-shelter-sandusky/
 https://shelterdayout.com/listings/sanilac-county-humane-society-carsonville/
 https://shelterdayout.com/listings/sanilac-whisker-sanctuary-croswell/
+https://shelterdayout.com/listings/sant-d-or-foundation-adoption-center-los-angeles/
 https://shelterdayout.com/listings/santa-barbara-county-animal-services-lompoc-shelter-lompoc/
 https://shelterdayout.com/listings/santa-barbara-county-animal-services-santa-barbara-shelter-santa-barbara/
 https://shelterdayout.com/listings/santa-barbara-county-animal-services-santa-maria-animal-center-santa-maria/
@@ -4344,6 +4348,7 @@ https://shelterdayout.com/listings/the-humane-society-of-north-myrtle-beach-nort
 https://shelterdayout.com/listings/the-humane-society-of-sullivan-county-sullivan/
 https://shelterdayout.com/listings/the-jane-bernard-animal-adoption-center-la-porte/
 https://shelterdayout.com/listings/the-little-guild-west-cornwall/
+https://shelterdayout.com/listings/the-lovejoy-foundation-inglewood/
 https://shelterdayout.com/listings/the-messenger-animal-rescue-harrington/
 https://shelterdayout.com/listings/the-noah-center-northwest-organization-for-animal-help-stanwood/
 https://shelterdayout.com/listings/the-ohio-pet-sanctuary-cincinnati/
@@ -4486,6 +4491,7 @@ https://shelterdayout.com/listings/upson-county-animal-shelter-thomaston/
 https://shelterdayout.com/listings/utah-animal-adoption-center-sandy/
 https://shelterdayout.com/listings/uxbridge-animal-control-uxbridge/
 https://shelterdayout.com/listings/valencia-county-animal-shelter-los-lunas/
+https://shelterdayout.com/listings/valley-animal-haven-and-adoption-center-lemoore/
 https://shelterdayout.com/listings/valley-cat-haven-fort-kent/
 https://shelterdayout.com/listings/valley-humane-society-pleasanton/
 https://shelterdayout.com/listings/valley-oak-spca-visalia/
@@ -4513,6 +4519,7 @@ https://shelterdayout.com/listings/vinton-county-dog-shelter-mcarthur/
 https://shelterdayout.com/listings/virginia-beach-animal-care-and-adoption-center-virginia-beach/
 https://shelterdayout.com/listings/virginia-beach-spca-virginia-beach/
 https://shelterdayout.com/listings/visalia-animal-care-center-city-of-visalia-visalia/
+https://shelterdayout.com/listings/viva-volunteers-for-inter-valley-animals-cat-shelter-lompoc/
 https://shelterdayout.com/listings/vola-lawson-animal-shelter-alexandria/
 https://shelterdayout.com/listings/volusia-county-animal-services-shelter-deland/
 https://shelterdayout.com/listings/wabash-county-animal-shelter-wabash/
