@@ -607,12 +607,17 @@
   "animals": "Dogs",
   "offers": "Field trips, weekend fosters",
   "url": "https://www.utahpetadoptions.org/short-term-foster-field-trips",
-  "notes": "Volunteers 21+ take a dog off site for an outing of up to an hour or foster for a weekend; the page says the program is paused to new participants while the shelter changes volunteer software.",
+  "notes": "Dog field trips of an hour or less off shelter grounds (21+ with photo ID, signed Field Trip Foster Contract, one dog per vehicle). The page says the program is paused to new participants during a volunteer-software change, while also saying field trips and weekend fostering are walk-in and to email to schedule; confirm with the shelter.",
   "checked": "November 2026",
   "email_program": "info@utahpetadoptions.org",
   "email_main": "info@utahpetadoptions.org",
   "source_list": "shelter website",
-  "phone": "(801) 590-8999"
+  "phone": "(801) 590-8999",
+  "events_url": "https://www.utahpetadoptions.org/upcoming-events",
+  "programs_url": "https://www.utahpetadoptions.org/short-term-foster-field-trips",
+  "contact_url": "https://www.utahpetadoptions.org/about-us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -628,7 +633,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(801) 622-2700"
+  "phone": "(801) 622-2700",
+  "programs_url": "https://www.southogdencity.com/departments/animal_control/adoption,_foster,___volunteer_information.php",
+  "contact_url": "https://www.southogdencity.com/citizen_request/index.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -644,7 +653,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(801) 774-1000"
+  "phone": "(801) 774-1076",
+  "contact_url": "https://www.royutah.gov/i_want_to/contact/animal_control.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -660,7 +672,11 @@
   "email_program": "",
   "email_main": "animalshelter@tooelecity.gov",
   "source_list": "shelter website",
-  "phone": "(435) 882-4607"
+  "phone": "(435) 882-4607",
+  "programs_url": "https://www.tooelecity.gov/services/animal_shelter/volunteers.php",
+  "contact_url": "https://www.tooelecity.gov/services/animal_shelter/index.php",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -676,7 +692,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(435) 654-5727"
+  "phone": "(435) 654-5727",
+  "contact_url": "https://www.wasatchsheriff.gov/animalshelter",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -692,7 +711,11 @@
   "email_program": "",
   "email_main": "animalcontrol@summitcountyutah.gov",
   "source_list": "shelter website",
-  "phone": "(435) 336-3985"
+  "phone": "(435) 336-3985",
+  "programs_url": "https://www.summitcountyutah.gov/957/Volunteers",
+  "contact_url": "https://www.summitcountyutah.gov/957/Volunteers",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -708,7 +731,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.bcutah.gov/events",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -740,7 +766,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "ccanimalshelter@cedarcityut.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://cedarcity.org/animalservices",
+  "contact_url": "https://cedarcity.org/animalservices",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -756,7 +786,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.moabcity.gov/FormCenter/Contact-Us-4/Contact-Us-Form-39",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -772,7 +805,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@rooseveltcity.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.rooseveltcity.gov/424/Animal-Shelter-Services-and-Fees",
+  "contact_url": "https://www.rooseveltcity.gov/150/Animal-Shelter",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -788,7 +825,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "clerk@fillmoreutah.gov",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://fillmoreutah.gov/pages/animal-control",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -804,7 +844,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.beaver.utah.gov/454/Contact-Us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -820,7 +863,12 @@
   "checked": "November 2026",
   "email_program": "foster@nuzzlesandco.org",
   "email_main": "contact@nuzzlesandco.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events_url": "https://www.nuzzlesandco.org/events",
+  "programs_url": "https://www.nuzzlesandco.org/foster",
+  "contact_url": "https://www.nuzzlesandco.org/contact-us",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "UT",
@@ -837,6 +885,8 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.cityofhurricane.com/directory.aspx?did=6",
+  "checked_on": "2026-11-28"
  }
 ]
