@@ -1339,5 +1339,25 @@
   "url_social": "https://www.facebook.com/cityofwinnfieldanimalshelter/",
   "phone": "",
   "events": []
+ },
+ {
+  "state": "LA",
+  "city": "Jefferson",
+  "org": "Jefferson SPCA",
+  "program": "No day-out program yet",
+  "status": "No program yet",
+  "animals": "Dogs and cats",
+  "offers": "",
+  "url": "https://www.jeffersonspca.org/jeffersonspcaadopt",
+  "notes": "Charity partner of Jefferson Parish's shelter; its adoptable animals are housed inside Jefferson Feed, 4421 Jefferson Hwy, and can be visited during the store's hours (adoption team not always on site; apply first).",
+  "checked": "November 2026",
+  "phone": "(504) 733-5878",
+  "email_program": "",
+  "email_main": "Rachel@jeffersonspca.org",
+  "source_list": "shelter website",
+  "events": [],
+  "events_url": "https://www.jeffersonspca.org/events-calendar-chi6",
+  "contact_url": "https://www.jeffersonspca.org/contact-us",
+  "checked_on": "2026-11-28"
  }
 ]
