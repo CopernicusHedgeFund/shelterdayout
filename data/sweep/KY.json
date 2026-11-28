@@ -7,14 +7,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://clintoncounty.ky.gov/Pages/Services.aspx",
+  "url": "https://clintoncounty.ky.gov/Pages/services.aspx",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/groups/361912090648776/",
-  "phone": "(606) 387-0943"
+  "phone": "(606) 387-0943",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -24,13 +26,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://boydcountyky.gov/222",
+  "url": "https://boydcountyky.gov/222/Animal-Control-Shelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalshelter@boydcountyky.gov",
   "source_list": "shelter website",
-  "phone": "(606) 324-0745"
+  "phone": "(606) 324-0745",
+  "contact_url": "https://boydcountyky.gov/m/directory/department?did=48",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -41,12 +46,15 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://nckyanimalshelter.com/",
-  "phone": "",
+  "phone": "(502) 348-1885",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://nckyanimalshelter.com/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -62,7 +70,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 628-3744"
+  "phone": "(270) 628-3744",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -76,9 +86,14 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "HCFOS@yahoo.com",
   "source_list": "shelter website",
-  "phone": "(606) 573-8867"
+  "phone": "(606) 573-8867",
+  "events_url": "https://www.hcfos.org/events",
+  "programs_url": "https://www.hcfos.org/programs",
+  "contact_url": "https://www.hcfos.org/contact-us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -88,7 +103,7 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://marshallcountyky.gov/?p=6704",
+  "url": "https://www.marshallcountyky.gov/189/Animal-Care-Control",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
@@ -102,7 +117,10 @@
     "url": "https://marshallcountyky.gov/?p=6704"
    }
   ],
-  "phone": ""
+  "phone": "(270) 527-0954",
+  "programs_url": "https://www.marshallcountyky.gov/189/Animal-Care-Control",
+  "contact_url": "https://www.marshallcountyky.gov/formcenter/Animal-Care-Control-7/Contact-Autumn-English-48",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -118,7 +136,10 @@
   "email_program": "",
   "email_main": "animals@madisoncountyky.gov",
   "source_list": "shelter website",
-  "phone": "(859) 624-4744"
+  "phone": "(859) 624-4744",
+  "contact_url": "https://madisoncountyky.gov/animal/animal-contact-information/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -134,7 +155,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 783-9404"
+  "phone": "(270) 783-9404",
+  "events_url": "https://www.bgshelterpets.com/events.html",
+  "programs_url": "https://www.bgshelterpets.com/volunteer.html",
+  "contact_url": "https://www.bgshelterpets.com/contact-us.html",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -166,23 +192,29 @@
   "email_program": "",
   "email_main": "brackencountyanimalshelter@gmail.com",
   "source_list": "shelter website",
-  "phone": "(606) 735-3475"
+  "phone": "(606) 735-3475",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
   "city": "Burlington",
   "org": "Ron and Sherrie Lou Noel Boone County Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.boonecountyky.org/departments/animal_control/adoptions.php",
-  "notes": "",
+  "program": "Volunteer walks and field trips",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Walks, field trips",
+  "url": "https://www.boonecountyky.org/services/animal_services/animal_shelter/index.php",
+  "notes": "Qualified volunteers (18+, after a training session) take shelter dogs on regular walks and on field trips to local dog parks or other approved places; sign up via the volunteer page.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "slee@boonecountyky.org",
   "email_main": "animalshelter@boonecountyky.org",
   "source_list": "shelter website",
-  "phone": "(859) 586-5285"
+  "phone": "(859) 586-5285",
+  "programs_url": "https://www.boonecountyky.org/services/animal_services/volunteer/index.php",
+  "contact_url": "https://www.boonecountyky.org/services/animal_services/animal_shelter/index.php",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -213,7 +245,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 465-7651"
+  "phone": "(270) 465-7651",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -275,9 +309,11 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "kim.adams@rcky.us",
   "source_list": "shelter website",
-  "phone": "(606) 784-4930"
+  "phone": "(606) 784-4930",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -287,14 +323,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://adaircounty.ky.gov/departments/Pages/Animal-Shelter.aspx",
+  "url": "https://adaircounty.ky.gov/departments/animal-shelter/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "+1 270 385 9655",
+  "phone": "(270) 385-9655",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "node/5077193240"
+  "osm": "node/5077193240",
+  "contact_url": "https://adaircounty.ky.gov/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -324,10 +363,15 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "animal.services@kentoncounty.org",
+  "email_main": "Animal.Shelter@kentoncountyky.gov",
   "phone": "(859) 356-7400",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1395061972"
+  "osm": "way/1395061972",
+  "events_url": "https://www.kentoncountyky.gov/calendar.aspx?CID=23",
+  "programs_url": "https://www.kentoncountyky.gov/173/Volunteer-Foster",
+  "contact_url": "https://www.kentoncountyky.gov/153/Animal-Services",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -350,16 +394,20 @@
   "city": "Danville",
   "org": "Danville-Boyle County Humane Society",
   "program": "Doggie Day Out",
-  "status": "Needs check",
+  "status": "Open to public",
   "animals": "Dogs",
-  "offers": "Day trip",
-  "url": "https://www.dbchs.org/",
-  "notes": "Listed on the shelter's own website; contact the shelter to confirm details.",
+  "offers": "Day trips, afternoons, sleepovers",
+  "url": "https://www.dbchs.org/ddo",
+  "notes": "Available anytime the shelter is open: register online, stop by to pick an adventure buddy, then walk, grab a pup cup, explore a park or hang out together (sleepovers possible) and fill out a doggie report card; groups schedule ahead.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@dbchs.org",
   "source_list": "shelter website",
-  "phone": "(859) 238-1117"
+  "phone": "(859) 238-1117",
+  "programs_url": "https://www.dbchs.org/ddo",
+  "contact_url": "https://www.dbchs.org/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
