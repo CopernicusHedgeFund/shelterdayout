@@ -504,6 +504,7 @@ https://shelteradoption.com/cities/washington-dc/
 https://shelteradoption.com/cities/waterford-ct/
 https://shelteradoption.com/cities/watonga-ok/
 https://shelteradoption.com/cities/waycross-ga/
+https://shelteradoption.com/cities/webster-tx/
 https://shelteradoption.com/cities/west-palm-beach-fl/
 https://shelteradoption.com/cities/west-seneca-ny/
 https://shelteradoption.com/cities/westerly-ri/
@@ -1406,6 +1407,7 @@ https://shelteradoption.com/shelters/city-of-orange-animal-control-shelter-orang
 https://shelteradoption.com/shelters/city-of-osceola-animal-shelter-osceola/
 https://shelteradoption.com/shelters/city-of-palacios-animal-care-services-palacios/
 https://shelteradoption.com/shelters/city-of-pawnee-animal-control-pawnee/
+https://shelteradoption.com/shelters/city-of-pearsall-animal-control-pearsall/
 https://shelteradoption.com/shelters/city-of-perry-animal-control-perry/
 https://shelteradoption.com/shelters/city-of-plainview-animal-shelter-plainview/
 https://shelteradoption.com/shelters/city-of-port-arthur-animal-services-center-port-arthur/
@@ -1429,6 +1431,7 @@ https://shelteradoption.com/shelters/city-of-shawneetown-animal-control-shawneet
 https://shelteradoption.com/shelters/city-of-st-louis-animal-care-and-control-animal-care-center-st-louis/
 https://shelteradoption.com/shelters/city-of-stilwell-animal-control-shelter-stilwell/
 https://shelteradoption.com/shelters/city-of-stroud-dog-pound-stroud/
+https://shelteradoption.com/shelters/city-of-taft-animal-shelter-taft/
 https://shelteradoption.com/shelters/city-of-tahlequah-animal-control-tahlequah/
 https://shelteradoption.com/shelters/city-of-taylor-animal-shelter-taylor/
 https://shelteradoption.com/shelters/city-of-temple-animal-shelter-heart-to-home-temple/
@@ -1437,6 +1440,7 @@ https://shelteradoption.com/shelters/city-of-valdez-animal-shelter-valdez/
 https://shelteradoption.com/shelters/city-of-vienna-animal-control-vienna/
 https://shelteradoption.com/shelters/city-of-washington-animal-control-and-adoption-facility-washington/
 https://shelteradoption.com/shelters/city-of-watonga-animal-control-watonga/
+https://shelteradoption.com/shelters/city-of-webster-animal-control-humane-services-webster/
 https://shelteradoption.com/shelters/city-of-wichita-falls-animal-services-center-wichita-falls/
 https://shelteradoption.com/shelters/city-of-winnemucca-humboldt-county-animal-center-winnemucca/
 https://shelteradoption.com/shelters/city-of-winnfield-animal-shelter-winnfield/
@@ -2823,6 +2827,7 @@ https://shelteradoption.com/shelters/liberty-county-animal-services-hinesville/
 https://shelteradoption.com/shelters/licking-county-dog-shelter-and-adoption-center-heath/
 https://shelteradoption.com/shelters/licking-county-humane-society-heath/
 https://shelteradoption.com/shelters/lifeline-animal-project-dekalb-county-animal-services-and-community-animal-center-atlanta/
+https://shelteradoption.com/shelters/lifeline-of-galveston-county-pet-adoption-center-webster/
 https://shelteradoption.com/shelters/lighthouse-animal-shelter-new-bedford/
 https://shelteradoption.com/shelters/limestone-county-animal-care-and-control-athens/
 https://shelteradoption.com/shelters/lincoln-animal-shelter-lincoln/

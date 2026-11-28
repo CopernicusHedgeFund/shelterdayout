@@ -567,6 +567,7 @@ https://shelterdayout.com/cities/watauga-tx/
 https://shelterdayout.com/cities/waterford-ct/
 https://shelterdayout.com/cities/watertown-ny/
 https://shelterdayout.com/cities/waterville-me/
+https://shelterdayout.com/cities/webster-tx/
 https://shelterdayout.com/cities/west-chester-pa/
 https://shelterdayout.com/cities/west-kennebunk-me/
 https://shelterdayout.com/cities/west-milwaukee-wi/
@@ -1470,6 +1471,7 @@ https://shelterdayout.com/listings/city-of-orange-animal-control-shelter-orange/
 https://shelterdayout.com/listings/city-of-osceola-animal-shelter-osceola/
 https://shelterdayout.com/listings/city-of-palacios-animal-care-services-palacios/
 https://shelterdayout.com/listings/city-of-pawnee-animal-control-pawnee/
+https://shelterdayout.com/listings/city-of-pearsall-animal-control-pearsall/
 https://shelterdayout.com/listings/city-of-perry-animal-control-perry/
 https://shelterdayout.com/listings/city-of-plainview-animal-shelter-plainview/
 https://shelterdayout.com/listings/city-of-port-arthur-animal-services-center-port-arthur/
@@ -1493,6 +1495,7 @@ https://shelterdayout.com/listings/city-of-shawneetown-animal-control-shawneetow
 https://shelterdayout.com/listings/city-of-st-louis-animal-care-and-control-animal-care-center-st-louis/
 https://shelterdayout.com/listings/city-of-stilwell-animal-control-shelter-stilwell/
 https://shelterdayout.com/listings/city-of-stroud-dog-pound-stroud/
+https://shelterdayout.com/listings/city-of-taft-animal-shelter-taft/
 https://shelterdayout.com/listings/city-of-tahlequah-animal-control-tahlequah/
 https://shelterdayout.com/listings/city-of-taylor-animal-shelter-taylor/
 https://shelterdayout.com/listings/city-of-temple-animal-shelter-heart-to-home-temple/
@@ -1501,6 +1504,7 @@ https://shelterdayout.com/listings/city-of-valdez-animal-shelter-valdez/
 https://shelterdayout.com/listings/city-of-vienna-animal-control-vienna/
 https://shelterdayout.com/listings/city-of-washington-animal-control-and-adoption-facility-washington/
 https://shelterdayout.com/listings/city-of-watonga-animal-control-watonga/
+https://shelterdayout.com/listings/city-of-webster-animal-control-humane-services-webster/
 https://shelterdayout.com/listings/city-of-wichita-falls-animal-services-center-wichita-falls/
 https://shelterdayout.com/listings/city-of-winnemucca-humboldt-county-animal-center-winnemucca/
 https://shelterdayout.com/listings/city-of-winnfield-animal-shelter-winnfield/
@@ -2887,6 +2891,7 @@ https://shelterdayout.com/listings/liberty-county-animal-services-hinesville/
 https://shelterdayout.com/listings/licking-county-dog-shelter-and-adoption-center-heath/
 https://shelterdayout.com/listings/licking-county-humane-society-heath/
 https://shelterdayout.com/listings/lifeline-animal-project-dekalb-county-animal-services-and-community-animal-center-atlanta/
+https://shelterdayout.com/listings/lifeline-of-galveston-county-pet-adoption-center-webster/
 https://shelterdayout.com/listings/lighthouse-animal-shelter-new-bedford/
 https://shelterdayout.com/listings/limestone-county-animal-care-and-control-athens/
 https://shelterdayout.com/listings/lincoln-animal-shelter-lincoln/
