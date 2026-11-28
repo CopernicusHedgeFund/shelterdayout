@@ -1149,7 +1149,10 @@
   "email_main": "animalshelter@cityofmobile.org",
   "phone": "(251) 208-2807",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1259202780"
+  "osm": "way/1259202780",
+  "events_url": "https://www.cityofmobile.gov/news/?category=Animal+Services",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1166,7 +1169,10 @@
   "email_main": "",
   "phone": "(251) 456-5399",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1293731574"
+  "osm": "way/1293731574",
+  "contact_url": "https://thecityofprichard.org/city-directory/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1181,9 +1187,14 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@shark37.care",
-  "phone": "",
+  "phone": "(334) 380-7233",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1556775326"
+  "osm": "way/1556775326",
+  "events_url": "https://shark37.care/events/",
+  "programs_url": "https://shark37.care/help-shelter-animals/",
+  "contact_url": "https://shark37.care/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1219,7 +1230,11 @@
   "phone": "+1 334-761-2440",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "relation/19544725",
-  "source": "https://thebamabuzz.com/new-dothan-animal-shelter-at-capacity-ahead-of-the-holidays"
+  "source": "https://thebamabuzz.com/new-dothan-animal-shelter-at-capacity-ahead-of-the-holidays",
+  "programs_url": "https://wiregrasspetrescue.org/pet-foster-programs/",
+  "contact_url": "https://wiregrasspetrescue.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1235,7 +1250,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(251) 574-3647"
+  "phone": "(251) 574-3647",
+  "programs_url": "https://www.mobilecountyal.gov/government/departments/animal-control/foster-a-pet/",
+  "contact_url": "https://www.mobilecountyal.gov/government/departments/animal-control/animal-shelter-contact-and-directions/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1252,7 +1271,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://www.mobilepubliclibrary.org/community-resources/mobile-spca",
-  "phone": "(251) 633-3531"
+  "phone": "(251) 633-3531",
+  "programs_url": "https://www.mobilespca.org/programs/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1268,7 +1290,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(251) 679-5570"
+  "phone": "(251) 679-5570",
+  "contact_url": "https://saraland.org/animal-control",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1304,7 +1329,11 @@
     "place": "PetSmart"
    }
   ],
-  "phone": "(251) 929-3980"
+  "phone": "(251) 929-3980",
+  "events_url": "https://www.havenforanimals.org/events/",
+  "programs_url": "https://www.havenforanimals.org/rent-a-rover/",
+  "contact_url": "https://www.havenforanimals.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1320,7 +1349,12 @@
   "email_program": "",
   "email_main": "info@baldwinhumane.org",
   "source_list": "shelter website",
-  "phone": "(251) 928-4585"
+  "phone": "(251) 928-4585",
+  "events_url": "https://www.baldwinhumane.org/events-1",
+  "programs_url": "https://www.baldwinhumane.org/volunteer",
+  "contact_url": "https://www.baldwinhumane.org/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1336,7 +1370,10 @@
   "email_program": "",
   "email_main": "dogsrus@frontiernet.net",
   "source_list": "shelter website",
-  "phone": "(251) 575-3427"
+  "phone": "(251) 575-3427",
+  "contact_url": "https://www.monroevilleal.gov/animal-shelter",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1404,7 +1441,10 @@
   "email_main": "atmorepcianimalshelter@gmail.com",
   "source_list": "news",
   "source": "https://www.atmoreadvance.com/?p=184173",
-  "phone": "(251) 368-0859"
+  "phone": "(251) 368-0859",
+  "contact_url": "https://www.cityofatmore.gov/157/Animal-Control",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1420,7 +1460,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(334) 222-8705"
+  "phone": "(334) 222-8705",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1436,7 +1478,11 @@
   "email_program": "",
   "email_main": "sosshelter1981@gmail.com",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "",
+  "programs_url": "https://www.sosshelter.com/volunteer",
+  "contact_url": "https://www.sosshelter.com/contact-us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1452,7 +1498,10 @@
   "email_program": "",
   "email_main": "pikeanimalshelter@troyal.gov",
   "source_list": "shelter website",
-  "phone": "(334) 674-2422"
+  "phone": "(334) 674-2422",
+  "contact_url": "https://www.troyal.gov/pikeanimalshelter",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -1469,7 +1518,11 @@
   "email_main": "",
   "source_list": "adoptapet listing",
   "source": "https://www.adoptapet.com/shelter/193272-southern-souls-animal-league-eufaula-alabama",
-  "phone": ""
+  "phone": "",
+  "events_url": "https://www.southernsoulsanimalleague.com/upcoming-events",
+  "programs_url": "https://www.southernsoulsanimalleague.com/volunteer",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
