@@ -248,6 +248,7 @@ https://shelterdayout.com/cities/hattiesburg-ms/
 https://shelterdayout.com/cities/hayward-wi/
 https://shelterdayout.com/cities/helena-mt/
 https://shelterdayout.com/cities/hemet-ca/
+https://shelterdayout.com/cities/henderson-ky/
 https://shelterdayout.com/cities/henderson-nv/
 https://shelterdayout.com/cities/highland-il/
 https://shelterdayout.com/cities/hinsdale-il/
@@ -294,6 +295,7 @@ https://shelterdayout.com/cities/lafayette-in/
 https://shelterdayout.com/cities/lake-orion-mi/
 https://shelterdayout.com/cities/lakeland-fl/
 https://shelterdayout.com/cities/lana-i-city-hi/
+https://shelterdayout.com/cities/lancaster-ky/
 https://shelterdayout.com/cities/lander-wy/
 https://shelterdayout.com/cities/lansing-mi/
 https://shelterdayout.com/cities/lapeer-mi/
@@ -304,6 +306,7 @@ https://shelterdayout.com/cities/lawrence-ks/
 https://shelterdayout.com/cities/lawrenceville-ga/
 https://shelterdayout.com/cities/league-city-tx/
 https://shelterdayout.com/cities/leesburg-va/
+https://shelterdayout.com/cities/leitchfield-ky/
 https://shelterdayout.com/cities/lewisburg-pa/
 https://shelterdayout.com/cities/lewisburg-wv/
 https://shelterdayout.com/cities/lewiston-id/

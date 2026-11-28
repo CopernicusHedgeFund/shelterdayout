@@ -668,7 +668,9 @@
   "email_program": "",
   "email_main": "animalshelter@mercerky.com",
   "source_list": "shelter website",
-  "phone": "(859) 734-5154"
+  "phone": "(859) 734-5154",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -684,7 +686,10 @@
   "email_program": "",
   "email_main": "ocanimalshelter@ohiocountyky.gov",
   "source_list": "shelter website",
-  "phone": "(270) 256-6611"
+  "phone": "(270) 256-6611",
+  "contact_url": "https://ohiocounty.ky.gov/Pages/Contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -700,7 +705,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 927-8544"
+  "phone": "(270) 927-8544",
+  "contact_url": "https://hancockky.us/contact-us/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -721,17 +729,22 @@
   "state": "KY",
   "city": "Henderson",
   "org": "Humane Society of Henderson County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://hshcky.org",
-  "notes": "",
+  "program": "Dog walking shifts and Hendo Hounds Walking Club",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Dog walks",
+  "url": "https://www.hendersonhumane.org/",
+  "notes": "Approved volunteers sign up for daily dog-walking shifts (9-11am or 3-5pm) after the online volunteer application; the Hendo Hounds Walking Club also walks shelter dogs on Saturdays 10am-4pm.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@hendersonhumane.org",
   "source_list": "shelter website",
-  "phone": "(270) 826-8966"
+  "phone": "(270) 826-8966",
+  "events_url": "https://www.hendersonhumane.org/event-list",
+  "programs_url": "https://www.hendersonhumane.org/volunteer",
+  "contact_url": "https://www.hendersonhumane.org/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -765,7 +778,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 887-4175"
+  "phone": "(270) 887-4175",
+  "contact_url": "https://christiancountyky.gov/contact-us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -796,23 +812,30 @@
   "email_program": "",
   "email_main": "PHelton@oldhamcountyky.gov",
   "source_list": "shelter website",
-  "phone": "(502) 222-7387"
+  "phone": "(502) 222-7387",
+  "contact_url": "https://www.oldhamcountyky.gov/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
   "city": "Lancaster",
   "org": "Garrard County Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Drop-in volunteering (dog walks, cat cuddles)",
+  "status": "Needs check",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://garrardcoanimalshelter.wordpress.com/",
-  "notes": "",
+  "offers": "On-site dog walking, cat cuddling, reading to animals",
+  "url": "https://garrardcoanimalshelter.wordpress.com/volunteer/",
+  "notes": "Volunteer page welcomes people of all ages to stop by during open hours to walk dogs, cuddle cats or read to the animals; the site was last updated years ago, so call ahead.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(859) 792-1562"
+  "phone": "(859) 792-1562",
+  "programs_url": "https://garrardcoanimalshelter.wordpress.com/volunteer/",
+  "contact_url": "https://garrardcoanimalshelter.wordpress.com/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -828,7 +851,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(502) 839-6410"
+  "phone": "(502) 839-6410",
+  "contact_url": "https://andersoncounty.ky.gov/Pages/contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -841,10 +867,15 @@
   "url": "https://andersonhumane.org/",
   "notes": "",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "volunteer@andersonhumane.org",
   "email_main": "president@andersonhumane.org",
   "source_list": "shelter website",
-  "phone": "(502) 839-8339"
+  "phone": "(502) 839-8339",
+  "events_url": "https://andersonhumane.org/whiskersandwags/",
+  "programs_url": "https://andersonhumane.org/volunteer/",
+  "contact_url": "https://andersonhumane.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -854,29 +885,37 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://marioncounty.ky.gov/Services/Pages/Animal-Shelter.aspx",
+  "url": "https://marioncounty.ky.gov/Departments/Pages/Animal-Shelter.aspx",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animal.shelter@marioncountyky.gov",
   "source_list": "shelter website",
-  "phone": "(270) 692-0464"
+  "phone": "(270) 692-0464",
+  "contact_url": "https://marioncounty.ky.gov/Departments/Pages/Animal-Shelter.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
   "city": "Leitchfield",
   "org": "Leitchfield Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
+  "program": "Volunteer dog walking and Rescue Reads",
+  "status": "Open to public",
   "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.leitchfieldanimalshelter.com",
-  "notes": "",
+  "offers": "On-site dog walking, playtime, cat socializing, reading to animals",
+  "url": "https://leitchfieldanimalshelter.com/volunteer",
+  "notes": "Volunteers of all ages (under 18 with an adult) can walk dogs, play with them and socialize cats at the shelter; Rescue Reads evenings let kids read to shelter animals (dates coming soon).",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptlaspets@gmail.com",
   "source_list": "shelter website",
-  "phone": "(270) 230-8839"
+  "phone": "(270) 230-8839",
+  "events_url": "https://leitchfieldanimalshelter.com/upcoming-news-and-events",
+  "programs_url": "https://leitchfieldanimalshelter.com/volunteer",
+  "contact_url": "https://leitchfieldanimalshelter.com/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
