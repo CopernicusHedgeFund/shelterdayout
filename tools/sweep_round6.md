@@ -42,6 +42,9 @@ Follow every rule, data permission and save step in tools/sweep_round5.md, with 
 2. Search the scope for "adoption event" December 2026 <state>, "fee waived adoption" <state>, "holiday adoption event"
    <state>, and add any event that the shelter itself lists on its own site.
 
+## Record direct pages
+For every shelter you visit or add, also save "events_url", "programs_url", "contact_url" (when the site has them) and "checked_on" (YYYY-MM-DD), so monthly checks can go straight to those pages.
+
 ## Saving
 Same as round 5 (save about every 25 entries and at the end of each state; pull --rebase before push; on dist/ or
 dist_adopt/ conflicts take either side, rebuild, recommit). Count exactly; never round.
