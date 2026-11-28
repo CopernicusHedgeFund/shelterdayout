@@ -282,12 +282,14 @@
   "animals": "Dogs",
   "offers": "Day trip",
   "url": "https://www.chicago.gov/content/city/en/depts/cacc/supp_info/FosterCare.html",
-  "notes": "Current CACC volunteers only; long-term dogs (30+ days in shelter). Mon-Fri, up to 5 hours: check-out no earlier than 11am, return by 4pm same day. Bring valid ID with current address and cell phone; sign DDO agreement; email at least 24 hours ahead; complete questionnaire on return.",
+  "notes": "Approved CACC fosters can check out dogs that have been in care 30+ days, Tuesday to Thursday, for up to 4 hours, to dog-friendly public places or a private home with no contact with other animals.",
   "checked": "November 2026",
   "email_program": "caccfoster@cityofchicago.org",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.chicago.gov/city/en/depts/cacc/supp_info/FosterCare.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -359,7 +361,40 @@
   "email_program": "",
   "email_main": "info@arf-il.org",
   "source_list": "shelter website",
-  "phone": "(630) 200-3828"
+  "phone": "(630) 200-3828",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Adoption Event at PetSmart Darien, 11am-2pm",
+    "url": "https://arf-il.rescuegroups.org/info/events?EventID=143362",
+    "place": "PetSmart, 2153 75th St, Darien, IL"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Adoption Event at PetSmart Wheaton, 11am-2pm",
+    "url": "https://arf-il.rescuegroups.org/info/events?EventID=143378",
+    "place": "PetSmart, 63 Rice Lake Square, Wheaton, IL"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Adoption Event at PetSmart Countryside, 11am-2pm",
+    "url": "https://arf-il.rescuegroups.org/info/events?EventID=143363",
+    "place": "PetSmart, 24 Countryside Plaza, Countryside, IL"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Adoption Event at PetSmart Downers Grove, 11am-2pm",
+    "url": "https://arf-il.rescuegroups.org/info/events?EventID=143379",
+    "place": "PetSmart, 1550 Butterfield Rd, Downers Grove, IL"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Adoption Event at PetSmart Wheaton, 11am-2pm",
+    "url": "https://arf-il.rescuegroups.org/info/events?EventID=143364",
+    "place": "PetSmart, 63 Rice Lake Square, Wheaton, IL"
+   }
+  ],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -1108,17 +1143,19 @@
   "state": "IL",
   "city": "Chicago",
   "org": "Chicago Canine Rescue",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://chicagocaninerescue.org/",
-  "notes": "",
+  "program": "Doggy Day Out & Slumber Paw-Ty Sleepovers",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips, sleepovers",
+  "url": "https://chicagocaninerescue.org/volunteer/",
+  "notes": "Signed-up volunteers take a staff-chosen dog out for a few hours (walk, hike, coffee); approved participants can also take a dog home overnight or for a weekend with supplies provided.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@chicagocaninerescue.org",
   "source_list": "shelter website",
-  "phone": "(773) 481-1820"
+  "phone": "(773) 481-1820",
+  "programs_url": "https://chicagocaninerescue.org/foster/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "IL",
@@ -2868,6 +2905,26 @@
   "events_url": "https://safehavenforpets.org/event-calendar/",
   "programs_url": "https://safehavenforpets.org/volunteer-with-us/",
   "contact_url": "https://safehavenforpets.org/contact/",
+  "checked_on": "2026-11-28"
+ },
+ {
+  "state": "IL",
+  "city": "Alton",
+  "org": "MeowTown",
+  "program": "Cat lounge",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "url": "https://www.meowtownalton.org/reservations",
+  "notes": "Visitors age 6 and up can play with and cuddle adoptable cats in the cat cafe lounge; reservations recommended, walk-ins welcome if there is room. Adoptions run through Metro East Humane Society.",
+  "checked": "November 2026",
+  "phone": "(618) 799-8096",
+  "email_program": "",
+  "email_main": "Meowtownalton@yahoo.com",
+  "source_list": "shelter website",
+  "events": [],
+  "programs_url": "https://www.meowtownalton.org/volunteer",
+  "contact_url": "https://www.meowtownalton.org/contact-us",
   "checked_on": "2026-11-28"
  }
 ]
