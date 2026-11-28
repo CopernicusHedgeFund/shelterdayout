@@ -13,7 +13,9 @@
   "email_program": "",
   "email_main": "info@abbevillecountysc.com",
   "source_list": "shelter website",
-  "phone": "(864) 366-6639"
+  "phone": "(864) 366-6639",
+  "contact_url": "https://abbevillecountysc.com/animal-shelter-control/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -43,7 +45,7 @@
   "notes": "Anyone can take a shelter dog out for the day with no appointment or experience: come to the center at 199 Willow Run Road Monday through Saturday during open hours, fill out a short form and pick a dog with staff.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "Info@LetLoveLive.org",
   "phone": "(803) 648-6863",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "node/8507491482",
@@ -65,8 +67,24 @@
     "title": "Adoptions at Good Girl Brewery",
     "url": "https://www.letlovelive.org/",
     "place": "Good Girl Brewery, 880 Banks Mill Rd SE, Aiken, SC"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Adoptions at Dover Saddlery",
+    "url": "https://www.letlovelive.org/events/adoptions-at-dover-saddlery/",
+    "place": "See event page"
+   },
+   {
+    "date": "2026-12-26",
+    "title": "Adoptions at Hollywood Feed",
+    "url": "https://www.letlovelive.org/events/adoptions-at-hollywood-feed/",
+    "place": "Hollywood Feed, 2928 Whiskey Rd, Aiken"
    }
-  ]
+  ],
+  "events_url": "https://www.letlovelive.org/events",
+  "programs_url": "https://www.letlovelive.org/how-to-help/doggie_day_out/",
+  "contact_url": "https://www.letlovelive.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -82,7 +100,11 @@
   "email_program": "",
   "email_main": "pawsrescue@andersoncountysc.gov",
   "source_list": "shelter website",
-  "phone": "(864) 260-4000"
+  "phone": "",
+  "events_url": "https://www.andersoncountysc.org/our-events/",
+  "programs_url": "https://www.andersoncountysc.org/work-live/for-residents/adopt-a-pet/",
+  "contact_url": "https://www.andersoncountysc.org/work-live/for-residents/adopt-a-pet/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -96,9 +118,12 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "mamas.animal.society@gmail.com",
   "source_list": "shelter website",
-  "phone": "(803) 245-7387"
+  "phone": "(803) 245-7387",
+  "programs_url": "https://www.maryannmorrisanimalsociety.org/as-a-foster",
+  "contact_url": "https://www.maryannmorrisanimalsociety.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -114,7 +139,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(803) 259-1656"
+  "phone": "(803) 259-1656",
+  "programs_url": "https://www.barnwellcountysc.us/157/Animal-Shelter",
+  "contact_url": "https://www.barnwellcountysc.us/Directory.aspx?did=6",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -130,7 +158,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": null
+  "phone": "(803) 259-5483",
+  "programs_url": "https://www.theanimaladvocates.org/our-programs",
+  "contact_url": "https://www.theanimaladvocates.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -146,7 +177,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(843) 479-3330"
+  "phone": "(843) 479-3330",
+  "programs_url": "https://www.humanesocietyofmarlboro.org/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -179,7 +212,11 @@
   "email_main": "",
   "phone": "(803) 425-6016",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/530303778"
+  "osm": "way/530303778",
+  "events_url": "https://kchumanesociety.org/events",
+  "programs_url": "https://kchumanesociety.org/volunteer",
+  "contact_url": "https://kchumanesociety.org/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -194,7 +231,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "office@pethelpers.org",
-  "phone": "(843) 795-1110"
+  "phone": "(843) 795-1110",
+  "events_url": "https://pethelpers.org/events/",
+  "programs_url": "https://pethelpers.org/doggy-day-out/",
+  "contact_url": "https://pethelpers.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -204,13 +245,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://chestercountysc.gov/government/animalcontrol",
+  "url": "https://chestercountysc.gov/departments/public-safety-departments/animal-control/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(803) 385-6341"
+  "phone": "(803) 385-6341",
+  "contact_url": "https://chestercountysc.gov/departments/public-safety-departments/animal-control/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -226,7 +269,9 @@
   "email_program": "",
   "email_main": "animalservices@shtc.net",
   "source_list": "shelter website",
-  "phone": "(843) 623-9615"
+  "phone": "(843) 623-3585",
+  "contact_url": "https://www.chesterfieldcountysc.com/animal-shelter",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -242,7 +287,25 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(864) 833-9060"
+  "phone": "(864) 833-9060",
+  "events_url": "https://laurenshumane.org/event-list/",
+  "programs_url": "https://laurenshumane.org/volunteer/",
+  "contact_url": "https://laurenshumane.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Petco Adoption Event",
+    "url": "https://laurenshumane.org/events/petco-adoption-event-4/",
+    "place": "Petco, 353 Harrison Bridge Rd, Simpsonville"
+   },
+   {
+    "date": "2027-01-09",
+    "title": "Petco Adoption Event",
+    "url": "https://laurenshumane.org/events/petco-adoption-event-5/",
+    "place": "Petco, 353 Harrison Bridge Rd, Simpsonville"
+   }
+  ]
  },
  {
   "state": "SC",
