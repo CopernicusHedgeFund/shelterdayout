@@ -598,7 +598,12 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://alabamaanimaladvocates.com/al-walker.html",
-  "phone": ""
+  "phone": "",
+  "events_url": "https://gbhs.org/events",
+  "programs_url": "https://gbhs.org/fostercare",
+  "contact_url": "https://gbhs.org/contactus",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",
@@ -635,7 +640,12 @@
   "email_main": "",
   "source_list": "shelter website",
   "source": "https://pell-city.com/tag/gbhs/",
-  "phone": ""
+  "phone": "",
+  "events_url": "https://gbhs.org/events",
+  "programs_url": "https://gbhs.org/fostercare",
+  "contact_url": "https://gbhs.org/contactus",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "AL",

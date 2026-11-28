@@ -15,7 +15,9 @@
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/AlexandriaforAnimals",
   "phone": "(318) 441-6700",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.cityofalexandriala.com/animal-shelter-housing-pets-for-evacuees/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -69,7 +71,11 @@
     "url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
     "place": "CAAWS, 6357 Quinn Dr, Baton Rouge"
    }
-  ]
+  ],
+  "events_url": "https://caaws.org/caaws-special-events/caaws-event-calendar/",
+  "programs_url": "https://caaws.org/become-an-animal-volunteer/foster-pets-baton-rouge/",
+  "contact_url": "https://caaws.org/contact-capital-area-animal-welfare-society/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -99,7 +105,10 @@
     "url": "https://www.cathaven.org/cafe",
     "place": "530 Shadows Lane, Baton Rouge"
    }
-  ]
+  ],
+  "events_url": "https://www.cathaven.org/events",
+  "programs_url": "https://www.cathaven.org/cafe",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -129,7 +138,10 @@
     "place": "Companion Animal Alliance, 2550 Gourrier Ave."
    }
   ],
-  "phone": ""
+  "phone": "",
+  "events_url": "https://www.caabr.org/calendar",
+  "programs_url": "https://www.caabr.org/dateadog",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -146,7 +158,11 @@
   "email_main": "info@laspca.org",
   "source_list": "shelter website",
   "phone": "(504) 934-6931",
-  "events": []
+  "events": [],
+  "events_url": "https://www.louisianaspca.org/events/",
+  "programs_url": "https://www.louisianaspca.org/doggy-day-out/",
+  "contact_url": "https://www.louisianaspca.org/about-us/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -159,11 +175,12 @@
   "url": "https://www.bogalusa.gov/page/animal-control/",
   "notes": "City animal control operates a shelter with pet adoption services; city offices 214 Arkansas Ave, Mon-Fri 8-4.",
   "checked": "November 2026",
-  "phone": "",
+  "phone": "(985) 732-6200",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -180,7 +197,9 @@
   "email_main": "Animalservices@bossiercity.org",
   "source_list": "shelter website",
   "phone": "(318) 741-8499",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.bossiercity.org/217/Animal-Services",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -189,9 +208,9 @@
   "program": "Field Trips and Group Walks; Doggy Day Out Foster Program",
   "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trips, group walks",
+  "offers": "Day trips, group walks, weekend sleepovers",
   "url": "https://acadianaanimalaid.org/volunteer/",
-  "notes": "142 Le Medicin Rd, no-kill shelter (Mon-Fri 10am-5pm, Sat 10am-1pm); registered volunteers join off-site group walks and approved fosters take a dog on an afternoon outing (park, coffee shop, movie at home).",
+  "notes": "142 Le Medicin Rd, no-kill shelter (Mon-Fri 10am-5pm, Sat 10am-1pm). Registered volunteers join off-site group walks; approved fosters can take a dog on an afternoon Doggy Day Out field trip or home for a 2-3 night sleepover.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
@@ -204,7 +223,11 @@
     "place": "142 Le Medicin Rd, Carencro"
    }
   ],
-  "phone": "(337) 896-1553"
+  "phone": "(337) 896-1553",
+  "events_url": "https://acadianaanimalaid.org/event-calendar/",
+  "programs_url": "https://acadianaanimalaid.org/foster/",
+  "contact_url": "https://acadianaanimalaid.org/contacts/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -851,7 +874,11 @@
     "place": "PetSmart, 2900 S Claiborne Ave, New Orleans"
    }
   ],
-  "phone": "(504) 368-5191"
+  "phone": "(504) 368-5191",
+  "events_url": "https://www.louisianaspca.org/events/",
+  "programs_url": "https://www.louisianaspca.org/doggy-day-out/",
+  "contact_url": "https://www.louisianaspca.org/about-us/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
