@@ -1482,14 +1482,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://caldwellcounty.ky.gov/Departments/Pages/Animal-Control.aspx",
+  "url": "https://caldwellcounty.ky.gov/departments/Pages/animal-control.aspx",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "caldwellkyshelter@gmail.com",
-  "phone": "+1-270-365-1000",
+  "phone": "(270) 365-1000",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1117437881"
+  "osm": "way/1117437881",
+  "contact_url": "https://caldwellcounty.ky.gov/Pages/contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1522,7 +1525,9 @@
   "email_main": "animalshelterdir@logancountyky.gov",
   "phone": "(270) 726-2186",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/1582471051"
+  "osm": "way/1582471051",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1536,9 +1541,14 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "adoptlcpets@gmail.com",
   "source_list": "shelter website",
-  "phone": "(270) 598-1229"
+  "phone": "(270) 598-1229",
+  "events_url": "https://adoptlcpets.com/upcoming-events",
+  "programs_url": "https://adoptlcpets.com/become-a-volunteer",
+  "contact_url": "https://adoptlcpets.com/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1554,7 +1564,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(270) 618-7387"
+  "phone": "(270) 618-7387",
+  "events_url": "https://www.allencountykentucky.com/calendar-of-events",
+  "contact_url": "https://www.allencountykentucky.com/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1570,7 +1584,10 @@
   "email_program": "",
   "email_main": "danielle.reynolds@shelbycoky.com",
   "source_list": "shelter website",
-  "phone": "(502) 633-0009"
+  "phone": "(502) 633-0009",
+  "programs_url": "https://shelbycounty.ky.gov/departments/Pages/animal-control.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1580,13 +1597,15 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://bullittky.com/?p=819",
+  "url": "https://bullittky.com/?page_id=819",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalcontrol@bullittky.com",
   "source_list": "shelter website",
-  "phone": "(502) 543-8686"
+  "phone": "(502) 543-8686",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1600,10 +1619,14 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "paws@pcanimalshelter.com",
+  "email_main": "PAWS@PCANIMALSHELTER.COM",
   "phone": "(606) 679-6432",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/720880653"
+  "osm": "way/720880653",
+  "events_url": "https://animals.pulaskigov.com/adoptapet/",
+  "contact_url": "https://animals.pulaskigov.com/info/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1619,7 +1642,9 @@
   "email_program": "",
   "email_main": "JCASKY23@gmail.com",
   "source_list": "shelter website",
-  "phone": "(606) 789-2550"
+  "phone": "(606) 297-7387",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1650,7 +1675,9 @@
   "email_program": "",
   "email_main": "heather.chatham@trimblecountyky.gov",
   "source_list": "shelter website",
-  "phone": "(502) 667-1055"
+  "phone": "(502) 667-1055",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1660,14 +1687,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://mail.spencercountyky.gov/animals.php",
+  "url": "https://www.spencercountyky.gov/services/animal_services.php",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "phone": "",
+  "phone": "(502) 902-0608",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/757935297"
+  "osm": "way/757935297",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1706,13 +1735,15 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://gallatinky.org/?p=1884",
+  "url": "https://gallatinky.org/animal-shelter/",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(859) 567-5691"
+  "phone": "(859) 567-5691",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1743,7 +1774,10 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "contact_url": "https://www.letchercounty.ky.gov/Pages/contact.aspx",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -1773,8 +1807,13 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "info@clarkshelter.org",
   "source_list": "shelter website",
-  "phone": "(859) 737-0053"
+  "phone": "(859) 737-0053",
+  "events_url": "https://clarkshelter.org/events/",
+  "programs_url": "https://clarkshelter.org/volunteer/",
+  "contact_url": "https://clarkshelter.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  }
 ]
