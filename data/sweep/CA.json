@@ -28,7 +28,11 @@
   "email_program": "",
   "email_main": "info@alamedaanimalshelter.org",
   "source_list": "shelter website",
-  "phone": "(510) 337-8565"
+  "phone": "(510) 337-8565",
+  "events": [],
+  "events_url": "https://www.alamedaanimalshelter.org/about/events.html",
+  "programs_url": "https://www.alamedaanimalshelter.org/volunteer/foster/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -44,7 +48,12 @@
   "email_program": "",
   "email_main": "info@icraeastbay.org",
   "source_list": "shelter website",
-  "phone": "(510) 869-2584"
+  "phone": "(510) 869-2584",
+  "events": [],
+  "events_url": "https://icraeastbay.org/get-involved/support-us/events/",
+  "programs_url": "https://icraeastbay.org/get-involved/volunteer/",
+  "contact_url": "https://icraeastbay.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -313,7 +322,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(805) 688-8224"
+  "phone": "(805) 688-8224",
+  "events": [],
+  "events_url": "https://syvhumane.org/category/news-events/",
+  "programs_url": "https://syvhumane.org/get-involved/foster/",
+  "contact_url": "https://syvhumane.org/about/location-hours/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -920,7 +934,12 @@
   "email_program": "",
   "email_main": "info@asapcats.org",
   "source_list": "shelter website",
-  "phone": "(805) 683-3368"
+  "phone": "(805) 683-3368",
+  "events": [],
+  "events_url": "https://asapcats.org/newsletter/upcoming-events/",
+  "programs_url": "https://asapcats.org/fostering/foster-opportunities/",
+  "contact_url": "https://asapcats.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1029,7 +1048,10 @@
   "email_main": "",
   "source_list": "shelter website",
   "events": [],
-  "phone": "(707) 431-3386"
+  "phone": "(707) 431-3386",
+  "events_url": "https://humanesocietysoco.org/get-involved/events/",
+  "programs_url": "https://humanesocietysoco.org/get-involved/foster-a-pet/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -1403,7 +1425,7 @@
   "url": "https://bestfriends.org/node/672737",
   "notes": "Take an adoptable dog from the 1845 Pontius Ave. center on a day outing or overnight sleepover; staff match you with a dog and supplies are provided. Complete the Canine Foster Orientation first; no prior experience needed. Center open daily 11am-7pm.",
   "checked": "November 2026",
-  "email_program": "behaviorLA@bestfriends.org",
+  "email_program": "fosterla@bestfriends.org",
   "email_main": "bestfriendsla@bestfriends.org",
   "source_list": "shelter website",
   "events": [
@@ -1414,7 +1436,11 @@
     "place": "Best Friends Pet Adoption Center, 1845 Pontius Ave., Los Angeles"
    }
   ],
-  "phone": "(424) 208-8840"
+  "phone": "(424) 208-8840",
+  "events_url": "https://bestfriends.org/los-angeles/events",
+  "programs_url": "https://bestfriends.org/los-angeles/foster/adventure-buddy-program",
+  "contact_url": "https://bestfriends.org/los-angeles",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -2150,7 +2176,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(760) 834-7000"
+  "phone": "(760) 834-7000",
+  "events": [],
+  "events_url": "https://lovingallanimals.org/event-calendar/",
+  "programs_url": "https://lovingallanimals.org/sos-foster-program/",
+  "contact_url": "https://lovingallanimals.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4425,7 +4456,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "events": [],
+  "contact_url": "https://www.clovisca.gov/services/police/about/contact_clovis_pd.php",
+  "programs_url": "https://www.clovisca.gov/services/police/join_our_team/volunteer_opportunities.php",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4680,7 +4715,12 @@
   "email_program": "",
   "email_main": "info@pawsofcoronado.org",
   "source_list": "shelter website",
-  "phone": "(619) 435-8247"
+  "phone": "(619) 435-8247",
+  "events": [],
+  "events_url": "https://pawsofcoronado.org/events/",
+  "programs_url": "https://pawsofcoronado.org/foster-application/",
+  "contact_url": "https://pawsofcoronado.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4696,7 +4736,12 @@
   "email_program": "",
   "email_main": "manager@friendsofcats.org",
   "source_list": "shelter website",
-  "phone": "(619) 561-0361"
+  "phone": "(619) 561-0361",
+  "events": [],
+  "events_url": "https://www.friendsofcats.org/events",
+  "programs_url": "https://www.friendsofcats.org/volunteer",
+  "contact_url": "https://www.friendsofcats.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -5057,7 +5102,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://joybound.org/get-involved/attend-an-event/",
+  "programs_url": "https://joybound.org/get-involved/foster/",
+  "contact_url": "https://joybound.org/learn/about-us/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -5074,7 +5123,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.fatkittycity.org/foster.html",
+  "contact_url": "https://www.fatkittycity.org/contact.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -5112,7 +5164,30 @@
   "email_program": "",
   "email_main": "adoptions@eastwoodranch.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [
+   {
+    "date": "2026-12-06",
+    "title": "ERF at The Lakes",
+    "url": "https://eastwoodranch.org/",
+    "place": "The Lakes, Thousand Oaks"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "ERF at Healthy Pet",
+    "url": "https://eastwoodranch.org/",
+    "place": "Healthy Pet, Newbury Park"
+   },
+   {
+    "date": "2026-12-15",
+    "title": "Meet Quentin Lake at ERF (meet adoptable pets)",
+    "url": "https://eastwoodranch.org/holiday-event-quentin-lake/",
+    "place": "Eastwood Ranch, Agoura Hills"
+   }
+  ],
+  "events_url": "https://eastwoodranch.org/",
+  "programs_url": "https://eastwoodranch.org/pet-foster/",
+  "contact_url": "https://eastwoodranch.org/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
