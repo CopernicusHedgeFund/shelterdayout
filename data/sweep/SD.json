@@ -13,7 +13,11 @@
   "email_program": "",
   "email_main": "info@anewleashonlife.net",
   "source_list": "shelter website",
-  "phone": "(605) 226-1200"
+  "phone": "(605) 226-1200",
+  "events_url": "https://anewleashonlife.net/news",
+  "programs_url": "https://www.anewleashonlife.net/volunteer",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -38,7 +42,11 @@
     "url": "https://www.brookingshumane.org/",
     "place": "Brookings Regional Humane Society, Brookings"
    }
-  ]
+  ],
+  "programs_url": "https://www.brookingshumane.org/foster-volunteer",
+  "contact_url": "https://www.brookingshumane.org/contact-us",
+  "events_url": "https://www.brookingshumane.org/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -55,7 +63,10 @@
   "email_main": "ethel.morgan246@gmail.com",
   "source_list": "shelter website",
   "source": "https://www.facebook.com/crstwwas",
-  "phone": "(605) 964-7387"
+  "phone": "(605) 964-7387",
+  "contact_url": "https://www.cheyenneriversioux.com/contact-us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -71,7 +82,11 @@
   "email_program": "",
   "email_main": "bmhs@goldenwest.net",
   "source_list": "shelter website",
-  "phone": "(605) 745-7283"
+  "phone": "(605) 745-7283",
+  "programs_url": "https://battlemountainhumanesociety.org/volunteers/",
+  "contact_url": "https://battlemountainhumanesociety.org/contact/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -106,7 +121,9 @@
   "source_list": "shelter website",
   "url_social": "https://www.facebook.com/twincityanimals/",
   "source": "https://www.petfinder.com/member/us/sd/lead/twin-city-animal-shelter-sd01/",
-  "phone": "(605) 584-2480"
+  "phone": "(605) 584-2480",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -121,7 +138,13 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "pets4adoption@yahoo.com",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(605) 223-2287",
+  "events_url": "https://pierrepaws.com/events",
+  "programs_url": "https://pierrepaws.com/how-to-help",
+  "contact_url": "https://pierrepaws.com/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -137,15 +160,12 @@
   "email_program": "",
   "email_main": "hsbhinformation@gmail.com",
   "source_list": "shelter website",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday Adoption Specials",
-    "url": "https://www.hsbh.org/event/black-friday-adoption-specials/",
-    "place": "Humane Society of the Black Hills, 1820 E. St. Patrick St., Rapid City"
-   }
-  ],
-  "phone": "(605) 394-4170"
+  "events": [],
+  "phone": "(605) 394-4170",
+  "events_url": "https://www.hsbh.org/events/month/",
+  "programs_url": "https://www.hsbh.org/foster/",
+  "contact_url": "https://www.hsbh.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -158,11 +178,16 @@
   "url": "https://www.sfadopt.com/foster/rescue-dog-recess",
   "notes": "Apply online (JotForm) on the Rescue Dog Recess page; participants 18+ (or under 18 with parent/guardian), no extensive criminal history; pick an eligible dog and an approved outing; shelter supplies gear. Shelter open Mon-Wed and Fri-Sat 11-6, Sun 11-4, closed Thu.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "",
+  "email_program": "programs@sfhumanesociety.com",
+  "email_main": "frontoffice@sfhumanesociety.com",
   "phone": "(605) 338-4441",
   "source_list": "shelter website",
-  "osm": "way/715670599"
+  "osm": "way/715670599",
+  "events_url": "https://www.sfadopt.com/calendar",
+  "programs_url": "https://www.sfadopt.com/foster/rescue-dog-recess",
+  "contact_url": "https://www.sfadopt.com/ContactUs",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -179,7 +204,12 @@
   "email_main": "sdwhhs@gmail.com",
   "phone": "(605) 642-1576",
   "source_list": "shelter website",
-  "osm": "way/292124660"
+  "osm": "way/292124660",
+  "events_url": "https://www.westernhillshumanesociety.com/events",
+  "programs_url": "https://www.westernhillshumanesociety.com/get-involved",
+  "contact_url": "https://www.westernhillshumanesociety.com/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -195,7 +225,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(605) 347-8310"
+  "phone": "(605) 347-8310",
+  "programs_url": "https://www.sturgis-sd.gov/departments/Police/adopt-a-pet",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SD",
@@ -228,6 +261,11 @@
   "email_main": "info@heartlandhumanesociety.com",
   "phone": "(605) 664-4244",
   "source_list": "shelter website",
-  "osm": "node/5343230598"
+  "osm": "node/5343230598",
+  "events_url": "https://www.heartlandhumanesociety.net/events",
+  "programs_url": "https://www.heartlandhumanesociety.net/getinvolved/community-programming",
+  "contact_url": "https://www.heartlandhumanesociety.net/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  }
 ]
