@@ -249,6 +249,7 @@ https://shelterdayout.com/cities/harker-heights-tx/
 https://shelterdayout.com/cities/harlingen-tx/
 https://shelterdayout.com/cities/harrisburg-pa/
 https://shelterdayout.com/cities/harrisonburg-va/
+https://shelterdayout.com/cities/harrisville-ut/
 https://shelterdayout.com/cities/hartsville-sc/
 https://shelterdayout.com/cities/hastings-mn/
 https://shelterdayout.com/cities/hattiesburg-ms/
@@ -541,6 +542,7 @@ https://shelterdayout.com/cities/sonoma-ca/
 https://shelterdayout.com/cities/south-burlington-vt/
 https://shelterdayout.com/cities/south-elgin-il/
 https://shelterdayout.com/cities/south-haven-mi/
+https://shelterdayout.com/cities/spanish-fork-ut/
 https://shelterdayout.com/cities/spokane-valley-wa/
 https://shelterdayout.com/cities/sprakers-ny/
 https://shelterdayout.com/cities/springfield-il/
