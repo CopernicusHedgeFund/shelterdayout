@@ -1392,7 +1392,12 @@
   "email_program": "",
   "email_main": "pals.lodi@yahoo.com",
   "source_list": "shelter website",
-  "phone": "(209) 333-9963"
+  "phone": "(209) 333-9963",
+  "events": [],
+  "events_url": "https://www.palshaven.org/events/calendar/",
+  "programs_url": "https://www.palshaven.org/volunteer/adult/",
+  "contact_url": "https://www.palshaven.org/about-us/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4136,17 +4141,21 @@
   "state": "CA",
   "city": "Eureka",
   "org": "Companion Animal Foundation - Community Adoption Center",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.cafanimals.org/",
-  "notes": "Adoption center houses kittens and puppies.",
+  "program": "Puppy outings (walks, beach or forest)",
+  "status": "Open to public",
+  "animals": "Puppies",
+  "offers": "Short outings",
+  "url": "https://www.cafanimals.org/programs",
+  "notes": "Adult visitors to the Community Adoption Center (3954 Jacobs Ave) may take puppies on walks nearby or to the beach or forest; bring photo ID and call ahead since puppies are not always on site.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "cafmail88@gmail.com",
   "source_list": "shelter website",
-  "phone": "(707) 296-4629"
+  "phone": "(707) 296-4629",
+  "events": [],
+  "events_url": "https://www.cafanimals.org/events",
+  "programs_url": "https://www.cafanimals.org/volunteering",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4162,7 +4171,12 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(707) 616-6440"
+  "phone": "(707) 616-6440",
+  "events": [],
+  "events_url": "https://www.humboldtanimalrescueteam.org/events.html",
+  "programs_url": "https://www.humboldtanimalrescueteam.org/foster.html",
+  "contact_url": "https://www.humboldtanimalrescueteam.org/contact.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4310,7 +4324,12 @@
   "email_program": "",
   "email_main": "rescue@pawspartners.org",
   "source_list": "shelter website",
-  "phone": "(209) 223-0410"
+  "phone": "(209) 223-0410",
+  "events": [],
+  "events_url": "https://www.pawspartners.org/apal-events.html",
+  "programs_url": "https://www.pawspartners.org/apalfostervolunteer.html",
+  "contact_url": "https://www.pawspartners.org/apal-contact.html",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
