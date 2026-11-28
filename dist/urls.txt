@@ -566,6 +566,7 @@ https://shelterdayout.com/cities/syracuse-ny/
 https://shelterdayout.com/cities/tahlequah-ok/
 https://shelterdayout.com/cities/tallahassee-fl/
 https://shelterdayout.com/cities/tampa-fl/
+https://shelterdayout.com/cities/taos-nm/
 https://shelterdayout.com/cities/terrytown-ne/
 https://shelterdayout.com/cities/texas-city-tx/
 https://shelterdayout.com/cities/thomaston-me/

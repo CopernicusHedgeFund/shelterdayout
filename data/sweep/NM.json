@@ -417,14 +417,14 @@
   "state": "NM",
   "city": "Taos",
   "org": "Stray Hearts Animal Shelter",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.strayhearts.org/",
-  "notes": "1200 Saint Francis Lane, Taos. Volunteers can join a Running Club and dog walking, but no day-out program.",
+  "program": "Running Club",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Running buddy",
+  "url": "https://www.strayhearts.org/get-involved",
+  "notes": "Trained volunteers are paired with approved shelter dogs for structured runs; volunteers complete an online application, Fear Free course, orientation and training first (contact operations@strayhearts.org).",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "operations@strayhearts.org",
   "email_main": "info@strayhearts.org",
   "phone": "(575) 758-2981",
   "source_list": "OpenStreetMap contributors (ODbL)",
@@ -448,21 +448,25 @@
     "url": "https://www.strayhearts.org/events",
     "place": "Bent Street & John Dunn Shops, Taos"
    }
-  ]
+  ],
+  "events_url": "https://www.strayhearts.org/events",
+  "programs_url": "https://www.strayhearts.org/get-involved",
+  "contact_url": "https://www.strayhearts.org/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NM",
   "city": "Albuquerque",
   "org": "Animal Humane New Mexico",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://animalhumanenm.org/adopt",
-  "notes": "Main Campus, 615 Virginia St SE. No day-out program described on its site.",
+  "program": "Fetch Some Fun (two-week adult dog foster)",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Short-term foster (two weeks)",
+  "url": "https://animalhumanenm.org/how-to-help/foster/",
+  "notes": "Approved fosters give an adult shelter dog a two-week break from the shelter in their home to lower its stress; contact Volunteer@animalhumanenm.org.",
   "checked": "November 2026",
-  "email_program": "",
-  "email_main": "Info@AnimalHumaneNM.org",
+  "email_program": "Volunteer@animalhumanenm.org",
+  "email_main": "info@animalhumanenm.org",
   "source_list": "shelter website",
   "events": [
    {
@@ -484,7 +488,11 @@
     "place": "Animal Humane Thrift Shop, 5341 Menaul Blvd NE, Albuquerque"
    }
   ],
-  "phone": "(505) 255-5523"
+  "phone": "(505) 255-5523",
+  "events_url": "https://animalhumanenm.org/events/",
+  "programs_url": "https://animalhumanenm.org/how-to-help/foster/",
+  "contact_url": "https://animalhumanenm.org/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NM",
@@ -500,7 +508,10 @@
   "email_program": "",
   "email_main": "animalcare@grantsnm.gov",
   "source_list": "shelter website",
-  "phone": "(505) 285-4012"
+  "phone": "(505) 285-4012",
+  "contact_url": "https://www.grantsnm.gov/Departments/Animal-Care-Center",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -516,7 +527,12 @@
   "email_program": "",
   "email_main": "info@animalhumanenm.org",
   "source_list": "shelter website",
-  "phone": "(505) 255-5523"
+  "phone": "(505) 323-7387",
+  "events_url": "https://animalhumanenm.org/events/",
+  "programs_url": "https://animalhumanenm.org/how-to-help/foster/",
+  "contact_url": "https://animalhumanenm.org/contact-us/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -526,13 +542,17 @@
   "status": "Open to public",
   "animals": "Cats",
   "offers": "Cat lounge visits",
-  "url": "https://www.catopiacatcafe.com/faq",
-  "notes": "Cat cafe at 8001 Wyoming Blvd NE where all cats are adoptable (from Albuquerque Animal Welfare, Bernalillo County and rescue partners). Entry fee; walk-ins welcome as space allows or reserve online. Open Wed 11am-8pm, Fri-Sun 11am-5pm.",
+  "url": "https://www.catopiacatcafe.com/visit",
+  "notes": "Visit adoptable cats from partner rescues: Wed 11am-8pm, Fri-Sun 11am-5pm; $14 per person for up to an hour. Booking ahead is best, walk-ins welcome if space allows; kids must be supervised. Closed Thanksgiving, Christmas and Easter.",
   "checked": "November 2026",
   "email_program": "catopiacafe@gmail.com",
-  "email_main": "catopiacafe@gmail.com",
+  "email_main": "CatopiaCafe@gmail.com",
   "source_list": "shelter website",
-  "phone": "(505) 508-4278"
+  "phone": "(505) 508-4278",
+  "programs_url": "https://www.catopiacatcafe.com/visit",
+  "contact_url": "https://www.catopiacatcafe.com/faq",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -548,7 +568,11 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": ""
+  "phone": "(505) 891-5075",
+  "programs_url": "https://rrnm.gov/5084/Volunteer-at-the-Animal-Resource-Center",
+  "contact_url": "https://rrnm.gov/5036/Location-Hours",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -564,7 +588,11 @@
   "email_program": "",
   "email_main": "sandovalpets@sandovalcountynm.gov",
   "source_list": "shelter website",
-  "phone": "(505) 867-7642"
+  "phone": "(505) 867-7642",
+  "programs_url": "https://www.sandovalcountynm.gov/departments/community-services/animal-services/",
+  "contact_url": "https://www.sandovalcountynm.gov/departments/community-services/animal-services/",
+  "checked_on": "2026-11-28",
+  "events": []
  },
  {
   "state": "NM",
@@ -642,14 +670,9 @@
   "notes": "108 Hamm Parkway.",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "evhsreception@gmail.com",
+  "email_main": "contact@espanolahumane.org",
   "source_list": "shelter website",
   "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday adoption specials ($27 puppies/kittens/cats, adult dog fees waived)",
-    "url": "https://www.espanolahumane.org/event/petsmart-black-friday-adoption-event/"
-   },
    {
     "date": "2026-11-28",
     "title": "PetSmart adoption event",
@@ -663,7 +686,10 @@
     "place": "PetSmart, 3561 Zafarano Dr, Santa Fe"
    }
   ],
-  "phone": "(505) 753-8662"
+  "phone": "(505) 753-8662",
+  "events_url": "https://www.espanolahumane.org/evalleyevents/",
+  "programs_url": "https://www.espanolahumane.org/volunteering/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "NM",
