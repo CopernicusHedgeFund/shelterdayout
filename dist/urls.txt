@@ -590,6 +590,7 @@ https://shelterdayout.com/cities/whitewater-wi/
 https://shelterdayout.com/cities/wichita-falls-tx/
 https://shelterdayout.com/cities/wichita-ks/
 https://shelterdayout.com/cities/williamsburg-va/
+https://shelterdayout.com/cities/willits-ca/
 https://shelterdayout.com/cities/willmar-mn/
 https://shelterdayout.com/cities/wilmington-de/
 https://shelterdayout.com/cities/wilton-ct/
@@ -3153,6 +3154,7 @@ https://shelterdayout.com/listings/midwest-city-animal-welfare-midwest-city/
 https://shelterdayout.com/listings/miles-city-animal-shelter-miles-city/
 https://shelterdayout.com/listings/milford-animal-control-and-dog-kennel-milford/
 https://shelterdayout.com/listings/milford-animal-control-milford/
+https://shelterdayout.com/listings/milo-foundation-milo-sanctuary-willits/
 https://shelterdayout.com/listings/milo-foundation-point-richmond/
 https://shelterdayout.com/listings/milton-animal-shelter-milton-animal-league-milton/
 https://shelterdayout.com/listings/milwaukee-area-domestic-animal-control-commission-madacc-west-milwaukee/
