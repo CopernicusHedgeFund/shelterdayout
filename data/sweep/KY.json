@@ -176,7 +176,9 @@
   "email_program": "",
   "email_main": "jen.h@meadeky.gov",
   "source_list": "shelter website",
-  "phone": "(270) 422-2064"
+  "phone": "(270) 422-2064",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -272,14 +274,17 @@
   "status": "No program yet",
   "animals": "Dogs",
   "offers": "",
-  "url": "https://carrollcountygov.us/animal-shelter",
+  "url": "https://www.carrollcountygov.us/animal-shelter",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "thehe@carrollcountygov.us",
   "phone": "(502) 732-8959",
   "source_list": "OpenStreetMap contributors (ODbL)",
-  "osm": "way/516823879"
+  "osm": "way/516823879",
+  "contact_url": "https://www.carrollcountygov.us/contact",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
@@ -994,9 +999,9 @@
   "program": "Date with a Dog",
   "status": "Volunteers only",
   "animals": "Dogs",
-  "offers": "Day trip",
+  "offers": "Day trip; Purrfect Day Café cat lounge",
   "url": "https://www.kyhumane.org/wp-content/uploads/2026/08/KHS-Corporate-Volunteer-Packet-Information_0726.pdf",
-  "notes": "Trained volunteers and corporate volunteer teams pick up a dog at Sam Swope Pet TLC (241 Steedly Dr) Tuesday-Saturday between 8:30 and 11 a.m. and return it by 4 p.m.; one dog per outing.",
+  "notes": "Trained volunteers and corporate volunteer teams pick up a dog at Sam Swope Pet TLC (241 Steedly Dr) Tuesday-Saturday between 8:30 and 11 a.m. and return it by 4 p.m.; one dog per outing. Adoptable KHS cats can also be visited at Purrfect Day Café in the Highlands (1741 Bardstown Rd) by appointment ($15 visit fee).",
   "checked": "November 2026",
   "email_program": "volunteer@kyhumane.org",
   "email_main": "",
@@ -1269,7 +1274,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(606) 256-1833"
+  "phone": "(606) 256-1833",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "KY",
