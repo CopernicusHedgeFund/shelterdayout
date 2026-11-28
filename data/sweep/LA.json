@@ -244,7 +244,10 @@
   "email_program": "",
   "email_main": "animalcontrol@grantso.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.grantso.org/animalfostering",
+  "contact_url": "https://www.grantso.org/animalcontrol",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -261,7 +264,9 @@
   "email_main": "avoyellesanimalwelfaresociety@gmail.com",
   "source_list": "shelter website",
   "phone": "(318) 876-2068",
-  "events": []
+  "events": [],
+  "contact_url": "https://sites.google.com/view/avoyellesanimalshelter/about-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -295,7 +300,9 @@
   "email_main": "",
   "source_list": "shelter website",
   "phone": "(337) 788-8800",
-  "events": []
+  "events": [],
+  "contact_url": "https://appj.org/animal-control/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -312,7 +319,9 @@
   "events": [],
   "city": "Crowley",
   "org": "City of Crowley Animal Shelter (Animal Control)",
-  "url": "https://crowley-la.com/departments/"
+  "url": "https://crowley-la.com/departments/",
+  "contact_url": "https://crowley-la.com/departments/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -329,7 +338,9 @@
   "email_main": "animalcontrol@cityofdenhamsprings.com",
   "source_list": "shelter website",
   "phone": "(225) 664-4472",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.cityofdenhamsprings.com/dept-animal-control-center",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -346,7 +357,11 @@
   "email_program": "",
   "email_main": "adopt@animalrescueneworleans.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://animalrescueneworleans.org/events",
+  "programs_url": "https://animalrescueneworleans.org/volunteer/",
+  "contact_url": "https://animalrescueneworleans.org/contact-arno/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -381,7 +396,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://www.bigskyranch.org/bsc-events",
+  "programs_url": "https://www.bigskyranch.org/foster",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -417,7 +435,9 @@
   "source_list": "shelter website",
   "url_social": "https://facebook.com/washingtonparishanimalshelter",
   "phone": "(985) 205-2023",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.wpgov.org/214/Animal-Shelter",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -451,7 +471,10 @@
   "email_main": "stopcruelty33@gmail.com",
   "source_list": "shelter website",
   "phone": "(985) 419-9900",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.tangihumanesociety.org/volunteering",
+  "contact_url": "https://www.tangihumanesociety.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -478,14 +501,17 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://jeffparish.net/departments/animal-shelter/More-About-JPAWS",
+  "url": "https://www.jeffparish.gov/1368/Jefferson-Protection-Animal-Welfare-Serv",
   "notes": "2701 Lapalco Blvd. Adoptions Mon-Fri 12-4, Sat 12-3. East Bank shelter closed due to hurricane damage.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "jpaws@JeffParish.net",
   "source_list": "shelter website",
   "phone": "(504) 349-5111",
-  "events": []
+  "events": [],
+  "events_url": "https://www.jeffparish.gov/1368/Jefferson-Protection-Animal-Welfare-Serv",
+  "programs_url": "https://www.jeffparish.gov/1424/Volunteer",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -498,11 +524,13 @@
   "url": "https://doc.la.gov/public-programs-resources/pen-pals-animal-shelter/",
   "notes": "Shelter on the grounds of Dixon Correctional Institute where incarcerated caretakers care for dogs and cats; $40 adoption donation.",
   "checked": "November 2026",
-  "phone": "",
+  "phone": "(225) 634-1200",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "contact_url": "https://doc.la.gov/public-programs-resources/pen-pals-animal-shelter/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -519,7 +547,11 @@
   "email_main": "gods.paws7076@gmail.com",
   "source_list": "shelter website",
   "phone": "(318) 623-3549",
-  "events": []
+  "events": [],
+  "events_url": "https://www.godspawsrs.org/events-2-1",
+  "programs_url": "https://www.godspawsrs.org/ways-to-help",
+  "contact_url": "https://www.godspawsrs.org/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -529,14 +561,16 @@
   "offers": "",
   "notes": "City-run shelter that holds stray dogs until they're adopted; adopters fill out an application and need approval, and the fee is a donation of at least $25 in canned dog food. The city also takes foster applications.",
   "checked": "November 2026",
-  "phone": "",
+  "phone": "(337) 821-5500",
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
   "events": [],
   "city": "Jennings",
   "org": "Jennings Animal Shelter (City of Jennings Animal Control)",
-  "url": "https://www.cityofjennings.com/animal-control/"
+  "url": "https://www.cityofjennings.com/animal-control/",
+  "contact_url": "https://www.cityofjennings.com/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -553,7 +587,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.crookedcreekkennels.com/volunteer",
+  "contact_url": "https://www.crookedcreekkennels.com/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
@@ -570,7 +607,9 @@
   "email_main": "animalshelter@stjohn-la.gov",
   "source_list": "shelter website",
   "phone": "(985) 651-7387",
-  "events": []
+  "events": [],
+  "contact_url": "https://www.sjbparish.gov/Services/Animal-Shelter",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "LA",
