@@ -56,7 +56,10 @@
    }
   ],
   "source_list": "",
-  "phone": "(254) 754-1454"
+  "phone": "(254) 754-1454",
+  "events_url": "https://www.petcirclewaco.org/Events",
+  "programs_url": "https://www.petcirclewaco.org/Programs/Animal-Adventures",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -987,7 +990,8 @@
   "phone": "",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/640730256",
-  "events": []
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -1971,7 +1975,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(281) 652-1970"
+  "phone": "(281) 652-1970",
+  "programs_url": "https://www.pearlandtx.gov/departments/police/divisions/animal-services/volunteer",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2033,7 +2040,12 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "frontdesk@humanesocietyofwichitacounty.org",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(940) 855-4941",
+  "programs_url": "https://www.humanesocietyofwichitacounty.org/rent-a-rover/",
+  "contact_url": "https://www.humanesocietyofwichitacounty.org/about-us-2/",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2316,7 +2328,10 @@
   "email_main": "animalservices@midlandtexas.gov",
   "source_list": "shelter website",
   "phone": "(432) 685-7420",
-  "events": []
+  "events": [],
+  "programs_url": "https://www.midlandtexas.gov/1512/Doggy-Day-Out",
+  "contact_url": "https://www.midlandtexas.gov/404/Animal-Services",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2436,7 +2451,12 @@
   "email_program": "FosterAPet@leaguecitytx.gov",
   "email_main": "LCACvolunteer@LeagueCityTX.gov",
   "source_list": "shelter website",
-  "phone": "(281) 554-1377"
+  "phone": "(281) 554-1377",
+  "events_url": "https://www.leaguecity.com/calendar.aspx?CID=75",
+  "programs_url": "https://www.leaguecity.com/3906/Foster",
+  "contact_url": "https://www.leaguecity.com/3926/Contact-Us",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -2451,7 +2471,11 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(409) 948-2485",
+  "programs_url": "https://www.gchd.org/animal-services/volunteering-at-the-arc",
+  "events": [],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -3055,7 +3079,11 @@
     "place": "SPCA of East Texas Adoption Center, 3245 W. Grande Blvd, Tyler"
    }
   ],
-  "phone": "(903) 596-7722"
+  "phone": "(903) 596-7722",
+  "events_url": "https://spcaeasttx.com/events-calendar/",
+  "programs_url": "https://spcaeasttx.com/foster/",
+  "contact_url": "https://spcaeasttx.com/contact-info/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -3979,7 +4007,10 @@
   "email_main": "animalshelter@collincountytx.gov",
   "source_list": "government page",
   "phone": "(972) 547-7292",
-  "events": []
+  "events": [],
+  "programs_url": "https://apps.collincountytx.gov/Forms/DogDayOutApp-Prod",
+  "contact_url": "https://www.collincountytx.gov/services/animal-services",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
@@ -5386,7 +5417,11 @@
   "email_program": "",
   "email_main": "info@secondchancespca.org",
   "source_list": "shelter website",
-  "events": []
+  "events": [],
+  "events_url": "https://secondchancespca.org/events/",
+  "programs_url": "https://secondchancespca.org/become-a-foster/",
+  "contact_url": "https://secondchancespca.org/contact/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "TX",
