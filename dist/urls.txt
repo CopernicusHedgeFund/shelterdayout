@@ -501,6 +501,7 @@ https://shelterdayout.com/cities/silverdale-wa/
 https://shelterdayout.com/cities/simi-valley-ca/
 https://shelterdayout.com/cities/sioux-falls-sd/
 https://shelterdayout.com/cities/slinger-wi/
+https://shelterdayout.com/cities/sonoma-ca/
 https://shelterdayout.com/cities/south-burlington-vt/
 https://shelterdayout.com/cities/south-elgin-il/
 https://shelterdayout.com/cities/south-haven-mi/
@@ -582,6 +583,7 @@ https://shelterdayout.com/cities/west-valley-city-ut/
 https://shelterdayout.com/cities/westbrook-me/
 https://shelterdayout.com/cities/westfield-ny/
 https://shelterdayout.com/cities/westland-mi/
+https://shelterdayout.com/cities/westminster-ca/
 https://shelterdayout.com/cities/westminster-md/
 https://shelterdayout.com/cities/wheaton-il/
 https://shelterdayout.com/cities/whitewater-wi/

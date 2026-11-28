@@ -1532,7 +1532,9 @@
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://www.contracosta.ca.gov/830/Opportunities",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -2301,7 +2303,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(925) 608-8400"
+  "phone": "(925) 608-8400",
+  "programs_url": "https://www.contracosta.ca.gov/830/Opportunities",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -3339,16 +3343,19 @@
   "state": "CA",
   "city": "Sonoma",
   "org": "Pets Lifeline",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://www.petslifeline.org/visiting-the-shelter",
-  "notes": "",
+  "program": "Doggy Day Out",
+  "status": "Open to public",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://www.petslifeline.org/doggydayout",
+  "notes": "Ages 18+ (or with an adult) book online with 24 hours' notice; pick up at 10:30am, return by 3pm, with a backpack of supplies.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "info@petslifeline.org",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "phone": "(707) 996-4577",
+  "programs_url": "https://www.petslifeline.org/volunteer",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -3493,7 +3500,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(530) 582-2484"
+  "phone": "(530) 582-2484",
+  "programs_url": "https://hstt.org/how-to-help/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -3673,17 +3682,19 @@
   "state": "CA",
   "city": "Westminster",
   "org": "WAGS Pet Adoption",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "http://www.wagspetadoption.org/",
-  "notes": "",
+  "program": "Doggie Day Explorer",
+  "status": "Volunteers only",
+  "animals": "Dogs",
+  "offers": "Day trips",
+  "url": "https://wagspetadoption.org/volunteer/doggie-day-explorer-wags-walkers/",
+  "notes": "Watch the orientation video and apply, then take a WAGS dog out for a few hours or the whole day (Tue-Sun, 1-5pm pickup); no dog parks or other pets.",
   "checked": "November 2026",
-  "email_program": "",
+  "email_program": "info@wagspetadoption.org",
   "email_main": "info@wagspetadoption.org",
   "source_list": "shelter website",
-  "phone": "(714) 887-6156"
+  "phone": "(714) 887-6156",
+  "programs_url": "https://wagspetadoption.org/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -4750,12 +4761,14 @@
   "animals": "Dogs and cats",
   "offers": "",
   "url": "https://hstt.org/south-lake-tahoe",
-  "phone": "",
+  "phone": "(530) 542-2857",
   "notes": "adoption-facility details need a follow-up check.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "",
-  "source_list": "shelter website"
+  "source_list": "shelter website",
+  "programs_url": "https://hstt.org/how-to-help/volunteer/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
