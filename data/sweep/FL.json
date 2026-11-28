@@ -541,14 +541,7 @@
   "phone": "(904) 630-2489",
   "source_list": "OpenStreetMap contributors (ODbL)",
   "osm": "way/493862652",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Friday, Bright Futures! shelter adoption event (12pm-8pm)",
-    "url": "https://www.jacksonville.gov/departments/office-of-administrative-services/animal-care-and-protective-services/upcoming-events/black-friday",
-    "place": "ACPS, 2020 Forest St, Jacksonville"
-   }
-  ]
+  "events": []
  },
  {
   "state": "FL",
@@ -664,12 +657,6 @@
   "osm": "way/714199318",
   "events": [
    {
-    "date": "2026-11-27",
-    "title": "Black Friday Adoption Event ($100 adoption fee for black dogs and puppies)",
-    "url": "https://bdrr.org/event-calendar/ftkf3kyrybfjbep8hssehayeb5bkgl",
-    "place": "Big Dog Ranch Rescue, 14444 Okeechobee Blvd, Loxahatchee Groves"
-   },
-   {
     "date": "2026-12-17",
     "title": "BZB Barn Pop Up (shopping/fundraiser with adoptable dogs)",
     "url": "https://www.bdrr.org/event-details/bzb-barn-pop-up",
@@ -729,13 +716,7 @@
   "phone": "(561) 686-3663",
   "source_list": "shelter website",
   "osm": "way/1209875672",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black FURiday Adoption Event",
-    "url": "https://peggyadams.org/events/black-furiday-adoption-event/"
-   }
-  ]
+  "events": []
  },
  {
   "state": "FL",
@@ -2301,14 +2282,7 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Black Furrday adoption event",
-    "url": "https://humanebroward.com/event/black-furrday-2026/",
-    "place": "Humane Society of Broward County, 2070 Griffin Road, Fort Lauderdale"
-   }
-  ],
+  "events": [],
   "phone": "(954) 989-3977"
  },
  {
