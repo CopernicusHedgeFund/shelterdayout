@@ -208,5 +208,50 @@
   "lon": null,
   "src": "https://twincitiesvet.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "AK",
+  "name": "Kodiak Veterinary Clinic",
+  "city": "Kodiak",
+  "street": "1950 Mill Bay Rd.",
+  "zip": "99615",
+  "phone": "(907) 486-5418",
+  "website": "https://www.kodiakvet.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.kodiakvet.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "AK",
+  "name": "Tongass Veterinary Services",
+  "city": "Juneau",
+  "street": "2789 Sherwood Lane",
+  "zip": "99801",
+  "phone": "(907) 209-8855",
+  "website": "https://tongassvet.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://tongassvet.com/",
+  "checked": "November 2026"
+ },
+ {
+  "state": "AK",
+  "name": "Summit Veterinary Services",
+  "city": "Juneau",
+  "street": "8231 Glacier Highway",
+  "zip": "99801",
+  "phone": "(907) 500-7410",
+  "website": "https://www.summit-vet-alaska.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.summit-vet-alaska.com/",
+  "checked": "November 2026"
  }
 ]

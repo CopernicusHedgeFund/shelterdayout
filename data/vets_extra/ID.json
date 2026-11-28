@@ -283,5 +283,20 @@
   "lon": null,
   "src": "https://www.adaanimal.com/",
   "checked": "November 2026"
+ },
+ {
+  "state": "ID",
+  "name": "Valley View Veterinary Clinic",
+  "city": "Twin Falls",
+  "street": "2355 Beryl Avenue",
+  "zip": "83301",
+  "phone": "(208) 734-7966",
+  "website": "https://www.valleyviewvettwinfalls.com/",
+  "emergency": "",
+  "operator_type": "",
+  "lat": null,
+  "lon": null,
+  "src": "https://www.valleyviewvettwinfalls.com/",
+  "checked": "November 2026"
  }
 ]
