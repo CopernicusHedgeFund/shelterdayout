@@ -405,7 +405,7 @@ document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!
         others = " · ".join(f'<a href="/events/{o}/">{mname(o)}</a>' for o in months if o != mo)
         p = f"/events/{mo}/"
         mld = "".join(f'<script type="application/ld+json">{json.dumps(event_ld(r, e))}</script>' for _, r, e in mev[:300])
-        body = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/events/">Adoption events</a> / {mname(mo)}</div>
+        mbody = f"""<div class="crumbs"><a href="/">Home</a> / <a href="/events/">Adoption events</a> / {mname(mo)}</div>
 <h1>Pet adoption events in {mname(mo)}</h1>
 <p class="lede">{len(mev):,} adoption day{"s" if len(mev) != 1 else ""}, open houses and fee-waived events at animal shelters in {mname(mo)}, by state. Dates come from each shelter's own website; confirm with the shelter before you go.</p>
 {items}
@@ -413,9 +413,9 @@ document.querySelectorAll('.evlist li').forEach(function(li){li.style.display=(!
 <p>Planning to adopt? Read <a href="/questions-to-ask-before-adopting/">questions to ask before adopting</a> and the <a href="/adoption-checklist/">adoption checklist</a>.</p>"""
         write(p, page(f"Pet Adoption Events in {mname(mo)}: {len(mev):,} Dates Nationwide | {BRAND}",
             f"Dog and cat adoption events in {mname(mo)}: {len(mev):,} adoption days, open houses and fee-waived events at shelters nationwide, listed by state.",
-            body, p, mld + crumbs_ld([("Home", "/"), ("Adoption events", "/events/"), (mname(mo), p)])))
+            mbody, p, mld + crumbs_ld([("Home", "/"), ("Adoption events", "/events/"), (mname(mo), p)])))
     if months:
-        groups = '<p>By month: ' + " · ".join(f'<a href="/events/{o}/">{mname(o)}</a>' for o in months) + '</p>' + groups
+        body = body.replace(groups, '<p>By month: ' + " · ".join(f'<a href="/events/{o}/">{mname(o)}</a>' for o in months) + '</p>' + groups, 1)
     write("/events/", page(f"Pet Adoption Events Near Me: {len(allev):,} Upcoming Dates | {BRAND}",
         f"Dog and pet adoption events near you: adoption days, open houses and fee-waived events at animal shelters nationwide. {len(allev):,} dates, updated monthly.",
         body, "/events/", ld + crumbs_ld([("Home", "/"), ("Adoption events", "/events/")])))
