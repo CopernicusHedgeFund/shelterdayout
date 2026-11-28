@@ -2385,8 +2385,15 @@
     "title": "Black Cat Friday: Feline Adoption Fees Waived",
     "url": "https://valleyhumane.org/events/black-cat-friday-cat-adoption/2026-11-28/",
     "place": "Valley Humane Society, 3670 Nevada St, Pleasanton"
+   },
+   {
+    "date": "2026-12-05",
+    "title": "Dog Adoptions at Pleasanton Farmers' Market (9am-1pm)",
+    "url": "https://valleyhumane.org/events/dog-adoptions-at-pleasanton-farmers-market/2026-12-05/",
+    "place": "Pleasanton Farmers' Market"
    }
-  ]
+  ],
+  "checked_on": "2026-11-28"
  },
  {
   "state": "CA",
@@ -3678,7 +3685,127 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(925) 256-1273"
+  "phone": "(925) 256-1273",
+  "events": [
+   {
+    "date": "2026-12-05",
+    "title": "Mobile Adoptions at Woof Gang Walnut Creek (11am-2pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-woof-gang-walnut-creek-2/",
+    "place": "Woof Gang, Walnut Creek"
+   },
+   {
+    "date": "2026-12-07",
+    "title": "Mobile Adoptions at Macy's Walnut Creek (1-4pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-macys-walnut-creek/",
+    "place": "Macy's, Walnut Creek"
+   },
+   {
+    "date": "2026-12-08",
+    "title": "Mobile Adoptions at Macy's Walnut Creek (1-4pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-macys-walnut-creek-2/",
+    "place": "Macy's, Walnut Creek"
+   },
+   {
+    "date": "2026-12-09",
+    "title": "Mobile Adoptions at Macy's Walnut Creek (1-4pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-macys-walnut-creek-3/",
+    "place": "Macy's, Walnut Creek"
+   },
+   {
+    "date": "2026-12-10",
+    "title": "Mobile Adoptions at Macy's Walnut Creek (1-4pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-macys-walnut-creek-4/",
+    "place": "Macy's, Walnut Creek"
+   },
+   {
+    "date": "2026-12-11",
+    "title": "Mobile Adoptions at Macy's Walnut Creek (1-4pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-macys-walnut-creek-5/",
+    "place": "Macy's, Walnut Creek"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Mobile Adoptions at the Diablo Valley Farmers Market (9-11am)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-the-diablo-valley-farmers-market-6/",
+    "place": "Diablo Valley Farmers Market"
+   },
+   {
+    "date": "2026-12-12",
+    "title": "Chewy Claus Free Adoptions",
+    "url": "https://joybound.org/event/free-adoptions-for-chewy-claus/",
+    "place": "Joybound People & Pets, Walnut Creek"
+   },
+   {
+    "date": "2026-12-13",
+    "title": "Mobile Adoptions at Head West Marketplace (11am-2pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-head-west-marketplace-6/",
+    "place": "Head West Marketplace, Walnut Creek"
+   },
+   {
+    "date": "2026-12-18",
+    "title": "Mobile Adoptions at the Veranda Shopping Center (1-4pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-the-veranda-shopping-center-9/",
+    "place": "The Veranda Shopping Center"
+   },
+   {
+    "date": "2026-12-19",
+    "title": "Mobile Adoptions at the Streets of Brentwood (11am-2pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-the-streets-of-brentwood-4/",
+    "place": "The Streets of Brentwood"
+   },
+   {
+    "date": "2027-01-02",
+    "end": "2027-01-03",
+    "title": "No Fee, All Love Adoption Promotion",
+    "url": "https://joybound.org/event/no-fees-all-love-adoption-promotion/",
+    "place": "Joybound People & Pets, Walnut Creek"
+   },
+   {
+    "date": "2027-01-03",
+    "title": "Mobile Adoptions at Ashley Furniture (12-3pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-ashley-furniture/",
+    "place": "Ashley Furniture"
+   },
+   {
+    "date": "2027-01-09",
+    "title": "Mobile Adoptions at Rooted Coffee Co. Pleasant Hill (10am-1pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-rooted-coffee-co-pleasant-hill-2/",
+    "place": "Rooted Coffee Co., Pleasant Hill"
+   },
+   {
+    "date": "2027-01-10",
+    "title": "Mobile Adoptions at Gold Society Piercing (12-3pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-gold-society-piercing/",
+    "place": "Gold Society Piercing"
+   },
+   {
+    "date": "2027-01-17",
+    "title": "Mobile Adoptions at Canyon Club Brewery Danville (12-3pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-canyon-club-brewery-danville/",
+    "place": "Canyon Club Brewery, Danville"
+   },
+   {
+    "date": "2027-02-06",
+    "title": "Unleash the LOVE: Festival & Adopt-a-thon (10am-3pm)",
+    "url": "https://joybound.org/event/unleash-the-love-2027/",
+    "place": "Joybound People & Pets"
+   },
+   {
+    "date": "2027-02-13",
+    "title": "Mobile Adoptions at Canyon Club Brewery Moraga (12-3pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-canyon-club-brewery-moraga/",
+    "place": "Canyon Club Brewery, Moraga"
+   },
+   {
+    "date": "2027-02-27",
+    "title": "Mobile Adoptions at Road Runner Sports (11am-2pm)",
+    "url": "https://joybound.org/event/mobile-adoptions-at-road-runner-sports/",
+    "place": "Road Runner Sports"
+   }
+  ],
+  "checked_on": "2026-11-28",
+  "events_url": "https://joybound.org/adopt/adoption-events/",
+  "programs_url": "https://joybound.org/get-involved/foster/"
  },
  {
   "state": "CA",
@@ -3809,6 +3936,24 @@
   "org": "Orange Cove Animal Shelter (Orange Cove Police Dept. Animal Control)",
   "url": "https://cityoforangecove.com/orange-cove-police-department-animal-control/",
   "contact_url": "https://cityoforangecove.com/contact-us/"
+ },
+ {
+  "state": "CA",
+  "program": "Cat lounge visits",
+  "status": "Open to public",
+  "animals": "Cats",
+  "offers": "Cat lounge visits",
+  "notes": "Cat lounge and adoption center at 3000 Geary Blvd.; book a 30- or 60-minute visit online or walk in at non-peak times.",
+  "checked": "November 2026",
+  "phone": "",
+  "email_program": "",
+  "email_main": "info@whiskerwoodhaven.com",
+  "source_list": "shelter website",
+  "events": [],
+  "checked_on": "2026-11-28",
+  "city": "San Francisco",
+  "org": "Whiskerwood Haven",
+  "url": "https://www.whiskerwoodhaven.com/"
  },
  {
   "state": "CA",
