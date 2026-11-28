@@ -574,7 +574,10 @@
     "url": "https://www.darlingtonhumane.org/events/",
     "place": "580 East Washington Street, Hartsville, SC"
    }
-  ]
+  ],
+  "events_url": "https://www.darlingtonhumane.org/events",
+  "programs_url": "https://www.darlingtonhumane.org/events",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -590,15 +593,12 @@
   "email_program": "",
   "email_main": "adoptions@hhhumane.org",
   "source_list": "shelter website",
-  "events": [
-   {
-    "date": "2026-11-27",
-    "title": "Pawsitively Thankful Dog Adoption Event",
-    "url": "https://hhhumane.org/event-list/",
-    "place": "Captain Woody's, Hilton Head Island"
-   }
-  ],
-  "phone": "(843) 681-8686"
+  "events": [],
+  "phone": "(843) 681-8686",
+  "events_url": "https://hhhumane.org/event-list/",
+  "programs_url": "https://hhhumane.org/how-to-volunteer-form/",
+  "contact_url": "https://hhhumane.org/where-to-fund-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -614,7 +614,11 @@
   "email_program": "",
   "email_main": "info@halliehill.com",
   "source_list": "shelter website",
-  "phone": null
+  "phone": null,
+  "events_url": "https://www.halliehill.com/fundraisers-events/",
+  "programs_url": "https://www.halliehill.com/volunteer/",
+  "contact_url": "https://www.halliehill.com/contact-us/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -647,7 +651,10 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(803) 286-8103"
+  "phone": "(803) 286-8103",
+  "programs_url": "https://www.lancastercountysc.gov/172/Foster-or-Volunteer",
+  "contact_url": "https://www.lancastercountysc.gov/633/Contact-the-Animal-Shelter",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -673,13 +680,16 @@
   "status": "No program yet",
   "animals": "Dogs and cats",
   "offers": "",
-  "url": "https://www.lex-co.sc.gov/animal-services",
+  "url": "https://lex-co.sc.gov/departments/animal-services",
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "animalservices@lexingtoncounty.sc.gov",
   "source_list": "shelter website",
-  "phone": "(803) 785-8149"
+  "phone": "(803) 785-8149",
+  "programs_url": "https://lex-co.sc.gov/departments/animal-services",
+  "contact_url": "https://lex-co.sc.gov/contact",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -695,23 +705,31 @@
   "email_program": "",
   "email_main": "asheltermgr@ftc-i.net",
   "source_list": "shelter website",
-  "phone": "(803) 473-7075"
+  "phone": "(803) 473-7075",
+  "events_url": "https://www.asecondchanceanimalshelter.com/blank-6",
+  "programs_url": "https://www.asecondchanceanimalshelter.com/blank-5",
+  "contact_url": "https://www.asecondchanceanimalshelter.com/blank-4",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
   "city": "McCormick",
   "org": "Humane Society of McCormick County",
-  "program": "No day-out program yet",
-  "status": "No program yet",
-  "animals": "Dogs and cats",
-  "offers": "",
-  "url": "https://sites.google.com/hsmcsc.org/default",
-  "notes": "",
+  "program": "Reading Buddies",
+  "status": "Volunteers only",
+  "animals": "Cats",
+  "offers": "Reading to cats",
+  "url": "https://www.hsmcsc.org/get-involved/education/reading-buddies",
+  "notes": "Pre-K to 12th-grade public school students read to the shelter cats and kittens after a Reading Buddies 101 training on cat body language and check-in rules.",
   "checked": "November 2026",
   "email_program": "",
   "email_main": "info@hsmcsc.org",
   "source_list": "shelter website",
-  "phone": null
+  "phone": "(864) 391-2349",
+  "events_url": "https://www.hsmcsc.org/hsmc/news-and-events",
+  "programs_url": "https://www.hsmcsc.org/get-involved/education/reading-buddies",
+  "contact_url": "https://www.hsmcsc.org/hsmc/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -727,7 +745,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": "(843) 719-5050"
+  "phone": "(843) 719-5050",
+  "programs_url": "https://animalcenter.berkeleycountysc.gov/foster/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -743,7 +763,10 @@
   "email_program": "",
   "email_main": "marioncountyanimalshelter@marionsc.org",
   "source_list": "shelter website",
-  "phone": "(843) 250-1413"
+  "phone": "(843) 250-1413",
+  "programs_url": "https://sosmarionsc.com/f/come-volunteer",
+  "contact_url": "https://sosmarionsc.com/contact-us",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -757,9 +780,13 @@
   "notes": "",
   "checked": "November 2026",
   "email_program": "",
-  "email_main": "",
+  "email_main": "grandstrandhumanesociety@gmail.com",
   "source_list": "shelter website",
-  "phone": "(843) 457-3139"
+  "phone": "(843) 457-3139",
+  "events_url": "https://www.grandstrandhumanesociety.com/category/adoption-event/",
+  "programs_url": "https://www.grandstrandhumanesociety.com/how-you-can-help/volunteer/",
+  "contact_url": "https://www.grandstrandhumanesociety.com/about-us/contacts/",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
@@ -775,7 +802,9 @@
   "email_program": "",
   "email_main": "",
   "source_list": "shelter website",
-  "phone": null
+  "phone": "(803) 321-2185",
+  "contact_url": "https://www.newberrycounty.gov/animal-control",
+  "checked_on": "2026-11-28"
  },
  {
   "state": "SC",
